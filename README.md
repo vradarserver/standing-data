@@ -20,8 +20,7 @@ the database. Mass edits of text files could be harder to review.
 Also I would have to write something to copy the changes from the text files
 to the SDM database.
 
-For the time being I'm going to leave pull requests turned off for this
-repository.
+For the time being pull requests will be declined for this repository.
 
 ## Aircraft Lookup Data
 
