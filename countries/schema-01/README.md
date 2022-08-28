@@ -17,8 +17,8 @@ The first row contains column headings.
 
 There is one row for each country.
 
-| Ordinal | Heading   Type    | Meaning |
-| ---     | ---       ---     | --- |
+| Ordinal | Heading  | Type   | Meaning |
+| ---     | ---      | ---    | --- |
 | 0       | `ISO`    | string | The ISO2 identifier of the country. |
 | 1       | `Name`   | string | The name of this country. |
 
