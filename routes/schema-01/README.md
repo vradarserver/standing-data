@@ -7,7 +7,7 @@ the airline's 3 character alphabetical code followed by a number of up to
 four digits. The number can have either one or two characters at the end.
 
 Private aircraft, and aircraft with no filed flight plan, use their registration
-as a callsign. Virtual Radar Server does not try to resolve routes for these.
+as a callsign. The SDM site does not accept routes for registration callsigns.
 
 The callsign transmitted by ADS-B is typically entered into the aircraft's
 systems by a pilot, which can lead to inconsistencies.
@@ -26,16 +26,16 @@ using a regular expression like this:
 
 That will allow for either an ICAO or IATA code and a number of any length.
 
-If the pilot had entered their airline's IATA code then this is swapped out
-for the ICAO. If an airline has both an ICAO and an IATA code then the repository
-will only show callsigns against the airline's ICAO.
+If the pilot had entered their airline's IATA code then this is swapped out for the
+ICAO (unless the airline has no ICAO code). If an airline has both an ICAO and an
+IATA code then the repository will only show callsigns against the airline's ICAO.
 
 The leading zeros are then stripped from the number. However, if this leads
 to a number that is either empty, or just letters, then a single zero is added
 back to the start of the number.
 
 Finally the number is checked for validity. After trimming it cannot be longer
-than four characters. Either the last or the last two characters can be alphabetical.
+than four characters. Either the last or the last two characters can be letters.
 If "n" is a digit and "A" is a letter then all possible valid combinations for the
 number are:
 
