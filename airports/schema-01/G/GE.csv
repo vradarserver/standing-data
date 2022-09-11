@@ -1,0 +1,24 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GE00,Morris Seaplane Base,GE00,,Evans,US,33.609699,-82.135803,102
+GE01,Christians Folly Airport,GE01,,Naylor,US,30.919001,-83.068802,208
+GE02,Gordon Hospital Heliport,GE02,,Calhoun,US,34.510899,-84.926300,737
+GE03,Lanier Heliport,GE03,,Cumming,US,34.168900,-84.171097,1225
+GE04,Mclendon Field,GE04,,Mulberry Grove,US,32.666944,-84.965556,650
+GE05,Gibson Field,GE05,,Lafayette,US,34.615601,-85.343102,750
+GE11,Hogjowl Airport,GE11,,Layfayette,US,34.605801,-85.461899,1790
+GE12,Richter Airpark,GE12,,Ashburn,US,31.748600,-83.573601,357
+GE14,Elite Helicopters Heliport,GE14,,Ocilla,US,31.518333,-83.132500,325
+GE22,Graham Heliport,GE22,,East Dublin,US,32.528900,-82.821701,237
+GE23,Winge Farms Airport,GE23,,Lyons,US,32.193600,-82.290604,195
+GE24,Se Georgia Health System-Brunswick Heliport,GE24,,Brunswick,US,31.175301,-81.485298,33
+GE25,Hutto Farm Airport,GE25,,Fort Valley,US,32.683300,-83.856903,620
+GE26,Duke Strip 2,GE26,,Dublin,US,32.381667,-83.059722,340
+GE27,Smith Field,GE27,,Byron,US,32.602200,-83.754204,475
+GE28,Emory Johns Creek Hospital Heliport,GE28,,Duluth,US,34.067501,-84.177498,1060
+GE30,Sandy Hill Airport,GE30,,Waynesboro,US,33.221100,-81.995300,310
+GE33,River Bend Airport,GE33,,Locust Grove,US,33.304444,-84.136667,718
+GE34,Stone Mountain Park Public Safety Heliport,GE34,,Stone Mountain,US,33.818889,-84.150556,895
+GE35,Southern Oaks Airport,GE35,,Bostwick,US,33.731389,-83.469722,121
+GE99,Heaven's Landing Airport,GE99,,Clayton,US,34.914398,-83.459702,2724
+GECE,Ceuta Heliport,GECE,JCU,Ceuta,ES,35.892799,-5.306390,8
+GEML,Melilla Airport,GEML,MLN,Melilla Island,ES,35.279800,-2.956260,156

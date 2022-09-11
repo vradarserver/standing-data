@@ -1,0 +1,13 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+UG0U,Gudauta Air Base,UG0U,,Gudauta,GE,43.104000,40.579300,79
+UG11,Dollyar Air Base,UG11,,Dollyar,AZ,40.887600,45.957001,1099
+UG22,Tbilisi Marneuli Air Base,UG22,,Tbilisi,GE,41.459202,44.783199,1305
+UG24,Tbilisi Soganlug Air Base,UG24,,Tbilisi,GE,41.649200,44.936401,1250
+UG25,Telavi Kurdgelauri Airport,UG25,,Telavi,GE,41.953400,45.507999,1489
+UG26,Kutaisi West Airport,UG26,,Kutaisi,GE,42.248600,42.624699,384
+UG27,Vaziani Air Base,UG27,,Tbilisi,GE,41.627998,45.030800,1460
+UG28,Bolshiye Shiraki Air Base,UG28,,Bolshiye Shiraki,GE,41.379501,46.367298,1795
+UGKO,Kopitnari Airport,UGKO,KUT,Kutaisi,GE,42.176701,42.482601,223
+UGSB,Batumi International Airport,UGSB,BUS,Batumi,GE,41.610298,41.599701,105
+UGSS,Sukhumi Dranda Airport,UGSS,SUI,Sukhumi,GE,42.858200,41.128101,53
+UGTB,Tbilisi International Airport,UGTB,TBS,Tbilisi,GE,41.669201,44.954700,1624

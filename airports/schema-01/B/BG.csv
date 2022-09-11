@@ -1,0 +1,60 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+BGAA,Aasiaat Airport,BGAA,JEG,Aasiaat,GL,68.721802,-52.784698,74
+BGAG,Aappilattoq (Qaasuitsup) Heliport,BGAG,,Qaasuitsup,GL,72.887030,-55.596287,42
+BGAM,Tasiilaq Heliport,BGAM,AGM,Tasiilaq,GL,65.612296,-37.618335,24
+BGAP,Alluitsup Paa Heliport,BGAP,LLU,Alluitsup Paa,GL,60.462597,-45.565058,89
+BGAQ,Aappilattoq (Kujalleq) Heliport,BGAQ,QUV,Nanortalik,GL,60.148357,-44.286919,30
+BGAT,Attu Heliport,BGAT,QGQ,Attu,GL,67.940663,-53.621870,32
+BGBW,Narsarsuaq Airport,BGBW,UAK,Narsarsuaq,GL,61.160500,-45.425999,112
+BGCH,Qasigiannguit Heliport,BGCH,JCH,Qasigiannguit,GL,68.822816,-51.173447,70
+BGCO,Neerlerit Inaat Airport,BGCO,CNP,Neerlerit Inaat,GL,70.743103,-22.650499,45
+BGET,Eqalugaarsuit Heliport,BGET,QFG,Eqalugaarsuit,GL,60.619720,-45.914062,9
+BGFD,Narsaq Kujalleq Heliport,BGFD,QFN,Narsaq Kujalleq,GL,60.004694,-44.656935,44
+BGGD,Kangilinnguit Heliport,BGGD,,Kangilinnguit,GL,61.221478,-48.110965,115
+BGGH,Godthaab / Nuuk Airport,BGGH,GOH,Nuuk,GL,64.190903,-51.678101,283
+BGGN,Qeqertarsuaq Heliport,BGGN,JGO,Qeqertarsuaq Airport,GL,69.251182,-53.514876,9
+BGIA,Ikerasak Heliport,BGIA,,Ikerasak,GL,70.498145,-51.303084,66
+BGIG,Iginniarfik,BGIG,QFI,Iginniarfik,GL,68.147226,-53.173528,50
+BGIK,Ikerassaarsuk Heliport,BGIK,QRY,Ikerassaarsuk,GL,68.140881,-53.441459,165
+BGIL,Ilimanaq Heliport,BGIL,XIQ,Ilimanaq,GL,69.080915,-51.114315,52
+BGIN,Innarsuit Heliport,BGIN,,Innarsuit,GL,73.199895,-56.010817,95
+BGIS,Isortoq Heliport,BGIS,,Isortoq,GL,65.547792,-38.976552,92
+BGIT,Ikamiut Heliport,BGIT,QJI,Ikamiut,GL,68.634253,-51.832262,49
+BGJH,Qaqortoq Heliport,BGJH,JJU,Qaqortoq,GL,60.715684,-46.029919,53
+BGJN,Ilulissat Airport,BGJN,JAV,Ilulissat,GL,69.243202,-51.057098,95
+BGKA,Kangaatsiaq Heliport,BGKA,QPW,Kangaatsiaq,GL,68.312657,-53.460208,17
+BGKK,Kulusuk Airport,BGKK,KUS,Kulusuk,GL,65.573601,-37.123600,117
+BGKL,Upernavik Kujalleq Heliport,BGKL,UPK,Upernavik Kujalleq,GL,72.152743,-55.530986,92
+BGKM,Kuummiut Heliport,BGKM,,Kuummiut,GL,65.863935,-36.997919,89
+BGKQ,Kullorsuaq Heliport,BGKQ,,Kullorsuaq,GL,74.578050,-57.226828,148
+BGKS,Kangersuatsiaq Heliport,BGKS,,Kangersuatsiaq,GL,72.381092,-55.536586,112
+BGKT,Kitsissuarsuit Heliport,BGKT,QJE,Kitsissuarsuit,GL,68.857926,-53.123295,18
+BGLL,Illorsuit Heliport,BGLL,,Illorsuit,GL,71.241944,-53.562877,154
+BGMQ,Maniitsoq Airport,BGMQ,JSU,Maniitsoq,GL,65.412498,-52.939400,91
+BGMV,Mestersvig Airport,BGMV,,Mestersvig,GL,72.236900,-23.931900,52
+BGNK,Niaqornaarsuk Heliport,BGNK,QMK,Niaqornaarsuk,GL,68.236381,-52.852148,152
+BGNL,Nalunaq Heliport,BGNL,,Nalunaq,GL,60.357240,-44.827963,778
+BGNN,Nanortalik Heliport,BGNN,JNN,Nanortalik,GL,60.141884,-45.232977,17
+BGNQ,Nuugaatsiaq Heliport,BGNQ,,Nuugaatsiaq,GL,71.538769,-53.205038,57
+BGNS,Narsaq Heliport,BGNS,JNS,Narsaq,GL,60.917283,-46.059923,83
+BGNT,Niaqornat Heliport,BGNT,,Niaqornat,GL,70.789385,-53.662945,10
+BGNU,Nuussuaq Heliport,BGNU,,Nuussuaq,GL,74.109853,-57.065037,184
+BGQE,Qeqertaq Heliport,BGQE,QQT,Qeqertaq,GL,69.995861,-51.300917,69
+BGQQ,Qaanaaq Airport,BGQQ,NAQ,Qaanaaq,GL,77.488602,-69.388702,51
+BGQT,Qassimiut Heliport,BGQT,,Qassimiut,GL,60.780959,-47.156249,29
+BGSC,Ittoqqortoormiit Heliport,BGSC,OBY,Ittoqqortoormiit,GL,70.488229,-21.971680,238
+BGSF,Kangerlussuaq Airport,BGSF,SFJ,Kangerlussuaq,GL,67.012222,-50.711603,165
+BGSG,Sermiligaaq Heliport,BGSG,,Ittoqqortoormiit,GL,65.905920,-36.378254,33
+BGSI,Siorapaluk Heliport,BGSI,,Siorapaluk,GL,77.786517,-70.638657,102
+BGSQ,Saqqaq Heliport,BGSQ,QUP,Saqqaq,GL,70.011448,-51.932142,38
+BGSS,Sisimiut Airport,BGSS,JHS,Sisimiut,GL,66.951302,-53.729301,33
+BGST,Saattut Heliport,BGST,,Saattut,GL,70.811172,-51.631290,131
+BGSV,Savissivik Heliport,BGSV,,Savissivik,GL,76.018613,-65.117683,24
+BGTA,Tasiusaq (Qaasuitsup) Heliport,BGTA,,Upernavik,GL,73.373055,-56.060280,181
+BGTL,Thule Air Base,BGTL,THU,Thule,GL,76.531197,-68.703201,251
+BGTN,Tiniteqilaaq Heliport,BGTN,,Tiniteqilaaq,GL,65.892027,-37.783409,15
+BGTQ,Tasiusaq (Kujalleq) Heliport,BGTQ,,Nanortalik,GL,60.194305,-44.813447,21
+BGUK,Upernavik Airport,BGUK,JUV,Upernavik,GL,72.790199,-56.130600,414
+BGUM,Uummannaq Heliport,BGUM,UMD,Uummannaq,GL,70.680428,-52.111630,50
+BGUQ,Qaarsut Airport,BGUQ,JQA,Uummannaq,GL,70.734200,-52.696201,289
+BGUT,Ukkusissat Heliport,BGUT,,Ukkusissat,GL,71.049438,-51.890016,223

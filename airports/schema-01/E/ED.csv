@@ -1,0 +1,429 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EDAB,Bautzen Airport,EDAB,,Bautzen,DE,51.193611,14.519722,568
+EDAC,Altenburg-Nobitz Airport,EDAC,AOC,Altenburg,DE,50.981945,12.506389,640
+EDAD,Dessau Airport,EDAD,,Dessau,DE,51.831694,12.190962,187
+EDAE,Eisenhüttenstadt Airport,EDAE,,Eisenhüttenstadt,DE,52.197224,14.585556,144
+EDAG,Großrückerswalde Airport,EDAG,,Marienberg,DE,50.644169,13.126389,2198
+EDAH,Heringsdorf Airport,EDAH,HDF,Heringsdorf,DE,53.878700,14.152300,93
+EDAI,Segeletz Airport,EDAI,,Neustadt,DE,52.826668,12.541944,141
+EDAJ,Gera-Leumnitz Airport,EDAJ,,Gera,DE,50.881668,12.135833,1014
+EDAK,Großenhain Airport,EDAK,,Großenhain,DE,51.308056,13.555556,417
+EDAM,Merseburg Airport,EDAM,,Merseburg,DE,51.363609,11.948333,341
+EDAN,Neustadt-Glewe Airport,EDAN,,Neustadt-Glewe,DE,53.359722,11.615278,115
+EDAO,Nordhausen Airport,EDAO,,Nordhausen,DE,51.493057,10.833333,689
+EDAP,Neuhausen Airport,EDAP,,Cottbus,DE,51.684723,14.423056,279
+EDAQ,Halle-Oppin Airport,EDAQ,,Oppin,DE,51.552223,12.053889,348
+EDAR,Pirna-Pratzschwitz Airport,EDAR,,Pirna,DE,50.979168,13.909722,400
+EDAS,Finsterwalde/Heinrichsruh Airport,EDAS,,Finsterwalde,DE,51.634445,13.675556,384
+EDAT,Nardt Airport,EDAT,,Hoyerswerda,DE,51.451111,14.199444,384
+EDAU,Riesa-Göhlis Airport,EDAU,IES,Riesa,DE,51.293610,13.356111,322
+EDAV,Eberswalde-Finow Airport,EDAV,,Eberswalde,DE,52.827221,13.693611,121
+EDAW,Roitzschjora Airport,EDAW,,Roitzschjora,DE,51.577778,12.494444,289
+EDAX,Rechlin-Lärz Airport,EDAX,REB,Lärz,DE,53.306389,12.752222,220
+EDAY,Strausberg Airport,EDAY,,Strausberg,DE,52.580555,13.916667,262
+EDAZ,Schönhagen Airport,EDAZ,,Trebbin,DE,52.203609,13.156389,131
+EDBA,Arnstadt-Alkersleben Airport,EDBA,,Wülfershausen,DE,50.841667,11.069444,1145
+EDBC,Cochstedt Airport,EDBC,CSO,Magdeburg,DE,51.856400,11.420300,594
+EDBD,Emmel Airfield Dedelow Airport,EDBD,,Prenzlau,DE,53.356388,13.783611,213
+EDBE,Brandenburg-Mühlenfeld Airport,EDBE,,Brandenburg an der Havel,DE,52.437500,12.590000,98
+EDBF,Ruppiner Land Airport,EDBF,,Fehrbellin,DE,52.793331,12.760278,138
+EDBG,Burg Airport,EDBG,,Burg,DE,52.241669,11.856111,174
+EDBI,Zwickau Airport,EDBI,,Zwickau,DE,50.701668,12.453889,1050
+EDBJ,Jena-Schöngleina Airport,EDBJ,,Jena,DE,50.915279,11.714444,1247
+EDBK,Kyritz Airport,EDBK,,Kyritz,DE,52.918888,12.425278,131
+EDBL,Laucha Airport,EDBL,,Laucha an der Unstrut,DE,51.245834,11.693333,738
+EDBM,Magdeburg Airport,EDBM,ZMG,Magdeburg,DE,52.073612,11.626389,259
+EDBN,Brandis Airbase,EDBN,,Brandis,DE,51.328383,12.656439,525
+EDBO,Oehna Airport,EDBO,,Zellendorf,DE,51.899723,13.052222,289
+EDBP,Pinnow Airport,EDBP,,Pinnow,DE,53.615276,11.561111,144
+EDBQ,Bronkow Airport,EDBQ,,Bronkow,DE,51.670555,13.960278,423
+EDBR,Rothenburg/Görlitz Airport,EDBR,,Rothenburg/Oberlausitz,DE,51.363335,14.950000,518
+EDBS,Sömmerda-Dermsdorf Airport,EDBS,,Kölleda,DE,51.199165,11.192500,453
+EDBT,Allstedt Airport,EDBT,,Allstedt,DE,51.380554,11.446667,932
+EDBU,Pritzwalk-Sommersberg Airport,EDBU,,Pritzwalk,DE,53.180279,12.185556,289
+EDBV,Stralsund Airport,EDBV,,Stralsund,DE,54.335835,13.043333,49
+EDBW,Werneuchen Airport,EDBW,,Werneuchen,DE,52.631668,13.766944,262
+EDBX,Görlitz Airport,EDBX,,Görlitz,DE,51.158890,14.950278,778
+EDBY,Schmoldow Airport,EDBY,,Schmoldow,DE,53.972221,13.343611,105
+EDBZ,Schwarzheide/Schipkau Airport,EDBZ,,Schwarzheide,DE,51.489723,13.879444,331
+EDCA,Anklam Airport,EDCA,,Anklam,DE,53.832779,13.668611,16
+EDCB,Ballenstedt Airport,EDCB,,Ballenstedt,DE,51.745834,11.229722,535
+EDCD,Cottbus-Drewitz Airport,EDCD,CBU,Cottbus,DE,51.889442,14.531944,272
+EDCE,Eggersdorf Airport,EDCE,,Eggersdorf,DE,52.481667,14.087500,223
+EDCG,Rügen Airport,EDCG,GTI,Rügen,DE,54.383331,13.325556,69
+EDCH,Sprossen Airport,EDCH,,Rehmsdorf,DE,51.043056,12.233333,673
+EDCI,Klix Airport,EDCI,,Bautzen,DE,51.273888,14.506389,486
+EDCJ,Chemnitz/Jahnsdorf Airport,EDCJ,,Chemnitz,DE,50.747501,12.837500,1198
+EDCK,Köthen Airport,EDCK,,Köthen,DE,51.721111,11.952778,305
+EDCL,Klietz/Scharlibbe Airport,EDCL,,Scharlibbe,DE,52.709442,12.073333,95
+EDCM,Kamenz Airport,EDCM,,Kamenz,DE,51.296944,14.127500,495
+EDCO,Obermehler-Schlotheim Airport,EDCO,,Obermehler,DE,51.267776,10.634722,909
+EDCP,Peenemünde Airport,EDCP,PEF,Peenemünde,DE,54.157780,13.774444,7
+EDCQ,Aschersleben Airport,EDCQ,,Aschersleben,DE,51.766945,11.498333,525
+EDCR,Rerik-Zweedorf Airport,EDCR,,Rerik,DE,54.081944,11.649167,30
+EDCS,Saarmund Airport,EDCS,,Saarmund,DE,52.308334,13.100556,174
+EDCT,Taucha Airport,EDCT,,Taucha,DE,51.395000,12.536944,492
+EDCU,Güstrow Airport,EDCU,,Güstrow,DE,53.805279,12.230556,46
+EDCV,Pasewalk Airport,EDCV,,Pasewalk,DE,53.505280,13.948333,72
+EDCW,Wismar Airport,EDCW,,Wismar,DE,53.914444,11.499444,43
+EDCX,Purkshof Airport,EDCX,,Rostock,DE,54.161667,12.248611,66
+EDCY,Spremberg-Welzow Airport,EDCY,,Welzow,DE,51.575558,14.136944,374
+EDDB,Berlin Brandenburg Airport,EDDB,BER,Berlin,DE,52.362220,13.500560,157
+EDDC,Dresden Airport,EDDC,DRS,Dresden,DE,51.132801,13.767200,755
+EDDE,Erfurt Airport,EDDE,ERF,Erfurt,DE,50.979801,10.958100,1036
+EDDF,Frankfurt-am-Main International Airport,EDDF,FRA,Frankfurt-am-Main,DE,50.026402,8.543130,364
+EDDG,Münster Osnabrück Airport,EDDG,FMO,Münster,DE,52.134602,7.684830,160
+EDDH,Hamburg Airport,EDDH,HAM,Hamburg,DE,53.630402,9.988230,53
+EDDI,Berlin-Tempelhof International Airport,EDDI,THF,Berlin,DE,52.473000,13.403900,167
+EDDK,Cologne Bonn Airport,EDDK,CGN,Cologne,DE,50.865898,7.142740,302
+EDDL,Düsseldorf International Airport,EDDL,DUS,Düsseldorf,DE,51.289501,6.766780,147
+EDDM,Munich International Airport,EDDM,MUC,Munich,DE,48.353802,11.786100,1487
+EDDN,Nürnberg Airport,EDDN,NUE,Nürnberg,DE,49.498699,11.066900,1046
+EDDP,Leipzig Halle Airport,EDDP,LEJ,Leipzig,DE,51.432400,12.241600,465
+EDDR,Saarbrücken Airport,EDDR,SCN,Saarbrücken,DE,49.214600,7.109510,1058
+EDDS,Stuttgart Airport,EDDS,STR,Stuttgart,DE,48.689899,9.221960,1276
+EDDT,Berlin-Tegel International Airport,EDDT,TXL,Berlin,DE,52.559700,13.287700,122
+EDDV,Hannover Airport,EDDV,HAJ,Hannover,DE,52.461102,9.685080,183
+EDDW,Bremen Airport,EDDW,BRE,Bremen,DE,53.047501,8.786670,14
+EDEB,Bad Langensalza Airport,EDEB,,Bad Langensalza,DE,51.129166,10.622222,650
+EDEF,Babenhausen Airport,EDEF,,Babenhausen,DE,49.952499,8.968056,928
+EDEG,Gotha-Ost Airport,EDEG,,Gotha,DE,50.970001,10.727778,991
+EDEH,Herrenteich Airport,EDEH,,Hockenheim,DE,49.345001,8.487778,308
+EDEL,Langenlonsheim Airport,EDEL,,Langenlonsheim,DE,49.908333,7.907778,295
+EDEM,Mosenberg Airport,EDEM,,Homburg,DE,51.062778,9.422222,1296
+EDEP,Heppenheim Airport,EDEP,,Heppenheim,DE,49.621944,8.624444,361
+EDEQ,Mühlhausen Airport,EDEQ,,Mühlhausen,DE,51.213055,10.548611,814
+EDER,Wasserkuppe Airport,EDER,,Gersfeld,DE,50.498890,9.953889,2956
+EDEW,Walldürn Airport,EDEW,,Walldürn,DE,49.581669,9.402222,1312
+EDFA,Anspach/Taunus Airport,EDFA,,Anspach,DE,50.288334,8.533889,1102
+EDFB,Reichelsheim Airport,EDFB,,Reichelsheim,DE,50.335835,8.878056,397
+EDFC,Aschaffenburg Airport,EDFC,,Aschaffenburg,DE,49.938889,9.063889,410
+EDFD,Bad Neustadt/Saale-Grasberg Airport,EDFD,,Bad Neustadt a.d.Saale,DE,50.306110,10.226667,997
+EDFE,Frankfurt-Egelsbach Airport,EDFE,QEF,Egelsbach,DE,49.959999,8.645833,384
+EDFG,Gelnhausen Airport,EDFG,,Gelnhausen,DE,50.197224,9.170000,446
+EDFH,Frankfurt-Hahn Airport,EDFH,HHN,Hahn,DE,49.948700,7.263890,1649
+EDFI,Hirzenhain Airport,EDFI,,Hirzenhain,DE,50.787777,8.392778,1706
+EDFJ,Lager Hammelburg Airport,EDFJ,,Hammelburg,DE,50.098610,9.883611,1132
+EDFK,Bad Kissingen Airport,EDFK,,Bad Kissingen,DE,50.210556,10.068889,653
+EDFL,Gießen-Lützellinden Airport,EDFL,,Gießen,DE,50.543888,8.590278,755
+EDFM,Mannheim-City Airport,EDFM,MHG,Mannheim,DE,49.473057,8.514167,308
+EDFN,Marburg-Schönstadt Airport,EDFN,,Marburg,DE,50.874443,8.815000,833
+EDFO,Michelstadt/Odenwald Airport,EDFO,,Michelstadt,DE,49.678612,8.971944,1142
+EDFP,Ober-Mörlen Airport,EDFP,,Ober-Mörlen,DE,50.361942,8.711111,814
+EDFQ,Allendorf/Eder Airport,EDFQ,,Allendorf,DE,51.035000,8.680833,1158
+EDFR,Rothenburg o. d. T. Airport,EDFR,,Rothenburg ob der Tauber,DE,49.388332,10.218056,1309
+EDFS,Schweinfurt-Süd Airport,EDFS,,Schweinfurt,DE,50.010834,10.251111,686
+EDFT,Lauterbach Airport,EDFT,,Lauterbach,DE,50.683334,9.410833,1211
+EDFU,Mainbullau Airport,EDFU,,Miltenberg,DE,49.695000,9.182500,1503
+EDFV,Worms Airport,EDFV,,Worms,DE,49.606945,8.368333,295
+EDFW,Würzburg-Schenkenturm Airport,EDFW,,Würzburg,DE,49.817780,9.897500,991
+EDFX,Hockenheim Airport,EDFX,,Hockenheim,DE,49.325279,8.528611,315
+EDFY,Elz Airport,EDFY,,Limburg an der Lahn,DE,50.426945,8.011111,699
+EDFZ,Mainz-Finthen Airport,EDFZ,QMZ,Mainz,DE,49.967499,8.147222,761
+EDGA,Ailertchen Airport,EDGA,,Ailertchen,DE,50.593056,7.945000,1542
+EDGB,Breitscheid Airport,EDGB,,Breitscheid,DE,50.676388,8.169444,1834
+EDGE,Eisenach-Kindel Airport,EDGE,EIB,Eisenach,DE,50.992779,10.472778,1112
+EDGF,Fulda-Jossa Airport,EDGF,,Fulda,DE,50.475555,9.442500,1558
+EDGH,Hettstadt Airport,EDGH,,Hettstadt,DE,49.798611,9.836667,1050
+EDGI,Ingelfingen-Bühlhof Airport,EDGI,,Ingelfingen,DE,49.321667,9.663056,1375
+EDGJ,Ochsenfurt Airport,EDGJ,,Ochsenfurt,DE,49.673611,10.071389,814
+EDGK,Korbach Airport,EDGK,,Korbach,DE,51.252220,8.873611,1280
+EDGL,Ludwigshafen Airfield,EDGL,,Dannstadt,DE,49.413100,8.351800,318
+EDGM,Mosbach-Lohrbach Airport,EDGM,,Mosbach,DE,49.398888,9.123889,1818
+EDGP,Oppenheim Airport,EDGP,,Oppenheim,DE,49.841667,8.376667,279
+EDGQ,Schameder Airport,EDGQ,,Schameder,DE,51.000278,8.307778,1788
+EDGR,Gießen-Reiskirchen Airport,EDGR,,Gießen,DE,50.566944,8.869722,702
+EDGT,Bottenhorn Airport,EDGT,,Bottenhorn,DE,50.795277,8.458333,1657
+EDGU,Unterschüpf Airport,EDGU,,Unterschüpf,DE,49.515835,9.669444,1155
+EDGW,Wolfhagen „Graner Berg“ Airport,EDGW,,Wolfhagen,DE,51.307220,9.175278,1027
+EDGX,Walldorf Airport,EDGX,,Walldorf,DE,49.303055,8.658889,344
+EDGZ,Weinheim/Bergstraße Airport,EDGZ,,Weinheim,DE,49.567501,8.610556,318
+EDHB,Grube Airport,EDHB,,Grube,DE,54.244446,11.024722,7
+EDHC,Lüchow-Rehbeck Airport,EDHC,,Lüchow,DE,53.016109,11.144444,49
+EDHD,Heilbad Heiligenstadt Airfield,EDHD,,Heilbad Heiligenstadt,DE,51.407550,10.145300,1195
+EDHE,Uetersen/Heist Airport,EDHE,,Uetersen,DE,53.646389,9.704167,23
+EDHF,Itzehoe/Hungriger Wolf Airport,EDHF,,Itzehoe,DE,53.994446,9.578611,89
+EDHG,Lüneburg Airport,EDHG,,Lüneburg,DE,53.248890,10.461667,161
+EDHI,Hamburg-Finkenwerder Airport,EDHI,XFW,Hamburg,DE,53.535278,9.835556,23
+EDHK,Kiel-Holtenau Airport,EDHK,KEL,Kiel,DE,54.379444,10.145278,102
+EDHL,Lübeck Blankensee Airport,EDHL,LBC,Lübeck,DE,53.805401,10.719200,53
+EDHM,Hartenholm Airport,EDHM,,Hasenmoor,DE,53.915001,10.035556,108
+EDHN,Neumünster Airport,EDHN,EUM,Neumünster,DE,54.079445,9.941389,72
+EDHO,Ahrenlohe Airport,EDHO,,Tornesch,DE,53.699722,9.740556,33
+EDHP,Pellworm Airport,EDHP,,Pellworm,DE,54.536388,8.680000,3
+EDHS,Stade Airport,EDHS,,Stade,DE,53.561111,9.499167,62
+EDHU,Lauenbrück Airport,EDHU,,Lauenbrück,DE,53.207500,9.573333,98
+EDHW,Wahlstedt Airport,EDHW,,Wahlstedt,DE,53.969444,10.221667,128
+EDHX,Bad Bramstedt Heliport,EDHX,,Bad Bramstedt,DE,53.942800,9.905500,118
+EDJA,Memmingen Allgau Airport,EDJA,FMM,Memmingen,DE,47.988800,10.239500,2077
+EDJG,Grabenstätt Airfield,EDJG,,Grabenstätt,DE,47.852757,12.550370,1765
+EDKA,Aachen-Merzbrück Airport,EDKA,AAH,Aachen,DE,50.823055,6.186389,623
+EDKB,Bonn-Hangelar Airport,EDKB,BNJ,Bonn,DE,50.768890,7.163333,197
+EDKD,Altena-Hegenscheid Airport,EDKD,,Altena,DE,51.313057,7.704167,1552
+EDKF,Bergneustadt/Auf dem Dümpel Airport,EDKF,,Bergneustadt,DE,51.052223,7.707222,1604
+EDKH,Hünsborn Airport,EDKH,,Freudenberg,DE,50.928612,7.899167,1306
+EDKI,Betzdorf-Kirchen Airport,EDKI,,Betzdorf,DE,50.817223,7.830556,1125
+EDKL,Leverkusen Airport,EDKL,,Leverkusen,DE,51.015278,7.005556,157
+EDKM,Meschede-Schüren Airport,EDKM,,Meschede,DE,51.302776,8.239167,1434
+EDKN,Wipperfürth-Neye Airport,EDKN,,Wipperfürth,DE,51.124168,7.373611,863
+EDKO,Brilon/Hochsauerlandkreis Airport,EDKO,,Brilon,DE,51.402500,8.641667,1509
+EDKP,Plettenberg-Hüinghausen Airport,EDKP,,Plettenberg,DE,51.191944,7.791111,981
+EDKR,Schmallenberg-Rennefeld Airport,EDKR,,Schmallenberg,DE,51.161667,8.262222,1529
+EDKU,Attendorn-Finnentrop Airport,EDKU,,Attendorn,DE,51.145832,7.936667,1040
+EDKV,Dahlemer Binz Airport,EDKV,,Dahlheim,DE,50.405556,6.528889,1896
+EDKW,Werdohl-Küntrop Airport,EDKW,,Werdohl,DE,51.297222,7.818333,1037
+EDKZ,Meinerzhagen Airport,EDKZ,,Meinerzhagen,DE,51.099998,7.600000,1549
+EDLA,Arnsberg-Menden Airport,EDLA,,Neheim-Hüsten,DE,51.483891,7.898333,794
+EDLB,Borkenberge Airport,EDLB,,Dülmen,DE,51.779999,7.288056,157
+EDLC,Kamp-Lintfort Airport,EDLC,,Rheinberg,DE,51.529167,6.536111,85
+EDLD,Dinslaken/Schwarze Heide Airport,EDLD,,Bottrop-Kirchhellen,DE,51.616112,6.865278,217
+EDLF,Grefrath-Niershorst Airport,EDLF,,Grefrath,DE,51.333889,6.359444,105
+EDLG,Goch-Asperden Airport,EDLG,,Goch,DE,51.690834,6.104167,52
+EDLH,Hamm-Lippewiesen Airport,EDLH,,Hamm,DE,51.689720,7.816111,190
+EDLI,Bielefeld Airport,EDLI,BFE,Bielefeld,DE,51.964722,8.544444,433
+EDLJ,Detmold Airport,EDLJ,,Detmold,DE,51.940834,8.904722,650
+EDLK,Krefeld-Egelsberg Airport,EDLK,,Krefeld,DE,51.384998,6.587778,141
+EDLM,Marl-Loemühle Airport,EDLM,ZOJ,Marl,DE,51.647202,7.163330,240
+EDLN,Mönchengladbach Airport,EDLN,MGL,Mönchengladbach,DE,51.230278,6.504444,125
+EDLO,Oerlinghausen Airport,EDLO,,Oerlinghausen,DE,51.932220,8.661667,558
+EDLP,Paderborn Lippstadt Airport,EDLP,PAD,Paderborn,DE,51.614101,8.616320,699
+EDLR,Paderborn-Haxterberg Airport,EDLR,,Paderborn,DE,51.688332,8.775278,801
+EDLS,Stadtlohn-Vreden Airport,EDLS,,Stadtlohn,DE,51.995834,6.840556,157
+EDLT,Münster-Telgte Airport,EDLT,,Münster,DE,51.944443,7.773889,177
+EDLV,Niederrhein Airport,EDLV,NRN,Weeze,DE,51.602402,6.142170,106
+EDLW,Dortmund Airport,EDLW,DTM,Dortmund,DE,51.518299,7.612240,425
+EDLX,Wesel-Römerwardt Airport,EDLX,,Wesel,DE,51.662777,6.595833,72
+EDLY,Borken-Hoxfeld Airport,EDLY,,Borken,DE,51.853333,6.814722,157
+EDLZ,Soest/Bad Sassendorf Airport,EDLZ,,Bad Sassendorf,DE,51.578056,8.214722,394
+EDMA,Augsburg Airport,EDMA,AGB,Augsburg,DE,48.425278,10.931667,1516
+EDMB,Biberach a.d. Riß Airport,EDMB,,Biberach an der Riß,DE,48.111111,9.762778,1903
+EDMC,Blaubeuren Airport,EDMC,,Blaubeuren,DE,48.419724,9.798333,2218
+EDMD,Dachau-Gröbenried Airport,EDMD,,Dachau,DE,48.228333,11.423056,1608
+EDME,Eggenfelden Airport,EDME,,Eggenfelden,DE,48.396111,12.723611,1342
+EDMF,Fürstenzell Airport,EDMF,,Fürstenzell,DE,48.518055,13.345833,1345
+EDMG,Günzburg-Donauried Airport,EDMG,,Günzburg,DE,48.486668,10.283333,1457
+EDMH,Gunzenhausen-Reutberg Airport,EDMH,,Gunzenhausen,DE,49.111942,10.780833,1591
+EDMI,Illertissen Airport,EDMI,,Illertissen,DE,48.235001,10.137500,1680
+EDMJ,Jesenwang Airport,EDMJ,,Jesenwang,DE,48.174168,11.125000,1860
+EDMK,Kempten-Durach Airport,EDMK,,Kempten,DE,47.691944,10.338056,2339
+EDML,Landshut Airport,EDML,,Landshut,DE,48.511665,12.033333,1312
+EDMN,Mindelheim-Mattsies Airport,EDMN,,Mindelheim,DE,48.106945,10.525000,1857
+EDMO,Oberpfaffenhofen,EDMO,OBF,Oberpfaffenhofen,DE,48.081364,11.283067,1947
+EDMP,Vilsbiburg Airport,EDMP,,Vilsbiburg,DE,48.426109,12.345278,1450
+EDMQ,Donauwörth-Genderkingen Airport,EDMQ,,Donauwörth,DE,48.702778,10.851111,1312
+EDMS,Straubing Airport,EDMS,RBM,Straubing,DE,48.900833,12.516667,1047
+EDMT,Tannheim Airport,EDMT,,Tannheim,DE,48.009998,10.098611,1903
+EDMU,Gundelfingen Airport,EDMU,,Gundelfingen a.d.Donau,DE,48.569443,10.358889,1447
+EDMV,Vilshofen Airport,EDMV,,Vilshofen,DE,48.634998,13.195556,991
+EDMW,Deggendorf Airport,EDMW,,Deggendorf,DE,48.830276,12.879722,1030
+EDMY,Mühldorf Airport,EDMY,,Mühldorf am Inn,DE,48.279446,12.500556,1325
+EDNA,Ampfing-Waldkraiburg Airport,EDNA,,Ampfing,DE,48.263611,12.411667,1362
+EDNB,Arnbruck Airport,EDNB,,Arnbruck,DE,49.124722,12.985556,1716
+EDNC,Beilngries Airport,EDNC,,Beilngries,DE,49.021389,11.484722,1211
+EDND,Dinkelsbühl-Sinbronn Airport,EDND,,Dinkelsbühl,DE,49.064999,10.401111,1598
+EDNE,Erbach Airport,EDNE,,Erbach,DE,48.342220,9.916111,1558
+EDNG,Giengen/Brenz Airport,EDNG,,Giengen an der Brenz,DE,48.634167,10.216389,1696
+EDNH,Bad Wörishofen-Nord Airport,EDNH,,Bad Wörishofen,DE,48.016388,10.616111,1220
+EDNI,Berching Airport,EDNI,,Berching,DE,49.130554,11.443056,1266
+EDNJ,Neuburg-Egweil Airport,EDNJ,,Neuburg an der Donau,DE,48.781944,11.215278,1345
+EDNK,Kirchdorf/Inn Airport,EDNK,,Kirchdorf am Inn,DE,48.238335,12.976667,1138
+EDNL,Leutkirch-Unterzeil Airport,EDNL,,Leutkirch,DE,47.858891,10.014167,2100
+EDNM,Nittenau-Bruck Airport,EDNM,,Nittenau,DE,49.222500,12.296667,1161
+EDNO,Nördlingen Airport,EDNO,,Nördlingen,DE,48.870556,10.505000,1385
+EDNP,Pfarrkirchen Airport,EDNP,,Pfarrkirchen,DE,48.420277,12.864722,1266
+EDNQ,Bopfingen Airport,EDNQ,,Bopfingen,DE,48.848057,10.333889,2028
+EDNR,Regensburg-Oberhub Airport,EDNR,,Regensburg,DE,49.141945,12.081944,1299
+EDNS,Schwabmünchen Airport,EDNS,,Schwabmünchen,DE,48.179169,10.702778,1804
+EDNT,Treuchtlingen-Bubenheim Airport,EDNT,,Treuchtlingen,DE,48.996113,10.884167,1345
+EDNU,Thannhausen Airport,EDNU,,Thannhausen,DE,48.290001,10.441944,1611
+EDNV,Vogtareuth Airport,EDNV,,Vogtareuth,DE,47.946110,12.204722,1535
+EDNW,Weißenhorn Airport,EDNW,,Weißenhorn,DE,48.289444,10.140278,1644
+EDNX,Oberschleißheim Airfield,EDNX,,Oberschleißheim,DE,48.239445,11.561389,1594
+EDNY,Friedrichshafen Airport,EDNY,FDH,Friedrichshafen,DE,47.671299,9.511490,1367
+EDNZ,Zell-Haidberg Airport,EDNZ,,Zell im Fichtelgebirge,DE,50.136944,11.794444,2083
+EDOA,Auerbach Airport,EDOA,,Auerbach/Vogtl.,DE,50.498890,12.377778,1880
+EDOB,Bad Berka Airport,EDOB,,Bad Berka,DE,50.904446,11.260278,1001
+EDOC,Gardelegen Airport,EDOC,,Gardelegen,DE,52.527222,11.351389,230
+EDOD,Reinsdorf Airport,EDOD,,Reinsdorf,DE,51.900833,13.194444,335
+EDOE,Böhlen Airport,EDOE,,Böhlen,DE,51.213890,12.363611,430
+EDOF,Bad Frankenhausen Airport,EDOF,,Bad Frankenhausen,DE,51.372501,11.141389,761
+EDOH,Langhennersdorf Airport,EDOH,,Freiberg,DE,50.948334,13.261667,1266
+EDOI,Bienenfarm Airport,EDOI,,Nauen,DE,52.661667,12.745833,131
+EDOJ,Lüsse Airport,EDOJ,,Lüsse,DE,52.141109,12.664722,217
+EDOK,Rudolstadt-Groschwitz Airport,EDOK,,Rudolstadt,DE,50.732777,11.236111,1535
+EDOL,Oschersleben Airport,EDOL,FRF,Oschersleben,DE,52.038055,11.205556,344
+EDOM,Klein Mühlingen Airport,EDOM,,Calbe,DE,51.947498,11.769722,171
+EDON,Neuhardenberg Airport,EDON,,Neuhardenberg,DE,52.613056,14.242778,39
+EDOP,Schwerin Parchim,EDOP,SZW,Parchim,DE,53.426997,11.783436,166
+EDOQ,Oschatz Airport,EDOQ,,Oschatz,DE,51.296665,13.078333,502
+EDOR,Stölln-Rhinow Airport,EDOR,,Rhinow,DE,52.740833,12.390000,138
+EDOS,Pennewitz Airport,EDOS,,Pennewitz,DE,50.669445,11.050556,1506
+EDOT,Greiz-Obergrochlitz Airport,EDOT,,Greiz,DE,50.644444,12.176389,1266
+EDOU,Weimar-Umpferstedt Airport,EDOU,,Weimar,DE,50.964722,11.400278,984
+EDOV,Stendal-Borstel Airport,EDOV,,Stendal,DE,52.628887,11.818611,184
+EDOW,Waren-Vielist Airport,EDOW,,Waren,DE,53.568333,12.652778,282
+EDOX,Renneritz Airport,EDOX,,Sandersdorf,DE,51.594166,12.237222,308
+EDOZ,Schönebeck-Zackmünde Airport,EDOZ,,Schönebeck,DE,51.996666,11.790833,167
+EDPA,Aalen-Heidenheim/Elchingen Airport,EDPA,,Aalen,DE,48.777779,10.264722,1916
+EDPB,Bad Ditzenbach Airport,EDPB,,Bad Ditzenbach,DE,48.562778,9.728889,2362
+EDPD,Dingolfing Airport,EDPD,,Dingolfing,DE,48.656944,12.500556,1165
+EDPE,Eichstätt Airport,EDPE,,Eichstätt,DE,48.876945,11.182222,1713
+EDPF,Schwandorf Airport,EDPF,,Schwandorf,DE,49.339722,12.188056,1270
+EDPG,Griesau Airport,EDPG,,Pfatter,DE,48.953888,12.421389,1060
+EDPH,Schwabach-Heidenberg Airport,EDPH,,Schwabach,DE,49.268612,11.009722,1181
+EDPJ,Laichingen Airport,EDPJ,,Laichingen,DE,48.496944,9.640278,2434
+EDPK,Schönberg Airport,EDPK,,Seebruck,DE,48.047779,12.500556,1946
+EDPM,Donzdorf Airport,EDPM,,Donzdorf,DE,48.678055,9.843611,2274
+EDPO,Neumarkt/Obf. Airport,EDPO,,Neumarkt in der Oberpfalz,DE,49.285557,11.443056,1394
+EDPQ,Schmidgaden Airport,EDPQ,,Schmidgaden,DE,49.429443,12.098056,1247
+EDPS,Sonnen Airport,EDPS,,Waldkirchen,DE,48.682777,13.694722,2674
+EDPT,Gerstetten Airport,EDPT,,Gerstetten,DE,48.620277,10.058333,1975
+EDPU,Bartholomä-Amalienhof Airport,EDPU,,Bartholomä,DE,48.746666,10.005000,984
+EDPW,Thalmässing-Waizenhofen Airport,EDPW,,Thalmässing,DE,49.064167,11.209167,1893
+EDPY,Ellwangen Airport,EDPY,,Ellwangen,DE,48.961109,10.236389,1650
+EDQB,Bad Windsheim Airport,EDQB,,Bad Windsheim,DE,49.509998,10.366389,1220
+EDQC,Coburg-Brandensteinsebene Airport,EDQC,,Coburg,DE,50.262501,10.995556,1490
+EDQD,Bayreuth Airport,EDQD,BYU,Bayreuth,DE,49.985001,11.640000,1601
+EDQE,Burg Feuerstein Airport,EDQE,,Ebermannstadt,DE,49.794167,11.133611,1673
+EDQF,Ansbach-Petersdorf Airport,EDQF,QOB,Ansbach,DE,49.361111,10.669444,1371
+EDQG,Giebelstadt Airport,EDQG,GHF,Giebelstadt,DE,49.648056,9.966389,981
+EDQH,Herzogenaurach Airport,EDQH,,Herzogenaurach,DE,49.582500,10.878056,1070
+EDQI,Lauf-Lillinghof Airport,EDQI,,Lauf an der Pegnitz,DE,49.605278,11.283889,1788
+EDQK,Kulmbach Airport,EDQK,,Kulmbach,DE,50.134998,11.459722,1660
+EDQL,Lichtenfels Airport,EDQL,,Lichtenfels,DE,50.148609,11.048056,853
+EDQM,Hof-Plauen Airport,EDQM,HOQ,Hof,DE,50.288612,11.856389,1959
+EDQN,Neustadt/Aisch Airport,EDQN,,Neustadt an der Aisch,DE,49.587502,10.577500,1198
+EDQO,Ottengrüner Heide Airport,EDQO,,Helmbrechts,DE,50.225834,11.731667,1880
+EDQP,Rosenthal-Field Plössen Airport,EDQP,,Speichersdorf,DE,49.863335,11.787778,1496
+EDQR,Ebern-Sendelbach Airport,EDQR,,Ebern,DE,50.039444,10.822778,827
+EDQS,Suhl-Goldlauter Airport,EDQS,,Goldlauter-Heidersbach,DE,50.631943,10.727500,1923
+EDQT,Haßfurt-Schweinfurt Airport,EDQT,,Haßfurt,DE,50.018055,10.529444,719
+EDQW,Weiden in der Oberpfalz Airport,EDQW,,Weiden in der Oberpfalz,DE,49.678902,12.116400,1329
+EDQX,Hetzleser Berg Airport,EDQX,,Neunkirchen am Brand,DE,49.642223,11.162222,1765
+EDQY,Coburg-Steinrücken Airport,EDQY,,Coburg,DE,50.230556,10.995833,1184
+EDQZ,Pegnitz-Zipser Berg Airport,EDQZ,,Pegnitz,DE,49.762222,11.574722,1791
+EDRA,Bad Neuenahr-Ahrweiler Airport,EDRA,,Bad Neuenahr,DE,50.557777,7.136389,673
+EDRB,Bitburg Airport,EDRB,BBJ,Bitburg,DE,49.945278,6.565000,1220
+EDRD,Neumagen-Dhron Airport,EDRD,,Neumagen,DE,49.843056,6.916111,879
+EDRF,Bad Dürkheim Airport,EDRF,,Bad Dürkheim,DE,49.473057,8.196389,351
+EDRG,Idar-Oberstein/Göttschied Airport,EDRG,,Idar-Oberstein,DE,49.732224,7.336111,1575
+EDRH,Hoppstädten-Weiersbach Airport,EDRH,,Hoppstädten,DE,49.610558,7.186667,1093
+EDRI,Linkenheim Airport,EDRI,,Linkenheim,DE,49.141666,8.394722,325
+EDRJ,Saarlouis-Düren Airport,EDRJ,,Saarlouis,DE,49.312500,6.674444,1119
+EDRK,Koblenz-Winningen Airport,EDRK,,Koblenz,DE,50.325558,7.528611,640
+EDRL,Lachen-Speyerdorf Airport,EDRL,,Neustadt an der Weinstraße,DE,49.330833,8.209722,394
+EDRM,Traben-Trarbach/Mont Royal Airport,EDRM,,Traben-Trarbach,DE,49.967777,7.111944,919
+EDRN,Nannhausen Airport,EDRN,,Simmern,DE,49.970280,7.479167,1224
+EDRO,Schweighofen Airport,EDRO,,Schweighofen,DE,49.031666,7.990000,492
+EDRP,Pirmasens Airport,EDRP,,Pirmasens,DE,49.264442,7.488333,1247
+EDRS,Bad Sobernheim-Domberg Airport,EDRS,,Bad Sobernheim,DE,49.790833,7.666111,810
+EDRT,Trier-Föhren Airport,EDRT,,Trier,DE,49.863888,6.787500,666
+EDRV,Wershofen/Eifel Airport,EDRV,,Aremberg,DE,50.451389,6.783333,1581
+EDRW,Dierdorf-Wienau Airport,EDRW,,Dierdorf,DE,50.566113,7.653333,951
+EDRY,Speyer Airport,EDRY,,Speyer,DE,49.304722,8.451389,312
+EDRZ,Zweibrücken Airport,EDRZ,ZQW,Zweibrücken,DE,49.209400,7.400560,1132
+EDSA,Albstadt-Degerfeld Airport,EDSA,,Albstadt,DE,48.249722,9.062500,2881
+EDSB,Karlsruhe Baden-Baden Airport,EDSB,FKB,Baden-Baden,DE,48.779400,8.080500,408
+EDSD,Leipheim Air Base,EDSD,,Leipheim,DE,48.439999,10.235600,1604
+EDSG,Grabenstetten Airport,EDSG,,Grabenstetten,DE,48.536110,9.436944,2329
+EDSH,Backnang-Heiningen Airport,EDSH,,Backnang,DE,48.919724,9.455278,965
+EDSI,Binningen Airport,EDSI,,Binningen,DE,47.799168,8.720000,1594
+EDSK,Kehl-Sundheim Airport,EDSK,,Kehl,DE,48.561111,7.843333,453
+EDSL,Blumberg Airport,EDSL,,Blumberg,DE,47.844166,8.565000,2290
+EDSN,Neuhausen ob Eck Airport,EDSN,,Neuhausen ob Eck,DE,47.976665,8.903889,2638
+EDSW,Altdorf-Wallburg Airport,EDSW,,Altdorf,DE,48.270000,7.841944,623
+EDSZ,Rottweil-Zepfenhahn Airport,EDSZ,,Rottweil,DE,48.186390,8.721111,2444
+EDTB,Baden-Oos Airport,EDTB,,Baden-Baden,DE,48.791943,8.185833,404
+EDTC,Bruchsal Airport,EDTC,,Bruchsal,DE,49.134998,8.563611,364
+EDTD,Donaueschingen-Villingen Airport,EDTD,ZQL,Donaueschingen,DE,47.973331,8.522222,2231
+EDTF,Freiburg i. Br. Airport,EDTF,,Freiburg im Breisgau,DE,48.022778,7.832500,801
+EDTG,Bremgarten Airport,EDTG,,Bremgarten,DE,47.902779,7.617778,696
+EDTH,Heubach Airport,EDTH,,Heubach,DE,48.802776,9.927500,1424
+EDTL,Black Forest Airport Lahr,EDTL,LHA,Lahr,DE,48.369250,7.827722,512
+EDTM,Mengen-Hohentengen Airport,EDTM,,Mengen,DE,48.053890,9.372778,1818
+EDTN,Nabern/Teck Airport,EDTN,,Nabern,DE,48.612778,9.477222,1214
+EDTO,Offenburg Airport,EDTO,,Offenburg,DE,48.450001,7.924722,509
+EDTP,Pfullendorf Airport,EDTP,,Pfullendorf,DE,47.908890,9.250556,2303
+EDTQ,Pattonville Airport,EDTQ,,Pattonville,DE,48.864166,9.224722,919
+EDTR,Herten-Rheinfelden Airport,EDTR,,Rheinfelden,DE,47.560280,7.748333,925
+EDTS,Schwenningen am Neckar Airport,EDTS,,Villingen-Schwenningen,DE,48.065834,8.571389,2169
+EDTU,Saulgau Airport,EDTU,,Bad Saulgau,DE,48.029446,9.507222,1903
+EDTW,Winzeln-Schramberg Airport,EDTW,,Schramberg,DE,48.279167,8.428333,2310
+EDTX,Schwäbisch Hall-Weckrieden Airport,EDTX,,Schwäbisch Hall,DE,49.124443,9.781111,1299
+EDTY,Adolf Würth Airport,EDTY,,Schwäbisch Hall,DE,49.118332,9.783889,1299
+EDTZ,Konstanz Airport,EDTZ,,Konstanz,DE,47.681946,9.137222,1302
+EDUA,Stechow-Ferchesar Airport,EDUA,,Stechow-Ferchesar,DE,52.650555,12.487778,148
+EDUB,Brandenburg-Briest Airport,EDUB,,Brandenburg an der Havel,DE,52.438610,12.458333,102
+EDUF,Falkenberg-Lönnewitz Airport,EDUF,,Uebigau-Wahrenbrück,DE,51.547779,13.228056,312
+EDUO,Oberrissdorf Airport,EDUO,,Lutherstadt Eisleben,DE,51.542500,11.595833,738
+EDUS,Finsterwalde/Schacksdorf Airport,EDUS,,Finsterwalde,DE,51.607498,13.743611,384
+EDUT,Templin/Groß Dölln Airport,EDUT,,Templin,DE,53.028801,13.516200,174
+EDUW,Tutow Airport,EDUW,,Demmin,DE,53.921944,13.218889,26
+EDUY,Welzow-Sedlitzer See Airport,EDUY,,Welzow,DE,51.557777,14.105000,361
+EDUZ,Zerbst Airport,EDUZ,,Zerbst/Anhalt,DE,52.000832,12.148611,289
+EDVA,Bad Gandersheim Airport,EDVA,,Bad Gandersheim,DE,51.854168,10.025556,791
+EDVC,Celle-Arloh Airport,EDVC,,Celle,DE,52.687222,10.111389,207
+EDVE,Braunschweig Wolfsburg,EDVE,BWE,Braunschweig,DE,52.319167,10.556111,295
+EDVF,Blomberg-Borkhausen Airport,EDVF,,Blomberg,DE,51.917221,9.111667,535
+EDVG,Mengeringhausen Airport,EDVG,,Mengeringhausen,DE,51.376389,8.981111,1191
+EDVH,Hodenhagen Airport,EDVH,,Hodenhagen,DE,52.761112,9.605556,79
+EDVI,Höxter-Holzminden Airport,EDVI,,Höxter,DE,51.806667,9.378333,1263
+EDVJ,Salzgitter-Schäferstuhl Airport,EDVJ,,Salzgitter,DE,52.030277,10.364444,741
+EDVK,Kassel-Calden Airport,EDVK,KSF,Kassel,DE,51.408333,9.377500,909
+EDVL,Hölleberg Airport,EDVL,,Trendelburg,DE,51.610832,9.397500,837
+EDVM,Hildesheim Airport,EDVM,,Hildesheim,DE,52.181389,9.946389,292
+EDVN,Northeim Airport,EDVN,,Northeim,DE,51.706390,10.039722,404
+EDVP,Peine-Eddesse Airport,EDVP,,Peine,DE,52.402500,10.228889,249
+EDVR,Rinteln Airport,EDVR,,Rinteln,DE,52.175278,9.053333,180
+EDVS,Salzgitter-Drütte Airport,EDVS,,Salzgitter,DE,52.154446,10.426667,328
+EDVU,Uelzen Airport,EDVU,,Uelzen,DE,52.983891,10.465000,246
+EDVW,Hameln-Pyrmont Airport,EDVW,,Bad Pyrmont,DE,51.966667,9.291667,1178
+EDVY,Porta Westfalica Airport,EDVY,,Bad Oeynhausen,DE,52.220833,8.859167,148
+EDWA,Bordelum Airport,EDWA,,Bredstedt,DE,54.627499,8.930278,3
+EDWB,Bremerhaven Airport,EDWB,BRV,Bremerhaven,DE,53.506943,8.572778,10
+EDWC,Damme Airport,EDWC,,Damme,DE,52.487499,8.185556,151
+EDWD,Lemwerder Airport,EDWD,XLW,Lemwerder,DE,53.144699,8.624440,20
+EDWE,Emden Airport,EDWE,EME,Emden,DE,53.391109,7.227500,3
+EDWF,Leer-Papenburg Airport,EDWF,,Leer,DE,53.271942,7.441667,3
+EDWG,Wangerooge Airport,EDWG,AGE,Wangerooge,DE,53.782780,7.913889,7
+EDWH,Oldenburg-Hatten Airport,EDWH,,Oldenburg,DE,53.068890,8.313611,26
+EDWI,Wilhelmshaven-Mariensiel Airport,EDWI,WVN,Wilhelmshaven,DE,53.502220,8.052222,16
+EDWJ,Juist Airport,EDWJ,JUI,Juist,DE,53.681110,7.055833,7
+EDWK,Karlshöfen Airport,EDWK,,Karlshöfen,DE,53.332779,9.028333,20
+EDWL,Langeoog Airport,EDWL,LGO,Langeoog,DE,53.742500,7.497778,7
+EDWM,Weser-Wümme Airport,EDWM,,Rotenburg (Wümme),DE,53.053890,9.208611,59
+EDWN,Nordhorn-Lingen Airport,EDWN,ZOW,Klausheide,DE,52.457500,7.182222,89
+EDWO,Osnabrück-Atterheide Airport,EDWO,,Osnabrück,DE,52.286388,7.969722,285
+EDWP,Wiefelstede/Conneforde Airport,EDWP,,Wiefelstede,DE,53.321388,8.073333,33
+EDWQ,Ganderkesee Atlas Airfield Airport,EDWQ,,Ganderkesee,DE,53.036110,8.505556,95
+EDWR,Borkum Airport,EDWR,BMK,Borkum,DE,53.596390,6.709167,3
+EDWS,Norden-Norddeich Airport,EDWS,NOD,Norddeich,DE,53.633057,7.190278,3
+EDWU,Varrelbusch Airport,EDWU,VAC,Cloppenburg,DE,52.908333,8.040556,128
+EDWV,Verden-Scharnhorst Airport,EDWV,,Verden (Aller),DE,52.965279,9.282778,144
+EDWX,Westerstede-Felde Airport,EDWX,,Westerstede,DE,53.288612,7.930556,30
+EDWY,Norderney Airport,EDWY,NRD,Norderney,DE,53.706944,7.230000,7
+EDWZ,Baltrum Airport,EDWZ,BMR,Baltrum,DE,53.724724,7.373333,7
+EDXA,Achmer Airport,EDXA,,Bramsche,DE,52.377220,7.913333,177
+EDXB,Heide-Büsum Airport,EDXB,HEI,Büsum,DE,54.153332,8.901667,7
+EDXC,Schleswig-Kropp Airport,EDXC,,Schleswig,DE,54.425278,9.541667,52
+EDXD,Bohmte-Bad Essen Airport,EDXD,,Bohmte,DE,52.351391,8.328333,148
+EDXE,Rheine-Eschendorf Airport,EDXE,,Rheine,DE,52.276389,7.492778,131
+EDXF,Flensburg-Schäferhaus Airport,EDXF,FLF,Flensburg,DE,54.773335,9.378889,131
+EDXG,Melle-Grönegau Airport,EDXG,,Melle,DE,52.200832,8.380556,236
+EDXH,Helgoland-Düne Airport,EDXH,HGL,Helgoland,DE,54.185280,7.915833,8
+EDXI,Nienburg-Holzbalge Airport,EDXI,,Nienburg/Weser,DE,52.709721,9.162500,82
+EDXJ,Husum-Schwesing Airport,EDXJ,QHU,Husum,DE,54.509998,9.138333,62
+EDXK,Leck Airport,EDXK,,Leck,DE,54.790001,8.961389,23
+EDXL,Barßel Airport,EDXL,,Barßel,DE,53.164444,7.793889,10
+EDXM,St. Michaelisdonn Airport,EDXM,,Sankt Michaelisdonn,DE,53.978058,9.144722,125
+EDXN,Nordholz-Spieka Airport,EDXN,,Cuxhaven,DE,53.767223,8.643611,72
+EDXO,St. Peter-Ording Airport,EDXO,PSH,Sankt Peter-Ording,DE,54.308887,8.686944,7
+EDXP,Harle Airport,EDXP,,Harlesiel,DE,53.706669,7.820278,7
+EDXQ,Rotenburg (Wümme) Airport,EDXQ,,Rotenburg (Wümme),DE,53.128334,9.348611,98
+EDXR,Rendsburg-Schachtholm Airport,EDXR,,Rendsburg,DE,54.220001,9.599444,23
+EDXS,Seedorf Airport,EDXS,,Seedorf,DE,53.335556,9.259444,72
+EDXT,Sierksdorf/Hof Altona Airport,EDXT,,Sierksdorf,DE,54.067780,10.743056,79
+EDXU,Hüttenbusch Airport,EDXU,,Hüttenbusch,DE,53.286667,8.947222,10
+EDXW,Westerland Sylt Airport,EDXW,GWT,Westerland,DE,54.913200,8.340470,51
+EDXY,Wyk auf Föhr Airport,EDXY,OHR,Wyk auf Föhr,DE,54.684444,8.528333,26
+EDXZ,Kührstedt-Bederkesa Airport,EDXZ,,Kührstedt,DE,53.568054,8.789444,26

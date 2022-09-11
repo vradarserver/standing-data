@@ -1,0 +1,19 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+YSBK,Sydney Bankstown Airport,YSBK,BWU,Sydney,AU,-33.924400,150.988007,29
+YSCB,Canberra International Airport,YSCB,CBR,Canberra,AU,-35.306900,149.195007,1886
+YSCD,Carosue Dam Airport,YSCD,WCD,Cundeelee,AU,-30.178333,122.325833,1291
+YSCR,Southern Cross Airport,YSCR,,Southern Cross,AU,-31.240278,119.359722,1163
+YSDU,Dubbo City Regional Airport,YSDU,DBO,Dubbo,AU,-32.216702,148.574997,935
+YSGT,Singleton Airport,YSGT,SIX,Singleton,AU,-32.600832,151.193056,46
+YSHG,Shay Gap Airport,YSHG,SGP,Shay Gap,AU,-20.424700,120.140999,620
+YSHK,Shark Bay Airport,YSHK,MJK,Denham,AU,-25.893333,113.576667,111
+YSHL,Shellharbour Airport,YSHL,WOL,"Wollongong, New South Wales",AU,-34.561111,150.788611,31
+YSII,Saibai Island Airport,YSII,SBR,Saibai Island,AU,-9.378330,142.625000,15
+YSNF,Norfolk Island International Airport,YSNF,NLK,Burnt Pine,NF,-29.041599,167.938995,371
+YSOL,Solomon Mine Airport,YSOL,SLJ,Mt Sheila,AU,-22.255278,117.761944,2008
+YSRD,Sunrise Dam Airport,YSRD,,Sunrise Dam Gold Mine,AU,-29.098333,122.455000,1350
+YSRI,RAAF Base Richmond,YSRI,,Richmond,AU,-33.600601,150.781006,67
+YSSY,Sydney Kingsford Smith International Airport,YSSY,SYD,Sydney,AU,-33.946098,151.177002,21
+YSTC,Stuart Creek Airport,YSTC,,Stuart Creek,AU,-29.716700,137.063004,122
+YSTW,Tamworth Airport,YSTW,TMW,Tamworth,AU,-31.083900,150.847000,1334
+YSWG,Wagga Wagga Airport,YSWG,WGA,Wagga Wagga,AU,-35.165298,147.466003,724

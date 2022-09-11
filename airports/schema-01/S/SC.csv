@@ -1,0 +1,472 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SC00,Triple Tree Airport,SC00,,Woodruff,US,34.674400,-82.001404,680
+SC01,Sugar Hill Airport,SC01,,Allendale,US,33.039001,-81.294296,203
+SC02,Beaufort County Memorial Hospital Heliport,SC02,,Beaufort,US,32.416901,-80.687302,20
+SC03,Mc Neil Airport,SC03,,Cameron,US,33.557098,-80.648399,170
+SC04,Piedmont Medical Center Heliport,SC04,,Rock Hill,US,34.955700,-81.058098,670
+SC05,Laurel Hill Plantation Airport,SC05,,Beaufort,US,32.491299,-80.615097,10
+SC06,Pluff Mud Field,SC06,,Charleston,US,32.632099,-80.092300,15
+SC07,Alan's Airport,SC07,,St Matthews,US,33.675800,-80.949699,369
+SC08,Bethel-Lake Wylie Airport,SC08,,York,US,35.050098,-81.137299,670
+SC09,Clarendon Memorial Hospital Heliport,SC09,,Manning,US,33.687099,-80.211197,190
+SC10,State Line Ultraport/Flightpark Ultralightport,SC10,,Chesnee,US,35.178501,-81.817902,870
+SC11,Fort Jackson Helipad Heliport,SC11,,Fort Jackson,US,34.033501,-80.899803,400
+SC12,Davis Airport,SC12,,Garnett,US,32.672100,-81.311203,82
+SC13,Darden Airport,SC13,,Gaston,US,33.840698,-81.183701,450
+SC14,Shealy Airport,SC14,,Gilbert,US,34.062599,-81.409798,380
+SC15,Airy Hall Airport,SC15,,Green Pond,US,32.632099,-80.503998,20
+SC16,Curry Airport,SC16,,Hartsville,US,34.377899,-80.005302,199
+SC17,Russell Airport,SC17,,Holly Hill,US,33.357899,-80.459801,110
+SC18,Lexington Medical Center Heliport,SC18,,West Columbia,US,34.000401,-81.103996,340
+SC19,Lamar Airport,SC19,,Lamar,US,34.167702,-80.077599,175
+SC1A,Canchones West Airport,SC1A,,Canchones,CL,-20.427099,-69.641502,3251
+SC20,Harman Airport,SC20,,Langley,US,33.484299,-81.825897,458
+SC21,Myrtle Beach Hardee Airpark,SC21,,Loris,US,33.941799,-78.833099,45
+SC22,Richland Memorial Hospital Heliport,SC22,,Columbia,US,34.027901,-81.033401,258
+SC23,Eagles Nest-Fairview Airpark,SC23,,Pelion,US,33.764000,-81.358704,460
+SC24,Eagle Ridge Airport,SC24,,Seneca,US,34.671700,-82.913597,850
+SC25,Ross Strip,SC25,,W Society Hill,US,34.422699,-79.884804,190
+SC26,Hawks Nest Farm Airport,SC26,,West Union,US,34.808102,-82.998596,1050
+SC27,Tallon Field,SC27,,Lynchburg,US,34.101002,-80.125603,190
+SC28,Javika Airport,SC28,,Surfside Beach,US,33.652100,-78.994202,26
+SC29,Mc Kay Airport,SC29,,Timmonsville,US,34.110699,-79.901497,135
+SC30,Savannah River Site (Department of Energy) Heliport,SC30,,Aiken,US,33.283600,-81.726402,720
+SC31,Springs Memorial Heliport,SC31,,Lancaster,US,34.718800,-80.783699,600
+SC32,Sky Valley Airpark,SC32,,Pelzer,US,34.650398,-82.503502,900
+SC33,Cox Airport,SC33,,Simpsonville,US,34.824299,-82.259804,1000
+SC34,Iva Field,SC34,,Iva,US,34.297100,-82.683701,660
+SC35,Ehrhardt Airport,SC35,,Ehrhardt,US,33.089600,-81.008202,146
+SC36,Emery Airport,SC36,,Greer,US,35.124699,-82.326401,1220
+SC37,Crosswinds-Wilson Private Airport,SC37,,Cross,US,33.271801,-80.254303,90
+SC38,Pocotaligo Airport,SC38,,Manning,US,33.707500,-80.080597,112
+SC39,Green Pond Airport,SC39,,Woodruff,US,34.808553,-82.077377,788
+SC40,Pearson's Farm Airport,SC40,,Spartanburg,US,35.057301,-81.944801,850
+SC41,Palmetto Air Plantation Airport,SC41,,Manning,US,33.666100,-80.243896,140
+SC42,Hondarosa Airport,SC42,,Charleston,US,32.686901,-80.106400,13
+SC43,Moore's Field,SC43,,Williamston,US,34.593700,-82.399002,871
+SC44,El Porvenir Airpark,SC44,,Boykin,US,34.128799,-80.547302,250
+SC45,Gilbert International Airport,SC45,,Gilbert,US,33.883999,-81.381798,551
+SC46,House Movers Field,SC46,,Batesburg,US,33.851002,-81.548401,540
+SC47,Parker Field,SC47,,Simpsonville,US,34.761398,-82.161400,860
+SC48,Byrd Field,SC48,,Turbeville,US,33.884300,-79.999802,110
+SC50,Yonges Island Airport,SC50,,Charleston,US,32.697399,-80.225899,10
+SC51,Too Goo Doo Farms Airport,SC51,,Meggett,US,32.704601,-80.253197,15
+SC52,Oakview Airport,SC52,,Six Mile,US,34.812302,-82.818802,1040
+SC53,"Usar Center, Clemson Heliport",SC53,,Clemson,US,34.683399,-82.817902,750
+SC54,Milliken & County Heliport,SC54,,Spartanburg,US,34.986801,-81.953400,863
+SC55,Broxton Bridge Plantation Airport,SC55,,Ehrhardt,US,33.005699,-81.048401,120
+SC56,Thomason Airfield,SC56,,Mountville,US,34.363499,-81.993202,642
+SC57,Creech Aviation Facility Airport,SC57,,Wedgefield,US,33.884300,-80.494797,178
+SC58,Hartness Airport,SC58,,Greenville,US,34.847099,-82.251801,850
+SC59,Palmetto Heliport,SC59,,Greenville,US,34.764000,-82.394302,950
+SC60,Cockfield Aerodrome,SC60,,Scranton,US,33.904099,-79.683998,82
+SC61,Wild Irish Rose Airport,SC61,,Cheraw,US,34.617901,-80.151703,376
+SC62,Hampton Regional Medical Center Heliport,SC62,,Varnville,US,32.852402,-81.088699,86
+SC63,Summers Station Heliport,SC63,,Jenkinsville,US,34.296600,-81.313301,436
+SC64,The Reg Med Center of Orbg & Calhoun Co Heliport,SC64,,Orangeburg,US,33.539600,-80.830704,300
+SC65,Raven's Run Airport,SC65,,Mount Pleasant,US,32.823799,-79.806702,8
+SC66,E M M D Plant Heliport,SC66,,Union,US,34.684898,-81.733398,580
+SC67,Country Squire Airport,SC67,,Rock Hill,US,34.909901,-81.074799,587
+SC68,Fripp Island Emergency Heliport,SC68,,Frogmore,US,32.321899,-80.491203,8
+SC69,Shiloh Plantation Airport,SC69,,Ehrhardt,US,33.120602,-80.950798,131
+SC70,Anna's Airport,SC70,,Walhalla,US,34.724998,-83.084999,930
+SC71,Medical University of South Carolina Heliport,SC71,,Charleston,US,32.787102,-79.952599,15
+SC72,Chandelle Airport,SC72,,Greer,US,34.822899,-82.148201,850
+SC73,Newberry County Memorial Hospital Heliport,SC73,,Newberry,US,34.290901,-81.606697,502
+SC74,Marsh Point Airport,SC74,,Beaufort,US,32.461899,-80.600899,12
+SC75,Oolenoy Valley Airport,SC75,,Pickens,US,34.998199,-82.734901,1000
+SC76,Unity Aerodrome,SC76,,Lancaster,US,34.802700,-80.680099,640
+SC77,Providence Hospital Heliport,SC77,,Columbia,US,34.014599,-81.012001,322
+SC78,King Field,SC78,,Cleveland,US,35.090698,-82.495399,1250
+SC79,Bermuda High Gliderport,SC79,,Lancaster,US,34.611301,-80.449799,550
+SC80,Anderson Airport,SC80,,Pendleton,US,34.667801,-82.709999,817
+SC81,Abbeville Airport,SC81,,Abbeville,US,34.151501,-82.353699,550
+SC82,Oakhill Airpark,SC82,,Williamson,US,34.584702,-82.351700,837
+SC83,Abbeville County Memorial Hospital Heliport,SC83,,Abbeville,US,34.160301,-82.383301,604
+SC84,Milliken & Company Heliport,SC84,,Blacksburg,US,35.116501,-81.561501,606
+SC85,Chester County Hospital Heliport,SC85,,Chester,US,34.683498,-81.183998,700
+SC86,Williamsport Airpark,SC86,,Easley,US,34.864601,-82.567596,1100
+SC87,Avinger Field,SC87,,Vance,US,33.442799,-80.455597,138
+SC88,Davis Field,SC88,,Chesnee,US,35.147301,-81.794296,935
+SC89,Price Airport,SC89,,Dillon,US,34.474998,-79.393600,138
+SC90,Do-Little Field,SC90,,St. Matthews,US,33.676102,-80.948303,369
+SC91,Bell's Branch Airport,SC91,,Branchville,US,33.306499,-80.848198,95
+SC92,Rambos Field,SC92,,Abbeville,US,34.103199,-82.281799,550
+SC93,Paul's Plantation Airport,SC93,,Darlington,US,34.366001,-79.824203,180
+SC94,Weaver Field,SC94,,Johnsonville,US,33.889400,-79.506401,75
+SC95,Perry International Airport,SC95,,Perry,US,33.629299,-81.329697,438
+SC96,Tokeena Air Park,SC96,,Seneca,US,34.560299,-82.935303,800
+SC97,Riverbend Airpark,SC97,,Mauldin,US,34.726700,-82.339699,920
+SC98,Mount Holly Airport,SC98,,Goose Creek,US,33.054298,-80.083397,55
+SC99,Whiteplains Airport,SC99,,Lexington,US,33.963902,-81.359200,520
+SCAA,Añorada Airport,SCAA,,Frutillar,CL,-41.042778,-73.047501,459
+SCAB,El Alba Airport,SCAB,,La Lumbrera,CL,-33.658890,-71.289169,450
+SCAC,Pupelde Airport,SCAC,ZUD,Ancud,CL,-41.903900,-73.796700,315
+SCAD,Santa Adriana Airport,SCAD,,Ovalle,CL,-30.628611,-71.273056,558
+SCAE,El Buitre Airport,SCAE,,Arica,CL,-18.510000,-70.289200,328
+SCAF,San Alfonso Airport,SCAF,,Alhue,CL,-34.055599,-71.236900,407
+SCAG,Agua Santa Airport,SCAG,,Palmilla,CL,-34.551476,-71.335891,476
+SCAH,Tolquien Airport,SCAH,,Achao,CL,-42.449402,-73.524696,551
+SCAJ,Las Alpacas Airport,SCAJ,,Retiro,CL,-36.145279,-71.763054,550
+SCAK,Atacalco Airport,SCAK,,Recinto,CL,-36.919445,-71.577499,2362
+SCAL,Valchac Airport,SCAL,,Cochrane,CL,-47.115556,-72.480278,1116
+SCAM,Alempue Airport,SCAM,,Teno,CL,-34.865002,-71.101944,1083
+SCAN,San Rafael Airport,SCAN,LOB,Los Andes,CL,-32.814201,-70.646698,2461
+SCAO,Palo Alto Airport,SCAO,,Lolol,CL,-34.733055,-71.740837,279
+SCAP,Alto Palena Airport,SCAP,WAP,Alto Palena,CL,-43.611900,-71.806099,794
+SCAQ,Arquilhué Airport,SCAQ,,Lago Ranco,CL,-40.198299,-72.029198,590
+SCAR,Chacalluta Airport,SCAR,ARI,Arica,CL,-18.348499,-70.338699,167
+SCAS,Cabo 1° Juan Román Airport,SCAS,WPA,Puerto Aysen,CL,-45.399200,-72.670303,30
+SCAT,Desierto de Atacama Airport,SCAT,CPO,Copiapo,CL,-27.261200,-70.779198,670
+SCAU,Juan Enrique Airport,SCAU,,Paine,CL,-33.893600,-70.885597,1263
+SCAV,La Vertiente Airport,SCAV,,Chillan,CL,-36.610279,-72.038330,459
+SCAY,Ayacara Airport,SCAY,,Ayacara,CL,-42.310833,-72.790276,80
+SCAZ,Azopardo Airport,SCAZ,,Timaukel,CL,-54.479721,-68.936668,59
+SCBA,Balmaceda Airport,SCBA,BBA,Balmaceda,CL,-45.916100,-71.689499,1722
+SCBB,Del Bío Bío Airport,SCBB,,Negrete,CL,-37.587222,-72.503611,249
+SCBC,Cacique Blanco Airport,SCBC,,Lago Verde,CL,-44.231110,-71.864166,750
+SCBD,El Boldal Airport,SCBD,,Santa Cruz,CL,-34.684444,-71.206108,574
+SCBE,Barriles Airport,SCBE,TOQ,Tocopilla,CL,-22.141100,-70.062897,3475
+SCBI,Pampa Guanaco Airport,SCBI,,Bahia Inutil,CL,-54.044998,-68.831665,591
+SCBN,Cotreumo Airport,SCBN,,Rio Bueno,CL,-40.400600,-72.661400,607
+SCBO,General Bernardo O'Higgins Base Skyway,SCBO,,General Bernardo O'Higgins Base,AQ,-63.344000,-57.842000,900
+SCBQ,El Bosque Airport,SCBQ,,Santiago,CL,-33.561798,-70.688400,1844
+SCBR,Lago Brown Airport,SCBR,,Lago Brown,CL,-47.391945,-72.317497,540
+SCBS,Posesión Airport,SCBS,,Bahia Posesion,CL,-52.299999,-68.933334,100
+SCBT,Rincón Bonito Airport,SCBT,,Cochamo,CL,-42.028889,-72.096107,705
+SCBU,El Baúl Airstrip,SCBU,,Molina,CL,-35.341435,-70.910800,3070
+SCBV,Bellavista Airport,SCBV,,Rio Claro,CL,-35.189724,-71.296669,885
+SCCA,El Boldo Airport,SCCA,,Cauquenes,CL,-35.971390,-72.224998,525
+SCCB,Pedro Villarroel C. Airport,SCCB,,Combarbala,CL,-31.221945,-71.070274,3002
+SCCC,Chile Chico Airport,SCCC,CCH,Chile Chico,CL,-46.583302,-71.687401,1070
+SCCE,El Arenal Airport,SCCE,,Cauquenes,CL,-35.896389,-72.055833,397
+SCCF,El Loa Airport,SCCF,CJC,Calama,CL,-22.498199,-68.903603,7543
+SCCG,La Pelícana Airport,SCCG,,Combarbala,CL,-31.063889,-70.954445,2790
+SCCH,Gral. Bernardo O´Higgins Airport,SCCH,YAI,Chillan,CL,-36.582500,-72.031403,495
+SCCI,Pdte. carlos Ibañez del Campo Airport,SCCI,PUQ,Punta Arenas,CL,-53.002602,-70.854599,139
+SCCK,Contao Airport,SCCK,,Contao,CL,-41.800304,-72.722237,10
+SCCL,Caldera Airport,SCCL,,Caldera,CL,-27.078100,-70.795303,180
+SCCM,Molco Airport,SCCM,,Choshuenco,CL,-39.825001,-72.082497,479
+SCCN,Alto Cauquenes Airport,SCCN,,Cauquenes,CL,-35.880280,-72.327225,568
+SCCP,Callipulli Airport,SCCP,,Osorno,CL,-40.620277,-72.846390,377
+SCCQ,Tambillos Airport,SCCQ,COW,Coquimbo,CL,-30.198889,-71.246944,656
+SCCR,Enrique Mayer Soto Airport,SCCR,,Caleta Tortel,CL,-47.787777,-73.520279,4
+SCCS,Santa Rita Airport,SCCS,,Casablanca,CL,-33.277500,-71.456390,738
+SCCT,Quivolgo Airport,SCCT,,Constitucion,CL,-35.308601,-72.392799,36
+SCCU,Lolco Airport,SCCU,,Lonquimay,CL,-38.158054,-71.423889,2132
+SCCV,Curacaví Airport,SCCV,,Curacaví,CL,-33.412800,-71.165604,686
+SCCY,Teniente Vidal Airport,SCCY,GXQ,Coyhaique,CL,-45.594200,-72.106102,1020
+SCDA,Diego Aracena Airport,SCDA,IQQ,Iquique,CL,-20.535200,-70.181297,155
+SCDD,Don Dobri Airport,SCDD,,Puerto Varas,CL,-41.234722,-72.514999,226
+SCDH,Vodudahue Airport,SCDH,,Chaiten,CL,-42.488888,-72.350555,98
+SCDI,Pichidangui Airport,SCDI,,Pichidangui,CL,-32.143055,-71.505280,98
+SCDL,El Algarrobo Airport,SCDL,,Cabildo,CL,-32.471943,-70.993057,951
+SCDM,San Damian Airport,SCDM,,Duao,CL,-34.878056,-72.145554,220
+SCDQ,San Lorenzo Airport,SCDQ,,Duqueco,CL,-37.523335,-71.726112,1902
+SCDS,San Andrés Airport,SCDS,,Retiro,CL,-36.005554,-71.766670,574
+SCDW,Almirante Schroeders Airport,SCDW,,Isla Dawson,CL,-53.610699,-70.470497,160
+SCEA,El Amarillo Airport,SCEA,,Chaiten,CL,-43.006111,-72.478333,1083
+SCEB,Entrada Baker Airport,SCEB,,Entrada Baker,CL,-47.184166,-71.976112,1640
+SCEC,Pelícano Airport,SCEC,,Estacion Chañaral,CL,-29.144899,-70.887802,3678
+SCED,Los Cedros Airport,SCED,,Sagrada Familia,CL,-35.154999,-71.585281,305
+SCEG,El Corte Airport,SCEG,,Talagante,CL,-33.709999,-70.913055,1024
+SCEH,El Huachi Airport,SCEH,,Santa Barbara,CL,-37.647221,-71.753891,1558
+SCEK,Chépica Airport,SCEK,,Chepica,CL,-34.739723,-71.324722,610
+SCEL,Comodoro Arturo Merino Benítez International Airport,SCEL,SCL,Santiago,CL,-33.393002,-70.785797,1555
+SCEO,El Salto Airport,SCEO,,Parral,CL,-36.130280,-71.857498,564
+SCEP,El Principal Airport,SCEP,,Pirque,CL,-33.724998,-70.510300,2592
+SCER,Quintero Airport,SCER,,Quintero,CL,-32.790199,-71.521698,12
+SCES,Ricardo García Posada Airport,SCES,ESR,El Salvador,CL,-26.311100,-69.765198,5240
+SCET,El Tambo Airport,SCET,,San Vicente De Tagua Tagua,CL,-34.475555,-71.014168,748
+SCEV,El Avellano Airport,SCEV,FRT,Frutillar,CL,-41.117001,-73.050003,489
+SCEX,Río Exploradores Airport,SCEX,,Aysén,CL,-46.353611,-73.327778,59
+SCEY,Entrada Mayer Airport,SCEY,,Entrada Mayer,CL,-48.201452,-72.327590,1550
+SCFA,Cerro Moreno Airport,SCFA,ANF,Antofagasta,CL,-23.444500,-70.445099,455
+SCFC,Fachinal Airport,SCFC,,Fachinal,CL,-46.551109,-72.218056,693
+SCFF,Freirina Airport,SCFF,,Freirina,CL,-28.526388,-71.061943,738
+SCFI,Fundo Tehuén Airport,SCFI,,Frutillar,CL,-41.095001,-73.126663,377
+SCFJ,Fray Jorge Airport,SCFJ,,Ovalle,CL,-30.680000,-71.578613,492
+SCFK,Fundo El Carmen Airport,SCFK,,Chillan,CL,-36.641388,-72.016670,557
+SCFL,Fundo Loma Larga Airport,SCFL,,Casablanca,CL,-33.279999,-71.379204,869
+SCFM,Capitan Fuentes Martinez Airport Airport,SCFM,WPR,Porvenir,CL,-53.253700,-70.319199,104
+SCFN,Russfin Airport,SCFN,,Russfin,CL,-53.799999,-69.266998,600
+SCFO,La Reforma Airport,SCFO,,Pelarco,CL,-35.458057,-71.281113,853
+SCFR,Frutillar Airport,SCFR,,Frutillar,CL,-41.130833,-73.064720,469
+SCFS,Los Calafates Airport,SCFS,,Chonchi,CL,-42.678890,-73.896667,82
+SCFT,Futaleufú Airport,SCFT,FFU,Futaleufu,CL,-43.189201,-71.851097,1148
+SCFU,Loncopan Airport,SCFU,,Futrono,CL,-40.066399,-72.537804,886
+SCFX,Isla San Felix Airport,SCFX,,Isla San Felix,CL,-26.293900,-80.096199,165
+SCGA,Punta Galera Airport,SCGA,,La Union,CL,-40.001900,-73.696404,118
+SCGB,Guadaba Airport,SCGB,,Los Sauces,CL,-37.977779,-72.929443,272
+SCGC,Unión Glaciar Airport,SCGC,,Antartica,AQ,-79.777778,-83.320833,2461
+SCGE,María Dolores Airport,SCGE,LSQ,Los Angeles,CL,-37.401699,-72.425400,374
+SCGF,Golfo Azul Airport,SCGF,,Futrono,CL,-40.140833,-72.283611,486
+SCGH,Cholguahue Airport,SCGH,,Los Angeles,CL,-37.469723,-72.138611,732
+SCGI,San Guillermo Airport,SCGI,,Retiro,CL,-36.001110,-71.829445,495
+SCGL,Las Aguilas Airport,SCGL,,Rapel,CL,-34.169167,-71.531113,450
+SCGM,Los Gomeros Airport,SCGM,,Rengo,CL,-34.361111,-70.881943,1034
+SCGN,Caleta Gonzalo Airport,SCGN,,Chaiten,CL,-42.563610,-72.599724,33
+SCGO,Los Confines Airport,SCGO,,Angol,CL,-37.794701,-72.687202,240
+SCGP,Curaco Airport,SCGP,,Panguipulli,CL,-39.530602,-72.349998,820
+SCGS,Siberia Airport,SCGS,,Cholguan,CL,-37.177223,-72.079720,722
+SCGU,Aguas Blancas Airport,SCGU,,Antofagasta,CL,-24.136400,-69.828598,3346
+SCGV,Punta Gaviota Airport,SCGV,,Caleta Chañaral De Aceituno,CL,-29.084444,-71.467222,99
+SCGY,Los Guayes Airport,SCGY,,Cunco,CL,-39.053055,-71.993614,1312
+SCGZ,Guardiamarina Zañartu Airport,SCGZ,WPU,Puerto Williams,CL,-54.931099,-67.626297,88
+SCHC,Chicureo Airport,SCHC,,Santiago,CL,-33.267776,-70.647224,1886
+SCHD,Chumilden Airport,SCHD,,Chaiten,CL,-42.524445,-72.816948,66
+SCHE,Rucamanqui Airport,SCHE,,Huepil,CL,-37.199722,-71.896667,1132
+SCHG,Almahue Airport,SCHG,,Pichidegua,CL,-34.398613,-71.371109,420
+SCHH,Punta Baja Airport,SCHH,,Chile Chico,CL,-46.793610,-72.795280,721
+SCHK,Hueicolla Airport,SCHK,,La Union,CL,-40.158600,-73.654404,59
+SCHL,Hacienda Lipangue Airport,SCHL,,Lampa,CL,-33.335278,-70.911110,1745
+SCHM,Punta El Saco Airport,SCHM,,Isla Mocha,CL,-38.410000,-73.900833,23
+SCHN,Chan Chan Airport,SCHN,,Choshuenco,CL,-39.865799,-72.131401,457
+SCHO,Punta Chungo Airport,SCHO,,Los Vilos,CL,-31.882778,-71.476387,249
+SCHP,Copihue Airport,SCHP,,Retiro,CL,-36.077499,-71.779724,551
+SCHR,Cochrane Airport,SCHR,LGR,Cochrane,CL,-47.243801,-72.588402,643
+SCHT,Tic Toc Airport,SCHT,,Chaiten,CL,-43.613056,-72.897499,13
+SCHU,Gran Cañon Airport,SCHU,,Huasco,CL,-28.098888,-71.146667,230
+SCHW,Hualaihué Airport,SCHW,,Hualaihue,CL,-42.028610,-72.689445,30
+SCIA,Isla Apiao Airport,SCIA,,Isla Apiao,CL,-42.599724,-73.212219,250
+SCIB,Butachauques Airport,SCIB,,Isla Butachauques,CL,-42.308334,-73.142220,150
+SCIC,General Freire Airport,SCIC,,Curico,CL,-34.966667,-71.216393,722
+SCID,Marco Davison Bascur Airport,SCID,,Punta Arenas,CL,-52.873611,-70.750000,30
+SCIE,Carriel Sur Airport,SCIE,CCP,Concepcion,CL,-36.772701,-73.063103,26
+SCIF,Chollinco Airport,SCIF,,Llifen,CL,-40.205799,-72.231400,330
+SCIH,Caleta Blanco Airport,SCIH,,Isla Las Huichas,CL,-45.147778,-73.508614,115
+SCII,Puerto Ingeniero Ibañez Airport,SCII,,Puerto Ingeniero Ibañez,CL,-46.285831,-71.947777,820
+SCIK,Isla Talcan Airport,SCIK,,Isla Talcan,CL,-42.746666,-72.970558,45
+SCIL,Aucó Airport,SCIL,,Illapel,CL,-31.577801,-71.110802,1420
+SCIM,Isla Mocha Airport,SCIM,,Isla Mocha,CL,-38.384998,-73.868896,52
+SCIO,Laguna Redonda Airport,SCIO,,Villa O'Higgins,CL,-48.933578,-72.799614,1970
+SCIP,Mataveri Airport,SCIP,IPC,Isla De Pascua,CL,-27.164801,-109.421997,227
+SCIR,Robinson Crusoe Airport,SCIR,,Isla Robinson Crusoe,CL,-33.665001,-78.929703,433
+SCIS,Puerto Sur Airport,SCIS,,Isla Santa Maria,CL,-37.026112,-73.506943,20
+SCIT,Iván Martinez Airport,SCIT,,Isla Tierra Del Fuego,CL,-52.955002,-70.032799,144
+SCIV,Panimavida Airport,SCIV,,Panimavida,CL,-35.756901,-71.404198,591
+SCJC,James Conrad Airport,SCJC,,Ranguelmo,CL,-36.581112,-72.773331,528
+SCJK,Juan Kemp Airport,SCJK,,Osorno,CL,-40.884445,-72.368889,459
+SCJO,Cañal Bajo Carlos - Hott Siebert Airport,SCJO,ZOS,Osorno,CL,-40.611198,-73.060997,187
+SCJV,El Parrón Airport,SCJV,,San Javier,CL,-35.548054,-71.776108,200
+SCKA,Santa Marta Airport,SCKA,,San Carlos,CL,-36.493057,-71.896942,577
+SCKB,Llollenorte Airport,SCKB,,Lago Caburga,CL,-39.057499,-71.689720,1641
+SCKC,Roberto Chavéz Airport,SCKC,,Cunco,CL,-38.906944,-72.215279,895
+SCKD,El Cardal Airport,SCKD,,Rio Bueno,CL,-40.467800,-72.684998,525
+SCKE,Piedra Negra Airport,SCKE,,Pelluhue,CL,-35.854443,-72.645836,164
+SCKI,Los Lirios Airport,SCKI,,Curico,CL,-34.903889,-71.201385,820
+SCKK,La Cascada Airport,SCKK,,Molina,CL,-35.384998,-71.106667,1804
+SCKL,Lipangui Airport,SCKL,,Lampa,CL,-33.331112,-70.849998,1558
+SCKM,Cochamó Airport,SCKM,,Cochamo,CL,-41.483334,-72.300003,130
+SCKN,Licancel Airport,SCKN,,Licanten,CL,-34.989166,-72.018890,59
+SCKO,Agua Buena Airport,SCKO,,Collipulli,CL,-37.993889,-72.249168,1420
+SCKP,Coposa Airport,SCKP,,Pica,CL,-20.750500,-68.683502,12468
+SCKQ,Curimanque Airport,SCKQ,,Pucon,CL,-39.326946,-72.027222,1476
+SCKT,Torreón Airport,SCKT,,Coelemu,CL,-36.498890,-72.680000,216
+SCLA,General Tovarías Airport,SCLA,,Lautaro,CL,-38.542778,-72.454720,699
+SCLB,Los Pehuenches Airport,SCLB,,Lebu,CL,-37.658054,-73.629448,587
+SCLC,Municipal de Vitacura Airport,SCLC,,Santiago,CL,-33.380798,-70.582199,2274
+SCLD,Llanada Grande Airport,SCLD,,Llanada Grande,CL,-41.866699,-71.934402,1001
+SCLE,La Escondida Airport,SCLE,,Antofagasta,CL,-24.294701,-69.131699,10289
+SCLF,Calcurrupe Airport,SCLF,,Llifen,CL,-40.244202,-72.236900,335
+SCLG,La Aguada Airport,SCLG,,Pencahue,CL,-35.342777,-71.776947,246
+SCLI,Torca Airport,SCLI,,Llico,CL,-34.783333,-72.050835,66
+SCLJ,La Junta Airport,SCLJ,,La Junta,CL,-43.975277,-72.413055,120
+SCLK,Lago Colico Airport,SCLK,,Cunco,CL,-39.057499,-72.074165,1148
+SCLL,Vallenar Airport,SCLL,VLR,Vallenar,CL,-28.596399,-70.755997,1725
+SCLM,Las Mercedes Airport,SCLM,,San Javier,CL,-35.500000,-71.880836,246
+SCLN,Municipal de Linares Airport,SCLN,ZLR,Linares,CL,-35.861698,-71.548599,591
+SCLO,Leones Airport,SCLO,,Chile Chico,CL,-46.765556,-72.818336,705
+SCLP,Los Petiles Airport,SCLP,,Molina,CL,-35.215557,-71.108612,1575
+SCLQ,Diego Portales Airport,SCLQ,,La Ligua,CL,-32.452499,-71.258888,250
+SCLR,Los Alerces Airport,SCLR,,Chaiten,CL,-42.780556,-72.644722,345
+SCLS,Esperanza Airport,SCLS,,Lautaro,CL,-38.548889,-72.145836,1230
+SCLU,La Laguna Airport,SCLU,,Marchigue,CL,-34.352501,-71.663887,528
+SCLV,La Viña Airport,SCLV,,Guangali,CL,-32.138054,-71.398056,870
+SCLY,La Playa Airport,SCLY,,Arauco,CL,-37.216389,-73.233055,32
+SCMA,Puerto Marín Balmaceda Airport,SCMA,,Puerto Marin Balmaceda,CL,-43.786388,-72.950279,10
+SCMB,La Chimba Airport,SCMB,,La Chimba,CL,-23.553600,-70.396103,131
+SCMC,Meseta Cosmelli Airport,SCMC,,Puerto Guadal,CL,-46.745556,-72.526108,950
+SCME,Los Cuatro Diablos Airport,SCME,,Melipilla,CL,-33.676109,-71.143333,660
+SCMF,Malloco Airport,SCMF,,Villarrica,CL,-39.255833,-72.343330,935
+SCMG,Santa María de Mingre Airport,SCMG,,San Javier,CL,-35.570557,-72.003891,574
+SCMH,La Esperanza Airport,SCMH,,Marchigue,CL,-34.287224,-71.558334,540
+SCMI,Los Tricahues Airport,SCMI,,Mialqui,CL,-30.737499,-70.859726,1650
+SCMK,Melinka Airport,SCMK,,Melinka,CL,-43.895000,-73.738892,35
+SCML,Melipeuco Airport,SCML,,Santa Barbara,CL,-38.856111,-71.812500,1388
+SCMN,Mansel Airport,SCMN,,Paine,CL,-33.857201,-70.770302,1411
+SCMO,Los Monos Airport,SCMO,,Molina,CL,-35.190277,-71.418610,574
+SCMP,Melipilla Airport,SCMP,,Melipilla,CL,-33.673889,-71.193611,574
+SCMR,Las Aguilas Oriente Airport,SCMR,,Rapel,CL,-34.169167,-71.531111,450
+SCMS,Las Moras Airport,SCMS,,Longavi,CL,-36.010278,-71.594444,512
+SCMU,Panilonco Airport,SCMU,,Pichilemu,CL,-34.281113,-71.946945,574
+SCMV,Viña San Pedro Airport,SCMV,,Molina,CL,-35.105835,-71.327774,738
+SCMY,Carolina Airport,SCMY,,Michilla,CL,-22.703611,-70.282501,128
+SCMZ,Marina de Rapel Airport,SCMZ,,El Manzano,CL,-34.151669,-71.445831,344
+SCNA,Fundo La Caña Airport,SCNA,,Linares,CL,-35.976389,-71.597222,525
+SCND,Ñadis Airport,SCND,,Ñadis,CL,-47.473057,-72.951942,262
+SCNE,María Elena Airport,SCNE,,Maria Elena,CL,-22.307222,-69.705002,4003
+SCNG,Papageno Airport,SCNG,,Panguipulli,CL,-39.550598,-72.290298,853
+SCNH,Ainhoa Airport,SCNH,,Vilcún,CL,-38.683333,-72.243889,992
+SCNI,Santa Eugenia Airport,SCNI,,San Nicolas,CL,-36.434444,-72.156944,410
+SCNK,Los Pelambres Airport,SCNK,,Cuncumen,CL,-31.873056,-70.618332,4003
+SCNM,Las Misiones Airport,SCNM,,Cañete,CL,-37.776112,-73.383614,252
+SCNO,Ñochaco Airport,SCNO,,Ñochaco,CL,-40.892868,-72.879997,328
+SCNR,Fundo Naicura Airport,SCNR,,Rengo,CL,-34.320278,-70.920280,1050
+SCNS,Sandra Scabini Airport,SCNS,,Punta Arenas,CL,-52.396111,-69.756943,236
+SCNT,Tte. Julio Gallardo Airport,SCNT,PNT,Puerto Natales,CL,-51.671501,-72.528397,217
+SCNY,Yendegaia Airport,SCNY,,Navarino,CL,-54.831390,-68.831665,164
+SCOA,Estancia Los Loros Airport,SCOA,,Ovalle,CL,-30.789444,-71.618332,820
+SCOB,Tabalí Bajo Airport,SCOB,,Ovalle,CL,-30.643333,-71.401944,732
+SCOC,Las Araucarias Airport,SCOC,,Puerto Octay,CL,-40.993057,-72.659721,600
+SCOE,San Miguel Airport,SCOE,,Romeral,CL,-34.962223,-71.016388,1509
+SCOH,Villa O'Higgins Airport,SCOH,,Villa O'Higgins,CL,-48.469212,-72.564316,898
+SCOI,Los Coipos Airport,SCOI,,Hualanne,CL,-34.912778,-71.660833,318
+SCOL,Refugio del Lago Airport,SCOL,,Puyehue,CL,-40.689445,-72.345558,676
+SCOM,Olmué Airport,SCOM,,Olmue,CL,-32.997501,-71.172226,396
+SCON,Quellón Airport,SCON,,Quellon,CL,-43.136700,-73.635002,16
+SCOO,Melimoyu Airport,SCOO,,Cisnes,CL,-44.097500,-73.096944,20
+SCOP,Pilauco Airport,SCOP,,Osorno,CL,-40.569168,-73.129997,213
+SCOS,Osorno Pampa Ale Airport,SCOS,,Osorno,CL,-40.547199,-73.155602,79
+SCOT,Santa Rosa de Tabalí Airport,SCOT,,Ovalle,CL,-30.676500,-71.401001,787
+SCOV,El Tuqui Airport,SCOV,OVL,Ovalle,CL,-30.559200,-71.175598,1100
+SCOY,Huayanay Airport,SCOY,,Ovalle,CL,-30.430555,-71.532219,164
+SCPA,Paranal Airport,SCPA,,Antofagasta,CL,-24.639400,-70.348900,6834
+SCPB,Puelo Bajo Airport,SCPB,,Puelo Bajo,CL,-41.662224,-72.302223,120
+SCPC,Pucón Airport,SCPC,ZPC,Pucon,CL,-39.292801,-71.915901,853
+SCPE,San Pedro de Atacama Airport,SCPE,,San Pedro De Atacama,CL,-22.921700,-68.158401,7960
+SCPF,Marcel Marchant Airport,SCPF,,Puerto Montt,CL,-41.457779,-72.918610,367
+SCPG,Municipal de Panguipulli Airport,SCPG,,Panguipulli,CL,-39.653301,-72.360298,940
+SCPH,Puyuhuapi Airport,SCPH,,Puyuhuapi,CL,-44.385601,-72.594200,43
+SCPI,Pullami Airport,SCPI,,Coihueco,CL,-36.586667,-71.807778,804
+SCPK,Puerto Cisnes Airport,SCPK,,Puerto Cisnes,CL,-44.745834,-72.700554,45
+SCPL,Calpulli Airport,SCPL,,Paillaco,CL,-40.128899,-72.661697,755
+SCPM,Pichilemu Airport,SCPM,,Pichilemu,CL,-34.394165,-72.019165,82
+SCPN,Pillán Airport,SCPN,,Chaiten,CL,-42.546112,-72.494164,33
+SCPO,Los Paltos Airport,SCPO,,Quinta Tilcoco,CL,-34.328056,-70.964165,869
+SCPP,Poco a Poco Airport,SCPP,,Mulchen,CL,-37.848888,-72.008331,1680
+SCPQ,Mocopulli Airport,SCPQ,MHC,Castro,CL,-42.346110,-73.713890,0
+SCPR,Corte Alto Airport,SCPR,,Purranque,CL,-40.943333,-73.169998,416
+SCPS,Perales Airport,SCPS,,Copiapo,CL,-27.351667,-70.589447,633
+SCPT,La Puerta Airport,SCPT,,Santa Cruz,CL,-34.613056,-71.375833,509
+SCPU,Peulla Airport,SCPU,,Peulla,CL,-41.054165,-72.008331,900
+SCPV,El Mirador Airport,SCPV,PUX,Puerto Varas,CL,-41.349400,-72.946701,430
+SCPW,Peumo Airport,SCPW,,Peumo,CL,-34.408890,-71.168892,557
+SCPX,Punta Catalina Airport,SCPX,,Punta Catalina,CL,-52.591667,-68.750000,90
+SCPY,Cerro Castillo Airport,SCPY,,Cerro Castillo,CL,-51.262222,-72.337502,427
+SCPZ,Patriot Hills Airport,SCPZ,,Antartica,AQ,-80.318298,-81.308098,2900
+SCQC,La Colmena Airport,SCQC,,Quino,CL,-38.333057,-72.586945,823
+SCQE,Quenac Airport,SCQE,,Isla Quenac,CL,-42.467224,-73.335831,164
+SCQI,Icalma Airport,SCQI,,Lonquimay,CL,-38.749722,-71.217781,3806
+SCQK,Lequecahue Airport,SCQK,,Tirua,CL,-38.351665,-73.488609,220
+SCQL,El Boco Airport,SCQL,,Quillota,CL,-32.851112,-71.246391,459
+SCQM,Las Quemas Airport,SCQM,,Osorno,CL,-40.638332,-73.127502,250
+SCQO,Quitralco Airport,SCQO,,Aysén,CL,-45.580556,-73.225556,46
+SCQP,Temuco Airport,SCQP,ZCO,Araucanía,CL,-38.925000,-72.651389,321
+SCQR,Los Morros Airport,SCQR,,Cobquecura,CL,-36.134445,-72.804443,7
+SCQT,LasTacas Airport,SCQT,,Quebrada Las Tacas,CL,-30.096399,-71.364098,140
+SCQW,Quemchi Airport,SCQW,,Quemchi,CL,-42.152779,-73.516945,393
+SCQX,Queilén Airport,SCQX,,Queilen,CL,-42.893055,-73.476387,60
+SCQY,Villa Portales Airport,SCQY,,Lonquimay,CL,-38.449902,-71.354797,3182
+SCRA,Chañaral Airport,SCRA,CNR,Chañaral,CL,-26.332500,-70.607300,97
+SCRB,Río Bravo Airport,SCRB,,Tortel,CL,-47.985832,-73.138885,37
+SCRC,Villa Tapera Airport,SCRC,,Rio Cisnes,CL,-44.626389,-71.638885,1640
+SCRD,Rodelillo Airport,SCRD,VAP,Viña Del Mar,CL,-33.068100,-71.557503,1100
+SCRE,Estancia Río Cisnes Airport,SCRE,,Rio Cisnes,CL,-44.500000,-71.321663,2150
+SCRF,Laguna San Rafael Airport,SCRF,,Laguna San Rafael,CL,-46.638889,-73.849998,20
+SCRG,De La Independencia Airport,SCRG,QRC,Rancagua,CL,-34.173698,-70.775703,1446
+SCRH,Reñihúe Airport,SCRH,,Reñihue,CL,-42.585556,-72.494446,16
+SCRI,Rio Frio Airport,SCRI,,Rio Frio,CL,-41.733334,-71.966667,1000
+SCRL,La Estrella Airport,SCRL,,Rapel,CL,-34.201111,-71.481667,397
+SCRM,Teniente Rodolfo Marsh Martin Base,SCRM,TNM,Isla Rey Jorge,AQ,-62.190800,-58.986698,147
+SCRN,Rio Negro Airport,SCRN,,Rio Negro,CL,-41.962223,-72.453888,10
+SCRO,Santa Bárbara Airport,SCRO,,Romeral,CL,-34.958889,-71.182777,1420
+SCRP,Rapelhuapi Airport,SCRP,,Rapel,CL,-34.105801,-71.512802,568
+SCRQ,Rucañanco Airport,SCRQ,,Rio Bueno,CL,-40.521900,-72.772797,502
+SCRR,Purrahuín Airport,SCRR,,Rio Bueno,CL,-40.365278,-72.776667,345
+SCRS,El Rosario Airport,SCRS,,Cartagena,CL,-33.488889,-71.405556,804
+SCRT,El Almendro Airport,SCRT,,Retiro,CL,-35.960556,-71.793335,486
+SCRU,Río Murta Airport,SCRU,,Rio Murta,CL,-46.453335,-72.688332,600
+SCRV,La Verónica Airport,SCRV,,Vilcún,CL,-38.611389,-72.128889,1280
+SCRW,Rucalonco Airport,SCRW,,Paredones,CL,-34.548611,-72.045280,240
+SCRZ,El Carrizal Airport,SCRZ,,Marchigue,CL,-34.443333,-71.706111,492
+SCSA,Alberto Santos Dumont Airport,SCSA,,Til Til,CL,-33.028610,-70.879997,2346
+SCSB,Franco Bianco Airport,SCSB,SMB,Cerro Sombrero,CL,-52.736698,-69.333603,104
+SCSD,San Fernando Airport,SCSD,,San Fernando,CL,-34.565800,-70.968300,1079
+SCSE,La Florida Airport,SCSE,LSC,La Serena-Coquimbo,CL,-29.916201,-71.199501,481
+SCSF,Víctor Lafón Airport,SCSF,SSD,San Felipe,CL,-32.745800,-70.705002,2188
+SCSG,San Gerónimo Airport,SCSG,,Algarrobo,CL,-33.353298,-71.626099,341
+SCSH,El Budi Airport,SCSH,,Teodoro Schmidt,CL,-39.062778,-73.169998,82
+SCSI,El Salar Airport,SCSI,,Salar De Atacama,CL,-23.648899,-68.305000,7556
+SCSJ,San Javier Airport,SCSJ,,San Javier,CL,-35.629723,-71.699722,361
+SCSK,Colorado Airport,SCSK,,San Clemente,CL,-35.663055,-71.303612,1410
+SCSM,Minsal Airport,SCSM,,Salar De Atacama,CL,-23.585278,-68.382774,7776
+SCSN,Santo Domingo Airport,SCSN,,Santo Domingo,CL,-33.656399,-71.614403,246
+SCSO,Costa del Sol Airport,SCSO,,Lago Rapel,CL,-34.120834,-71.527222,390
+SCSP,El Sobrante Airport,SCSP,,Petorca,CL,-32.223611,-70.800000,2559
+SCSQ,Quilpe Airport,SCSQ,,San Pablo,CL,-40.341110,-73.317223,157
+SCSR,Segundo Corral Alto Airport,SCSR,,Segundo Corral,CL,-42.083332,-71.863892,1200
+SCSS,San Sebastián Airport,SCSS,,San Sebastian,CL,-53.317001,-68.650002,50
+SCST,Gamboa Airport,SCST,WCA,Castro,CL,-42.490299,-73.772797,151
+SCSU,Santa Lucía Airport,SCSU,,Freire,CL,-38.919167,-72.366669,705
+SCSV,Viñasutil Airport,SCSV,,Peralillo,CL,-34.448891,-71.385834,427
+SCSZ,Puerto Sanchéz Airport,SCSZ,,Puerto Sanchez,CL,-46.599998,-72.616669,680
+SCTA,Santa Luisa Airport,SCTA,,Santa Barbara,CL,-37.743889,-71.710000,1818
+SCTB,Eulogio Sánchez Airport,SCTB,,Santiago,CL,-33.456299,-70.546700,2129
+SCTC,Maquehue Airport,SCTC,PZS,Temuco,CL,-38.766800,-72.637100,304
+SCTE,El Tepual Airport,SCTE,PMC,Puerto Montt,CL,-41.438900,-73.094002,294
+SCTG,Tongoy Airport,SCTG,,Tongoy,CL,-30.266388,-71.483612,49
+SCTH,Tres Chorrillos Airport,SCTH,,San Gregorio,CL,-52.525278,-70.723889,322
+SCTI,Los Cerrillos Airport,SCTI,ULC,Santiago,CL,-33.493599,-70.697800,1680
+SCTL,Panguilemo Airport,SCTL,TLX,Talca,CL,-35.377800,-71.601700,371
+SCTM,La Montaña Airport,SCTM,,Curico,CL,-34.970276,-70.846390,1969
+SCTN,Chaitén Airport,SCTN,WCH,Chaiten,CL,-42.932800,-72.699097,13
+SCTO,Victoria Airport,SCTO,ZIC,Victoria,CL,-38.245602,-72.348602,1148
+SCTP,Río Pascua Airport,SCTP,,Tortel,CL,-48.227779,-73.297775,197
+SCTQ,Tres Quebradas Airport,SCTQ,,Alto Del Carmen,CL,-29.252800,-70.088898,11690
+SCTR,Traiguén Airport,SCTR,,Traiguen,CL,-38.271389,-72.662498,812
+SCTS,Santa Teresa del Almendral Airport,SCTS,,Melipilla,CL,-33.575554,-71.260834,574
+SCTT,Las Breas Airport,SCTT,TTC,Taltal,CL,-25.564301,-70.375900,2580
+SCTU,Litueche Airport,SCTU,,Litueche,CL,-34.110554,-71.715836,787
+SCTW,El Tapihue Airport,SCTW,,Casablanca,CL,-33.320278,-71.336113,935
+SCUI,Pumalín Airport,SCUI,,Chaiten,CL,-42.695835,-72.833336,18
+SCUL,El Litral Airport,SCUL,,Bulnes,CL,-36.793610,-72.420830,180
+SCUM,La Obra Airport,SCUM,,Cumpeo,CL,-35.300556,-71.330276,673
+SCUN,Uni Frutti Airport,SCUN,,Teno,CL,-34.813057,-71.046112,950
+SCUP,Lontuecito Airport,SCUP,,Cumpeo,CL,-35.282223,-71.236389,1066
+SCUR,Rucamalen Airport,SCUR,,Bulnes,CL,-36.811943,-72.167221,475
+SCUT,Verfrut Sur Airport,SCUT,,Longavi,CL,-36.212502,-71.544441,1132
+SCUZ,Aerosanta Cruz Airport,SCUZ,,Santa Cruz,CL,-34.649166,-71.386108,502
+SCVA,Viñamar Airport,SCVA,,Casablanca,CL,-33.356945,-71.354164,935
+SCVB,Hospital Villa Baviera Airport,SCVB,,Parral,CL,-36.400276,-71.563332,1040
+SCVC,El Indio Airport,SCVC,,Vicuña,CL,-29.834444,-70.046112,11975
+SCVD,Pichoy Airport,SCVD,ZAL,Valdivia,CL,-39.650002,-73.086098,59
+SCVE,Lago Verde Airport,SCVE,,Lago Verde,CL,-44.270832,-71.916664,1020
+SCVF,Verfrut Airport,SCVF,,San Pedro,CL,-34.007221,-71.391945,443
+SCVG,El Vergel Airport,SCVG,,Riñihue,CL,-39.829399,-72.488297,820
+SCVH,La Victoria de Chacabuco Airport,SCVH,,Santiago,CL,-33.050835,-70.708885,2139
+SCVI,Villarrica Airport,SCVI,,Villarrica,CL,-39.312500,-72.062225,945
+SCVJ,Paredes Viejas Airport,SCVJ,,Marchigue,CL,-34.395832,-71.545280,449
+SCVK,El Alamo Airport,SCVK,,Vichuquen,CL,-34.847778,-72.022224,33
+SCVL,Las Marías Airport,SCVL,,Valdivia,CL,-39.796902,-73.241699,13
+SCVM,Viña del mar Airport,SCVM,KNA,Viña Del Mar,CL,-32.949600,-71.478600,461
+SCVN,Huancara Airport,SCVN,,Vicuña,CL,-30.026899,-70.751602,1968
+SCVO,María Ester Airport,SCVO,,Victoria,CL,-38.231945,-72.483330,978
+SCVQ,Cuatro Pantanos Airport,SCVQ,,Vichuquen,CL,-34.837223,-72.065002,82
+SCVS,Lago Vargas Airport,SCVS,,Cochrane,CL,-47.677223,-73.067780,56
+SCVT,Viña Tarapacá Airport,SCVT,,Isla De Maipo,CL,-33.766109,-70.923889,1066
+SCVU,Agromanzún Airport,SCVU,,Vilcun,CL,-38.695835,-72.340553,738
+SCVV,Los Maitenes de Villa Vieja Airport,SCVV,,La Union,CL,-40.316399,-72.977203,147
+SCVY,Malla Airport,SCVY,,Vilcun,CL,-38.691387,-72.285553,820
+SCXA,Alupenhue Airport,SCXA,,Molina,CL,-35.239445,-71.070831,1600
+SCXB,Las Brujas Airport,SCXB,,Salamanca,CL,-31.786667,-71.011108,1483
+SCXR,Las Bandurrias Airport,SCXR,,Lago Ranco,CL,-40.320000,-72.224998,328
+SCYB,Trilahue Airport,SCYB,,Yumbel,CL,-37.117222,-72.411110,423
+SCYC,La Capilla Airport,SCYC,,Puyehue,CL,-40.627777,-72.762222,485
+SCYL,Licán Airport,SCYL,,Puyehue,CL,-40.641399,-72.411102,625
+SCYO,Poyo Airport,SCYO,,El Chaiten,CL,-42.226667,-72.693611,13
+SCYR,Los Maitenes Airport,SCYR,,Retiro,CL,-36.031666,-71.741112,538
+SCYU,Cuyumaique Airport,SCYU,,Purranque,CL,-40.940556,-73.011667,443
+SCZB,Pozo Brujo Airport,SCZB,,La Unión,CL,-40.205278,-72.568056,394
+SCZC,Casas Viejas Airport,SCZC,,Zapallar,CL,-32.595276,-71.347221,262
+SCZE,Estero Seco Airport,SCZE,,Pirque,CL,-33.744999,-70.549446,2461

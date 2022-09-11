@@ -1,0 +1,39 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+YMAT,Mater Hospital Helipad,YMAT,,Brisbane,AU,-27.485430,153.028390,180
+YMAV,Avalon Airport,YMAV,AVV,Melbourne,AU,-38.039398,144.468994,35
+YMAY,Albury Airport,YMAY,ABX,Albury,AU,-36.067799,146.957993,539
+YMBT,Mount Beauty Airport,YMBT,,Mount Beauty,AU,-36.731576,147.168903,1100
+YMBX,Mundrabilla Airport,YMBX,,Mundrabilla,AU,-31.867201,127.853996,120
+YMDG,Mudgee Airport,YMDG,DGE,Mudgee,AU,-32.562500,149.610992,1545
+YMEK,Meekatharra Airport,YMEK,MKR,Meekatharra,AU,-26.611667,118.547778,1713
+YMEL,Melton Airport,YMEL,,Melton,AU,-37.616699,144.567001,204
+YMEN,Essendon Airport,YMEN,MEB,Melbourne,AU,-37.728056,144.901944,282
+YMEO,Merton Airport,YMEO,,Merton,AU,-36.967704,145.707616,1101
+YMER,Merimbula Airport,YMER,MIM,Merimbula,AU,-36.908600,149.901001,7
+YMGB,Milingimbi Airport,YMGB,MGT,Milingimbi Island,AU,-12.094400,134.893997,53
+YMGD,Maningrida Airport,YMGD,MNG,Maningrida,AU,-12.056100,134.233994,123
+YMGN,Mount Gunson Airport,YMGN,GSN,Mount Gunson,AU,-31.459700,137.173996,285
+YMGT,Margaret River Airport,YMGT,,Margaret River,AU,-33.930000,115.100000,374
+YMHB,Hobart International Airport,YMHB,HBA,Hobart,AU,-42.836102,147.509995,13
+YMHP,Mackay Base Hospital Helipad,YMHP,,Mackay,AU,-21.145430,149.154450,34
+YMHU,McArthur River Mine Airport,YMHU,MCV,McArthur River Mine,AU,-16.442499,136.084000,131
+YMIA,Mildura Airport,YMIA,MQL,Mildura,AU,-34.229198,142.085999,167
+YMJM,Manjimup Airport,YMJM,,Manjimup,AU,-34.265278,116.140278,940
+YMLS,Miles Airport,YMLS,WLE,Miles,AU,-26.883333,150.250000,1492
+YMLT,Launceston Airport,YMLT,LST,Launceston,AU,-41.545300,147.214005,562
+YMMB,Melbourne Moorabbin Airport,YMMB,MBW,Melbourne,AU,-37.975800,145.102005,50
+YMMI,Murrin Murrin Airport,YMMI,,Murrin Murrin,AU,-28.705278,121.890556,1535
+YMML,Melbourne International Airport,YMML,MEL,Melbourne,AU,-37.673302,144.843002,434
+YMNE,Mount Keith Airport,YMNE,WME,Mount Keith,AU,-27.286389,120.554722,1792
+YMOG,Mount Magnet Airport,YMOG,MMG,Mount Magnet,AU,-28.116111,117.841667,1354
+YMOM,Moulamein Airport,YMOM,,Moulamein,AU,-35.058386,144.021320,233
+YMOR,Moree Airport,YMOR,MRZ,Moree,AU,-29.498899,149.845001,701
+YMPC,"RAAF Williams, Point Cook Base",YMPC,,Point Cook,AU,-37.932201,144.753006,14
+YMRB,Moranbah Airport,YMRB,MOV,Moranbah,AU,-22.057800,148.076996,770
+YMRW,Morawa Airport,YMRW,,Morawa,AU,-29.201389,116.021944,886
+YMRY,Moruya Airport,YMRY,MYA,Moruya,AU,-35.897800,150.143997,14
+YMTG,Mount Gambier Airport,YMTG,MGB,Mount Gambier,AU,-37.745556,140.785278,212
+YMUC,Muccan Station Airport,YMUC,MUQ,Muccan Station,AU,-20.658899,120.067001,300
+YMUL,Murray Field Airport,YMUL,,Mandurah,AU,-32.510278,115.833333,56
+YMVM,Mangrove Mountain Airport,YMVM,,Mangrove Mountain,AU,-33.285122,151.212738,920
+YMWA,Mullewa Airport,YMWA,MXU,Mullewa,AU,-28.473889,115.517778,950

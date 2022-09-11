@@ -1,0 +1,139 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KE01,Roy Hurd Memorial Airport,KE01,,Monahans,US,31.582500,-102.908997,2615
+KE05,Hatch Municipal Airport,KE05,,Hatch,US,32.661098,-107.197998,4080
+KE06,Lea County-Zip Franklin Memorial Airport,KE06,,Lovington,US,32.953899,-103.408997,3979
+KE11,Andrews County Airport,KE11,,Andrews,US,32.331100,-102.529999,3174
+KE13,Crane County Airport,KE13,CCG,Crane,US,31.415100,-102.362999,2552
+KE14,Ohkay Owingeh Airport,KE14,,Espanola,US,36.029999,-106.045998,5790
+KE16,South County Airport of Santa Clara County Airport,KE16,,San Martin,US,37.081600,-121.597000,281
+KE19,Gruver Municipal Airport,KE19,,Gruver,US,36.233700,-101.431999,3205
+KE24,Whiteriver Airport,KE24,,Whiteriver,US,33.812500,-109.987000,5153
+KE25,Wickenburg Municipal Airport,KE25,,Wickenburg,US,33.968899,-112.799004,2377
+KE26,Lea County Jal Airport,KE26,,Jal,US,32.131100,-103.154999,3118
+KE30,Bruce Field,KE30,,Ballinger,US,31.674500,-99.976997,1738
+KE34,Smiley Johnson Municipal-Bass Field,KE34,,Clarendon,US,34.911499,-100.869003,2833
+KE35,Fabens Airport,KE35,,Fabens,US,31.515699,-106.147003,3679
+KE38,Alpine Casparis Municipal Airport,KE38,,Alpine,US,30.384199,-103.683998,4515
+KE41,Reagan County Airport,KE41,BGQ,Big Lake,US,31.198900,-101.473000,2706
+KE42,Spearman Municipal Airport,KE42,,Spearman,US,36.221001,-101.195000,3090
+KE45,Pine Mountain Lake Airport,KE45,,Groveland,US,37.861698,-120.178001,2930
+KE48,Upton County Airport,KE48,,Mc Camey,US,31.125099,-102.224998,2433
+KE51,Bagdad Airport,KE51,BGT,Bagdad,US,34.595901,-113.169998,4183
+KE52,Oldham County Airport,KE52,,Vega,US,35.231998,-102.399002,3995
+KE57,Denver City Airport,KE57,,Denver City,US,32.975101,-102.842003,3575
+KE60,Eloy Municipal Airport,KE60,,Eloy,US,32.806999,-111.586998,1513
+KE63,Gila Bend Municipal Airport,KE63,,Gila Bend,US,32.958099,-112.678001,789
+KE67,Kearny Airport,KE67,,Kearny,US,33.047600,-110.908997,1833
+KE77,San Manuel Airport,KE77,,San Manuel,US,32.636501,-110.647003,3274
+KE78,Sells Airport,KE78,,Sells,US,31.932899,-111.893997,2409
+KE80,Alexander Municipal Airport,KE80,,Belen,US,34.645199,-106.834000,5194
+KE89,Conchas Lake Airport,KE89,,Conchas Dam,US,35.364399,-104.181999,4230
+KE91,Chinle Municipal Airport,KE91,,Chinle,US,36.110901,-109.574997,5547
+KE95,Benson Municipal Airport,KE95,,Benson,US,31.999701,-110.357002,3829
+KE98,Mid Valley Airpark,KE98,,Los Lunas,US,34.759800,-106.745003,4830
+KEAG,Eagle Grove Municipal Airport,KEAG,,Eagle Grove,US,42.709801,-93.916100,1133
+KEAN,Phifer Airfield,KEAN,,Wheatland,US,42.055500,-104.929001,4776
+KEAR,Kearney Regional Airport,KEAR,EAR,Kearney,US,40.727001,-99.006798,2131
+KEAT,Pangborn Memorial Airport,KEAT,EAT,Wenatchee,US,47.398899,-120.207001,1249
+KEAU,Chippewa Valley Regional Airport,KEAU,EAU,Eau Claire,US,44.865799,-91.484299,913
+KEBG,South Texas International At Edinburg Airport,KEBG,,Edinburg,US,26.441700,-98.122200,75
+KEBS,Webster City Municipal Airport,KEBS,EBS,Webster City,US,42.436600,-93.868896,1122
+KECG,Elizabeth City Regional Airport & Coast Guard Air Station,KECG,ECG,Elizabeth City,US,36.260601,-76.174599,12
+KECP,Northwest Florida Beaches International Airport,KECP,ECP,Panama City Beach,US,30.341700,-85.797300,69
+KECS,Mondell Field,KECS,,Newcastle,US,43.885399,-104.318001,4174
+KECU,Edwards County Airport,KECU,,Rocksprings,US,29.946899,-100.174004,2372
+KEDE,Northeastern Regional Airport,KEDE,EDE,Edenton,US,36.027699,-76.567101,20
+KEDG,Weide Ahp (Aberdeen Proving Ground) Heliport,KEDG,,Edgewood Arsenal,US,39.391602,-76.291100,21
+KEDJ,Bellefontaine Regional Airport,KEDJ,,Bellefontaine,US,40.372299,-83.819000,1122
+KEDN,Enterprise Municipal Airport,KEDN,,Enterprise,US,31.299700,-85.899902,361
+KEDU,University Airport,KEDU,,Davis,US,38.531502,-121.786003,69
+KEDW,Edwards Air Force Base,KEDW,,Edwards,US,34.905399,-117.884003,2312
+KEED,Needles Airport,KEED,,Needles,US,34.766300,-114.623001,983
+KEEN,Dillant Hopkins Airport,KEEN,EEN,Keene,US,42.898399,-72.270798,488
+KEEO,Meeker Airport,KEEO,,Meeker,US,40.048801,-107.886002,6421
+KEET,Shelby County Airport,KEET,,Alabaster,US,33.176998,-86.782799,586
+KEFC,Belle Fourche Municipal Airport,KEFC,,Belle Fourche,US,44.734200,-103.862000,3191
+KEFD,Ellington Field,KEFD,,Houston,US,29.607300,-95.158798,32
+KEFK,Newport State Airport,KEFK,EFK,Newport,US,44.888802,-72.229202,930
+KEFT,Monroe Municipal Airport,KEFT,,Monroe,US,42.614899,-89.590401,1086
+KEFW,Jefferson Municipal Airport,KEFW,,Jefferson,US,42.010201,-94.342598,1044
+KEGE,Eagle County Regional Airport,KEGE,EGE,Eagle,US,39.642601,-106.917999,6548
+KEGI,"Duke Field,(Eglin Af Aux Nr 3) Airport",KEGI,,Crestview,US,30.650400,-86.522903,191
+KEGQ,Emmetsburg Municipal Airport,KEGQ,,Emmetsburg,US,43.102001,-94.704697,1205
+KEGT,Wellington Municipal Airport,KEGT,,Wellington,US,37.323601,-97.388298,1277
+KEGV,Eagle River Union Airport,KEGV,,Eagle River,US,45.932301,-89.268303,1642
+KEHA,Elkhart Morton County Airport,KEHA,,Elkhart,US,37.000702,-101.879997,3622
+KEHO,Shelby-Cleveland County Regional Airport,KEHO,,Shelby,US,35.255600,-81.600998,847
+KEHR,Henderson City County Airport,KEHR,,Henderson,US,37.807800,-87.685699,387
+KEHT,East Hartford Airport,KEHT,,Hartford,US,41.754200,-72.624702,49
+KEIK,Erie Municipal Airport,KEIK,,Erie,US,40.010201,-105.047997,5130
+KEIW,County Memorial Airport,KEIW,,New Madrid,US,36.535301,-89.599701,296
+KEKA,Murray Field,KEKA,,Eureka,US,40.803398,-124.112999,7
+KEKM,Elkhart Municipal Airport,KEKM,,Elkhart,US,41.719398,-86.003197,778
+KEKN,Elkins-Randolph Co-Jennings Randolph Field,KEKN,,Elkins,US,38.889400,-79.857101,1987
+KEKO,Elko Regional Airport,KEKO,EKO,Elko,US,40.824902,-115.792000,5140
+KEKQ,Wayne County Airport,KEKQ,,Monticello,US,36.855301,-84.856102,963
+KEKS,Ennis Big Sky Airport,KEKS,,Ennis,US,45.271801,-111.649002,5423
+KEKX,Addington Field,KEKX,,Elizabethtown,US,37.686001,-85.925003,775
+KEKY,Bessemer Airport,KEKY,,Bessemer,US,33.312901,-86.925903,700
+KELA,Eagle Lake Airport,KELA,,Eagle Lake,US,29.600599,-96.321899,184
+KELD,South Arkansas Regional At Goodwin Field,KELD,ELD,El Dorado,US,33.221001,-92.813301,277
+KELK,Elk City Regional Business Airport,KELK,,Elk City,US,35.430801,-99.394302,2013
+KELM,Elmira Corning Regional Airport,KELM,ELM,Elmira/Corning,US,42.159901,-76.891602,954
+KELN,Bowers Field,KELN,,Ellensburg,US,47.033001,-120.530998,1764
+KELO,Ely Municipal Airport,KELO,,Ely,US,47.824501,-91.830704,1456
+KELP,El Paso International Airport,KELP,ELP,El Paso,US,31.807199,-106.377998,3959
+KELY,Ely Airport Yelland Field,KELY,,Ely,US,39.299702,-114.842003,6259
+KELZ,"Wellsville Municipal Arpt,Tarantine Field",KELZ,,Wellsville,US,42.109501,-77.989998,2124
+KEMM,Kemmerer Municipal Airport,KEMM,,Kemmerer,US,41.824100,-110.556999,7285
+KEMP,Emporia Municipal Airport,KEMP,,Emporia,US,38.332100,-96.191200,1208
+KEMT,El Monte Airport,KEMT,,El Monte,US,34.086102,-118.035004,296
+KEMV,Emporia Greensville Regional Airport,KEMV,,Emporia,US,36.686901,-77.482803,127
+KEND,Vance Air Force Base,KEND,END,Enid,US,36.339199,-97.916496,1307
+KENL,Centralia Municipal Airport,KENL,,Centralia,US,38.515099,-89.091103,534
+KENV,Wendover Airport,KENV,,Wendover,US,40.718700,-114.030998,4237
+KENW,Kenosha Regional Airport,KENW,,Kenosha,US,42.595699,-87.927803,742
+KEOE,Newberry County Airport,KEOE,,Newberry,US,34.309299,-81.639702,570
+KEOK,Keokuk Municipal Airport,KEOK,,Keokuk,US,40.459900,-91.428497,671
+KEOP,Pike County Airport,KEOP,,Waverly,US,39.166901,-82.928200,660
+KEOS,Neosho Hugh Robinson Airport,KEOS,,Neosho,US,36.810799,-94.391701,1255
+KEPH,Ephrata Municipal Airport,KEPH,,Ephrata,US,47.307598,-119.515999,1276
+KEPM,Eastport Municipal Airport,KEPM,,Eastport,US,44.910099,-67.012703,45
+KEQA,Captain Jack Thomas El Dorado Airport,KEQA,,El Dorado,US,37.774101,-96.817596,1378
+KEQY,Charlotte-Monroe Executive Airport,KEQY,,Monroe,US,35.018799,-80.620201,679
+KERI,Erie International Tom Ridge Field,KERI,ERI,Erie,US,42.083127,-80.173867,732
+KERR,Errol Airport,KERR,,Errol,US,44.792500,-71.164200,1245
+KERV,Kerrville Municipal Louis Schreiner Field,KERV,,Kerrville,US,29.976700,-99.085701,1617
+KERY,Luce County Airport,KERY,,Newberry,US,46.311199,-85.457298,869
+KESC,Delta County Airport,KESC,,Escanaba,US,45.722698,-87.093697,609
+KESF,Esler Regional Airport,KESF,,Alexandria,US,31.394899,-92.295799,112
+KESN,Easton Newnam Field,KESN,,Easton,US,38.804199,-76.069000,72
+KEST,Estherville Municipal Airport,KEST,,Estherville,US,43.407398,-94.746399,1319
+KESW,Easton State Airport,KESW,,Easton,US,47.254200,-121.185997,2226
+KETB,West Bend Municipal Airport,KETB,,West Bend,US,43.422199,-88.127899,887
+KETC,Tarboro Edgecombe Airport,KETC,,Tarboro,US,35.937099,-77.546600,53
+KETH,Wheaton Municipal Airport,KETH,,Wheaton,US,45.780499,-96.543503,1025
+KETN,Eastland Municipal Airport,KETN,,Eastland,US,32.413502,-98.809799,1464
+KEUF,Weedon Field,KEUF,,Eufaula,US,31.951300,-85.128899,285
+KEUG,Mahlon Sweet Field,KEUG,EUG,Eugene,US,44.124599,-123.211998,374
+KEUL,Caldwell Industrial Airport,KEUL,,Caldwell,US,43.641899,-116.636002,2432
+KEVB,New Smyrna Beach Municipal Airport,KEVB,,New Smyrna Beach,US,29.055700,-80.948898,10
+KEVM,Eveleth Virginia Municipal Airport,KEVM,,Eveleth,US,47.425098,-92.498497,1379
+KEVU,Northwest Missouri Regional Airport,KEVU,,Maryville,US,40.352501,-94.915001,1145
+KEVV,Evansville Regional Airport,KEVV,EVV,Evansville,US,38.036999,-87.532402,418
+KEVW,Evanston-Uinta County Airport-Burns Field,KEVW,EVW,Evanston,US,41.274799,-111.035004,7143
+KEVY,Summit Airport,KEVY,,Middletown,US,39.520401,-75.720398,70
+KEWB,New Bedford Regional Airport,KEWB,EWB,New Bedford,US,41.676102,-70.956902,80
+KEWK,Newton City-County Airport,KEWK,EWK,Newton,US,38.058201,-97.274498,1533
+KEWN,Coastal Carolina Regional Airport,KEWN,EWN,New Bern,US,35.073002,-77.042900,18
+KEWR,Newark Liberty International Airport,KEWR,EWR,Newark,US,40.692501,-74.168701,18
+KEXX,Davidson County Airport,KEXX,,Lexington,US,35.781101,-80.303802,733
+KEYE,Eagle Creek Airpark,KEYE,,Indianapolis,US,39.830700,-86.294403,823
+KEYF,Curtis L Brown Jr Field,KEYF,,Elizabethtown,US,34.601799,-78.579300,131
+KEYQ,Weiser Air Park,KEYQ,,Houston,US,29.935200,-95.639603,137
+KEYW,Key West International Airport,KEYW,EYW,Key West,US,24.556101,-81.759598,3
+KEZF,Shannon Airport,KEZF,,Fredericksburg,US,38.266800,-77.449203,85
+KEZI,Kewanee Municipal Airport,KEZI,,Kewanee,US,41.205200,-89.963898,858
+KEZM,Heart of Georgia Regional Airport,KEZM,,Eastman,US,32.214199,-83.127998,304
+KEZS,Shawano Municipal Airport,KEZS,,Shawano,US,44.786999,-88.558998,813
+KEZZ,Cameron Memorial Airport,KEZZ,,Cameron,US,39.727600,-94.276398,1040

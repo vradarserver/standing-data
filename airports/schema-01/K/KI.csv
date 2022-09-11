@@ -1,0 +1,102 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KI06,City of Tulia-Swisher County Municipal Airport,KI06,,Tulia,US,34.566799,-101.780998,3503
+KI10,Noble County Airport,KI10,,Caldwell,US,39.800999,-81.536301,879
+KI12,Sidney Municipal Airport,KI12,,Sidney,US,40.241402,-84.150902,1044
+KI16,Kee Field,KI16,,Pineville,US,37.600399,-81.559303,1783
+KI17,Piqua Airport-Hartzell Field,KI17,,Piqua,US,40.164700,-84.308403,994
+KI18,Jackson County Airport,KI18,,Ravenswood,US,38.929798,-81.819504,758
+KI22,Randolph County Airport,KI22,,Winchester,US,40.168900,-84.925697,1119
+KI23,Fayette County Airport,KI23,,Washington Court House,US,39.570400,-83.420502,980
+KI34,Greensburg Municipal Airport,KI34,,Greensburg,US,39.326900,-85.522499,912
+KI35,Tucker Guthrie Memorial Airport,KI35,,Harlan,US,36.859299,-83.358498,1551
+KI39,Madison Airport,KI39,,Richmond,US,37.630798,-84.332298,1002
+KI40,Richard Downing Airport,KI40,,Coshocton,US,40.309200,-81.853401,979
+KI43,James A Rhodes Airport,KI43,,Jackson,US,38.981400,-82.577904,726
+KI50,Stanton Airport,KI50,,Stanton,US,37.850101,-83.845802,651
+KI53,Liberty Casey County Airport,KI53,,Liberty,US,37.309502,-85.058800,1040
+KI54,Mad River Inc Airport,KI54,,Tremont City,US,40.020100,-83.828499,958
+KI58,Santa Rosa Route 66 Airport,KI58,,Santa Rosa,US,34.934399,-104.642998,4792
+KI63,Mount Sterling Municipal Airport,KI63,,Mount Sterling,US,39.987499,-90.804199,734
+KI64,Wakeman Airport,KI64,,Wakeman,US,41.293098,-82.370697,848
+KI66,Clinton Field,KI66,,Wilmington,US,39.503300,-83.862801,1033
+KI67,Cincinnati West Airport,KI67,,Harrison,US,39.258900,-84.774300,584
+KI68,Lebanon Warren County Airport,KI68,,Lebanon,US,39.462200,-84.251801,898
+KI69,Clermont County Airport,KI69,,Batavia,US,39.078400,-84.210197,843
+KI71,Morgan County Airport,KI71,,Mc Connelsville,US,39.654202,-81.803200,1000
+KI73,Moraine Air Park,KI73,,Dayton,US,39.682598,-84.242996,720
+KI74,Grimes Field,KI74,,Urbana,US,40.132599,-83.753403,1068
+KI75,Osceola Municipal Airport,KI75,,Osceola,US,41.052200,-93.689697,1110
+KI76,Peru Municipal Airport,KI76,,Peru,US,40.786301,-86.146400,779
+KI86,Perry County Airport,KI86,,New Lexington,US,39.691601,-82.197800,1051
+KI93,Breckinridge County Airport,KI93,,Hardinsburg,US,37.785099,-86.441902,735
+KI95,Hardin County Airport,KI95,,Kenton,US,40.610699,-83.643600,1024
+KIAB,Mc Connell Air Force Base,KIAB,IAB,Wichita,US,37.621899,-97.268204,1371
+KIAD,Washington Dulles International Airport,KIAD,IAD,Washington,US,38.944500,-77.455803,312
+KIAG,Niagara Falls International Airport,KIAG,IAG,Niagara Falls,US,43.107300,-78.946198,589
+KIAH,George Bush Intercontinental Houston Airport,KIAH,IAH,Houston,US,29.984400,-95.341400,97
+KIBM,Kimball Municipal Robert E Arraj Field,KIBM,,Kimball,US,41.188099,-103.677002,4926
+KICL,Schenck Field,KICL,ICL,Clarinda,US,40.721802,-95.026398,996
+KICR,Winner Regional Airport,KICR,,Winner,US,43.390202,-99.842102,2033
+KICT,Wichita Mid Continent Airport,KICT,ICT,Wichita,US,37.649899,-97.433098,1333
+KIDA,Idaho Falls Regional Airport,KIDA,IDA,Idaho Falls,US,43.514599,-112.070999,4744
+KIDG,Ida Grove Municipal Airport,KIDG,,Ida Grove,US,42.332600,-95.444901,1245
+KIDI,Indiana County/Jimmy Stewart Fld/ Airport,KIDI,IDI,Indiana,US,40.632198,-79.105499,1405
+KIDL,Indianola Municipal Airport,KIDL,,Indianola,US,33.485699,-90.678902,126
+KIDP,Independence Municipal Airport,KIDP,IDP,Independence,US,37.158401,-95.778397,825
+KIEN,Pine Ridge Airport,KIEN,XPR,Pine Ridge,US,43.022499,-102.511002,3333
+KIER,Natchitoches Regional Airport,KIER,,Natchitoches,US,31.735701,-93.099098,121
+KIFA,Iowa Falls Municipal Airport,KIFA,IFA,Iowa Falls,US,42.470798,-93.269997,1137
+KIFP,Laughlin Bullhead International Airport,KIFP,IFP,Bullhead City,US,35.157398,-114.559998,701
+KIGM,Kingman Airport,KIGM,IGM,Kingman,US,35.259499,-113.938004,3449
+KIGQ,Lansing Municipal Airport,KIGQ,,Chicago,US,41.534901,-87.529503,620
+KIGX,Horace Williams Airport,KIGX,,Chapel Hill,US,35.935001,-79.065903,512
+KIIB,Independence Municipal Airport,KIIB,,Independence,US,42.453602,-91.947601,979
+KIIY,Washington Wilkes County Airport,KIIY,,Washington,US,33.779400,-82.815804,646
+KIJD,Windham Airport,KIJD,,Willimantic,US,41.743999,-72.180298,247
+KIJX,Jacksonville Municipal Airport,KIJX,,Jacksonville,US,39.774601,-90.238297,624
+KIKG,Kleberg County Airport,KIKG,,Kingsville,US,27.550900,-98.030899,130
+KIKK,Greater Kankakee Airport,KIKK,,Kankakee,US,41.071400,-87.846298,630
+KIKV,Ankeny Regional Airport,KIKV,,Ankeny,US,41.691399,-93.566399,910
+KILE,Skylark Field,KILE,,Killeen,US,31.085800,-97.686501,848
+KILG,New Castle Airport,KILG,ILG,Wilmington,US,39.678699,-75.606499,80
+KILL,Willmar Municipal John L Rice Field,KILL,,Willmar,US,45.115700,-95.088799,1127
+KILM,Wilmington International Airport,KILM,ILM,Wilmington,US,34.270599,-77.902603,32
+KILN,Airborne Airpark,KILN,ILN,Wilmington,US,39.427898,-83.792099,1077
+KIML,Imperial Municipal Airport,KIML,,Imperial,US,40.509300,-101.621002,3275
+KIMM,Immokalee Regional Airport,KIMM,,Immokalee,US,26.433201,-81.401001,37
+KIMS,Madison Municipal Airport,KIMS,,Madison,US,38.758900,-85.465500,819
+KIMT,Ford Airport,KIMT,IMT,Iron Mountain Kingsford,US,45.818401,-88.114502,1182
+KIND,Indianapolis International Airport,KIND,IND,Indianapolis,US,39.717300,-86.294403,797
+KINJ,Hillsboro Municipal Airport,KINJ,,Hillsboro,US,32.083500,-97.097198,686
+KINK,Winkler County Airport,KINK,,Wink,US,31.779600,-103.200996,2822
+KINL,Falls International Airport,KINL,INL,International Falls,US,48.566200,-93.403099,1185
+KINS,Creech Air Force Base,KINS,,Indian Springs,US,36.587200,-115.672997,3133
+KINT,Smith Reynolds Airport,KINT,INT,Winston Salem,US,36.133701,-80.222000,969
+KINW,Winslow Lindbergh Regional Airport,KINW,,Winslow,US,35.021900,-110.723000,4941
+KIOB,Mount Sterling Montgomery County Airport,KIOB,,Mount Sterling,US,38.058102,-83.979599,1019
+KIOW,Iowa City Municipal Airport,KIOW,,Iowa City,US,41.639198,-91.546501,668
+KIPJ,Lincolnton Lincoln County Regional Airport,KIPJ,,Lincolnton,US,35.483299,-81.161301,877
+KIPL,Imperial County Airport,KIPL,IPL,Imperial,US,32.834202,-115.579002,-54
+KIPT,Williamsport Regional Airport,KIPT,IPT,Williamsport,US,41.241798,-76.921097,529
+KIRK,Kirksville Regional Airport,KIRK,IRK,Kirksville,US,40.093498,-92.544899,966
+KIRS,Kirsch Municipal Airport,KIRS,,Sturgis,US,41.813301,-85.439003,924
+KISB,Sibley Municipal Airport,KISB,,Sibley,US,43.369499,-95.759804,1538
+KISM,Kissimmee Gateway Airport,KISM,,Orlando,US,28.289801,-81.437103,82
+KISN,Sloulin Field International Airport,KISN,ISN,Williston,US,48.177898,-103.641998,1982
+KISO,Kinston Regional Jetport At Stallings Field,KISO,,Kinston,US,35.331402,-77.608803,93
+KISP,Long Island Mac Arthur Airport,KISP,ISP,Islip,US,40.795200,-73.100197,99
+KISQ,Schoolcraft County Airport,KISQ,,Manistique,US,45.974602,-86.171799,684
+KISW,Alexander Field South Wood County Airport,KISW,,Wisconsin Rapids,US,44.360298,-89.838997,1021
+KISZ,Cincinnati Blue Ash Airport,KISZ,,Cincinnati,US,39.246700,-84.389000,856
+KITH,Ithaca Tompkins Regional Airport,KITH,ITH,Ithaca,US,42.491001,-76.458397,1099
+KITR,Kit Carson County Airport,KITR,,Burlington,US,39.242500,-102.285004,4219
+KIWA,Phoenix-Mesa-Gateway Airport,KIWA,AZA,Phoenix,US,33.307800,-111.654999,1382
+KIWD,Gogebic Iron County Airport,KIWD,IWD,Ironwood,US,46.527500,-90.131401,1230
+KIWH,Wabash Municipal Airport,KIWH,,Wabash,US,40.762001,-85.798798,796
+KIWI,Wiscasset Airport,KIWI,,Wiscasset,US,43.961399,-69.712601,70
+KIWS,West Houston Airport,KIWS,,Houston,US,29.818199,-95.672600,111
+KIXA,Halifax-Northampton Regional Airport,KIXA,,Roanoke Rapids,US,36.329800,-77.635231,145
+KIXD,New Century Aircenter Airport,KIXD,,Olathe,US,38.830898,-94.890297,1087
+KIYK,Inyokern Airport,KIYK,IYK,Inyokern,US,35.658798,-117.830002,2457
+KIZA,Santa Ynez Airport,KIZA,,Santa Ynez,US,34.606800,-120.075996,674
+KIZG,Eastern Slopes Regional Airport,KIZG,,Fryeburg,US,43.991100,-70.947899,454

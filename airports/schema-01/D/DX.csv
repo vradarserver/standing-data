@@ -1,0 +1,8 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+DXAK,Akpaka Airport,DXAK,,Atakpamé,TG,7.583000,1.117000,689
+DXDP,Djangou Airport,DXDP,,Dapaong,TG,10.800000,0.242000,886
+DXKP,Kolokope Airport,DXKP,,Anié,TG,7.800000,1.283000,591
+DXMG,Sansanné-Mango Airport,DXMG,,Mango,TG,10.373011,0.471382,460
+DXNG,Niamtougou International Airport,DXNG,LRL,Niamtougou,TG,9.767330,1.091250,1515
+DXSK,Sokodé Airport,DXSK,,Sokodé,TG,8.983000,1.150000,1214
+DXXX,Lomé-Tokoin Airport,DXXX,LFW,Lomé,TG,6.165610,1.254510,72

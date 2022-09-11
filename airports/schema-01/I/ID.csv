@@ -1,0 +1,100 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ID00,Hubler Field,ID00,,Caldwell,US,43.695702,-116.638000,2385
+ID01,Cx Ranch Airport,ID01,,Clark Fork,US,48.138000,-116.197998,2071
+ID02,Coeur D'Alene Resort Heliport,ID02,,Coeur D'Alene,US,47.672100,-116.783997,2174
+ID03,Kootenai Medical Center Heliport,ID03,,Coeur D'Alene,US,47.695999,-116.794998,2230
+ID04,J-Lazy-M Ranch Airport,ID04,,Fish Haven,US,42.029099,-111.422997,6190
+ID05,Hackney Airpark,ID05,,Athol,US,47.956799,-116.677002,2445
+ID06,Ranch Aero Airport,ID06,,Hayden Lake,US,47.828800,-116.783997,2315
+ID07,Nichols Ranch Airport,ID07,,Post Falls,US,47.678101,-117.025002,2430
+ID08,Mc Call Memorial Hospital Heliport,ID08,,Mc Call,US,44.909100,-116.110001,5018
+ID09,Otterson Ranch Airport,ID09,,Post Falls,US,47.740200,-116.998001,2150
+ID10,Anderson-Plummer Airport,ID10,,Potlatch,US,46.924301,-116.958000,2580
+ID11,Wood Brothers Ranch Airport,ID11,,Reubens,US,46.382099,-116.513000,3400
+ID12,Russell W Anderson Strip,ID12,,Riverside,US,43.184399,-112.466003,4450
+ID13,Sky Island Ranch Airport,ID13,,St Maries,US,47.322102,-116.639999,2880
+ID14,Benewah Community Hospital Heliport,ID14,,St Maries,US,47.314098,-116.567001,2235
+ID15,Wallace Ranger Station Heliport,ID15,,Silverton,US,47.493500,-115.959999,2720
+ID16,Sluder Airstrip,ID16,,Bellevue,US,43.403500,-114.273003,5017
+ID17,Seven Devils Airport,ID17,,Council,US,45.011002,-116.689003,4487
+ID18,Eirmc Heliport,ID18,,Idaho Falls,US,43.471001,-111.991997,4713
+ID19,Bird Nr 2 Airport,ID19,,Sandpoint,US,48.230999,-116.389000,2192
+ID20,Hubof's Heliport,ID20,,Post Falls,US,47.733002,-117.000000,2000
+ID21,Smith Ranch Airport,ID21,,Hauser Lake,US,47.756302,-117.024002,2370
+ID22,Treeport Airport,ID22,,Spirit Lake,US,47.978001,-116.792999,2500
+ID23,Rock Creek Farm Airport,ID23,,Worley,US,47.392399,-116.873001,2500
+ID24,Timber Basin Airpark Inc Airport,ID24,,Sagle,US,48.223499,-116.439003,2220
+ID25,Olmstead Sky Ranch Airport,ID25,,Sandpoint,US,48.350800,-116.554001,2140
+ID26,P And R Field,ID26,,Mayfield,US,43.224167,-115.966944,3125
+ID27,Hawk Haven Airport,ID27,,Coeur d Alene,US,47.755501,-116.859001,2333
+ID28,Mackay Bar Airport,ID28,,Dixie,US,45.379101,-115.504997,2172
+ID29,Big Island Airport,ID29,,Orofino,US,46.697399,-115.984001,2249
+ID30,Everett II Heliport,ID30,,Ketchum,US,43.772099,-114.405998,6165
+ID31,Young Heliport,ID31,,Eagle,US,43.716599,-116.389000,2625
+ID32,Tuka STOLport,ID32,,Clark Fork,US,48.105499,-116.137001,2086
+ID33,Stocking Meadows Airport,ID33,,Clarkia,US,46.936001,-115.864998,3850
+ID34,Granite Airport,ID34,,Athol,US,47.984600,-116.682999,2260
+ID35,High Valley Swanson Airport,ID35,,Cascade,US,44.239101,-116.142998,4883
+ID36,King Mountain Glider Park,ID36,,Moore,US,43.763056,-113.343889,5500
+ID37,St Joseph's Regional Medical Center Heliport,ID37,,Lewiston,US,46.413200,-117.016998,740
+ID38,Sutherland Heliport,ID38,,Hauser Lake,US,47.779900,-117.010002,2100
+ID39,Owen Ranches Inc Airport,ID39,,Bruneau,US,42.795700,-115.734001,2620
+ID40,Sunrise Skypark Airport,ID40,,Marsing,US,43.417801,-116.706001,2240
+ID41,Stibnite Airport,ID41,,Yellow Pine,US,44.899899,-115.333000,6539
+ID42,Shoshone Blm Heliport,ID42,,Shoshone,US,42.931900,-114.413002,3980
+ID43,Carlin Bay Airport,ID43,,Coeur D'Alene,US,47.551300,-116.764000,2702
+ID44,Hidden Lakes Airport,ID44,,Cascade,US,44.224899,-116.180000,4845
+ID45,Magic Valley Regional Medical Center Heliport,ID45,,Twin Falls,US,42.564602,-114.495003,3675
+ID46,Dworshak Heliport,ID46,,Ahsahka,US,46.512100,-116.292999,1615
+ID47,Whelan's Heliport,ID47,,Huston,US,43.597099,-116.781998,2565
+ID48,Western Spur Airport,ID48,,Athol,US,47.928799,-116.710999,2350
+ID49,St Luke's Boise Medical Center Heliport,ID49,,Boise,US,43.612701,-116.192001,2863
+ID50,Q.B. One Airport,ID50,,Idaho Falls,US,43.601299,-112.242996,4875
+ID51,Welburn Heliport,ID51,,Hayden Lake,US,47.783199,-116.683998,2250
+ID52,Bowman Field,ID52,,Chester,US,43.993000,-111.551003,5100
+ID53,Minidoka Memorial Hospital Heliport,ID53,,Rupert,US,42.620998,-113.685997,4156
+ID54,Bottle Bay Seaplane Base,ID54,,Sandpoint,US,48.479099,-116.445000,2063
+ID55,Valley County Hospital Heliport,ID55,,Cascade,US,44.518799,-116.047997,4800
+ID56,Star 's' Ranch Airport,ID56,,Mackay,US,43.981899,-114.043999,6660
+ID57,University of Idaho Heliport,ID57,,Moscow,US,46.727100,-117.024002,2604
+ID58,Nampa Valley Heliport,ID58,,Boise,US,43.591000,-116.277000,2690
+ID59,Flying A Ranch Airport,ID59,,Lake Fork,US,44.817600,-116.068001,4918
+ID60,Fountains Airport,ID60,,Moscow,US,46.713200,-116.997002,2550
+ID61,Valenov Ranch Airport,ID61,,Priest River,US,48.296600,-117.014999,2425
+ID62,Simpson Airport,ID62,,Grace,US,42.608299,-111.728996,5598
+ID63,Richards Airport,ID63,,Homedale,US,43.671001,-117.025002,2290
+ID64,Portneuf Medical Center Heliport,ID64,,Pocatello,US,42.867699,-112.431000,4550
+ID65,Pisch's Place Airport,ID65,,Coeur D'Alene,US,47.581001,-116.772003,2775
+ID66,Clearwater Valley Hospital Heliport,ID66,,Orofino,US,46.486599,-116.250000,1005
+ID67,Lower Loon Creek Airport,ID67,,Challis,US,44.808201,-114.808998,4200
+ID68,Green Acres Airport,ID68,,Kuna,US,43.484600,-116.459000,2865
+ID69,Sun Valley Gun Club Heliport,ID69,,Sun Valley,US,42.705502,-114.348999,6000
+ID70,Gulch Trust Heliport,ID70,,Ketchum/Sun Valley,US,43.704601,-114.377998,5915
+ID71,Big Country Heliport,ID71,,Coeur D'Alene,US,47.693100,-116.783997,2223
+ID72,Huskey Airport,ID72,,Irwin,US,43.417400,-111.285004,5200
+ID73,Rockford Bay Heliport,ID73,,Coeur D Alene,US,47.506802,-116.891998,2132
+ID74,Sulphur Creek Ranch Airport,ID74,,Cascade,US,44.536598,-115.350998,5835
+ID75,Riverlake Airport,ID75,,Clark Fork,US,48.125999,-116.165001,2076
+ID76,Wilson Bar US Forest Service Airport,ID76,,Dixie,US,45.396702,-115.483002,2250
+ID77,Cuddy Meadows Airport,ID77,,Cambridge,US,44.705299,-116.806999,4580
+ID78,Cx Ranch Nr 2 Airport,ID78,,Clark Fork,US,48.141602,-116.181999,2070
+ID79,Sky Ranch South Airport,ID79,,Nampa,US,43.508301,-116.667999,2750
+ID80,West Valley Hospital Heliport,ID80,,Caldwell,US,43.654167,-116.986000,2384
+ID82,Picabo Airport,ID82,,Picabo,US,43.308201,-114.063004,4828
+ID83,Mercy Heliport,ID83,,Nampa,US,43.552101,-116.567001,2535
+ID84,Cptpa Headquarters Airport,ID84,,Headquarters,US,46.617100,-115.800003,3314
+ID85,Elk River Airport,ID85,,Elk River,US,46.787399,-116.167999,2827
+ID86,Deadwood Dam Airstrip,ID86,,Cascade,US,44.297798,-115.640999,5489
+ID87,Rainbow Ranch Airport,ID87,,Idaho Falls,US,43.406898,-111.973999,4750
+ID88,Tracy Ranch Airport,ID88,,Hill City,US,43.287399,-115.080002,5071
+ID89,Boise Plaza Heliport,ID89,,Boise,US,43.653198,-116.206001,2890
+ID90,Spencer Ranch Landing Strip,ID90,,Keuterville,US,45.838799,-116.658997,4284
+ID91,St Alphonsus Heliport,ID91,,Boise,US,43.614300,-116.264000,2800
+ID92,Snake River Skydiving Airport,ID92,,Star,US,43.728802,-116.523003,2550
+ID93,Reed Ranch Airport,ID93,,Yellow Pine,US,44.894299,-115.712997,4153
+ID94,Friendly Persuasion Farm Airport,ID94,,Troy,US,46.776699,-116.691002,2860
+ID95,Loomis Airport,ID95,,Horseshoe Bend,US,43.861000,-116.240997,4180
+ID96,Bear Air Airport,ID96,,Donnelly,US,44.785198,-116.067001,4904
+ID97,Hangman Creek Ranch Airport,ID97,,De Smet,US,47.107101,-116.810997,2635
+ID98,Scanlon Heliport,ID98,,Coeur D'Alene,US,42.567402,-117.495003,2000
+ID99,Mvrmc Nr2 Heliport,ID99,,Twin Falls,US,42.567402,-114.495003,3680

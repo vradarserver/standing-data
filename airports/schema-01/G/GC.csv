@@ -1,0 +1,12 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GCFV,Fuerteventura Airport,GCFV,FUE,Fuerteventura Island,ES,28.452700,-13.863800,85
+GCGM,La Gomera Airport,GCGM,GMZ,"Alajero, La Gomera Island",ES,28.029600,-17.214600,716
+GCGO,San Sebastián De La Gomera Heliport,GCGO,,La Gomera Island,ES,28.097200,-17.102400,1
+GCHI,Hierro Airport,GCHI,VDE,El Hierro Island,ES,27.814800,-17.887100,103
+GCHU,Hospital Universitario De Canarias Heliport,GCHU,,Tenerife Island,ES,28.456200,-16.292101,1080
+GCLA,La Palma Airport,GCLA,SPC,"Sta Cruz de la Palma, La Palma Island",ES,28.626499,-17.755600,107
+GCLB,El Berriel Aeroc Airport,GCLB,,Gran Canaria Island,ES,27.782499,-15.507200,20
+GCLP,Gran Canaria Airport,GCLP,LPA,Gran Canaria Island,ES,27.931900,-15.386600,78
+GCRR,Lanzarote Airport,GCRR,ACE,Lanzarote Island,ES,28.945499,-13.605200,46
+GCTS,Tenerife South Airport,GCTS,TFS,Tenerife Island,ES,28.044500,-16.572500,209
+GCXO,Tenerife Norte Airport,GCXO,TFN,Tenerife Island,ES,28.482700,-16.341499,2076

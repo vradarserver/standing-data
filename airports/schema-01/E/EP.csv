@@ -1,0 +1,66 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EPAR,Arlamów Airport,EPAR,,Bircza,PL,49.657501,22.514299,426
+EPBD,Bydgoszcz-Biedaszkowo Airport,EPBD,,Bydgoszcz,PL,53.103100,17.955601,230
+EPBK,Białystok-Krywlany Airport,EPBK,QYY,Białystok,PL,53.101398,23.170601,502
+EPBP,Biała Podlaska Airport,EPBP,BXP,Biała Podlaska,PL,52.005798,23.143600,495
+EPBS,Borne Sulinowo Airport,EPBS,,Borne Sulinowo,PL,53.575001,16.524200,469
+EPBY,Bydgoszcz Ignacy Jan Paderewski Airport,EPBY,BZG,Bydgoszcz,PL,53.096802,17.977699,235
+EPCE,Cewice Military Airport,EPCE,,Lębork,PL,54.416000,17.763300,495
+EPCH,Częstochowa-Rudniki,EPCH,CZW,Częstochowa,PL,50.884998,19.204700,860
+EPDA,Darłówek Naval Air Base,EPDA,,Darłowo,PL,54.404701,16.353100,10
+EPDE,Deblin Military Air Base,EPDE,,Dęblin,PL,51.551399,21.893600,392
+EPDR,Ziemsko Airport,EPDR,,Drawsko Pomorskie,PL,53.477798,15.730800,377
+EPGD,Gdańsk Lech Wałęsa Airport,EPGD,GDN,Gdańsk,PL,54.377602,18.466200,489
+EPGO,Góraszka Airport,EPGO,,Sulejówek,PL,52.184441,21.281111,361
+EPIW,Iwonicz Airport,EPIW,,Krosno,PL,49.657799,21.817499,971
+EPJA,Jastarnia Airport,EPJA,,Jastarnia,PL,54.710281,18.645281,3
+EPJG,Jelenia Góra Glider Airport,EPJG,,Jelenia Góra,PL,50.898899,15.785600,1119
+EPJS,Jeżów Sudecki Airport,EPJS,,Jelenia Góra,PL,50.928329,15.759720,1834
+EPKA,Kielce Maslow Airport,EPKA,,Kielce,PL,50.896702,20.731701,1010
+EPKE,Kȩtrzyn-Wilamowo Airport,EPKE,,Kȩtrzyn,PL,54.043598,21.432199,417
+EPKK,John Paul II International Airport Kraków-Balice Airport,EPKK,KRK,Kraków,PL,50.077702,19.784800,791
+EPKP,Pobiednik Wielki Airport,EPKP,,Kraków,PL,50.089699,20.201700,650
+EPKR,Krosno Airport,EPKR,,Krosno,PL,49.681099,21.737200,922
+EPKT,Katowice International Airport,EPKT,KTW,Katowice,PL,50.474300,19.080000,995
+EPKW,Bielsko-Bialo Kaniow Airfield,EPKW,QEO,Czechowice-Dziedzice,PL,49.939999,19.021999,1316
+EPLB,Lublin Airport,EPLB,LUZ,Lublin,PL,51.239300,22.714400,677
+EPLL,Łódź Władysław Reymont Airport,EPLL,LCJ,Łódź,PL,51.721901,19.398100,604
+EPLN,Łańsk / Gryźliny Airport,EPLN,,Olsztynek,PL,53.608059,20.344440,538
+EPLS,Leszno Strzyzewi Airport,EPLS,,Leszno,PL,51.834999,16.521900,312
+EPLY,Leczyca Military Air Base,EPLY,,Leczyca,PL,52.004700,19.145599,377
+EPMI,Miroslawiec Military Air Base,EPMI,,Mirosławiec,PL,53.395100,16.082800,459
+EPMJ,Mikołajki Airport,EPMJ,,Mikołajki,PL,53.807781,21.555830,423
+EPMO,Modlin Airport,EPMO,WMI,Warsaw,PL,52.451099,20.651800,341
+EPMR,Mirosławice Private Airport,EPMR,,Sobótka,PL,50.957802,16.770300,495
+EPNL,Nowy Sącz-Łososina Dolna Airport,EPNL,,Nowy Sącz,PL,49.745602,20.623600,830
+EPNM,Nowe Miasto nad Pilica Airfield,EPNM,,Nowe Miasto nad Pilicą,PL,51.625000,20.535000,512
+EPNT,Nowy Targ Airport,EPNT,QWS,Nowy Targ,PL,49.462799,20.050301,2060
+EPOK,Oksywie Military Air Base,EPOK,QYD,Gdynia,PL,54.579700,18.517200,144
+EPOM,Ostrów Airport,EPOM,,Ostrów,PL,51.701099,17.845600,469
+EPOP,Opole-Polska Nowa Wieś Airport,EPOP,QPM,Opole,PL,50.633301,17.781700,620
+EPPC,Pińczów Airport,EPPC,,Pińczów,PL,50.518299,20.514999,610
+EPPK,Poznań-Kobylnica Airport,EPPK,,Poznań,PL,52.433899,17.044201,279
+EPPO,Poznań-Ławica Airport,EPPO,POZ,Poznań,PL,52.421001,16.826300,308
+EPPT,Piotrków Trybunalski-Bujny Airport,EPPT,,Piotrków Trybunalski,PL,51.383099,19.688299,673
+EPRA,Radom Airport,EPRA,RDO,Radom,PL,51.389167,21.213611,610
+EPRG,Rybnik-Gotarowice Glider Airport,EPRG,,Rybnik,PL,50.070801,18.628300,840
+EPRJ,Rzeszów Airport,EPRJ,,Rzeszów,PL,50.105301,22.048100,659
+EPRP,Radom-Piastrów Glider Airport,EPRP,,Radom,PL,51.478901,21.110001,479
+EPRZ,Rzeszów-Jasionka Airport,EPRZ,RZE,Rzeszów,PL,50.110001,22.018999,675
+EPSC,Szczecin-Goleniów Solidarność Airport,EPSC,SZZ,Goleniow,PL,53.584702,14.902200,154
+EPSD,Szczecin-Dąbie Airport,EPSD,,Szczecin,PL,53.392101,14.633800,3
+EPSR,Słupsk-Krȩpa Airport,EPSR,,Słupsk,PL,54.408298,17.095600,249
+EPST,Stalowa Wola-Turbia Airport,EPST,,Stalowa Wola,PL,50.627499,21.998301,489
+EPSU,Suwałki Airport,EPSU,,Suwałki,PL,54.072800,22.899200,581
+EPSW,Świdnik Lotnisko Airport,EPSW,,Świdnik,PL,51.231899,22.690300,659
+EPSY,Olsztyn-Mazury Airport,EPSY,SZY,Olsztyn-Mazury,PL,53.481944,20.937778,463
+EPTM,Tomaszow Mazowiecki Military Air Base,EPTM,,Tomaszów Mazowiecki,PL,51.584400,20.097799,571
+EPWA,Warsaw Chopin Airport,EPWA,WAW,Warsaw,PL,52.165699,20.967100,362
+EPWK,Włocławek-Kruszyn Airport,EPWK,,Włocławek,PL,52.584702,19.015600,220
+EPWR,Copernicus Wrocław Airport,EPWR,WRO,Wrocław,PL,51.102699,16.885799,404
+EPWS,Wrocław-Szymanów Airport,EPWS,,Wrocław,PL,51.206100,16.998600,390
+EPZA,Zamość-Mokre Airport,EPZA,,Zamość,PL,50.701698,23.204399,751
+EPZG,Zielona Góra-Babimost Airport,EPZG,IEG,Babimost,PL,52.138500,15.798600,194
+EPZN,Tomaszowo Airport,EPZN,,Zagan,PL,51.627499,15.408300,459
+EPZP,Zielona Góra-Przylep Airport,EPZP,,Zielona Góra,PL,51.978901,15.463900,249
+EPZR,Żar Airport,EPZR,,Międzybrodzie  Żywieckie,PL,49.771099,19.218100,1260

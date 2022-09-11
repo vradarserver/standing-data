@@ -1,0 +1,167 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KA08,Vaiden Field,KA08,,Marion,US,32.512402,-87.385597,225
+KA09,Eagle Airpark,KA09,,Bullhead City,US,34.887501,-114.615997,485
+KA20,Sun Valley Airport,KA20,,Bullhead City,US,35.012501,-114.563004,725
+KA24,California Pines Airport,KA24,,Alturas,US,41.412399,-120.683998,4398
+KA30,Scott Valley Airport,KA30,,Fort Jones,US,41.558201,-122.855003,2728
+KA32,Butte Valley Airport,KA32,,Dorris,US,41.887199,-121.975998,4243
+KA34,Dayton Valley Airpark,KA34,,Dayton/Carson City,US,39.238400,-119.555000,4414
+KA39,Phoenix Regional Airport,KA39,,Phoenix,US,32.991699,-111.920998,1300
+KA50,Colorado Springs East Airport,KA50,,Ellicott,US,38.874401,-104.410004,6145
+KAAA,Logan County Airport,KAAA,,Lincoln,US,40.158699,-89.334999,597
+KAAF,Apalachicola Regional Airport,KAAF,AAF,Apalachicola,US,29.727501,-85.027496,20
+KAAO,Colonel James Jabara Airport,KAAO,,Wichita,US,37.747601,-97.221100,1421
+KAAS,Taylor County Airport,KAAS,,Campbellsville,US,37.358299,-85.309402,921
+KAAT,Alturas Municipal Airport,KAAT,,Alturas,US,41.483002,-120.565002,4378
+KABE,Lehigh Valley International Airport,KABE,ABE,Allentown,US,40.652100,-75.440804,393
+KABI,Abilene Regional Airport,KABI,ABI,Abilene,US,32.411301,-99.681900,1791
+KABQ,Albuquerque International Sunport Airport,KABQ,ABQ,Albuquerque,US,35.040199,-106.609001,5355
+KABR,Aberdeen Regional Airport,KABR,ABR,Aberdeen,US,45.449100,-98.421799,1302
+KABY,Southwest Georgia Regional Airport,KABY,ABY,Albany,US,31.535500,-84.194504,197
+KACB,Antrim County Airport,KACB,ACB,Bellaire,US,44.988602,-85.198402,623
+KACJ,Souther Field,KACJ,,Americus,US,32.110802,-84.188904,468
+KACK,Nantucket Memorial Airport,KACK,ACK,Nantucket,US,41.253101,-70.060204,47
+KACP,Allen Parish Airport,KACP,,Oakdale,US,30.750299,-92.688301,107
+KACQ,Waseca Municipal Airport,KACQ,,Waseca,US,44.073502,-93.552902,1126
+KACT,Waco Regional Airport,KACT,ACT,Waco,US,31.611300,-97.230499,516
+KACV,Arcata Airport,KACV,ACV,Arcata/Eureka,US,40.978100,-124.109001,221
+KACY,Atlantic City International Airport,KACY,ACY,Atlantic City,US,39.457600,-74.577202,75
+KACZ,Henderson Field,KACZ,,Wallace,US,34.717899,-78.003601,39
+KADC,Wadena Municipal Airport,KADC,,Wadena,US,46.450298,-95.210999,1369
+KADG,Lenawee County Airport,KADG,ADG,Adrian,US,41.867699,-84.077301,798
+KADH,Ada Municipal Airport,KADH,ADT,Ada,US,34.804298,-96.671303,1016
+KADM,Ardmore Municipal Airport,KADM,ADM,Ardmore,US,34.303010,-97.019634,777
+KADS,Addison Airport,KADS,ADS,Dallas,US,32.968601,-96.836403,644
+KADT,Atwood-Rawlins County City Airport,KADT,,Atwood,US,39.840099,-101.042000,2991
+KADU,Audubon County Airport,KADU,,Audubon,US,41.701401,-94.920502,1287
+KADW,Andrews Air Force Base,KADW,ADW,Camp Springs,US,38.810799,-76.866997,280
+KAEG,Double Eagle II Airport,KAEG,,Albuquerque,US,35.145199,-106.794998,5837
+KAEJ,Central Colorado Regional Airport,KAEJ,,Buena Vista,US,38.814201,-106.121002,7946
+KAEL,Albert Lea Municipal Airport,KAEL,AEL,Albert Lea,US,43.681499,-93.367203,1260
+KAEX,Alexandria International Airport,KAEX,AEX,Alexandria,US,31.327400,-92.549797,89
+KAFF,USAF Academy Airfield,KAFF,AFF,Colorado Springs,US,38.969700,-104.813004,6572
+KAFJ,Washington County Airport,KAFJ,WSG,Washington,US,40.136501,-80.290199,1184
+KAFK,Nebraska City Municipal Airport,KAFK,,Nebraska City,US,40.606899,-95.865700,1165
+KAFN,Jaffrey Airport Silver Ranch Airport,KAFN,AFN,Jaffrey,US,42.805099,-72.002998,1040
+KAFO,Afton Municipal Airport,KAFO,AFO,Afton,US,42.711201,-110.942001,6221
+KAFP,Anson County Airport,KAFP,,Wadesboro,US,35.020599,-80.077103,300
+KAFW,Fort Worth Alliance Airport,KAFW,AFW,Fort Worth,US,32.987598,-97.318802,722
+KAGC,Allegheny County Airport,KAGC,AGC,Pittsburgh,US,40.354401,-79.930199,1252
+KAGO,Magnolia Municipal Airport,KAGO,AGO,Magnolia,US,33.228001,-93.217003,319
+KAGR,MacDill Air Force Base Auxiliary Field,KAGR,,Avon Park,US,27.650600,-81.349403,68
+KAGS,Augusta Regional At Bush Field,KAGS,AGS,Augusta,US,33.369900,-81.964500,144
+KAGZ,Wagner Municipal Airport,KAGZ,,Wagner,US,43.063301,-98.296204,1475
+KAHC,Amedee Army Air Field,KAHC,AHC,Herlong,US,40.266201,-120.153000,4012
+KAHH,Amery Municipal Airport,KAHH,AHH,Amery,US,45.281101,-92.375397,1088
+KAHN,Athens Ben Epps Airport,KAHN,AHN,Athens,US,33.948601,-83.326302,808
+KAHQ,Wahoo Municipal Airport,KAHQ,,Wahoo,US,41.241299,-96.594002,1224
+KAIA,Alliance Municipal Airport,KAIA,AIA,Alliance,US,42.053200,-102.804001,3931
+KAIB,Hopkins Field,KAIB,,Nucla,US,38.238800,-108.563004,5940
+KAID,Anderson Municipal Darlington Field,KAID,AID,Anderson,US,40.108601,-85.612999,919
+KAIG,Langlade County Airport,KAIG,,Antigo,US,45.154202,-89.110703,1521
+KAIK,Aiken Municipal Airport,KAIK,AIK,Aiken,US,33.649399,-81.684998,528
+KAIO,Atlantic Municipal Airport,KAIO,AIO,Atlantic,US,41.407299,-95.046898,1165
+KAIT,Aitkin Municipal Steve Kurtz Field,KAIT,,Aitkin,US,46.548401,-93.676804,1205
+KAIV,George Downer Airport,KAIV,AIV,Aliceville,US,33.106499,-88.197800,150
+KAIY,Atlantic City Municipal Bader Field,KAIY,AIY,Atlantic City,US,39.360001,-74.456100,8
+KAIZ,Lee C Fine Memorial Airport,KAIZ,AIZ,Kaiser Lake Ozark,US,38.096001,-92.549500,869
+KAJG,Mount Carmel Municipal Airport,KAJG,,Mount Carmel,US,38.606499,-87.726700,429
+KAJO,Corona Municipal Airport,KAJO,,Corona,US,33.897701,-117.601997,533
+KAJR,Habersham County Airport,KAJR,,Cornelia,US,34.499901,-83.556702,1448
+KAJZ,Blake Field,KAJZ,,Delta,US,38.786400,-108.064003,5193
+KAKH,Gastonia Municipal Airport,KAKH,,Gastonia,US,35.202599,-81.149902,798
+KAKO,Colorado Plains Regional Airport,KAKO,AKO,Akron,US,40.175598,-103.222000,4714
+KAKQ,Wakefield Municipal Airport,KAKQ,,Wakefield,US,36.987202,-77.001099,113
+KAKR,Akron Fulton International Airport,KAKR,AKC,Akron,US,41.037498,-81.466904,1067
+KALB,Albany International Airport,KALB,ALB,Albany,US,42.748299,-73.801697,285
+KALI,Alice International Airport,KALI,ALI,Alice,US,27.740900,-98.026901,178
+KALM,Alamogordo White Sands Regional Airport,KALM,ALM,Alamogordo,US,32.839901,-105.990997,4200
+KALN,St Louis Regional Airport,KALN,ALN,Alton/St Louis,US,38.890301,-90.045998,544
+KALO,Waterloo Regional Airport,KALO,ALO,Waterloo,US,42.557098,-92.400299,873
+KALS,San Luis Valley Regional Bergman Field,KALS,ALS,Alamosa,US,37.434898,-105.866997,7539
+KALW,Walla Walla Regional Airport,KALW,ALW,Walla Walla,US,46.094898,-118.288002,1194
+KALX,Thomas C Russell Field,KALX,ALX,Alexander City,US,32.914700,-85.962997,686
+KAMA,Rick Husband Amarillo International Airport,KAMA,AMA,Amarillo,US,35.219398,-101.706001,3607
+KAMG,Bacon County Airport,KAMG,,Alma,US,31.536100,-82.506599,200
+KAMN,RPD Airport,KAMN,AMN,Alma,US,43.322102,-84.688004,754
+KAMT,Alexander Salamon Airport,KAMT,,West Union,US,38.851501,-83.566299,896
+KAMW,Ames Municipal Airport,KAMW,AMW,Ames,US,41.992001,-93.621803,956
+KANB,Anniston Metropolitan Airport,KANB,ANB,Anniston,US,33.588200,-85.858101,612
+KAND,Anderson Regional Airport,KAND,AND,Anderson,US,34.494598,-82.709396,782
+KANE,Anoka County-Blaine Arpt(Janes Field) Airport,KANE,,Minneapolis,US,45.145000,-93.211403,912
+KANJ,Sault Ste Marie Municipal Sanderson Field,KANJ,,Sault Ste Marie,US,46.479198,-84.368401,716
+KANK,Harriet Alexander Field,KANK,,Salida,US,38.538300,-106.049004,7523
+KANP,Lee Airport,KANP,ANP,Annapolis,US,38.942902,-76.568398,34
+KANQ,Tri State Steuben County Airport,KANQ,ANQ,Angola,US,41.639702,-85.083504,995
+KANW,Ainsworth Municipal Airport,KANW,ANW,Ainsworth,US,42.579201,-99.992996,2589
+KANY,Anthony Municipal Airport,KANY,ANY,Anthony,US,37.158501,-98.079597,1340
+KAOC,Arco Butte County Airport,KAOC,,Arco,US,43.603500,-113.334000,5332
+KAOH,Lima Allen County Airport,KAOH,AOH,Lima,US,40.706902,-84.026703,975
+KAOO,Altoona Blair County Airport,KAOO,AOO,Altoona,US,40.296398,-78.320000,1503
+KAOV,Ava Bill Martin Memorial Airport,KAOV,,Ava,US,36.971901,-92.681900,1311
+KAPA,Centennial Airport,KAPA,APA,Denver,US,39.570099,-104.848999,5885
+KAPC,Napa County Airport,KAPC,APC,Napa,US,38.213200,-122.280998,35
+KAPF,Naples Municipal Airport,KAPF,APF,Naples,US,26.152599,-81.775299,8
+KAPG,Phillips Army Air Field,KAPG,APG,Aberdeen Proving Grounds(Aberdeen),US,39.466202,-76.168800,57
+KAPH,A P Hill Aaf (Fort A P Hill) Airport,KAPH,APH,Fort A. P. Hill,US,38.068901,-77.318298,220
+KAPN,Alpena County Regional Airport,KAPN,APN,Alpena,US,45.078098,-83.560303,690
+KAPT,Marion County Brown Field,KAPT,APT,Jasper,US,35.060699,-85.585297,641
+KAPV,Apple Valley Airport,KAPV,APV,Apple Valley,US,34.575298,-117.185997,3062
+KAPY,Zapata County Airport,KAPY,,Zapata,US,26.968800,-99.248901,422
+KAQO,Llano Municipal Airport,KAQO,,Llano,US,30.783701,-98.662003,1102
+KAQP,Appleton Municipal Airport,KAQP,,Appleton,US,45.227501,-96.004303,1020
+KAQR,Atoka Municipal Airport,KAQR,,Atoka,US,34.398300,-96.148102,590
+KAQW,Harriman and West Airport,KAQW,,North Adams,US,42.695900,-73.170403,654
+KARA,Acadiana Regional Airport,KARA,ARA,New Iberia,US,30.037800,-91.883904,24
+KARB,Ann Arbor Municipal Airport,KARB,ARB,Ann Arbor,US,42.223000,-83.745598,839
+KARG,Walnut Ridge Regional Airport,KARG,ARG,Walnut Ridge,US,36.124667,-90.925111,279
+KARM,Wharton Regional Airport,KARM,WHT,Wharton,US,29.254299,-96.154404,100
+KARR,Aurora Municipal Airport,KARR,AUZ,Chicago/Aurora,US,41.771900,-88.475700,712
+KART,Watertown International Airport,KART,ART,Watertown,US,43.991901,-76.021698,325
+KARV,Lakeland-Noble F. Lee Memorial field,KARV,ARV,Minocqua-Woodruff,US,45.927898,-89.730904,1629
+KARW,Beaufort County Airport,KARW,BFT,Beaufort,US,32.412201,-80.634399,10
+KASD,Slidell Airport,KASD,,Slidell,US,30.345100,-89.820801,29
+KASE,Aspen-Pitkin Co/Sardy Field,KASE,ASE,Aspen,US,39.223202,-106.869003,7820
+KASG,Springdale Municipal Airport,KASG,,Springdale,US,36.176399,-94.119301,1353
+KASH,Boire Field,KASH,ASH,Nashua,US,42.781700,-71.514801,199
+KASJ,Tri County Airport,KASJ,,Ahoskie,US,36.297501,-77.170898,68
+KASL,Harrison County Airport,KASL,ASL,Marshall,US,32.520500,-94.307800,357
+KASN,Talladega Municipal Airport,KASN,ASN,Talladega,US,33.569901,-86.050903,529
+KAST,Astoria Regional Airport,KAST,AST,Astoria,US,46.158001,-123.878998,15
+KASW,Warsaw Municipal Airport,KASW,,Warsaw,US,41.274700,-85.840103,850
+KASX,John F Kennedy Memorial Airport,KASX,ASX,Ashland,US,46.548500,-90.918999,827
+KASY,Ashley Municipal Airport,KASY,ASY,Ashley,US,46.023899,-99.352600,2032
+KATA,Hall Miller Municipal Airport,KATA,,Atlanta,US,33.101799,-94.195297,280
+KATL,Hartsfield Jackson Atlanta International Airport,KATL,ATL,Atlanta,US,33.636700,-84.428101,1026
+KATS,Artesia Municipal Airport,KATS,ATS,Artesia,US,32.852501,-104.468002,3541
+KATW,Outagamie County Regional Airport,KATW,ATW,Appleton,US,44.258099,-88.519096,918
+KATY,Watertown Regional Airport,KATY,ATY,Watertown,US,44.914001,-97.154701,1749
+KAUG,Augusta State Airport,KAUG,AUG,Augusta,US,44.320599,-69.797302,352
+KAUH,Aurora Municipal Al Potter Field,KAUH,,Aurora,US,40.894100,-97.994598,1803
+KAUM,Austin Municipal Airport,KAUM,AUM,Austin,US,43.665001,-92.933403,1234
+KAUN,Auburn Municipal Airport,KAUN,AUN,Auburn,US,38.954800,-121.082001,1539
+KAUO,Auburn Opelika Robert G. Pitts Airport,KAUO,AUO,Auburn,US,32.615101,-85.433998,777
+KAUS,Austin Bergstrom International Airport,KAUS,AUS,Austin,US,30.194500,-97.669899,542
+KAUW,Wausau Downtown Airport,KAUW,AUW,Wausau,US,44.926201,-89.626602,1201
+KAVC,Mecklenburg Brunswick Regional Airport,KAVC,,South Hill,US,36.688301,-78.054497,441
+KAVK,Alva Regional Airport,KAVK,,Alva,US,36.773201,-98.669899,1474
+KAVL,Asheville Regional Airport,KAVL,AVL,Asheville,US,35.436199,-82.541801,2165
+KAVO,Avon Park Executive Airport,KAVO,AVO,Avon Park,US,27.591200,-81.527802,160
+KAVP,Wilkes Barre Scranton International Airport,KAVP,AVP,Wilkes-Barre/Scranton,US,41.338501,-75.723396,962
+KAVQ,Marana Regional Airport,KAVQ,AVW,Tucson,US,32.409599,-111.218002,2031
+KAVX,Catalina Airport,KAVX,,Avalon,US,33.404900,-118.416000,1602
+KAWG,Washington Municipal Airport,KAWG,,Washington,US,41.276100,-91.673401,754
+KAWM,West Memphis Municipal Airport,KAWM,AWM,West Memphis,US,35.135101,-90.234398,212
+KAWO,Arlington Municipal Airport,KAWO,,Arlington,US,48.160702,-122.158997,142
+KAXA,Algona Municipal Airport,KAXA,AXG,Algona,US,43.077900,-94.272003,1219
+KAXH,Houston Southwest Airport,KAXH,,Houston,US,29.506100,-95.476898,68
+KAXN,Chandler Field,KAXN,AXN,Alexandria,US,45.866299,-95.394699,1425
+KAXQ,Clarion County Airport,KAXQ,,Clarion,US,41.225800,-79.441002,1458
+KAXS,Altus Quartz Mountain Regional Airport,KAXS,AXS,Altus,US,34.696400,-99.340302,1433
+KAXV,Neil Armstrong Airport,KAXV,AXV,Wapakoneta,US,40.493401,-84.298897,913
+KAXX,Angel Fire Airport,KAXX,AXX,Angel Fire,US,36.422001,-105.290001,8380
+KAYS,Waycross Ware County Airport,KAYS,AYS,Waycross,US,31.249100,-82.395500,142
+KAYX,Arnold Air Force Base,KAYX,,Tullahoma,US,35.392601,-86.085800,1067
+KAZC,Colorado City Municipal Airport,KAZC,,Colorado City,US,36.959900,-113.014000,4874
+KAZE,Hazlehurst Airport,KAZE,,Hazlehurst,US,31.884701,-82.647400,255
+KAZO,Kalamazoo Battle Creek International Airport,KAZO,AZO,Kalamazoo,US,42.234901,-85.552101,874

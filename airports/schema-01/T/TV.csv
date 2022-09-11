@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+TVSA,Argyle International Airport,TVSA,SVD,Kingstown,VC,13.156695,-61.149944,136
+TVSB,J F Mitchell Airport,TVSB,BQU,Bequia,VC,12.988400,-61.262001,15
+TVSC,Canouan Airport,TVSC,CIW,Canouan,VC,12.699000,-61.342400,11
+TVSM,Mustique Airport,TVSM,MQS,Mustique Island,VC,12.887900,-61.180199,8
+TVSU,Union Island International Airport,TVSU,UNI,Union Island,VC,12.600135,-61.411945,16

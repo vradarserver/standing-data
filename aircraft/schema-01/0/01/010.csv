@@ -1,0 +1,8 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+010121,SU-TCB,A320,Airbus,A320-232,Airbus A320-232,0,AlMasria Universal Airlines,LMU,943,1998
+01022D,SU-BUL,A20N,Airbus,A320-251N,Airbus A320-251N,0,Air Cairo,MSC,08970,2019
+01022E,SU-BUM,A20N,Airbus,A320-251N,Airbus A320-251N,0,Air Cairo,MSC,9056,2021
+010235,SU-TMO,B738,Boeing,737-846,Boeing 737-846,0,FlyEgypt,FEG,35342,2008
+010238,SU-TMP,B738,Boeing,737-8AS,Boeing 737-8AS,0,FlyEgypt,FEG,36570,2008
+01023D,SU-BUU,A320,Airbus,A320-214,Airbus A320-214,0,Air Cairo,MSC,4433,2010
+01023E,SU-BUV,A320,Airbus,A320-214,Airbus A320-214,0,Air Cairo,MSC,04433,2010

@@ -1,0 +1,104 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+TA00,Rafter P Airport,TA00,,Sweetwater,US,32.384201,-100.278999,2190
+TA01,Phillips Farm Airport,TA01,,Alvarado,US,32.341801,-97.250298,800
+TA02,Howard Field,TA02,,Rhome,US,33.102901,-97.464203,960
+TA03,Jo Na Acres Airport,TA03,,Brookshire,US,29.758600,-95.908600,160
+TA04,Sheriff Department Heliport,TA04,,Waco,US,31.548201,-97.078903,385
+TA05,Anxiety Aerodrome,TA05,,Corsicana,US,32.037701,-96.531700,430
+TA06,Morris Manor Airport,TA06,,Cumby,US,33.161201,-95.805801,610
+TA07,Jet Ag Inc Airport,TA07,,Dayton,US,30.007200,-94.966904,70
+TA08,Flying M Airport,TA08,,Floyd,US,33.149601,-96.273903,585
+TA09,Navsta Ingleside Heliport,TA09,,Ingleside,US,27.835300,-97.203598,26
+TA10,Flying W Heliport,TA10,,Mansfield,US,32.521801,-97.134697,615
+TA11,Tsa Gliderport,TA11,,Midlothian,US,32.383499,-97.014198,660
+TA12,Petroleum Helicopters Inc Heliport,TA12,,Sabine Pass,US,29.701099,-93.944099,10
+TA13,Nebtex Land Co. Airport,TA13,,Texline,US,36.256401,-102.870003,4373
+TA14,Lpc Heliport,TA14,,Channelview,US,29.834900,-95.118797,41
+TA15,Columbus Community Hospital Heliport,TA15,,Columbus,US,29.694700,-96.540802,196
+TA16,Travis Field Airport,TA16,,Spur,US,33.442864,-100.854572,2317
+TA17,Live Oak Ranch Airport,TA17,,Brenham,US,30.187201,-96.433296,387
+TA18,Sunset Airport,TA18,,Forney,US,32.707100,-96.479401,444
+TA19,Post Oak Airfield,TA19,,Weatherford,US,32.674599,-97.783600,1020
+TA20,San Jacinto Methodist Hospital Heliport,TA20,,Baytown,US,29.768801,-94.979103,24
+TA21,Windmill Hill Airport,TA21,,Lewisville,US,33.018200,-97.119202,620
+TA22,Reward Ranch Airport,TA22,,Bonham,US,33.767300,-96.121597,615
+TA23,Morris Lazy K Ranch Airport,TA23,,Marquez,US,31.261299,-96.216400,360
+TA24,Smoky Bend Airport,TA24,,Mullin,US,31.475201,-98.711403,1320
+TA25,Cook Canyon Ranch Airport,TA25,,Ranger,US,32.431734,-98.594762,1476
+TA26,Coyote Crossing Airport,TA26,,Maypearl,US,32.296398,-97.056801,580
+TA27,Flying 'K' Airport,TA27,,Briggs,US,30.837999,-97.950302,1132
+TA28,Woods Nr 2 Airport,TA28,,Brookshire,US,29.793600,-95.925201,160
+TA29,Flying D Ranch Airport,TA29,,Del Rio,US,29.925800,-100.839996,1630
+TA30,Old Forker Ultralightport,TA30,,Sante Fe,US,29.318800,-95.085800,15
+TA31,Tularosa Airport,TA31,,Brackettville,US,29.430500,-100.258003,1397
+TA32,Upham Heliport,TA32,,Mineral Wells,US,32.800301,-98.066704,873
+TA33,Meyer Field,TA33,,Rosharon,US,29.358000,-95.635201,65
+TA34,Flying G Airport,TA34,,Crystal City,US,28.766899,-100.083000,675
+TA35,Faust Farm Airport,TA35,,Brenham,US,30.272699,-96.355003,8
+TA36,Lempa Airport,TA36,,Cuero,US,29.005800,-97.311699,247
+TA37,Belo Broadcasting Heliport,TA37,,Dallas,US,32.775101,-96.805000,410
+TA38,Hendrick Medical Center Heliport,TA38,,Abilene,US,32.471500,-99.734001,1704
+TA39,Eagle Lake Community Hospital Heliport,TA39,,Eagle Lake,US,29.586901,-96.345497,174
+TA40,Dallas City Hall Heliport,TA40,,Dallas,US,32.775101,-96.796700,450
+TA41,Thomason General Hospital Heliport,TA41,,El Paso,US,31.772100,-106.434998,3701
+TA42,Fly-N-Fish Lodge Airport,TA42,,Uncertain,US,32.712898,-94.124901,195
+TA43,Anderosa Airpark,TA43,,Corrigan,US,31.047501,-94.854401,205
+TA44,Puesta del Sol Airport,TA44,,Hebbronville,US,27.075600,-98.601700,448
+TA45,Eckels Heliport,TA45,,Houston,US,29.831600,-95.655197,110
+TA46,Baum Airport,TA46,,Kaufman,US,32.562599,-96.401100,500
+TA47,Richards Airport,TA47,,Krum,US,33.301399,-97.245003,785
+TA48,Hawk Nest Heliport,TA48,,Argyle,US,33.127399,-97.153900,657
+TA49,Keno Field,TA49,,Andice,US,30.755100,-97.799896,1000
+TA50,Cielo Dorado Estates Airport,TA50,,Santa Teresa/El Paso,US,31.909300,-106.640999,3750
+TA51,Eagle Airport,TA51,,Brock,US,32.680401,-97.937302,885
+TA52,Flying Bull Ranch Airport,TA52,,Barksdale,US,29.816900,-99.996201,1614
+TA53,Rocky Top Ranch Airport,TA53,,Blanco,US,30.130100,-98.409103,1500
+TA54,Clear Fork Ranch Heliport,TA54,,Weatherford,US,32.733299,-97.646698,850
+TA55,Del Valle Airport,TA55,,Del Valle,US,30.167700,-97.592796,460
+TA56,Blue Mountain Airport,TA56,,Fort Davis,US,30.553200,-103.954002,5000
+TA57,Texas Valley Air Field,TA57,,Waco,US,31.623800,-96.992500,450
+TA58,Rancho Ecantado Airport,TA58,,Cotulla,US,28.321400,-99.449997,550
+TA59,Flamingo Airfield,TA59,,Jacksboro,US,33.099300,-98.289497,1160
+TA60,Hurn Airport,TA60,,Waxahachie,US,32.394299,-96.779404,555
+TA61,Kay Ranch Airport,TA61,,Winona,US,32.473499,-95.165802,315
+TA62,Emergency-1 Houston Center Heliport,TA62,,Houston,US,29.756599,-95.362396,680
+TA63,Flattop Ridge Airport,TA63,,Burnet,US,30.822901,-98.110901,1340
+TA64,Persimmon Gap Ranch Airport,TA64,,Marathon,US,29.700917,-103.150000,2680
+TA65,Sportsman's World Airport,TA65,,Palo Pinto,US,32.821201,-98.478699,1142
+TA66,Freedom Springs Ranch Airport,TA66,,Pipe Creek,US,29.714100,-98.860001,1400
+TA67,Biggin Hill Airport,TA67,,Shallowater,US,33.748402,-102.067001,3330
+TA68,Hhi-Sabine Heliport,TA68,,Sabine Pass,US,29.714100,-93.912903,6
+TA69,Lupton Farms Heliport,TA69,,Sunnyvale,US,32.816799,-96.583603,500
+TA70,W J E Airport,TA70,,Tennessee Colony,US,31.783501,-95.897499,251
+TA71,Terrell Community Hospital Heliport,TA71,,Terrell,US,32.709301,-96.278900,480
+TA72,Hillcrest Baptist Medical Center Heliport,TA72,,Waco,US,31.552900,-97.179497,760
+TA73,Barclay's Roost Airport,TA73,,Kerrville,US,29.974701,-99.168404,1680
+TA74,Amoco Heliport,TA74,,Alvin,US,29.231400,-95.190201,13
+TA75,Cotton Patch Airport,TA75,,Lexington,US,30.387199,-97.105003,430
+TA76,Reddington Building Heliport,TA76,,El Paso,US,31.786200,-106.436996,3920
+TA77,Cottonpatch Aerodrome,TA77,,Frisco,US,33.149300,-96.898903,580
+TA78,Putty Ranch Airport,TA78,,Hico,US,31.972401,-98.061401,1143
+TA79,University Medical Center Heliport,TA79,,Lubbock,US,33.639500,-101.889999,3231
+TA80,U U Ranch Airport,TA80,,Whitesboro,US,33.893200,-96.928101,740
+TA81,Tyra Ranch Airport,TA81,,Del Rio,US,29.793800,-100.878998,1500
+TA82,R & J Livestock County Airport,TA82,,Batesville,US,29.024401,-99.527000,805
+TA83,Short Field,TA83,,Mansfield,US,32.539902,-97.192200,650
+TA84,Miller Ranch Airport,TA84,,Carrizo Springs,US,28.355000,-99.933197,750
+TA85,Chambers Airport,TA85,,Celeste,US,33.323200,-96.232201,692
+TA86,Dennis's Flying Farm Airport,TA86,,Canton,US,32.605999,-95.934998,500
+TA87,Carter-Norman Airport,TA87,,Boyd,US,33.107399,-97.548103,737
+TA88,Premier Aviation Inc Heliport,TA88,,Grand Prairie,US,32.700100,-97.050301,590
+TA89,Vaughan Ranch Airport,TA89,,Mullin,US,31.523800,-98.800301,1310
+TA90,Green Acres Airport,TA90,,Hockley,US,29.974701,-95.818001,181
+TA91,Childress Regional Medical Center Heliport,TA91,,Childress,US,34.444401,-100.218002,1952
+TA92,Rowan Heliport,TA92,,Houston,US,29.630800,-95.286903,47
+TA93,Lm Ranch Airport,TA93,,Sherman,US,33.633301,-96.733597,770
+TA94,Creech Heliport,TA94,,Mesquite,US,32.711201,-96.557503,420
+TA95,Houston Northwest Medical Center Heliport,TA95,,Spring,US,30.017700,-95.442398,116
+TA96,Helicopter Express Heliport,TA96,,Tomball,US,30.095200,-95.544899,150
+TA97,White Wing Ranch Airport,TA97,,Orchard,US,29.637501,-95.968803,125
+TA98,Chevron Chemical County Heliport,TA98,,Baytown,US,29.821600,-94.922997,28
+TA99,Bell Helicopter Plant-3 Heliport,TA99,,Richland Hills,US,32.791801,-97.217003,530
+TAPA,V.C. Bird International Airport,TAPA,ANU,St. George,AG,17.136700,-61.792702,62
+TAPH,Codrington Airport,TAPH,BBQ,Codrington,AG,17.635799,-61.828602,15
+TAPT,Coco Point Lodge Airstrip,TAPT,,Coco Point,AG,17.555599,-61.765301,15

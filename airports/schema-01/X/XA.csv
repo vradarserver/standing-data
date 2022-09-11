@@ -1,0 +1,98 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+XA00,Prose Field,XA00,,Justin,US,33.147202,-97.280296,685
+XA01,Cozby-Germany Hospital Heliport,XA01,,Grand Saline,US,32.676201,-95.726303,152
+XA02,Danz Ranch Airport,XA02,,Johnson City,US,30.280199,-98.426399,1230
+XA03,Edgington Ranch Airport,XA03,,Sanger,US,33.428398,-97.272003,885
+XA04,Circle Eight Ranch Airport,XA04,,Glen Rose,US,32.237598,-97.899597,800
+XA05,Fairview Field,XA05,,Sudan,US,34.101101,-102.624001,3819
+XA06,Mdr 1 Heliport,XA06,,Lubbock,US,33.473999,-101.987999,3300
+XA07,Spectre Airport,XA07,,Chico,US,33.275002,-97.716698,835
+XA08,Los Cuernos Ranch Airport,XA08,,Cotulla,US,28.166100,-99.091599,340
+XA09,Menard Airport,XA09,,Bellevue,US,33.581902,-98.061096,1055
+XA10,Ponderosa Field,XA10,,Ponder,US,33.231899,-97.338799,840
+XA11,Lake Pointe Medical Center Heliport,XA11,,Rowlett,US,32.418098,-96.514198,476
+XA12,Mcfarlin Ranch Airport,XA12,,Bertram,US,30.694700,-98.032799,1200
+XA13,Landry's Seafood House Heliport,XA13,,Houston,US,29.751900,-95.455803,191
+XA14,Lmh Heliport,XA14,,Lufkin,US,31.336399,-94.743896,320
+XA15,Holict Private Airport,XA15,,Riesel,US,31.426901,-96.979698,425
+XA16,Tightwaad Air Ranch Airport,XA16,,Rosston,US,33.494202,-97.465599,875
+XA17,Chuckster Airport,XA17,,Tira,US,33.321701,-95.563599,475
+XA18,Baylor All Saints Medical Center Heliport,XA18,,Fort Worth,US,32.731098,-97.346703,689
+XA19,Drv Downtown Houston Aquarium Heliport,XA19,,Houston,US,29.759199,-95.367500,115
+XA20,Landry's Warehouse Heliport,XA20,,Houston,US,29.785801,-95.458298,68
+XA21,Las Colinas Medical Center Heliport,XA21,,Irving,US,32.902802,-96.956703,502
+XA22,Laredo Medical Center Heliport,XA22,,Laredo,US,27.535700,-99.477402,466
+XA23,Richardson Field,XA23,,Pittsburg,US,33.017799,-94.972298,415
+XA24,Tom Dye Heliport,XA24,,Austin,US,30.300800,-98.001900,1165
+XA25,Lubbock Heart Hospital Heliport,XA25,,Lubbock,US,33.603600,-101.915001,3243
+XA26,Palo Pinto General Hospital Heliport,XA26,,Mineral Wells,US,32.798801,-98.145302,880
+XA27,Etmc - Pittsburg Heliport,XA27,,Pittsburg,US,32.998600,-94.974197,400
+XA28,Adkins Heliport,XA28,,San Antonio,US,29.417700,-98.286201,643
+XA29,Heart Hospital of San Antonio Heliport,XA29,,San Antonio,US,29.493900,-98.547897,850
+XA30,Etmc Trinity Heliport,XA30,,Trinity,US,30.956600,-95.380600,233
+XA31,Lewis Ranch Airport,XA31,,Leakey,US,29.816900,-99.787804,1730
+XA32,Wolfe Field,XA32,,Buckholts,US,30.911501,-97.171303,500
+XA33,Thorny Woods Airport,XA33,,Caddo Mills,US,32.958698,-96.264397,540
+XA34,Allison Farm Airport,XA34,,Decatur,US,33.241699,-97.428001,850
+XA35,Southwest Rains Vol Fire Department Heliport,XA35,,Flats,US,32.825001,-95.898804,460
+XA36,Cook Children's Medical Center Heliport,XA36,,Fort Worth,US,32.736900,-97.341904,641
+XA37,Plaza Medical Center Heliport,XA37,,Fort Worth,US,32.734600,-97.344002,607
+XA38,Mickler Heliport,XA38,,Friendswood,US,29.485300,-95.208298,38
+XA39,Etmc - Gilmer Heliport,XA39,,Gilmer,US,32.736000,-94.942596,385
+XA40,Hound Run Airport,XA40,,Hallettsville,US,29.521500,-96.936897,385
+XA41,Lone Star Flying Service Airport,XA41,,Harper,US,30.355000,-99.247498,2220
+XA42,Connies Aviation Airport,XA42,,Kaufman,US,32.375599,-96.387100,340
+XA43,Fall Creek Ranch Airport,XA43,,Kerrville,US,29.908100,-99.206902,2030
+XA44,Birchfield Ranch Airport,XA44,,Lometa,US,31.266100,-98.423897,1550
+XA45,Weedfalls Airport,XA45,,Lone Oak,US,33.021198,-95.930801,560
+XA46,Creekside Air Park,XA46,,Mineola,US,32.693600,-95.454399,450
+XA47,Tick Hill Airfield,XA47,,Moody,US,31.309700,-97.484802,645
+XA48,Dreamland Airport,XA48,,Myra,US,33.641701,-97.315002,945
+XA49,Oso Canyon Airport,XA49,,Ozona,US,30.025000,-101.545998,1820
+XA50,Etmc - Quitman Heliport,XA50,,Quitman,US,32.796001,-95.444298,400
+XA51,Smith Airport,XA51,,Robinson,US,31.418301,-97.125801,525
+XA52,Ehni Airport,XA52,,Trinity,US,30.923500,-95.293503,225
+XA53,Presbyterian Hospital Of Allen Heliport,XA53,,Allen,US,33.116969,-96.672400,664
+XA54,Glen Rose Medical Center Heliport,XA54,,Glen Rose,US,32.242200,-97.746000,619
+XA56,Presbyterian Hospital Of Greenville Heliport,XA56,,Greenville,US,33.122289,-96.125100,561
+XA57,Wise Regional Health System Heliport,XA57,,Decatur,US,33.251701,-97.596901,957
+XA59,Medical Center of Lewisville Heliport,XA59,,Lewisville,US,33.044102,-97.005302,546
+XA60,Paris Regional Medical Center Heliport,XA60,,Paris,US,33.659698,-95.546501,615
+XA61,Baylor University Medical Center Dallas Heliport,XA61,,Dallas,US,32.788331,-96.780100,551
+XA62,Methodist Dallas Medical Center Heliport,XA62,,Dallas,US,32.760502,-96.824699,600
+XA63,AAF Heliport,XA63,,Lucas,US,33.089001,-96.592102,615
+XA64,Nash Ranch Airport,XA64,,Batesville,US,28.961700,-99.385300,780
+XA65,Txaerosport Aerodrome,XA65,,Dorchester,US,33.536098,-96.680298,855
+XA66,El Jardin Ranch Airport,XA66,,Encinal,US,28.075001,-99.286400,482
+XA67,Christus St Joseph Hospital Heliport,XA67,,Houston,US,29.747801,-95.367599,90
+XA68,Akroville Airport,XA68,,Slidell,US,33.391800,-97.355301,895
+XA69,Shelton Private Heliport,XA69,,Tolar,US,32.336102,-97.969398,1070
+XA70,Detar Hospital - Navarro Campus Heliport,XA70,,Victoria,US,28.808300,-96.996696,102
+XA71,North Cedar Airport,XA71,,Apple Springs,US,31.277300,-94.973999,250
+XA72,Stocker Airport,XA72,,Krum,US,33.276901,-97.289398,770
+XA73,Midstream Galveston Helipad Area Nr 1 Heliport,XA73,,Galveston,US,29.322800,-94.786102,10
+XA74,Midstream Galveston Helipad Area Nr 2 Heliport,XA74,,Galveston,US,29.325001,-94.784698,10
+XA75,Double A Airport,XA75,,Grandview,US,32.324001,-97.099701,635
+XA76,Kriv Fox 26 Television Heliport,XA76,,Houston,US,29.727699,-95.447197,62
+XA77,Benny White Flying Airport,XA77,,Lamesa,US,32.748600,-101.778999,2943
+XA78,Melody Ranch Airport,XA78,,Mountain Springs,US,33.462299,-97.070999,729
+XA79,Baylor Regional Medical Center At Plano Heliport,XA79,,Plano,US,33.014233,-96.789967,688
+XA80,Midstream Harbor Island Heliport,XA80,,Port Aransas,US,27.846399,-97.063103,8
+XA81,Midstream Port O'Connor Heliport,XA81,,Port O'Connor,US,28.426399,-96.449402,7
+XA82,Woodstone Corporation Heliport,XA82,,Seguin,US,29.616699,-97.881699,460
+XA83,South Padre Island Heliport,XA83,,South Padre Island,US,26.086500,-97.165298,10
+XA84,Stoney Fork Landing Airport,XA84,,Valley View,US,33.476898,-97.119400,680
+XA85,Cougar Landing Airport,XA85,,Waco,US,31.633301,-97.316704,595
+XA86,Driftwood Ranch Airport,XA86,,Weatherford,US,32.567001,-97.804802,710
+XA87,Coon Creek Club Heliport,XA87,,Athens,US,32.078400,-95.850304,370
+XA88,Dm Ranch Airport,XA88,,Batesville,US,28.977200,-99.566597,750
+XA89,Faith Ranch Airport,XA89,,Carrizo Springs,US,28.208700,-100.018997,773
+XA90,Fly 1 On Airport,XA90,,Golden,US,32.757198,-95.527802,474
+XA91,Wildwood Airport,XA91,,Village Mills,US,30.533333,-94.438056,118
+XA92,Herd Ranch Airport,XA92,,Menard,US,30.870001,-100.102997,2185
+XA93,Tortuga Ranch Airport,XA93,,Brundage,US,28.619301,-99.654404,550
+XA94,Rick's Hilltop Heliport,XA94,,Burnet,US,30.758600,-98.248703,1300
+XA95,Candelaria Airport,XA95,,Candelaria,US,30.149401,-104.682999,2913
+XA96,En Gedi Ranch Airport,XA96,,Canadian,US,35.662498,-100.323997,2800
+XA98,Jbj Ranch Airport,XA98,,Decatur,US,33.302700,-97.458099,890
+XA99,Flat Bush Airport,XA99,,Decatur,US,33.134399,-97.607002,862

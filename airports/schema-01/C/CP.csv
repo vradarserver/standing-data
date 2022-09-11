@@ -1,0 +1,114 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CPA2,Mount Forest (Louise Marshall Hospital) Heliport,CPA2,,Mount Forest,CA,43.974201,-80.737503,1365
+CPA3,Palmerston (District Hospital) Heliport,CPA3,,Palmerston,CA,43.838299,-80.841904,1300
+CPA4,Simcoe (Dennison Field) Airport,CPA4,,Simcoe,CA,42.819352,-80.265212,722
+CPA5,Tarten Heliport,CPA5,,Toronto,CA,43.653908,-79.657854,560
+CPA6,Hagersville (West Haldimand General Hospital) Heliport,CPA6,,Hagersville,CA,42.958370,-80.043426,730
+CPA7,Meaford (General Hospital) Heliport,CPA7,,Meaford,CA,44.606899,-80.598900,675
+CPA8,Simcoe (Norfolk General Hospital) Heliport,CPA8,,Simcoe,CA,42.847260,-80.320390,710
+CPA9,Dunnville (Haldimand War Memorial Hospital) Heliport,CPA9,,Dunnville,CA,42.913645,-79.628541,596
+CPB2,Fergus (Groves Memorial Community Hospital) Heliport,CPB2,,Fergus,CA,43.721490,-80.376028,1411
+CPB3,Welland (County General Hospital) Heliport,CPB3,,Welland,CA,42.977576,-79.249749,585
+CPB5,Pilot Butte Airport,CPB5,,Pilot Butte,CA,50.461102,-104.431000,2000
+CPB7,Bancroft (North Hastings District Hospital) Heliport,CPB7,,Bancroft,CA,45.071400,-77.878899,1085
+CPB8,Paramount Bistcho Airport,CPB8,,Paramount Bistcho,CA,59.638100,-118.333000,1969
+CPB9,Baldwin Airport,CPB9,,Baldwin,CA,44.267200,-79.340599,750
+CPC3,Arthur (Walter's Field),CPC3,,Arthur East,CA,43.840579,-80.442882,1550
+CPC4,Brampton (National D) Heliport,CPC4,,Brampton,CA,43.833112,-79.702220,780
+CPC6,Teeswater (Thompson Field) Airport,CPC6,,Teeswater,CA,43.948299,-81.271896,1000
+CPC7,Pontiac Airpark Water Aerodrome,CPC7,,Pontiac,CA,45.523611,-76.170833,190
+CPC9,Huntsville (Memorial District Hospital) Heliport,CPC9,,Huntsville,CA,45.340000,-79.204201,975
+CPD2,Ethel Airport,CPD2,,Ethel,CA,43.744999,-81.176697,1170
+CPD3,Durham (Memorial Hospital) Heliport,CPD3,,Durham,CA,44.183300,-80.833298,1125
+CPD4,Brussels (Armstrong Field) Airport,CPD4,,Brussels,CA,43.750000,-81.233299,1100
+CPD8,Hawkesbury (Windover Field) Airport,CPD8,,Hawkesbury,CA,45.564400,-74.809700,165
+CPD9,Markdale (Centre Grey General Hospital) Heliport,CPD9,,Markdale,CA,44.314999,-80.658096,1395
+CPE2,Ajax (Pickering General Hospital) Heliport,CPE2,,Ajax,CA,43.835888,-79.017376,300
+CPE3,Elk Lake Airport,CPE3,,Elk Lake,CA,47.728600,-80.315804,950
+CPE4,Cambridge / Reid's Field,CPE4,,Cambridge,CA,43.442731,-80.232511,1050
+CPE5,Port Colborne Airport,CPE5,,Port Colborne,CA,42.877499,-79.352798,600
+CPE6,South River/Sundridge Airport & Float Plane Base,CPE6,,South River - Sundridge,CA,45.821098,-79.323303,1160
+CPE7,New Lowell Airport,CPE7,,New Lowell,CA,44.387501,-79.943298,625
+CPE8,Oakville (Trafalgar Memorial Hospital) Heliport,CPE8,,Oakville,CA,43.474080,-79.671594,362
+CPE9,Armstrong Heliport,CPE9,,Armstrong,CA,50.306702,-89.029999,1125
+CPF2,Bar River Airport,CPF2,YEB,Bar River,CA,46.420300,-84.092201,591
+CPF4,Bruce McPhail Memorial Airport,CPF4,,Cobden,CA,45.595001,-76.833298,500
+CPF6,Stoney Creek Airport,CPF6,,Stoney Creek,CA,43.169693,-79.709415,680
+CPF7,Southampton Airport,CPF7,,Southampton,CA,44.493900,-81.335297,685
+CPG3,Fort Erie (Eurocopter Canada) Heliport,CPG3,,Fort Erie,CA,42.921190,-78.956133,625
+CPG4,Elmira (East) Airport,CPG4,,Elmira,CA,43.591900,-80.512199,1150
+CPG5,Hawkesbury (East) Airport,CPG5,,Hawkesbury,CA,45.582802,-74.548897,200
+CPG6,Port Elgin (Pryde Field) Airport,CPG6,,Port Elgin,CA,44.458900,-81.379700,661
+CPG7,Fergus (Juergensen Field) Airport,CPG7,,Fergus,CA,43.735001,-80.447197,1450
+CPG8,Chatham (Public General Hospital) Heliport,CPG8,,Chatham,CA,42.403599,-82.193298,593
+CPG9,Renfrew (Victoria Hospital) Heliport,CPG9,,Renfrew,CA,45.482498,-76.696098,400
+CPH2,Rolph Airport,CPH2,,Deep River,CA,46.116699,-77.533302,490
+CPH4,Potvin Heli-Base Heliport,CPH4,,Dolbeau-Mistassini,CA,48.930801,-72.205002,425
+CPH7,Markham Stouffville Heliport,CPH7,,Toronto,CA,43.885101,-79.230590,647
+CPH8,Brockville (Medical) Heliport,CPH8,,Brockville,CA,44.605502,-75.679831,302
+CPH9,Fordwich Airport,CPH9,,Fordwich,CA,43.888100,-80.995300,1250
+CPJ2,Alliston Heliport,CPJ2,,Alliston,CA,44.141102,-79.801399,760
+CPJ3,Hamilton (Chedoke-McMaster Hospital) Heliport,CPJ3,,Hamilton,CA,43.265989,-79.928922,260
+CPJ4,Geraldton (District Hospital) Heliport,CPJ4,,Geraldton,CA,49.721699,-86.957199,1101
+CPJ5,Stirling Airport,CPJ5,,Stirling,CA,44.241402,-77.561699,625
+CPJ7,Kingston (General Hospital) Heliport,CPJ7,,Kingston,CA,44.222145,-76.493259,261
+CPK2,Strathroy (Blue Yonder) Airport,CPK2,,Strathroy,CA,42.965801,-81.591698,780
+CPK3,Hamilton (General Hospital) Heliport,CPK3,,Hamilton,CA,43.261912,-79.854725,384
+CPK6,Toronto (Mississauga Credit Valley Hospital) Heliport,CPK6,,Toronto,CA,43.561412,-79.702737,542
+CPK7,Ottawa (Children's Hospital) Heliport,CPK7,,Ottawa,CA,45.400982,-75.650129,272
+CPK8,Black Donald Lake Seaplane Base,CPK8,,Renfrew,CA,45.205002,-76.956703,815
+CPL2,Bracebridge (South Muskoka Memorial Hospital) Heliport,CPL2,,Bracebridge,CA,45.049999,-79.316704,850
+CPL3,Kars / Rideau Valley Air Park,CPL3,,Kars,CA,45.103062,-75.628166,286
+CPL4,Grand Bend Airport,CPL4,,Grand Bend,CA,43.286900,-81.714203,642
+CPL5,Thessalon Municipal Airport,CPL5,,Thessalon,CA,46.316700,-83.533302,750
+CPL7,Bowmanville (Memorial Hospital) Heliport,CPL7,,Bowmanville,CA,43.909501,-78.676520,328
+CPL8,Cardinal Couriers Heliport,CPL8,,Toronto,CA,43.631272,-79.664703,612
+CPM2,Brampton (National P) Heliport,CPM2,,Brampton,CA,43.811580,-79.698440,700
+CPM5,Volk Airport,CPM5,,Tottenham,CA,43.991333,-79.781170,980
+CPM7,Bradford Airport,CPM7,,Bradford,CA,44.136101,-79.628899,973
+CPN3,Moose Factory Heliport,CPN3,,Moose Factory,CA,51.249401,-80.618896,20
+CPN4,Hanover / Saugeen Municipal Airport,CPN4,,Hanover,CA,44.158298,-81.062798,939
+CPN5,Listowel Airport,CPN5,,Listowel,CA,43.742802,-80.991402,1232
+CPN7,Carleton Place (District Memorial Hospital) Heliport,CPN7,,Carleton Place,CA,45.141769,-76.137099,436
+CPP2,Collingwood (General and Marine Hospital) Heliport,CPP2,,Collingwood,CA,44.499699,-80.203300,600
+CPP6,York Airport,CPP6,,York,CA,43.037498,-79.852501,670
+CPP7,Ottawa (Civic Hospital) Heliport,CPP7,,Ottawa,CA,45.391468,-75.720598,265
+CPQ3,Niagara Falls Heliport,CPQ3,,Niagara Falls,CA,43.119060,-79.075314,589
+CPQ4,Lefroy Airport,CPQ4,,Lefroy,CA,44.291910,-79.547281,724
+CPR2,Ottawa / Embrun Airport,CPR2,,Embrun,CA,45.241100,-75.298599,230
+CPR3,Palmerston Airport,CPR3,,Palmerston,CA,43.853600,-80.780296,1360
+CPR4,London (University Hospital) Heliport,CPR4,,London,CA,43.013055,-81.274392,795
+CPR5,Woodstock Airport,CPR5,,Woodstock,CA,43.108268,-80.821867,1040
+CPR7,Wingham / Richard W. LeVan Airport,CPR7,,Wingham,CA,43.867500,-81.298599,1075
+CPR8,Pincher Creek (Hospital) Heliport,CPR8,,Pincher Creek,CA,49.492500,-113.946999,3754
+CPS2,Elmhirst's Resort Airport,CPS2,,Keene,CA,44.251470,-78.107257,650
+CPS4,Lucan Airport,CPS4,,Lucan,CA,43.163300,-81.412498,960
+CPS5,Miminiska Airport,CPS5,,Miminiska,CA,51.604401,-88.582199,1000
+CPS6,Cornwall (Community Hospital McConnell Site) Heliport,CPS6,,Cornwall,CA,45.020302,-74.717796,230
+CPS7,Orton / Smith Field,CPS7,,Orton,CA,43.775386,-80.228069,1450
+CPT2,Killarney Airport,CPT2,,Killarney,CA,45.977501,-81.494698,608
+CPT3,Rockton Airport,CPT3,,Rockton,CA,43.322201,-80.176399,846
+CPU2,Kincardine (South Bruce Grey Health Centre Hospital) Heliport,CPU2,,Kincardine,CA,44.187500,-81.624397,700
+CPU3,Rodney (New Glasgow) Airport,CPU3,,Rodney,CA,42.531399,-81.606903,670
+CPU4,Manitouwadge (General Hospital) Heliport,CPU4,,Manitouwadge,CA,49.122200,-85.822197,1052
+CPU6,Tyendinaga Mohawk Airport,CPU6,,Tyendinaga,CA,44.184700,-77.107803,260
+CPV2,Orangeville / Murray Wesley Kot Field,CPV2,,Orangeville,CA,43.958599,-80.154999,1550
+CPV3,St. Joseph Island Airport,CPV3,,St. Joseph Island,CA,46.283298,-83.949997,600
+CPV4,Mansfield Airport,CPV4,,Mansfield,CA,44.143922,-80.013621,995
+CPV6,Barry's Bay (St. Francis Memorial Hospital) Heliport,CPV6,,Barry's Bay,CA,45.481754,-77.695313,1000
+CPV7,Poplar Hill Airport,CPV7,YHP,Poplar Hill,CA,52.113300,-94.255600,1095
+CPV8,Keewaywin Airport,CPV8,,Keewaywin,CA,52.991100,-92.836403,988
+CPW2,London (Victoria Hospital) Heliport,CPW2,,London,CA,42.959067,-81.225572,875
+CPW3,Nobleton Airport,CPW3,,Nobleton,CA,43.936699,-79.679703,970
+CPW6,Midland (Huronia District Hospital) Heliport,CPW6,,Midland,CA,44.741699,-79.914398,775
+CPW8,Powell River (Hospital) Heliport,CPW8,,Powell River,CA,49.852798,-124.523003,300
+CPX2,Marathon (Wilson Memorial Hospital) Heliport,CPX2,,Marathon,CA,48.718601,-86.374702,750
+CPX3,New Liskeard Airport,CPX3,,New Liskeard,CA,47.533298,-79.616699,800
+CPX5,Port Colborne (General Hospital) Heliport,CPX5,,Port Colborne,CA,42.878557,-79.259579,575
+CPX6,Port Perry (Community Memorial Hospital) Heliport,CPX6,,Port Perry,CA,44.104864,-78.954092,875
+CPY2,Milton (District Hospital) Heliport,CPY2,,Milton,CA,43.495888,-79.869691,657
+CPY3,Beardmore (Health Centre) Heliport,CPY3,,Beardmore,CA,49.608601,-87.953102,1015
+CPY4,Norwood Airport,CPY4,,Norwood,CA,44.365002,-77.999702,650
+CPY5,Wilson's Heliport,CPY5,,Toronto,CA,43.617781,-79.563966,370
+CPZ2,Alliston (Stevenson Memorial Hospital) Heliport,CPZ2,,Alliston,CA,44.155419,-79.873717,750
+CPZ3,Trenton / Mountain View Airport,CPZ3,,Mountain View,CA,44.069401,-77.338097,362

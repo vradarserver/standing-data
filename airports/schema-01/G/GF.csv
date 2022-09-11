@@ -1,0 +1,10 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GFBN,Sherbro International Airport,GFBN,BTE,Bonthe,SL,7.532420,-12.518900,14
+GFBO,Bo Airport,GFBO,KBS,Bo,SL,7.944400,-11.761000,328
+GFGK,Gbangbatok Airport,GFGK,GBK,Gbangbatok,SL,7.767000,-12.383000,75
+GFHA,Hastings Airport,GFHA,HGS,Freetown,SL,8.397130,-13.129100,60
+GFKB,Kabala Airport,GFKB,KBA,Kabala,SL,9.638323,-11.515560,1012
+GFKE,Kenema Airport,GFKE,KEN,Kenema,SL,7.891290,-11.176600,485
+GFLL,Lungi International Airport,GFLL,FNA,Freetown,SL,8.616440,-13.195500,84
+GFTO,Tongo Airport,GFTO,,Tongo,SL,8.217000,-11.067000,750
+GFYE,Yengema Airport,GFYE,WYE,Yengema,SL,8.610470,-11.045400,1300

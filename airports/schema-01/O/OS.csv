@@ -1,0 +1,15 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+OS57,Abu ad Duhur Air Base,OS57,,Abu ad Duhur,SY,35.732201,37.104198,846
+OS60,As Suwayda West Air Base,OS60,,As Suwayda,SY,32.705200,36.412899,2460
+OS63,Marj Ruhayyil Air Base,OS63,,Marj Ruhayyil,SY,33.286499,36.457401,2190
+OS65,Shayrat Air Base,OS65,,Shayrat,SY,34.490299,36.909000,2644
+OS68,Saiqal Air Base,OS68,,Saiqal,SY,33.682400,37.213902,2300
+OS69,Khalkhalah Air Base,OS69,,Buraq,SY,33.077301,36.558208,2310
+OS70,Al Qusayr Air Base,OS70,,Al-Qusayr,SY,34.569099,36.572800,1768
+OS71,Minakh Air Base,OS71,,Azaz,SY,36.521599,37.041500,1613
+OS72,Tiyas Air Base,OS72,,Tiyas,SY,34.522598,37.629902,1805
+OSAP,Aleppo International Airport,OSAP,ALP,Aleppo,SY,36.180698,37.224400,1276
+OSDI,Damascus International Airport,OSDI,DAM,Damascus,SY,33.411499,36.515598,2020
+OSDZ,Deir ez-Zor Airport,OSDZ,DEZ,Deir ez-Zor,SY,35.285400,40.175999,700
+OSKL,Kamishly Airport,OSKL,KAC,Kamishly,SY,37.020599,41.191399,1480
+OSLK,Bassel Al-Assad International Airport,OSLK,LTK,Latakia,SY,35.401100,35.948700,157

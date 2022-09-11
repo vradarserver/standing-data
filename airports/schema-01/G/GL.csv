@@ -1,0 +1,11 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GLBU,Buchanan Airport,GLBU,UCN,Buchanan,LR,5.167650,-9.283470,41
+GLCM,Robertsport/Cape Mount Airport,GLCM,,Robertsport/Cape Mount,LR,6.800000,-11.367000,10
+GLCP,Cape Palmas Airport,GLCP,CPA,Harper,LR,4.379020,-7.696950,20
+GLGE,Greenville Sinoe Airport,GLGE,SNI,Greenville,LR,5.034310,-9.066800,10
+GLMR,Spriggs Payne Airport,GLMR,MLW,Monrovia,LR,6.289060,-10.758700,25
+GLNA,Nimba Airport,GLNA,NIA,Nimba,LR,7.500000,-8.600000,1632
+GLRB,Roberts International Airport,GLRB,ROB,Monrovia,LR,6.233790,-10.362300,31
+GLST,Sasstown Airport,GLST,SAZ,Sasstown,LR,4.666667,-8.433333,6
+GLTN,Tchien Airport,GLTN,THC,Tchien,LR,6.045650,-8.138723,790
+GLVA,Voinjama Airport,GLVA,VOI,Voinjama,LR,8.400000,-9.767000,1400

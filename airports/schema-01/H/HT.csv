@@ -1,0 +1,59 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HTAG,Amani Gomvu Airport,HTAG,,Kutani,TZ,-6.935353,39.493046,114
+HTAR,Arusha Airport,HTAR,ARK,Arusha,TZ,-3.367790,36.633301,4550
+HTBB,Kibambawe Airstrip,HTBB,,Selous Game Reserve,TZ,-7.748241,38.001833,485
+HTBS,Mbesa Airport,HTBS,,Mbesa Mission,TZ,-11.331675,37.067816,1980
+HTBU,Bukoba Airport,HTBU,BKZ,Bukoba,TZ,-1.332000,31.821200,3745
+HTCH,Chunya Airport,HTCH,,Chunya,TZ,-8.550000,33.432999,5000
+HTDA,Mwalimu Julius K. Nyerere International Airport,HTDA,DAR,Dar es Salaam,TZ,-6.878110,39.202599,182
+HTDO,Dodoma Airport,HTDO,DOD,Dodoma,TZ,-6.170440,35.752602,3673
+HTIR,Iringa Airport,HTIR,IRI,Nduli,TZ,-7.668630,35.752102,4678
+HTIY,Inyonga Airport,HTIY,,Inyonga,TZ,-6.716670,32.099998,3790
+HTKA,Kigoma Airport,HTKA,TKQ,Kigoma,TZ,-4.886200,29.670900,2700
+HTKB,Kibondo Airport,HTKB,,Kibondo,TZ,-3.525980,30.650400,4262
+HTKD,Kondoa Airport,HTKD,,Kondoa,TZ,-4.893710,35.768299,4578
+HTKI,Kilwa Masoko Airport,HTKI,KIY,Kilwa Masoko,TZ,-8.933000,39.516998,50
+HTKJ,Kilimanjaro International Airport,HTKJ,JRO,Arusha,TZ,-3.429410,37.074501,2932
+HTKL,Kirondatal Airport,HTKL,,Kirondatal,TZ,-4.314372,34.333321,5033
+HTKO,Kongwa Airport,HTKO,,Kongwa,TZ,-6.150000,36.417000,3300
+HTKS,Kilosa Airport,HTKS,,Kilosa,TZ,-6.900000,37.016666,1567
+HTKT,Kilimatinde Airport,HTKT,,Kilimatinde,TZ,-5.833000,34.932999,3608
+HTLD,Loliondo Airport,HTLD,,Loliondo,TZ,-2.069690,35.545700,6620
+HTLI,Kikwetu Airport,HTLI,LDI,Lindi,TZ,-9.851110,39.757801,100
+HTLL,Liuli Airport,HTLL,,Liuli,TZ,-11.116400,34.652199,1667
+HTLM,Lake Manyara Airport,HTLM,LKY,Lake Manyara National Park,TZ,-3.376310,35.818298,4150
+HTMA,Mafia Island Airport,HTMA,MFA,Mafia Island,TZ,-7.917000,39.667000,60
+HTMB,Mbeya Airport,HTMB,MBI,Mbeya,TZ,-8.917000,33.466999,5600
+HTMD,Mwadui Airport,HTMD,MWN,Mwadui,TZ,-3.500000,33.617001,3970
+HTMF,Mufindi Airport,HTMF,,Mufindi,TZ,-8.732040,35.302601,4175
+HTMG,Morogoro Airport,HTMG,,Morogoro,TZ,-6.797220,37.653099,1676
+HTMI,Masasi Airport,HTMI,XMI,Masasi,TZ,-10.733000,38.766998,1700
+HTMK,Mikumi Airport,HTMK,,Mikumi,TZ,-7.333428,37.116360,1737
+HTML,Malya Airport,HTML,,Malya,TZ,-2.977860,33.516300,4079
+HTMO,Mombo Airport,HTMO,,Mombo,TZ,-4.883000,38.283001,1350
+HTMP,Mpanda Airport,HTMP,,Mpanda,TZ,-6.350000,31.083000,3520
+HTMS,Moshi Airport,HTMS,QSI,Moshi,TZ,-3.363330,37.326900,2801
+HTMT,Mtwara Airport,HTMT,MYW,Mtwara,TZ,-10.339100,40.181801,371
+HTMU,Musoma Airport,HTMU,MUZ,Musoma,TZ,-1.503000,33.802100,3806
+HTMW,Mwanza Airport,HTMW,MWZ,Mwanza,TZ,-2.444490,32.932701,3763
+HTMX,Mpwapwa Airport,HTMX,,Mpwapwa,TZ,-6.350000,36.483002,3240
+HTNA,Nachingwea Airport,HTNA,NCH,Nachingwea,TZ,-10.357500,38.779202,1400
+HTNJ,Njombe Airport,HTNJ,JOM,Njombe,TZ,-9.350000,34.799999,6400
+HTNR,Ngara Airport,HTNR,,Ngara,TZ,-2.541790,30.703100,5030
+HTPE,Pemba Airport,HTPE,PMA,Chake,TZ,-5.257260,39.811401,80
+HTSD,Singida Airport,HTSD,,Singida,TZ,-4.817000,34.733002,5000
+HTSE,Same Airport,HTSE,,Same,TZ,-4.083000,37.716999,3000
+HTSH,Mafinga Airport,HTSH,,Mafinga,TZ,-8.350000,35.299999,6300
+HTSN,Seronera Airport,HTSN,SEU,Seronera,TZ,-2.458060,34.822498,5080
+HTSO,Songea Airport,HTSO,SGX,Songea,TZ,-10.683000,35.583000,3445
+HTSU,Sumbawanga Airport,HTSU,SUT,Sumbawanga,TZ,-7.967000,31.667000,5920
+HTSY,Shinyanga Airport,HTSY,SHY,Shinyanga,TZ,-3.609300,33.503500,3800
+HTTB,Tabora Airport,HTTB,TBO,Tabora,TZ,-5.076390,32.833302,3868
+HTTG,Tanga Airport,HTTG,TGT,Tanga,TZ,-5.092360,39.071201,129
+HTTU,Tunduru Airport,HTTU,,Tunduru,TZ,-11.100000,37.367001,2200
+HTUK,Nansio Airport,HTUK,,Ukerewe,TZ,-2.043530,33.064400,4010
+HTUR,Urambo Airport,HTUR,,Urambo,TZ,-5.067000,32.049999,3600
+HTUT,Utete Airport,HTUT,,Utete,TZ,-8.002580,38.761700,208
+HTUV,Uvinza Airport,HTUV,,Uvinza,TZ,-5.087950,30.406000,563
+HTWK,West Kilimanjaro Airport,HTWK,,West Kilimanjaro,TZ,-3.050000,37.000000,4300
+HTZA,Zanzibar Airport,HTZA,ZNZ,Kiembi Samaki,TZ,-6.222020,39.224899,54

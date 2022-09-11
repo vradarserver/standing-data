@@ -1,0 +1,24 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FQ49,Vila Franca do Save Airport,FQ49,,Vila Franca do Save,MZ,-21.164499,34.560699,98
+FQAG,Angoche Airport,FQAG,ANO,Angoche,MZ,-16.181870,39.945217,121
+FQBI,Bilene Airport,FQBI,,Bilene,MZ,-25.265985,33.238598,118
+FQBR,Beira Airport,FQBR,BEW,Beira,MZ,-19.796400,34.907600,33
+FQCB,Cuamba Airport,FQCB,FXO,Cuamba,MZ,-14.815000,36.529999,1919
+FQCH,Chimoio Airport,FQCH,VPY,Chimoio,MZ,-19.151300,33.429001,2287
+FQIA,Inhaca Airport,FQIA,IHC,Inhaca,MZ,-25.997145,32.929352,10
+FQIN,Inhambane Airport,FQIN,INH,Inhambabe,MZ,-23.876400,35.408501,30
+FQLC,Lichinga Airport,FQLC,VXC,Lichinga,MZ,-13.274000,35.266300,4505
+FQLU,Lumbo Airport,FQLU,LFB,Lumbo,MZ,-15.033100,40.671700,33
+FQMA,Maputo Airport,FQMA,MPM,Maputo,MZ,-25.920799,32.572601,145
+FQMD,Mueda Airport,FQMD,MUD,Mueda,MZ,-11.672900,39.563099,2789
+FQMP,Mocímboa da Praia Airport,FQMP,MZB,Mocímboa da Praia,MZ,-11.361800,40.354900,89
+FQMR,Marrupa Airport,FQMR,,Marrupa,MZ,-13.225100,37.552101,2480
+FQNC,Nacala Airport,FQNC,MNC,Nacala,MZ,-14.488200,40.712200,410
+FQNP,Nampula Airport,FQNP,APL,Nampula,MZ,-15.105600,39.281799,1444
+FQPB,Pemba Airport,FQPB,POL,Pemba / Porto Amelia,MZ,-12.991762,40.524014,331
+FQPO,Ponta do Ouro Airport,FQPO,,Ponta do Ouro,MZ,-26.828552,32.837708,92
+FQQL,Quelimane Airport,FQQL,UEL,Quelimane,MZ,-17.855499,36.869099,36
+FQSG,Songo Airport,FQSG,,Songo,MZ,-15.602700,32.773201,2904
+FQTT,Chingozi Airport,FQTT,TET,Tete,MZ,-16.104799,33.640202,525
+FQUG,Ulongwe Airport,FQUG,,Ulongwe,MZ,-14.704600,34.352402,4265
+FQVL,Vilankulo Airport,FQVL,VNX,Vilanculo,MZ,-22.018400,35.313301,46

@@ -1,0 +1,51 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EFAH,Ahmosuo Airport,EFAH,,Oulu,FI,64.895302,25.752199,95
+EFAL,Alavus Airport,EFAL,,Alavus,FI,62.554699,23.573299,407
+EFET,Enontekio Airport,EFET,ENF,Enontekio,FI,68.362602,23.424299,1005
+EFFO,Forssa Airport,EFFO,QVE,Forssa,FI,60.801899,23.645599,325
+EFGE,Genböle Airport,EFGE,,Genböle,FI,60.086899,22.521900,46
+EFHA,Halli Airport,EFHA,KEV,Halli / Kuorevesi,FI,61.855999,24.786600,479
+EFHE,Hernesaari Heliport,EFHE,,Helsinki,FI,60.147778,24.924444,7
+EFHF,Helsinki Malmi Airport,EFHF,HEM,Helsinki,FI,60.254601,25.042801,57
+EFHH,Kanta-Hämeen Central Hospital Heliport,EFHH,,Hämeenlinna,FI,60.991112,24.415277,440
+EFHJ,Haapajärvi Airport,EFHJ,,Haapajärvi,FI,63.712200,25.395000,351
+EFHK,Helsinki Vantaa Airport,EFHK,HEL,Helsinki,FI,60.317200,24.963301,179
+EFHO,Oulun University Hospital Heliport,EFHO,,Oulu,FI,65.003609,25.520279,43
+EFHP,Haapavesi Airport,EFHP,,Haapavesi,FI,64.113098,25.504200,315
+EFHS,Seinäjoen Central Hospital Heliport,EFHS,,Seinäjoen,FI,62.769919,22.822402,194
+EFII,Iisalmi Airport,EFII,,Iisalmi,FI,63.631901,27.122200,384
+EFIV,Ivalo Airport,EFIV,IVL,Ivalo,FI,68.607300,27.405300,481
+EFJM,Jämijärvi Airport,EFJM,,Jämijärvi,FI,61.778599,22.716101,505
+EFJO,Joensuu Airport,EFJO,JOE,Joensuu / Liperi,FI,62.662899,29.607500,398
+EFJY,Jyvaskyla Airport,EFJY,JYV,Jyväskylän Maalaiskunta,FI,62.399502,25.678301,459
+EFKA,Kauhava Airport,EFKA,KAU,Kauhava,FI,63.127102,23.051399,151
+EFKE,Kemi-Tornio Airport,EFKE,KEM,Kemi / Tornio,FI,65.778702,24.582100,61
+EFKI,Kajaani Airport,EFKI,KAJ,Kajaani,FI,64.285500,27.692400,483
+EFKK,Kruunupyy Airport,EFKK,KOK,Kokkola / Kruunupyy,FI,63.721199,23.143101,84
+EFKR,Kärsämäki Airport,EFKR,,Kärsämäki,FI,63.989201,25.743601,348
+EFKS,Kuusamo Airport,EFKS,KAO,Kuusamo,FI,65.987602,29.239401,866
+EFKT,Kittila Airport,EFKT,KTT,Kittila,FI,67.700996,24.846800,644
+EFKU,Kuopio Airport,EFKU,KUO,Kuopio / Siilinjärvi,FI,63.007099,27.797800,323
+EFKY,Kymi Airport,EFKY,,Peippola,FI,60.571400,26.896099,223
+EFLL,Lapinlahti Airport,EFLL,,Lammake,FI,63.399399,27.478901,328
+EFLP,Lappeenranta Airport,EFLP,LPP,Lappeenranta,FI,61.044601,28.144400,349
+EFMA,Mariehamn,EFMA,MHQ,Mariehamn,FI,60.122203,19.898156,17
+EFMI,Mikkeli Airport,EFMI,MIK,Mikkeli,FI,61.686600,27.201799,329
+EFMN,Mäntsälä Airport,EFMN,,Mäntsälä,FI,60.572498,25.508900,135
+EFOP,Oripää Airport,EFOP,,Oripää,FI,60.876400,22.744699,331
+EFOU,Oulu Airport,EFOU,OUL,Oulu / Oulunsalo,FI,64.930099,25.354601,47
+EFPK,Pieksämäki Airport,EFPK,,Pieksämäki,FI,62.264702,27.002800,390
+EFPO,Pori Airport,EFPO,POR,Pori,FI,61.461700,21.799999,44
+EFPT,Tampere University Hospital Heliport,EFPT,,Tampere,FI,61.506390,23.812500,436
+EFPY,Pyhäsalmi Airport,EFPY,,Pyhäjärvi,FI,63.731899,25.926300,528
+EFRO,Rovaniemi Airport,EFRO,RVN,Rovaniemi,FI,66.564796,25.830400,642
+EFSA,Savonlinna Airport,EFSA,SVL,Savonlinna,FI,61.943100,28.945101,311
+EFSI,Seinäjoki Airport,EFSI,SJY,Seinäjoki / Ilmajoki,FI,62.692101,22.832300,302
+EFSO,Sodankyla Airport,EFSO,SOT,Sodankyla,FI,67.394997,26.619101,602
+EFTP,Tampere-Pirkkala Airport,EFTP,TMP,Tampere / Pirkkala,FI,61.414101,23.604401,390
+EFTS,Teisko Airport,EFTS,,Tampere,FI,61.773300,24.027000,515
+EFTU,Turku Airport,EFTU,TKU,Turku,FI,60.514099,22.262800,161
+EFTV,Turku University Central Hospital Heliport,EFTV,,Turku,FI,60.451111,22.290277,75
+EFUT,Utti Air Base,EFUT,UTI,Utti / Valkeala,FI,60.896400,26.938400,339
+EFVA,Vaasa Airport,EFVA,VAA,Vaasa,FI,63.050701,21.762199,19
+EFVR,Varkaus Airport,EFVR,VRK,Varkaus / Joroinen,FI,62.171101,27.868601,286

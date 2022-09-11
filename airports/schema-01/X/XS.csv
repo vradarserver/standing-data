@@ -1,0 +1,101 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+XS00,Flying D Airport,XS00,,Llano,US,30.637199,-98.748299,1460
+XS01,Tschirhart Ranch Airport,XS01,,Fredericksburg,US,30.450199,-98.886200,2060
+XS02,Tarrant County Water Control Heliport,XS02,,Fort Worth,US,32.755100,-97.343597,540
+XS03,Herbert Ranch Airport,XS03,,Marble Falls,US,30.481300,-98.281097,1140
+XS04,East Texas Medical Center Crockett Heliport,XS04,,Crockett,US,31.325001,-95.439003,368
+XS05,H M Ranch Airport,XS05,,Marion,US,29.598801,-98.171097,751
+XS06,Flying B Ranch Airport,XS06,,Grandview,US,32.298500,-97.149498,665
+XS07,W D Cornilius Ranch Airport,XS07,,Markham,US,28.950300,-96.059998,47
+XS08,Polk Ranch Airport,XS08,,Mason,US,30.876801,-99.199501,1840
+XS09,Estates Airpark,XS09,,New Waverly,US,30.537500,-95.436401,325
+XS10,Aransas National Wildlife Refuge Airport,XS10,,Matagorda Island,US,28.117001,-96.800301,10
+XS11,Idlewild Airport,XS11,,Medina,US,29.776600,-99.359200,1660
+XS12,C F C Aviation Ranch Airport,XS12,,Liberty Hill,US,30.676001,-98.017502,1161
+XS13,T-4 Ranch Airport,XS13,,Medina,US,29.816601,-99.196701,1595
+XS14,Weese International Airport,XS14,,Greenville,US,32.969398,-96.070602,487
+XS15,Womack Ranch Airport,XS15,,Menard,US,30.771000,-99.900398,2200
+XS16,San Jacinto College Central Campus Heliport,XS16,,Pasadena,US,29.659201,-95.111900,26
+XS17,Hensley Ranch Airport,XS17,,Milano,US,30.709101,-96.901901,460
+XS18,Tom J Moore Farm Airport,XS18,,Millican,US,30.384701,-96.224701,198
+XS19,Cedar Park Rgnl Medical Center Heliport,XS19,,Cedar Park,US,30.525278,-97.822222,950
+XS20,Dos Arroyos Ranch Airport,XS20,,Mountain Home,US,30.154100,-99.297798,2058
+XS21,H & S Airfield,XS21,,Damon,US,29.331100,-95.704697,100
+XS22,Y O Ranch Airport,XS22,,Mountain Home,US,30.204100,-99.673698,2136
+XS23,Priour Ranch Airport,XS23,,Mountain Home,US,30.126600,-99.471199,2200
+XS24,Cherry Spraying Service Airport,XS24,,Muldoon,US,29.829700,-97.099197,370
+XS25,Flying C Ranch Airport,XS25,,Needville,US,29.384701,-95.682999,70
+XS26,Graco Mechanical Inc Heliport,XS26,,Houston,US,29.726900,-95.483299,50
+XS27,Farm Air Service Airport,XS27,,Nome,US,30.037701,-94.396004,45
+XS28,North Willis Airport,XS28,,Nome,US,30.026600,-94.462700,42
+XS29,Sonny Broussard Landing Strip,XS29,,Nome,US,29.990801,-94.422401,35
+XS30,Burress Airport,XS30,,Paris,US,33.605099,-95.481903,484
+XS31,Graham Field,XS31,,Sadler,US,33.701801,-96.831902,695
+XS32,Nucor Ems Heliport,XS32,,Jewett,US,31.344999,-96.165001,443
+XS33,Chesson Airport,XS33,,Orangefield,US,30.062401,-93.864601,10
+XS34,Skylark Airport,XS34,,Ennis,US,32.312500,-96.488889,430
+XS35,Trull Airport,XS35,,Palacios,US,28.739201,-96.219101,18
+XS36,Tres Ninos Ranch Airport,XS36,,Pandale,US,30.253528,-101.691631,1690
+XS37,Police Heliport,XS37,,Pasadena,US,29.692200,-95.195999,55
+XS38,3321 Westside Heliport,XS38,,Pasadena,US,29.660500,-95.201897,36
+XS39,A&A Flying Service Airport,XS39,,Pearland,US,29.536301,-95.264099,49
+XS40,Jay Kay Ranch Airport,XS40,,Pearsall,US,28.800301,-99.000298,666
+XS41,Heart Hospital of Austin Heliport,XS41,,Austin,US,30.306000,-97.741402,667
+XS42,Agricultural Supplies Airport,XS42,,Pearsall,US,28.929399,-99.080299,651
+XS43,Medina River Ranch Airport,XS43,,Pipe Creek,US,29.661600,-98.956398,1216
+XS44,Rancho Del Cielo Airport,XS44,,Kent,US,31.015301,-104.211998,4408
+XS45,Mustang Island Heliport,XS45,,Port Aransas,US,27.715900,-97.172997,10
+XS46,Port O'Connor Private Airport,XS46,,Port O'Connor,US,28.429701,-96.444397,8
+XS47,Maurice Dauwe Farm Airport,XS47,,Poteet,US,29.000200,-98.571098,447
+XS48,Marlin'S Meadow Airport,XS48,,Yantis,US,32.953889,-95.577500,490
+XS49,Dean Ranch Airport,XS49,,Shiner,US,29.490200,-97.121902,400
+XS50,4-G Ranch Airport,XS50,,Premont,US,27.383600,-98.309998,272
+XS51,Seeligson Ranch Airport,XS51,,Premont,US,27.404499,-98.144699,172
+XS52,Lewis Heliport,XS52,,Premont,US,27.334999,-97.127998,145
+XS53,Price Ranch Airport,XS53,,Big Wells,US,28.596100,-99.571404,532
+XS54,Arlington Marriott Hotel Heliport,XS54,,Arlington,US,32.757801,-97.081100,535
+XS55,Gizmo Field,XS55,,Malone,US,31.929300,-96.938904,551
+XS56,Bell Airfield,XS56,,Raymondville,US,26.448700,-97.791901,30
+XS57,Havelka Haven Airport,XS57,,Mc Gregor,US,31.465401,-97.404800,711
+XS58,Tri-County Air Service Airport,XS58,,Raywood,US,30.044100,-94.705803,70
+XS59,Mellon Ranch Airport,XS59,,Refugio,US,28.280800,-97.211403,38
+XS60,Mustang Community Airfield,XS60,,Aubrey,US,33.318401,-96.905998,605
+XS61,Deep Creek Ranch Airport,XS61,,Richland Springs,US,31.114901,-99.003403,1388
+XS62,Casey Three Ranch Airport,XS62,,Rio Frio,US,29.633301,-99.728699,1586
+XS63,Texas Air Museum Airport,XS63,,Rio Hondo,US,26.228701,-97.560799,30
+XS64,Farm Services Inc Airport,XS64,,Rio Hondo,US,26.249001,-97.565002,25
+XS65,Kitching Ranch Heliport,XS65,,Austin,US,30.147400,-97.764702,620
+XS66,Rabb Dusting Inc Airport,XS66,,Robstown,US,27.803900,-97.743599,83
+XS67,San Jose Island Airport,XS67,,Rockport,US,27.944500,-96.985001,10
+XS68,Sky Lane Ranch Airport,XS68,,Brenham,US,30.256901,-96.328598,290
+XS69,Hackberry Ranch Airport,XS69,,Rocksprings,US,29.911301,-100.000000,1829
+XS70,Glover Airport,XS70,,Mount Pleasant,US,33.134602,-95.017998,400
+XS71,San Christoval Ranch Airport,XS71,,Pawnee,US,28.748100,-98.044998,385
+XS72,F R Duke Farm Airport,XS72,,Romayor,US,30.483500,-94.833504,85
+XS73,Double D Ranch Airport,XS73,,Rosanky,US,29.873600,-97.288300,520
+XS74,Diamondaire Airport,XS74,,Waco,US,31.608200,-97.162804,424
+XS75,West Ranch Airport,XS75,,Round Mountain,US,30.454399,-98.489197,1470
+XS76,Texas Menhaden Strip,XS76,,Sabine Pass,US,29.724100,-93.870399,6
+XS77,Seafood Warehouse Park Airport,XS77,,Crystal Beach,US,29.465500,-94.627403,9
+XS78,Las Culebras Airport,XS78,,Brady,US,31.385417,-99.099833,1387
+XS79,A W Ranch Airport,XS79,,San Antonio,US,29.258600,-98.458397,540
+XS80,Santiago Cattle Co. Airport,XS80,,Comfort,US,29.972556,-98.934639,1497
+XS81,Santa Rosa Helistop,XS81,,San Antonio,US,29.426901,-98.499702,820
+XS82,Del Rio Heliport,XS82,,San Antonio,US,29.422501,-98.483902,707
+XS83,Methodist Hospital Heliport,XS83,,San Antonio,US,29.510000,-98.570602,1078
+XS84,Department of Public Safety Heliport,XS84,,San Antonio,US,29.361300,-98.449203,650
+XS85,University Health System Heliport,XS85,,San Antonio,US,29.507700,-98.578400,994
+XS86,T-Ranch Airport,XS86,,Castroville,US,29.266899,-98.925301,880
+XS87,Industrial Helicopters Inc Heliport,XS87,,Port O'Connor,US,28.445000,-96.448303,10
+XS88,Parson Field,XS88,,Paris,US,33.857399,-95.704803,475
+XS89,Yates Airport,XS89,,San Antonio,US,29.621099,-98.455803,971
+XS90,Fentress Airpark,XS90,,Fentress,US,29.768299,-97.775299,460
+XS91,Pickle Plantation Airport,XS91,,Poynor,US,32.086498,-95.599297,580
+XS92,Jackson /Bill/ Airport,XS92,,Paradise,US,33.146000,-97.712502,800
+XS93,Diamond O Ranch Airport,XS93,,Santa Elena,US,26.716999,-98.558601,420
+XS94,Corralitos Airport,XS94,,San Ygnacio,US,27.111401,-99.422501,360
+XS95,Marty Ranch Airport,XS95,,Schulenburg,US,29.676901,-96.970497,365
+XS96,Hillwood Heliport,XS96,,Fort Worth,US,32.976389,-97.308611,650
+XS97,Charlton Methodist Hospital Heliport,XS97,,Dallas,US,32.646000,-96.894203,710
+XS98,Guadalupe Hospital Heliport,XS98,,Seguin,US,29.567499,-97.946701,530
+XS99,Lake Water Wheel Airport,XS99,,Shepherd,US,30.471001,-94.912697,80

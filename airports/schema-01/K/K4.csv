@@ -1,0 +1,100 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K40G,Valle Airport,K40G,,Grand Canyon,US,35.650600,-112.148003,5999
+K40J,Perry Foley Airport,K40J,FPY,Perry,US,30.069300,-83.580597,44
+K40U,Manila Airport,K40U,,Manila,US,40.986099,-109.678001,6175
+K41A,Reeves Airport,K41A,,Tallassee,US,32.514702,-85.875999,326
+K41F,Floydada Municipal Airport,K41F,,Floydada,US,34.002300,-101.330002,3187
+K41N,Braceville Airport,K41N,,Newton Falls,US,41.211201,-80.969299,900
+K41U,Manti Ephraim Airport,K41U,,Manti,US,39.329102,-111.614998,5500
+K42A,Melbourne Municipal John E Miller Field,K42A,,Melbourne,US,36.070999,-91.830101,735
+K42I,Parr Airport,K42I,,Zanesville,US,40.007000,-82.012398,790
+K42J,Keystone Airpark,K42J,,Keystone Heights,US,29.844700,-82.047501,196
+K42M,Thayer Memorial Airport,K42M,,Thayer,US,36.522301,-91.571999,790
+K42S,Poplar Airport,K42S,,Poplar,US,48.116001,-105.181999,2005
+K42U,Morgan County Airport,K42U,,Morgan,US,41.148800,-111.766998,5020
+K42V,Jones Airport,K42V,,Benkelman,US,40.057999,-101.546997,3126
+K43A,Montgomery County Airport,K43A,,Star,US,35.388199,-79.792801,628
+K43B,Deblois Flight Strip,K43B,,Deblois,US,44.726398,-67.990700,217
+K43D,Odessa Municipal Airport,K43D,,Odessa,US,47.347599,-118.677002,1737
+K43U,Mount Pleasant Airport,K43U,,Mount Pleasant,US,39.524700,-111.474999,5830
+K44C,Beloit Airport,K44C,,Beloit,US,42.497799,-88.967598,817
+K44N,Sky Acres Airport,K44N,,Millbrook,US,41.707401,-73.737999,698
+K44U,Salina Gunnison Airport,K44U,,Salina,US,39.029099,-111.837997,5159
+K45G,Brighton Airport,K45G,,Brighton,US,42.569801,-83.778503,973
+K45K,Minneapolis City County Airport,K45K,,Minneapolis,US,39.094700,-97.720596,1245
+K45R,Hawthorne Field,K45R,,Kountze/Silsbee,US,30.336300,-94.257500,71
+K46D,Carrington Municipal Airport,K46D,,Carrington,US,47.451099,-99.151100,1607
+K46U,Alpine Airport,K46U,,Alpine,US,43.184601,-111.042000,5634
+K47A,Cherokee County Airport,K47A,,Canton,US,34.310600,-84.423897,1219
+K47K,Moundridge Municipal Airport,K47K,,Moundridge,US,38.209099,-97.502701,1489
+K47N,Central Jersey Regional Airport,K47N,,Manville,US,40.524399,-74.598396,86
+K47V,Curtis Municipal Airport,K47V,,Curtis,US,40.637501,-100.471001,2678
+K48A,Cochran Airport,K48A,,Cochran,US,32.399399,-83.275902,377
+K48D,Clare Municipal Airport,K48D,,Clare,US,43.834499,-84.740196,857
+K48I,Braxton County Airport,K48I,,Sutton,US,38.687000,-80.651802,1276
+K48K,Ness City Municipal Airport,K48K,,Ness City,US,38.471100,-99.908096,2308
+K48S,Harlem Airport,K48S,,Harlem,US,48.566101,-108.773003,2643
+K49A,Gilmer County Airport,K49A,,Ellijay,US,34.627899,-84.524902,1486
+K49B,Sturgis Municipal Airport,K49B,,Sturgis,US,44.417999,-103.375000,3243
+K49R,Real County Airport,K49R,,Leakey,US,29.745501,-99.760902,1640
+K49X,Chemehuevi Valley Airport,K49X,,Chemehuevi Valley,US,34.527500,-114.431000,631
+K4A0,Berry Hill Airport,K4A0,,Stockbridge,US,33.535702,-84.179100,770
+K4A4,Polk County Airport- Cornelius Moore Field,K4A4,,Cedartown,US,34.018700,-85.146500,974
+K4A5,Searcy County Airport,K4A5,,Marshall,US,35.896999,-92.658997,963
+K4A6,Scottsboro Municipal Word Field,K4A6,,Scottsboro,US,34.688702,-86.005898,650
+K4A7,Clayton County Tara Field,K4A7,,Hampton,US,33.389099,-84.332397,874
+K4A9,Isbell Field,K4A9,,Fort Payne,US,34.473701,-85.721397,877
+K4B6,Ticonderoga Municipal Airport,K4B6,,Ticonderoga,US,43.877300,-73.413101,273
+K4B7,Schroon Lake Airport,K4B7,,Schroon Lake,US,43.862598,-73.742599,830
+K4B8,Robertson Field,K4B8,,Plainville,US,41.690399,-72.864799,200
+K4C8,Albia Municipal Airport,K4C8,,Albia,US,40.994499,-92.763000,963
+K4D0,Abrams Municipal Airport,K4D0,,Grand Ledge,US,42.774200,-84.733101,842
+K4E7,Ellendale Municipal Airport,K4E7,,Ellendale,US,46.012501,-98.512901,1455
+K4F2,Panola County Sharpe Field,K4F2,,Carthage,US,32.176102,-94.298798,248
+K4F7,Kizer Field,K4F7,,Prescott,US,33.803902,-93.362198,319
+K4F8,Wilson Airport,K4F8,,Stephens,US,33.443600,-93.054100,230
+K4F9,La Moure Rott Municipal Airport,K4F9,,La Moure,US,46.346600,-98.283699,1310
+K4G4,Youngstown Elser Metro Airport,K4G4,,Youngstown,US,40.961800,-80.677299,1070
+K4G5,Monroe County Airport,K4G5,,Woodsfield,US,39.778999,-81.102798,1197
+K4G6,Hornell Municipal Airport,K4G6,,Hornell,US,42.382099,-77.682098,1220
+K4G8,Columbia Airport,K4G8,,Columbia Station,US,41.318802,-81.960197,813
+K4I0,Mingo County Airport,K4I0,,Williamson,US,37.687599,-82.261002,1575
+K4I3,Knox County Airport,K4I3,,Mount Vernon,US,40.328701,-82.523804,1191
+K4I7,Putnam County Airport,K4I7,,Greencastle,US,39.630299,-86.813904,842
+K4I9,Morrow County Airport,K4I9,,Mount Gilead,US,40.524502,-82.850098,1085
+K4J1,Brantley County Airport,K4J1,,Nahunta,US,31.207399,-81.905800,83
+K4J2,Berrien County Airport,K4J2,,Nashville,US,31.212601,-83.226303,240
+K4J5,Quitman Brooks County Airport,K4J5,,Quitman,US,30.805799,-83.586502,185
+K4J6,St Marys Airport,K4J6,,St Marys,US,30.753000,-81.558800,23
+K4J8,Treutlen County Airport,K4J8,,Soperton,US,32.387699,-82.563698,345
+K4K3,Lexington Municipal Airport,K4K3,,Lexington,US,39.209801,-93.928001,691
+K4K6,Bloomfield Municipal Airport,K4K6,,Bloomfield,US,40.732101,-92.428299,888
+K4M1,Carroll County Airport,K4M1,,Berryville,US,36.381302,-93.624603,1205
+K4M2,Booneville Municipal Airport,K4M2,,Booneville,US,35.149502,-93.862099,465
+K4M3,Carlisle Municipal Airport,K4M3,,Carlisle,US,34.808201,-91.712097,241
+K4M7,Russellville Logan County Airport,K4M7,,Russellville,US,36.799900,-86.810204,689
+K4M9,Corning Municipal Airport,K4M9,,Corning,US,36.404202,-90.647903,293
+K4N1,Greenwood Lake Airport,K4N1,,West Milford,US,41.128201,-74.346703,791
+K4O4,Mc Curtain County Regional Airport,K4O4,,Idabel,US,33.909401,-94.859398,472
+K4O5,Cherokee Municipal Airport,K4O5,,Cherokee,US,36.787998,-98.358498,1177
+K4P3,Flandreau Municipal Airport,K4P3,,Flandreau,US,44.003899,-96.593102,1645
+K4R1,I H Bass Jr Memorial Airport,K4R1,,Lumberton,US,31.015499,-89.482597,310
+K4R3,Jackson Municipal Airport,K4R3,,Jackson,US,31.472099,-87.894699,62
+K4R4,H L Sonny Callahan Airport,K4R4,,Fairhope,US,30.460501,-87.876999,91
+K4R5,Madeline Island Airport,K4R5,,La Pointe,US,46.788700,-90.758698,649
+K4R7,Eunice Airport,K4R7,,Eunice,US,30.466299,-92.423798,42
+K4R9,Dauphin Island Airport,K4R9,,Dauphin Island,US,30.260500,-88.127502,5
+K4S1,Gold Beach Municipal Airport,K4S1,GOL,Gold Beach,US,42.413399,-124.424004,20
+K4S2,Ken Jernstedt Airfield,K4S2,,Hood River,US,45.672600,-121.536003,631
+K4S3,Joseph State Airport,K4S3,,Joseph,US,45.359600,-117.253998,4121
+K4S9,Portland Mulino Airport,K4S9,,Portland-Mulino,US,45.216301,-122.589996,260
+K4SD,Reno Stead Airport,K4SD,,Reno,US,39.667400,-119.875999,5050
+K4T2,Kenneth Copeland Airport,K4T2,,Fort Worth,US,32.977299,-97.488403,688
+K4U6,Circle Town County Airport,K4U6,,Circle,US,47.418598,-105.561996,2426
+K4U9,Dell Flight Strip,K4U9,,Dell,US,44.735699,-112.720001,6007
+K4V0,Rangely Airport,K4V0,,Rangely,US,40.094002,-108.763000,5275
+K4V1,Spanish Peaks Airfield,K4V1,,Walsenburg,US,37.696602,-104.783997,6047
+K4V4,Northwood Municipal Vince Field,K4V4,,Northwood,US,47.724201,-97.590401,1117
+K4V9,Antelope County Airport,K4V9,,Neligh,US,42.112202,-98.038696,1774
+K4X4,Wessington Springs Airport,K4X4,,Wessington Springs,US,44.061001,-98.530899,1546
+K4Y4,Lakes of the North Airport,K4Y4,,Gaylord,US,44.912498,-84.876404,1286

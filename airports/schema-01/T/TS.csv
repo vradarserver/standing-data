@@ -1,0 +1,101 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+TS00,Fuller Airport,TS00,,Fort Worth,US,32.788200,-97.180801,490
+TS01,Landry STOLport,TS01,,Geogetown,US,30.712700,-97.650299,780
+TS02,One Sixty Four Place Airport,TS02,,Jacksboro,US,33.119598,-98.230598,1200
+TS03,Bryant's Landing Airport,TS03,,Walnut Springs,US,32.061501,-97.737801,914
+TS04,Rio Vista Ranch Airport,TS04,,Del Rio,US,29.835800,-100.977997,1774
+TS05,Progreso Airport,TS05,,Progreso,US,26.083700,-97.950302,70
+TS06,Medical City Dallas Hospital Heliport,TS06,,Dallas,US,32.911499,-96.775002,517
+TS07,Dry Creek Airport,TS07,,Cypress,US,29.986300,-95.685600,152
+TS08,Calaway Airport,TS08,,Ganado,US,29.083599,-96.500298,74
+TS09,Baptist Hospital of Se Texas Heliport,TS09,,Beaumont,US,30.068501,-94.125702,20
+TS10,Sheraton Spindletop Hotel Heliport,TS10,,Beaumont,US,30.101299,-94.130997,25
+TS11,Glenmar Airport,TS11,,Campbell,US,33.107101,-95.930000,531
+TS12,Cig 809 Heliport,TS12,,Bay City,US,28.982500,-96.028801,53
+TS13,Station 30 Heliport,TS13,,El Campo,US,29.294701,-96.308899,115
+TS14,Smith Flying Service Airport,TS14,,De Leon,US,32.108700,-98.487999,1275
+TS15,Cibolo Creek Ranch Airport,TS15,,Marfa,US,29.892900,-104.262001,4400
+TS16,Lewis Electric Apparatus Repair Inc Heliport,TS16,,Houston,US,29.710199,-95.278503,35
+TS17,First Bank Plaza Garage Heliport,TS17,,Houston,US,29.734400,-95.500801,105
+TS18,Kingsland Estates Airport,TS18,,Kingsland,US,30.654400,-98.478600,873
+TS19,Gws Inc Construction Heliport,TS19,,Houston,US,29.680799,-95.401299,80
+TS20,C Lazy T Ranch Airport,TS20,,Seymour,US,33.532299,-99.193703,1365
+TS21,Roy Ranch Airport,TS21,,Justiceburg,US,33.084833,-101.114833,2366
+TS22,Joye Ranch Airport,TS22,,Smiley,US,29.241699,-97.629700,280
+TS23,Mgm Heliport,TS23,,Austin,US,30.337400,-97.906097,540
+TS24,Westchase Heliport,TS24,,Houston,US,29.736300,-95.547401,79
+TS25,Mynatt Field,TS25,,South Sulphur,US,33.269798,-96.022499,557
+TS26,The Huntingdon Heliport,TS26,,Houston,US,29.747200,-95.417999,566
+TS27,River Field,TS27,,Columbus,US,29.716200,-96.591400,220
+TS28,Northeast Community Hospital Heliport,TS28,,Bedford,US,32.839001,-97.147499,690
+TS29,Liberty Hill International Airport,TS29,,Eddy,US,31.294600,-97.296997,790
+TS30,Wilbarger General Hospital Heliport,TS30,,Vernon,US,34.159302,-99.316200,1226
+TS31,Transco Tower Garage Heliport,TS31,,Houston,US,29.736900,-95.461601,99
+TS32,Waskom Heliport,TS32,,Waskom,US,32.470699,-94.055496,280
+TS33,Tex-Star Heliport,TS33,,Houston,US,29.782200,-95.417397,83
+TS34,Woodcreek-Shell Heliport,TS34,,Houston,US,29.789101,-95.608597,90
+TS35,West Liberty Airport,TS35,,Dayton,US,30.058300,-94.978104,80
+TS36,Silver Wings Airport,TS36,,Fredricksburg,US,30.219601,-99.140800,2110
+TS37,Harris County Clay Road Courthouse Heliport,TS37,,Houston,US,29.834400,-95.655502,115
+TS38,Helitrans Heliport,TS38,,Iowa Colony/Manvel,US,29.476601,-95.402199,55
+TS39,Sherman Airport,TS39,,Lockney,US,34.312000,-101.412003,3285
+TS40,Celina Field,TS40,,Celina,US,33.312801,-96.763901,770
+TS41,Station 24 Heliport,TS41,,Markham,US,29.001900,-96.066902,57
+TS42,Del-Tex Airport,TS42,,Olton,US,34.196499,-102.127998,3600
+TS43,Wagner Heliport,TS43,,Palacios,US,28.716400,-96.214104,18
+TS44,Dry Branch Ranch Airport,TS44,,Pattison,US,29.840000,-96.023300,130
+TS45,Gulfcoast Heliport,TS45,,Pearland,US,29.576599,-95.333000,55
+TS46,P P H Heliport,TS46,,Port Arthur,US,29.932699,-93.938499,5
+TS47,Rock Creek Ranch Airport,TS47,,Whitt,US,32.968498,-98.011398,1130
+TS48,Arco Sabine Heliport,TS48,,Sabine Pass,US,29.712700,-93.859596,9
+TS49,Station 40 Heliport,TS49,,Sour Lake,US,30.184099,-94.505997,65
+TS50,Austinia Airport,TS50,,Texas City,US,29.417500,-94.998299,15
+TS51,Barton Memorial Airport,TS51,,Garrison,US,31.837099,-94.459396,345
+TS52,Tomball Regional Hospital Heliport,TS52,,Tomball,US,30.086700,-95.621399,182
+TS53,Flying Cap Valley Airport,TS53,,Grapevine,US,32.936501,-97.135300,638
+TS54,Flying B Airport,TS54,,Pickton,US,33.014801,-95.434402,535
+TS55,Bat Cave Field,TS55,,Garden Ridge,US,29.671900,-98.304497,850
+TS56,Ktvt Channel 11 Heliport,TS56,,Fort Worth,US,32.761398,-97.244202,595
+TS57,Red Ace Ranch Airport,TS57,,Decatur,US,33.241798,-97.621101,900
+TS58,Denton Regional Medical Ctr - Flow Campus Heliport,TS58,,Denton,US,33.178001,-97.092598,622
+TS59,Bear Heliport,TS59,,El Paso,US,31.850100,-106.417000,3800
+TS60,Superturf Heliport,TS60,,Garland,US,32.878201,-96.658600,567
+TS61,Little 'L' Ranch Airport,TS61,,Glen Rose,US,32.211700,-97.642197,585
+TS62,Norris Field,TS62,,Jayton,US,33.200100,-100.517998,1987
+TS63,Square Air Airport,TS63,,Mc Kinney,US,33.245899,-96.564201,655
+TS64,Kimi Heliport,TS64,,Mesquite,US,32.708500,-96.560303,440
+TS65,Ducote Airpark,TS65,,San Angelo,US,31.358500,-100.612999,1974
+TS66,Lubbbock Methodist Hospital Heliport,TS66,,Lubbock,US,33.583099,-101.893997,3225
+TS67,Kitty Hawk Flying Field,TS67,,Garden Ridge,US,29.625200,-98.278099,860
+TS68,Valley Baptist Medical Center (Vbmc) Heliport,TS68,,Harlingen,US,26.175400,-97.670502,35
+TS69,Barronena East Airport,TS69,,Hebbronville,US,27.485001,-98.662003,576
+TS70,Jack Miller STOLport,TS70,,Mansfield,US,32.575100,-97.086998,600
+TS71,Flying B Ranch Airport,TS71,,Ovilla,US,32.527901,-96.943901,780
+TS72,Etmc - Gun Barrel City Heliport,TS72,,Gun Barrel City,US,32.331299,-96.113602,385
+TS73,Stubbs Strip,TS73,,Fort Worth,US,32.775101,-97.487801,755
+TS74,Glass Airport,TS74,,Sanger,US,33.362598,-97.294502,810
+TS75,Mitchell Nr One Airport,TS75,,Sanderson,US,30.503000,-102.158997,2700
+TS76,Redstone Ranch Airport,TS76,,Stonewall,US,30.250200,-98.594704,1460
+TS77,Horlock Heliport,TS77,,Bellaire,US,29.725000,-95.461098,87
+TS78,Loesch Ranch Airport,TS78,,Booker,US,36.391701,-100.469002,2804
+TS79,Air Logistics Heliport,TS79,,Port O'Conner,US,28.439699,-96.419701,5
+TS80,Mc Alister Farm Airport,TS80,,Electra,US,34.130600,-98.903099,1125
+TS81,Town & Country Heliport,TS81,,Houston,US,29.783600,-95.555801,90
+TS82,Gulf Tower Heliport,TS82,,Houston,US,29.755501,-95.361603,774
+TS83,Shell I C Heliport,TS83,,Houston,US,29.691900,-95.406898,56
+TS84,Texoma Medical Center Heliport,TS84,,Denison,US,33.766300,-96.550102,765
+TS85,Diamond J Airport,TS85,,Pottsboro,US,33.810600,-96.703903,802
+TS86,Community Hospital Heliport,TS86,,Missouri City,US,29.562700,-95.564102,70
+TS87,Bridle Ridge Airport,TS87,,Navasota,US,30.417999,-96.079399,328
+TS88,Memorial Hospital Heliport,TS88,,Pasadena,US,29.689699,-95.200996,20
+TS89,Parker Airport,TS89,,Granbury,US,32.351101,-97.808701,925
+TS90,Bayless Airport,TS90,,Rosharon,US,29.402500,-95.431900,49
+TS91,Tenneco Shorebase Heliport,TS91,,Sabine Pass,US,29.700199,-93.864098,11
+TS92,Little Peach Airport,TS92,,Temple,US,31.214600,-97.426697,710
+TS93,Brown & Root-Clinton Heliport,TS93,,Houston,US,29.763000,-95.328003,29
+TS94,Rancho Buena Vista Airport,TS94,,Bay View,US,26.251200,-97.300797,20
+TS95,Aviasud Airpark,TS95,,Beasley,US,29.486401,-95.930801,100
+TS96,El Campo Airpark,TS96,,El Campo,US,29.266899,-96.325203,128
+TS97,Hpl Heliport,TS97,,Corpus Christi,US,27.833099,-97.540298,60
+TS98,Wings Over Texas Airport,TS98,,Terrell,US,32.786900,-96.306900,532
+TS99,Action Nr 2 Heliport,TS99,,Cypress,US,29.935499,-95.513496,151

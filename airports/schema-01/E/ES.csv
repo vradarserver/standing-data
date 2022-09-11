@@ -1,0 +1,91 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ESCF,Malmen Air Base,ESCF,,Linköping,SE,58.402302,15.525700,308
+ESCK,Bråvalla Air Base,ESCK,,Norrköping,SE,58.610901,16.103600,90
+ESCN,Stockholm Tullinge Airport,ESCN,,Stockholm,SE,59.179401,17.907801,180
+ESCY,Nyge Airport,ESCY,,Nyköping,SE,58.745602,17.048901,7
+ESDF,Ronneby,ESDF,RNB,Ronneby,SE,56.266667,15.265000,191
+ESEM,Lund Hospital Heliport,ESEM,,Lund,SE,55.711812,13.198689,352
+ESFA,Hässleholm Bokeberg Airport,ESFA,XWP,Hässleholm,SE,56.134407,13.875647,105
+ESFR,Råda Air Base,ESFR,,Råda,SE,58.498100,13.053200,230
+ESGG,Gothenburg-Landvetter Airport,ESGG,GOT,Gothenburg,SE,57.662800,12.279800,506
+ESGJ,Jönköping Airport,ESGJ,JKG,Jönköping,SE,57.757599,14.068700,741
+ESGK,Falköping Airport,ESGK,,Falköping,SE,58.169800,13.587800,785
+ESGL,Lidköping-Hovby Airport,ESGL,LDK,Lidköping,SE,58.465500,13.174400,200
+ESGN,Brännebrona Airport,ESGN,,Götene,SE,58.578602,13.610600,259
+ESGO,Vårgårda Airport,ESGO,,Vårgårda,SE,58.039398,12.788900,328
+ESGP,Gothenburg City Airport,ESGP,GSE,Gothenburg,SE,57.774700,11.870400,59
+ESGR,Skövde Airport,ESGR,KVB,Skövde,SE,58.456402,13.972700,324
+ESGS,Näsinge Airport,ESGS,,Strömstad,SE,59.016800,11.343700,115
+ESGT,Trollhättan-Vänersborg Airport,ESGT,THN,Trollhättan,SE,58.318100,12.345000,137
+ESGV,Varberg Getterön airfield,ESGV,,Varberg,SE,57.124599,12.228300,5
+ESIA,Karlsborg Air Base,ESIA,,Karlsborg,SE,58.513802,14.507100,308
+ESIB,Såtenäs Air Base,ESIB,,Såtenäs,SE,58.426399,12.714400,181
+ESKB,Barkarby Airport,ESKB,,Stockholm,SE,59.414474,17.882137,50
+ESKM,Mora/Siljan Airport,ESKM,MXX,Mora,SE,60.957908,14.511383,633
+ESKN,Stockholm Skavsta Airport,ESKN,NYO,Stockholm / Nyköping,SE,58.788601,16.912201,140
+ESKS,Sälen Trysil Airport,ESKS,SCR,Rörbäcksnäs,SE,61.158889,12.840000,1647
+ESMA,Emmaboda Airport,ESMA,,Emmaboda,SE,56.610802,15.604800,442
+ESMB,Borglanda Airport,ESMB,,Borglanda,SE,56.862999,16.656099,118
+ESMC,Ränneslätt Airport,ESMC,,Eksjö,SE,57.670601,14.943000,720
+ESMD,Hässleholm Vankivar Airport,ESMD,,Hässleholm,SE,56.184700,13.750300,180
+ESME,Eslöv Airport,ESME,,Eslöv,SE,55.848301,13.328300,296
+ESMF,Fagerhult Airport,ESMF,,Fagerhult,SE,56.387901,13.470600,378
+ESMG,Feringe Airport,ESMG,,Ljungby,SE,56.950298,13.921700,538
+ESMH,Höganäs Airport,ESMH,,Höganäs,SE,56.184799,12.576100,21
+ESMI,Sjöbo/Sövde Airport,ESMI,,Sövdeborg,SE,55.598202,13.674700,118
+ESMJ,Kågeröd Airport,ESMJ,,Kågeröd,SE,55.994701,13.050900,276
+ESMK,Kristianstad Airport,ESMK,KID,Kristianstad,SE,55.921700,14.085500,76
+ESML,Landskrona Airport,ESML,,Landskrona,SE,55.945999,12.870000,194
+ESMN,Lund Airport,ESMN,,Lund,SE,55.684399,13.210800,79
+ESMP,Anderstorp Airport,ESMP,,Anderstorp,SE,57.264198,13.599400,507
+ESMQ,Kalmar,ESMQ,KLR,Kalkmar,SE,56.685531,16.287578,17
+ESMS,Malmö Sturup Airport,ESMS,MMX,Malmö,SE,55.536305,13.376198,236
+ESMT,Halmstad Airport,ESMT,HAD,Halmstad,SE,56.691101,12.820200,101
+ESMU,Möckeln Airport,ESMU,,Älmhult,SE,56.570702,14.166500,480
+ESMX,Växjö Kronoberg Airport,ESMX,VXO,Växjö,SE,56.929100,14.728000,610
+ESMY,Smålandsstenar Smålanda Airport,ESMY,,Smålandsstenar,SE,57.168598,13.440200,540
+ESMZ,Ölanda Airport,ESMZ,,Ölanda,SE,57.328236,17.050524,27
+ESNC,Hedlanda Airport,ESNC,,Hede,SE,62.408901,13.747200,1460
+ESND,Härjedalen Sveg Airport,ESND,EVG,Sveg,SE,62.046944,14.419444,1115
+ESNG,Gällivare Airport,ESNG,GEV,Gällivare,SE,67.132401,20.814600,1027
+ESNH,Hudiksvall Airport,ESNH,HUV,Hudiksvall,SE,61.768101,17.080700,95
+ESNK,Kramfors Sollefteå Airport,ESNK,KRF,Kramfors / Sollefteå,SE,63.048599,17.768900,34
+ESNL,Lycksele Airport,ESNL,LYC,Lycksele,SE,64.548056,18.716111,705
+ESNN,Sundsvall-Härnösand Airport,ESNN,SDL,Sundsvall/ Härnösand,SE,62.528099,17.443899,16
+ESNO,Örnsköldsvik Airport,ESNO,OER,Örnsköldsvik,SE,63.408298,18.990000,354
+ESNP,Piteå Airport,ESNP,,Piteå,SE,65.398300,21.260799,43
+ESNQ,Kiruna,ESNQ,KRN,Kiruna,SE,67.821986,20.336764,1508
+ESNS,Skellefteå Airport,ESNS,SFT,Skellefteå,SE,64.624802,21.076900,157
+ESNU,Umeå Airport,ESNU,UME,Umeå,SE,63.791801,20.282801,24
+ESNV,Vilhelmina Airport,ESNV,VHM,Vilhelmina,SE,64.578889,16.833333,1140
+ESNX,Arvidsjaur Airport,ESNX,AJR,Arvidsjaur,SE,65.590302,19.281900,1245
+ESNY,Söderhamn Airport,ESNY,SOO,Söderhamn,SE,61.261501,17.099100,88
+ESNZ,Östersund Airport,ESNZ,OSD,Östersund,SE,63.194401,14.500300,1233
+ESOE,Örebro Airport,ESOE,ORB,Örebro,SE,59.223701,15.038000,188
+ESOH,Hagfors Airport,ESOH,HFS,Råda,SE,13.578908,60.020064,474
+ESOK,Karlstad Airport,ESOK,KSD,Karlstad,SE,59.444698,13.337400,352
+ESOW,Stockholm Västerås Airport,ESOW,VST,Stockholm / Västerås,SE,59.589401,16.633600,21
+ESPA,Luleå Airport,ESPA,LLA,Luleå,SE,65.543800,22.122000,65
+ESPE,Vidsel Air Base,ESPE,,Vidsel,SE,65.875298,20.149900,597
+ESSA,Stockholm-Arlanda Airport,ESSA,ARN,Stockholm,SE,59.651901,17.918600,137
+ESSB,Stockholm-Bromma Airport,ESSB,BMA,Stockholm,SE,59.354401,17.941700,47
+ESSD,Borlange,ESSD,BLE,Borlange,SE,60.422017,15.515211,503
+ESSK,Gävle Sandviken Airport,ESSK,GVX,Gävle / Sandviken,SE,60.593300,16.951401,224
+ESSL,Linköping City Airport,ESSL,LPI,Linköping,SE,58.406200,15.680500,172
+ESSN,Norrtälje Airport,ESSN,,Norrtälje,SE,59.732800,18.696400,39
+ESSP,Norrköping Airport,ESSP,NRK,Norrköping,SE,58.586300,16.250601,32
+ESSQ,Karlstad South Airport,ESSQ,,Karlstad,SE,59.359200,13.466100,148
+ESST,Torsby Airport,ESST,TYF,Torsby,SE,12.991269,60.157622,393
+ESSU,Eskilstuna Airport,ESSU,EKT,Eskilstuna,SE,59.351101,16.708401,139
+ESSV,Visby Airport,ESSV,VBY,Visby,SE,57.662800,18.346201,164
+ESTA,Ängelholm-Helsingborg Airport,ESTA,AGH,Ängelholm,SE,56.296101,12.847100,68
+ESTF,Fjällbacka Anra Airport,ESTF,,Fjällbacka,SE,58.630009,11.314459,10
+ESTG,Grönhögen Airport,ESTG,,Grönhögen,SE,56.275002,16.420000,10
+ESTL,Ljungbyhed Airport,ESTL,,Ljungbyhed,SE,56.082802,13.212500,140
+ESTT,Vellinge Airfield,ESTT,,Vellinge,SE,55.391202,13.022103,12
+ESUI,Mellansel Airport,ESUI,,Mellansel,SE,63.398300,18.328300,269
+ESUO,Graftavallen Airport,ESUO,,Graftavallen,SE,63.041698,14.001400,1640
+ESUP,Pajala–Ylläs Airport,ESUP,PJA,Pajala,SE,67.245556,23.068889,542
+ESUT,Hemavan Tärnaby Airport,ESUT,HMV,Hemavan,SE,65.811111,15.083333,1509
+ESVB,Bunge Private Airport,ESVB,,Bunge,SE,57.849701,19.035000,69
+ESVS,Siljansnäs Airport,ESVS,,Siljansnäs,SE,60.785099,14.827200,611

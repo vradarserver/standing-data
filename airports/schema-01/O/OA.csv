@@ -1,0 +1,47 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+OA00,Taildragger Airport,OA00,,Cambridge,US,40.117001,-81.571198,800
+OA03,B & W Metals Company Heliport,OA03,,Fairfield,US,39.343399,-84.536598,670
+OA04,Rutter Airport,OA04,,Arcadia,US,41.097599,-83.502701,815
+OA05,Hogan Airport,OA05,,Mc Gonigle,US,39.424198,-84.659103,865
+OA06,Massillon Community Hospital Heliport,OA06,,Massillon,US,40.805801,-81.515602,1026
+OA07,Hemlock Field,OA07,,Rock Creek,US,41.701401,-80.860298,815
+OA08,Medflight Heliport,OA08,,Columbus,US,40.084999,-83.068298,890
+OA09,Madison County Hospital Heliport,OA09,,London,US,39.892502,-83.452797,1057
+OA10,Bernie's Airport,OA10,,Mount Orab,US,39.008598,-83.909203,950
+OA11,Heitman Field,OA11,,Anna,US,40.376099,-84.254997,998
+OA12,Buena Vista Farm Airport,OA12,,Morrow,US,39.334400,-84.070000,855
+OA14,Roxford Airport,OA14,,Dennison,US,40.422222,-81.318056,872
+OA15,Fort Hamilton Hospital Heliport,OA15,,Hamilton,US,39.415000,-84.573611,700
+OA16,Lost Bridge Airport,OA16,,North Bend,US,39.156111,-84.781667,818
+OA17,Bucyrus Community Hospital Heliport,OA17,,Bucyrus,US,40.818164,-82.980136,1004
+OA18,Creekside Ridge Heliport,OA18,,Cuyahoga Falls,US,41.178300,-81.526806,1081
+OA19,Kiko Farm Airport,OA19,,North Canton,US,40.898889,-81.300000,1170
+OA21,Fuller Heliport,OA21,,Chagrin Falls,US,41.390536,-81.288803,1200
+OA22,Bethesda North Hospital Heliport,OA22,,Montgomery,US,39.251667,-84.343611,757
+OA23,Heins Field,OA23,,Arcanum,US,39.968667,-84.539000,1040
+OA51,Fighter Field Airport,OA51,,Watkins,US,40.206111,-83.228611,980
+OA85,Riverview Airport,OA85,,Dresden,US,40.136501,-81.993698,730
+OAAK,Andkhoi Airport,OAAK,,Andkhoi,AF,36.943322,65.206967,900
+OABN,Bamiyan Airport,OABN,BIN,Bamiyan,AF,34.817001,67.817001,8367
+OABT,Bost Airport,OABT,BST,Bost,AF,31.559700,64.364998,2464
+OACC,Chakcharan Airport,OACC,CCN,Chakcharan,AF,34.533001,65.266998,7383
+OADZ,Darwaz Airport,OADZ,DAZ,Darwaz,AF,38.461102,70.882500,5250
+OAFR,Farah Airport,OAFR,FAH,Farah,AF,32.367001,62.182999,3083
+OAFZ,Faizabad Airport,OAFZ,FBD,Faizabad,AF,37.121101,70.518097,3872
+OAHN,Khwahan Airport,OAHN,KWH,Khwahan,AF,37.882999,70.217003,3593
+OAHR,Herat,OAHR,HEA,Herat,AF,34.210017,62.228300,3206
+OAIX,Bagram Air Base,OAIX,OAI,Bagram,AF,34.946098,69.264999,4895
+OAJL,Jalal-Abad Airport,OAJL,JAA,Jalal-Abad,AF,34.400556,70.500000,1840
+OAKB,Kabul International Airport,OAKB,KBL,Kabul,AF,34.565899,69.212303,5877
+OAKG,Khojaghar Airport,OAKG,,Khojaghar,AF,37.083000,69.366997,1607
+OAKN,Kandahar,OAKN,KDH,Kandahar,AF,31.505756,65.847822,3337
+OAKS,Khost Airport,OAKS,KHT,Khost,AF,33.333401,69.952003,3756
+OAMS,Mazar-i-Sharif Airport,OAMS,MZR,Mazar-i-Sharif Airport,AF,36.706914,67.209678,1284
+OAQM,Kron Monajn Airport,OAQM,,Kron Monajn,AF,36.167000,70.717003,8420
+OAQN,Qala-I-Naw Airport,OAQN,LQN,Qala-I-Naw,AF,34.985001,63.117802,2999
+OASA,Sharana Airstrip,OASA,OAS,Sharana,AF,33.125750,68.838517,7340
+OASN,Sheghnan Airport,OASN,SGA,Sheghnan,AF,37.567001,71.500000,6700
+OATD,Toorghodi Heliport,OATD,,Kara Tapa,AF,35.222198,62.290600,2600
+OATN,Tarin Kowt Airport,OATN,TII,Tarin Kowt,AF,32.604198,65.865799,4429
+OATQ,Talolqan Airport,OATQ,,Taloqan,AF,36.770699,69.531998,2606
+OAZJ,Zaranj Airport,OAZJ,ZAJ,Zaranj,AF,30.972222,61.865833,1572

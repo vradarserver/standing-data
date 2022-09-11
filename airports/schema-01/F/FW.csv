@@ -1,0 +1,27 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FWBG,Bangula Airport,FWBG,,Bangula,MW,-16.583300,35.116699,302
+FWCB,Chilumba Prv Airport,FWCB,,Chilumba,MW,-10.433300,34.250000,1611
+FWCL,Chileka International Airport,FWCL,BLZ,Blantyre,MW,-15.679100,34.973999,2555
+FWCM,Club Makokola Airport,FWCM,CMK,Club Makokola,MW,-14.306900,35.132500,1587
+FWCS,Ntchisi Airport,FWCS,,Ntchisi,MW,-13.375800,33.864498,4301
+FWCT,Chitipa Airport,FWCT,,Chitipa,MW,-9.700000,33.266998,4270
+FWDW,Dwangwa Airport,FWDW,DWA,Dwangwa,MW,-12.518300,34.131901,1605
+FWDZ,Dedza Airport,FWDZ,,Dedza,MW,-14.383000,34.317001,5240
+FWKA,Karonga Airport,FWKA,KGJ,Karonga,MW,-9.953570,33.893002,1765
+FWKB,Katumbi Airport,FWKB,,Katumbi,MW,-10.817000,33.516998,3986
+FWKG,Kasungu Airport,FWKG,KBQ,Kasungu,MW,-13.014600,33.468601,3470
+FWKI,Lilongwe International Airport,FWKI,LLW,Lilongwe,MW,-13.789400,33.780998,4035
+FWKK,Nkhota Kota Airport,FWKK,,Nkhota Kota,MW,-12.917000,34.266998,1720
+FWLE,Lilongwe Airport,FWLE,,Lilongwe,MW,-13.966000,33.701801,3722
+FWLK,Likoma Island Airport,FWLK,LIX,Likoma Island,MW,-12.083000,34.733002,1600
+FWLP,Lifupa Airport,FWLP,,Lifupa,MW,-13.050000,33.150002,3326
+FWMC,Mchinji Airport,FWMC,,Mchinji,MW,-13.800000,32.900002,3901
+FWMG,Mangochi Airport,FWMG,MAI,Mangochi,MW,-14.483000,35.266998,1580
+FWMY,Monkey Bay Airport,FWMY,MYZ,Monkey Bay,MW,-14.083600,34.919701,1580
+FWMZ,Mzimba Airport,FWMZ,,Mzimba,MW,-11.883000,33.617001,4440
+FWNB,Ngabu Airport,FWNB,,Ngabu,MW,-16.483000,34.849998,450
+FWSJ,Nsanje Airport,FWSJ,,Nsanje,MW,-16.917000,35.250000,200
+FWSM,Salima Airport,FWSM,LMB,Salima,MW,-13.755893,34.584188,1688
+FWTK,Mtakatata Airport,FWTK,,Mtakatata,MW,-14.217000,34.533001,1725
+FWUU,Mzuzu Airport,FWUU,ZZU,Mzuzu,MW,-11.444700,34.011799,4115
+FWZA,Zomba Airport,FWZA,,Zomba,MW,-15.385400,35.384499,2650

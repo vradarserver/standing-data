@@ -1,0 +1,10 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+YRBE,Robe Airport,YRBE,,Robe,AU,-37.175364,139.805231,65
+YRBH,Royal Brisbane Hospital Helipad Alpha,YRBH,,Brisbane,AU,-27.447050,153.028270,180
+YRED,Redcliffe Airport,YRED,,Redcliffe,AU,-27.206699,153.067993,2
+YRHO,Royal Childrens Hospital Helipad,YRHO,,Melbourne,AU,-37.794058,144.951309,126
+YRMH,Royal Melbourne Hospital Helipad,YRMH,,Melbourne,AU,-37.799243,144.955930,221
+YROM,Roma Airport,YROM,RMA,Roma,AU,-26.545000,148.774994,1032
+YRRB,Roper Bar Airport,YRRB,RPB,Roper Bar,AU,-14.734814,134.525485,92
+YRSY,Romsey (Riddell/Penfield) Airport,YRSY,,Romsey,AU,-37.391667,144.738333,351
+YRTI,Rottnest Island Airport,YRTI,RTS,Rottnest Island,AU,-32.006667,115.539722,12

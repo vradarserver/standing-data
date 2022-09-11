@@ -1,0 +1,61 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+YXAH,Armidale - Lambert Park Helipad,YXAH,,Armidale,AU,-30.511300,151.655200,3246
+YXAL,Albury Base Hospital Helipad,YXAL,,Albury,AU,-36.079212,146.938565,588
+YXBA,Ballina - Kingsford Smith Park Helipad,YXBA,,Ballina,AU,-28.869200,153.571300,17
+YXBD,Bundaberg Base Hospital Helipad,YXBD,,Bundaberg,AU,-24.869446,152.335045,60
+YXBI,Biggenden Hospital Helipad,YXBI,,Biggenden,AU,-25.506941,152.050651,391
+YXBM,Batemans Bay Helipad,YXBM,,Batemans Bay,AU,-35.713010,150.187200,3
+YXBS,Beaudesert Hospital Helipad,YXBS,,Beaudesert,AU,-27.985710,153.002345,265
+YXCB,Canberra Hospital Helipad,YXCB,,Canberra,AU,-35.343777,149.099953,1953
+YXCH,Cherbourg Hospital Helipad,YXCH,,Cherbourg,AU,-26.291240,151.957420,1006
+YXCI,Chinchilla Hospital Helipad,YXCI,,Chinchilla,AU,-26.740660,150.634250,1007
+YXCM,Cooma Hospital Helipad,YXCM,,Cooma,AU,-36.242155,149.130147,2656
+YXCV,Collinsville Hospital Helipad,YXCV,,Collinsville,AU,-20.546745,147.837734,706
+YXCY,Calvary - Bruce Oval Helipad,YXCY,,Canberra,AU,-35.247000,149.092700,2031
+YXDH,Royal Darwin Hospital Helipad,YXDH,,Darwin,AU,-12.352840,130.881645,50
+YXDR,Munduberra Hospital Helipad,YXDR,,Munduberra,AU,-25.588150,151.293190,470
+YXDU,Dunwich Hospital Helipad,YXDU,,Dunwich,AU,-27.496960,153.399233,32
+YXDY,Dysart Hospital Helipad,YXDY,,Dysart,AU,-22.582854,148.353544,744
+YXEE,Moree Hospital Helipad,YXEE,,Moree,AU,-29.470890,149.840540,694
+YXEI,Eidsvold Hospital Helipad,YXEI,,Eidsvold,AU,-25.382466,151.125000,647
+YXES,Esk Hospital Helipad,YXES,,Esk,AU,-27.240860,152.418000,395
+YXFV,Newcastle Westpac Base Heliport,YXFV,,Newcastle,AU,-32.920300,151.729996,28
+YXGI,Gayndah Hospital Helipad,YXGI,,Gayndah,AU,-25.632020,151.604750,459
+YXGO,Goondiwindi Hospital Helipad,YXGO,,Goondiwindi,AU,-28.547905,150.301170,717
+YXGS,Gosford Airport,YXGS,GOS,Gosford,AU,-33.368099,151.300003,853
+YXHE,Hervey Bay Hospital Helipad,YXHE,,Hervery Bay,AU,-25.299416,152.820239,85
+YXIW,Inglewood Hospital Helipad,YXIW,,Inglewood,AU,-28.418190,151.061255,932
+YXJN,Jandowae Hospital Heliport,YXJN,,Jandowae,AU,-26.781400,151.104730,1180
+YXLA,Laidley Hospital Helipad,YXLA,,Laidley,AU,-27.632580,152.399240,356
+YXLT,Caboolture Hospital Helipad,YXLT,,Caboolture,AU,-27.079550,152.962930,42
+YXMD,Mount Druitt Hospital Heliport,YXMD,,Mount Druitt,AU,-33.766232,150.830663,220
+YXMG,Murgon Hospital Helipad,YXMG,,Murgon,AU,-26.238420,151.950950,1095
+YXMH,Mudgee Hospital Helipad,YXMH,,Mudgee,AU,-32.602546,149.588067,1562
+YXMU,Mullumbimby Hospital Helipad,YXMU,,Mullumbimby,AU,-28.559347,153.492190,36
+YXMV,Mona Vale Hospital Helipad,YXMV,,Mona Vale,AU,-33.685120,151.308240,47
+YXMW,Merriwa Hospital Helipad,YXMW,,Merriwa,AU,-32.143380,150.360900,895
+YXMY,Moruya Hospital Helipad,YXMY,,Moruya,AU,-35.903970,150.069460,22
+YXNA,Nambour Hospital Helipad,YXNA,,Nambour,AU,-26.620530,152.950950,230
+YXNE,Nepean Hospital Helipad,YXNE,,Penrith,AU,-33.760380,150.711540,187
+YXNN,Nanango Hospital Helipad,YXNN,,Nanango,AU,-26.665900,152.007570,1309
+YXNO,Noosa Hospital Helipad,YXNO,,Noosa,AU,-26.402590,153.045690,37
+YXNW,Nowra Hospital Helipad,YXNW,,Nowra,AU,-34.869780,150.595530,92
+YXOG,Orange Hospital Helipad,YXOG,,Orange,AU,-33.316724,149.092652,3033
+YXPH,Peak Hill Hospital Helipad,YXPH,,Peak Hill,AU,-32.736200,148.199780,957
+YXPI,Pindarra Hospital Helipad,YXPI,,Gold Coast,AU,-28.008000,153.392400,17
+YXPK,Parkes Hospital Helipad,YXPK,,Parkes,AU,-33.127030,148.169990,1189
+YXPM,Port Macquarie Hospital Helipad,YXPM,,Port Macquarie,AU,-31.452683,152.880760,32
+YXPN,Proserpine Hospital Helipad,YXPN,,Proserpine,AU,-20.399120,148.585500,44
+YXQU,Quirindi Hospital Helipad,YXQU,,Quirindi,AU,-31.501070,150.676606,1365
+YXRN,Rylstone Hospital Helipad,YXRN,,Rylstone,AU,-32.803975,149.975076,1971
+YXSA,Sydney Adventist Hospital Helipad,YXSA,,Wahroonga,AU,-33.733386,151.100006,584
+YXSC,Scone Hospital Helipad,YXSC,,Scone,AU,-32.050268,150.877663,782
+YXSG,St George Hospital Helipad,YXSG,,Kogarah,AU,-33.968070,151.133680,150
+YXSH,Shellharbour Hospital Helipad,YXSH,,Shellharbour,AU,-34.559890,150.841730,99
+YXSI,Singleton Hospital Helipad,YXSI,,Singleton,AU,-32.567080,151.186865,151
+YXSU,Sutherland Hospital Helipad,YXSU,,Miranda,AU,-34.038783,151.115600,119
+YXTT,Tumut Hospital Helipad,YXTT,,Tumut,AU,-35.308000,148.219100,1052
+YXTW,Tamworth Hospital Helipad,YXTW,,Tamworth,AU,-31.074570,150.926410,1356
+YXWL,Wollongong Hospital Helipad,YXWL,,Wollongong,AU,-34.424190,150.882200,160
+YXWY,Wyong Hospital Helipad,YXWY,,Wyong,AU,-33.260250,151.480690,94
+YXYO,Young Hospital Helipad,YXYO,,Young,AU,-34.320940,148.287980,1523

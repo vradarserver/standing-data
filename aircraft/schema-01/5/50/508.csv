@@ -1,0 +1,5 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+508003,UR-82029,A124,Antonov,An-124 100,Antonov An-124 100,0,Antonov Airlines,ADB,19530502630,1991
+508116,UR-CEZ,AN12,Antonov,An-12 BP,Antonov An-12 BP,0,Cavok Air,CVK,6344304,1966
+50848A,UR-SQO,B738,Boeing,737-82R,Boeing 737-82R,0,SkyUp Airlines,SQP,40880,2012
+508497,UR-SQQ,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,SkyUp Airlines,SQP,29368,2006

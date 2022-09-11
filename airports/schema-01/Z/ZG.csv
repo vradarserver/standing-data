@@ -1,0 +1,28 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ZGBH,Beihai Airport,ZGBH,BHY,Beihai,CN,21.539400,109.294000,0
+ZGBS,Baise Bama Airport,ZGBS,AEB,Baise,CN,23.719444,106.959167,148
+ZGCD,Changde Airport,ZGCD,CGD,Changde,CN,28.918900,111.639999,128
+ZGCJ,Zhijiang Airport,ZGCJ,HJJ,Huaihua,CN,27.441111,109.700000,882
+ZGCZ,Chenzhou Beihu Airport,ZGCZ,HCZ,Huatang,CN,25.753500,112.845389,0
+ZGDY,Dayong Airport,ZGDY,DYG,Dayong,CN,29.102800,110.443001,692
+ZGFS,Foshan Shadi Airport,ZGFS,FUO,"Foshan, Guangdong Province",CN,23.082500,113.070833,6
+ZGGG,Guangzhou Baiyun International Airport,ZGGG,CAN,Guangzhou,CN,23.392401,113.299004,50
+ZGHA,Changsha Huanghua International Airport,ZGHA,CSX,Changsha,CN,28.189199,113.220001,217
+ZGHC,Hechi Jinchengjiang Airport,ZGHC,HCJ,Hechi,CN,24.783889,107.699722,2221
+ZGHY,Hengyang Nanyue Airport,ZGHY,HNY,Hengyang,CN,26.723889,112.618333,0
+ZGHZ,Huizhou Pingtan Airport,ZGHZ,HUZ,Pingtan,CN,23.049999,114.599999,43
+ZGKL,Guilin Liangjiang International Airport,ZGKL,KWL,Guilin City,CN,25.218100,110.039001,570
+ZGLD,Luoding Sulong Airport.,ZGLD,,Louding City,CN,22.711169,111.601340,190
+ZGLG,Lingling Airport,ZGLG,LLF,Yongzhou,CN,26.338661,111.610043,340
+ZGMX,Meixian Airport,ZGMX,MXZ,Meizhou,CN,24.266389,116.104444,305
+ZGNN,Nanning Wuxu Airport,ZGNN,NNG,Nanning,CN,22.608299,108.171997,421
+ZGOW,Wai Sha Airport,ZGOW,SWA,Shantou,CN,23.400000,116.683000,0
+ZGSD,Zhuhai Airport,ZGSD,ZUH,Zhuhai,CN,22.006400,113.376000,0
+ZGSG,Shaoguan Danxia Airport,ZGSG,HSC,Shaoguan,CN,24.978611,113.421111,279
+ZGSY,Shaoyang Wugang Airport,ZGSY,WGN,"Shaoyang, Hunan Province",CN,26.802000,110.642000,1444
+ZGSZ,Shenzhen Bao'an International Airport,ZGSZ,SZX,Shenzhen,CN,22.639299,113.810997,13
+ZGWZ,Changzhoudao Airport,ZGWZ,WUZ,Wuzhou,CN,23.456699,111.248001,89
+ZGYL,Yulin Fumian Airport,ZGYL,YLX,Yulin,CN,22.438056,110.120833,403
+ZGYY,Yueyang Sanhe Airport,ZGYY,YYA,Yueyang,CN,29.314000,113.278000,230
+ZGZH,Bailian Airport,ZGZH,LZH,Liuzhou,CN,24.207500,109.390999,295
+ZGZJ,Zhanjiang Airport,ZGZJ,ZHA,Zhanjiang,CN,21.214400,110.358000,0

@@ -1,0 +1,32 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+VI01,DPS Heliport,VI01,,Frederiksted St Croix,VI,17.708900,-64.796501,50
+VI02,St. Thomas Waterfront Heliport,VI02,,Charlotte Amalie,VI,18.338600,-64.939301,4
+VI03,Frenchman's Reef Heliport,VI03,,St Thomas,VI,18.320000,-64.922096,20
+VI04,Stouffer Grand Beach Resort Heliport,VI04,,Charlotte Amalie,VI,18.345800,-64.903999,125
+VI32,Christiansted Harbor Seaplane Base,VI32,SSB,Saint Croix,VI,17.746836,-64.707825,0
+VIAG,Agra Airport,VIAG,AGR,Agra,IN,27.161831,77.970726,551
+VIAL,Allahabad Airport,VIAL,IXD,Allahabad,IN,25.440100,81.733902,322
+VIAR,"Sri Guru Ram Dass Jee International Airport, Amritsar",VIAR,ATQ,Amritsar,IN,31.709600,74.797302,756
+VIBK,Nal Airport,VIBK,BKB,Bikaner,IN,28.070601,73.207199,750
+VIBL,Bakshi Ka Talab Air Force Station,VIBL,,Lucknow,IN,26.988300,80.893097,385
+VIBR,Kullu–Manali Airport,VIBR,KUU,Bhuntar,IN,31.876667,77.154444,3573
+VIBY,Bareilly Airport,VIBY,BEK,Bareilly,IN,28.422222,79.450798,578
+VICG,Chandigarh Airport,VICG,IXC,Chandigarh,IN,30.673500,76.788498,1012
+VICX,Chakeri Air Force Station,VICX,,Kanpur,IN,26.404301,80.410103,405
+VIDN,Dehradun Airport,VIDN,DED,Dehradun,IN,30.189699,78.180298,1831
+VIDP,Indira Gandhi International Airport,VIDP,DEL,New Delhi,IN,28.566500,77.103104,777
+VIDX,Hindon Airport,VIDX,,Ghaziabad,IN,28.705790,77.342137,700
+VIGG,Kangra Airport,VIGG,DHM,Gaggal,IN,32.165000,76.263333,2525
+VIGR,Gwalior Airport,VIGR,GWL,Gwalior,IN,26.293301,78.227798,617
+VIJO,Jodhpur Airport,VIJO,JDH,Jodhpur,IN,26.251101,73.048897,717
+VIJP,Jaipur International Airport,VIJP,JAI,Jaipur,IN,26.824200,75.812202,1263
+VIJR,Jaisalmer Airport,VIJR,JSA,Rajasthan,IN,26.880278,70.855000,751
+VIJU,Jammu Airport,VIJU,IXJ,Jammu,IN,32.689098,74.837402,1029
+VIKA,Kanpur Airport,VIKA,KNU,"Chakeri, Kanpur",IN,26.402778,80.412222,410
+VIKG,Kishangarh Airport,VIKG,KQH,Kishangarh,IN,26.601389,74.814167,1450
+VILH,Leh Kushok Bakula Rimpochee Airport,VILH,IXL,Leh,IN,34.135899,77.546501,10682
+VILK,Chaudhary Charan Singh International Airport,VILK,LKO,Lucknow,IN,26.760599,80.889297,410
+VILP,Lalitpur Airport,VILP,,Lalitpur,IN,24.716999,78.417000,1204
+VIPK,Pathankot Airport,VIPK,IXP,Pathankot,IN,32.233611,75.634444,1017
+VIPT,Pantnagar Airport,VIPT,PGH,Pantnagar,IN,29.033400,79.473701,769
+VISR,Sheikh ul Alam Airport,VISR,SXR,Srinagar,IN,33.987099,74.774200,5429

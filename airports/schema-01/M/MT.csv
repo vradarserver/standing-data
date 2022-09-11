@@ -1,0 +1,105 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MT01,Owen Bros Airport,MT01,,Geraldine,US,47.618000,-110.092003,3106
+MT02,Hellinger Airport,MT02,,Devon,US,48.538300,-111.497002,3215
+MT03,Lakeside Airport,MT03,,Lakeside,US,47.993408,-114.224306,3440
+MT04,Olfert Airport,MT04,,Lustre,US,48.404202,-106.009003,2750
+MT05,Laird Ranch Airport,MT05,,Ekalaka,US,45.668098,-104.703003,3462
+MT06,Duncan Airport,MT06,,Helena,US,46.570202,-112.175003,4260
+MT07,Langhus Airstrip,MT07,,Melville,US,46.041599,-110.158997,5785
+MT08,Zortman Airport,MT08,,Zortman,US,47.916698,-108.483002,3900
+MT09,Floyd Ranch Airport,MT09,,Opheim,US,48.845901,-106.609001,2948
+MT10,Riverside Heliport,MT10,,Kalispell,US,48.215514,-114.298047,2930
+MT11,Etchart Field,MT11,,Tampico,US,48.316700,-106.834000,2157
+MT12,Smith Field,MT12,,Butte,US,45.938499,-112.564003,6000
+MT13,White Sulphur Springs Ranger Station Heliport,MT13,,White Sulphur Springs,US,46.551300,-110.913002,5160
+MT14,Jerry Creek Airport,MT14,,Wise River,US,45.823502,-112.886002,5940
+MT15,Fort Harrison Army Airfield,MT15,,Helena,US,46.625801,-112.110001,4050
+MT16,Buffalo Trail Ranch Strip,MT16,,Ovando,US,47.013802,-113.282997,3906
+MT17,Wurtz Airport,MT17,,Kalispell,US,48.904999,-114.382004,3800
+MT18,Hoerner Airport,MT18,,Columbia Falls,US,48.289950,-114.182867,3078
+MT19,Olson Airport,MT19,,Ronan,US,47.591000,-114.052002,3330
+MT20,Hollstein Ranch Airport,MT20,,Wibaux,US,46.858299,-104.098999,2778
+MT21,Flying Arrow Ranch Airport,MT21,,Butte,US,45.901600,-112.549004,5950
+MT22,Tezak's-Colterville-Spur Airport,MT22,,Sheridan,US,45.399899,-112.167000,5000
+MT23,St Patrick Hospital Heliport,MT23,,Missoula,US,46.872101,-114.000999,3282
+MT24,Beacon Star Antique Airfield,MT24,,Moore,US,46.972198,-109.613998,4320
+MT25,St Vincent Hospital Heliport,MT25,,Billings,US,45.783298,-108.501999,3300
+MT26,Ranch Strip,MT26,,Great Falls,US,47.470501,-111.237000,3355
+MT27,Columbus Hospital Heliport,MT27,,Great Falls,US,47.488098,-111.295998,3418
+MT28,Kalispell Regional Hospital Heliport,MT28,,Kalispell,US,48.213299,-114.323997,2975
+MT29,Sunday Creek Airpark,MT29,,Miles City,US,46.478901,-105.858002,2490
+MT30,Trapper Creek Strip,MT30,,Conner,US,45.940201,-114.137001,4040
+MT31,Central Montana Hospital and Nursing Home Heliport,MT31,,Lewistown,US,47.057999,-109.440002,4200
+MT32,Ckye Field,MT32,,Stevensville,US,46.538799,-114.040001,3600
+MT33,Bair Airport,MT33,,Ulm,US,47.409401,-111.487000,3340
+MT34,Ruff Airport,MT34,,Custer,US,46.133301,-107.551003,2740
+MT35,St Peter's Community Hospital Heliport,MT35,,Helena,US,46.584702,-111.997002,4115
+MT36,Cottontail Ranch Airport,MT36,,Melville,US,46.132198,-110.046997,5340
+MT37,Sanders Airport,MT37,,Kalispell,US,48.124699,-114.239998,2910
+MT38,Swank Airport,MT38,,Poplar,US,48.403400,-105.156998,2205
+MT39,Black Canyon Ranch Airport,MT39,,Seeley Lake,US,47.105999,-113.317001,4260
+MT40,Horner Field,MT40,,Great Falls,US,47.591301,-111.272003,3430
+MT41,Jefco Skypark Airport,MT41,,Whitehall,US,45.878300,-112.116997,4510
+MT42,Hasskamp STOLport,MT42,,Three Forks,US,45.910500,-111.514000,4052
+MT43,Klies Air Strip,MT43,,Basin,US,46.346298,-112.344002,6300
+MT44,Missoula Unit Heliport,MT44,,Missoula,US,46.855499,-114.058998,3145
+MT45,Castleberry Airport,MT45,,Ekalaka,US,45.908901,-104.575996,3373
+MT46,Lakeview Airport,MT46,,Lakeview,US,44.617100,-111.797997,6630
+MT47,Metzel Creek Airport,MT47,,Lakeview,US,44.686901,-111.893997,6691
+MT48,Flying Y Ranch Airport,MT48,,Livingston,US,45.434700,-110.643997,4857
+MT49,Ford's South Airport,MT49,,Lolo,US,46.923500,-114.087997,3200
+MT50,Lanning Ranch Airport,MT50,,Alzada,US,45.087799,-104.819000,3995
+MT51,Zerbe Airport,MT51,,Frazer,US,48.277000,-105.961998,2720
+MT52,Nine Mile Airport,MT52,,Huson,US,47.077702,-114.413002,3364
+MT53,Carson Field,MT53,,Kalispell,US,48.094700,-114.851997,3550
+MT54,Weaver Airport,MT54,,Kalispell,US,48.243900,-114.244003,2929
+MT55,Deaconess Medical Center of Billings Inc Heliport,MT55,,Billings,US,45.787498,-108.516998,3137
+MT56,Sourdough Island on Salmon Lake Heliport,MT56,,Seeley Lake,US,47.099899,-113.417999,3980
+MT57,Libby Heliport,MT57,,Libby,US,48.392799,-115.544998,2072
+MT58,Nelson Airport,MT58,,Haxby / Fort Peck,US,47.766701,-106.188004,2425
+MT59,Gardner Airport,MT59,,Hammond,US,45.267200,-104.857002,3560
+MT60,Langton Airstrip,MT60,,Polebridge,US,48.814400,-114.353996,3900
+MT61,Red Mountain Heliport,MT61,,Helena,US,46.516602,-112.200996,5550
+MT62,Ted Luark Private STOLport,MT62,,Huson,US,47.066601,-114.484001,3500
+MT63,Lee Metcalf National Wildlife Refuge Airport,MT63,,Stevensville,US,46.555500,-114.072998,3315
+MT64,Mineral County Hospital Heliport,MT64,,Superior,US,47.184399,-114.870003,2800
+MT66,Livingston Memorial Hospital Heliport,MT66,,Livingston,US,45.649101,-110.569000,4487
+MT67,Granite County Memorial Hospital Heliport,MT67,,Philipsburg,US,46.329899,-113.294998,5280
+MT68,Wood Strip,MT68,,Helena,US,46.620800,-111.938004,3850
+MT70,Benefis Healthcare Heliport,MT70,,Great Falls,US,47.491600,-111.276001,3459
+MT71,Edsall Field,MT71,,Bozeman,US,45.724098,-111.042999,4659
+MT72,Hedditch Airport,MT72,,Corvallis,US,46.346001,-114.176003,3663
+MT73,Camas Airport,MT73,,Missoula,US,46.850800,-113.538002,3870
+MT74,Sikorski Ranch Airport,MT74,,Ekalaka,US,46.106899,-104.415001,3330
+MT75,Buchanan Ranch Airport,MT75,,Great Falls,US,47.430199,-111.459999,3345
+MT76,Smith Farms Airport,MT76,,Great Falls,US,47.399700,-111.470001,3340
+MT77,Peterson Ranch Airport,MT77,,Highwood,US,47.608299,-110.905998,3340
+MT78,Clark Fork Valley Hospital Heliport,MT78,,Plains,US,47.468300,-114.889000,2462
+MT79,Sand Creek Wildlife Station Airport,MT79,,Roy,US,47.584202,-108.709000,2940
+MT80,Vine Airport,MT80,,Wolf Point,US,48.043098,-105.609001,2075
+MT81,Thompson Field,MT81,,Belgrade,US,45.803501,-111.138000,4400
+MT82,Baxter Strip,MT82,,Harlowton,US,46.308300,-109.872002,4520
+MT83,Ten Mile Airport,MT83,,Helena,US,46.571602,-112.181000,4294
+MT84,Mower Field,MT84,,Kalispell,US,48.220798,-114.375999,4000
+MT85,Redfield Ag Strip,MT85,,Opheim,US,48.758900,-106.364998,3100
+MT86,Bar E Airport,MT86,,Helena,US,47.168999,-112.084999,3875
+MT87,Oglesby Farms Inc Airport,MT87,,Peerless,US,48.666698,-105.933998,2850
+MT88,Campbell Ranch Airport,MT88,,Marion,US,48.004398,-114.999001,3360
+MT89,Foster Ranches Airport,MT89,,Livingston,US,45.799900,-110.533997,4680
+MT90,J B Airport,MT90,,Wolf Point,US,48.387798,-105.334999,2710
+MT91,North Country Pad Heliport,MT91,,Bigfork,US,48.095200,-114.087997,3000
+MT92,Dave's Landing Seaplane Base,MT92,,Thompson Falls,US,47.590302,-115.336998,2395
+MT93,Larner Field,MT93,,Deer Lodge,US,46.287102,-112.758003,4710
+MT94,Ousel Falls Airport,MT94,,Big Sky,US,45.246601,-111.329002,6600
+MT95,Flathead Lake Sky Ranch Airport,MT95,,Kalispell,US,48.116901,-114.185997,2905
+MT96,Wilhelm Airstrip,MT96,,Helena,US,46.740200,-112.035004,4000
+MT97,Frampton Airport,MT97,,Noxon,US,47.978600,-115.767998,2400
+MT98,Big Beaver Creek Ranch Airport,MT98,,Trout Creek,US,47.698002,-115.551003,2600
+MT99,Ccmh Heliport,MT99,,Red Lodge,US,45.177700,-109.253998,5555
+MTCA,Les Cayes Airport,MTCA,CYA,Les Cayes,HT,18.271099,-73.788300,203
+MTCH,Cap Haitien International Airport,MTCH,CAP,Cap Haitien,HT,19.733000,-72.194702,10
+MTJA,Jacmel Airport,MTJA,JAK,Jacmel,HT,18.241100,-72.518501,167
+MTJE,Jérémie Airport,MTJE,JEE,Jeremie,HT,18.663099,-74.170303,147
+MTPP,Toussaint Louverture International Airport,MTPP,PAP,Port-au-Prince,HT,18.580000,-72.292503,122
+MTPX,Port-de-Paix Airport,MTPX,PAX,Port-de-Paix,HT,19.933599,-72.848602,9
+MTRH,Trojes Airport,MTRH,,Trojes,HN,15.404444,-86.682777,170

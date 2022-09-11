@@ -1,0 +1,73 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KU00,Leadore Airport,KU00,,Leadore,US,44.673801,-113.352997,6018
+KU01,American Falls Airport,KU01,,American Falls,US,42.797298,-112.824997,4419
+KU02,Mccarley Field,KU02,,Blackfoot,US,43.209301,-112.349998,4488
+KU03,Buhl Municipal Airport,KU03,,Buhl,US,42.591599,-114.796997,3660
+KU05,Riddick Field,KU05,,Philipsburg,US,46.319401,-113.305000,5212
+KU06,Cokeville Municipal Airport,KU06,,Cokeville,US,42.045799,-110.966003,6270
+KU07,Bullfrog Basin Airport,KU07,BFG,Glen Canyon Natl Rec Area,US,37.545799,-110.712997,4167
+KU08,Perkins Field,KU08,,Overton,US,36.568001,-114.443001,1358
+KU09,Fort Belknap Agency Airport,KU09,,Harlem,US,48.481098,-108.768997,2374
+KU10,Preston Airport,KU10,,Preston,US,42.106899,-111.913002,4728
+KU12,Stanford Field,KU12,,St Anthony,US,43.945702,-111.683998,4966
+KU13,Junction Airport,KU13,,Junction,US,38.250000,-112.224998,6069
+KU14,Nephi Municipal Airport,KU14,,Nephi,US,39.738800,-111.872002,5022
+KU25,Dubois Municipal Airport,KU25,,Dubois,US,43.548302,-109.690002,7291
+KU30,Temple Bar Airport,KU30,,Temple Bar,US,36.020500,-114.334999,1549
+KU34,Green River Municipal Airport,KU34,RVR,Green River,US,38.961399,-110.226997,4225
+KU36,Aberdeen Municipal Airport,KU36,,Aberdeen,US,42.921001,-112.880997,4470
+KU42,South Valley Regional Airport,KU42,,Salt Lake City,US,40.619499,-111.992996,4607
+KU43,Monticello Airport,KU43,,Monticello,US,37.937199,-109.347000,6998
+KU52,Beaver Municipal Airport,KU52,,Beaver,US,38.230701,-112.675003,5863
+KU55,Panguitch Municipal Airport,KU55,,Panguitch,US,37.845200,-112.391998,6763
+KU56,Rigby Jefferson County Airport,KU56,,Rigby,US,43.644402,-111.929001,4845
+KU58,Downey/Hyde Memorial Airport,KU58,,Downey,US,42.426300,-112.109001,4906
+KU62,Mackay Airport,KU62,,Mackay,US,43.904099,-113.600998,5892
+KU63,Bruce Meadows Airport,KU63,,Stanley,US,44.415501,-115.317001,6370
+KU68,North Big Horn County Airport,KU68,,Cowley/Lovell/Byron,US,44.911701,-108.445999,4090
+KU69,Duchesne Municipal Airport,KU69,,Duchesne,US,40.191898,-110.380997,5826
+KU70,Cascade Airport,KU70,ICS,Cascade,US,44.493801,-116.015999,4742
+KU76,Mountain Home Municipal Airport,KU76,,Mountain Home,US,43.131302,-115.730003,3167
+KU77,Spanish Fork Springville Airport,KU77,,Spanish Fork,US,40.141602,-111.661003,4529
+KU78,Allen H Tigert Airport,KU78,,Soda Springs,US,42.641602,-111.580002,5839
+KU79,Chamberlain Usfs Airport,KU79,,Chamberlain Guard Station,US,45.379101,-115.196999,5765
+KU81,Cold Meadows US Forest Service Airport,KU81,,Cold Meadows Guard Station,US,45.291599,-114.949997,7030
+KU82,Council Municipal Airport,KU82,,Council,US,44.749901,-116.446999,2963
+KU89,Glenns Ferry Municipal Airport,KU89,,Glenns Ferry,US,42.945702,-115.330002,2536
+KU96,Cal Black Memorial Airport,KU96,,Halls Crossing,US,37.442200,-110.570000,4388
+KUAO,Aurora State Airport,KUAO,,Aurora,US,45.247101,-122.769997,200
+KUBE,Cumberland Municipal Airport,KUBE,,Cumberland,US,45.506001,-91.981102,1241
+KUBS,Columbus Lowndes County Airport,KUBS,,Columbus,US,33.465401,-88.380302,188
+KUBX,Cuba Municipal Airport,KUBX,,Cuba,US,38.068802,-91.428902,1023
+KUCA,Oneida County Airport,KUCA,UCA,Utica,US,43.145100,-75.383904,742
+KUCP,New Castle Municipal Airport,KUCP,,New Castle,US,41.025299,-80.413399,1070
+KUCY,Everett-Stewart Regional Airport,KUCY,,Union City,US,36.381802,-88.985397,336
+KUDD,Bermuda Dunes Airport,KUDD,,Palm Springs,US,33.748402,-116.275002,73
+KUDG,Darlington County Jetport Airport,KUDG,,Darlington,US,34.449402,-79.890099,192
+KUES,Waukesha County Airport,KUES,,Waukesha,US,43.041000,-88.237099,911
+KUGN,Waukegan Regional Airport,KUGN,,Chicago/Waukegan,US,42.422199,-87.867897,727
+KUIL,Quillayute Airport,KUIL,,Quillayute,US,47.936600,-124.563004,194
+KUIN,Quincy Regional Baldwin Field,KUIN,UIN,Quincy,US,39.942699,-91.194603,768
+KUKF,Wilkes County Airport,KUKF,,North Wilkesboro,US,36.222801,-81.098297,1301
+KUKI,Ukiah Municipal Airport,KUKI,,Ukiah,US,39.125999,-123.200996,614
+KUKL,Coffey County Airport,KUKL,,Burlington,US,38.302502,-95.724998,1174
+KUKT,Quakertown Airport,KUKT,,Quakertown,US,40.435200,-75.381897,526
+KULM,New Ulm Municipal Airport,KULM,,New Ulm,US,44.319599,-94.502296,1011
+KULS,Ulysses Airport,KULS,,Ulysses,US,37.604000,-101.374001,3071
+KUMP,Indianapolis Metropolitan Airport,KUMP,,Indianapolis,US,39.935200,-86.044998,811
+KUNI,Ohio University Snyder Field,KUNI,ATO,Athens/Albany,US,39.210999,-82.231400,766
+KUNO,West Plains Municipal Airport,KUNO,,West Plains,US,36.878399,-91.902702,1228
+KUNU,Dodge County Airport,KUNU,,Juneau,US,43.426601,-88.703201,934
+KUNV,University Park Airport,KUNV,SCE,State College,US,40.849300,-77.848701,1239
+KUOS,Franklin County Airport,KUOS,,Sewanee,US,35.205101,-85.898102,1953
+KUOX,University Oxford Airport,KUOX,,Oxford,US,34.384300,-89.536797,452
+KUSE,Fulton County Airport,KUSE,,Wauseon,US,41.610100,-84.127197,779
+KUTA,Tunica Municipal Airport,KUTA,,Tunica,US,34.681000,-90.346703,194
+KUTS,Huntsville Municipal Airport,KUTS,,Huntsville,US,30.746901,-95.587196,363
+KUUU,Newport State Airport,KUUU,,Newport,US,41.532398,-71.281502,172
+KUUV,Sullivan Regional Airport,KUUV,,Sullivan,US,38.233501,-91.164299,933
+KUVA,Garner Field,KUVA,,Uvalde,US,29.211300,-99.743599,942
+KUWL,New Castle Henry Co. Municipal Airport,KUWL,,New Castle,US,39.875900,-85.326500,1088
+KUXL,Southland Field,KUXL,,Sulphur,US,30.131399,-93.376099,10
+KUYF,Madison County Airport,KUYF,,London,US,39.932701,-83.461998,1082
+KUZA,Rock Hill York Co Bryant field,KUZA,,Rock Hill,US,34.987801,-81.057198,666

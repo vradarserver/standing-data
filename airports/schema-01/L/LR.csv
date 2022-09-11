@@ -1,0 +1,23 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LR79,Ianca Air Base,LR79,,Ianca,RO,45.158699,27.430901,131
+LR80,Feteşti Air Base,LR80,,Feteşti,RO,44.392300,27.726700,180
+LR81,Deveselu Air Base,LR81,,Deveselu,RO,44.077301,24.416401,289
+LR82,Boboc Air Base,LR82,,Boboc,RO,45.216400,26.978600,344
+LRAR,Arad International Airport,LRAR,ARW,Arad,RO,46.176601,21.261999,352
+LRBC,Bacău Airport,LRBC,BCM,Bacău,RO,46.521900,26.910299,607
+LRBM,Tautii Magheraus Airport,LRBM,BAY,Baia Mare,RO,47.658401,23.469999,605
+LRBS,Băneasa International Airport,LRBS,BBU,Bucharest,RO,44.503201,26.102100,297
+LRCK,Mihail Kogălniceanu International Airport,LRCK,CND,Constanţa,RO,44.362202,28.488300,353
+LRCL,Cluj-Napoca International Airport,LRCL,CLJ,Cluj-Napoca,RO,46.785198,23.686199,1036
+LRCS,Caransebeş Airport,LRCS,CSB,Caransebeş,RO,45.419998,22.253300,866
+LRCT,Câmpia Turzii Air Base,LRCT,,Câmpia Turzii,RO,46.502300,23.885900,1083
+LRCV,Craiova Airport,LRCV,CRA,Craiova,RO,44.318100,23.888599,626
+LRIA,Iaşi Airport,LRIA,IAS,Iaşi,RO,47.178501,27.620600,397
+LROD,Oradea International Airport,LROD,OMR,Oradea,RO,47.025299,21.902500,465
+LROP,Henri Coandă International Airport,LROP,OTP,Bucharest,RO,44.572201,26.102200,314
+LRSB,Sibiu International Airport,LRSB,SBZ,Sibiu,RO,45.785599,24.091299,1496
+LRSM,Satu Mare Airport,LRSM,SUJ,Satu Mare,RO,47.703300,22.885700,405
+LRSV,Suceava Stefan cel Mare Airport,LRSV,SCV,Suceava,RO,47.687500,26.354099,1375
+LRTC,Tulcea Airport,LRTC,TCE,Tulcea,RO,45.062500,28.714300,200
+LRTM,Transilvania Târgu Mureş International Airport,LRTM,TGM,Târgu Mureş,RO,46.467701,24.412500,963
+LRTR,Timişoara Traian Vuia Airport,LRTR,TSR,Timişoara,RO,45.809898,21.337900,348

@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PGRO,Rota International Airport,PGRO,ROP,Rota Island,MP,14.174300,145.242996,607
+PGSN,Francisco C. Ada Saipan International Airport,PGSN,SPN,Saipan Island,MP,15.119000,145.729004,215
+PGUA,Andersen Air Force Base,PGUA,UAM,"Andersen,Mariana Island",GU,13.584000,144.929993,627
+PGUM,Antonio B. Won Pat International Airport,PGUM,GUM,"Hagåtña, Guam International Airport",GU,13.483400,144.796005,298
+PGWT,Tinian International Airport,PGWT,TIQ,Tinian Island,MP,14.999200,145.619003,271

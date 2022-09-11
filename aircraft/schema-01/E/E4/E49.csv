@@ -1,0 +1,16 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+E49699,PR-YSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10582,2021
+E49763,PR-TQC,A320,Airbus,A320-214,Airbus A320-214,0,LATAM Chile,LAN,4860,2011
+E497E0,PS-AGA,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Helistar Taxi Aereo,,5382,
+E49819,PS-TEC,BE40,Hawker Beechcraft,400XP,Hawker 400XP,1,Private,,RK-389,
+E49866,PR-YSI,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10804,2022
+E49907,PT-TPA,A319,Airbus,A319-112,Airbus A319-112,0,LATAM Chile,LAN,5005,2012
+E49925,1383,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312101,
+E49926,1439,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312387,
+E49928,1312,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312016,
+E49931,FAB1394,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312145,1984
+E49934,FAB1368,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312082,1985
+E49947,FAB1414,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312183,1986
+E49948,FAB1341,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312055,1984
+E49952,PP-BFB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70108,
+E4996D,PS-MAM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5609,2020

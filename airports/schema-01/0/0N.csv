@@ -1,0 +1,54 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+0NA1,Goerger Airport,0NA1,,Barney,US,46.245499,-97.037598,1045
+0NA5,Sorlie Airport,0NA5,,Maddock,US,48.001099,-99.562897,1580
+0NA9,Boyd's Turf Airport,0NA9,,Golva,US,46.750000,-103.801003,2750
+0NC0,Wayne Memorial Hospital Inc. Heliport,0NC0,,Goldsboro,US,35.398800,-77.949699,106
+0NC1,Bearwallow Farm Airport,0NC1,,Hendersonville,US,35.457100,-82.375397,3608
+0NC2,Moore Regional Hospital Heliport,0NC2,,Pinehurst,US,35.204899,-79.456703,460
+0NC3,Washington County Hospital Heliport,0NC3,,Plymouth,US,35.875198,-76.699699,19
+0NC4,Wake Medical Center Heliport,0NC4,,Raleigh,US,35.786800,-78.585800,245
+0NC5,Nash General Hospital Heliport,0NC5,,Rocky Mount,US,35.918900,-77.789200,156
+0NC6,Our Community Hospital Heliport,0NC6,,Scotland Neck,US,36.131302,-77.418900,113
+0NC7,Lindsay Airport,0NC7,,Madison,US,36.357201,-79.997498,700
+0NC8,Double Creek Ranch Airport,0NC8,,Cleveland,US,35.755699,-80.735298,830
+0NC9,Maria Parham Hospital Heliport,0NC9,,Henderson,US,36.330700,-78.449699,465
+0ND0,Gilbertson Field,0ND0,,Flora,US,47.929199,-99.400398,1550
+0ND6,Schumacher Strip,0ND6,,Hague,US,46.055000,-99.917099,2020
+0ND7,Saville Private Airport,0ND7,,Hazelton,US,46.465302,-100.105003,1961
+0NE0,Merrihew Airport,0NE0,,Ashby,US,41.849998,-101.949997,3815
+0NE1,Runner Landing Area Airport,0NE1,,Ashby,US,42.407200,-101.931999,3760
+0NE2,Merry Airport,0NE2,,Ashby,US,41.866600,-101.917000,3791
+0NE3,Syracuse Hospital Heliport,0NE3,,Syracuse,US,40.667198,-96.186401,1120
+0NE4,Franklin County Memorial Hospital Heliport,0NE4,,Franklin,US,40.097198,-98.950401,1950
+0NE5,Newman Airport,0NE5,,Big Springs,US,41.021099,-102.017998,3525
+0NE6,Frager Field,0NE6,,Fairfield,US,40.433300,-98.070602,1765
+0NJ0,Atlantic City Medical Center Heliport,0NJ0,,Atlantic City,US,39.358970,-74.434672,82
+0NJ1,Berkeley Township Police Heliport,0NJ1,,Bayville,US,39.907299,-74.234901,54
+0NJ2,Ballymere Heliport,0NJ2,,Morristown,US,40.752899,-74.439903,280
+0NJ3,Mount Holly Heliport,0NJ3,,Mount Holly,US,39.966801,-74.799599,45
+0NJ4,Weichert Headquarters Heliport,0NJ4,,Morris Plains,US,40.940701,-74.461502,103
+0NJ5,Fla-Net Airport,0NJ5,,Netcong,US,40.885899,-74.705704,1040
+0NJ6,Dix Field,0NJ6,,Linwood,US,39.316799,-74.632896,8
+0NJ7,Essex Generating Station Heliport,0NJ7,,Newark,US,40.737801,-74.118896,8
+0NJ8,Port Newark Helistop,0NJ8,,Newark,US,40.702301,-74.150703,10
+0NJ9,Jersey Tpke New Brunswick Helistop,0NJ9,,New Brunswick,US,40.477299,-74.407898,70
+0NK0,Berdick Field,0NK0,,Cattaraugus,US,42.334000,-78.790901,1690
+0NK1,Spring Brook Airport,0NK1,,Central Square,US,43.361698,-76.220200,450
+0NK2,Westwind Farm Airport,0NK2,,Charlton,US,42.983398,-74.016197,800
+0NK3,Seven Gullies Airport,0NK3,,Groveland,US,42.695900,-77.792198,600
+0NK4,Medical Center Heliport,0NK4,,Hempstead,US,40.725899,-73.553703,80
+0NK5,Mid-Hudson Helicopter Service Heliport,0NK5,,Hopewell Junction,US,41.606201,-73.827599,270
+0NK6,Lapeer Flyer Airport,0NK6,,Marathon,US,42.438400,-76.088799,1280
+0NK7,Ibm King St Heliport,0NK7,,Armonk,US,41.102501,-73.726097,470
+0NK8,Rocky Reef Farm Airport,0NK8,,Attlebury,US,41.920898,-73.670403,450
+0NK9,Lakeview Airport,0NK9,,Chittenango,US,43.010300,-75.826897,1050
+0NM0,Columbus Municipal Airport,0NM0,,Columbus,US,31.823700,-107.626999,4024
+0NM7,Negrito Airstrip,0NM7,,Reserve,US,33.520901,-108.542999,8143
+0NV1,Summerlin Medical Center Heliport,0NV1,,Las Vegas,US,36.193600,-115.301003,2745
+0NY0,Bennetts Airport,0NY0,,North Creek,US,43.700100,-73.982903,1040
+0NY1,Russell Field,0NY1,,Northumberland,US,43.139198,-73.653198,260
+0NY3,Kermizian Airport,0NY3,,Ohio,US,43.313999,-74.932098,1440
+0NY5,State Police Troop D Heliport,0NY5,,Oneida,US,43.094200,-75.649597,507
+0NY6,New York State Police Heliport,0NY6,,Auburn,US,42.928398,-76.615501,600
+0NY7,Murphys Landing Strip,0NY7,,Perth,US,43.037601,-74.184303,940
+0NY8,Wenskoski Field,0NY8,,Perth,US,42.997299,-74.245399,800

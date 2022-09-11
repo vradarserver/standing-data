@@ -1,0 +1,28 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+4241E2,VP-CYW,A319,Airbus,A319-115(CJ),Airbus A319-115(CJ),0,Business Aviation Asia,UNA,4228,2010
+4245C6,VP-CUY,B738,Boeing,737-8HX,Boeing 737-8HX,1,Private,,29662,2010
+4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
+424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
+424660,VP-BTW,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,324,
+424667,VP-BBE,B752,Boeing,757-23N,Boeing 757-23N,1,Private,,30232,1999
+424683,VP-BLS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6477,
+424768,VP-CYB,A318,Airbus,ACJ318 112 Elite,Airbus ACJ318 112 Elite,0,TAG Aviation Asia,TBJ,5545,2013
+424839,VP-CBN,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5197,
+424847,VP-CTC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70056,
+424852,VP-CMQ,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Instant Air Aviation,,6445,
+4248BF,VP-CSH,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,60046,
+424A7B,,-GND,,Ground Vehicle,Ground Vehicle,1,Private,,,
+424A7C,,-GND,,Ground Vehicle,Ground Vehicle,0,Dublin Airport,,,
+424A7F,,-GND,,Ground Vehicle,Ground Vehicle,0,Birmingham Airport,,,
+424B58,M-WAFA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
+424BA5,M-LILY,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,ZYB Lily Jet,MZT,3100,2007
+424BAC,M-ATTS,EC55,Airbus Helicopters,EC-155B1,Airbus Helicopters EC-155B1,0,HeliGroup,,6890,2010
+424BBB,M-ODUS,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,286,
+424BBC,M-ATRJ,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,199,
+424BC5,M-DUBS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,255,
+424BD6,M-ARKS,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.173,
+424BD7,M-JCBB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,J C Bamford (Excavators),JCB,0107,
+424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
+424C06,M-IMIC,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2003,
+424C07,M-ABRB,LJ45,Learjet,45,Learjet 45,0,Ryanair,RYR,45-235,
+424C0C,M-AMBR,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9658,

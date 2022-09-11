@@ -1,0 +1,92 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+OK00,Jacktown Airport,OK00,,Jacktown,US,35.516300,-97.022102,954
+OK01,Sky Haven Airpark/Sellmeyer Field,OK01,,Vera,US,36.429001,-95.903297,675
+OK02,Dick's Airport,OK02,,Goldsby,US,35.110802,-97.481697,1160
+OK03,Downtown Airpark,OK03,DWN,Oklahoma City,US,35.449200,-97.533096,1180
+OK04,Canadian River Ranch Airport,OK04,,Eufaula,US,35.309399,-95.808296,850
+OK05,Ray Preston Airport,OK05,,Hollis,US,34.700100,-99.925400,1660
+OK06,Snake Creek Wilderness Airport,OK06,,Cookson,US,35.647800,-94.949997,1130
+OK07,Djs Airport,OK07,,Lawton,US,34.518200,-98.325600,1115
+OK08,Hill Top Private Airport,OK08,,Lawton,US,34.533401,-98.350304,1100
+OK09,Mercy Memorial Health Center Heliport,OK09,,Ardmore,US,34.189400,-97.141899,931
+OK10,Entropy Airport,OK10,,Elmore City,US,34.581902,-97.409698,1020
+OK11,Ksa Orchards Airport,OK11,,Comanche,US,34.317501,-98.014999,1080
+OK12,Jones Farm Field,OK12,,Walters,US,34.399167,-98.266389,1042
+OK13,Erroport Airport,OK13,,Mounds,US,35.845798,-95.971100,660
+OK14,Woodlake Airport,OK14,,Alva,US,36.835201,-98.657700,1420
+OK15,Avian Country Estates Airport,OK15,,Oolagah,US,36.376099,-95.705299,750
+OK16,Fairmont Field Airport,OK16,,Fairmont,US,36.364700,-97.667801,1168
+OK17,Bass Aero Airport,OK17,,Ardmore,US,34.218250,-97.052567,840
+OK18,Grand Isle Airport,OK18,,Adair,US,36.423401,-95.171097,636
+OK19,Integris Baptist Medical Center Heliport,OK19,,Oklahoma City,US,35.530602,-97.578102,1276
+OK20,Sageeyah Airfield,OK20,,Claremore,US,36.383701,-95.648003,640
+OK21,Longs Airport North Airport,OK21,,Pryor,US,36.333401,-95.304398,650
+OK22,Bluebird Airpark,OK22,,Shawnee,US,35.403000,-96.832199,1030
+OK23,Taliaferro Field,OK23,,Ardmore,US,34.198299,-97.231201,930
+OK24,Colby Field,OK24,,Lone Grove,US,34.206200,-97.231102,930
+OK25,Cherokee Ranch Airport,OK25,,Haskell,US,35.813301,-95.753304,710
+OK26,Atwoods Heliport,OK26,,Enid,US,36.392799,-97.947800,1296
+OK27,Venture Aerodrome Airpark Nr 2 Ultralightport,OK27,,Roland,US,35.435600,-94.474899,450
+OK28,Mcdaniel Aviation Airport,OK28,,Ravia,US,34.229167,-96.749167,700
+OK29,Travis Airport,OK29,,Marietta,US,33.935902,-97.054497,862
+OK2A,Patton Army Heliport,OK2A,,Camp Arifjan,KW,28.863611,48.151111,168
+OK30,Grandcraft Landing Strip,OK30,,Langley,US,36.491798,-95.050201,827
+OK31,Whittington Ranch Airport,OK31,,Thackerville,US,33.778542,-97.131458,845
+OK32,Triad Eye Medical Clinic Heliport,OK32,,Muskogee,US,35.766716,-95.401341,587
+OK33,Muskogee Community Hospital Heliport,OK33,,Muskogee,US,35.782500,-95.360278,1238
+OK34,Gustafson Airport,OK34,,Sallisaw,US,35.484299,-94.841904,855
+OK35,Choctaw Indian Hospital Heliport,OK35,,Talihina,US,34.813900,-95.094101,890
+OK36,W C Ranch STOLport,OK36,,Crowder,US,35.119701,-95.703903,725
+OK37,Dog Iron Ranch Airport,OK37,,Oologah,US,36.469502,-95.667801,760
+OK38,Perry Memorial Hospital Heliport,OK38,,Perry,US,36.288399,-97.300003,1022
+OK39,Judy Ranch Airport,OK39,,Forgan,US,36.966702,-100.317001,2240
+OK40,Eden Ranch Airport,OK40,,Freedom,US,36.758400,-99.033699,1641
+OK41,Police Civic Center Heliport,OK41,,Tulsa,US,36.149502,-95.997200,740
+OK42,Siegmanns Airport,OK42,,Hennessey,US,36.083401,-97.717003,1053
+OK43,Logsdon Ranch Airport,OK43,,Alva,US,36.530602,-98.636703,1475
+OK44,Canyon Springs Ranch Airport,OK44,,Bokchito,US,34.146198,-96.076897,625
+OK45,Collinsville Rural Fire District Heliport,OK45,,Collinsville,US,36.354301,-95.840302,650
+OK46,Mc Crays Airport,OK46,,Manchester,US,36.958900,-98.075302,1260
+OK47,Miller Brothers Airport,OK47,,Manchester,US,36.941700,-98.016998,1250
+OK48,Grass Roots Airport,OK48,,Newkirk,US,36.875000,-97.096199,1113
+OK49,Secrest Ranch Airport,OK49,,Ponca City,US,36.650002,-97.016998,1050
+OK50,Traynor Ranch Airport,OK50,,Waukomis,US,36.332500,-97.893097,1220
+OK51,Enix Boys Airport,OK51,,Hennessey,US,36.104198,-97.936996,1100
+OK54,May Ranch Airport,OK54,,Alva,US,36.996700,-99.004799,1833
+OK55,Bost Ranch Airport,OK55,,Luther,US,35.714500,-97.225899,1070
+OK58,Bluestem Airport,OK58,,Collinsville,US,36.397301,-95.904999,660
+OK59,Wolf Mountain Airport,OK59,,Poteau,US,35.022301,-94.704399,860
+OK61,Major Heliport,OK61,,Tulsa,US,36.103401,-96.003601,630
+OK62,Strader Ranch Airport,OK62,,Ardmore,US,34.248699,-97.209198,850
+OK64,Weedpatch International Airport,OK64,,Wakita,US,36.813900,-97.986504,1113
+OK65,Cushing Regional Hospital Heliport,OK65,,Cushing,US,35.978699,-96.756699,914
+OK66,F.W. Zaloudek Airport,OK66,,Kremlin,US,36.556702,-97.833702,1118
+OK69,Monarch Field,OK69,,Chelsea,US,36.525101,-95.466904,755
+OK74,Flying H Airport,OK74,,Ashland,US,34.829498,-96.034203,850
+OK75,Purcell Municipal Hospital Heliport,OK75,,Purcell,US,35.028400,-97.365601,1160
+OK76,Channel 8 Heliport,OK76,,Tulsa,US,36.116199,-96.026100,910
+OK79,Temple Airport Inc Airport,OK79,,Temple,US,34.256802,-98.241203,1005
+OK80,Thomas Ranch Airport,OK80,,Ada,US,34.728699,-96.601097,811
+OK81,Homer Ranch Airport,OK81,,Albion,US,34.658401,-95.071098,570
+OK82,Scottys Field,OK82,,Altus,US,34.691700,-99.344803,1425
+OK83,Sheffield-Smith Airstrip,OK83,,Altus,US,34.568298,-99.351700,1355
+OK84,Whittaker Army Heliport,OK84,,Pryor,US,36.296501,-95.305801,643
+OK85,Goddard Ranch Airport,OK85,,Ardmore,US,34.300098,-96.917000,858
+OK86,Stroud Hospital Heliport,OK86,,Stroud,US,35.748699,-96.678101,900
+OK87,Renavair Field,OK87,,Wynnewood,US,34.654999,-97.214699,905
+OK88,Silverwood Ultralightport,OK88,,Broken Arrow,US,36.010101,-95.843597,632
+OK89,Stuart Ranch Airport,OK89,,Caddo,US,34.155602,-96.155800,624
+OK90,Boatner Field,OK90,,Calera,US,33.902000,-96.472198,734
+OK91,Stidham-Private Airport,OK91,,Chickasha,US,34.983398,-97.933701,1177
+OK92,Wetumka Hospital Heliport,OK92,,Wetumka,US,35.233398,-96.238602,745
+OK93,Airman Acres Airport,OK93,,Collinsville,US,36.333401,-95.883598,695
+OK94,Sand Ridge Airpark Inc Airport,OK94,,Collinsville,US,36.354801,-95.803299,675
+OK95,Disney Airport,OK95,,Disney,US,36.488998,-94.958298,955
+OK96,Ives Airport,OK96,,Wellston,US,35.756401,-97.084801,1035
+OK97,Ketchum Ranch Airport,OK97,,Duncan,US,34.533401,-97.766998,1100
+OK98,King Airport,OK98,,Eakly,US,35.300098,-98.483704,1535
+OK99,Unity Health Center Heliport,OK99,,Shawnee,US,35.362400,-96.935997,1073
+OKAJ,Ahmed Al Jaber Air Base,OKAJ,XIJ,Ahmed Al Jaber AB,KW,28.934799,47.791901,409
+OKBK,Kuwait International Airport,OKBK,KWI,Kuwait City,KW,29.226601,47.968899,206
+OKDI,Udairi Army Air Field,OKDI,,Camp Buehring,KW,29.697599,47.436001,430
+OKNB,Ras al-Qulayah Naval Base Heliport,OKNB,,Ras al-Qulayah Naval Base,KW,28.864500,48.272800,30

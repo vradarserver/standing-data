@@ -1,0 +1,9 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+0D0D09,XA-VBK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,VivaAerobús,VIV,10210,2021
+0D0D27,XA-VRU,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10348,2021
+0D0D40,XA-VRV,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10454,2021
+0D0D61,XA-FTY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,266,
+0D0DA6,XA-RIN,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5042,
+0D0E01,XA-VSM,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,10762,2022
+0D0E03,XA-VSL,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,10447,2022
+0D0E11,XA-VSN,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10775,2022

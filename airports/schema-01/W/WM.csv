@@ -1,0 +1,40 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+WMAA,Bahau Airport,WMAA,,Bahau,MY,2.816670,102.417000,214
+WMAB,Batu Pahat Airport,WMAB,,Batu Pahat,MY,1.860242,102.901001,30
+WMAC,Benta Airport,WMAC,,Benta,MY,4.050000,101.983002,250
+WMAD,Bentong Airport,WMAD,,Bentong,MY,3.550000,101.883003,350
+WMAE,Bidor Airport,WMAE,,Bidor,MY,4.116389,101.281998,128
+WMAG,Dungun Airport,WMAG,,Dungun,MY,4.786290,103.382004,22
+WMAH,Grik Airport,WMAH,,Grik,MY,5.432770,101.123001,420
+WMAJ,Jendarata Airport,WMAJ,,Jendarata,MY,3.899720,100.948997,8
+WMAL,Kuala Kerai Airport,WMAL,,Kuala Kerai,MY,5.538680,102.195000,137
+WMAN,Sungai Tiang Airport,WMAN,SXT,Taman Negara,MY,4.330278,102.394997,10
+WMAP,Kluang Airport,WMAP,,Kluang,MY,2.041390,103.306999,150
+WMAQ,Labis Airport,WMAQ,,Labis,MY,2.400380,103.040001,179
+WMAU,Mersing Airport,WMAU,MEP,Mersing,MY,2.383000,103.866997,10
+WMAV,Muar / Bakri Airport,WMAV,,Muar,MY,2.050000,102.650002,20
+WMAZ,Segamat Airport,WMAZ,,Segamat,MY,2.500000,102.833000,50
+WMBA,Sitiawan Airport,WMBA,SWY,Sitiawan,MY,4.216388,100.698608,25
+WMBB,Sungei Patani Airport,WMBB,,Sungei Patani,MY,5.617620,100.542999,90
+WMBE,Termeloh Airport,WMBE,,Temerloh,MY,3.467000,102.383003,100
+WMBF,Ulu Bernam Airport,WMBF,,Ulu Bernam,MY,3.750000,101.167000,10
+WMBH,Kroh Airport,WMBH,,Kroh,MY,5.683000,100.983002,1000
+WMBI,Taiping (Tekah) Airport,WMBI,TPG,Taiping,MY,4.867000,100.717003,40
+WMBT,Pulau Tioman Airport,WMBT,TOD,Pulau Tioman,MY,2.818180,104.160004,15
+WMKA,Sultan Abdul Halim Airport,WMKA,AOR,Alor Satar,MY,6.189670,100.398003,15
+WMKB,Butterworth Airport,WMKB,BWH,Butterworth,MY,5.465920,100.390999,11
+WMKC,Sultan Ismail Petra Airport,WMKC,KBR,Kota Baharu,MY,6.166850,102.292999,16
+WMKD,Kuantan Airport,WMKD,KUA,Kuantan,MY,3.775390,103.209000,58
+WMKE,Kerteh Airport,WMKE,KTE,Kerteh,MY,4.537220,103.427002,18
+WMKF,Simpang Airport,WMKF,,Kuala Lumpur,MY,3.112250,101.703003,111
+WMKI,Sultan Azlan Shah Airport,WMKI,IPH,Ipoh,MY,4.567970,101.092003,130
+WMKJ,Senai International Airport,WMKJ,JHB,Senai,MY,1.641310,103.669998,135
+WMKK,Kuala Lumpur International Airport,WMKK,KUL,Kuala Lumpur,MY,2.745580,101.709999,69
+WMKL,Langkawi International Airport,WMKL,LGK,Langkawi,MY,6.329730,99.728699,29
+WMKM,Malacca Airport,WMKM,MKZ,Malacca,MY,2.263360,102.251999,35
+WMKN,Sultan Mahmud Airport,WMKN,TGG,Kuala Terengganu,MY,5.382640,103.102997,21
+WMKP,Penang International Airport,WMKP,PEN,Penang,MY,5.297140,100.277000,11
+WMLH,Lumut Heliport,WMLH,,Lumut,MY,4.232220,100.615997,15
+WMPA,Pulau Pangkor Airport,WMPA,PKG,Pangkor Island,MY,4.244720,100.553001,19
+WMPR,LTS Pulau Redang Airport,WMPR,RDN,Redang,MY,5.765280,103.007004,36
+WMSA,Sultan Abdul Aziz Shah International Airport,WMSA,SZB,Subang,MY,3.130580,101.549004,90

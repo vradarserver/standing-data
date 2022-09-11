@@ -1,0 +1,21 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+300466,I-TORG,AS50,Eurocopter,AS-350 Ecureuil,Eurocopter AS-350 Ecureuil,0,Elitellina,FGS,4922,2018
+300582,I-CFAG,S64,Sikorsky,S-64 Skycrane,Sikorsky S-64 Skycrane,0,Vigili del Fuoco,,64-088,
+3005DF,I-TORQ,EC45,Airbus Helicopters,MBB-BK 117 D-2 (H145),Airbus Helicopters MBB-BK 117 D-2 (H145),0,Air Green,,20011,2014
+3007EE,I-ADJZ,E195,Embraer,ERJ-195LR,Embraer ERJ-195LR,0,Air Dolomiti,DLA,19000316,2009
+3007EF,I-JENB,E195,Embraer,ERJ-195LR,Embraer ERJ-195LR,0,Air Dolomiti,DLA,19000320,2009
+300818,I-ACMQ,C172,Reims,F172L Skyhawk,Reims F172L Skyhawk,1,Private,,F1720868,
+300830,I-CEPV,P208,Tecnam,P2008 JC,Tecnam P2008 JC,1,Private,,,
+300834,I-NRGY,P208,Tecnam,P2008 JC,Tecnam P2008 JC,0,Aero Club Milano,,,
+300847,I-OZZI,P06T,Tecnam,P-2006T,Tecnam P-2006T,1,Private,,,
+300861,I-HFHZ,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,1,Private,,840,
+30086A,I-SEAO,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Servizi Aerei,,6432,
+30086D,I-MIAY,AS50,Airbus Helicopters,H-125 Ecureuil AS350B3e,Airbus Helicopters H-125 Ecureuil AS350B3e,1,Private,,8955,
+300877,I-VENT,P28A,Piper,PA-28-140 Cherokee,Piper PA-28-140 Cherokee,1,Private,,28-24576,
+300878,I-LOSO,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258689,
+300892,I-NOLV,C150,Reims,F150L,Reims F150L,1,Private,,F1501116,
+3008AE,I-PBNB,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Leader SRL,LSA,117,
+3008B8,I-HFLY,A109,Leonardo,AW-109 Trekker,Leonardo AW-109 Trekker,0,Hoverfly,,22739,
+3008C7,I-LRSS,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,245,
+3008EA,I-CJSN,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0376,2022
+3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,

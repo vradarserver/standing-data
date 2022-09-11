@@ -1,0 +1,50 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+0CA0,Drew Medical Center Heliport,0CA0,,Los Angeles,US,33.923302,-118.241997,180
+0CA1,Northside Airpark,0CA1,,Santa Maria,US,34.988300,-120.458000,190
+0CA2,Va Greater Los Angeles Health Care Center Heliport,0CA2,,West Los Angeles,US,34.049198,-118.456001,294
+0CA3,Crawford Airport,0CA3,,Santa Ynez,US,34.587502,-120.013000,570
+0CA4,Shepherd Ranch Airport,0CA4,,Santa Ynez,US,34.622200,-120.065002,660
+0CA5,Hoffman Private Airport,0CA5,,Santa Ysabel,US,33.143101,-116.745003,3100
+0CA6,Emory Ranch Airport,0CA6,,Ocotillo,US,32.749444,-116.016111,480
+0CA7,Boeing Seal Beach (Rooftop) Heliport,0CA7,,Seal Beach,US,33.757000,-118.087997,158
+0CA8,Ward Ranch Airport,0CA8,,Aguanga,US,33.427799,-116.843002,2500
+0CA9,Blech Ranch Airport,0CA9,,Shandon,US,35.595001,-120.338997,1140
+0CD0,Delta County Memorial Hospital Heliport,0CD0,,Delta,US,38.740799,-108.052002,5000
+0CD1,Colorado Plains Medical Center Heliport,0CD1,,Fort Morgan,US,40.261092,-103.796339,4356
+0CD2,Foxx Valley Airport,0CD2,,Yoder,US,38.652500,-104.234001,5800
+0CD3,Branch's Heliport,0CD3,,Kersey,US,40.348000,-104.528000,4635
+0CD4,Kauffman Heliport,0CD4,,Denver,US,40.146301,-104.887001,5120
+0CD5,Pinon Canyon Airport,0CD5,,Trinidad,US,37.490501,-104.143997,5686
+0CD6,Exempla Good Samaritan Heliport,0CD6,,Lafayette,US,39.971699,-105.084999,5204
+0CD7,Fox Hole Airport,0CD7,,Lafayette,US,40.004700,-105.071999,5135
+0CD8,Prowers Medical Center Heliport,0CD8,,Lamar,US,38.071098,-102.609001,3575
+0CD9,Swedish S.W. Medical Heliport,0CD9,,Littleton,US,39.603100,-105.091003,5563
+0CL0,Yosemite Hidden Lake Ranch Airport,0CL0,,Raymond,US,37.118000,-119.913002,500
+0CL1,Krey Field Airport,0CL1,,Adelanto,US,34.569401,-117.556000,3042
+0CL3,John Nichol's Field Airport,0CL3,,Chula Vista,US,32.633099,-116.892998,490
+0CL4,Glen Fed Heliport,0CL4,,Glendale,US,34.157200,-118.254997,770
+0CL5,The Atrium Heliport,0CL5,,Irvine,US,33.670601,-117.858002,46
+0CL6,Bohunk's Airpark,0CL6,,Lancaster,US,34.694698,-118.282997,2410
+0CL7,Good Samaritan Hospital Heliport,0CL7,,Los Angeles,US,34.054501,-118.264999,473
+0CL8,Tera Ultralightport,0CL8,,Ridgecrest,US,35.591301,-117.634003,2510
+0CL9,Sce San Jacinto Valley Service Center Heliport,0CL9,,Romoland,US,33.741100,-117.151001,1482
+0CO0,Longmont United Hospital Heliport,0CO0,,Longmont,US,40.178902,-105.125999,5047
+0CO1,Dave's Airport,0CO1,,Louisville,US,40.033298,-105.124001,5170
+0CO2,Buckhorn Ranch Airport,0CO2,,Crested Butte,US,38.851898,-106.932999,8980
+0CO3,Greggs Nr 1 Airport,0CO3,,Bennett,US,39.889400,-104.544998,5373
+0CO4,Geo-Seis Helicopters Heliport,0CO4,,Fort Collins,US,40.589901,-105.045998,4935
+0CO5,Chenoweth Airport,0CO5,,Last Chance,US,39.833302,-103.589996,4697
+0CO6,Flying M & M Ranch Airport,0CO6,,Norwood,US,38.219398,-108.212997,8000
+0CO7,Century Helicopters Heliport,0CO7,,Fort Collins,US,40.585499,-105.040001,4935
+0CO8,Cartwheel Airport,0CO8,,Mead,US,40.208302,-105.013000,5010
+0CO9,Van Treese Airport,0CO9,,Monte Vista,US,37.658298,-106.033997,7613
+0CT0,Sharon Hospital Heliport,0CT0,,Sharon,US,41.881199,-73.481003,640
+0CT1,Bristol-Myers Squibb Company Heliport,0CT1,,Wallingford,US,41.484798,-72.756203,350
+0CT2,Windham Hospital Heliport,0CT2,,Willimantic,US,41.716999,-72.225899,330
+0CT3,N B G H Heliport,0CT3,,New Britain,US,41.661598,-72.787903,431
+0CT4,Burke Heliport,0CT4,,Prospect,US,41.506199,-72.939796,400
+0CT5,St Francis Hospital Heliport,0CT5,,Hartford,US,41.774502,-72.698997,184
+0CT6,Middletown Heliport,0CT6,,Middletown,US,41.596802,-72.704498,113
+0CT7,Bridgeport Hospital Heliport,0CT7,,Bridgeport,US,41.188400,-73.166199,80
+0CT8,Danbury Hospital Heliport,0CT8,,Danbury,US,41.405602,-73.444702,510
+0CT9,Hartford Hospital Heliport,0CT9,,Hartford,US,41.754501,-72.678703,211

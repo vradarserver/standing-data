@@ -1,0 +1,52 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LB11,Tsalapita Airport,LB11,,Tsalapita,BG,42.187698,24.534901,630
+LB13,Radomir Dolni Rakovets Airfield,LB13,,Radomir,BG,42.444199,22.983500,625
+LB18,Tenevo Airport,LB18,,Tenevo,BG,42.346401,26.573900,390
+LB19,Zimnitsa Airport,LB19,,Zimnitsa,BG,42.600498,26.633699,518
+LB22,Stanke Dimitrov Airport,LB22,,Sapareva Banya,BG,42.311699,23.246901,2149
+LB27,Podem Airport,LB27,,Podem,BG,43.548199,24.590401,150
+LB29,Maslarevo Airport,LB29,,Maslarevo,BG,43.405399,25.474001,349
+LB30,Stryama Airport,LB30,,Stryama,BG,42.285301,24.868500,560
+LB31,Levski Airport,LB31,,Levski,BG,43.369400,25.149099,150
+LB32,Konush Airport,LB32,,Konush,BG,42.072399,25.053301,500
+LB33,Leskovo Airport,LB33,,Leskovo,BG,43.726601,27.686001,700
+LB34,Stefanovo Airport,LB34,,Stefanovo,BG,43.506901,27.844900,905
+LB35,Golyama Smolnitsa Airport,LB35,,Smolnitsa,BG,43.627899,27.694099,810
+LB36,Sokolovo Airport,LB36,,Sokolovo,BG,43.475601,28.102699,760
+LB37,Stanke Dimitrov Highway Strip,LB37,,Boboshevo,BG,42.175701,23.050900,3447
+LB38,Mustrak Airport,LB38,,Mustrak,BG,41.840000,26.309700,675
+LB39,Graf Ignatievo South Airport,LB39,,Graf Ignatievo,BG,42.263199,24.719299,623
+LB42,Kamenets Airport,LB42,,Kamenets,BG,43.327301,25.003401,420
+LB43,Dobrich Air Base,LB43,,Dobrich,BG,43.609600,27.836500,825
+LB45,Petrich Airport,LB45,,Petrich,BG,41.448299,23.217100,371
+LBBG,Burgas Airport,LBBG,BOJ,Burgas,BG,42.569599,27.515200,135
+LBBO,Bohot Airport,LBBO,,Bohot,BG,43.306389,24.691389,1162
+LBBR,Ravnetz Air Base,LBBR,,Ravnetz,BG,42.526100,27.269600,74
+LBDB,Dolna Banya Airport,LBDB,,Dolna Banya,BG,42.308529,23.820417,1779
+LBGO,Gorna Oryahovitsa Airport,LBGO,GOZ,Gorna Oryahovitsa,BG,43.151402,25.712900,285
+LBGR,Grivitsa Airport,LBGR,,Grivitsa,BG,43.400002,24.766666,919
+LBHS,Uzundzhovo Air Base,LBHS,,Haskovo,BG,41.976398,25.589800,160
+LBHT,Ihtiman Airport,LBHT,,Ihtiman,BG,42.421890,23.767221,2113
+LBKJ,Kainardzha Airport,LBKJ,,Kainardzha,BG,43.970417,27.469557,575
+LBKL,Kalvacha Airport,LBKL,,Kalvacha,BG,42.586250,25.426250,1083
+LBLN,Lozen Heliport,LBLN,,Lozen,BG,42.619389,23.501472,1923
+LBLS,Lesnovo Airport,LBLS,,Lesnovo,BG,42.634499,23.646444,1825
+LBMG,Gabrovnitsa Air Base,LBMG,,Gabrovnitsa,BG,43.544300,23.272499,626
+LBPD,Plovdiv International Airport,LBPD,PDV,Plovdiv,BG,42.067799,24.850800,597
+LBPG,Graf Ignatievo Air Base,LBPG,,Graf Ignatievo,BG,42.290401,24.714001,190
+LBPL,Dolna Mitropoliya Air Base,LBPL,PVN,Dolna Mitropoliya,BG,43.451401,24.502800,330
+LBPR,Primorsko Airport,LBPR,,Primorsko,BG,42.263332,27.701668,14
+LBPS,Cheshnegirovo Air Base,LBPS,,Sadovo,BG,42.114101,24.992901,604
+LBRD,Erden Airport,LBRD,,Erden,BG,43.499168,23.304722,617
+LBRS,Ruse Airport,LBRS,ROU,Ruse,BG,43.694801,26.056700,614
+LBSD,Dobroslavtsi Air Base,LBSD,,Sofia,BG,42.812401,23.299601,1738
+LBSF,Sofia Airport,LBSF,SOF,Sofia,BG,42.696693,23.411436,1742
+LBSL,Sliven Airfield,LBSL,,Sliven,BG,42.646301,26.359400,656
+LBSS,Silistra Polkovnik Lambrinovo Airfield,LBSS,SLS,Silistra,BG,44.055199,27.178801,351
+LBST,Stryama Airport,LBST,,Stryama,BG,42.540279,24.825222,916
+LBSZ,Stara Zagora Airport,LBSZ,SZR,Stara Zagora,BG,42.376701,25.655199,558
+LBTG,Bukhovtsi Airfield,LBTG,TGV,Targovishte,BG,43.306599,26.700899,666
+LBVD,Vidin Smurdan Airfield,LBVD,VID,Vidin,BG,44.022400,22.816099,200
+LBWB,Balchik Air Base,LBWB,,Balchik,BG,43.423801,28.181299,660
+LBWN,Varna Airport,LBWN,VAR,Varna,BG,43.232101,27.825100,230
+LBWV,Izgrev Airport,LBWV,,Izgrev,BG,43.277222,27.701944,1119

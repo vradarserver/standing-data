@@ -1,0 +1,58 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CCA3,Cable Head Airpark,CCA3,,Cable Head,CA,46.443298,-62.592800,94
+CCA6,Williams Harbour Airport,CCA6,YWM,Williams Harbour,CA,52.566898,-55.784698,70
+CCA7,Apple River Airport,CCA7,,Apple River,CA,45.461899,-64.821404,135
+CCA9,Grand River Airport,CCA9,,Grand River,CA,46.480801,-63.952801,50
+CCB3,Amherst Heliport,CCB3,,Amherst,CA,45.812118,-64.220509,99
+CCC2,Winterland Airport,CCC2,,Winterland,CA,47.136902,-55.329201,156
+CCD2,Springdale Airport,CCD2,,Springdale,CA,49.478901,-56.178101,250
+CCD3,Woodstock Airport,CCD3,,Woodstock,CA,46.152248,-67.545233,481
+CCD4,Postville Airport,CCD4,,Postville,CA,54.910599,-59.786701,193
+CCE3,Juniper Airport,CCE3,,Juniper,CA,46.562801,-67.168297,837
+CCE4,Black Tickle Airport,CCE4,YBI,Black Tickle,CA,53.469398,-55.785000,57
+CCE5,Canso (Eastern Memorial Hospital) Heliport,CCE5,,Canso,CA,45.333127,-60.981932,19
+CCF4,Porters Lake Airport,CCF4,,Porters Lake,CA,44.709994,-63.299682,20
+CCF9,Scottsfield Airpark,CCF9,,Scottsfield,CA,45.960300,-67.095299,600
+CCG3,Weyman Airpark,CCG3,,Burtt's Corner,CA,46.037498,-66.858902,140
+CCG4,Moncton / McEwen Airport,CCG4,,Moncton,CA,46.153900,-64.768600,214
+CCH4,Charlottetown Airport,CCH4,,Charlottetown,CA,52.764999,-56.115601,209
+CCH5,Montreal / Longueuil (Centre Hospitalier Pierre-Boucher) Heliport,CCH5,,Montréal,CA,45.538144,-73.460048,95
+CCH6,Summerside (Prince County Hospital) Heliport,CCH6,,Summerside,CA,46.417801,-63.773899,39
+CCI9,Cortes Island (Hansen Airfield) Airport,CCI9,,Cortes Island,CA,50.020302,-124.984001,164
+CCJ3,Boston Brook Airport,CCJ3,,Boston Brook,CA,47.448601,-67.624702,958
+CCK3,Grand Falls Airport,CCK3,,Grand Falls,CA,47.075001,-67.684998,712
+CCK4,St. Lewis (Fox Harbour) Airport,CCK4,YFX,St. Lewis,CA,52.372799,-55.673901,74
+CCK5,Owen Sound (Cook Field),CCK5,,Owen Sound,CA,44.644964,-80.745606,1040
+CCL2,Candle Lake Airpark,CCL2,,Candle Lake,CA,53.768299,-105.307999,1650
+CCM3,Sevogle Airport,CCM3,,Sevogle,CA,47.191055,-66.160614,1350
+CCM4,Port Au Choix Airport,CCM4,,Port Au Choix,CA,50.688900,-57.331402,90
+CCN2,Grand Manan Airport,CCN2,,Grand Manan,CA,44.713299,-66.796402,238
+CCP2,Exploits Valley Botwood Airport,CCP2,,Exploits Valley,CA,49.056000,-55.447701,365
+CCP3,Chute-St-Philippe Airport,CCP3,,Chute-St-Philippe,CA,46.661098,-75.245003,860
+CCP4,Port Hope Simpson Airport,CCP4,YHA,Port Hope Simpson,CA,52.528099,-56.286098,347
+CCP6,Caniapiscau Airport,CCP6,,Caniapiscau,CA,54.837799,-69.892799,1672
+CCQ3,Debert Airport,CCQ3,,Debert,CA,45.418598,-63.460602,142
+CCR3,Florenceville Airport,CCR3,,Florenceville,CA,46.426102,-67.628098,508
+CCR5,Cline River Heliport,CCR5,,Cline River,CA,52.178902,-116.478996,4386
+CCR6,Campbell River (E & B Heli) Heliport,CCR6,,Campbell River,CA,50.041323,-125.268448,7
+CCR7,Castor (Our Lady of the Rosary Hospital) Heliport,CCR7,,Castor,CA,52.223501,-111.906577,2678
+CCRH,Campbellton (Regional Hospital) Heliport,CCRH,,Campbellton,CA,47.994176,-66.665466,76
+CCS3,St. Stephen Airport,CCS3,,St. Stephen,CA,45.207500,-67.250603,96
+CCS4,Chipman Airport,CCS4,,Chipman,CA,46.148602,-65.904198,65
+CCS5,Havelock Airport,CCS5,,Havelock,CA,45.986401,-65.301903,425
+CCS6,Courtenay (Smit Field) Airport,CCS6,,Courtenay,CA,49.682499,-125.100998,500
+CCT2,Cookstown Airport,CCT2,,Cookstown,CA,44.238899,-79.638901,750
+CCT3,Castlegar (Tarrys Convention Centre) Heliport,CCT3,,Castlegar,CA,49.386101,-117.552002,1632
+CCV4,Bell Island Airport,CCV4,,Bell Island,CA,47.633301,-52.983299,150
+CCW3,Waterville / Kings County Municipal Airport,CCW3,,Waterville,CA,45.051899,-64.651703,119
+CCW4,Stanley Airport,CCW4,,Stanley,CA,45.100601,-63.920601,95
+CCX2,Long Pond Heliport,CCX2,,Long Pond,CA,47.516102,-52.980801,20
+CCX3,Brockway Airport,CCX3,,Brockway,CA,45.566700,-67.099998,300
+CCY3,Sussex Airport,CCY3,,Sussex,CA,45.689999,-65.540001,467
+CCY4,East Gore Eco Airpark,CCY4,,East Gore,CA,45.117500,-63.702801,615
+CCY5,Edmundston (Regional Hospital) Heliport,CCY5,,Edmundston,CA,47.376400,-68.311897,682
+CCZ2,Rigolet Airport,CCZ2,YRG,Rigolet,CA,54.179699,-58.457500,180
+CCZ3,Clarenville Airport,CCZ3,,Clarenville,CA,48.274700,-53.923901,199
+CCZ4,Margaree Airport,CCZ4,,Margaree,CA,46.341099,-60.979698,181
+CCZ5,Thorburn Airport,CCZ5,,Thorburn,CA,45.560600,-62.594700,120
+CCZ9,Shelburne (Roseway Hospital) Heliport,CCZ9,,Shelburne,CA,43.750298,-65.309708,75

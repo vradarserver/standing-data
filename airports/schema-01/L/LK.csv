@@ -1,0 +1,100 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LKBA,Břeclav Airport,LKBA,,Břeclav,CZ,48.790001,16.892500,531
+LKBE,Benešov Airport,LKBE,,Benešov,CZ,49.740799,14.644700,1319
+LKBO,Bohuňovice Airport,LKBO,,Bohuňovice,CZ,49.670601,17.295000,771
+LKBR,Broumov Airport,LKBR,,Broumov,CZ,50.561901,16.342800,1342
+LKBU,Bubovice Airport,LKBU,,Bubovice,CZ,49.974400,14.178100,1401
+LKCB,Cheb Airport,LKCB,,Cheb,CZ,50.066101,12.411700,1585
+LKCE,Česká Lípa Airport,LKCE,,Česká Lípa,CZ,50.709400,14.566700,932
+LKCH,Chomutov Airport,LKCH,,Chotumov,CZ,50.468899,13.468100,1132
+LKCL,Černovice Air Base,LKCL,,Černovice,CZ,49.177502,16.660801,778
+LKCM,Medlánky Airport,LKCM,,Medlánky,CZ,49.236698,16.555000,853
+LKCO,Choceň Airport,LKCO,,Choceň,CZ,49.977280,16.184921,873
+LKCR,Chrudim Airport,LKCR,,Chrudim,CZ,49.936401,15.780600,981
+LKCS,České Budějovice Airport,LKCS,,České Budějovice,CZ,48.946400,14.427500,1417
+LKCT,Chotěboř Airport,LKCT,,Chotěboř,CZ,49.685799,15.676100,1949
+LKCV,Čáslav Air Base,LKCV,,Čáslav,CZ,49.939701,15.381800,794
+LKDK,Dvůr Králové Nad Labem Airport,LKDK,,Dvůr Králové Nad Labem,CZ,50.414200,15.836900,932
+LKER,Erpužice Airport,LKER,,Erpužice,CZ,49.802799,13.038100,1572
+LKFR,Frýdlant Airport,LKFR,,Frýdlant,CZ,49.589401,18.379200,1440
+LKHB,Havlíčkův Brod Airport,LKHB,,Havlíčkův Brod,CZ,49.597198,15.549200,1519
+LKHC,Hořice Airport,LKHC,,Hořice,CZ,50.357201,15.576700,922
+LKHD,Hodkovice Nad Mohelkou Airport,LKHD,,Hodkovice Nad Mohelkou,CZ,50.657200,15.077800,1480
+LKHK,Hradec Králové Airport,LKHK,,Hradec Králové,CZ,50.253201,15.845200,791
+LKHN,Hranice Airport,LKHN,,Hranice,CZ,49.546101,17.704399,801
+LKHO,Holešov Airport,LKHO,GTW,Holešov,CZ,49.314400,17.568899,761
+LKHR,Hradčany Airport,LKHR,,Ralsko,CZ,50.620556,14.738056,912
+LKHS,Hosin Airport,LKHS,,Hosin,CZ,49.040001,14.495000,1621
+LKHV,Hořovice Airport,LKHV,,Hořovice,CZ,49.848099,13.893500,1214
+LKJA,Jaroměř Airport,LKJA,,Jaroměř,CZ,50.331402,15.953900,889
+LKJC,Jičín Airport,LKJC,,Jičín,CZ,50.430000,15.333100,863
+LKJH,Jindřichův Hradec Airport,LKJH,,Jindřichův Hradec,CZ,49.150299,14.971100,1667
+LKJI,Jihlava Airport,LKJI,,Jihlava,CZ,49.419399,15.635300,1821
+LKKA,Křižanov Airport,LKKA,,Křižanov,CZ,49.368301,16.116100,1831
+LKKB,Kbely Air Base,LKKB,,Prague,CZ,50.121399,14.543600,939
+LKKC,Kříženec Planá Airport,LKKC,,Planá,CZ,49.870602,12.772500,2080
+LKKL,Kladno Airport,LKKL,,Kladno,CZ,50.112801,14.089700,1421
+LKKM,Kroměříž Airport,LKKM,,Kroměříž,CZ,49.285599,17.415800,620
+LKKO,Kolín Airport,LKKO,,Kolín,CZ,50.001900,15.173300,932
+LKKR,Krnov Airport,LKKR,,Krnov,CZ,50.074200,17.694700,1230
+LKKT,Klatovy Airport,LKKT,,Klatovy,CZ,49.418301,13.321900,1299
+LKKU,Kunovice Airport,LKKU,UHE,Uherské Hradiště,CZ,49.029400,17.439699,581
+LKKV,Karlovy Vary International Airport,LKKV,KLV,Karlovy Vary,CZ,50.202999,12.915000,1989
+LKKY,Kyjov Airport,LKKY,,Kyjov,CZ,48.980000,17.124701,689
+LKLB,Liberec Airport,LKLB,,Liberec,CZ,50.768299,15.025000,1329
+LKLN,Plzen Line Airport,LKLN,,Plzen,CZ,49.675201,13.274600,1188
+LKLT,Letňany Airport,LKLT,,Letňany,CZ,50.131401,14.525600,909
+LKMB,Mladá Boleslav Airport,LKMB,,Mladá Boleslav,CZ,50.398300,14.898300,781
+LKMH,Mnichovo Hradiště Airport,LKMH,,Mnichovo Hradiště,CZ,50.540199,15.006600,800
+LKMI,Mikulovice Airport,LKMI,,Mikulovice,CZ,50.301701,17.297501,1381
+LKMK,Moravská Třebová Airport,LKMK,,Moravská Třebová,CZ,49.798302,16.687799,1319
+LKMO,Most Airport,LKMO,,Most,CZ,50.525002,13.683100,1089
+LKMR,Mariánské Lázně Airport,LKMR,MKA,Mariánské Lázně,CZ,49.922798,12.724700,1772
+LKMT,Ostrava Leos Janáček Airport,LKMT,OSR,Ostrava,CZ,49.696301,18.111099,844
+LKNA,Náměšť Air Base,LKNA,,Náměšť,CZ,49.165798,16.124901,1548
+LKNM,Nove Mesto Airport,LKNM,,Nové Město Nad Metují Moravě,CZ,50.364201,16.113600,1001
+LKNY,Nymburk Ul Ploch Airport,LKNY,,Nymburk,CZ,50.168598,15.052500,607
+LKOL,Olomouc Glider Airport,LKOL,,Olomouc,CZ,49.587799,17.210800,869
+LKOT,Otrokovice Zlin Airport,LKOT,,Otrokovice,CZ,49.198299,17.517799,600
+LKPA,Policka Airport,LKPA,,Policka,CZ,49.739399,16.258900,1982
+LKPC,Panensky Tynec Airport,LKPC,,Panensky Tynec,CZ,50.306099,13.934200,1207
+LKPD,Pardubice Airport,LKPD,PED,Pardubice,CZ,50.013401,15.738600,741
+LKPI,Pribyslav Airport,LKPI,,Pribyslav,CZ,49.580799,15.762800,1739
+LKPJ,Prostejov Airport,LKPJ,,Prostejov,CZ,49.447800,17.133900,699
+LKPL,Letkov Airport,LKPL,,Letkov,CZ,49.723099,13.452200,1371
+LKPM,Pribram Airport,LKPM,,Pribram,CZ,49.720100,14.100600,1529
+LKPN,Podhorany Glider Airport,LKPN,,Podhoramy,CZ,49.939201,15.549700,1250
+LKPO,Přerov Air Base,LKPO,PRV,Přerov,CZ,49.425800,17.404699,676
+LKPR,Ruzyně International Airport,LKPR,PRG,Prague,CZ,50.100800,14.260000,1247
+LKPS,Plasy Rybnice Airport,LKPS,,Rybnice,CZ,49.920300,13.376900,1430
+LKRA,Rana Loumy Airport,LKRA,,Raná,CZ,50.403900,13.751900,879
+LKRK,Rakovnik Glider Airport,LKRK,,Rakovnik,CZ,50.094200,13.688900,1270
+LKRO,Roudnice Mad Airport,LKRO,,Roudnice Nad Labem,CZ,50.410599,14.226100,732
+LKSA,Stankov Glider Airport,LKSA,,Stankov,CZ,49.566700,13.048600,1401
+LKSB,Stichovice Pluml Airport,LKSB,,Mostkovice,CZ,49.486099,17.055599,840
+LKSK,Skutec Airport,LKSK,,Skutec,CZ,49.827801,16.005800,1601
+LKSN,Slany Airport,LKSN,,Slany,CZ,50.216702,14.088600,1079
+LKSO,Sobeslav Airport,LKSO,,Sobeslav,CZ,49.246700,14.713600,1342
+LKSR,Strunkovice Airport,LKSR,,Strunkovice,CZ,49.082500,14.075800,1572
+LKST,Strakonice Airport,LKST,,Strakonice,CZ,49.251701,13.892800,1381
+LKSU,Sumperk Airport,LKSU,,Sumperk,CZ,49.960602,17.017799,1099
+LKSZ,Sazena Kralupy Airport,LKSZ,,Sazena,CZ,50.324699,14.258900,761
+LKTA,Tábor Airport,LKTA,,Tábor,CZ,49.391102,14.708300,1440
+LKTB,Brno-Tuřany Airport,LKTB,BRQ,Brno,CZ,49.151299,16.694401,778
+LKTC,Tocna Praha Glider Airport,LKTC,,Tocna,CZ,49.985298,14.426100,1030
+LKTD,Tachov Oldrichov Airport,LKTD,,Tachov,CZ,49.797798,12.706900,1640
+LKTO,Toužim Airport,LKTO,,Toužim,CZ,50.086399,12.952800,2139
+LKTV,Tabor Vsechov Ultralight Airport,LKTV,,Tabor,CZ,49.437801,14.621700,1604
+LKUL,Usti Nad Labem Airport,LKUL,,Usti Nad Labem,CZ,50.699699,13.969700,791
+LKUO,Usti Mad Orlici Airport,LKUO,,Usti Mad Orlici,CZ,49.978600,16.426399,1342
+LKVL,Vlasin Glider Airport,LKVL,,Vlasin,CZ,49.728901,14.878900,1421
+LKVM,Vysoke Myto Glider Airport,LKVM,,Vysoke Myto,CZ,49.926899,16.185801,991
+LKVO,Vodochody Airport,LKVO,,Vodochoky,CZ,50.216599,14.395800,919
+LKVP,Velke Porici Glider Airport,LKVP,,Velke Porici,CZ,50.467800,16.205601,1322
+LKVR,Vrchlabi Airport,LKVR,,Vrchlabi,CZ,50.624199,15.646400,1611
+LKVY,Vyskov Airport,LKVY,,Vyskov,CZ,49.300301,17.025299,922
+LKZA,Zabreh Ostrava Airport,LKZA,ZBE,Zabreh,CZ,49.928299,18.078300,791
+LKZB,Zbraslavice Glider Airport,LKZB,,Zbraslavice,CZ,49.814201,15.201700,1621
+LKZD,Zatec Macerka Ar Airport,LKZD,,Zatek,CZ,50.317501,13.512800,879
+LKZM,Zamberk Airport,LKZM,,Zamberk,CZ,50.083900,16.443899,1411
+LKZN,Znojmo Airport,LKZN,,Znojmo,CZ,48.817799,16.065800,830

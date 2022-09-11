@@ -1,0 +1,104 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KN03,Cortland County Chase Field,KN03,,Cortland,US,42.592602,-76.214897,1198
+KN06,Laurel Airport,KN06,,Laurel,US,38.542198,-75.594398,30
+KN12,Lakewood Airport,KN12,,Lakewood,US,40.066799,-74.177696,43
+KN13,Bloomsburg Municipal Airport,KN13,,Bloomsburg,US,40.997799,-76.436096,481
+KN14,Flying W Airport,KN14,,Lumberton,US,39.934299,-74.807297,49
+KN19,Aztec Municipal Airport,KN19,,Aztec,US,36.834702,-108.028000,5877
+KN23,Sidney Municipal Airport,KN23,,Sidney,US,42.302601,-75.416000,1027
+KN24,Questa Municipal Nr 2 Airport,KN24,,Questa,US,36.800301,-105.598000,7700
+KN27,Bradford County Airport,KN27,,Towanda,US,41.740002,-76.447098,730
+KN35,Punxsutawney Municipal Airport,KN35,,Punxsutawney,US,40.966702,-78.930000,1439
+KN37,Monticello Airport,KN37,,Monticello,US,41.622501,-74.701302,1545
+KN38,Wellsboro Johnston Airport,KN38,,Wellsboro,US,41.727901,-77.396500,1892
+KN40,Sky Manor Airport,KN40,,Pittstown,US,40.566299,-74.978600,560
+KN47,Pottstown Municipal Airport,KN47,,Pottstown,US,40.260300,-75.670799,256
+KN51,Solberg Hunterdon Airport,KN51,,Readington,US,40.583698,-74.736198,195
+KN52,Jaars Townsend Airport,KN52,,Waxhaw,US,34.863800,-80.748001,602
+KN53,Stroudsburg Pocono Airport,KN53,,East Stroudsburg,US,41.035801,-75.160599,480
+KN57,New Garden Airport,KN57,,Toughkenamon,US,39.830502,-75.769699,436
+KN58,Tiger Field,KN58,,Fernley,US,39.559601,-119.240997,4346
+KN59,Rosaschi Air Park,KN59,,Smith,US,38.839401,-119.337997,4809
+KN66,Oneonta Municipal Airport,KN66,,Oneonta,US,42.524700,-75.064400,1763
+KN68,Franklin County Regional Airport,KN68,,Chambersburg,US,39.973099,-77.643303,697
+KN69,Stormville Airport,KN69,,Stormville,US,41.577000,-73.732399,358
+KN71,Donegal Springs Airpark,KN71,,Mount Joy/Marietta,US,40.092201,-76.574402,458
+KN73,Red Lion Airport,KN73,,Vincentown,US,39.904202,-74.749496,54
+KN79,Northumberland County Airport,KN79,,Shamokin,US,40.836899,-76.552498,881
+KN81,Hammonton Municipal Airport,KN81,,Hammonton,US,39.667500,-74.757698,65
+KN82,Wurtsboro Sullivan County Airport,KN82,,Wurtsboro,US,41.597198,-74.458298,560
+KN87,Trenton Robbinsville Airport,KN87,,Robbinsville,US,40.213902,-74.601799,118
+KN89,Joseph Y Resnick Airport,KN89,,Ellenville,US,41.727901,-74.377403,292
+KN94,Carlisle Airport,KN94,,Carlisle,US,40.187901,-77.174301,510
+KN96,Bellefonte Airport,KN96,,Bellefonte,US,40.885502,-77.816299,1071
+KN98,Boyne City Municipal Airport,KN98,,Boyne City,US,45.208302,-84.990303,657
+KNBC,Beaufort MCAS - Merritt Field,KNBC,,Beaufort,US,32.477402,-80.723198,37
+KNBG,New Orleans Nas Jrb/Alvin Callender Field/ Airport,KNBG,,New Orleans,US,29.825300,-90.035004,2
+KNBJ,Barin Nolf Airport,KNBJ,,Foley,US,30.389099,-87.635300,54
+KNCA,New River MCAS /H/ /Mccutcheon Fld/ Airport,KNCA,,Jacksonville,US,34.708401,-77.439697,26
+KNDY,Dahlgren Naval Surface Warfare Center Airport,KNDY,DGN,Dahlgren,US,38.332500,-77.037201,18
+KNDZ,Whiting Field Naval Air Station South Airport,KNDZ,,Milton,US,30.704399,-87.023003,177
+KNEL,Lakehurst NAES /Maxfield Field,KNEL,NEL,Lakehurst,US,40.033298,-74.353302,101
+KNEN,Whitehouse Nolf Airport,KNEN,,Jacksonville,US,30.353901,-81.871902,99
+KNEW,Lakefront Airport,KNEW,,New Orleans,US,30.042400,-90.028297,8
+KNFD,Summerdale Nolf Airport,KNFD,,Summerdale,US,30.507700,-87.645500,149
+KNFE,Fentress Naval Auxiliary Landing Field,KNFE,,Fentress,US,36.695099,-76.135498,16
+KNFG,Camp Pendleton MCAS (Munn Field) Airport,KNFG,,Oceanside,US,33.301300,-117.355003,78
+KNFJ,Choctaw Nolf Airport,KNFJ,,Milton,US,30.506901,-86.959702,102
+KNFL,Fallon Naval Air Station /Van Voorhis Field,KNFL,,Fallon,US,39.416599,-118.700996,3934
+KNFW,Fort Worth Nas Jrb/Carswell field,KNFW,,Fort Worth,US,32.769199,-97.441498,650
+KNGP,Corpus Christi Naval Air Station/Truax Field,KNGP,,Corpus Christi,US,27.692600,-97.291100,18
+KNGS,Santa Rosa Nolf Airport,KNGS,,Milton,US,30.610800,-86.940002,150
+KNGU,Norfolk Ns (Chambers Fld) Airport,KNGU,NGU,Norfolk,US,36.937599,-76.289299,17
+KNGW,Cabaniss Field Nolf Airport,KNGW,,Corpus Christi,US,27.700300,-97.434402,30
+KNGZ,Alameda Naval Air Station,KNGZ,NGZ,Alameda,US,37.788898,-122.320000,10
+KNHK,Patuxent River Naval Air Station/Trapnell Field Aiport,KNHK,,Patuxent River,US,38.285999,-76.411797,39
+KNHL,Wolf Nolf Airport,KNHL,,Joesphine,US,30.346100,-87.541702,61
+KNHU,Norfolk Naval Station Heliport,KNHU,,Norfolk,US,36.948056,-76.296111,6
+KNHZ,Brunswick Naval Air Station,KNHZ,,Brunswick,US,43.892200,-69.938599,72
+KNID,China Lake Naws (Armitage Field) Airport,KNID,,China Lake,US,35.685398,-117.692001,2283
+KNIP,Jacksonville Naval Air Station,KNIP,,Jacksonville,US,30.235800,-81.680603,21
+KNJK,El Centro Naf Airport,KNJK,,El Centro,US,32.829201,-115.671997,-42
+KNJM,Bogue Field Mcalf Airport,KNJM,,Swansboro,US,34.690399,-77.029701,21
+KNJP,Warminster Naval Air Warfare Center,KNJP,,Philadelphia,US,40.200298,-75.066399,381
+KNJW,Joe Williams Nolf Airport,KNJW,,Meridian,US,32.796200,-88.831703,539
+KNKL,Holley Nolf Airport,KNKL,,Fort Walton Beach,US,30.425301,-86.893898,39
+KNKT,MCAS Cherry Point,KNKT,,Cherry Point,US,34.900902,-76.880699,29
+KNKX,Miramar Marine Corps Air Station,KNKX,,San Diego,US,32.868401,-117.142998,477
+KNLC,Lemoore Naval Air Station (Reeves Field) Airport,KNLC,,Lemoore,US,36.333000,-119.952004,232
+KNLW,Naval Station Newport Helipad,KNLW,,Newport,US,41.503889,-71.325833,1
+KNMM,Meridian Naval Air Station,KNMM,,Meridian,US,32.552101,-88.555603,316
+KNOG,Orange Grove Naval Auxiliary Landing Field,KNOG,,Orange Grove,US,27.901100,-98.051697,257
+KNOP,Floyd Bennett Field,KNOP,,New York,US,40.591000,-73.890999,16
+KNOW,Port Angeles Cgas Airport,KNOW,,Port Angeles,US,48.141499,-123.414001,13
+KNPA,Pensacola Naval Air Station/Forrest Sherman field,KNPA,,Pensacola,US,30.352699,-87.318604,28
+KNPI,Site 8 NOLF,KNPI,,Pensacola,US,30.543056,-87.368056,132
+KNQA,Millington Regional Jetport Airport,KNQA,,Millington,US,35.356701,-89.870300,320
+KNQI,Kingsville Naval Air Station,KNQI,,Kingsville,US,27.507200,-97.809700,50
+KNQX,Key West Nas /Boca Chica Field/ Airport,KNQX,,Key West,US,24.575800,-81.688904,6
+KNRA,Coupeville Nolf Airport,KNRA,,Coupeville,US,48.188301,-122.632004,199
+KNRB,Mayport Ns (Adm David L. Mcdonald Field) Airport,KNRB,,Mayport,US,30.391100,-81.424698,15
+KNRN,Norton Municipal Airport,KNRN,,Norton,US,39.850399,-99.894699,2383
+KNRQ,Spencer Nolf Airport,KNRQ,,Pace,US,30.625299,-87.139999,151
+KNRS,Imperial Beach Nolf (Ream Fld) Airport,KNRS,,Imperial Beach,US,32.566700,-117.116997,24
+KNSE,Whiting Field Naval Air Station North Airport,KNSE,,Milton,US,30.724199,-87.021896,199
+KNSI,San Nicolas Island Nolf Airport,KNSI,,San Nicolas Island,US,33.239799,-119.458000,506
+KNTD,Point Mugu Naval Air Station (Naval Base Ventura Co),KNTD,,Point Mugu,US,34.120300,-119.121002,13
+KNTU,Oceana Nas /Apollo Soucek Field/ Station,KNTU,,Virginia Beach,US,36.820702,-76.033501,23
+KNUC,San Clemente Island Naval Auxiliary Landing Field,KNUC,,San Clemente Island,US,33.022701,-118.587997,184
+KNUI,Webster Nolf Airport,KNUI,,St Inigoes,US,38.146000,-76.428596,22
+KNUN,Saufley Field Nolf Airport,KNUN,,Pensacola,US,30.469700,-87.338097,85
+KNUQ,Moffett Federal Airfield,KNUQ,,Mountain View,US,37.416100,-122.049004,32
+KNUW,Whidbey Island Naval Air Station /Ault Field/ Airport,KNUW,NUW,Oak Harbor,US,48.351799,-122.655998,47
+KNVD,Nevada Municipal Airport,KNVD,,Nevada,US,37.852100,-94.304901,892
+KNVI,Pace Nolf Heliport,KNVI,,Wallace,US,30.699699,-87.195602,180
+KNWL,Waldron Field Nolf Airport,KNWL,,Corpus Christi,US,27.635000,-97.312202,25
+KNXP,Twentynine Palms (Self) Airport,KNXP,,Twentynine Palms,US,34.296200,-116.162003,2051
+KNXX,Willow Grove Naval Air Station/Joint Reserve Base,KNXX,,Willow Grove,US,40.199799,-75.148201,358
+KNY0,Fulton County Airport,KNY0,,Johnstown,US,42.998199,-74.329597,881
+KNY2,Camillus Airport,KNY2,,Camillus,US,43.083401,-76.282997,405
+KNYG,Quantico MCAF /Turner field,KNYG,,Quantico,US,38.501701,-77.305298,10
+KNYL,Yuma MCAS/Yuma International Airport,KNYL,YUM,Yuma,US,32.656601,-114.606003,213
+KNZJ,El Toro Marine Corps Air Station,KNZJ,,Santa Ana,US,33.676102,-117.731003,383
+KNZX,Harold Nolf Heliport,KNZX,,Harold,US,30.680700,-86.887199,150
+KNZY,North Island Naval Air Station-Halsey Field,KNZY,NZY,San Diego,US,32.699200,-117.214996,26

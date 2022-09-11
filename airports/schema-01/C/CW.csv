@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CWC1,White City (Radomsky) Airport,CWC1,,White City,CA,50.439701,-104.306000,2020
+CWC2,Kelowna (Wildcat Helicopters) Heliport,CWC2,,Kelowna,CA,49.867423,-119.579229,1640
+CWC4,Wetaskiwin (Hospital & Care Centre) Heliport,CWC4,,Wetaskiwin,CA,52.988434,-113.368070,2494
+CWH2,Wainwright (Health Centre) Heliport,CWH2,,Wainwright,CA,52.842979,-110.864735,2262
+CWJC,Ennadai Lake Airport,CWJC,,Ennadai,CA,61.133333,-100.900000,1021

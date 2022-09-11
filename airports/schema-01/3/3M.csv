@@ -1,0 +1,61 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+3MA0,Compaq Woburn Heliport,3MA0,,Woburn,US,42.509800,-71.136398,80
+3MA1,Marlborough Hospital Heliport,3MA1,,Marlborough,US,42.356201,-71.555099,520
+3MA2,Baines Airport,3MA2,,Middlefield,US,42.316200,-73.031998,1160
+3MA3,Seapuit Heliport,3MA3,,Barnstable,US,41.611500,-70.415298,20
+3MA4,North Chatham Heliport,3MA4,,Chatham,US,41.714802,-69.966103,10
+3MA5,Westport Airport,3MA5,,Westport,US,41.543201,-71.035301,80
+3MA6,Happy Heliport,3MA6,,Dartmouth,US,41.583698,-71.040604,127
+3MA7,Gear Plant Heliport,3MA7,,Lynn,US,42.452301,-70.965599,10
+3MA8,Sadler Hill Heliport,3MA8,,Gloucester,US,42.622299,-70.652298,125
+3MA9,Marston Mills Heliport,3MA9,,Marston Mills,US,41.640400,-70.407799,10
+3MD0,Burhans Memorial Airport,3MD0,,Frederick,US,39.348202,-77.336098,490
+3MD1,Southern Md Hospital Center Heliport,3MD1,,Clinton,US,38.748100,-76.877197,270
+3MD2,Garrett County Memorial Hospital Heliport,3MD2,,Oakland,US,39.413200,-79.401199,2457
+3MD3,Hoopers Heliport,3MD3,,Ocean City,US,38.311501,-75.120499,3
+3MD4,Fairview Airport,3MD4,,Annapolis,US,38.977600,-76.639397,150
+3MD5,Hidden Hills Airport,3MD5,,Hurlock,US,38.621201,-75.841301,20
+3MD6,West St Mary's Airport,3MD6,,Drayden,US,38.188999,-76.446899,50
+3MD7,Green Terrace Heliport,3MD7,,Baltimore,US,39.402599,-76.504997,310
+3MD8,Pokety Airport,3MD8,,Cambridge,US,38.612301,-76.171097,10
+3MD9,Chandler Airport,3MD9,,Ridge,US,38.118198,-76.391296,17
+3ME8,Mast Cove Seaplane Base,3ME8,,Naples,US,43.994999,-70.641296,267
+3MI0,Doss Field,3MI0,,Lake George,US,43.937000,-85.022003,1050
+3MI1,Fuller Heliport,3MI1,,Milford,US,42.562302,-83.659103,1060
+3MI2,South Fox Island Airport,3MI2,,Northport,US,45.399200,-85.830101,616
+3MI3,Zayti Field Heliport,3MI3,,Novi,US,42.440222,-83.515861,901
+3MI4,Clear Sky Heliport,3MI4,,Kalamazoo,US,42.185001,-85.721703,980
+3MI5,Innes Acres Airport,3MI5,,Decker,US,43.450001,-83.027702,775
+3MI6,Highland Heliport,3MI6,,Highland,US,42.657001,-83.650200,1040
+3MI7,Willie Run Airport,3MI7,,Ortonville,US,42.829201,-83.368599,1043
+3MI8,Bendix Heliport,3MI8,,Southfield,US,42.480598,-83.247704,715
+3MI9,Ness Landing Seaplane Base,3MI9,,Rapid River,US,45.903900,-86.970299,580
+3MN0,Shadduck Seaplane Base,3MN0,,Annandale,US,45.292198,-94.094704,991
+3MN1,Stahlberg-Mohr Airport,3MN1,,Iron Junction,US,47.448502,-92.644897,1380
+3MN2,Mercy Hospital & Healthcare Center Heliport,3MN2,,Moose Lake,US,46.440701,-92.775497,1060
+3MN3,Honker Flats Airport,3MN3,,Middle River,US,48.538898,-95.952003,1190
+3MN4,Agri Helicopter Inc. Heliport,3MN4,,Owatonna,US,44.094101,-93.267998,1148
+3MN5,Little Rock/Rock Port Airport,3MN5,,Rice,US,45.723000,-94.193901,1055
+3MN6,Immanuel - St Joseph's Hospital Heliport,3MN6,,Mankato,US,44.168900,-93.995003,1076
+3MN7,Blue Sky Airport,3MN7,,Sabin,US,46.800499,-96.595001,927
+3MN8,Aysta Field,3MN8,,St Cloud,US,45.522701,-94.122803,1024
+3MN9,Schumacher Airport,3MN9,,Oster,US,44.984402,-93.936096,1020
+3MO1,Police Department Helicopter Maint Facility Heliport,3MO1,,Kansas City,US,39.045799,-94.497498,855
+3MO2,Ultra Flight Airpark,3MO2,,Berger,US,38.690899,-91.341003,502
+3MO3,Research Medical Center Heliport,3MO3,,Kansas City,US,39.008099,-94.558197,947
+3MO4,Penman Airport,3MO4,,Portageville,US,36.450600,-89.628098,287
+3MO5,Nimsick Airport,3MO5,,Carthage,US,37.128101,-94.216103,1095
+3MO6,Kitty Hawk Estates Airport,3MO6,,Kearney,US,39.335602,-94.483597,1000
+3MO7,Fairbanks Airport,3MO7,,King City,US,40.083302,-94.616898,1083
+3MO8,Fizzle Ridge Airport,3MO8,,King City,US,40.031898,-94.537697,1096
+3MO9,Quad State Helicopter Heliport,3MO9,,King City,US,40.033298,-94.537697,1080
+3MS0,Grand Gulf Heliport,3MS0,,Port Gibson,US,32.014000,-91.052101,160
+3MS1,Thomas Field,3MS1,,Holly Springs,US,34.805801,-89.460899,485
+3MS2,Thunderfoot Ranch Airport,3MS2,,Tylertown,US,31.079100,-90.028397,390
+3MS3,Root Hog Airport,3MS3,,Flora,US,32.515900,-90.351196,220
+3MS4,Pascagoula Naval Station Heliport,3MS4,,Pascagoula,US,30.338400,-88.573601,13
+3MS5,Mitchell's Airport,3MS5,,Vaiden,US,33.301800,-89.814301,323
+3MS6,E E Lane Airport,3MS6,,Flora,US,32.554298,-90.302902,268
+3MS8,Fairview Farms Airport,3MS8,,Scooba,US,32.942200,-88.363503,170
+3MS9,Union Municipal Airport,3MS9,,Union,US,32.580700,-89.136200,512
+3MT3,Three Cross Ranch Airport,3MT3,,Ryegate,US,46.125556,-109.365000,3930

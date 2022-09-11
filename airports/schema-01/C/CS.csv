@@ -1,0 +1,95 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CSA2,Lac Agile (Mascouche) Airport,CSA2,,Lac Agile,CA,45.791901,-73.638100,160
+CSB3,St-Mathieu-De-Beloeil Airport,CSB3,,St-Mathieu-De-Beloeil,CA,45.590000,-73.238602,47
+CSB4,Chibougamau Heliport,CSB4,,Chibougamau,CA,49.900002,-74.383301,1150
+CSB5,Shediac Bridge Airport,CSB5,,Shediac Bridge,CA,46.254700,-64.576698,25
+CSC3,Drummondville Airport,CSC3,,Drummondville,CA,45.845299,-72.394699,365
+CSC5,Lac Etchemin Airport,CSC5,,Lac Etchemin,CA,46.407200,-70.501404,1500
+CSC9,Sudbury / Coniston Airport,CSC9,,Sudbury,CA,46.482201,-80.833900,886
+CSD2,Sundre (Hospital & Health Care Centre) Heliport,CSD2,,Sundre,CA,51.807165,-114.636540,3589
+CSD3,Valleyfield Airport,CSD3,,Valleyfield,CA,45.208302,-74.141403,155
+CSD4,Mont Laurier Airport,CSD4,,Mont-Laurier,CA,46.564400,-75.577797,815
+CSD5,Fermont Heliport,CSD5,,Fermont,CA,52.806099,-67.102203,2009
+CSD9,Parc Gatineau Seaplane Base,CSD9,,La Peche,CA,45.683300,-76.208603,640
+CSE2,Chibougamau (Hydro-Québec) Heliport,CSE2,,Chibougamau,CA,49.887798,-74.400299,1270
+CSE3,Lourdes-De-Joliette Airport,CSE3,,Lourdes-De-Joliette,CA,46.109402,-73.452797,350
+CSE4,Lachute Airport,CSE4,,Lachute,CA,45.639400,-74.370598,221
+CSE5,Montmagny Airport,CSE5,,Montmagny,CA,47.001400,-70.515800,37
+CSE7,Delta (SEI) Heliport,CSE7,,Vancouver,CA,49.129200,-123.017998,37
+CSE8,Lac Duhamel Seaplane Base,CSE8,,Mont-Tremblant,CA,46.140800,-74.641701,800
+CSF3,Poste Montagnais (Mile 134) Airport,CSF3,,Poste Montagnais,CA,51.888599,-65.714996,1987
+CSF6,Ste-Marguerite Heliport,CSF6,,Ste-Marguerite,CA,46.031101,-74.053299,1100
+CSF7,Ottawa / Casselman (Shea Field),CSF7,,Ottawa,CA,45.299675,-75.171504,216
+CSG2,East Angus Heliport,CSG2,,East Angus,CA,45.483299,-71.666702,597
+CSG3,Joliette Airport,CSG3,,Joliette,CA,46.044998,-73.501701,225
+CSG5,St Jean Chrysostome Airport,CSG5,,St-Jean Chrysostome,CA,46.685299,-71.151703,325
+CSG7,François Desourdy Heliport,CSG7,,Sherbrooke,CA,45.449699,-71.868896,722
+CSH2,Île-aux-Grues Airport,CSH2,,Île-aux-Grues,CA,47.071098,-70.532799,60
+CSH4,Lebel-sur-Quevillon Airport,CSH4,,Lebel-sur-Quévillon,CA,49.030300,-77.017197,960
+CSH5,St-Ferdinand Airport,CSH5,,St-Ferdinand,CA,46.126099,-71.536102,1050
+CSH6,Montreal / Les Cèdres Heliport,CSH6,,Montréal,CA,45.347335,-74.087242,160
+CSH9,Montréal East (Aim) Heliport,CSH9,,Montréal,CA,45.635193,-73.562138,179
+CSJ2,Kanawata Aeroparc Airport,CSJ2,,Kanawata,CA,47.594700,-74.133598,1350
+CSJ4,Louiseville Airport,CSJ4,,Louiseville,CA,46.246101,-72.904404,40
+CSJ5,St-Louis-De-France Airport,CSJ5,,St-Louis-De-France,CA,46.436699,-72.630302,225
+CSK3,Montreal / Mascouche Airport,CSK3,,Montréal,CA,45.718601,-73.598099,75
+CSK4,Mansonville Airport,CSK4,,Mansonville,CA,45.026402,-72.401901,575
+CSK5,Paquet Airport,CSK5,,St-Raymond,CA,46.895000,-71.785797,582
+CSK6,Snap Lake Airport,CSK6,YNX,Snap Lake,CA,63.593601,-110.905998,1557
+CSK8,King George Airpark,CSK8,,Surrey,CA,49.095001,-122.819000,5
+CSK9,Nicolet Heliport,CSK9,,Nicolet,CA,46.220299,-72.647797,33
+CSL2,La Sarre Heliport,CSL2,,La Sarre,CA,48.808601,-79.251701,900
+CSL3,Lac a la Tortue Airport,CSL3,,Lac-à-la-Tortue,CA,46.621700,-72.630302,434
+CSL5,St-Victor-De-Beauce Airport,CSL5,,St-Victor-De-Beauce,CA,46.118301,-70.889198,1100
+CSL7,Odessa / Strawberry Lakes Airstrip,CSL7,,Qu'Appelle,CA,50.364518,-103.740807,2160
+CSL9,Baie-Comeau (Manic 1) Airport,CSL9,,Baie-Comeau,CA,49.184399,-68.362503,250
+CSM3,Thetford Mines Airport,CSM3,,Thetford Mines,CA,46.051701,-71.257202,1408
+CSM4,Ste-Julienne Airport,CSM4,,Ste-Julienne,CA,45.940800,-73.723900,280
+CSM5,St-Michel-Des-Saints Airport,CSM5,,St-Michel-Des-Saints,CA,46.680801,-73.993599,1372
+CSM6,Blue Sea Lake Seaplane Base,CSM6,,Maniwaki,CA,46.242199,-76.048302,560
+CSN2,Montreal / Kruger Heliport,CSN2,,Montréal,CA,45.507350,-73.636044,180
+CSN3,St-Jérôme Airport,CSN3,,St-Jérôme,CA,45.780300,-74.061897,550
+CSN5,Stanhope Airport,CSN5,,Stanhope,CA,45.015598,-71.794403,1450
+CSN6,Saint John (Saint John Regional Hospital) Heliport,CSN6,,Saint John,CA,45.302135,-66.087903,246
+CSN7,Farnham Airport,CSN7,,Farnham,CA,45.285599,-73.007797,180
+CSN9,Baie-Comeau / Héli-Manicouagan Heliport,CSN9,,Baie-Comeau,CA,49.198956,-68.285418,76
+CSP2,Stony Plain (Westview Health Centre) Heliport,CSP2,,Stony Plain,CA,53.537335,-113.978313,2311
+CSP3,Stony Plain (Lichtner Farms) Airport,CSP3,,Stony Plain,CA,53.537498,-114.068001,2415
+CSP5,St-Mathias Airport,CSP5,,St-Mathias,CA,45.500801,-73.241699,50
+CSP6,Montreal / Aéroparc Île Perrot,CSP6,,Montréal,CA,45.376099,-73.907204,100
+CSQ3,Valcourt Airport,CSQ3,,Valcourt,CA,45.481098,-72.310303,740
+CSR3,Victoriaville Airport,CSR3,,Victoriaville,CA,46.112801,-71.928902,486
+CSR4,Rimouski (Hydro-Québec) Heliport,CSR4,,Rimouski,CA,48.441101,-68.542503,45
+CSR5,Île d'Orléans (Heliport),CSR5,,Île d'Orléans,CA,46.990799,-70.826698,170
+CSR6,Sonora Resort Heliport,CSR6,,Sonora Resort,CA,50.381734,-125.157559,46
+CSR8,La Sarre Airport,CSR8,,La Sarre,CA,48.917198,-79.178596,1048
+CSS2,Rivière-du-Loup Heliport,CSS2,,Rivière-du-Loup,CA,47.849039,-69.542253,10
+CSS3,Montreal / Les Cèdres Airport,CSS3,,Montréal,CA,45.347500,-74.076698,160
+CSS4,St-Dominique Airport,CSS4,,St-Dominique,CA,45.632500,-72.818901,250
+CST3,Montreal / St-Lazare Airport,CST3,,Montréal,CA,45.390328,-74.134004,175
+CST5,Sable Island Heliport,CST5,,Sable Island,CA,43.933102,-60.005600,15
+CST7,St-Lambert-De-Lauzon Airport,CST7,,St-Lambert-De-Lauzon,CA,46.560299,-71.182503,475
+CST8,Montreal / Marina Venise Seaplane Base,CST8,,Montréal,CA,45.632856,-73.782409,65
+CSU2,Chisasibi Airport,CSU2,YKU,Chisasibi,CA,53.805599,-78.916901,43
+CSU3,St Hyacinthe Airport,CSU3,,St-Hyacinthe,CA,45.605000,-73.014198,115
+CSU4,Ste-Lucie-De-Beauregard Airport,CSU4,,Ste-Lucie-De-Beauregard,CA,46.740799,-70.032501,1212
+CSU5,Weymontachie Airport,CSU5,,Weymontachie,CA,47.936901,-73.817200,1171
+CSU7,Lac-à-la-Tortue (Water Aerodrome) Airport,CSU7,,Lac-à-la-Tortue,CA,46.616699,-72.625801,427
+CSV2,Ste-Agathe (Aim) Heliport,CSV2,,Ste-Agathe,CA,46.116699,-74.300003,1250
+CSV3,Bécancour Heliport,CSV3,,Bécancour,CA,46.365002,-72.396103,31
+CSV4,Fort Saskatchewan (General Hospital) Heliport,CSV4,,Fort Saskatchewan,CA,53.703796,-113.223161,2047
+CSW5,Montréal (Bell) Heliport,CSW5,,Montréal,CA,45.685001,-73.931099,221
+CSW9,Ste-Véronique Seaplane Base,CSW9,,Ste-Véronique,CA,46.514702,-74.990303,823
+CSX3,Richelieu,CSX3,,Richelieu,CA,45.447073,-73.232685,115
+CSX5,Grant Airport,CSX5,,St-Mathias,CA,45.471901,-73.199402,110
+CSX7,Exeter Airport,CSX7,,Sexsmith,CA,43.377201,-81.504204,856
+CSY3,Sorel Airport,CSY3,,Sorel,CA,45.980301,-73.042198,76
+CSY4,St-Donat Airport,CSY4,,St-Donat,CA,46.305801,-74.181396,1270
+CSY5,Valleyfield (Ciment Deval Inc) Heliport,CSY5,,Valleyfield,CA,45.263599,-74.149200,100
+CSY6,Poste Lemoyne (Complex Lg-3) Heliport,CSY6,,Poste Lemoyne,CA,53.482800,-75.031403,874
+CSY9,Sydney (Cape Breton Regional Hospital) Heliport,CSY9,,Sydney,CA,46.110110,-60.176151,224
+CSZ2,Québec (Complex H) Heliport,CSZ2,,Québec,CA,46.807205,-71.213432,352
+CSZ3,St-Jovite Airport,CSZ3,,Mont-Tremblant,CA,46.154202,-74.583603,790
+CSZ4,St-Frédéric Airport,CSZ4,,St-Frédéric,CA,46.331402,-70.963303,991
+CSZ6,St-Jérôme (Hydro-Québec) Heliport,CSZ6,,St-Jérôme,CA,45.770763,-74.026997,340
+CSZ8,Montréal (Sacré-Coeur) Heliport,CSZ8,,Montréal,CA,45.533169,-73.712431,84

@@ -1,0 +1,75 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MM10,Isla Cedros Airport,MM10,,Isla de Cedros,MX,28.037600,-115.190002,98
+MM52,Campo Cuatro Milpas Airport,MM52,,Guasave,MX,25.652201,-108.538002,92
+MMAA,General Juan N Alvarez International Airport,MMAA,ACA,Acapulco,MX,16.757099,-99.753998,16
+MMAS,Jesus Teran International Airport,MMAS,AGU,Aguascalientes,MX,21.705601,-102.318001,6112
+MMBT,Bahías de Huatulco International Airport,MMBT,HUX,Huatulco,MX,15.775300,-96.262604,464
+MMCB,General Mariano Matamoros,MMCB,CVJ,Cuernavaca,MX,18.834764,-99.261300,4277
+MMCC,Ciudad Acuña New International Airport,MMCC,ACN,Ciudad Acuña,MX,29.332899,-101.098999,1410
+MMCE,Ciudad del Carmen International Airport,MMCE,CME,Ciudad del Carmen,MX,18.653700,-91.799004,10
+MMCL,Federal de Bachigualato International Airport,MMCL,CUL,Culiacán,MX,24.764500,-107.474998,108
+MMCM,Chetumal International Airport,MMCM,CTM,Chetumal,MX,18.504700,-88.326797,39
+MMCN,Ciudad Obregón International Airport,MMCN,CEN,Ciudad Obregón,MX,27.392599,-109.833000,243
+MMCP,Ingeniero Alberto Acuña Ongay International Airport,MMCP,CPE,Campeche,MX,19.816799,-90.500298,34
+MMCS,Abraham González International Airport,MMCS,CJS,Ciudad Juárez,MX,31.636101,-106.429001,3904
+MMCT,Chichen Itza International Airport,MMCT,CZA,"Yucatán, México",MX,20.641545,-88.449101,102
+MMCU,General Roberto Fierro Villalobos International Airport,MMCU,CUU,Chihuahua,MX,28.702900,-105.964996,4462
+MMCV,General Pedro Jose Mendez International Airport,MMCV,CVM,Ciudad Victoria,MX,23.703300,-98.956497,761
+MMCY,Captain Rogelio Castillo National Airport,MMCY,CYW,Celaya,MX,20.546000,-100.887001,5709
+MMCZ,Cozumel International Airport,MMCZ,CZM,Cozumel,MX,20.522400,-86.925598,15
+MMDA,Ciudad Constitución Airport,MMDA,CUA,Ciudad Constitución,MX,25.053801,-111.614998,213
+MMDM,Ciudad Mante National Airport,MMDM,MMC,Ciudad Mante,MX,22.743177,-99.017372,341
+MMDO,General Guadalupe Victoria International Airport,MMDO,DGO,Durango,MX,24.124201,-104.528000,6104
+MMEP,Amado Nervo National Airport,MMEP,TPQ,Tepic,MX,21.419500,-104.843002,3020
+MMGL,Don Miguel Hidalgo Y Costilla International Airport,MMGL,GDL,Guadalajara,MX,20.521799,-103.310997,5016
+MMGM,General José María Yáñez International Airport,MMGM,GYM,Guaymas,MX,27.969000,-110.925003,59
+MMGR,Guerrero Negro Airport,MMGR,GUB,Guerrero Negro,MX,28.026100,-114.024002,59
+MMHO,General Ignacio P. Garcia International Airport,MMHO,HMO,Hermosillo,MX,29.095900,-111.047997,627
+MMIA,Lic. Miguel de la Madrid Airport,MMIA,CLQ,Colima,MX,19.277000,-103.577003,2467
+MMIO,Plan De Guadalupe International Airport,MMIO,SLW,Saltillo,MX,25.549500,-100.929001,4778
+MMIT,IXTEPEC,MMIT,IZT,Ixtepec Oaxaca,MX,16.466667,-95.100000,102
+MMJA,El Lencero Airport,MMJA,JAL,Xalapa,MX,19.475100,-96.797501,3127
+MMLC,Lázaro Cárdenas Airport,MMLC,LZC,Lázaro Cárdenas,MX,18.001699,-102.221001,39
+MMLM,Valle del Fuerte International Airport,MMLM,LMM,Los Mochis,MX,25.685200,-109.081001,16
+MMLO,Del Bajío International Airport,MMLO,BJX,Silao,MX,20.993500,-101.481003,5956
+MMLP,Manuel Márquez de León International Airport,MMLP,LAP,La Paz,MX,24.072701,-110.362000,69
+MMLT,Loreto International Airport,MMLT,LTO,Loreto,MX,25.989201,-111.348000,34
+MMMA,General Servando Canales International Airport,MMMA,MAM,Matamoros,MX,25.769899,-97.525299,25
+MMMD,Licenciado Manuel Crescencio Rejon Int Airport,MMMD,MID,Mérida,MX,20.937000,-89.657700,38
+MMMG,Mulege Airport,MMMG,MUG,Mulege,MX,26.897310,-111.957550,140
+MMML,General Rodolfo Sánchez Taboada International Airport,MMML,MXL,Mexicali,MX,32.630600,-115.241997,74
+MMMM,General Francisco J. Mujica International Airport,MMMM,MLM,Morelia,MX,19.849899,-101.025002,6033
+MMMT,Minatitlán/Coatzacoalcos National Airport,MMMT,MTT,Minatitlán,MX,18.103399,-94.580704,36
+MMMX,Licenciado Benito Juarez International Airport,MMMX,MEX,Mexico City,MX,19.436300,-99.072098,7316
+MMMY,General Mariano Escobedo International Airport,MMMY,MTY,Monterrey,MX,25.778500,-100.107002,1278
+MMMZ,General Rafael Buelna International Airport,MMMZ,MZT,Mazatlán,MX,23.161400,-106.265999,38
+MMNL,Quetzalcóatl International Airport,MMNL,NLD,Nuevo Laredo,MX,27.443899,-99.570503,484
+MMOX,Xoxocotlán International Airport,MMOX,OAX,Oaxaca,MX,16.999901,-96.726601,4989
+MMPA,El Tajín National Airport,MMPA,PAZ,Poza Rica,MX,20.602699,-97.460800,497
+MMPB,Hermanos Serdán International Airport,MMPB,PBC,Puebla,MX,19.158100,-98.371399,7361
+MMPE,Puerto Peñasco International Airport,MMPE,PPE,Puerto Peñasco,MX,31.356202,-113.525677,30
+MMPG,Piedras Negras Intl,MMPG,PDS,"Piedras Negras, COA",MX,28.618333,-100.533611,901
+MMPL,Punta Colorada Airport,MMPL,PCO,La Ribera,MX,23.575011,-109.535826,55
+MMPN,Lic. Y Gen. Ignacio Lopez Rayon,MMPN,UPN,Uruapan,MX,19.396692,-102.039056,5258
+MMPQ,Aeropuerto Palenque,MMPQ,PQM,"Palenque, Chiapas",MX,17.535042,-92.015133,202
+MMPR,Licenciado Gustavo Díaz Ordaz International Airport,MMPR,PVR,Puerto Vallarta,MX,20.680099,-105.253998,23
+MMPS,Puerto Escondido International Airport,MMPS,PXM,Puerto Escondido,MX,15.876900,-97.089104,294
+MMQT,Querétaro Intercontinental Airport,MMQT,QRO,Querétaro,MX,20.617300,-100.185997,6296
+MMRX,General Lucio Blanco International Airport,MMRX,REX,Reynosa,MX,26.008900,-98.228500,139
+MMSD,Los Cabos International Airport,MMSD,SJD,San José del Cabo,MX,23.151800,-109.721001,374
+MMSL,Cabo San Lucas International Airport,MMSL,,Cabo San Lucas,MX,22.947701,-109.936996,459
+MMSM,Santa Lucia Air Force Base,MMSM,NLU,Reyes Acozac,MX,19.755301,-99.016403,7369
+MMSP,Ponciano Arriaga International Airport,MMSP,SLP,San Luis Potosí,MX,22.254299,-100.931000,6035
+MMTB,Terán Air Base,MMTB,,Tuxtla Gutiérrez,MX,16.739901,-93.173302,1909
+MMTC,Francisco Sarabia International Airport,MMTC,TRC,Torreón,MX,25.568300,-103.411003,3688
+MMTG,Angel Albino Corzo International Airport,MMTG,TGZ,Tuxtla Gutiérrez,MX,16.563601,-93.022499,1499
+MMTJ,General Abelardo L. Rodríguez International Airport,MMTJ,TIJ,Tijuana,MX,32.541100,-116.970001,489
+MMTM,General Francisco Javier Mina International Airport,MMTM,TAM,Tampico,MX,22.296400,-97.865898,80
+MMTO,Licenciado Adolfo Lopez Mateos International Airport,MMTO,TLC,Toluca,MX,19.337099,-99.566002,8466
+MMTP,Tapachula International Airport,MMTP,TAP,Tapachula,MX,14.794300,-92.370003,97
+MMUN,Cancún International Airport,MMUN,CUN,Cancún,MX,21.036501,-86.877098,22
+MMVA,Carlos Rovirosa Pérez International Airport,MMVA,VSA,Villahermosa,MX,17.997000,-92.817398,46
+MMVR,General Heriberto Jara International Airport,MMVR,VER,Veracruz,MX,19.145901,-96.187302,90
+MMZC,General Leobardo C. Ruiz International Airport,MMZC,ZCL,Zacatecas,MX,22.897100,-102.686996,7141
+MMZH,Ixtapa Zihuatanejo International Airport,MMZH,ZIH,Ixtapa,MX,17.601601,-101.460999,26
+MMZO,Playa De Oro International Airport,MMZO,ZLO,Manzanillo,MX,19.144800,-104.558998,30

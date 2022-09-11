@@ -1,0 +1,120 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LIAF,Foligno Airport,LIAF,,Foligno,IT,42.932800,12.710100,730
+LIAP,L'Aquila / Preturo Airport,LIAP,QAQ,L'Aquila,IT,42.379902,13.309200,2211
+LIAQ,Aquino Airport,LIAQ,,Aquino,IT,41.486301,13.718800,361
+LIAU,Capua Airport,LIAU,,Capua,IT,41.116001,14.178000,64
+LIBA,Amendola Airport,LIBA,,Foggia,IT,41.541401,15.718100,183
+LIBC,Crotone Airport,LIBC,CRV,Crotone,IT,38.997200,17.080200,522
+LIBD,Bari / Palese International Airport,LIBD,BRI,Bari,IT,41.138901,16.760599,177
+LIBF,Foggia / Gino Lisa Airport,LIBF,FOG,Foggia,IT,41.432899,15.535000,265
+LIBG,Taranto / Grottaglie Airport,LIBG,TAR,Grottaglie,IT,40.517502,17.403200,215
+LIBP,Pescara International Airport,LIBP,PSR,Pescara,IT,42.431702,14.181100,48
+LIBR,Brindisi / Casale Airport,LIBR,BDS,Brindisi,IT,40.657600,17.947001,47
+LIBV,Gioia Del Colle Airport,LIBV,,Gioia Del Colle,IT,40.767799,16.933300,1187
+LIBX,Martina Franca Air Force Base,LIBX,,Martina Franca,IT,40.700001,17.333000,1467
+LICA,Lamezia Terme Airport,LICA,SUF,Lamezia Terme,IT,38.905399,16.242300,39
+LICB,Comiso Airport Vincenzo Magliocco,LICB,CIY,Comiso,IT,36.994601,14.607182,623
+LICC,Catania / Fontanarossa Airport,LICC,CTA,Catania,IT,37.466801,15.066400,39
+LICD,Lampedusa Airport,LICD,LMP,Lampedusa,IT,35.497898,12.618100,70
+LICG,Pantelleria Airport,LICG,PNL,Pantelleria,IT,36.816502,11.968900,628
+LICJ,Palermo / Punta Raisi Airport,LICJ,PMO,Palermo,IT,38.175999,13.091000,65
+LICL,Aviosuperficie Airone,LICL,,Gela,IT,37.113977,14.214206,82
+LICP,Palermo / Bocca Di Falco Airport,LICP,,Palermo,IT,38.110802,13.313300,345
+LICR,Reggio Calabria Airport,LICR,REG,Reggio Calabria,IT,38.071201,15.651600,96
+LICT,Trapani / Birgi Airport,LICT,TPS,Trapani,IT,37.911400,12.488000,25
+LICZ,Sigonella,LICZ,NSY,Sigonella,IT,37.401664,14.922358,79
+LIDA,Asiago Airport,LIDA,,Vicenza,IT,45.886902,11.516900,3409
+LIDB,Belluno Airport,LIDB,BLX,Belluno,IT,46.167500,12.247900,1240
+LIDC,Cà Negra Airport,LIDC,,Cà Negra,IT,45.083000,12.150000,1
+LIDE,Reggio Emilia Airport,LIDE,,Reggio Emilia,IT,44.698299,10.662800,152
+LIDF,Fano Airport,LIDF,,Fano,IT,43.826000,13.027500,54
+LIDG,Lugo Di Romagna Airport,LIDG,,Lugo,IT,44.398201,11.854800,62
+LIDH,Thiene Airport,LIDH,,Vicenza,IT,45.675701,11.496500,335
+LIDI,Cortina Airport,LIDI,CDF,Cortina D'Ampezzo,IT,46.573002,12.118000,4213
+LIDL,Legnago Airport,LIDL,,Legnago,IT,45.133202,11.292200,30
+LIDM,Mantova Airport,LIDM,,Mantova,IT,45.135834,10.794444,57
+LIDP,Pavullo Airport,LIDP,,Pavullo,IT,44.322399,10.831700,2244
+LIDR,Ravenna Airport,LIDR,RAN,Ravenna,IT,44.364300,12.224900,1
+LIDT,Trento / Mattarello Airport,LIDT,,Trento,IT,46.021400,11.124200,610
+LIDU,Carpi / Budrione Airport,LIDU,,Modena,IT,44.835201,10.871600,69
+LIDV,Prati Vecchi D'Aguscello Airport,LIDV,,Ferrara,IT,44.790298,11.669200,20
+LIDW,Salgareda Carrer Airport,LIDW,,Salgareda,IT,45.699200,12.543100,7
+LIEA,Alghero / Fertilia Airport,LIEA,AHO,Alghero,IT,40.632099,8.290770,87
+LIED,Decimomannu Airport,LIED,DCI,Decimomannu,IT,39.354198,8.972480,100
+LIEE,Cagliari / Elmas Airport,LIEE,CAG,Cagliari,IT,39.251499,9.054280,13
+LIEO,Olbia / Costa Smeralda Airport,LIEO,OLB,Olbia,IT,40.898701,9.517630,37
+LIER,Oristano / Fenosu Airport,LIER,FNU,Oristano,IT,39.894299,8.640400,36
+LIET,Tortoli' / Arbatax Airport,LIET,TTB,Arbatax,IT,39.918800,9.682980,23
+LILA,Alessandria Airport,LILA,,Alessandria,IT,44.925201,8.625130,299
+LILB,Alzate Brianza Airport,LILB,,Como,IT,45.770199,9.160720,1260
+LILC,Calcinate Del Pesce Airport,LILC,,Varese,IT,45.809700,8.768060,797
+LILE,Biella / Cerrione Airport,LILE,,Biella,IT,45.495300,8.102780,920
+LILG,Vergiate Airport,LILG,,Milano,IT,45.713200,8.699120,863
+LILH,Voghera-Rivanazzano Airport,LILH,,Voghera,IT,44.952000,9.016530,423
+LILI,Vercelli Airport,LILI,,Vercelli,IT,45.311199,8.417420,417
+LILM,Casale Monferrato Airport,LILM,,Casale Monferrato,IT,45.111198,8.456030,377
+LILN,Varese / Venegono Airport,LILN,QVA,Varese,IT,45.742199,8.888230,1050
+LILO,Sondrio Caiolo Airport,LILO,,Caiolo,IT,46.154202,9.798060,899
+LILQ,Massa Cinquale Airport,LILQ,QMM,Marina Di Massa,IT,43.986000,10.142800,13
+LILR,Cremona / Migliaro Airport,LILR,,Cremona,IT,45.167400,10.001900,161
+LILS,Clusone Heliport,LILS,,Clusone,IT,45.883888,9.966389,1900
+LILV,Valbrembo Airport,LILV,,Bergamo,IT,45.720798,9.593470,745
+LILY,Como (Idroscalo - Water Ad) Hidroport,LILY,,Como,IT,45.814701,9.069720,663
+LIMA,Torino / Aeritalia Airport,LIMA,,Torino,IT,45.086399,7.603370,943
+LIMB,Milano / Bresso Airport,LIMB,,Milano,IT,45.542198,9.203330,484
+LIMC,Malpensa International Airport,LIMC,MXP,Milan,IT,45.630600,8.728110,768
+LIME,Bergamo / Orio Al Serio Airport,LIME,BGY,Bergamo,IT,45.673901,9.704170,782
+LIMF,Torino / Caselle International Airport,LIMF,TRN,Torino,IT,45.200802,7.649630,989
+LIMG,Villanova D'Albenga International Airport,LIMG,ALL,Albenga,IT,44.050598,8.127430,148
+LIMJ,Genova / Sestri Cristoforo Colombo Airport,LIMJ,GOA,Genova,IT,44.413300,8.837500,13
+LIML,Linate Airport,LIML,LIN,Milan,IT,45.445099,9.276740,353
+LIMN,Cameri Airport [MIL],LIMN,,Cameri (NO),IT,45.529598,8.669220,586
+LIMP,Parma Airport,LIMP,PMF,Parma,IT,44.824501,10.296400,161
+LIMR,Novi Ligure Airport,LIMR,,Novi Ligure,IT,44.779999,8.786390,607
+LIMS,Piacenza Airport,LIMS,QPZ,Piacenza,IT,44.913101,9.723330,456
+LIMW,Aosta Airport,LIMW,AOT,Aosta,IT,45.738499,7.368720,1791
+LIMZ,Cuneo / Levaldigi Airport,LIMZ,CUF,Cuneo,IT,44.547001,7.623220,1267
+LINL,Lecce / Lepore Airport,LINL,,Lecce,IT,40.357601,18.293900,59
+LIPA,Aviano Air Base,LIPA,AVB,Aviano,IT,46.031898,12.596500,410
+LIPB,Bolzano Airport,LIPB,BZO,Bolzano,IT,46.460201,11.326400,789
+LIPC,Cervia Air Force Base,LIPC,,Cervia,IT,44.224201,12.307200,18
+LIPD,Udine / Campoformido Air Base,LIPD,UDN,Udine,IT,46.032200,13.186800,305
+LIPE,Bologna / Borgo Panigale Airport,LIPE,BLQ,Bologna,IT,44.535400,11.288700,123
+LIPF,Ferrara Airport,LIPF,,Ferrara,IT,44.816002,11.613400,20
+LIPG,Gorizia Airport,LIPG,,Gorizia,IT,45.906898,13.599300,207
+LIPH,Treviso / Sant'Angelo Airport,LIPH,TSF,Treviso,IT,45.648399,12.194400,59
+LIPI,Rivolto Air Base,LIPI,,Codroipo,IT,45.978699,13.049300,179
+LIPK,Forlì Airport,LIPK,FRL,Forlì,IT,44.194801,12.070100,97
+LIPL,Ghedi Airport,LIPL,,Ghedi,IT,45.432201,10.267700,333
+LIPM,Modena / Marzaglia Airport,LIPM,,Modena,IT,44.634899,10.810200,184
+LIPN,Verona / Boscomantico Airport,LIPN,,Verona,IT,45.472000,10.927900,286
+LIPO,Brescia / Montichiari Airport,LIPO,VBS,Brescia,IT,45.428902,10.330600,355
+LIPQ,Trieste / Ronchi Dei Legionari,LIPQ,TRS,Trieste,IT,45.827499,13.472200,39
+LIPR,Rimini / Miramare - Federico Fellini International Airport,LIPR,RMI,Rimini,IT,44.020302,12.611700,40
+LIPS,Istrana Airport,LIPS,,Istrana,IT,45.684898,12.082900,137
+LIPT,Vicenza Airport,LIPT,VIC,Vicenza,IT,45.573399,11.529500,128
+LIPU,Padova Airport,LIPU,QPA,Padova,IT,45.395802,11.847900,44
+LIPV,Venezia / Lido - San Nicolo Airport,LIPV,,Venezia,IT,45.428299,12.388100,13
+LIPX,Verona / Villafranca Airport,LIPX,VRN,Verona,IT,45.395699,10.888500,239
+LIPY,Ancona / Falconara Airport,LIPY,AOI,Ancona,IT,43.616299,13.362300,49
+LIPZ,Venezia / Tessera -  Marco Polo Airport,LIPZ,VCE,Venezia,IT,45.505299,12.351900,7
+LIQB,Arezzo Airport,LIQB,QZO,Arezzo,IT,43.455898,11.847000,814
+LIQL,Lucca / Tassignano Airport,LIQL,LCV,Lucca,IT,43.828201,10.578100,39
+LIQN,Rieti Airport,LIQN,QRT,Rieti,IT,42.427200,12.851700,1278
+LIQS,Siena / Ampugnano Airport,LIQS,SAY,Siena,IT,43.256302,11.255000,634
+LIQW,Sarzana / Luni Airport,LIQW,QLP,Sarzana,IT,44.088001,9.987950,45
+LIRA,Ciampino Airport,LIRA,CIA,Roma,IT,41.799400,12.594900,427
+LIRE,Pratica Di Mare Airport,LIRE,,Pomezia,IT,41.654499,12.445200,41
+LIRF,Leonardo Da Vinci (Fiumicino) International Airport,LIRF,FCO,Rome,IT,41.804501,12.250800,15
+LIRG,Guidonia Airport,LIRG,,Guidonia,IT,41.990299,12.740800,289
+LIRI,Salerno / Pontecagnano Airport,LIRI,QSR,Salerno,IT,40.620399,14.911300,119
+LIRJ,Marina Di Campo Airport,LIRJ,EBA,Marina  Di Campo,IT,42.760300,10.239400,31
+LIRL,Latina Airport,LIRL,QLT,Latina,IT,41.542400,12.909000,94
+LIRM,Grazzanise Airport,LIRM,,Caserta,IT,41.060799,14.081900,29
+LIRN,Napoli / Capodichino International Airport,LIRN,NAP,Napoli,IT,40.886002,14.290800,294
+LIRP,Pisa / San Giusto - Galileo Galilei International Airport,LIRP,PSA,Pisa,IT,43.683899,10.392700,6
+LIRQ,Firenze / Peretola Airport,LIRQ,FLR,Firenze,IT,43.810001,11.205100,142
+LIRS,Grosseto Airport,LIRS,GRS,Grosetto,IT,42.759701,11.071900,17
+LIRU,Urbe Airport,LIRU,,Roma,IT,41.951900,12.498900,55
+LIRV,Viterbo Airport,LIRV,,Viterbo,IT,42.430199,12.064200,992
+LIRZ,Perugia / San Egidio Airport,LIRZ,PEG,Perugia,IT,43.095901,12.513200,697

@@ -1,0 +1,13 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+511050,ES-ANS,C172,Cessna,172R Skyhawk,Cessna 172R Skyhawk,1,Private,,17280581,
+511052,ES-ECG,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,F172-0873,
+51111D,ES-SAZ,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines Estonia,MYX,3308,2007
+51112E,ES-NSE,SB20,SAAB,2000,Saab 2000,0,NyxAir,NYX,2000-013,1995
+511142,ES-TWN,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.155,
+511147,ES-NSI,SB20,Saab,2000,Saab 2000,0,NyxAir,NYX,2000-043,1997
+511153,ES-SAY,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines Estonia,MYX,2689,2006
+511154,ES-SAX,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Airlines,ART,3954,2009
+511156,ES-SAD,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Airlines Estonia,MYX,5931,2013
+511158,ES-SAA,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Airlines,ART,3631,2008
+511159,ES-NSK,SF34,SAAB,340B,SAAB 340B,0,NyxAir,NYX,340B-169,
+51115D,ES-NSL,SF34,SAAB,340B,SAAB 340B,0,NyxAir,NYX,340B-162,

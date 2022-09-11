@@ -1,0 +1,180 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SLAB,Abopo Airport,SLAB,,Cordillera,BO,-18.632000,-62.939201,2752
+SLAG,Monteagudo Airport,SLAG,MHW,El Bañado,BO,-19.827000,-63.960999,3674
+SLAM,Arampampa Airport,SLAM,,Gral. Ballivian,BO,-17.883333,-66.099998,10250
+SLAN,Angora Airport,SLAN,,Ballivian,BO,-14.432300,-65.768799,731
+SLAP,Apolo Airport,SLAP,APB,Apolo,BO,-14.735600,-68.411903,4639
+SLAQ,Aiquile Airport,SLAQ,,Campero,BO,-18.215401,-65.187798,7208
+SLAS,Ascención De Guarayos Airport,SLAS,ASC,Ascensión de Guarayos,BO,-15.930300,-63.156700,807
+SLBB,Bulo Bulo Airport,SLBB,,Carrasco,BO,-17.257334,-64.366669,886
+SLBF,Blanca Flor Airport,SLBF,,Madre De Dios,BO,-11.783334,-66.883331,656
+SLBH,Buena Hora Airport,SLBH,,Ballivian,BO,-12.133333,-66.533333,656
+SLBJ,Bermejo Airport,SLBJ,BJO,Bermejo,BO,-22.773300,-64.312897,1249
+SLBN,Bella Unión Airport,SLBN,,Mamoré,BO,-13.633333,-65.283333,722
+SLBR,Buen Retiro Itenez Airport,SLBR,,Itenes,BO,-13.416667,-63.483334,774
+SLBS,Bella Vista Itenez Airport,SLBS,,Itenes,BO,-14.267700,-64.299004,774
+SLBT,Buen Retiro Ballivian Airport,SLBT,,Ballivian,BO,-13.900000,-66.550003,886
+SLBV,Villa Vista Montano Airport,SLBV,,De Montaño,BO,-13.850000,-66.366669,519
+SLCA,Camiri Airport,SLCA,CAM,Camiri,BO,-20.006399,-63.527802,2614
+SLCB,Jorge Wilsterman International Airport,SLCB,CBB,Cochabamba,BO,-17.421101,-66.177101,8360
+SLCC,Copacabana Airport,SLCC,,Copacabana,BO,-16.191099,-69.095596,12591
+SLCD,Cañada Airport,SLCD,,Gutierrez,BO,-20.025400,-63.089100,1954
+SLCE,Cabezas Airport,SLCE,,Cordillera,BO,-18.795401,-63.300301,1328
+SLCG,Charagua Airport,SLCG,,Cordillera,BO,-19.785601,-63.188400,2040
+SLCH,Chimore Airport,SLCH,,Chimore,BO,-16.990019,-65.141502,875
+SLCI,Caigua Airport,SLCI,,Gran Chaco,BO,-21.166666,-63.633335,1440
+SLCL,Collpani Airport,SLCL,,Abaroa,BO,-18.891666,-66.783333,12185
+SLCM,Camiare Airport,SLCM,,Yacuma,BO,-14.074333,-65.650330,550
+SLCN,Charaña Airport,SLCN,,Charaña,BO,-17.594700,-69.433098,13339
+SLCO,Capitán Aníbal Arab Airport,SLCO,CIJ,Cobija,BO,-11.040400,-68.782997,889
+SLCP,Concepción Airport,SLCP,CEP,Concepción,BO,-16.138300,-62.028599,1620
+SLCR,Comarapa Airport,SLCR,,M. Caballero,BO,-17.913601,-64.517799,6186
+SLCS,Cerdas Airport,SLCS,,Nor Lipez,BO,-20.808333,-66.401111,12640
+SLCT,"Choreti, Bolivia, South America Airport",SLCT,,Mamore,BO,-13.514500,-64.965202,656
+SLCU,Culpina Airport,SLCU,,Sud Cinti,BO,-20.833334,-64.966667,9676
+SLCV,Cavinas Airport,SLCV,,Ballivian,BO,-12.549800,-66.912498,656
+SLCX,Chive Airport,SLCX,,Iturralde,BO,-12.377833,-68.567665,618
+SLCY,Collpa Airport,SLCY,,A. Ibañez,BO,-17.565001,-63.174702,1170
+SLDA,Caranda Airport,SLDA,,Ichilo,BO,-17.516666,-63.516666,1082
+SLDN,El Desengano Airport,SLDN,,Yacuma,BO,-14.273600,-65.440002,730
+SLEA,El Cocal Airport,SLEA,,Yacuma,BO,-13.559400,-66.079002,722
+SLEC,El Cairo Airport,SLEC,,Yacuma,BO,-13.783334,-66.400002,722
+SLEE,El Escondido Airport,SLEE,,Tesoro,BO,-21.466999,-63.352798,1246
+SLEF,El Triunfo Airport,SLEF,,Yacuma,BO,-13.883333,-65.766670,486
+SLEH,El Rancho Airport,SLEH,,Mamore,BO,-13.050000,-65.033333,722
+SLEI,Espino Airport,SLEI,,Cordillera,BO,-19.299900,-63.209000,2313
+SLEK,El Condor Airport,SLEK,,Tesoro,BO,-21.700834,-63.456833,1734
+SLEO,El Paraiso Airport,SLEO,,Yacuma,BO,-14.383333,-65.849998,722
+SLEP,El Peru Airport,SLEP,,Yacuma,BO,-14.604667,-65.618332,528
+SLER,Cerrillos Airport,SLER,,Hernando Siles,BO,-20.016666,-64.033333,3300
+SLES,Estalsa Airport,SLES,,Poopo,BO,-18.450001,-66.916664,12460
+SLET,El Trompillo Airport,SLET,SRZ,Santa Cruz,BO,-17.811600,-63.171501,1371
+SLEV,El Salvador Airport,SLEV,,Ballivian,BO,-14.498300,-66.762901,574
+SLEZ,La Esperanza Airport,SLEZ,,Moxos,BO,-14.766666,-65.533333,1100
+SLFA,Fatima Airport,SLFA,,Ballivian,BO,-15.333333,-66.800003,1000
+SLFL,Florida Airport,SLFL,,Moira,BO,-14.614166,-61.197498,600
+SLFO,Flor De Oro Airport,SLFO,,Moxos,BO,-13.554800,-61.004101,560
+SLFR,Florencia Airport,SLFR,,Moxos,BO,-15.683333,-65.566666,574
+SLGP,Guirapembi Airport,SLGP,,Cordillera,BO,-18.056000,-63.163166,1493
+SLGY,Capitán de Av. Emilio Beltrán Airport,SLGY,GYA,Guayaramerín,BO,-10.820600,-65.345596,557
+SLHA,Cachascani Airport,SLHA,,Itenes,BO,-13.500000,-64.199997,722
+SLHC,Huacareta Airport,SLHC,,H. Silez,BO,-20.390800,-64.015404,4668
+SLHJ,Huacaraje Airport,SLHJ,BVK,Itenes,BO,-13.550000,-63.747898,846
+SLHS,Chacobos Airport,SLHS,,Parapeti,BO,-19.594801,-62.565701,1437
+SLHT,Transierra Helipuerto,SLHT,,Transierra Natural Gas Co.,BO,-21.338500,-63.479000,1486
+SLIG,Inglaterra Airport,SLIG,,Ballivian,BO,-13.443800,-66.505997,780
+SLIN,Santa Catalina Airport,SLIN,,Moxos,BO,-15.500000,-65.916664,722
+SLIP,Samaipata Airport,SLIP,,Florida,BO,-18.183332,-63.883335,5600
+SLIR,Ibori Airport,SLIR,,Itenes,BO,-13.050000,-63.666668,775
+SLIT,Itaguazurenda Airport,SLIT,,Cordillera,BO,-19.777500,-63.087799,1598
+SLIX,Ixiamas Airport,SLIX,,Iturralde,BO,-13.760000,-68.136833,725
+SLIY,Intiraymi Airport,SLIY,,La Joya,BO,-17.808332,-67.443336,12467
+SLIZ,Izozog Airport,SLIZ,,Cordillera,BO,-18.663834,-63.002335,1082
+SLJA,Jatata Airport,SLJA,,Madre De Dios,BO,-11.772833,-67.255997,575
+SLJE,San José De Chiquitos Airport,SLJE,SJS,San José de Chiquitos,BO,-17.830799,-60.743099,974
+SLJN,San Juan Estancias Airport,SLJN,,Cercado,BO,-14.166667,-64.766670,820
+SLJO,San Joaquín Airport,SLJO,SJB,San Joaquín,BO,-13.052800,-64.661697,456
+SLJS,Josuani Airport,SLJS,,Yacuma,BO,-13.083333,-66.166664,498
+SLJV,San Javier Airport,SLJV,SJV,San Javier,BO,-16.270800,-62.470299,1702
+SLLB,Las Brizas Airport,SLLB,,Yacuma,BO,-14.516666,-65.766670,722
+SLLH,Lago Huachi Airport,SLLH,,Itenes,BO,-14.016666,-63.533333,700
+SLLI,La India Airport,SLLI,,Ballivian,BO,-13.573833,-66.835670,540
+SLLJ,Laja Airport,SLLJ,,Los Andes,BO,-16.533899,-68.300598,12103
+SLLL,Laguna Loa Airport,SLLL,,Ballivian,BO,-14.300000,-66.783333,720
+SLLP,El Alto International Airport,SLLP,LPB,La Paz / El Alto,BO,-16.513300,-68.192299,13355
+SLLQ,Copaquilla Airport,SLLQ,,L. Cabrera,BO,-19.333334,-67.083336,12150
+SLLS,Lagunillas Airport,SLLS,,Caraparicito,BO,-19.600000,-63.650002,2950
+SLLZ,San Lorenzo Airport,SLLZ,,Moxos,BO,-15.383333,-65.750000,825
+SLMB,Mangabalito Airport,SLMB,,Velasco,BO,-13.787833,-68.354668,1190
+SLMD,Madidi Airport,SLMD,,Iturralde,BO,-13.383333,-68.650002,500
+SLME,Mandeyepecua Airport,SLME,,Cordillera,BO,-20.398001,-63.140499,1338
+SLMG,Magdalena Airport,SLMG,MGD,Magdalena,BO,-13.260748,-64.060764,462
+SLMM,Mora Airport,SLMM,,Velasco,BO,-14.608500,-61.191833,600
+SLMN,Manuripi Airport,SLMN,,Manuripi,BO,-11.738500,-68.354668,705
+SLMX,Monos Araña Airport,SLMX,,Valle Grande,BO,-17.333334,-64.166664,1220
+SLMZ,Mizque Airport,SLMZ,,Mizque,BO,-17.931000,-65.380203,7030
+SLNL,Cañada Larga Airport,SLNL,,Chiquitos,BO,-17.700001,-62.416668,1197
+SLNO,Nuevo Mundo Airport,SLNO,,Yacuma,BO,-14.433333,-66.066666,548
+SLNV,Nieve Airport,SLNV,,Yacuma,BO,-14.016666,-65.800003,780
+SLOR,Juan Mendoza Airport,SLOR,ORU,Oruro,BO,-17.962601,-67.076202,12152
+SLPA,Palmar Airport,SLPA,,Guanacos,BO,-18.971666,-62.975334,1342
+SLPF,Piso Firme Airport,SLPF,,Velasco,BO,-13.628834,-61.738667,575
+SLPG,Progreso Airport,SLPG,,Moxos,BO,-14.178400,-65.375603,754
+SLPI,Pitai Airport,SLPI,,Moxos,BO,-15.800000,-65.616669,605
+SLPL,Padilla Airport,SLPL,,J. Mendoza,BO,-19.299400,-64.294098,6770
+SLPM,Palmira Airport,SLPM,,Yacuma,BO,-13.731500,-66.478333,530
+SLPN,Porvenir Norte Airport,SLPN,,Velasco,BO,-13.987333,-61.545666,595
+SLPO,Capitan Nicolas Rojas Airport,SLPO,POI,Potosí,BO,-19.543100,-65.723701,12913
+SLPR,Puerto Rico Airport,SLPR,PUR,Puerto Rico/Manuripi,BO,-11.107663,-67.551155,597
+SLPS,Capitán Av. Salvador Ogaya G. airport,SLPS,PSZ,Puerto Suárez,BO,-18.975300,-57.820599,505
+SLPW,El Porvenir Sur Airport,SLPW,,Luis Calvo,BO,-20.754700,-63.209400,2238
+SLPY,Piray Airport,SLPY,,Sanja Honda,BO,-18.333500,-63.192501,1730
+SLQN,Coquinal Airport,SLQN,,Ballivian,BO,-13.183333,-67.000000,535
+SLRA,San Ramón Airport,SLRA,SRD,San Ramón / Mamoré,BO,-13.263900,-64.603897,698
+SLRB,Roboré Airport,SLRB,RBO,Roboré,BO,-18.329201,-59.764999,905
+SLRF,Refugio Airport,SLRF,,Velasco,BO,-14.762700,-61.032001,610
+SLRH,Rancho Alegre Airport,SLRH,,Yacuma,BO,-12.166667,-65.783333,754
+SLRI,Capitán Av. Selin Zeitun Lopez Airport,SLRI,RIB,Riberalta,BO,-11.000000,-66.000000,462
+SLRL,Rosal Airport,SLRL,,Yacuma,BO,-13.975000,-65.625000,482
+SLRP,Rosapata Airport,SLRP,,Carangas,BO,-18.641666,-67.558334,12240
+SLRR,Retiro Airport,SLRR,,Yacuma,BO,-14.483334,-66.349998,556
+SLRS,Rio Seco Airport,SLRS,,Campo Ingelmeco,BO,-18.200834,-63.256001,1836
+SLRT,Santa Rita Airport,SLRT,,Yacuma,BO,-13.933333,-66.333336,750
+SLRX,Rincon Del Tigre Airport,SLRX,,German Busch,BO,-18.200834,-58.169998,664
+SLRY,Reyes Airport,SLRY,REY,Reyes,BO,-14.304400,-67.353401,935
+SLSA,Santa Ana Del Yacuma Airport,SLSA,SBL,Santa Ana del Yacuma,BO,-13.762200,-65.435204,472
+SLSB,Capitán Av. German Quiroga G. Airport,SLSB,SRJ,San Borja,BO,-14.859200,-66.737503,633
+SLSD,San Carlos Gutierrez Airport,SLSD,,Yacuma,BO,-14.561100,-65.527199,1820
+SLSE,Santa Teresita Airport,SLSE,,Angel Sandoval,BO,-16.285000,-59.495167,756
+SLSF,San Francisco Moxos Airport,SLSF,,Beni,BO,-14.966666,-65.633331,722
+SLSG,San Miguel De Gaser Airport,SLSG,,Yacuma,BO,-13.902100,-66.156700,700
+SLSH,Santa Ana De Huachi Airport,SLSH,,Sud Yungas,BO,-15.483334,-67.483330,1640
+SLSI,Capitán Av. Juan Cochamanidis S. Airport,SLSI,SNG,San Ignacio de Velasco,BO,-16.383600,-60.962799,1354
+SLSJ,Salinas Airport,SLSJ,,Ladislao Cabrera,BO,-19.500000,-67.333336,12027
+SLSK,Santa Rosa Del Sara Airport,SLSK,,A. Ibañez,BO,-17.100000,-63.633335,850
+SLSM,San Ignacio de Moxos Airport,SLSM,SNM,San Ignacio de Moxos,BO,-14.000000,-65.633904,790
+SLSN,Sanandita Airport,SLSN,,Gran Chaco,BO,-21.650000,-63.599998,3200
+SLSP,Sipuati Airport,SLSP,,Gran Chaco,BO,-21.073500,-63.109501,1400
+SLSQ,Santiago De Chiquitos Airport,SLSQ,,Santiago de Chiquitos,BO,-18.345800,-59.604801,1990
+SLSR,Santa Rosa De Yacuma Airport,SLSR,SRB,Santa Rosa,BO,-14.066200,-66.786797,738
+SLSS,Saipiru Airport,SLSS,,Cordillera,BO,-19.391199,-63.072102,2039
+SLSU,Juana Azurduy De Padilla Airport,SLSU,SRE,Sucre,BO,-19.007099,-65.288696,9540
+SLTA,Taquipirenda Airport,SLTA,,Cordillera,BO,-20.343300,-63.139400,2340
+SLTC,Tres Cruces Airport,SLTC,,Chiquitos,BO,-17.431667,-62.105167,880
+SLTE,Teoponte Airport,SLTE,,Larecaja,BO,-15.498333,-67.816666,1400
+SLTG,Santiago Airport,SLTG,,Moxos,BO,-15.227800,-65.450104,1000
+SLTI,San Matías Airport,SLTI,MQK,San Matías,BO,-16.339199,-58.401901,403
+SLTJ,Capitan Oriel Lea Plaza Airport,SLTJ,TJA,Tarija,BO,-21.555700,-64.701302,6079
+SLTL,Toldos Airport,SLTL,,Nor Lipez,BO,-21.168600,-67.178902,11800
+SLTO,Totora Airport,SLTO,,Oruro,BO,-17.798166,-68.093498,12530
+SLTR,Teniente Av. Jorge Henrich Arauz Airport,SLTR,TDD,Trinidad,BO,-14.818700,-64.917999,509
+SLTU,Turco Airport,SLTU,,Sajama,BO,-18.195833,-68.141998,12500
+SLTW,Tita Airport,SLTW,,San Rafael,BO,-18.466400,-62.112000,1312
+SLTX,Tuichi Airport,SLTX,,Franz Tamayo,BO,-14.316667,-68.583336,2360
+SLTY,Tiguipa Airport,SLTY,,Yacuma,BO,-13.800000,-66.233330,722
+SLTZ,Tupiza Airport,SLTZ,,Sud Chichas,BO,-21.344700,-65.615601,11300
+SLUC,Cuevo Airport,SLUC,,Cordillera,BO,-20.480499,-63.528168,3440
+SLUK,Curahuara de Carangas Airport,SLUK,,Oruro,BO,-17.985800,-68.394302,12920
+SLUS,Urusi Airport,SLUS,,Ballivian,BO,-14.316667,-66.166664,805
+SLUU,Ulla Ulla Airport,SLUU,,Franz Tamayo,BO,-15.033334,-69.250000,14360
+SLUY,Uyuni Airport,SLUY,UYU,Quijarro,BO,-20.446301,-66.848396,11136
+SLVA,Villa Aroma Airport,SLVA,,Aroma,BO,-17.366667,-67.750000,12533
+SLVD,Covendo Airport,SLVD,,Sud Yungas,BO,-15.833333,-67.083336,4887
+SLVE,Venecia Airport,SLVE,,Yacuma,BO,-14.636000,-66.750298,722
+SLVG,Capitán Av. Vidal Villagomez Toledo Airport,SLVG,VAH,Vallegrande,BO,-18.482500,-64.099403,6551
+SLVI,Caranavi Airport,SLVI,,Nor Yungas,BO,-15.750000,-67.566666,2100
+SLVM,Teniente Coronel Rafael Pabón Airport,SLVM,VLM,Villamontes,BO,-21.255199,-63.405602,1305
+SLVN,Villa Negrita Airport,SLVN,,Yacuma,BO,-13.265800,-65.875801,872
+SLVR,Viru Viru International Airport,SLVR,VVI,Santa Cruz,BO,-17.644800,-63.135399,1224
+SLVT,Tesoro/La Vertiente Airport,SLVT,,Tesoro,BO,-21.266666,-63.358334,1300
+SLVU,Vuelta Grande Airport,SLVU,,Luis Calvo,BO,-20.904833,-63.192165,1900
+SLVV,Villa Elvira Airport,SLVV,,Mamore,BO,-13.644300,-64.440804,722
+SLVZ,Villazon Airport,SLVZ,,M.Omiste,BO,-22.077700,-65.588898,1100
+SLYA,Yacuiba Airport,SLYA,BYC,Yacuíba,BO,-21.960899,-63.651699,2112
+SLYG,Yabog Airport,SLYG,,Las Juntas,BO,-18.654499,-63.132801,1412
+SLYI,Yapacani Airport,SLYI,,Ichilo,BO,-17.015667,-64.056335,816
+SLZB,San Pedro Rb Airport,SLZB,,Moxos,BO,-14.866667,-65.650002,720
+SLZC,San Carlos Airport,SLZC,,Ichilo,BO,-17.433332,-63.683334,1150
+SLZF,San Francisco Naciff Airport,SLZF,,Nacif,BO,-13.748600,-64.453697,482
+SLZJ,San Pedro Richard Airport,SLZJ,,Itenes,BO,-14.216666,-63.650002,700
+SLZV,San Vicente Airport,SLZV,,Velasco,BO,-16.273701,-60.090698,1000

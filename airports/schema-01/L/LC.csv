@@ -1,0 +1,5 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LCEN,Ercan International Airport,LCEN,ECN,Nicosia,CY,35.154701,33.496101,404
+LCLK,Larnaca International Airport,LCLK,LCA,Larnarca,CY,34.875099,33.624901,8
+LCPH,Paphos International Airport,LCPH,PFO,Paphos,CY,34.717999,32.485699,41
+LCRA,Akrotiri,LCRA,AKT,Akrotiri,CY,34.590416,32.987861,76

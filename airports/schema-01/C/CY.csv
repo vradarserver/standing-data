@@ -1,0 +1,360 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CYAC,Cat Lake Airport,CYAC,YAC,Cat Lake,CA,51.727200,-91.824402,1344
+CYAD,La Grande-3 Airport,CYAD,YAR,La Grande-3,CA,53.571701,-76.196404,775
+CYAG,Fort Frances Municipal Airport,CYAG,YAG,Fort Frances,CA,48.654202,-93.439697,1125
+CYAH,La Grande-4 Airport,CYAH,YAH,La Grande-4,CA,53.754700,-73.675301,1005
+CYAL,Alert Bay Airport,CYAL,YAL,Alert Bay,CA,50.582199,-126.916000,240
+CYAM,Sault Ste Marie Airport,CYAM,YAM,Sault Ste Marie,CA,46.485001,-84.509399,630
+CYAQ,Kasabonika Airport,CYAQ,XKS,Kasabonika,CA,53.524700,-88.642799,672
+CYAS,Kangirsuk Airport,CYAS,YKG,Kangirsuk,CA,60.027199,-69.999199,403
+CYAT,Attawapiskat Airport,CYAT,YAT,Attawapiskat,CA,52.927502,-82.431900,31
+CYAU,Liverpool South Shore Regional Airport,CYAU,,Liverpool,CA,44.230301,-64.856102,321
+CYAV,Winnipeg / St. Andrews Airport,CYAV,,Winnipeg,CA,50.056400,-97.032501,760
+CYAW,Halifax / CFB Shearwater Heliport,CYAW,YAW,Halifax,CA,44.639702,-63.499401,144
+CYAX,Lac Du Bonnet Airport,CYAX,,Lac Du Bonnet,CA,50.294399,-96.010002,850
+CYAY,St. Anthony Airport,CYAY,YAY,St. Anthony,CA,51.391899,-56.083099,108
+CYAZ,Tofino / Long Beach Airport,CYAZ,YAZ,Tofino,CA,49.079826,-125.775604,80
+CYBA,Banff Airport,CYBA,YBA,Banff,CA,51.207340,-115.541861,4583
+CYBB,Kugaaruk Airport,CYBB,YBB,Kugaaruk,CA,68.534401,-89.808098,56
+CYBC,Baie Comeau Airport,CYBC,YBC,Baie-Comeau,CA,49.132500,-68.204399,71
+CYBD,Bella Coola Airport,CYBD,QBC,Bella Coola,CA,52.387501,-126.596001,117
+CYBE,Uranium City Airport,CYBE,YBE,Uranium City,CA,59.561401,-108.481003,1044
+CYBF,Bonnyville Airport,CYBF,YBY,Bonnyville,CA,54.304199,-110.744003,1836
+CYBG,CFB Bagotville,CYBG,YBG,Bagotville,CA,48.330601,-70.996399,522
+CYBK,Baker Lake Airport,CYBK,YBK,Baker Lake,CA,64.298897,-96.077797,59
+CYBL,Campbell River Airport,CYBL,YBL,Campbell River,CA,49.950802,-125.271004,346
+CYBN,CFB Borden,CYBN,YBN,Borden,CA,44.271702,-79.912498,729
+CYBP,Brooks Regional,CYBP,,Brooks,CA,50.633598,-111.926003,2490
+CYBQ,Tadoule Lake Airport,CYBQ,XTL,Tadoule Lake,CA,58.706100,-98.512199,923
+CYBR,Brandon Municipal Airport,CYBR,YBR,Brandon,CA,49.910000,-99.951897,1343
+CYBT,Brochet Airport,CYBT,YBT,Brochet,CA,57.889400,-101.679001,1136
+CYBU,Nipawin Airport,CYBU,,Nipawin,CA,53.332500,-104.008003,1220
+CYBV,Berens River Airport,CYBV,YBV,Berens River,CA,52.358898,-97.018303,728
+CYBW,Calgary / Springbank Airport,CYBW,,Calgary,CA,51.103100,-114.374001,3940
+CYBX,Lourdes de Blanc Sablon Airport,CYBX,YBX,Lourdes-De-Blanc-Sablon,CA,51.443600,-57.185299,121
+CYCA,Cartwright Airport,CYCA,YRF,Cartwright,CA,53.682800,-57.041901,40
+CYCB,Cambridge Bay Airport,CYCB,YCB,Cambridge Bay,CA,69.108101,-105.138000,90
+CYCC,Cornwall Regional Airport,CYCC,YCC,Cornwall,CA,45.092800,-74.563301,175
+CYCD,Nanaimo Airport,CYCD,YCD,Nanaimo,CA,49.054970,-123.869863,92
+CYCE,James T. Field Memorial Aerodrome,CYCE,YCE,Centralia,CA,43.285599,-81.508301,824
+CYCG,Castlegar/West Kootenay Regional Airport,CYCG,YCG,Castlegar,CA,49.296398,-117.632004,1624
+CYCH,Miramichi Airport,CYCH,YCH,Miramichi,CA,47.007801,-65.449203,108
+CYCK,Chatham Kent Airport,CYCK,XCM,Chatham-Kent,CA,42.306400,-82.081902,650
+CYCL,Charlo Airport,CYCL,YCL,Charlo,CA,47.990799,-66.330299,132
+CYCN,Cochrane Airport,CYCN,YCN,Cochrane,CA,49.105598,-81.013603,861
+CYCO,Kugluktuk Airport,CYCO,YCO,Kugluktuk,CA,67.816704,-115.143997,74
+CYCP,Blue River Airport,CYCP,,Blue River,CA,52.116699,-119.282997,2240
+CYCQ,Chetwynd Airport,CYCQ,YCQ,Chetwynd,CA,55.687199,-121.626999,2000
+CYCR,Cross Lake (Charlie Sinclair Memorial) Airport,CYCR,YCR,Cross Lake,CA,54.610600,-97.760803,709
+CYCS,Chesterfield Inlet Airport,CYCS,YCS,Chesterfield Inlet,CA,63.346901,-90.731102,32
+CYCT,Coronation Airport,CYCT,YCT,Coronation,CA,52.075001,-111.445000,2595
+CYCV,Cartierville Airport,CYCV,YCV,Montreal,CA,45.516701,-73.716698,120
+CYCW,Chilliwack Airport,CYCW,YCW,Chilliwack,CA,49.152802,-121.939003,32
+CYCX,CFB Gagetown Heliport,CYCX,YCX,Gagetown,CA,45.837678,-66.436727,166
+CYCY,Clyde River Airport,CYCY,YCY,Clyde River,CA,70.486099,-68.516701,87
+CYCZ,Fairmont Hot Springs Airport,CYCZ,YCZ,Fairmont Hot Springs,CA,50.330299,-115.873001,2661
+CYDA,Dawson City Airport,CYDA,YDA,Dawson City,CA,64.043098,-139.128006,1215
+CYDB,Burwash Airport,CYDB,YDB,Burwash,CA,61.371101,-139.041000,2647
+CYDC,Princeton Airport,CYDC,,Town of Princeton,CA,49.468102,-120.511002,2298
+CYDF,Deer Lake Airport,CYDF,YDF,Deer Lake,CA,49.210800,-57.391399,72
+CYDH,Ottawa / Dwyer Hill Heliport,CYDH,,Ottawa,CA,45.130600,-75.948303,325
+CYDL,Dease Lake Airport,CYDL,YDL,Dease Lake,CA,58.422199,-130.031998,2600
+CYDM,Ross River Airport,CYDM,XRR,Ross River,CA,61.970600,-132.423004,2314
+CYDN,Dauphin Barker Airport,CYDN,YDN,Dauphin,CA,51.100800,-100.052002,999
+CYDO,Dolbeau St Felicien Airport,CYDO,YDO,Dolbeau-St-Félicien,CA,48.778500,-72.375000,372
+CYDP,Nain Airport,CYDP,YDP,Nain,CA,56.549198,-61.680302,22
+CYDQ,Dawson Creek Airport,CYDQ,YDQ,Dawson Creek,CA,55.742298,-120.182999,2148
+CYEA,Empress Airport,CYEA,,Empress,CA,50.933300,-110.013000,2211
+CYED,Edmonton (CFB Namao) Heliport,CYED,YED,Edmonton,CA,53.667934,-113.472548,2257
+CYEE,Huronia Airport,CYEE,,Midland,CA,44.683300,-79.928299,770
+CYEG,Edmonton International Airport,CYEG,YEG,Edmonton,CA,53.309700,-113.580002,2373
+CYEK,Arviat Airport,CYEK,YEK,Arviat,CA,61.094200,-94.070801,32
+CYEL,Elliot Lake Municipal Airport,CYEL,YEL,Elliot Lake,CA,46.351398,-82.561401,1087
+CYEM,Manitoulin East Municipal Airport,CYEM,YEM,Manitowaning,CA,45.842800,-81.858101,869
+CYEN,Estevan Airport,CYEN,YEN,Estevan,CA,49.210300,-102.966003,1905
+CYER,Fort Severn Airport,CYER,YER,Fort Severn,CA,56.018902,-87.676102,48
+CYES,Edmundston Airport,CYES,,Edmundston,CA,47.490601,-68.481903,490
+CYET,Edson Airport,CYET,YET,Edson,CA,53.578899,-116.464996,3043
+CYEU,Eureka Airport,CYEU,YEU,Eureka,CA,79.994698,-85.814201,256
+CYEV,Inuvik Mike Zubko Airport,CYEV,YEV,Inuvik,CA,68.304199,-133.483002,224
+CYEY,Amos Magny Airport,CYEY,YEY,Amos,CA,48.563900,-78.249702,1068
+CYFA,Fort Albany Airport,CYFA,YFA,Fort Albany,CA,52.201401,-81.696899,48
+CYFB,Iqaluit Airport,CYFB,YFB,Iqaluit,CA,63.756401,-68.555801,110
+CYFC,Fredericton Airport,CYFC,YFC,Fredericton,CA,45.868900,-66.537201,68
+CYFD,Brantford Municipal Airport,CYFD,,Brantford,CA,43.131401,-80.342499,815
+CYFE,Forestville Airport,CYFE,YFE,Forestville,CA,48.746101,-69.097198,293
+CYFH,Fort Hope Airport,CYFH,YFH,Fort Hope,CA,51.561901,-87.907799,899
+CYFJ,La Macaza / Mont-Tremblant International Inc Airport,CYFJ,YTM,Rivière Rouge,CA,46.409401,-74.779999,827
+CYFO,Flin Flon Airport,CYFO,YFO,Flin Flon,CA,54.678101,-101.681999,997
+CYFR,Fort Resolution Airport,CYFR,YFR,Fort Resolution,CA,61.180801,-113.690002,526
+CYFS,Fort Simpson Airport,CYFS,YFS,Fort Simpson,CA,61.760201,-121.237000,555
+CYFT,Makkovik Airport,CYFT,YMN,Makkovik,CA,55.076900,-59.186401,234
+CYGB,Texada Gillies Bay Airport,CYGB,YGB,Texada,CA,49.694199,-124.517998,326
+CYGD,Goderich Airport,CYGD,,Goderich,CA,43.766899,-81.710602,712
+CYGE,Golden Airport,CYGE,,Golden,CA,51.299198,-116.982002,2575
+CYGH,Fort Good Hope Airport,CYGH,YGH,Fort Good Hope,CA,66.240799,-128.651001,268
+CYGK,Kingston Norman Rogers Airport,CYGK,YGK,Kingston,CA,44.225300,-76.596901,305
+CYGL,La Grande Rivière Airport,CYGL,YGL,La Grande Rivière,CA,53.625301,-77.704201,639
+CYGM,Gimli Industrial Park Airport,CYGM,YGM,Gimli,CA,50.628101,-97.043297,753
+CYGO,Gods Lake Narrows Airport,CYGO,YGO,Gods Lake Narrows,CA,54.558899,-94.491402,617
+CYGP,Gaspé (Michel-Pouliot) Airport,CYGP,YGP,Gaspé,CA,48.775299,-64.478600,112
+CYGQ,Geraldton Greenstone Regional Airport,CYGQ,YGQ,Geraldton,CA,49.778301,-86.939400,1144
+CYGR,Îles-de-la-Madeleine Airport,CYGR,YGR,Îles-de-la-Madeleine,CA,47.424702,-61.778099,35
+CYGT,Igloolik Airport,CYGT,YGT,Igloolik,CA,69.364700,-81.816101,174
+CYGV,Havre St Pierre Airport,CYGV,YGV,Havre St-Pierre,CA,50.281898,-63.611401,124
+CYGW,Kuujjuarapik Airport,CYGW,YGW,Kuujjuarapik,CA,55.281898,-77.765297,34
+CYGX,Gillam Airport,CYGX,YGX,Gillam,CA,56.357498,-94.710602,476
+CYGZ,Grise Fiord Airport,CYGZ,YGZ,Grise Fiord,CA,76.426102,-82.909203,146
+CYHA,Quaqtaq Airport,CYHA,YQC,Quaqtaq,CA,61.046398,-69.617798,103
+CYHB,Hudson Bay Airport,CYHB,YHB,Hudson Bay,CA,52.816700,-102.310997,1175
+CYHD,Dryden Regional Airport,CYHD,YHD,Dryden,CA,49.831699,-92.744202,1354
+CYHE,Hope Airport,CYHE,YHE,Hope,CA,49.368301,-121.498001,128
+CYHF,Hearst René Fontaine Municipal Airport,CYHF,YHF,Hearst,CA,49.714199,-83.686096,827
+CYHH,Nemiscau Airport,CYHH,YNS,Nemiscau,CA,51.691101,-76.135597,802
+CYHI,Ulukhaktok Holman Airport,CYHI,YHI,Ulukhaktok,CA,70.762802,-117.806000,117
+CYHK,Gjoa Haven Airport,CYHK,YHK,Gjoa Haven,CA,68.635597,-95.849701,152
+CYHM,John C. Munro Hamilton International Airport,CYHM,YHM,Hamilton,CA,43.173599,-79.934998,780
+CYHN,Hornepayne Municipal Airport,CYHN,YHN,Hornepayne,CA,49.193100,-84.758904,1099
+CYHO,Hopedale Airport,CYHO,YHO,Hopedale,CA,55.448299,-60.228600,39
+CYHR,Chevery Airport,CYHR,YHR,Chevery,CA,50.468899,-59.636700,39
+CYHT,Haines Junction Airport,CYHT,YHT,Haines Junction,CA,60.789200,-137.546005,2150
+CYHU,Montréal / Saint-Hubert Airport,CYHU,YHU,Montréal,CA,45.517502,-73.416901,90
+CYHY,Hay River / Merlyn Carter Airport,CYHY,YHY,Hay River,CA,60.839699,-115.782997,541
+CYHZ,Halifax / Stanfield International Airport,CYHZ,YHZ,Halifax,CA,44.880798,-63.508598,477
+CYIB,Atikokan Municipal Airport,CYIB,YIB,Atikokan,CA,48.773899,-91.638603,1408
+CYID,Digby / Annapolis Regional Airport,CYID,YDG,Digby,CA,44.545845,-65.785425,499
+CYIF,St Augustin Airport,CYIF,YIF,St-Augustin,CA,51.211700,-58.658298,20
+CYIK,Ivujivik Airport,CYIK,YIK,Ivujivik,CA,62.417301,-77.925301,126
+CYIO,Pond Inlet Airport,CYIO,YIO,Pond Inlet,CA,72.683296,-77.966698,181
+CYIV,Island Lake Airport,CYIV,YIV,Island Lake,CA,53.857201,-94.653603,770
+CYJA,Jasper Airport,CYJA,,Jasper,CA,52.996700,-118.058998,3350
+CYJF,Fort Liard Airport,CYJF,YJF,Fort Liard,CA,60.235802,-123.469002,708
+CYJM,Fort St James Airport,CYJM,,Fort St. James,CA,54.397202,-124.263000,2364
+CYJN,St Jean Airport,CYJN,YJN,St Jean,CA,45.294399,-73.281097,136
+CYJP,Fort Providence Airport,CYJP,,Fort Providence,CA,61.319401,-117.606003,524
+CYJQ,Denny Island Airport,CYJQ,ZEL,Bella Bella,CA,52.139702,-128.063995,162
+CYJT,Stephenville Airport,CYJT,YJT,Stephenville,CA,48.544201,-58.549999,84
+CYKA,Kamloops Airport,CYKA,YKA,Kamloops,CA,50.702202,-120.444000,1133
+CYKC,Collins Bay Airport,CYKC,YKC,Collins Bay,CA,58.236099,-103.678001,1341
+CYKD,Aklavik Airport,CYKD,LAK,Aklavik,CA,68.223297,-135.005997,23
+CYKF,Waterloo Airport,CYKF,YKF,Kitchener,CA,43.460800,-80.378601,1055
+CYKG,Kangiqsujuaq (Wakeham Bay) Airport,CYKG,YWB,Kangiqsujuaq,CA,61.588600,-71.929398,501
+CYKJ,Key Lake Airport,CYKJ,YKJ,Key Lake,CA,57.256100,-105.617996,1679
+CYKL,Schefferville Airport,CYKL,YKL,Schefferville,CA,54.805302,-66.805298,1709
+CYKO,Akulivik Airport,CYKO,AKV,Akulivik,CA,60.818600,-78.148598,75
+CYKQ,Waskaganish Airport,CYKQ,YKQ,Waskaganish,CA,51.473301,-78.758301,80
+CYKX,Kirkland Lake Airport,CYKX,YKX,Kirkland Lake,CA,48.210300,-79.981400,1157
+CYKY,Kindersley Airport,CYKY,YKY,Kindersley,CA,51.517502,-109.181000,2277
+CYKZ,Buttonville Municipal Airport,CYKZ,YKZ,Toronto,CA,43.862202,-79.370003,650
+CYLA,Aupaluk Airport,CYLA,YPJ,Aupaluk,CA,59.296700,-69.599701,119
+CYLB,Lac La Biche Airport,CYLB,YLB,Lac La Biche,CA,54.770302,-112.031998,1884
+CYLC,Kimmirut Airport,CYLC,YLC,Kimmirut,CA,62.849998,-69.883301,175
+CYLD,Chapleau Airport,CYLD,YLD,Chapleau,CA,47.820000,-83.346703,1470
+CYLH,Lansdowne House Airport,CYLH,YLH,Lansdowne House,CA,52.195599,-87.934196,834
+CYLJ,Meadow Lake Airport,CYLJ,YLJ,Meadow Lake,CA,54.125301,-108.523003,1576
+CYLK,Lutselk'e Airport,CYLK,YSG,Lutselk'e,CA,62.418301,-110.681999,596
+CYLL,Lloydminster Airport,CYLL,YLL,Lloydminster,CA,53.309200,-110.072998,2193
+CYLQ,La Tuque Airport,CYLQ,YLQ,La Tuque,CA,47.409698,-72.788902,548
+CYLR,Leaf Rapids Airport,CYLR,YLR,Leaf Rapids,CA,56.513302,-99.985298,959
+CYLS,Barrie-Orillia (Lake Simcoe Regional Airport),CYLS,YLK,Barrie-Orillia,CA,44.485298,-79.555603,972
+CYLT,Alert Airport,CYLT,YLT,Alert,CA,82.517799,-62.280602,100
+CYLU,Kangiqsualujjuaq (Georges River) Airport,CYLU,XGR,Kangiqsualujjuaq,CA,58.711399,-65.992798,215
+CYLW,Kelowna International Airport,CYLW,YLW,Kelowna,CA,49.956100,-119.377998,1421
+CYMA,Mayo Airport,CYMA,YMA,Mayo,CA,63.616402,-135.867996,1653
+CYME,Matane Airport,CYME,YME,Matane,CA,48.856899,-67.453300,102
+CYMG,Manitouwadge Airport,CYMG,YMG,Manitouwadge,CA,49.083900,-85.860603,1198
+CYMH,Mary's Harbour Airport,CYMH,YMH,Mary's Harbour,CA,52.302799,-55.847198,38
+CYMJ,Moose Jaw Air Vice Marshal C. M. McEwen Airport,CYMJ,YMJ,Moose Jaw,CA,50.330299,-105.558998,1892
+CYML,Charlevoix Airport,CYML,YML,Charlevoix,CA,47.597500,-70.223900,977
+CYMM,Fort McMurray Airport,CYMM,YMM,Fort McMurray,CA,56.653301,-111.222000,1211
+CYMO,Moosonee Airport,CYMO,YMO,Moosonee,CA,51.291100,-80.607803,30
+CYMT,Chapais Airport,CYMT,YMT,Chibougamau,CA,49.771900,-74.528099,1270
+CYMU,Umiujaq Airport,CYMU,YUD,Umiujaq,CA,56.536098,-76.518303,250
+CYMW,Maniwaki Airport,CYMW,YMW,Maniwaki,CA,46.272800,-75.990601,656
+CYMX,Montreal International (Mirabel) Airport,CYMX,YMX,Montréal,CA,45.679501,-74.038696,270
+CYMY,Ear Falls Airport,CYMY,,Ear Falls,CA,50.717800,-93.383598,1269
+CYNA,Natashquan Airport,CYNA,YNA,Natashquan,CA,50.189999,-61.789200,39
+CYNC,Wemindji Airport,CYNC,YNC,Wemindji,CA,53.010601,-78.831100,66
+CYND,Ottawa / Gatineau Airport,CYND,YND,Gatineau,CA,45.521702,-75.563599,211
+CYNE,Norway House Airport,CYNE,YNE,Norway House,CA,53.958302,-97.844200,734
+CYNH,Hudsons Hope Airport,CYNH,YNH,Hudson's Hope,CA,56.035599,-121.975998,2220
+CYNJ,Langley Airport,CYNJ,YLY,Langley,CA,49.100800,-122.630997,34
+CYNL,Points North Landing Airport,CYNL,YNL,Points North Landing,CA,58.276699,-104.082001,1605
+CYNM,Matagami Airport,CYNM,YNM,Matagami,CA,49.761700,-77.802803,918
+CYNN,Nejanilini Lake Airport,CYNN,,Nejanilini Lake,CA,59.487499,-97.780296,1000
+CYNR,Fort Mackay / Horizon Airport,CYNR,HZP,Fort Mackay,CA,57.381699,-111.700996,916
+CYOA,Ekati Airport,CYOA,YOA,Ekati,CA,64.698898,-110.614998,1536
+CYOC,Old Crow Airport,CYOC,YOC,Old Crow,CA,67.570602,-139.839005,824
+CYOD,CFB Cold Lake,CYOD,YOD,Cold Lake,CA,54.404999,-110.278999,1775
+CYOH,Oxford House Airport,CYOH,YOH,Oxford House,CA,54.933300,-95.278900,663
+CYOJ,High Level Airport,CYOJ,YOJ,High Level,CA,58.621399,-117.165001,1110
+CYOO,Oshawa Airport,CYOO,YOO,Oshawa,CA,43.922798,-78.894997,460
+CYOP,Rainbow Lake Airport,CYOP,YOP,Rainbow Lake,CA,58.491402,-119.407997,1759
+CYOS,Owen Sound / Billy Bishop Regional Airport,CYOS,YOS,Owen Sound,CA,44.590302,-80.837502,1007
+CYOW,Ottawa Macdonald-Cartier International Airport,CYOW,YOW,Ottawa,CA,45.322498,-75.669197,374
+CYOY,C J.H.L.(Joe) Lecomte) Heliport,CYOY,YOY,Valcartier,CA,46.902196,-71.502199,550
+CYP2,Halifax (Windsor Park) Heliport,CYP2,,Halifax,CA,44.657422,-63.611795,125
+CYPA,Prince Albert Glass Field,CYPA,YPA,Prince Albert,CA,53.214199,-105.672997,1405
+CYPC,Paulatuk (Nora Aliqatchialuk Ruben) Airport,CYPC,YPC,Paulatuk,CA,69.360838,-124.075470,15
+CYPD,Port Hawkesbury Airport,CYPD,YPS,Port Hawkesbury,CA,45.656700,-61.368099,377
+CYPE,Peace River Airport,CYPE,YPE,Peace River,CA,56.226898,-117.446999,1873
+CYPG,Southport Airport,CYPG,YPG,Portage,CA,49.903099,-98.273903,885
+CYPH,Inukjuak Airport,CYPH,YPH,Inukjuak,CA,58.471901,-78.076897,83
+CYPK,Pitt Meadows Airport,CYPK,,Pitt Meadows,CA,49.216099,-122.709999,11
+CYPL,Pickle Lake Airport,CYPL,YPL,Pickle Lake,CA,51.446400,-90.214203,1267
+CYPM,Pikangikum Airport,CYPM,YPM,Pikangikum,CA,51.819698,-93.973297,1114
+CYPN,Port Menier Airport,CYPN,YPN,Port-Menier,CA,49.836399,-64.288597,167
+CYPO,Peawanuck Airport,CYPO,YPO,Peawanuck,CA,54.988098,-85.443298,173
+CYPP,Parent Airport,CYPP,,Parent,CA,47.931900,-74.608101,1400
+CYPQ,Peterborough Airport,CYPQ,YPQ,Peterborough,CA,44.230000,-78.363297,628
+CYPR,Prince Rupert Airport,CYPR,YPR,Prince Rupert,CA,54.286098,-130.445007,116
+CYPS,Pemberton Airport,CYPS,,Pemberton,CA,50.302502,-122.737999,670
+CYPT,Pelee Island Airport,CYPT,,Pelee Island,CA,41.780399,-82.678001,572
+CYPU,Puntzi Mountain Airport,CYPU,,Puntzi Mountain,CA,52.112801,-124.144997,2985
+CYPW,Powell River Airport,CYPW,YPW,Powell River,CA,49.834202,-124.500000,425
+CYPX,Puvirnituq Airport,CYPX,YPX,Puvirnituq,CA,60.050598,-77.286903,74
+CYPY,Fort Chipewyan Airport,CYPY,YPY,Fort Chipewyan,CA,58.767200,-111.116997,761
+CYPZ,Burns Lake Airport,CYPZ,YPZ,Burns Lake,CA,54.376400,-125.950996,2343
+CYQA,Muskoka Airport,CYQA,YQA,Muskoka,CA,44.974701,-79.303299,925
+CYQB,Quebec Jean Lesage International Airport,CYQB,YQB,Quebec,CA,46.791100,-71.393303,244
+CYQD,The Pas Airport,CYQD,YQD,The Pas,CA,53.971401,-101.091003,887
+CYQF,Red Deer Regional Airport,CYQF,YQF,Red Deer,CA,52.182201,-113.893997,2968
+CYQG,Windsor Airport,CYQG,YQG,Windsor,CA,42.275600,-82.955597,622
+CYQH,Watson Lake Airport,CYQH,YQH,Watson Lake,CA,60.116402,-128.822006,2255
+CYQI,Yarmouth Airport,CYQI,YQI,Yarmouth,CA,43.826900,-66.088097,141
+CYQK,Kenora Airport,CYQK,YQK,Kenora,CA,49.788300,-94.363098,1332
+CYQL,Lethbridge County Airport,CYQL,YQL,Lethbridge,CA,49.630299,-112.800003,3048
+CYQM,Greater Moncton International Airport,CYQM,YQM,Moncton,CA,46.112202,-64.678596,232
+CYQN,Nakina Airport,CYQN,YQN,Nakina,CA,50.182800,-86.696404,1057
+CYQQ,Comox Airport,CYQQ,YQQ,Comox,CA,49.710800,-124.887001,84
+CYQR,Regina International Airport,CYQR,YQR,Regina,CA,50.431900,-104.666000,1894
+CYQS,St Thomas Municipal Airport,CYQS,YQS,St Thomas,CA,42.770000,-81.110802,778
+CYQT,Thunder Bay Airport,CYQT,YQT,Thunder Bay,CA,48.371899,-89.323898,653
+CYQU,Grande Prairie Airport,CYQU,YQU,Grande Prairie,CA,55.179699,-118.885002,2195
+CYQV,Yorkton Municipal Airport,CYQV,YQV,Yorkton,CA,51.264702,-102.461998,1635
+CYQW,North Battleford Airport,CYQW,YQW,North Battleford,CA,52.769199,-108.244003,1799
+CYQX,Gander International Airport,CYQX,YQX,Gander,CA,48.936901,-54.568100,496
+CYQY,Sydney / J.A. Douglas McCurdy Airport,CYQY,YQY,Sydney,CA,46.161400,-60.047798,203
+CYQZ,Quesnel Airport,CYQZ,YQZ,Quesnel,CA,53.026100,-122.510002,1789
+CYRA,Rae Lakes Airport,CYRA,YRA,Gamètì,CA,64.116096,-117.309998,723
+CYRB,Resolute Bay Airport,CYRB,YRB,Resolute Bay,CA,74.716904,-94.969398,215
+CYRC,Chicoutimi St Honoré Airport,CYRC,,Chicoutimi,CA,48.520802,-71.050598,543
+CYRI,Rivière-du-Loup Airport,CYRI,YRI,Rivière-du-Loup,CA,47.764400,-69.584702,427
+CYRJ,Roberval Airport,CYRJ,YRJ,Roberval,CA,48.520000,-72.265602,586
+CYRL,Red Lake Airport,CYRL,YRL,Red Lake,CA,51.066898,-93.793098,1265
+CYRM,Rocky Mountain House Airport,CYRM,YRM,Rocky Mountain House,CA,52.429699,-114.903999,3244
+CYRO,Ottawa / Rockcliffe Airport,CYRO,YRO,Ottawa,CA,45.460300,-75.646103,188
+CYRP,Ottawa / Carp Airport,CYRP,,Ottawa,CA,45.319199,-76.022202,382
+CYRQ,Trois-Rivières Airport,CYRQ,YRQ,Trois-Rivières,CA,46.352798,-72.679398,199
+CYRS,Red Sucker Lake Airport,CYRS,YRS,Red Sucker Lake,CA,54.167198,-93.557198,729
+CYRT,Rankin Inlet Airport,CYRT,YRT,Rankin Inlet,CA,62.811401,-92.115799,94
+CYRV,Revelstoke Airport,CYRV,YRV,Revelstoke,CA,50.966702,-118.182999,1459
+CYSA,Stratford Municipal Airport,CYSA,,Stratford,CA,43.415600,-80.934402,1215
+CYSB,Sudbury Airport,CYSB,YSB,Sudbury,CA,46.625000,-80.798897,1141
+CYSC,Sherbrooke Airport,CYSC,YSC,Sherbrooke,CA,45.438599,-71.691399,792
+CYSD,Suffield Heliport,CYSD,YSD,Suffield,CA,50.266701,-111.182999,2525
+CYSE,Squamish Airport,CYSE,YSE,Squamish,CA,49.781700,-123.162003,171
+CYSF,Stony Rapids Airport,CYSF,YSF,Stony Rapids,CA,59.250301,-105.841003,805
+CYSG,St Georges Airport,CYSG,,St Georges,CA,46.096401,-70.714699,893
+CYSH,Smiths Falls-Montague (Russ Beach) Airport,CYSH,YSH,Smiths Falls,CA,44.945801,-75.940598,416
+CYSJ,Saint John Airport,CYSJ,YSJ,Saint John,CA,45.316101,-65.890297,357
+CYSK,Sanikiluaq Airport,CYSK,YSK,Sanikiluaq,CA,56.537800,-79.246696,104
+CYSL,St Leonard Airport,CYSL,YSL,St Leonard,CA,47.157501,-67.834702,793
+CYSM,Fort Smith Airport,CYSM,YSM,Fort Smith,CA,60.020302,-111.961998,671
+CYSN,Niagara District Airport,CYSN,YCM,St Catharines,CA,43.191700,-79.171700,321
+CYSP,Marathon Airport,CYSP,YSP,Marathon,CA,48.755299,-86.344398,1035
+CYSQ,Atlin Airport,CYSQ,,Atlin,CA,59.576698,-133.669006,2348
+CYSR,Nanisivik Airport,CYSR,YSR,Nanisivik,CA,72.982201,-84.613602,2106
+CYST,St. Theresa Point Airport,CYST,YST,St. Theresa Point,CA,53.845600,-94.851898,773
+CYSU,Summerside Airport,CYSU,YSU,Summerside,CA,46.440601,-63.833599,56
+CYSW,Sparwood Elk Valley Airport,CYSW,,Sparwood,CA,49.833302,-114.883003,3800
+CYSY,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,CYSY,YSY,Sachs Harbour,CA,71.993896,-125.242996,282
+CYSZ,Ste Anne Des Monts Airport,CYSZ,,Ste-Anne-Des-Monts,CA,49.120300,-66.529198,71
+CYTA,Pembroke Airport,CYTA,YTA,Pembroke,CA,45.864399,-77.251701,529
+CYTE,Cape Dorset Airport,CYTE,YTE,Cape Dorset,CA,64.230003,-76.526703,164
+CYTF,Alma Airport,CYTF,YTF,Alma,CA,48.508900,-71.641899,445
+CYTH,Thompson Airport,CYTH,YTH,Thompson,CA,55.801102,-97.864197,729
+CYTL,Big Trout Lake Airport,CYTL,YTL,Big Trout Lake,CA,53.817799,-89.896896,729
+CYTN,Trenton Airport,CYTN,,Trenton,CA,45.611900,-62.621101,319
+CYTQ,Tasiujaq Airport,CYTQ,YTQ,Tasiujaq,CA,58.667801,-69.955803,122
+CYTR,CFB Trenton,CYTR,YTR,Trenton,CA,44.118900,-77.528099,283
+CYTS,Timmins/Victor M. Power,CYTS,YTS,Timmins,CA,48.569698,-81.376701,967
+CYTZ,Billy Bishop Toronto City Centre Airport,CYTZ,YTZ,Toronto,CA,43.627499,-79.396202,252
+CYUB,Tuktoyaktuk Airport,CYUB,YUB,Tuktoyaktuk,CA,69.433296,-133.026001,15
+CYUL,Montreal / Pierre Elliott Trudeau International Airport,CYUL,YUL,Montréal,CA,45.470600,-73.740799,118
+CYUT,Repulse Bay Airport,CYUT,YUT,Repulse Bay,CA,66.521400,-86.224701,80
+CYUX,Hall Beach Airport,CYUX,YUX,Hall Beach,CA,68.776100,-81.243599,27
+CYUY,Rouyn Noranda Airport,CYUY,YUY,Rouyn-Noranda,CA,48.206100,-78.835602,988
+CYVB,Bonaventure Airport,CYVB,YVB,Bonaventure,CA,48.071098,-65.460297,123
+CYVC,La Ronge Airport,CYVC,YVC,La Ronge,CA,55.151402,-105.262001,1242
+CYVD,Virden/R.J. (Bob) Andrew Field Regional Aerodrome,CYVD,,Virden,CA,49.878300,-100.917999,1454
+CYVG,Vermilion Airport,CYVG,YVG,Vermilion,CA,53.355801,-110.823997,2025
+CYVK,Vernon Airport,CYVK,YVE,Vernon,CA,50.248100,-119.331001,1140
+CYVM,Qikiqtarjuaq Airport,CYVM,YVM,Qikiqtarjuaq,CA,67.545799,-64.031403,21
+CYVO,Val-d'Or Airport,CYVO,YVO,Val-d'Or,CA,48.053299,-77.782799,1107
+CYVP,Kuujjuaq Airport,CYVP,YVP,Kuujjuaq,CA,58.096100,-68.426903,129
+CYVQ,Norman Wells Airport,CYVQ,YVQ,Norman Wells,CA,65.281601,-126.797997,238
+CYVR,Vancouver International Airport,CYVR,YVR,Vancouver,CA,49.193901,-123.183998,14
+CYVT,Buffalo Narrows Airport,CYVT,YVT,Buffalo Narrows,CA,55.841900,-108.417999,1423
+CYVV,Wiarton Airport,CYVV,YVV,Wiarton,CA,44.745800,-81.107201,729
+CYVZ,Deer Lake Airport,CYVZ,YVZ,Deer Lake,CA,52.655800,-94.061401,1092
+CYWA,Petawawa Airport,CYWA,YWA,Petawawa,CA,45.952202,-77.319199,427
+CYWG,Winnipeg / James Armstrong Richardson International Airport,CYWG,YWG,Winnipeg,CA,49.910000,-97.239899,783
+CYWJ,Déline Airport,CYWJ,YWJ,Déline,CA,65.211098,-123.435997,703
+CYWK,Wabush Airport,CYWK,YWK,Wabush,CA,52.921902,-66.864403,1808
+CYWL,Williams Lake Airport,CYWL,YWL,Williams Lake,CA,52.183102,-122.054001,3085
+CYWM,Athabasca Airport,CYWM,,Athabasca,CA,54.743099,-113.205002,1971
+CYWP,Webequie Airport,CYWP,YWP,Webequie,CA,52.959393,-87.374868,685
+CYWV,Wainwright Airport,CYWV,,Wainwright,CA,52.795799,-110.857002,2230
+CYWY,Wrigley Airport,CYWY,YWY,Wrigley,CA,63.209400,-123.436996,489
+CYXC,Cranbrook Airport,CYXC,YXC,Cranbrook,CA,49.610802,-115.781998,3082
+CYXD,Edmonton City Centre (Blatchford Field) Airport,CYXD,YXD,Edmonton,CA,53.572498,-113.521004,2202
+CYXE,Saskatoon John G. Diefenbaker International Airport,CYXE,YXE,Saskatoon,CA,52.170799,-106.699997,1653
+CYXH,Medicine Hat Airport,CYXH,YXH,Medicine Hat,CA,50.018902,-110.721001,2352
+CYXI,Bonnechere Airport,CYXI,YXI,Killaloe,CA,45.663101,-77.602798,595
+CYXJ,Fort St John Airport,CYXJ,YXJ,Fort St.John,CA,56.238098,-120.739998,2280
+CYXK,Rimouski Airport,CYXK,YXK,Rimouski,CA,48.478100,-68.496902,82
+CYXL,Sioux Lookout Airport,CYXL,YXL,Sioux Lookout,CA,50.113899,-91.905296,1258
+CYXN,Whale Cove Airport,CYXN,YXN,Whale Cove,CA,62.240002,-92.598099,40
+CYXP,Pangnirtung Airport,CYXP,YXP,Pangnirtung,CA,66.144997,-65.713600,75
+CYXQ,Beaver Creek Airport,CYXQ,YXQ,Beaver Creek,CA,62.410301,-140.867004,2131
+CYXR,Earlton (Timiskaming Regional) Airport,CYXR,YXR,Earlton,CA,47.697401,-79.847345,800
+CYXS,Prince George Airport,CYXS,YXS,Prince George,CA,53.889400,-122.679001,2267
+CYXT,Terrace Airport,CYXT,YXT,Terrace,CA,54.468498,-128.576004,713
+CYXU,London Airport,CYXU,YXU,London,CA,43.035599,-81.153900,912
+CYXX,Abbotsford Airport,CYXX,YXX,Abbotsford,CA,49.025299,-122.361000,195
+CYXY,Whitehorse / Erik Nielsen International Airport,CYXY,YXY,Whitehorse,CA,60.709599,-135.067001,2317
+CYXZ,Wawa Airport,CYXZ,YXZ,Wawa,CA,47.966702,-84.786697,942
+CYYB,North Bay Airport,CYYB,YYB,North Bay,CA,46.363602,-79.422798,1215
+CYYC,Calgary International Airport,CYYC,YYC,Calgary,CA,51.113899,-114.019997,3557
+CYYD,Smithers Airport,CYYD,YYD,Smithers,CA,54.824699,-127.182999,1712
+CYYE,Fort Nelson Airport,CYYE,YYE,Fort Nelson,CA,58.836399,-122.597000,1253
+CYYF,Penticton Airport,CYYF,YYF,Penticton,CA,49.463100,-119.601997,1129
+CYYG,Charlottetown Airport,CYYG,YYG,Charlottetown,CA,46.290001,-63.121101,160
+CYYH,Taloyoak Airport,CYYH,YYH,Taloyoak,CA,69.546700,-93.576698,92
+CYYJ,Victoria International Airport,CYYJ,YYJ,Victoria,CA,48.646900,-123.426003,63
+CYYL,Lynn Lake Airport,CYYL,YYL,Lynn Lake,CA,56.863899,-101.075996,1170
+CYYM,Cowley Airport,CYYM,YYM,Cowley,CA,49.636398,-114.094002,3876
+CYYN,Swift Current Airport,CYYN,YYN,Swift Current,CA,50.291901,-107.691002,2680
+CYYO,Wynyard / W.B. Needham Field,CYYO,,Wynyard,CA,51.809888,-104.169788,1740
+CYYQ,Churchill Airport,CYYQ,YYQ,Churchill,CA,58.739201,-94.065002,94
+CYYR,Goose Bay Airport,CYYR,YYR,Goose Bay,CA,53.319199,-60.425800,160
+CYYT,St. John's International Airport,CYYT,YYT,St. John's,CA,47.618599,-52.751900,461
+CYYU,Kapuskasing Airport,CYYU,YYU,Kapuskasing,CA,49.413898,-82.467499,743
+CYYW,Armstrong Airport,CYYW,YYW,Armstrong,CA,50.290298,-88.909698,1058
+CYYY,Mont Joli Airport,CYYY,YYY,Mont-Joli,CA,48.608601,-68.208099,172
+CYYZ,Lester B. Pearson International Airport,CYYZ,YYZ,Toronto,CA,43.677200,-79.630600,569
+CYZD,Downsview Airport,CYZD,YZD,Toronto,CA,43.742500,-79.465599,652
+CYZE,Gore Bay Manitoulin Airport,CYZE,YZE,Gore Bay,CA,45.885300,-82.567802,635
+CYZF,Yellowknife Airport,CYZF,YZF,Yellowknife,CA,62.462799,-114.440002,675
+CYZG,Salluit Airport,CYZG,YZG,Salluit,CA,62.179401,-75.667198,743
+CYZH,Slave Lake Airport,CYZH,YZH,Slave Lake,CA,55.293098,-114.777000,1912
+CYZP,Sandspit Airport,CYZP,YZP,Sandspit,CA,53.254299,-131.813995,21
+CYZR,Chris Hadfield Airport,CYZR,YZR,Sarnia,CA,42.999401,-82.308899,594
+CYZS,Coral Harbour Airport,CYZS,YZS,Coral Harbour,CA,64.193298,-83.359398,210
+CYZT,Port Hardy Airport,CYZT,YZT,Port Hardy,CA,50.680599,-127.366997,71
+CYZU,Whitecourt Airport,CYZU,YZU,Whitecourt,CA,54.143902,-115.787003,2567
+CYZV,Sept-Îles Airport,CYZV,YZV,Sept-Îles,CA,50.223301,-66.265602,180
+CYZW,Teslin Airport,CYZW,YZW,Teslin,CA,60.172798,-132.742996,2313
+CYZX,CFB Greenwood,CYZX,YZX,Greenwood,CA,44.984402,-64.916901,92
+CYZY,Mackenzie Airport,CYZY,,Mackenzie,CA,55.304401,-123.132004,2264

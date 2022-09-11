@@ -1,0 +1,31 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KX04,Orlando Apopka Airport,KX04,,Apopka,US,28.707199,-81.581703,143
+KX05,Pilot Country Airport,KX05,,Brooksville,US,28.330299,-82.496498,80
+KX06,Arcadia Municipal Airport,KX06,,Arcadia,US,27.191999,-81.837303,60
+KX07,Lake Wales Municipal Airport,KX07,,Lake Wales,US,27.893801,-81.620399,127
+KX10,Belle Glade State Municipal Airport,KX10,,Belle Glade,US,26.700899,-80.662300,14
+KX13,Carrabelle Thompson Airport,KX13,,Carrabelle,US,29.842199,-84.700996,20
+KX14,La Belle Municipal Airport,KX14,,La Belle,US,26.744200,-81.432602,20
+KX21,Arthur Dunn Air Park,KX21,,Titusville,US,28.622299,-80.835701,30
+KX26,Sebastian Municipal Airport,KX26,,Sebastian,US,27.812599,-80.495903,21
+KX35,Dunnellon Marion Co & Park of Commerce Airport,KX35,,Dunnellon,US,29.061800,-82.376602,65
+KX39,Tampa North Aero Park Airport,KX39,,Tampa,US,28.221300,-82.374496,68
+KX40,Inverness Airport,KX40,,Inverness,US,28.808599,-82.316498,50
+KX43,Sunray Airport,KX43,,Sunray,US,36.029202,-101.829002,3507
+KX49,South Lakeland Airport,KX49,,Lakeland,US,27.933399,-82.043999,110
+KX50,Massey Ranch Airpark,KX50,,New Smyrna Beach,US,28.978901,-80.925102,12
+KX51,Homestead General Aviation Airport,KX51,,Homestead,US,25.499201,-80.554298,7
+KX54,Benger Air Park,KX54,,Friona,US,34.654202,-102.692001,4003
+KX58,Indiantown Airport,KX58,,Indiantown,US,27.036400,-80.440102,30
+KX59,Valkaria Airport,KX59,,Malabar,US,27.962000,-80.559799,26
+KX60,Williston Municipal Airport,KX60,,Williston,US,29.354200,-82.472900,76
+KXBP,Bridgeport Municipal Airport,KXBP,,Bridgeport,US,33.175301,-97.828400,852
+KXFL,Flagler County Airport,KXFL,,Palm Coast,US,29.467400,-81.206299,33
+KXLL,Allentown Queen City Municipal Airport,KXLL,,Allentown,US,40.570301,-75.488297,399
+KXMR,Cape Canaveral AFS Skid Strip,KXMR,,Cocoa Beach,US,28.467600,-80.566597,10
+KXNA,Northwest Arkansas Regional Airport,KXNA,XNA,Fayetteville/Springdale/,US,36.281898,-94.306801,1287
+KXNO,North Af Aux Airport,KXNO,,North,US,33.615002,-81.084396,321
+KXSA,Tappahannock-Essex County Airport,KXSA,,Tappahannock,US,37.859600,-76.894096,135
+KXTA,Homey (Area 51) Airport,KXTA,,Groom Lake,US,37.235001,-115.810997,4462
+KXVG,Longville Municipal Airport,KXVG,,Longville,US,46.990200,-94.204002,1334
+KXWA,Williston Basin International Airport,KXWA,XWA,"Williston, North Dakota",US,48.259722,-103.750556,2353

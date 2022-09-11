@@ -1,0 +1,35 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HI01,Princeville Airport,HI01,,Hanalei,US,22.209200,-159.445999,344
+HI02,Peleau Airport,HI02,,Hakalau,US,19.902201,-155.166000,1088
+HI03,Hanamaulu Airstrip,HI03,,Hanamaulu,US,22.041300,-159.389999,404
+HI04,Hilo Medical Center Heliport,HI04,,Hilo,US,19.718464,-155.114422,487
+HI05,Honokaa Airstrip,HI05,,Honokaa,US,20.083599,-155.501999,1440
+HI07,Waikoloa Heliport,HI07,WKL,Waikoloa Village,US,19.920500,-155.860700,119
+HI09,Hon Municipal Building Heliport,HI09,,Honolulu,US,21.304300,-157.856003,231
+HI12,Kahuku Hospital Heliport,HI12,,Kahuku,US,21.676300,-157.953995,40
+HI13,Puu Waa Waa Ranch Airport,HI13,,Kailua/Kona,US,19.788601,-155.850006,2250
+HI18,Lucy Henriques Medical Center Heliport,HI18,,Kamuela,US,19.865801,-155.647003,2707
+HI22,Tinian Heliport,HI22,,"San Jose, Tinian",MP,14.960000,145.626007,75
+HI23,Mountain View Airstrip,HI23,,Mountain View,US,19.547501,-155.108002,1500
+HI24,Heco-Waiau Heliport,HI24,,Honolulu,US,21.390800,-157.964996,6
+HI25,Kaalaiki Airstrip,HI25,,Naalehu,US,19.122801,-155.578003,1964
+HI27,Upper Paauilo Airstrip,HI27,,Paauilo,US,20.028299,-155.388000,1520
+HI28,Pahala Airstrip,HI28,,Pahala,US,19.216200,-155.468994,1195
+HI29,Upper Paauau Airport,HI29,,Pahala,US,19.227501,-155.509003,2600
+HI31,Mauna Kea-Honolii Airport,HI31,,Papaikou,US,19.763901,-155.138000,1400
+HI32,Pepeekeo Airstrip,HI32,,Pepeekeo,US,19.844700,-155.113007,675
+HI33,Haiku Airstrip,HI33,,Puhi,US,21.942400,-159.440002,385
+HI38,The Queen's Medical Center Heliport,HI38,,Honolulu,US,21.309200,-157.852997,102
+HI40,Kuakini Medical Center Heliport,HI40,,Honolulu,US,21.313499,-157.847000,175
+HI46,Hi 23 Airstrip,HI46,,Puhi,US,21.965799,-159.427002,480
+HI47,Big Eye Heliport,HI47,,Agana Guam,GU,13.498100,144.804993,80
+HI49,Panda Airport,HI49,,Kaunakakai,US,21.147900,-157.259003,250
+HI50,Hyatt Regency Maui Hotel Heliport,HI50,,Lahaina,US,20.911800,-156.692993,102
+HI52,Rainshed Heliport,HI52,,Volcano Village,US,19.433100,-155.259995,4000
+HI53,Kalalau Beach Heliport,HI53,,Haena,US,22.174601,-159.656006,10
+HI55,Moanalua Medical Center Heliport,HI55,,Honolulu,US,21.364100,-157.899002,18
+HI56,Kualoa Ranch Heliport,HI56,,Honolulu,US,21.521799,-157.839005,125
+HI57,Kahuku Fire & Police Station Heliport,HI57,,Kahuku,US,21.675200,-157.947006,11
+HI58,Turtle Bay Resort Heliport,HI58,,Kahuku,US,21.704901,-158.005997,13
+HI63,Coral Ocean Point Pro-Shop Heliport,HI63,,Koblerville,MP,15.114400,145.701996,125
+HI64,Tinian Star Heliport,HI64,,San Jose Tinian,MP,14.962500,145.880005,175

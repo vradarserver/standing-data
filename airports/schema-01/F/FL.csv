@@ -1,0 +1,171 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FL00,Griffins Peace River Ranch Airport,FL00,,Zolfo Springs,US,27.418900,-81.832603,65
+FL01,Crews Homestead Ranch Airport,FL01,,Avon Park,US,27.621099,-81.610603,90
+FL02,Fox Field,FL02,,Branford,US,29.889400,-82.798698,72
+FL03,Department of Corrections Field,FL03,,Lake Butler,US,29.991899,-82.366501,131
+FL04,Pate Lake Seaplane Base,FL04,,Caryville,US,30.692101,-85.756897,90
+FL05,Hill Landing Strip,FL05,,Lake City,US,30.175501,-82.606499,160
+FL06,Golden Harvest Flying Svc Inc Airport,FL06,,Jay,US,30.903000,-87.043900,255
+FL07,Wings N Sunsets LLC Airport,FL07,,Live Oak,US,30.250200,-82.924004,130
+FL08,Florida Sheriffs Boys Ranch Airport,FL08,,Live Oak,US,30.415501,-83.016502,93
+FL09,Kittyhawk Estates Airport,FL09,,Live Oak,US,30.338800,-83.144302,90
+FL10,Little River Airport,FL10,,Mc Alpin,US,30.115000,-82.908997,90
+FL11,Thrifts Airport,FL11,,Macclenny,US,30.349400,-82.120903,100
+FL12,Ingalls Field,FL12,,Miccosukee,US,30.590500,-84.030403,183
+FL13,Spencer's Airpark,FL13,,Middleburg,US,30.068600,-81.960701,150
+FL14,Vosika's Airport,FL14,,Chipley,US,30.779900,-85.598000,69
+FL15,Steep Head Farm Airport,FL15,,Clarksville,US,30.420200,-85.300499,60
+FL16,Market World Airport,FL16,,Auburndale,US,28.058599,-81.816498,125
+FL17,Ruckel Airport,FL17,,Niceville,US,30.519600,-86.438301,67
+FL18,Suwannee Farms Airport,FL18,,O'Brien,US,30.090500,-83.054604,50
+FL19,Crosswind Farm Airport,FL19,,Ocala,US,29.245300,-82.353699,74
+FL21,Berlin Heliport,FL21,,Oceanway,US,30.462999,-81.615097,20
+FL22,St Lucie Medical Center Heliport,FL22,,Port St Lucie,US,27.288601,-80.293900,16
+FL23,Strazzulla Groves Airport,FL23,,Fort Pierce,US,27.497499,-80.529800,27
+FL24,West Florida Regional Medical Center Heliport,FL24,,Pensacola,US,30.500200,-87.250000,100
+FL25,Fudruckers Heliport,FL25,,Destin,US,30.391001,-86.453300,20
+FL27,Lake City Airpark,FL27,,Lake City,US,30.043800,-82.603996,120
+FL28,State Prison Field,FL28,,Raiford,US,30.055799,-82.172302,123
+FL29,Hales 700 Airport,FL29,,Fort Pierce,US,27.361200,-80.570900,26
+FL30,Hca New Port Richey Hospital Heliport,FL30,,New Port Richey,US,28.235001,-82.717903,25
+FL31,Mjd STOLport,FL31,,Miami,US,25.554600,-80.553902,6
+FL32,Rgnl Medical Center Bayonet Point Heliport,FL32,,New Port Richey,US,28.362200,-82.688301,10
+FL33,Watson Flight Strip,FL33,,Trenton,US,29.668301,-82.826202,55
+FL34,Eglin Test Site B6 Airport,FL34,,Valparaiso,US,30.631901,-86.747200,120
+FL35,Geraci Airpark,FL35,,Lutz,US,28.174999,-82.487778,65
+FL36,Tocoi Airport,FL36,,St. Augustine,US,29.867472,-81.367361,35
+FL37,Treasure Coast Airpark,FL37,,Fort Pierce,US,27.238400,-80.491402,30
+FL38,Care Flight Heliport,FL38,,Tampa,US,27.982000,-82.491501,29
+FL39,Wellington Medical Center Heliport,FL39,,West Palm Beach,US,26.637600,-80.204498,60
+FL40,Graham Landing Strip - Moore Haven Airport,FL40,,Moore Haven,US,26.840900,-81.151703,18
+FL41,Okeelanta Airport,FL41,,South Bay,US,26.581200,-80.755898,14
+FL42,King Seaaero Seaplane Base,FL42,,Winter Haven,US,28.038601,-81.753700,133
+FL43,Burntwood Ranch Airport,FL43,,Lakeland,US,28.258101,-81.930603,119
+FL44,Smokey's Heliport,FL44,,Daytona Beach,US,29.230801,-81.028099,10
+FL45,Manatee Memorial Hospital Heliport,FL45,,Bradenton,US,27.499167,-82.562778,10
+FL46,Bartram Farms Air Park,FL46,,Saint Augustine,US,29.821178,-81.497058,17
+FL47,Ashley Field,FL47,,Eustis,US,28.892500,-81.556900,80
+FL48,Sierra Airpark,FL48,,Worthington Springs,US,28.882200,-82.429703,115
+FL49,Bernie Little Heliport,FL49,,Ocala,US,29.169701,-82.149498,90
+FL50,Rossi Field,FL50,,Lake City,US,30.146601,-82.572304,183
+FL51,Wptv Heliport,FL51,,West Palm Beach,US,26.713900,-80.064201,33
+FL52,Angel's Field,FL52,,Tallahassee,US,30.481001,-84.086800,160
+FL53,Joey Anderson Heliport,FL53,,Marianna,US,30.734600,-85.184898,114
+FL54,Flying Tiger Field,FL54,,Worthington,US,29.935499,-82.410698,115
+FL55,Sanford Seaplane Base,FL55,,Sanford,US,28.822800,-81.263298,6
+FL56,Williams Hawgwild Airport,FL56,,Fort Pierce,US,27.408899,-80.427803,20
+FL57,Carter Airport,FL57,,Apopka,US,28.618900,-81.508698,80
+FL58,Johary Airport,FL58,,Belleview,US,29.026400,-81.987900,72
+FL59,Buckingham Field,FL59,,Fort Myers,US,26.643400,-81.710403,23
+FL60,Reynolds Airpark,FL60,,Green Cove Springs,US,29.972500,-81.660896,21
+FL61,Mc Ginley Airport,FL61,,Ocala,US,29.026100,-82.212303,84
+FL62,Bradshaw Farm Airport,FL62,,Deland,US,28.948601,-81.413101,55
+FL63,Idle Wild Airport,FL63,,Ocala,US,29.289101,-82.322304,80
+FL64,Hardrives Delta Nr 3 Helistop,FL64,,Delray Beach,US,26.432800,-80.093597,15
+FL65,Mac-Ivor & Friends Airstrip,FL65,,Hollywood,US,26.044800,-80.373398,4
+FL66,Peach Orchard Airport,FL66,,Archer,US,29.559700,-82.499496,75
+FL67,Evans Properties Inc Airport,FL67,,Fort Pierce,US,27.277800,-80.585899,24
+FL68,Sheriff's South Multi District Office Heliport,FL68,,Ocala,US,29.105801,-82.090897,71
+FL69,Grande Oaks Golf Club Heliport,FL69,,Davie,US,26.079800,-80.254799,10
+FL70,Wfla-Tv 8 Heliport,FL70,,Tampa,US,27.943899,-82.461700,60
+FL71,Pennington Heliport,FL71,,De Funiak Springs,US,30.374399,-86.179398,40
+FL72,Mezrah Seaplane Base,FL72,,Tampa,US,27.947500,-82.390900,6
+FL73,Lykes Palmdale Airport,FL73,,Palmdale,US,26.947800,-81.318703,42
+FL74,Indian River Aerodrome,FL74,,Vero Beach,US,27.598600,-80.501999,25
+FL75,Indian Hammock Airport,FL75,,Fort Drum,US,27.542000,-80.833099,65
+FL76,Seven Springs Ranch Airport,FL76,,Ocala,US,28.963900,-82.219498,50
+FL77,Calusa Ranch Airport,FL77,,Miles City,US,26.054501,-81.067802,15
+FL78,Lewis Airport,FL78,,Brandon,US,27.898600,-82.182602,45
+FL79,Lockheed Martin-Ocala Heliport,FL79,,Ocala,US,29.085814,-81.984253,82
+FL80,Lee Farms Airport,FL80,,Lowell,US,29.334700,-82.166801,100
+FL81,Triple B Airpark,FL81,,Crestview,US,30.781900,-86.467201,210
+FL82,Oak Ridge Airport,FL82,,Interlachen,US,29.580536,-81.861181,72
+FL83,Wsvn Television Channel 7 Heliport,FL83,,Miami,US,25.850401,-80.154503,4
+FL84,Flying-A-Ranch Airport,FL84,,Fernandina Beach,US,30.601101,-81.570396,25
+FL85,Baptist Hospital Heliport,FL85,,Pensacola,US,30.429399,-87.231102,115
+FL86,Woodstock Airport,FL86,,Fort Myers,US,26.582600,-82.098396,5
+FL87,Intra Coastal Police Sub-Station Heliport,FL87,,North Miami Beach,US,25.917000,-80.149803,6
+FL88,Bob Paul Airport,FL88,,La Belle,US,26.683701,-81.449799,28
+FL89,Triple M Airport,FL89,,Vero Beach,US,27.554199,-80.439796,20
+FL90,Salty Approach Airport,FL90,,Fort Myers,US,26.603399,-82.220100,6
+FL91,Hendry Correctional Institution Airport,FL91,,Sunniland,US,26.309799,-81.227303,22
+FL92,L M Hughey Heliport,FL92,,Tampa,US,27.941401,-82.535400,27
+FL93,Mount Sinai Medical Center Heliport,FL93,,Miami Beach,US,25.814501,-80.141197,6
+FL94,Florida Power & Light County Heliport,FL94,,Miami,US,25.768233,-80.344992,107
+FL95,Broocke Air Patch Airport,FL95,,Winter Beach,US,27.708599,-80.452797,22
+FL96,Jay Airport,FL96,,Jay,US,30.955700,-87.130501,254
+FL97,Tangerine Airport,FL97,,Zellwood,US,28.760300,-81.605904,125
+FL98,Kelly Tractor County Heliport,FL98,,Miami,US,25.826578,-80.333485,8
+FL99,Flying-H Airport,FL99,,Fruitland Park,US,28.876101,-81.889000,80
+FLAT,Katete Airport,FLAT,,Katete,ZM,-14.120300,32.064400,3520
+FLBA,Mbala Airport,FLBA,MMQ,Mbala,ZM,-8.859170,31.336399,5454
+FLCC,Chocha Airport,FLCC,,Chocha,ZM,-8.428730,29.805901,3270
+FLCH,Choma Airport,FLCH,,Choma,ZM,-16.783001,27.000000,4300
+FLCP,Chipata Airport,FLCP,CIP,Chipata,ZM,-13.558300,32.587200,3360
+FLCS,Chinsali Airport,FLCS,,Chinsali,ZM,-10.533000,32.067001,4350
+FLEA,East One Airport,FLEA,,Bwambwa,ZM,-11.635700,29.735901,3900
+FLEB,East Two Airport,FLEB,,Mofu,ZM,-11.103400,30.338200,3900
+FLEC,East Three Airport,FLEC,,Luano,ZM,-14.113500,30.129499,2300
+FLED,East Four Airport,FLED,,Mululowera,ZM,-14.833000,30.083000,1880
+FLEE,East Five Airport,FLEE,,Chidulka,ZM,-10.535700,33.407200,4200
+FLEF,East Six Airport,FLEF,,Chiwanangala,ZM,-11.134200,30.017200,3800
+FLEG,East Seven Airport,FLEG,,Kanshela,ZM,-12.450000,29.483000,4000
+FLEH,East Eight Airport,FLEH,,Kapu,ZM,-12.117000,29.450001,4000
+FLHN,Harry Mwanga Nkumbula International Airport,FLHN,LVI,Livingstone,ZM,-17.821800,25.822701,3302
+FLIK,Isoka Airport,FLIK,,Isoka,ZM,-10.117000,32.632999,4462
+FLKB,Kawambwa Airport,FLKB,,Kawambwa,ZM,-9.798060,29.091700,4640
+FLKE,Kasompe Airport,FLKE,ZKP,Kasompe,ZM,-12.572800,27.893900,4636
+FLKG,Kalengwa Airport,FLKG,,Kalengwa,ZM,-13.474100,25.014099,4093
+FLKJ,Kanja Airport,FLKJ,,Kanja,ZM,-16.450001,23.367001,3370
+FLKK,Kenneth Kaunda International Airport,FLKK,LUN,Lusaka,ZM,-15.330800,28.452600,3779
+FLKL,Kalabo Airport,FLKL,KLB,Kalabo,ZM,-14.998300,22.645399,3450
+FLKO,Kaoma Airport,FLKO,KMZ,Kaoma,ZM,-14.800000,24.783001,3670
+FLKS,Kasama Airport,FLKS,KAA,Kasama,ZM,-10.216700,31.133301,4541
+FLKU,Kanyau Airport,FLKU,,Kanyau,ZM,-16.500000,22.417000,3448
+FLKW,Milliken Airport,FLKW,,Kabwe,ZM,-14.450600,28.379200,3920
+FLKY,Kasaba Bay Airport,FLKY,ZKB,Kasaba Bay,ZM,-8.525000,30.663000,2780
+FLKZ,Lukuzi Airport,FLKZ,,Nansolo,ZM,-12.811900,32.064899,1801
+FLLA,Luanshya Zambia Airport,FLLA,,Luanshya,ZM,-13.141700,28.424999,4101
+FLLC,Lusaka City Airport,FLLC,,Lusaka,ZM,-15.413800,28.330700,4200
+FLLD,Lundazi Airport,FLLD,,Lundazi,ZM,-12.286000,33.186001,3750
+FLLG,Luwingu Airport,FLLG,,Luwingu,ZM,-10.245300,29.914000,4650
+FLLK,Lukulu Airport,FLLK,LXU,Lukulu,ZM,-14.374800,23.249500,3480
+FLLO,Kalomo Airport,FLLO,,Kalomo,ZM,-16.983000,26.483000,4100
+FLMA,Mansa Airport,FLMA,MNS,Mansa,ZM,-11.137000,28.872601,4101
+FLMB,Maamba Airport,FLMB,,Maamba,ZM,-17.367001,27.183001,2050
+FLMF,Mfuwe Airport,FLMF,MFU,Mfuwe,ZM,-13.258900,31.936600,1853
+FLMG,Mongu Airport,FLMG,MNR,Mongu,ZM,-15.254500,23.162300,3488
+FLMK,Mkushi Airport,FLMK,,Mkushi,ZM,-13.617000,29.382999,4195
+FLML,Mufulira Airport,FLML,,Mufulira,ZM,-12.565200,28.294300,4350
+FLMO,Monze Airport,FLMO,,Monze,ZM,-16.283001,27.517000,3700
+FLMP,Mpika Airport,FLMP,,Mpika,ZM,-11.899200,31.434700,4600
+FLMU,Mulobezi Airport,FLMU,,Mulobezi,ZM,-16.767000,25.183001,3175
+FLMW,Mwinilunga Airport,FLMW,,Mwinilunga,ZM,-11.654000,24.431000,4524
+FLMZ,Mazabuka Airport,FLMZ,,Mazabuka,ZM,-15.850000,27.741699,3450
+FLNA,Ngoma Airport,FLNA,ZGM,Ngoma,ZM,-15.965800,25.933300,3400
+FLNL,Namwala Airport,FLNL,,Namwala,ZM,-15.765000,26.431900,3200
+FLNY,Nyimba Airport,FLNY,,Nyimba,ZM,-14.568600,30.834101,2600
+FLPA,Kasempa Airport,FLPA,,Kasempa,ZM,-13.440000,25.785999,4150
+FLPE,Petauke Airport,FLPE,,Petauke,ZM,-14.200000,31.216999,3300
+FLPK,Mporokoso Airport,FLPK,,Mporokoso,ZM,-9.366660,30.138901,4570
+FLPO,Kabompo Airport,FLPO,,Kabompo,ZM,-13.576000,24.230000,3535
+FLRO,Rosa Airport,FLRO,,Rosa,ZM,-9.526830,31.237499,5000
+FLRU,Rufansa Airport,FLRU,,Rufansa,ZM,-15.083000,29.632999,3000
+FLSE,Serenje Airport,FLSE,,Serenje,ZM,-13.183000,30.233000,4650
+FLSH,Shiwa n'gandu Airport,FLSH,,Shiwa n'gandu,ZM,-11.200900,31.748199,4600
+FLSJ,Sakeji Airport,FLSJ,,Sakeji,ZM,-11.232700,24.316401,4500
+FLSK,Ndola Airport,FLSK,NLA,Ndola,ZM,-12.998100,28.664900,4167
+FLSN,Senanga Airport,FLSN,SXG,Senanga,ZM,-16.100000,23.267000,3370
+FLSO,Southdowns Airport,FLSO,KIW,Kitwe,ZM,-12.900500,28.149900,4145
+FLSS,Sesheke Airport,FLSS,SJQ,Sesheke,ZM,-17.476299,24.304701,3100
+FLSW,Solwesi Airport,FLSW,SLI,Solwesi,ZM,-12.173700,26.365101,4551
+FLWA,West One Airport,FLWA,,Chinka,ZM,-12.854900,27.072201,4000
+FLWB,West Two Airport,FLWB,,Metamba,ZM,-13.766400,27.517300,3760
+FLWC,West Three Airport,FLWC,,Nyoka,ZM,-13.355300,26.600599,3650
+FLWD,West Four Airport,FLWD,,West Four,ZM,-13.645400,25.421900,3400
+FLWE,West Five Airport,FLWE,,Lipanda,ZM,-13.964200,24.460600,3550
+FLWF,West Six Airport,FLWF,,Kauni,ZM,-12.217200,27.490499,4000
+FLWG,West Seven Airport,FLWG,,Chanika,ZM,-11.912700,25.684401,4000
+FLWW,Waka Waka Airport,FLWW,,Waka Waka,ZM,-12.450400,32.257000,1800
+FLYA,Samfya Airport,FLYA,,Samfya,ZM,-11.365300,29.548100,3800
+FLZB,Zambezi Airport,FLZB,BBZ,Zambezi,ZM,-13.536100,23.108500,3538

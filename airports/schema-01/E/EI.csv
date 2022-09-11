@@ -1,0 +1,43 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EIAB,Abbeyshrule Aerodrome,EIAB,,Abbeyshrule,IE,53.591702,-7.645560,195
+EIBA,Ballyboughal Aerodrome,EIBA,,Fingal,IE,53.533699,-6.246070,180
+EIBB,Brittas Bay Airport,EIBB,,Brittas Bay,IE,52.851101,-6.076640,50
+EIBN,Bantry Aerodrome,EIBN,BYT,Bantry,IE,51.668598,-9.484170,7
+EIBR,Birr Aerodrome,EIBR,,Birr,IE,53.070599,-7.898330,250
+EIBT,Belmullet Aerodrome,EIBT,BLY,Belmullet,IE,54.222801,-10.030800,150
+EICA,Connemara Regional Airport,EICA,NNR,Inverin,IE,53.230301,-9.467780,70
+EICD,Castlebridge Airport,EICD,WEX,Wexford,IE,52.333332,-6.466667,79
+EICK,Cork Airport,EICK,ORK,Cork,IE,51.841301,-8.491110,502
+EICL,Clonbullogue Aerodrome,EICL,,Clonbullogue,IE,53.249657,-7.122746,240
+EICM,Galway Airport,EICM,GWY,Galway,IE,53.300201,-8.941590,81
+EICN,Coonagh Aerodrome,EICN,,Limerick,IE,52.666500,-8.681830,6
+EICS,Castleforbes Airport,EICS,,Castleforbes,IE,53.778301,-7.835280,150
+EIDL,Donegal Airport,EIDL,CFN,Donegal,IE,55.044201,-8.341000,30
+EIDW,Dublin Airport,EIDW,DUB,Dublin,IE,53.421299,-6.270070,242
+EIER,Erinagh Airport,EIER,,Nenagh,IE,52.812500,-8.282222,155
+EIGM,Gormanston Aerodrome,EIGM,,Gormanston,IE,53.634800,-6.227700,69
+EIGN,Gowran Grange Aerodrome,EIGN,,Swordlestown,IE,53.178600,-6.635280,489
+EIHN,Hacketstown Aerodrome,EIHN,,Hacketstown,IE,52.855000,-6.547220,610
+EIIH,Midland Heliport,EIIH,,Abbeyleix,IE,52.892223,-7.262778,614
+EIIM,Inishmore Aerodrome,EIIM,IOR,Inis Mór,IE,53.106701,-9.653610,24
+EIIR,Inisheer Aerodrome,EIIR,INQ,Inis Oírr,IE,53.064701,-9.510900,40
+EIKH,Kildare Aerodrome,EIKH,,Kilrush,IE,53.063599,-6.855280,260
+EIKI,Killenaule Airport,EIKI,,Killenaule,IE,52.632999,-7.633000,680
+EIKK,Kilkenny Airport,EIKK,KKY,Kilkenny,IE,52.650799,-7.296110,319
+EIKN,Ireland West Knock Airport,EIKN,NOC,Charleston,IE,53.910301,-8.818490,665
+EIKY,Kerry Airport,EIKY,KIR,Killarney,IE,52.180901,-9.523780,112
+EILT,Letterkenny Airport,EILT,LTR,Letterkenny,IE,54.951302,-7.672830,20
+EIME,Casement Air Base,EIME,,Baldonnel,IE,53.301701,-6.451330,319
+EIMG,Moneygall Aerodrome,EIMG,,Moneygall,IE,52.849998,-7.983000,450
+EIMH,Athboy Airport,EIMH,,Athboy,IE,53.637779,-6.878611,230
+EIMN,Inishmaan Aerodrome,EIMN,IIA,Inis Meáin,IE,53.092999,-9.568060,15
+EIMY,Moyne Aerodrome,EIMY,,Thurles,IE,52.703098,-7.705280,400
+EINC,Newcastle Aerodrome,EINC,,Newcastle,IE,53.071098,-6.045280,1
+EINN,Shannon Airport,EINN,SNN,Shannon,IE,52.702000,-8.924820,46
+EIPT,Powerscourt Airfield,EIPT,,Powerscourt,IE,53.178301,-6.196495,470
+EIRT,Rathcoole Aerodrome,EIRT,,Rathcoole,IE,52.105598,-8.983330,281
+EISG,Sligo Airport,EISG,SXL,Sligo,IE,54.280201,-8.599210,11
+EITM,Trim Aerodrome,EITM,,Trim,IE,53.574699,-6.738610,200
+EITT,Trevet Airfield,EITT,,Dunshaughlin,IE,53.548611,-6.516944,385
+EIWF,Waterford Airport,EIWF,WAT,Waterford,IE,52.187199,-7.086960,119
+EIWT,Weston Airport,EIWT,,Leixlip,IE,53.352200,-6.486110,150

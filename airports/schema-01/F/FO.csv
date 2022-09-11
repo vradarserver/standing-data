@@ -1,0 +1,28 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FOA,Foula Airport,,FOA,Foula,GB,60.121000,-2.052000,0
+FOGB,Booue Airport,FOGB,BGB,Booue,GA,-0.100000,11.950000,604
+FOGE,Ndende Airport,FOGE,KDN,Ndende,GA,-2.400000,11.367000,417
+FOGF,Fougamou Airport,FOGF,FOU,Fougamou,GA,-1.283000,10.617000,263
+FOGG,M'Bigou Airport,FOGG,MBC,M'Bigou,GA,-1.883000,11.933000,2346
+FOGI,Moabi Airport,FOGI,MGX,Moabi,GA,-2.433000,11.000000,787
+FOGJ,Ville Airport,FOGJ,KDJ,N'Djolé,GA,-0.183000,10.750000,164
+FOGK,Koulamoutou Airport,FOGK,KOU,Koulamoutou,GA,-1.184610,12.441300,1070
+FOGM,Mouilla Ville Airport,FOGM,MJL,Mouila,GA,-1.845140,11.056700,295
+FOGO,Oyem Airport,FOGO,OYE,Oyem,GA,1.543110,11.581400,2158
+FOGQ,Okondja Airport,FOGQ,OKN,Okondja,GA,-0.665214,13.673100,1325
+FOGR,Lambarene Airport,FOGR,LBQ,Lambarene,GA,-0.704389,10.245700,82
+FOGV,Minvoul Airport,FOGV,MVX,Minvoul,GA,2.150000,12.133000,1969
+FOOB,Bitam Airport,FOOB,BMM,Bitam,GA,2.075640,11.493200,1969
+FOOC,Cocobeach Airport,FOOC,,Cocobeach,GA,1.000000,9.583000,69
+FOOD,Moanda Airport,FOOD,MFF,Moanda,GA,-1.533000,13.267000,1877
+FOOE,Mekambo Airport,FOOE,MKB,Mekambo,GA,1.017000,13.933000,1686
+FOOG,Port Gentil Airport,FOOG,POG,Port Gentil,GA,-0.711739,8.754380,13
+FOOH,Omboue Hopital Airport,FOOH,OMB,Omboue,GA,-1.574730,9.262690,33
+FOOK,Makokou Airport,FOOK,MKU,Makokou,GA,0.579211,12.890900,1726
+FOOL,Leon M Ba Airport,FOOL,LBV,Libreville,GA,0.458600,9.412280,39
+FOOM,Mitzic Airport,FOOM,MZC,Mitzic,GA,0.783000,11.550000,1913
+FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,FOON,MVB,Franceville,GA,-1.656160,13.438000,1450
+FOOR,Lastourville Airport,FOOR,LTL,Lastourville,GA,-0.826667,12.748600,1585
+FOOS,Sette Cama Airport,FOOS,ZKM,Sette Cama,GA,-2.533000,9.767000,10
+FOOT,Tchibanga Airport,FOOT,TCH,Tchibanga,GA,-2.850000,11.017000,269
+FOOY,Mayumba Airport,FOOY,MYB,Mayumba,GA,-3.458420,10.674076,13

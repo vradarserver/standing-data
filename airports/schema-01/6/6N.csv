@@ -1,0 +1,54 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+6NA0,Strom Private Airport,6NA0,,Columbus,US,48.993099,-102.737999,1930
+6NA2,South Hector Airstrip,6NA2,,Fargo,US,46.792500,-96.803703,910
+6NA5,Chase Airstrip,6NA5,,Hebron,US,46.912800,-102.009003,2140
+6NA6,Marsh Brothers Airstrip,6NA6,,Newburg,US,48.619202,-100.977997,1481
+6NA7,Kersten Brothers Airport,6NA7,,Newburg,US,48.730301,-100.921997,1473
+6NC0,Cox-Grantham Airfield,6NC0,,Grantham,US,35.289101,-78.180000,157
+6NC1,Little Mountain Airport,6NC1,,Denver,US,35.591702,-81.079399,1030
+6NC2,Wilhelm Airport,6NC2,,Kannapolis,US,35.511200,-80.558098,750
+6NC3,Eastover Air Ranch Airport,6NC3,,Fayetteville,US,35.086399,-78.772202,160
+6NC4,Brown STOLport,6NC4,,Taylorsville,US,35.905701,-81.139503,1170
+6NC5,Thompson Farms Airport,6NC5,,Whitakers,US,36.017899,-77.661903,100
+6NC6,North Carolina Helicopters Heliport,6NC6,,Gastonia,US,35.282200,-81.247002,814
+6NC7,Circle P Farm Airport,6NC7,,Newport,US,34.751400,-76.906097,30
+6NC8,Marchmont Plantation Airpark,6NC8,,Advance,US,35.938202,-80.384499,730
+6NC9,Moss Hill Airport,6NC9,,Kinston,US,35.202099,-77.750504,30
+6ND2,Larson Airport,6ND2,,Fullerton,US,46.258900,-98.387901,1442
+6ND3,Lisburg Airport,6ND3,,Argusville,US,47.069698,-96.940598,885
+6ND6,Fugleberg Farm Airport,6ND6,,Portland,US,47.516701,-97.550400,1090
+6ND9,Skinningsrud Airport,6ND9,,Berthold,US,48.392799,-101.764000,2010
+6NE0,Van Boening Airport,6NE0,,Wallace,US,40.786900,-101.166000,3102
+6NE5,Jan Pad Heliport,6NE5,,Lincoln,US,40.833302,-96.568298,1160
+6NE7,Lee Field,6NE7,,Bartley,US,40.244400,-100.337997,2450
+6NE8,Hoppy's Airport,6NE8,,Benkelman,US,40.086899,-101.569000,3227
+6NE9,Hoesel Airport,6NE9,,Callaway,US,41.268101,-99.887901,2600
+6NJ0,Lentine South Airport,6NJ0,,Warren Grove,US,39.787102,-74.377403,150
+6NJ1,Vliet Airport,6NJ1,,Washington,US,40.740398,-74.956802,460
+6NJ2,Tamarack Flyers Heliport,6NJ2,,Branchville,US,41.154301,-74.713203,490
+6NJ3,Wayne Office Helistop,6NJ3,,Wayne,US,40.979301,-74.250999,406
+6NJ4,Griffin Associates Heliport,6NJ4,,Moorestown,US,39.972099,-74.919601,68
+6NJ5,Lincoln Tunnel Heliport,6NJ5,,Weehawken,US,40.764500,-74.023804,66
+6NJ6,185 Monmouth Parkway Associates Helistop,6NJ6,,West Long Branch,US,40.300098,-74.025398,20
+6NJ7,Greenwood Lake Seaplane Base,6NJ7,,West Milford,US,41.180099,-74.334297,635
+6NJ8,Lance Airport,6NJ8,,Whitehouse Station,US,40.591801,-74.791298,275
+6NJ9,Bridgeport-Cahill Field,6NJ9,,Bridgeport,US,39.791801,-75.374603,15
+6NK0,Knapp Airport,6NK0,,Schenevus,US,42.629200,-74.820801,1300
+6NK1,Casey's Airport,6NK1,,Warsaw,US,42.756401,-78.175598,1600
+6NK2,Meerwarth Airport,6NK2,,White Creek,US,42.950600,-73.334702,640
+6NK3,North Shore University Hospital Nr 2 Heliport,6NK3,,Manhasset,US,40.769402,-73.705299,200
+6NK4,Ttt Air Airport,6NK4,,North Collins,US,42.597801,-78.968903,891
+6NK5,Erie County Medical Center Heliport,6NK5,,Buffalo,US,42.926701,-78.832802,728
+6NK6,New York State D.E.C. Indian Lake Heliport,6NK6,,Indian Lake,US,43.768101,-74.263298,1705
+6NK7,Computer Associates Heliport,6NK7,,Islandia,US,40.812199,-73.175797,80
+6NK8,Flying K Airport,6NK8,,Oneida,US,43.009800,-76.640503,1350
+6NK9,Cec Heliport,6NK9,,Marcy,US,43.177200,-75.227798,1072
+6NY1,Old Port Royal Airport,6NY1,,Corning,US,42.112900,-77.089401,1700
+6NY2,Omni Airpark,6NY2,,Horseheads,US,42.231998,-76.846901,970
+6NY3,Airy-Acres Airport,6NY3,,Interlaken,US,42.644001,-76.729698,805
+6NY4,West Township Airport,6NY4,,Knox,US,42.700401,-74.155098,1260
+6NY5,Mary Immaculate Hospital Heliport,6NY5,,Jamaica Queens,US,40.705399,-73.804604,15
+6NY6,Firemans White Lake Seaplane Base,6NY6,,Kauneonga Lake,US,41.684299,-74.831596,1323
+6NY7,Piolis Brookside Airport,6NY7,,Kerhonkson,US,41.865398,-74.332901,1060
+6NY8,IBM Kingston Plant Heliport,6NY8,,Kingston,US,41.973400,-73.997398,170
+6NY9,Benedictine Hospital Heliport,6NY9,,Kingston,US,41.920898,-73.999603,262

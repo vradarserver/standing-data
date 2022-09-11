@@ -1,0 +1,241 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+WA00,Mercer Ranch Airport,WA00,,Alderdale,US,45.900002,-119.905998,780
+WA01,Wirkkala Airport,WA01,,Naselle,US,46.356201,-123.815002,35
+WA02,The Island Hospital Heliport,WA02,,Anacortes,US,48.502602,-122.614998,150
+WA03,Tristan Heliport,WA03,,Sumas,US,48.987147,-122.287736,48
+WA04,Kyles Airport,WA04,,Snohomish,US,47.813301,-122.042999,470
+WA05,Apex Airpark,WA05,,Silverdale,US,47.656799,-122.733002,525
+WA06,Don Johnson Home Heliport,WA06,,Auburn,US,47.302299,-122.151001,429
+WA07,Barker Airport,WA07,,Mount Vernon,US,48.374802,-122.338997,5
+WA08,Zwainz Farms Airport,WA08,,Reardan,US,47.720699,-117.908997,2795
+WA09,Roche Harbor Airport,WA09,,Roche Harbor,US,48.612301,-123.139000,100
+WA10,Gosney Airport,WA10,,Kaycee,US,43.722198,-106.667000,4830
+WA11,Boeing Military Airplanes Heliport,WA11,,Tukwila,US,47.522598,-122.305000,6
+WA12,Acme Field,WA12,,Acme,US,48.709599,-122.178001,301
+WA13,Seaplane Landing Area Seaplane Base,WA13,,Chelan,US,48.208302,-120.592003,1100
+WA14,Connell City Airport,WA14,,Connell,US,46.662399,-118.833000,925
+WA15,Coulee City Airport,WA15,,Coulee City,US,47.616501,-119.242996,1800
+WA16,Banas Field,WA16,,Brooklyn,US,46.799702,-123.541000,180
+WA17,Majerle Strip STOLport,WA17,,Duvall,US,47.755299,-121.982002,75
+WA18,Decatur /Jones/ Airport,WA18,,Decatur Island,US,48.510101,-122.803001,125
+WA19,Berkley Structures Heliport,WA19,,Redmond,US,47.682043,-122.148456,50
+WA1B,Aru Airport,WA1B,,Fekfetal / Jerdera-Trangan Island,ID,-6.573420,134.147003,165
+WA20,Gray Ranch Airport,WA20,,Benge,US,46.848099,-118.177002,1625
+WA21,Elk Heights Airport,WA21,,Elk,US,48.001999,-117.263000,2020
+WA22,Mirth Airport,WA22,,Hansville,US,47.938599,-122.608002,190
+WA23,Pine Bluff Airport,WA23,,Springdale,US,48.021000,-117.738998,2021
+WA24,Pfister's Airport,WA24,,Pasco,US,46.396900,-119.021004,625
+WA25,Green Valley Airfield,WA25,,Granite Falls,US,48.095901,-122.015999,300
+WA26,Harrah Airport,WA26,,Harrah,US,46.408199,-120.635002,845
+WA27,Tom Matson Enumclaw Heliport,WA27,,Enumclaw,US,47.198898,-121.988998,793
+WA28,Private H/C PAD Heliport,WA28,,Auburn,US,47.332883,-122.256089,98
+WA29,La Center View-Air Airport,WA29,,La Center,US,45.895699,-122.594002,811
+WA30,Lacrosse Municipal Airport,WA30,,Lacrosse,US,46.791000,-117.920998,1491
+WA31,Reoh1 Heliport,WA31,,Lake Stevens,US,48.038700,-122.060997,293
+WA32,Stonehedge Heliport,WA32,,Olympia,US,46.974998,-122.790001,210
+WA33,Shaw Island Trust Heliport,WA33,,Shaw Island,US,48.585800,-122.920998,80
+WA34,Newhalem Office Heliport,WA34,,Newhalem,US,48.671902,-121.251999,504
+WA35,Clam Harbor Airport,WA35,,Eastsound,US,48.622299,-122.946999,220
+WA37,Chinook Farms Airport,WA37,,Kittitas,US,46.910301,-120.436996,1880
+WA38,South Cove Heliport,WA38,,Redmond,US,47.688900,-122.137001,37
+WA39,Woodfield Airport,WA39,,Kennewick,US,46.127800,-119.017998,445
+WA40,Darrington Clinic Ems Heliport,WA40,,Darrington,US,48.257198,-121.607002,550
+WA41,Bear Canyon West Field,WA41,,Morton,US,46.598900,-122.484001,980
+WA42,Stacey's Airport,WA42,,Port Townsend,US,47.972000,-122.772003,100
+WA43,Janes Heliport,WA43,,Marysville,US,48.042000,-122.225998,100
+WA44,Maranggo Airport,WA44,,Waha-Tomea Island,ID,-5.764570,123.917000,169
+WA45,Olympic Field,WA45,,Discovery Bay/Maynard,US,47.995300,-122.900002,500
+WA46,Daybreak Airport,WA46,,La Center,US,45.830299,-122.637001,25
+WA47,Flying Rock Airpark,WA47,,Ellensburg,US,47.153702,-120.637001,2700
+WA49,Flying R Ranch Airport,WA49,,Cheney,US,47.502800,-117.648003,2450
+WA50,Fire District 5 Ems Heliport,WA50,,Gig Harbor,US,47.352203,-122.625137,280
+WA51,Samaritan Hospital Rms Heliport,WA51,,Moses Lake,US,47.128601,-119.264000,1130
+WA52,Deer Flat Airport,WA52,,Deer Park,US,47.956902,-117.603996,2200
+WA53,Harborview Medical Center Heliport,WA53,,Seattle,US,47.604000,-122.322998,315
+WA54,1001 Fourth Avenue Plaza Heliport,WA54,,Seattle,US,47.606800,-122.334000,716
+WA55,Elliott Park Heliport,WA55,,Seattle,US,47.619801,-122.361000,100
+WA56,Israel's Farm Airport,WA56,,Sedro Woolley,US,48.507599,-122.092003,65
+WA57,Bluecreek Airport,WA57,,Addy,US,48.313900,-117.839996,1740
+WA58,Eliza Island Airport,WA58,,Bellingham,US,48.652606,-122.584617,8
+WA59,Rake's Glen Airport,WA59,,Sequim,US,48.124802,-123.176003,50
+WA60,Longview Bridge Medical Emergency Heliport,WA60,,Ranier,US,46.098099,-122.966003,16
+WA61,Thompson Airport,WA61,,Kingston,US,47.798302,-122.529999,50
+WA62,Paradise Air Ranch Airport,WA62,,Spangle,US,47.470699,-117.418999,2352
+WA63,Pleasant Farm Airport,WA63,,Washougal,US,45.562342,-122.256089,540
+WA65,Washington National Guard - Sinclair Hgts Heliport,WA65,,Bremerton,US,43.554798,-122.681999,340
+WA66,Spring Creek Ranch Airport,WA66,,White Salmon,US,45.805401,-121.500999,475
+WA67,Green Mountain STOLport,WA67,,Vancouver,US,45.663101,-122.473000,270
+WA68,Sky Valley Airstrip,WA68,,Port Townsend,US,48.076944,-122.840661,140
+WA69,Wax Orchards Airport,WA69,,Vashon,US,47.401798,-122.498001,389
+WA70,Frosty Creek Airport,WA70,,Tonasket,US,48.577702,-118.985001,3608
+WA71,Kelly Ranch Heliport,WA71,,Issaquah,US,47.537300,-122.060997,100
+WA72,Zema Private Airport,WA72,,Colville,US,48.644699,-117.938004,1854
+WA73,Smith Airport,WA73,,Colville,US,48.525002,-117.852997,2240
+WA74,Quincy Flying Service Airport,WA74,,Quincy,US,47.226700,-119.908997,1276
+WA75,Flying 'O' Ranch Heliport,WA75,,Covington,US,47.369202,-122.069000,563
+WA76,Columbia Crest Winery Airport,WA76,,Paterson,US,45.956200,-119.620003,640
+WA77,Enumclaw Airport,WA77,,Enumclaw,US,47.195702,-122.022003,738
+WA78,Sky River Ranch Airport,WA78,,Washougal,US,45.627899,-122.184998,1239
+WA79,Walter Sutton's Private Strip,WA79,,Amboy,US,45.933201,-122.417999,451
+WA80,Mc Clellan Field,WA80,,Amboy,US,45.894299,-122.547997,840
+WA82,The Boeing Company Heliport,WA82,,Everett,US,47.931198,-122.264999,628
+WA84,Auburn Academy Airport,WA84,,Auburn,US,47.280701,-122.150002,416
+WA85,Weyerhaeuser Heliport,WA85,,Auburn,US,47.298199,-122.297997,409
+WA86,Boeing - Auburn Complex Heliport,WA86,,Auburn,US,47.294300,-122.245003,85
+WA87,Parkside Airpark,WA87,,Battle Ground,US,45.815899,-122.553001,275
+WA88,Horse Fly Airport,WA88,,Ferndale,US,48.892899,-122.556999,70
+WA89,Kadlec Medical Center Heliport,WA89,,Richland,US,46.282376,-119.280474,384
+WA90,Floathaven Airstrip,WA90,,Bellingham,US,48.733200,-122.350998,325
+WA91,Pathfinder Helicopter Heliport,WA91,,Spokane,US,47.758801,-117.154999,3440
+WA92,Mc Neil Island Emergency Pad Heliport,WA92,,Steilacoom,US,47.196201,-122.663002,40
+WA94,Washington Air Museum Heliport,WA94,,Black Diamond,US,47.334000,-122.024002,500
+WA95,Skyqueen Airport,WA95,,Centralia,US,46.718601,-122.911003,530
+WA96,Leisureland Airpark,WA96,,Bremerton,US,47.607498,-122.774002,430
+WA97,Buena Airport,WA97,,Buena,US,46.443199,-120.341003,830
+WA98,Cascade Heliport,WA98,,Cashmere,US,47.512346,-120.488691,860
+WA99,Flying K Ranch Airport,WA99,,Castle Rock,US,46.329300,-122.886002,160
+WAAA,Hasanuddin International Airport,WAAA,UPG,Ujung Pandang-Celebes Island,ID,-5.061630,119.554001,47
+WAAG,Malimpung Airport,WAAG,,Malimpung-Celebes Island,ID,-3.726944,119.736389,124
+WAAI,Malili Airport,WAAI,,Malili-Celebes Island,ID,-2.634167,121.096664,19
+WAAL,Ponggaluku Airport,WAAL,,Wawooru-Celebes Island,ID,-4.316667,122.466667,43
+WAAP,Kolaka Airport,WAAP,,Kolaka-Celebes Island,ID,-4.063770,121.624001,49
+WAAT,Makale Airport,WAAT,,Makale-Celebes Island,ID,-3.109360,119.856003,2711
+WABB,Frans Kaisiepo Airport,WABB,BIK,Biak-Supiori Island,ID,-1.190020,136.108002,46
+WABD,Moanamani Airport,WABD,ONI,Moanamani-Papua Island,ID,-3.983402,136.083298,5204
+WABG,Wagethe Airport,WABG,WET,Wagethe-Papua Island,ID,-4.044230,136.278000,5627
+WABI,Nabire Airport,WABI,NBX,Nabire-Papua Island,ID,-3.368180,135.496002,20
+WABL,Illaga Airport,WABL,ILA,Illaga-Papua Island,ID,-3.833280,137.582993,6307
+WABN,Kokonau Airport,WABN,KOX,Kokonau-Papua Island,ID,-4.716667,136.433334,9
+WABO,Serui Airport,WABO,ZRI,Serui-Japen Island,ID,-1.875580,136.240997,50
+WABT,Enarotali Airport,WABT,EWI,Enarotali-Papua Island,ID,-3.925900,136.376999,5807
+WABU,Biak Manuhua Airport,WABU,,Biak-Supiori Island,ID,-1.173590,136.080002,33
+WABW,Waren Airport,WABW,,Celebes Island,ID,-1.628530,134.123993,29
+WADA,Selaparang Airport,WADA,AMI,Mataram-Lombok Island,ID,-8.560710,116.095001,52
+WADB,Muhammad Salahuddin Airport,WADB,BMU,Bima-Sumbawa Island,ID,-8.539650,118.686996,3
+WADD,Ngurah Rai (Bali) International Airport,WADD,DPS,Denpasar-Bali Island,ID,-8.748170,115.167000,14
+WADL,Bandara International Lombok Airport,WADL,LOP,Mataram,ID,-8.757322,116.276675,319
+WADS,Sumbawa Besar Airport,WADS,SWQ,Sumbawa Island,ID,-8.489040,117.412003,16
+WADW,Waingapu Airport,WADW,WGP,Waingapu-Sumba Island,ID,-9.669220,120.302002,33
+WADY,Banyuwangi International Airport,WADY,BWX,Banyuwangi,ID,-8.310000,114.340278,110
+WAEE,Sultan Babullah Airport,WAEE,TTE,Ternate,ID,0.831414,127.380997,49
+WAFO,Bandar Udara Maleo,WAFO,MOH,Morowali,ID,-2.203333,121.660278,60
+WAGI,Iskandar Airport,WAGI,PKN,Pangkalanbun-Borneo Island,ID,-2.705200,111.672997,75
+WAGS,Sampit(Hasan) Airport,WAGS,SMQ,Sampit-Borneo Island,ID,-2.499190,112.974998,50
+WAHH,Adi Sutjipto International Airport,WAHH,JOG,Yogyakarta,ID,-7.788180,110.431999,350
+WAHI,Yogyakarta International Airport,WAHI,YIA,Temon district,ID,-7.907459,110.054480,24
+WAHQ,Adi Sumarmo Wiryokusumo Airport,WAHQ,SOC,Sukarata(Solo)-Java Island,ID,-7.516090,110.757004,421
+WAHS,Achmad Yani Airport,WAHS,SRG,Semarang-Java Island,ID,-6.972730,110.375000,10
+WAJA,Arso Airport,WAJA,ARJ,Arso-Papua Island,ID,-2.933333,140.783340,208
+WAJB,Bokondini Airport,WAJB,BUI,Bokondini-Papua Island,ID,-3.583645,138.533447,9104
+WAJD,Wakde Airport,WAJD,,Masi Masi Island,ID,-1.935290,139.020004,3
+WAJI,Sarmi Airport,WAJI,ZRM,Sarmi-Papua Island,ID,-1.869550,138.750000,3
+WAJJ,Sentani Airport,WAJJ,DJJ,Jayapura-Papua Island,ID,-2.576950,140.516006,289
+WAJL,Lereh Airport,WAJL,LHI,Lereh-Papua Island,ID,-3.127900,139.942993,1317
+WAJM,Mulia Airport,WAJM,LII,Mulia-Papua Island,ID,-3.709470,137.975998,6527
+WAJO,Oksibil Airport,WAJO,OKL,Oksibil-Papua Island,ID,-5.091060,140.610001,2500
+WAJR,Waris Airport,WAJR,WAR,Waris-Papua Island,ID,-3.222430,140.979004,1
+WAJS,Senggeh Airport,WAJS,SEH,Senggeh-Papua Island,ID,-3.433330,140.817001,914
+WAJU,Ubrub Airport,WAJU,UBR,Ubrub-Papua Island,ID,-3.666670,140.850006,1370
+WAJW,Wamena Airport,WAJW,WMX,Wamena-Papua Island,ID,-4.102510,138.957001,5085
+WAKD,Mindiptana Airport,WAKD,MDP,Mindiptana-Papua Island,ID,-5.750000,140.367004,157
+WAKE,Bade Airport,WAKE,BXD,Bade-Papua Island,ID,-7.714630,139.574997,59
+WAKG,Agats Airport,WAKG,,Agats-Papua Island,ID,-5.541460,138.133331,17
+WAKK,Mopah Airport,WAKK,MKQ,Merauke-Papua Island,ID,-8.520290,140.417999,10
+WAKO,Okaba Airport,WAKO,OKQ,Okaba-Papua Island,ID,-8.088220,139.718994,23
+WAKP,Kepi Airport,WAKP,KEI,Kepi-Papua Island,ID,-6.594370,139.356995,67
+WAKT,Tanah Merah Airport,WAKT,TMH,Tanah Merah-Papua Island,ID,-6.099220,140.298004,57
+WALE,Melak Airport,WALE,,Melak-Borneo Island,ID,-0.203611,115.760002,330
+WALG,Tanjung Harapan Airport,WALG,TJS,Tanjung Selor-Borneo Island,ID,2.835833,117.373611,10
+WALJ,Datadawai Airport,WALJ,DTD,Datadawai-Borneo Island,ID,0.626000,116.600600,229
+WALL,Sultan Aji Muhamad Sulaiman Airport,WALL,BPN,Kotamadya Balikpapan,ID,-1.268270,116.893997,12
+WALQ,Muara Badak Pujangan Airport,WALQ,,Muara Badak-Borneo Island,ID,-0.306075,117.416000,49
+WALS,Aji Pangeran Tumenggung Pranoto International Airport,WALS,AAP,Samarinda,ID,-0.373611,117.255556,82
+WALT,Tanjung Santan Airport,WALT,TSX,Santan-Borneo Island,ID,-0.092973,117.453003,121
+WALV,Bunyu Airport,WALV,BYQ,Bunju Island,ID,3.455720,117.866997,118
+WALX,Mangkajang Airport,WALX,,Mangkajang-Borneo Island,ID,2.007510,117.749001,47
+WALY,Senipah Heliport,WALY,SZH,Senipah-Borneo Island,ID,-0.966670,117.133003,88
+WAMA,Gamarmalamo Airport,WAMA,GLX,Galela-Celebes Island,ID,1.838330,127.786003,180
+WAMB,Kotamubagu Airport,WAMB,,Kotamubagu-Celebes Island,ID,0.728889,124.308891,752
+WAMC,Tentena Airport,WAMC,,Tentena-Celebes Island,ID,-2.000000,120.766670,1900
+WAMD,Jailolo/Kuripasai Airport,WAMD,,Kuripasai-Celebes Island,ID,1.117000,127.483002,50
+WAMG,Jalaluddin Airport,WAMG,GTO,Gorontalo-Celebes Island,ID,0.637119,122.849998,105
+WAMH,Naha Airport,WAMH,NAH,Tahuna-Sangihe Island,ID,3.683210,125.528000,16
+WAMI,Toli Toli Airport,WAMI,TLI,Toli Toli-Celebes Island,ID,-1.029770,120.817001,40
+WAMJ,Gebe Airport,WAMJ,GEB,Gebe Island,ID,-0.078889,129.457993,125
+WAMK,Kao Airport,WAMK,KAZ,Kao-Celebes Island,ID,1.185280,127.896004,27
+WAML,Mutiara Airport,WAML,PLW,Palu-Celebes Island,ID,-0.918542,119.910004,284
+WAMM,Sam Ratulangi Airport,WAMM,MDC,Manado-Celebes Island,ID,1.549260,124.926003,264
+WAMN,Melangguane Airport,WAMN,MNA,Karakelong Island,ID,4.006940,126.672997,3
+WAMP,Kasiguncu Airport,WAMP,PSJ,Poso-Celebes Island,ID,-1.416750,120.657997,174
+WAMR,Pitu Airport,WAMR,OTI,Gotalalamo-Morotai Island,ID,2.045990,128.324997,49
+WAMU,Wuasa Airport,WAMU,,Wuasa-Celebes Island,ID,-1.425000,120.316391,1
+WAMW,Bubung Airport,WAMW,LUW,Luwok-Celebes Island,ID,-1.038920,122.772003,56
+WAMY,Buol Airport,WAMY,UOL,Buol-Celebes Island,ID,1.159050,121.428001,5
+WAOC,Batu Licin Airport,WAOC,BTW,Batu Licin-Borneo Island,ID,-3.412410,115.995003,3
+WAOH,Mekar Putih Airport,WAOH,,Mekar Putih-Laut Island,ID,-3.989910,116.101997,197
+WAOK,Stagen Airport,WAOK,KBU,Laut Island,ID,-3.294720,116.165001,4
+WAOL,Kuala Pembuang Airport,WAOL,,Kuala Pembuang,ID,-2.866670,112.532997,13
+WAOM,Beringin Airport,WAOM,MTW,Murateweh-Borneo Island,ID,-0.940325,114.893875,126
+WAON,Warukin Airport,WAON,TJG,Tanta-Tabalong-Borneo Island,ID,-2.216560,115.435997,197
+WAOO,Syamsudin Noor Airport,WAOO,BDJ,Banjarmasin-Borneo Island,ID,-3.442360,114.763000,66
+WAOP,Tjilik Riwut Airport,WAOP,PKY,Palangkaraya-Kalimantan Tengah,ID,-2.225130,113.943001,82
+WAOU,"SANGGU Airport, Buntok",WAOU,,Buntok,ID,-1.669300,114.898003,23
+WAPA,Amahai Airport,WAPA,AHI,Amahai-Seram Island,ID,-3.348000,128.925995,29
+WAPB,Bula Airport,WAPB,,Bula-Seram Island,ID,-3.109960,130.509995,10
+WAPC,"Banda Airport, Kepulauan",WAPC,,Banda Island,ID,5.116670,97.116699,49
+WAPD,Dobo Airport,WAPD,DOB,Dobo-Kobror Island,ID,-5.772220,134.212006,15
+WAPE,"Mangole Airport, Falabisahaya",WAPE,MAL,Mangole Island,ID,-1.875790,125.830002,889
+WAPG,Namrole Airport,WAPG,NRE,Namrole-Buru Island,ID,-3.820810,126.718002,997
+WAPH,"Oesman Sadik Airport, Labuha",WAPH,LAH,Labuha-Halmahera Island,ID,-0.635259,127.501999,49
+WAPI,Saumlaki Airport,WAPI,SXK,Saumlaki-Yamdena Island,ID,-7.988610,131.306000,218
+WAPK,Nangasuri Airport,WAPK,BJK,Maikoor Island,ID,-6.066200,134.274002,82
+WAPL,Dumatumbun Airport,WAPL,LUV,Langgur-Seram Island,ID,-5.661620,132.731003,10
+WAPN,Emalamo Sanana Airport,WAPN,SQN,Sanana-Seram Island,ID,-2.080510,125.967003,39
+WAPO,"Larat, Kepulauan Larat",WAPO,,Kepulauan Larat,ID,-7.133330,131.783005,80
+WAPP,"Pattimura Airport, Ambon",WAPP,AMQ,Ambon,ID,-3.710260,128.089005,33
+WAPQ,Kisar Airport,WAPQ,,Kisar-Kisar Island,ID,-8.018490,127.196999,6
+WAPR,Namlea Airport,WAPR,NAM,Namlea-Buru Island,ID,-3.235570,127.099998,41
+WAPT,Taliabu Island Airport,WAPT,TAX,Tikong-Taliabu Island,ID,-1.642630,124.558998,9
+WAPV,"Wahai,Seram Island",WAPV,,Seram Island,ID,-2.814170,129.481995,551
+WAQQ,Juwata Airport,WAQQ,TRK,Tarakan Island,ID,3.326667,117.569444,23
+WAQT,Barau(Kalimaru) Airport,WAQT,BEJ,Tanjung Redep-Borneo Island,ID,2.155500,117.431999,59
+WARA,Abdul Rachman Saleh Airport,WARA,MLG,Malang-Java Island,ID,-7.926560,112.714996,1726
+WARC,Cepu Airport,WARC,CPF,Tjepu-Java Island,ID,-7.194842,111.548167,131
+WARE,Notohadinegoro Airport,WARE,JBB,Jember,ID,-8.241111,113.693889,281
+WARI,Iswahyudi Airport,WARI,,Madiun-Java Island,ID,-7.615770,111.433998,361
+WARR,Juanda International Airport,WARR,SUB,Surabaya,ID,-7.379830,112.787003,9
+WART,Trunojoyo Airport,WART,SUP,Sumenep-Madura Island,ID,-7.024250,113.890206,10
+WASB,Stenkol Airport,WASB,NTI,Bintuni-Papua Island,ID,-2.104160,133.522003,57
+WASC,Abresso Airport,WASC,RSK,Ransiki-Papua Island,ID,-1.508450,134.186996,52
+WASE,Kebar Airport,WASE,KEQ,Kebar-Papua Island,ID,-0.637101,133.128006,2050
+WASF,Fakfak Airport,WASF,FKQ,Fakfak-Papua Island,ID,-2.920190,132.266998,462
+WASI,Inanwatan Airport,WASI,INX,Inanwatan Airport-Papua Island,ID,-2.128100,132.160995,9
+WASK,Kaimana Airport,WASK,KNG,Kaimana-Papua Island,ID,-3.644520,133.695999,19
+WASM,Merdei Airport,WASM,RDE,Merdei-Papua Island,ID,-1.583330,133.332993,425
+WASO,Babo Airport,WASO,BXB,Babo-Papua Island,ID,-2.532240,133.438995,10
+WASS,Sorong (Jefman) Airport,WASS,SOQ,Sorong-Papua Island,ID,-0.926358,131.121002,10
+WAST,Teminabuan Airport,WAST,TXM,Atinjoe-Papua Island,ID,-1.444720,132.020996,141
+WASW,Wasior Airport,WASW,WSR,Wasior-Papua Island,ID,-2.733590,134.518005,565
+WATB,Bajawa Soa Airport,WATB,BJW,Bajawa,ID,-8.707435,121.057427,4326
+WATC,Maumere(Wai Oti) Airport,WATC,MOF,Maumere-Flores Island,ID,-8.640650,122.237000,115
+WATE,Ende (H Hasan Aroeboesman) Airport,WATE,ENE,Ende-Flores Island,ID,-8.849290,121.661003,49
+WATG,Satar Tacik Airport,WATG,RTG,Satar Tacik-Flores Island,ID,-8.597010,120.476997,3510
+WATK,Tambolaka Airport,WATK,TMC,Waikabubak-Sumba Island,ID,-9.409720,119.244003,161
+WATL,Gewayentana Airport,WATL,LKA,Larantuka-Flores Island,ID,-8.346660,122.981003,57
+WATM,Mali Airport,WATM,ARD,Alor Island,ID,-8.132340,124.597000,10
+WATO,Komodo (Mutiara II) Airport,WATO,LBJ,Labuan Bajo-Flores Island,ID,-8.486660,119.889000,66
+WATR,David Constantijn Saudale Airport,WATR,RTI,Ba'a,ID,-10.766964,123.074956,463
+WATT,El Tari Airport,WATT,KOE,Kupang-Timor Island,ID,-10.171600,123.670998,335
+WAUU,Rendani Airport,WAUU,MKW,Manokwari-Papua Island,ID,-0.891833,134.048996,23
+WAWB,Betoambari Airport,WAWB,BUW,Bau Bau-Butung Island,ID,-5.486880,122.569000,164
+WAWD,Bandar Udara Matahora,WAWD,WNI,Wangi-Wangi Island,ID,-5.316667,123.583333,0
+WAWH,Haji Aroeppala Airport,WAWH,KSR,"Selayar Regency, Sulawesi Island",ID,-6.178611,120.437222,13
+WAWJ,Tampa Padang Airport,WAWJ,MJU,Mamuju-Celebes Island,ID,-2.583333,119.033333,49
+WAWM,Andi Jemma Airport,WAWM,MXB,Masamba-Celebes Island,ID,-2.558040,120.323997,164
+WAWP,Sangia Nibandera Airport,WAWP,PUM,Kolaka,ID,-4.181090,121.617996,30
+WAWR,Bandar Udara Sugimanuru,WAWR,RAQ,Muna Regency,ID,-4.760556,122.569361,244
+WAWS,Soroako Airport,WAWS,SQR,Soroako-Celebes Island,ID,-2.531200,121.358002,1388
+WAWT,Pongtiku Airport,WAWT,TTR,Tanah Toraja-Celebes Island,ID,-3.044740,119.821999,2884
+WAWW,Wolter Monginsidi Airport,WAWW,KDI,Kendari-Celebes Island,ID,-4.081610,122.417999,538
+WAXX,Dominique Edward Osok Airport,WAXX,,Sorong-Papua Island,ID,-0.895178,131.285004,10
+WAYY,Moses Kilangin Airport,WAYY,TIM,Timika-Papua Island,ID,-4.528280,136.886993,103

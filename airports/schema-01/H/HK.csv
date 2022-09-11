@@ -1,0 +1,58 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HKAM,Amboseli Airport,HKAM,ASV,Amboseli National Park,KE,-2.645050,37.253101,3755
+HKBA,Busia Airport,HKBA,,Busia,KE,0.457085,34.130280,3989
+HKBR,Bura East Airport,HKBR,,Bura,KE,-1.100000,39.950001,345
+HKBU,Bungoma Airport,HKBU,,Bungoma,KE,0.576208,34.553452,4726
+HKED,Eldoret Aistrip Airport,HKED,,Eldoret Aistrip,KE,0.536368,35.278866,7050
+HKEL,Eldoret International Airport,HKEL,EDL,Eldoret,KE,0.404458,35.238899,6941
+HKEM,Embu Airport,HKEM,,Embu,KE,-0.567000,37.483002,4150
+HKES,Eliye Springs Airport,HKES,EYS,Eliye Springs,KE,3.216670,35.966702,1395
+HKEW,El Wak Airport,HKEW,,El Wak,KE,2.733000,40.932999,1295
+HKFG,Kalokol Airport,HKFG,KLK,Kalokol,KE,3.483000,35.833000,1245
+HKGA,Garissa Airport,HKGA,GAS,Garissa,KE,-0.463508,39.648300,475
+HKGT,Garba Tula Airport,HKGT,,Garba Tula,KE,0.533000,38.516998,2000
+HKHB,Homa Bay Airport,HKHB,,Homa Bay,KE,-0.600000,34.466999,4280
+HKHO,Hola Airport,HKHO,HOA,Hola,KE,-1.522000,40.004002,195
+HKIS,Isiolo Airport,HKIS,,Isiolo,KE,0.338171,37.591694,3495
+HKJK,Jomo Kenyatta International Airport,HKJK,NBO,Nairobi,KE,-1.319240,36.927799,5330
+HKKB,Kiambere Airport,HKKB,,Kiambere,KE,-0.633000,37.882999,2450
+HKKE,Keekorok Airport,HKKE,,Keekorok,KE,-1.583000,35.250000,5800
+HKKG,Kakamega Airport,HKKG,GGM,Kakamega,KE,0.271342,34.787300,5020
+HKKI,Kisumu Airport,HKKI,KIS,Kisumu,KE,-0.086139,34.728901,3734
+HKKL,Kilaguni Airport,HKKL,ILU,Kilaguni,KE,-2.910610,38.065201,2750
+HKKR,Kericho Airport,HKKR,KEY,Kericho,KE,-0.417000,35.250000,6562
+HKKS,Kisii Airport,HKKS,,Kisii,KE,-0.667000,34.700001,4905
+HKKT,Kitale Airport,HKKT,KTL,Kitale,KE,0.971989,34.958599,6070
+HKKU,Kitui Airport,HKKU,,Kitui,KE,-1.372790,37.978100,3790
+HKLG,Lokitaung Airport,HKLG,,Lokitaung,KE,4.378900,35.658901,1805
+HKLK,Lokichoggio Airport,HKLK,LKG,Lokichoggio,KE,4.204120,34.348202,2074
+HKLO,Lodwar Airport,HKLO,LOK,Lodwar,KE,3.121970,35.608700,1715
+HKLT,Loitokitok Airport,HKLT,,Loitokitok,KE,-2.909885,37.526108,5320
+HKLU,Manda Airstrip,HKLU,LAU,Lamu,KE,-2.252420,40.913101,20
+HKLY,Loyengalani Airport,HKLY,LOY,Loyengalani,KE,2.750000,36.716999,1195
+HKMA,Mandera Airport,HKMA,NDE,Mandera,KE,3.933000,41.849998,805
+HKMB,Segel Airport,HKMB,RBT,Marsabit,KE,2.350000,37.983002,4395
+HKMG,Magadi Airport,HKMG,,Magadi,KE,-1.948057,36.283333,1955
+HKMI,Maralal (Kisima) Airport,HKMI,,Maralal,KE,0.950000,36.799999,5940
+HKMK,Meru Mulika Airport,HKMK,,Mulika,KE,0.233000,38.182999,2230
+HKML,Malindi Airport,HKML,MYD,Malindi,KE,-3.229310,40.101700,80
+HKMM,Migori Airport,HKMM,,Migori,KE,-1.117000,34.483002,4575
+HKMO,Mombasa Moi International Airport,HKMO,MBA,Mombasa,KE,-4.034830,39.594200,200
+HKMR,Mackinnon Road Airport,HKMR,,Mackinnon Road,KE,-3.735685,39.033329,1443
+HKMS,Mara Serena Lodge Airstrip,HKMS,MRE,Masai Mara,KE,-1.406111,35.008057,5200
+HKMT,Mtito Andei Airport,HKMT,,Mtito,KE,-2.717082,38.197567,2397
+HKMU,Makindu Airport,HKMU,,Makindu,KE,-2.289713,37.828621,3513
+HKMY,Moyale Airport,HKMY,OYL,Moyale (Lower),KE,3.469720,39.101398,2790
+HKNI,Nyeri Airport,HKNI,NYE,Nyeri,KE,-0.364414,36.978485,5830
+HKNK,Nakuru Airport,HKNK,NUU,Nakuru,KE,-0.298067,36.159302,6200
+HKNO,Narok Airport,HKNO,,Narok,KE,-1.150000,35.766998,6070
+HKNV,Naivasha Airport,HKNV,,Naivasha,KE,-0.787953,36.433498,6380
+HKNW,Nairobi Wilson Airport,HKNW,WIL,Nairobi,KE,-1.321720,36.814800,5536
+HKNY,Nanyuki Airport,HKNY,NYK,Nanyuki,KE,-0.062399,37.041008,6250
+HKRE,Moi Air Base,HKRE,,Nairobi,KE,-1.277270,36.862301,5336
+HKSA,Embakasi Airport,HKSA,,Embakasi,KE,-1.298219,36.915546,5357
+HKSB,Samburu South Airport,HKSB,UAS,Samburu South,KE,0.530583,37.534195,3295
+HKUK,Ukunda Airstrip,HKUK,UKA,Ukunda,KE,-4.293330,39.571098,98
+HKVO,Voi Airport,HKVO,,Voi,KE,-3.374539,38.534748,1900
+HKWE,Webuye Airport,HKWE,,Webuye,KE,0.617000,34.783001,4300
+HKWJ,Wajir Airport,HKWJ,WJR,Wajir,KE,1.733240,40.091599,770

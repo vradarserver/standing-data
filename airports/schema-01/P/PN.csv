@@ -1,0 +1,93 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PN00,Crosswinds Airfield,PN00,,Sassamansville,US,40.343201,-75.572701,300
+PN01,Cedar Run Airport,PN01,,Dorseyville,US,40.588100,-79.905899,1180
+PN02,Offutt Acres Airport,PN02,,East Brady,US,40.984798,-79.566399,865
+PN03,Abington Memorial Hospital Heliport,PN03,,Abington,US,40.118698,-75.120697,436
+PN04,Strittmatter Airport,PN04,,Ebensburg,US,40.547001,-78.694702,2080
+PN05,Fort Lee Heliport,PN05,,Barnsboro,US,40.651402,-78.827202,1995
+PN06,Carlson Airport,PN06,,Edinboro,US,41.904202,-80.102600,1490
+PN07,Cranes-N-Lifts Inc Heliport,PN07,,White Haven,US,41.030899,-75.778503,1360
+PN08,Davis Airport,PN08,,Chambersville,US,40.734600,-79.159897,1373
+PN09,Charles Cole Memorial Hospital Heliport,PN09,,Coudersport,US,41.771702,-77.979698,1753
+PN10,Cash Creek Airport,PN10,,Ulster,US,41.865101,-76.509903,1250
+PN11,Reno Airport,PN11,,Enon Valley,US,40.889801,-80.486504,1160
+PN12,Sweet Valley Airport,PN12,,Sweet Valley,US,41.280602,-78.143097,1200
+PN13,C & W Milliron Flying Field,PN13,,Sigel,US,41.287300,-79.166397,1700
+PN14,Misty Hill Farm Airport,PN14,,Ren Frew,US,40.789398,-79.997498,1243
+PN15,Greeley Airport,PN15,,Coudersport,US,41.879200,-77.949997,2300
+PN16,Pabst Blue Ribbon Airport,PN16,,Evans City,US,40.758400,-80.013702,1250
+PN17,Marsteller Airport,PN17,,Stewartstown,US,39.733398,-76.532997,780
+PN18,Fairview Evergreen Airport,PN18,,Fairview,US,42.027302,-80.243698,805
+PN19,Hunts Cove Seaplane Base,PN19,,Foxburg,US,41.145901,-79.687302,840
+PN20,Car Tech Heliport,PN20,,Reading,US,40.367599,-75.932999,268
+PN21,Mc Clure Airport,PN21,,Troy,US,41.827900,-76.856598,1470
+PN22,University Of Pitt Medical Landing Area Heliport,PN22,,Bradford,US,41.945000,-78.672156,1481
+PN23,Mercy Hospital Heliport,PN23,,Pittsburgh,US,40.435299,-79.985100,886
+PN24,Snider Seaplane Base,PN24,,Freeport,US,40.683399,-79.666397,755
+PN25,Lindsay Airport,PN25,,Freeport,US,40.735600,-79.688698,1080
+PN26,St Clair Memorial Hospital Heliport,PN26,,Pittsburgh,US,40.378399,-80.065102,1150
+PN27,Station 219 Heliport,PN27,,Mercer,US,41.274799,-80.277298,1310
+PN28,Campbell's Heliport,PN28,,Doylestown,US,40.286499,-75.145203,240
+PN29,Lazy J Heliport,PN29,,Moscow,US,41.295898,-75.594101,1600
+PN30,Schrenkel Airport,PN30,,Cassville,US,40.262798,-78.102501,1200
+PN31,Sagulla Airport,PN31,,Grove City,US,41.243099,-80.114197,1378
+PN32,Indiana Hospital Heliport,PN32,,Indiana,US,40.608398,-79.135597,1285
+PN33,Branning Field,PN33,,Honesdale,US,41.552898,-75.282097,1420
+PN34,Keystone Heliplex Heliport,PN34,,Coatsville,US,39.978028,-75.882361,642
+PN35,Flying R Airport,PN35,,Harrisonville,US,40.000099,-78.083099,960
+PN36,Rayne Airport,PN36,,Home,US,40.733398,-79.067299,1420
+PN37,Fino Airport,PN37,,Hookstown,US,40.605099,-80.458099,1150
+PN38,Culmerville Airport,PN38,,Culmerville,US,40.662601,-79.845596,1220
+PN39,Exton Heliport,PN39,,Exton,US,40.018700,-75.636299,323
+PN40,Moorhead Airpark LLC,PN40,,North East,US,42.184200,-79.897598,805
+PN42,Practice Football Field,PN42,,Indiana,US,40.625099,-79.149803,1400
+PN43,Sainovich Airport,PN43,,Industry,US,40.700100,-80.433098,1275
+PN44,Merck/Upper Gwynedd Heliport,PN44,,North Wales,US,40.216099,-75.279999,355
+PN45,Wyoming Valley Medical Center Heliport,PN45,,Wilkes-Barre,US,41.262501,-75.811096,947
+PN46,River Hill Aviation Airport,PN46,,Apollo,US,40.564400,-79.545799,1250
+PN47,Lohr's Landing Airport,PN47,,Jennerstown,US,40.208302,-79.055801,1970
+PN48,Bullfly Ultralightport,PN48,,Germansville,US,40.708302,-75.686096,812
+PN49,Dunbar Airport,PN49,,Kittanning,US,40.771999,-79.428902,1500
+PN50,Skyline Airstrip,PN50,,Shoemakersville,US,40.506500,-75.943298,580
+PN51,Summers Psnl Use Heliport,PN51,,Linesville,US,41.666698,-80.416496,1040
+PN52,Mike's Heliport,PN52,,Cochranville,US,39.867199,-75.933601,550
+PN53,Strohmier Airport,PN53,,Loretto,US,40.551498,-78.623398,1962
+PN54,Akm Airfield,PN54,,Columia Cross Roads,US,41.841702,-76.745796,1393
+PN55,Skala Airport,PN55,,Mc Clellandtown,US,39.858398,-79.823402,1270
+PN56,Miller Airport,PN56,,Mahaffey,US,40.885300,-78.739197,1540
+PN57,Marion Center Speedway Airport,PN57,,Marion Center,US,40.812000,-79.037300,1500
+PN58,Bittner/Whitsel Airport,PN58,,Waynesboro,US,39.742699,-77.526802,760
+PN59,Stitt Airport,PN59,,Kittanning,US,40.831100,-79.486900,1200
+PN60,Motola's Paving Heliport,PN60,,Lehighton,US,40.837700,-75.697197,433
+PN61,Chero'kee Furko Heliport,PN61,,Plum,US,40.526001,-79.818703,950
+PN62,Cataney Airport,PN62,,Midway,US,40.375099,-80.299797,1200
+PN63,Limerick Generating Station Heliport,PN63,,Sanatoga,US,40.233101,-75.583199,344
+PN64,Hilling International Airport,PN64,,Huntingdon,US,40.502399,-77.939400,1400
+PN65,Deer Lakes Seaplane Base,PN65,,Natrona Hgts,US,40.639198,-79.693604,745
+PN66,Dunlea Airpark,PN66,,New Alexandria,US,40.425598,-79.363602,1220
+PN67,St Francis Hospital Heliport,PN67,,New Castle,US,40.988098,-80.345596,830
+PN68,Jackson Airport,PN68,,New Galilee,US,40.900902,-80.368103,930
+PN69,Altemose Ultralightport,PN69,,Malvern,US,40.092499,-75.515800,345
+PN70,Kint Farm Heliport,PN70,,Port Royal,US,40.535702,-77.379601,420
+PN71,Jansen Vineyards Airport,PN71,,Richfield,US,40.650002,-77.057503,860
+PN72,Rocky Hollow Field,PN72,,Strongstown,US,40.569199,-78.882500,1806
+PN73,Beers Farm Airport,PN73,,Orbisona/Rockhill,US,40.230099,-77.920601,630
+PN74,Hilltop Heliport,PN74,,Troy,US,41.782001,-76.806297,1370
+PN75,Wilkes-Barre General Hosptial Heliport,PN75,,Wilkes-Barre,US,41.259399,-75.866898,655
+PN76,UPMC Northwest Heliport,PN76,,Seneca,US,41.361698,-79.700302,1415
+PN77,Snyder Office Heliport,PN77,,Kittanning,US,40.816898,-79.565598,1160
+PN78,600 Grant Street Rooftop Heliport,PN78,,Pittsburgh,US,40.442001,-79.995300,1604
+PN79,Passavant Hospital Heliport,PN79,,Pittsburgh,US,40.009499,-80.000099,1330
+PN80,West Penn Hospital Heliport,PN80,,Pittsburgh,US,40.462002,-79.944801,1117
+PN81,Air One Enterprise Heliport,PN81,,Harrisburg,US,40.366402,-76.732597,446
+PN82,West Coplay Heliport,PN82,,Whitehall,US,40.674283,-75.505100,375
+PN83,Skunk Hollow Airport,PN83,,Plumville,US,40.802799,-79.202499,1380
+PN84,Lake Arthur Field,PN84,,Portersville,US,40.984501,-80.162003,1240
+PN85,Brandon Airport,PN85,,Prospect,US,40.876499,-80.033096,1290
+PN86,Goodwill Fire Co Nr 1 Heliport,PN86,,Minersville,US,40.693889,-76.256111,710
+PN87,Hanover Township Fire Station #5 Heliport,PN87,,Hanover Township,US,41.235503,-75.934044,541
+PN89,Ridgway Heliport,PN89,,Ridgway,US,41.418531,-78.796903,2042
+PN90,Ranch-Aero Airport,PN90,,Roulette,US,41.748699,-78.099701,1575
+PN91,Sharretts Airport,PN91,,Sabinsville,US,41.833401,-77.499702,2360
+PN95,Horne Airport,PN95,,Scenery Hill,US,40.100101,-80.033096,1040
+PN99,Lackawannock Airport,PN99,,Sharon,US,41.205898,-80.358101,1300

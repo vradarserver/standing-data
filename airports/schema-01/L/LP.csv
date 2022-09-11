@@ -1,0 +1,30 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LPAR,Alverca,LPAR,,Alverca,PT,38.883278,-9.030097,11
+LPAZ,Santa Maria Airport,LPAZ,SMA,Vila do Porto,PT,36.971401,-25.170601,308
+LPBG,Bragança,LPBG,BGC,Bragança,PT,41.857800,-6.707130,2277
+LPBJ,Beja International Airport,LPBJ,BYJ,Beja,PT,38.078899,-7.932400,636
+LPBR,Braga Municipal Aerodrome,LPBR,BGZ,Braga,PT,41.587101,-8.445140,247
+LPCR,Corvo Airport,LPCR,CVU,Vila do Corvo,PT,39.670833,-31.112778,66
+LPCS,Cascais,LPCS,CAT,Cascais,PT,38.724998,-9.355230,325
+LPFL,Flores Airport,LPFL,FLW,Santa Cruz das Flores,PT,39.455299,-31.131399,112
+LPFR,Faro Airport,LPFR,FAO,Faro,PT,37.014400,-7.965910,24
+LPGR,Graciosa Airport,LPGR,GRW,Santa Cruz da Graciosa,PT,39.092201,-28.029800,86
+LPHR,Horta Airport,LPHR,HOR,Horta,PT,38.519901,-28.715900,118
+LPJF,Leiria Gandara Airport,LPJF,,Leiria,PT,39.778599,-8.819720,151
+LPJO,Alijó Airport,LPJO,,Alijó,PT,41.325298,-7.446110,2562
+LPLA,Lajes Field,LPLA,TER,Lajes,PT,38.761799,-27.090799,180
+LPLZ,Lousã Private Airport,LPLZ,,Lousã,PT,40.134201,-8.232500,669
+LPMA,Madeira Airport,LPMA,FNC,Funchal,PT,32.697899,-16.774500,192
+LPMO,Montargil Airport,LPMO,,Montargil,PT,38.995800,-8.140830,341
+LPMT,Montijo Airport,LPMT,,Montijo,PT,38.703899,-9.035920,46
+LPMU,Mogadouro Airport,LPMU,,Mogadouro,PT,41.396900,-6.681670,2349
+LPOT,Ota Airport,LPOT,,Ota,PT,39.087502,-8.962780,140
+LPPD,João Paulo II Airport,LPPD,PDL,Ponta Delgada,PT,37.741199,-25.697901,259
+LPPI,Pico Airport,LPPI,PIX,Pico Island,PT,38.554298,-28.441299,109
+LPPM,Portimão,LPPM,PRM,Portimão,PT,37.149300,-8.583960,3
+LPPR,Francisco de Sá Carneiro Airport,LPPR,OPO,Porto,PT,41.248100,-8.681390,228
+LPPS,Porto Santo Airport,LPPS,PXO,Vila Baleira,PT,33.073399,-16.350000,341
+LPPT,Lisbon Portela Airport,LPPT,LIS,Lisbon,PT,38.781300,-9.135920,374
+LPSJ,São Jorge Airport,LPSJ,SJZ,Velas,PT,38.665501,-28.175800,311
+LPVR,Vila Real,LPVR,VRL,Vila Real,PT,41.274300,-7.720470,1831
+LPVZ,Viseu - Aerodromo Goncalves Lobato,LPVZ,VSE,Viseu,PT,40.725498,-7.888990,2060

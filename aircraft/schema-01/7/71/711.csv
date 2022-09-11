@@ -1,0 +1,4 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+711100,HZ-FAR,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10652,2021
+711102,HZ-FAT,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10755,2022
+711105,HZ-FAS,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10702,2021

@@ -1,0 +1,46 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+NA01,Jenson Airport,NA01,,Reynolds,US,47.668301,-97.005402,867
+NA02,Saure Airport,NA02,,Reynolds,US,47.705002,-97.054802,870
+NA03,Boll Brothers Airstrip,NA03,,Russell,US,48.672501,-100.858002,1453
+NA05,Kraig Farms Airport,NA05,,Sheldon,US,46.612202,-97.435600,1060
+NA06,Bouret Ranch Airport,NA06,,Sheyenne,US,47.862801,-98.972603,1505
+NA07,Kornkven Airstrip,NA07,,Souris,US,48.886398,-100.695000,1505
+NA10,Anderson Private Airport,NA10,,Starkweather,US,48.380600,-99.033699,1460
+NA12,Johnson Private Airport,NA12,,Turtle Lake,US,47.431702,-100.842003,1920
+NA13,Linrud Airstrip,NA13,,Velva,US,48.122200,-100.936996,1605
+NA17,Jacob Gust Airport,NA17,,West Fargo,US,46.942699,-96.929001,895
+NA18,Hought Airstrip,NA18,,Williston,US,48.413399,-103.835999,2400
+NA20,Hudson's Strip,NA20,,Wyndmere,US,46.248001,-97.257301,1080
+NA21,Thompson Private Airport,NA21,,Wyndmere,US,46.228298,-97.236198,1075
+NA22,Vernon Miller Private Airport,NA22,,Rhame,US,46.012501,-103.795998,3102
+NA25,Holen Aerial Spray Airstrip,NA25,,Bantry,US,48.498600,-100.653000,1460
+NA30,Behrens Airstrip,NA30,,Burlington,US,48.272202,-101.396004,1740
+NA32,Johnson Airstrip,NA32,,Eldridge,US,46.898602,-98.858704,1548
+NA33,Ripplinger Strip,NA33,,Esmond,US,48.001099,-99.926003,1600
+NA38,Sabbe Brothers Landing Strip,NA38,,Maddock,US,47.950600,-99.429604,1572
+NA39,Dorbrinski Airport,NA39,,Makoti,US,47.897800,-101.855003,2133
+NA44,Georgeson Farm Strip,NA44,,New Rockford,US,47.654202,-99.159599,1535
+NA49,Paul Airstrip,NA49,,Rugby,US,48.417801,-100.055000,1530
+NA54,Moser Airstrip,NA54,,Westfield,US,45.955002,-100.442001,1750
+NA55,Hager Strip,NA55,,Barney,US,46.266102,-97.016197,1037
+NA56,Moffet Airstrip,NA56,,Barney,US,46.302200,-96.991501,1028
+NA60,Dakota Airport,NA60,,Grandin,US,47.235001,-97.038399,903
+NA61,Tachenko Strip,NA61,,Grassy Butte,US,47.295601,-103.189003,2686
+NA63,Storseth Airstrip,NA63,,Grenora,US,48.666698,-103.856003,2200
+NA65,Anderson Strip,NA65,,Hoople,US,48.531399,-97.628098,890
+NA67,Horsley Airstrip,NA67,,Neche,US,48.983898,-97.464500,815
+NA70,Smith Airstrip,NA70,,Sheyenne,US,47.773899,-98.988403,1535
+NA71,M. Bodvig Airstrip,NA71,,Tappen,US,46.995800,-99.671204,1750
+NA73,Welstad Farms Airstrip,NA73,,Upham,US,48.563900,-101.000000,1480
+NA75,Lill Strip,NA75,,Bremen,US,47.676399,-99.390404,1560
+NA77,Mc Gee Strip,NA77,,Rhame,US,45.986698,-103.846001,3014
+NA79,Philbrick Private Airstrip,NA79,,Turtle Lake,US,47.404202,-100.882004,1915
+NA81,Central Valley Aviation Airport,NA81,,Buxton,US,47.628300,-97.086502,920
+NA84,L. Seckerson Airstrip,NA84,,Eldridge,US,46.800499,-99.005096,1740
+NA86,Johnson Private Airstrip,NA86,,Luverne,US,47.333302,-97.900902,1492
+NA88,Regan Airstrip,NA88,,Regan,US,47.223900,-100.422997,2060
+NA89,Holzman Airstrip,NA89,,Scranton,US,46.222198,-103.021004,2840
+NA90,Circle Z Landing Strip,NA90,,Underwood,US,47.466702,-101.223000,2000
+NA92,Roy Lohse Airport,NA92,,Alamo,US,48.578602,-103.466003,2124
+NA98,Dilse Private Airstrip,NA98,,Scranton,US,46.302502,-103.169998,2878
+NA99,Bakko Airstrip,NA99,,Walcott,US,46.550499,-97.031998,1040

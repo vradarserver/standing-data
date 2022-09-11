@@ -1,0 +1,131 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MHAC,Acensa Airport,MHAC,,Acensa,HN,13.243611,-87.341393,42
+MHAG,Sur Agropecuaria Airport,MHAG,,Buena Vista,HN,13.250000,-87.358055,12
+MHAH,Ahuas Airport,MHAH,AHS,Ahuas,HN,15.472200,-84.352203,98
+MHAM,Amapala Airport,MHAM,,Amapala Island,HN,13.268300,-87.660301,98
+MHAN,San Luis Airport,MHAN,,San Luis,HN,14.745833,-87.405281,690
+MHAP,Apala Airport,MHAP,,Apala,HN,14.010833,-86.389168,470
+MHAR,Archaga Airport,MHAR,,Archaga,HN,14.285278,-87.229164,875
+MHAS,Alas Del Socorro Airport,MHAS,,Siguatepeque,HN,14.593056,-87.840553,1068
+MHAU,Hacienda Ulua Airport,MHAU,,Tasajeras,HN,14.717778,-86.570831,710
+MHAY,Araslaya Airport,MHAY,,Araslaya,HN,15.735278,-84.543335,3
+MHAZ,Aserradero Azacualpa Airport,MHAZ,,Cacao,HN,14.433333,-86.089165,370
+MHBA,Barbareta Airport,MHBA,,Barbareta Island,HN,16.433056,-86.139442,7
+MHBE,San Bernardo Airport,MHBE,,San Bernardo,HN,13.101944,-87.141945,14
+MHBL,Brus Laguna Airport,MHBL,BHG,Brus Laguna,HN,15.763100,-84.543602,2
+MHCA,Catacamas Airport,MHCA,CAA,Catacamas,HN,14.917000,-85.900002,1489
+MHCB,Cocobila Airport,MHCB,,Cocobila,HN,15.888333,-84.755554,2
+MHCC,Concepción Airport,MHCC,,Concepción,HN,14.026667,-88.344170,560
+MHCG,Comayagua Airport,MHCG,,Comayagua,HN,14.432300,-87.624603,1980
+MHCI,Chiquerito Airport,MHCI,,Chiquerito,HN,15.831944,-85.026947,30
+MHCL,Colon Airport,MHCL,,Marcala,HN,14.161944,-88.034447,1240
+MHCM,Choloma Airport,MHCM,,Choloma,HN,14.888333,-88.404442,1100
+MHCP,Cochino Pequeño Airport,MHCP,,Cochino Pequeño Island,HN,15.954444,-86.498611,1
+MHCR,Carta Airport,MHCR,,La Unión,HN,15.029400,-86.692398,800
+MHCS,Coyoles Airport,MHCS,,Coyoles,HN,15.445556,-86.675278,150
+MHCU,Cauquira Airport,MHCU,CDD,Cauquira,HN,15.316667,-83.591667,21
+MHDU,Durzona Airport,MHDU,,Mocorón,HN,14.989100,-84.220802,250
+MHEA,El Arrayan Airport,MHEA,,Olanchito,HN,15.505556,-86.574722,220
+MHEI,La America Airport,MHEI,,El Guanacaste,HN,15.648611,-87.788330,53
+MHEL,Barrio El Aterrizaje Airport,MHEL,,El Paraiso,HN,13.873056,-86.560555,760
+MHEN,Aserradero El Encino Airport,MHEN,,La Canoa,HN,14.661944,-86.915001,970
+MHEZ,La Esperanza Airport,MHEZ,,Lérida,HN,15.609722,-86.139442,60
+MHFA,Finca San Antonio Airport,MHFA,,La Lima,HN,14.598056,-86.483887,646
+MHFC,Fort Cay Airport,MHFC,,Fort Cay,HN,16.403055,-86.284447,5
+MHFD,Finca 12 Airport,MHFD,,Agua Blanca,HN,15.269722,-87.902779,116
+MHFN,San Fernando Airport,MHFN,,San Fernando,HN,14.113333,-86.952782,648
+MHGA,Chumbagua Airport,MHGA,,Chumbagua,HN,15.176667,-88.489998,300
+MHGB,Guayabillas Airport,MHGB,,Esquias,HN,14.746667,-87.375275,700
+MHGC,Grupo Carnol Airport,MHGC,,Catacamas,HN,14.838611,-85.868332,378
+MHGE,El Aguacate Airport,MHGE,,El Aguacate,HN,14.875000,-85.776108,384
+MHGG,Santiago De Puringla Airport,MHGG,,Santiago de Puringla,HN,14.367500,-87.911392,960
+MHGR,Sangrelaya Airport,MHGR,,Donel,HN,15.969900,-85.089203,3
+MHGS,Gracias Airport,MHGS,,El Molino,HN,14.596667,-88.594170,828
+MHGY,Guayape Airport,MHGY,,El Zapato,HN,14.784722,-86.863335,765
+MHHC,Coratsa  Heliport,MHHC,,San Pedro Sula,HN,15.472500,-87.994164,135
+MHHE,La Herradura Airport,MHHE,,Punuare,HN,14.755000,-86.004166,342
+MHHG,Hacienda Galeras Airport,MHHG,,La Lima,HN,14.598889,-86.460831,618
+MHHO,Agua Caliente Airport,MHHO,,Horcones,HN,15.427778,-86.894997,250
+MHIC,Islas Del Cisne Airport,MHIC,,Del Cisne Island,HN,17.407301,-83.932701,7
+MHIN,Minas De Oro Airport,MHIN,,Minas de Oro,HN,14.788611,-87.349724,1000
+MHIR,Iriona Airport,MHIR,,Iriona,HN,15.939167,-85.137222,8
+MHIZ,Izapan Airport,MHIZ,,La Puerta,HN,15.910278,-85.171112,8
+MHJC,Jocon Airport,MHJC,,Jocón,HN,15.290556,-86.912224,490
+MHJE,Nueva Jerusalen Airport,MHJE,,Rio Plátano,HN,15.878056,-84.726387,5
+MHJI,Jicalapa Airport,MHJI,,Jicalapa,HN,15.006111,-86.049164,650
+MHJQ,Joya Del Quebracho Airport,MHJQ,,Caleras/El Triunfo,HN,14.838889,-86.962219,890
+MHJU,Jutigalpa airport,MHJU,JUT,Jutigalpa,HN,14.652600,-86.220299,1314
+MHLA,La Alondra Airport,MHLA,,Candelaria,HN,14.108889,-88.533890,1000
+MHLC,Goloson International Airport,MHLC,LCE,La Ceiba,HN,15.742500,-86.852997,49
+MHLE,La Esperanza Airport,MHLE,LEZ,La Esperanza,HN,14.291111,-88.175003,5475
+MHLG,La Grecia Airport,MHLG,,Monjarás,HN,13.214722,-87.363609,29
+MHLJ,Las Lajas Airport,MHLJ,,Coyoles,HN,14.894722,-86.574722,1050
+MHLM,Ramón Villeda Morales International Airport,MHLM,SAP,La Mesa,HN,15.452600,-87.923599,91
+MHLN,Limon Airport,MHLN,,Limón,HN,15.863333,-85.498611,3
+MHLP,Mapulaca Airport,MHLP,,Mapulaca,HN,14.034167,-88.628334,170
+MHLS,Laguna Seca Airport,MHLS,,Laguna Seca,HN,14.644700,-86.069801,353
+MHLT,Llanos Del Tigre Airport,MHLT,,Moroceli,HN,14.076667,-86.841667,625
+MHLU,Luz Y Vida Airport,MHLU,,San Luis Pajón,HN,15.146389,-88.444443,764
+MHLV,Las Vegas Airport,MHLV,,Las Vegas,HN,14.873611,-88.074448,870
+MHLZ,La Estanzuela Airport,MHLZ,,el agua,HN,15.016667,-88.800003,2227
+MHMC,Hacienda Montecristo Heliport,MHMC,,Hacienda Montecristo,HN,14.866667,-88.758331,4140
+MHMI,Las Minitas Airport,MHMI,,Vallecillo,HN,15.051111,-87.246666,2500
+MHML,Monte Libano Airport,MHML,,Monte Líbano,HN,13.179444,-87.185555,46
+MHMM,San Antonio Malera Airport,MHMM,,Malera,HN,14.671944,-88.254997,670
+MHMN,Monica Airport,MHMN,,Monica,HN,15.653000,-87.087700,59
+MHMO,San Marcos De Ocotepeque Airport,MHMO,,San Marcos,HN,14.413056,-88.951942,961
+MHMP,Marcos Perez Airport,MHMP,,Agua Blanca,HN,15.286111,-87.885277,115
+MHMS,Las Marias Airport,MHMS,,Siksatara,HN,15.672778,-84.844719,30
+MHMT,Manto Airport,MHMT,,Manto,HN,14.915556,-86.381668,650
+MHNA,Ciudad Nacaome Airport,MHNA,,Nacaome,HN,13.529444,-87.314163,35
+MHNB,Noveno Batallón Airport,MHNB,,Apala,HN,14.043300,-86.420799,426
+MHNC,Nueva Choluteca Airport,MHNC,,Choluteca,HN,13.323333,-87.142502,52
+MHNJ,La Laguna Airport,MHNJ,GJA,Guanaja,HN,16.445400,-85.906601,49
+MHNV,Nueva Ocotepeque Airport,MHNV,,Nueva Ocotepeque,HN,14.428889,-89.193886,850
+MHOT,Ocotales Airport,MHOT,,Copón,HN,15.669167,-85.194443,130
+MHPA,Barra Del Patuca Airport,MHPA,,Barra del Patuca,HN,15.801389,-84.296669,4
+MHPB,Publigraficos Heliport,MHPB,,San Pedro Sula,HN,15.453333,-88.021942,159
+MHPC,Palacios Airport,MHPC,,Palacios,HN,15.955000,-84.941391,30
+MHPI,Agropecuaria Piedra De Agua Azul Airport,MHPI,,Buena Vista,HN,13.296111,-87.345558,56
+MHPL,Puerto Lempira Airport,MHPL,PEU,Puerto Lempira,HN,15.262200,-83.781197,25
+MHPS,Desvio Potrerillos Airport,MHPS,,El Encinal,HN,14.595833,-86.150002,395
+MHPV,El Porvenir Airport,MHPV,,Manga,HN,15.530278,-86.273613,69
+MHPY,Payasito Airport,MHPY,,Farallones,HN,15.875833,-85.396942,5
+MHRD,Rus Rus II Airport,MHRD,,Rus Rus,HN,14.787222,-84.369720,173
+MHRJ,Rancho Jamastran Airport,MHRJ,,Apala,HN,14.061000,-86.407501,482
+MHRO,Juan Manuel Galvez International Airport,MHRO,RTB,Roatan Island,HN,16.316799,-86.523003,18
+MHRR,Rus Rus I Airport,MHRR,,Rus Rus,HN,14.713056,-84.452499,90
+MHRS,Santa Rosa Copán Airport,MHRS,SDH,Santa Rosa de Copán,HN,14.814900,-88.751503,2818
+MHRU,Copan Ruinas Airport,MHRU,RUY,Ruinas de Copan,HN,14.840300,-89.143997,1990
+MHRY,Raya Airport,MHRY,,Raya,HN,15.066389,-83.297218,30
+MHSC,Coronel Enrique Soto Cano Air Base,MHSC,XPL,Comayagua,HN,14.382400,-87.621201,2061
+MHSI,Sico Airport,MHSI,,Sico,HN,15.818611,-85.114441,20
+MHSJ,San Jose Airport,MHSJ,,Oropoli,HN,13.827778,-86.810280,454
+MHSL,San Lorenzo Airport,MHSL,,El Hato,HN,13.442222,-87.459724,8
+MHSN,Sinaloa Airport,MHSN,,Sinaloa,HN,15.693333,-85.955276,20
+MHSZ,Santa Barbara Airport,MHSZ,,Choluteca,HN,13.330556,-87.154442,28
+MHTA,Tamara Airport,MHTA,,Tamara,HN,14.180000,-87.349998,1080
+MHTB,La Katabila Airport,MHTB,,Tuntuntara,HN,15.175000,-83.682220,14
+MHTE,Tela Airport,MHTE,TEA,Tela,HN,15.775900,-87.475800,7
+MHTG,Toncontín International Airport,MHTG,TGU,Tegucigalpa,HN,14.060900,-87.217201,3294
+MHTI,Tipimuratara Airport,MHTI,,Tipimunatara,HN,15.001111,-83.722221,43
+MHTJ,Trujillo Airport,MHTJ,TJI,Trujillo,HN,15.926800,-85.938202,3
+MHTM,Santa Maria Airport,MHTM,,Santa María,HN,14.277222,-87.936668,1151
+MHTO,Tocoa Airport,MHTO,,Tocoa,HN,15.659722,-85.994164,37
+MHUC,Auca Airport,MHUC,,Auca,HN,14.937222,-83.844170,190
+MHUG,Guanacastal Airport,MHUG,,Canchias,HN,14.915556,-87.833336,1563
+MHUH,Uhi Airport,MHUH,,Uhi,HN,15.476100,-83.911301,3
+MHUL,Sulaco Airport,MHUL,SCD,Sulaco,HN,14.907200,-87.263397,400
+MHUO,La Union Airport,MHUO,,La Unión,HN,14.808056,-88.419998,1000
+MHUT,Utila Airport,MHUT,UII,Utila Island,HN,16.113100,-86.880302,29
+MHUY,Cucuyagua Airport,MHUY,,Cucuyagua,HN,14.626944,-88.876389,805
+MHVE,Villa Hermosa Airport,MHVE,,Coyolillo,HN,14.230278,-88.799446,1280
+MHVG,Villa Guadalupe Airport,MHVG,,Villa Guadalupe,HN,15.045556,-88.308891,400
+MHWA,Wampusirpi I Airport,MHWA,,Wampusirpi,HN,15.160278,-84.617226,250
+MHWD,Wampusirpi II Airport,MHWD,,Wampusirpi,HN,15.159167,-84.598335,250
+MHWP,Waplaya Airport,MHWP,,Waplaya,HN,15.213056,-84.068611,43
+MHWR,Warunta Airport,MHWR,,Warunta,HN,15.348611,-84.234444,30
+MHWS,Wasma Airport,MHWS,,Wasma,HN,15.481900,-84.416100,15
+MHWW,Wawina Airport,MHWW,,Wawina,HN,15.416111,-84.473610,19
+MHYX,Yaxu Airport,MHYX,,Puerto Lempira,HN,15.277500,-83.820274,8
+MHZA,Azacualpa Airport,MHZA,,Azacualpa,HN,14.256944,-88.392502,1200

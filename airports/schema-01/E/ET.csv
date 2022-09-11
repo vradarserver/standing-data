@@ -1,0 +1,28 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ET31,Sheridan Barracks Landing Area,ET31,,Garmisch-Partenkirchen,DE,47.482778,11.066944,2362
+ET39,Hohenfels Hospital Army Helipad,ET39,,Hohenfels,DE,49.224167,11.834722,1432
+ETAD,Spangdahlem Air Base,ETAD,SPM,Trier,DE,49.972698,6.692500,1197
+ETAR,Ramstein Air Base,ETAR,RMS,Ramstein,DE,49.436901,7.600280,776
+ETED,Kaiserslautern Depot Army Heliport,ETED,,Kaiserslautern,DE,49.447778,7.839722,950
+ETEJ,Bamberg-Breitenau Airport,ETEJ,ZCD,Bamberg,DE,49.920555,10.914167,837
+ETHA,Altenstadt Army Airfield,ETHA,,Altenstadt,DE,47.835499,10.871200,2425
+ETHF,Fritzlar Airport,ETHF,FRZ,Fritzlar,DE,51.114600,9.286000,1345
+ETHN,Niederstetten Airport,ETHN,,Niederstetten,DE,49.391945,9.958889,1339
+ETIE,Heidelberg Army Heliport,ETIE,HDB,Heidelberg,DE,49.393501,8.652080,358
+ETIK,Illesheim Air Base,ETIK,ILH,Storck Barracks,DE,49.473900,10.388100,1079
+ETIP,Landstuhl Army Heliport,ETIP,,Landstuhl,DE,49.403056,7.536111,1176
+ETIY,Landstuhl Regional Medical Center Helipad,ETIY,,Landstuhl,DE,49.402500,7.558611,1136
+ETJB,Schonewald CRC Helipad,ETJB,,Cölpin,DE,53.509955,13.435670,271
+ETNA,Ahlhorn Air Force Base,ETNA,,Ahlhorn,DE,52.882999,8.233000,162
+ETND,Diepholz Airport,ETND,,Diepholz,DE,52.585556,8.342222,128
+ETNG,Geilenkirchen,ETNG,GKE,Geilenkirchen,DE,50.960817,6.042422,296
+ETNL,Rostock-Laage Airport,ETNL,RLG,Rostock,DE,53.918201,12.278300,138
+ETNP,Hopsten Air Base,ETNP,,Hopsten,DE,52.338699,7.541330,423
+ETNU,Neubrandenburg Airport,ETNU,FNB,Neubrandenburg,DE,53.602200,13.306000,228
+ETOA,Schweinfurt Army Heliport,ETOA,,USAG Schweinfurt,DE,50.047199,10.170800,738
+ETOU,Wiesbaden Army Airfield,ETOU,WIE,Wiesbaden,DE,50.049801,8.325400,461
+ETSF,Fürstenfeldbruck Airport,ETSF,FEL,Fürstenfeldbruck,DE,48.205555,11.266944,1703
+ETSI,Ingolstadt Manching Airport,ETSI,IGS,Manching,DE,48.715698,11.534000,1202
+ETSN,Neuburg Air Base,ETSN,,Neuburg an der Donau,DE,48.716667,11.216667,1250
+ETT1,Etting-Adelmannsberg Airfield,ETT1,,Ingolstadt,DE,48.810280,11.420960,1253
+ETUO,Gütersloh Airport,ETUO,GUT,Gütersloh,DE,51.922798,8.306330,236

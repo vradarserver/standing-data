@@ -1,0 +1,152 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KF00,Jones Field,KF00,,Bonham,US,33.612801,-96.179298,618
+KF01,Quanah Municipal Airport,KF01,,Quanah,US,34.277100,-99.759300,1602
+KF02,Fairgrounds Airpark,KF02,,Hardin,US,45.724998,-107.600998,2911
+KF05,Wilbarger County Airport,KF05,WIB,Vernon,US,34.225700,-99.283798,1265
+KF06,Marian Airpark,KF06,,Wellington,US,34.845600,-100.195999,2008
+KF08,Eufaula Municipal Airport,KF08,,Eufaula,US,35.295898,-95.625298,635
+KF10,Henryetta Municipal Airport,KF10,,Henryetta,US,35.406898,-96.015800,849
+KF14,Wichita Valley Airport,KF14,,Wichita Falls,US,33.947701,-98.616699,1005
+KF17,Center Municipal Airport,KF17,,Center,US,31.831600,-94.156403,319
+KF21,Memphis Municipal Airport,KF21,,Memphis,US,34.739601,-100.529999,2102
+KF22,Perry Municipal Airport,KF22,,Perry,US,36.385601,-97.277199,1002
+KF24,Minden Webster Airport,KF24,,Minden,US,32.646000,-93.298103,278
+KF29,Clarence E Page Municipal Airport,KF29,,Oklahoma City,US,35.488098,-97.823601,1354
+KF30,Sulphur Municipal Airport,KF30,,Sulphur,US,34.524502,-96.989700,1051
+KF31,Lake Texoma State Park Airport,KF31,,Kingston,US,33.991001,-96.642799,693
+KF32,Healdton Municipal Airport,KF32,,Healdton,US,34.249298,-97.473900,956
+KF34,Firebaugh Airport,KF34,,Firebaugh,US,36.860001,-120.463997,157
+KF35,Possum Kingdom Airport,KF35,,Graford,US,32.923199,-98.436401,1008
+KF36,Cordell Municipal Airport,KF36,,Cordell,US,35.297600,-98.967400,1589
+KF37,Carrizozo Municipal Airport,KF37,,Carrizozo,US,33.648899,-105.896004,5371
+KF41,Ennis Municipal Airport,KF41,,Ennis,US,32.329700,-96.663902,500
+KF43,El Dorado Downtown-Stevens field,KF43,,El Dorado,US,33.191200,-92.663200,256
+KF44,Athens Municipal Airport,KF44,,Athens,US,32.163799,-95.828400,444
+KF45,North Palm Beach County General Aviation Airport,KF45,,West Palm Beach,US,26.844400,-80.221298,22
+KF46,Rockwall Municipal Airport,KF46,,Rockwall,US,32.930599,-96.435501,574
+KF47,St George Island Airport,KF47,,Apalachicola,US,29.646000,-84.916603,3
+KF48,Nocona Airport,KF48,,Nocona,US,33.773998,-97.738098,905
+KF49,Slaton Municipal Airport,KF49,,Slaton,US,33.484798,-101.661003,3123
+KF51,Winnsboro Municipal Airport,KF51,,Winnsboro,US,32.938801,-95.278900,513
+KF53,Franklin County Airport,KF53,,Mount Vernon,US,33.215401,-95.237396,412
+KF56,Arledge Field,KF56,,Stamford,US,32.909100,-99.736000,1561
+KF62,Hayfork Airport,KF62,,Hayfork,US,40.547100,-123.181999,2321
+KF68,Anadarko Municipal Airport,KF68,,Anadarko,US,35.052200,-98.264297,1286
+KF69,Air Park Dallas Airport,KF69,,Dallas,US,33.023499,-96.836899,695
+KF70,French Valley Airport,KF70,,Murrieta/Temecula,US,33.574200,-117.127998,1350
+KF72,Franklin Field,KF72,,Franklin,US,38.304901,-121.430000,21
+KF75,Harrison Field of Knox City Airport,KF75,,Knox City,US,33.438099,-99.812897,1500
+KF82,Town & Country Airpark,KF82,,Lubbock,US,33.485600,-101.813004,3200
+KF83,Abernathy Municipal Airport,KF83,,Abernathy,US,33.845901,-101.763000,3327
+KF84,Stigler Regional Airport,KF84,,Stigler,US,35.289101,-95.093903,599
+KF85,Cochran County Airport,KF85,,Morton,US,33.729301,-102.734001,3746
+KF86,Columbia Airport,KF86,,Columbia,US,32.122398,-92.052902,67
+KF87,Union Parish Airport,KF87,,Farmerville,US,32.724998,-92.337196,121
+KF88,Jonesboro Airport,KF88,,Jonesboro,US,32.202000,-92.732903,256
+KF89,Winnsboro Municipal Airport,KF89,,Winnsboro,US,32.153000,-91.698502,76
+KF97,Seagraves Airport,KF97,,Seagraves,US,32.954601,-102.541000,3366
+KF98,Yoakum County Airport,KF98,,Plains,US,33.217300,-102.830002,3704
+KF99,Holdenville Municipal Airport,KF99,,Holdenville,US,35.085899,-96.416702,861
+KFAF,Felker Army Air Field,KFAF,FAF,Fort Eustis,US,37.132500,-76.608803,12
+KFAM,Farmington Regional Airport,KFAM,,Farmington,US,37.761101,-90.428597,946
+KFAR,Hector International Airport,KFAR,FAR,Fargo,US,46.920700,-96.815804,902
+KFAT,Fresno Yosemite International Airport,KFAT,FAT,Fresno,US,36.776199,-119.718002,336
+KFAY,Fayetteville Regional Grannis Field,KFAY,FAY,Fayetteville,US,34.991199,-78.880302,189
+KFBG,Simmons Army Air Field,KFBG,FBG,Fort Bragg,US,35.131802,-78.936699,244
+KFBL,Faribault Municipal Airport,KFBL,,Faribault,US,44.324699,-93.310799,1060
+KFBR,Fort Bridger Airport,KFBR,,Fort Bridger,US,41.391899,-110.406998,7034
+KFBY,Fairbury Municipal Airport,KFBY,,Fairbury,US,40.182999,-97.169296,1479
+KFCH,Fresno Chandler Executive Airport,KFCH,,Fresno,US,36.732399,-119.820000,279
+KFCI,Chesterfield County Airport,KFCI,,Richmond,US,37.406502,-77.525002,236
+KFCM,Flying Cloud Airport,KFCM,,Minneapolis,US,44.827202,-93.457100,906
+KFCS,Butts AAF (Fort Carson) Air Field,KFCS,FCS,Fort Carson,US,38.678398,-104.757004,5838
+KFCT,Vagabond AHP Heliport,KFCT,,Yakima,US,46.666500,-120.454002,1370
+KFCY,Forrest City Municipal Airport,KFCY,,Forrest City,US,34.942001,-90.775002,249
+KFDK,Frederick Municipal Airport,KFDK,,Frederick,US,39.417599,-77.374298,303
+KFDR,Frederick Regional Airport,KFDR,,Frederick,US,34.352001,-98.983902,1258
+KFDW,Fairfield County Airport,KFDW,,Winnsboro,US,34.315498,-81.108803,577
+KFDY,Findlay Airport,KFDY,,Findlay,US,41.013500,-83.668701,813
+KFEP,Albertus Airport,KFEP,,Freeport,US,42.246201,-89.582001,859
+KFES,Festus Memorial Airport,KFES,,Festus,US,38.194901,-90.385399,433
+KFET,Fremont Municipal Airport,KFET,,Fremont,US,41.449100,-96.520203,1204
+KFFA,First Flight Airport,KFFA,,Kill Devil Hills,US,36.018200,-75.671303,13
+KFFC,Peachtree City Falcon Field,KFFC,,Atlanta,US,33.357300,-84.571800,808
+KFFL,Fairfield Municipal Airport,KFFL,,Fairfield,US,41.053299,-91.978897,799
+KFFM,Fergus Falls Municipal Einar Mickelson Field,KFFM,,Fergus Falls,US,46.284401,-96.156700,1183
+KFFO,Wright Patterson Air Force Base,KFFO,,Dayton,US,39.826099,-84.048302,823
+KFFT,Capital City Airport,KFFT,,Frankfort,US,38.182499,-84.904701,806
+KFFX,Fremont Municipal Airport,KFFX,,Fremont,US,43.439301,-85.994904,772
+KFFZ,Falcon Field,KFFZ,,Mesa,US,33.460800,-111.727997,1394
+KFGX,Fleming Mason Airport,KFGX,,Flemingsburg,US,38.541801,-83.743401,913
+KFHR,Friday Harbor Airport,KFHR,FRD,Friday Harbor,US,48.521999,-123.024002,113
+KFHU,Sierra Vista Municipal Libby Army Air Field,KFHU,FHU,Fort Huachuca Sierra Vista,US,31.588499,-110.344002,4719
+KFIG,Clearfield Lawrence Airport,KFIG,,Clearfield,US,41.048599,-78.413101,1516
+KFIT,Fitchburg Municipal Airport,KFIT,,Fitchburg,US,42.554100,-71.759003,348
+KFKA,Fillmore County Airport,KFKA,,Preston,US,43.676800,-92.179703,1277
+KFKL,Venango Regional Airport,KFKL,FKL,Franklin,US,41.377899,-79.860397,1540
+KFKN,Franklin Municipal John Beverly Rose Airport,KFKN,,Franklin,US,36.698101,-76.903801,41
+KFKR,Frankfort Municipal Airport,KFKR,,Frankfort,US,40.273399,-86.562202,861
+KFKS,Frankfort Dow Memorial Field,KFKS,,Frankfort,US,44.625198,-86.200798,633
+KFLD,Fond du Lac County Airport,KFLD,,Fond du Lac,US,43.771198,-88.488403,808
+KFLG,Flagstaff Pulliam Airport,KFLG,FLG,Flagstaff,US,35.138500,-111.670998,7014
+KFLL,Fort Lauderdale Hollywood International Airport,KFLL,FLL,Fort Lauderdale,US,26.072599,-80.152702,9
+KFLO,Florence Regional Airport,KFLO,FLO,Florence,US,34.185398,-79.723900,146
+KFLP,Marion County Regional Airport,KFLP,,Flippin,US,36.290901,-92.590302,719
+KFLR,Fall River Airport,KFLR,,Fall River,US,41.755001,-71.109703,190
+KFLV,Sherman Army Air Field,KFLV,,Fort Leavenworth,US,39.368301,-94.914703,772
+KFLX,Fallon Municipal Airport,KFLX,,Fallon,US,39.499100,-118.749001,3963
+KFME,Tipton Airport,KFME,,Fort Meade(Odenton),US,39.085400,-76.759399,150
+KFMH,Cape Cod Coast Guard Air Station,KFMH,,Falmouth,US,41.658401,-70.521400,131
+KFMM,Fort Morgan Municipal Airport,KFMM,,Fort Morgan,US,40.333599,-103.804001,4569
+KFMN,Four Corners Regional Airport,KFMN,FMN,Farmington,US,36.741199,-108.230003,5506
+KFMY,Page Field,KFMY,,Fort Myers,US,26.586599,-81.863297,17
+KFMZ,Fairmont State Airfield,KFMZ,,Fairmont,US,40.586102,-97.573097,1636
+KFNB,Brenner Field,KFNB,,Falls City,US,40.078800,-95.592003,984
+KFNL,Fort Collins Loveland Municipal Airport,KFNL,,Fort Collins/Loveland,US,40.451801,-105.011002,5016
+KFNT,Bishop International Airport,KFNT,FNT,Flint,US,42.965401,-83.743599,782
+KFOA,Flora Municipal Airport,KFOA,,Flora,US,38.664902,-88.453003,473
+KFOD,Fort Dodge Regional Airport,KFOD,FOD,Fort Dodge,US,42.551498,-94.192596,1156
+KFOE,Forbes Field,KFOE,FOE,Topeka,US,38.950901,-95.663597,1078
+KFOK,Francis S Gabreski Airport,KFOK,,Westhampton Beach,US,40.843700,-72.631798,67
+KFOM,Fillmore Municipal Airport,KFOM,FIL,Fillmore,US,38.958302,-112.362999,4985
+KFOT,Rohnerville Airport,KFOT,,Fortuna,US,40.553902,-124.133003,393
+KFOZ,Bigfork Municipal Airport,KFOZ,,Bigfork,US,47.782799,-93.650200,1348
+KFPK,Fitch H Beach Airport,KFPK,,Charlotte,US,42.574501,-84.811401,891
+KFPR,St Lucie County International Airport,KFPR,FPR,Fort Pierce,US,27.495100,-80.368301,24
+KFQD,Rutherford Co Marchman Field,KFQD,,Rutherfordton,US,35.428200,-81.935097,1077
+KFRG,Republic Airport,KFRG,,Farmingdale,US,40.728802,-73.413399,82
+KFRH,French Lick Municipal Airport,KFRH,FRH,French Lick,US,38.506199,-86.636902,792
+KFRI,Marshall Army Air Field,KFRI,FRI,Fort Riley(Junction City),US,39.055302,-96.764503,1065
+KFRM,Fairmont Municipal Airport,KFRM,FRM,Fairmont,US,43.643902,-94.415604,1162
+KFRR,Front Royal Warren County Airport,KFRR,,Front Royal,US,38.917500,-78.253502,709
+KFSD,Joe Foss Field Airport,KFSD,FSD,Sioux Falls,US,43.582001,-96.741898,1429
+KFSE,Fosston Municipal Airport,KFSE,,Fosston,US,47.592800,-95.773499,1277
+KFSI,Henry Post Army Air Field (Fort Sill),KFSI,,Fort Sill,US,34.649799,-98.402199,1189
+KFSK,Fort Scott Municipal Airport,KFSK,,Fort Scott,US,37.798401,-94.769402,918
+KFSM,Fort Smith Regional Airport,KFSM,FSM,Fort Smith,US,35.336601,-94.367401,469
+KFSO,Franklin County State Airport,KFSO,,Highgate,US,44.940300,-73.097504,228
+KFST,Fort Stockton Pecos County Airport,KFST,,Fort Stockton,US,30.915701,-102.916000,3011
+KFSU,Fort Sumner Municipal Airport,KFSU,,Fort Sumner,US,34.483398,-104.217003,4165
+KFSW,Fort Madison Municipal Airport,KFSW,FMS,Fort Madison,US,40.659302,-91.326797,724
+KFTG,Front Range Airport,KFTG,,Denver,US,39.785301,-104.542999,5512
+KFTK,Godman Army Air Field,KFTK,,Fort Knox,US,37.907101,-85.972099,756
+KFTT,Elton Hensley Memorial Airport,KFTT,,Fulton,US,38.838100,-92.002602,886
+KFTW,Fort Worth Meacham International Airport,KFTW,FTW,Fort Worth,US,32.819801,-97.362396,710
+KFTY,Fulton County Airport Brown Field,KFTY,,Atlanta,US,33.779099,-84.521400,841
+KFUL,Fullerton Municipal Airport,KFUL,FUL,Fullerton,US,33.872002,-117.980003,96
+KFVE,Northern Aroostook Regional Airport,KFVE,WFK,Frenchville,US,47.285500,-68.312798,988
+KFVX,Farmville Regional Airport,KFVX,,Farmville,US,37.357498,-78.437798,416
+KFWA,Fort Wayne International Airport,KFWA,FWA,Fort Wayne,US,40.978500,-85.195099,814
+KFWC,Fairfield Municipal Airport,KFWC,,Fairfield,US,38.378601,-88.412697,436
+KFWN,Sussex Airport,KFWN,,Sussex,US,41.200199,-74.623001,421
+KFWQ,Rostraver Airport,KFWQ,,Monongahela,US,40.209702,-79.831398,1228
+KFWS,Fort Worth Spinks Airport,KFWS,,Fort Worth,US,32.565201,-97.308098,700
+KFXE,Fort Lauderdale Executive Airport,KFXE,,Fort Lauderdale,US,26.197300,-80.170700,13
+KFXY,Forest City Municipal Airport,KFXY,,Forest City,US,43.234699,-93.624100,1229
+KFYE,Fayette County Airport,KFYE,,Somerville,US,35.207699,-89.394501,436
+KFYJ,Middle Peninsula Regional Airport,KFYJ,,West Point,US,37.521198,-76.764702,20
+KFYM,Fayetteville Municipal Airport,KFYM,,Fayetteville,US,35.059700,-86.564003,984
+KFYV,Drake Field,KFYV,FYV,Fayetteville,US,36.005100,-94.170097,1251
+KFZG,Fitzgerald Municipal Airport,KFZG,,Fitzgerald,US,31.683701,-83.270500,365
+KFZI,Fostoria Metropolitan Airport,KFZI,,Fostoria,US,41.190800,-83.394501,752
+KFZY,Oswego County Airport,KFZY,,Fulton,US,43.350800,-76.388100,475

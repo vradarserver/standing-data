@@ -1,0 +1,15 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FSAL,Alphonse Airport,FSAL,,Alphonse Island,SC,-7.004780,52.726200,10
+FSAS,Assumption Island Airport,FSAS,,Assumption Island,SC,-9.742220,46.506802,10
+FSDA,Darros Airport,FSDA,,Darros Island,SC,-5.417000,53.299999,10
+FSDR,Desroches Airport,FSDR,DES,Desroches Island,SC,-5.696700,53.655800,10
+FSFA,Farquhar Airport,FSFA,,Farquhar Group,SC,-10.109600,51.176102,10
+FSIA,Seychelles International Airport,FSIA,SEZ,Mahe Island,SC,-4.674340,55.521801,10
+FSMA,Marie-Louise Airport,FSMA,,Marie-Louise Island,SC,-6.174160,53.144402,9
+FSPL,Platte Airport,FSPL,,Platte Island,SC,-5.859160,55.383301,9
+FSPP,Praslin Airport,FSPP,PRI,Praslin Island,SC,-4.319290,55.691399,10
+FSSB,Bird Island Airport,FSSB,BDI,Bird Island,SC,-3.724720,55.205299,6
+FSSC,Coetivy Airport,FSSC,,Coetivy Island,SC,-7.134570,56.278198,10
+FSSD,Denis Island Airport,FSSD,DEI,Denis Island,SC,-3.802220,55.666901,10
+FSSF,Frégate Island Airport,FSSF,FRK,Frégate Island,SC,-4.583000,55.950001,610
+FSSR,Remire Island Airport,FSSR,,Remire Island,SC,-5.117220,53.312199,9

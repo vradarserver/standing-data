@@ -1,0 +1,79 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+0MA1,Massachusetts General Hospital Heliport,0MA1,,Boston,US,42.363701,-71.068901,214
+0MA2,Healthalliance Hospital-Leominster Heliport,0MA2,,Leominster,US,42.540901,-71.762802,450
+0MA3,Reh Heliport,0MA3,,Rehoboth,US,41.787399,-71.231796,100
+0MA4,Boston Medical Center Hospital Heliport,0MA4,,Boston,US,42.333599,-71.071701,19
+0MA5,Brockton Usar Center Heliport,0MA5,,Brockton,US,42.055901,-71.055901,85
+0MA6,Wbz Heliport,0MA6,,Boston,US,42.365101,-71.132599,9
+0MA8,Textron/Everett Heliport,0MA8,,Everett,US,42.404499,-71.070602,40
+0MA9,Lleia Kyle O'Meara Heliport,0MA9,,Westminster,US,42.503101,-71.908401,1230
+0MD0,Baltimore Washington Medical Center Heliport,0MD0,,Glen Burnie,US,39.137600,-76.623299,77
+0MD1,Taylor Field,0MD1,,Sudlersville,US,39.187302,-75.792702,75
+0MD2,Squier Landing Airport,0MD2,,Cobb Island,US,38.287899,-76.867500,16
+0MD3,The Johns Hopkins Hospital Heliport,0MD3,,Baltimore,US,39.297298,-76.593300,260
+0MD4,Pond View Private Airport,0MD4,,Chestertown,US,39.266800,-76.187202,47
+0MD5,Greater Laurel Beltsville Hospital Heliport,0MD5,,Laurel,US,39.087601,-76.881599,285
+0MD6,Walters Airport,0MD6,,Mount Airy,US,39.381199,-77.105797,750
+0MD7,The Aspen Institute Heliport,0MD7,,Queenstown,US,38.909302,-76.119698,20
+0MD8,Security Ford Heliport,0MD8,,Arbutus,US,39.245899,-76.676102,30
+0MD9,Calvert Memorial Hospital Heliport,0MD9,,Prince Frederick,US,38.561001,-76.596603,143
+0ME4,Peasley Field,0ME4,,Otis,US,44.742469,-68.474403,271
+0MI0,Sumner Heliport,0MI0,,Grand Rapids,US,42.970001,-85.665901,657
+0MI1,Sugar Springs Airport,0MI1,,Gladwin,US,44.140301,-84.437500,940
+0MI2,Stier Airstrip,0MI2,,Glennie,US,44.522202,-83.683296,850
+0MI3,Kelleys Airport,0MI3,,Grayling,US,44.633400,-84.483398,1000
+0MI4,Lesterson Field,0MI4,,Gwinn,US,46.270199,-87.386497,1120
+0MI6,Young's Airport,0MI6,,Hulbert,US,46.387501,-85.183998,800
+0MI7,Four Star Heliport,0MI7,,Carleton,US,42.043098,-83.359398,603
+0MI8,Twin Lakes Airport,0MI8,,Lewiston,US,44.900002,-84.300003,1275
+0MI9,Henry Ford Hospital Heliport,0MI9,,Detroit,US,42.367500,-83.084396,633
+0MN0,Winner's Landing Seaplane Base,0MN0,,St Paul Park,US,44.796902,-92.984100,690
+0MN1,Brinkman Airport,0MN1,,St. Peter,US,44.262501,-94.069702,1020
+0MN2,Grindstone Lake Seaplane Base,0MN2,,Sandstone,US,46.133301,-93.002998,1025
+0MN3,Lower Hay Lake Seaplane Base,0MN3,,Jenkins,US,46.677799,-94.292503,1230
+0MN4,Paul's Seaplane Base,0MN4,,Nisswa,US,46.477200,-94.303101,1200
+0MN5,Pankratz Airport,0MN5,,Springfield,US,44.307201,-94.916901,1033
+0MN6,Matson Field,0MN6,,Spring Valley,US,43.662201,-92.404297,1365
+0MN7,Ely Bloomenson Community Hospital Heliport,0MN7,,Ely,US,47.899101,-91.873001,1450
+0MN8,Keller Airport,0MN8,,Stillwater,US,45.135799,-92.859398,990
+0MN9,Triple H Heliport,0MN9,,Big Lake,US,45.313301,-93.717598,980
+0MO0,Ferros Ranch-Aero Airport,0MO0,,Clinton,US,38.410301,-93.850197,775
+0MO1,Flying G Airport,0MO1,,Creighton,US,38.544498,-94.094704,920
+0MO2,Short-N-Ruff Airport,0MO2,,Caledonia,US,37.786701,-90.780098,950
+0MO3,Arvin Ranch Airport,0MO3,,Drexel,US,38.440300,-94.593300,1000
+0MO4,Bert Walter Berkowitz Heliport,0MO4,,Kansas City,US,39.085300,-94.573799,890
+0MO5,Joe D Lewis Airport,0MO5,,Edina,US,40.133400,-92.100197,780
+0MO6,Hall Airport,0MO6,,Edina,US,40.116699,-92.266899,850
+0MO7,St Joseph Hospital West Heliport,0MO7,,Lake Saint Louis,US,38.803299,-90.776299,531
+0MO8,Sloan's Airport,0MO8,,Elsberry,US,39.140598,-90.736801,437
+0MO9,Emerson Heliport,0MO9,,Ferguson,US,38.729500,-90.278397,575
+0MS0,Topton Air Estates Airport,0MS0,,Meridian,US,32.474998,-88.616699,453
+0MS1,Franklin Field,0MS1,,Meadville,US,31.425200,-90.902901,200
+0MS2,Morgan Field,0MS2,,Seminary,US,31.541800,-89.391701,300
+0MS3,Baptist Memorial Hospital-North Ms Heliport,0MS3,,Oxford,US,34.347801,-89.518997,430
+0MS4,Sheriff's Courthouse Heliport,0MS4,,Gulfport,US,30.375999,-89.086197,50
+0MS5,Lewis Air Service Airport,0MS5,,Leland,US,33.391800,-90.916801,120
+0MS6,Levert Heliport,0MS6,,Pass Christian,US,30.301300,-89.234497,25
+0MS7,Hale Field,0MS7,,Pontotoc,US,34.342602,-89.143097,346
+0MS8,Catfish Point Airport,0MS8,,Benoit,US,33.699299,-91.165100,154
+0MS9,Shenandoah Valley Farms Airport,0MS9,,Houston,US,33.800701,-89.027298,300
+0MT1,Williams Field,0MT1,,Augusta,US,47.497501,-112.390999,4070
+0MT2,Big Sandy Medical Center Heliport,0MT2,,Big Sandy,US,48.179699,-110.109001,2750
+0MT3,Stock Farm Heliport,0MT3,,Hamilton,US,46.250801,-114.067001,3920
+0MT4,Kimp Airport,0MT4,,Hamilton,US,46.278599,-114.140999,3510
+0MT5,Cottonwood Airport,0MT5,,Laurel,US,45.634201,-108.848999,3350
+0MT6,Hanson Airport,0MT6,,Marion,US,48.040600,-114.679001,3900
+0MT7,Pinehurst Ranch Airport,0MT7,,Thompson Falls,US,47.660801,-115.403999,2460
+0MT8,Glacier Heli Tours Heliport,0MT8,,West Glacier,US,48.486698,-113.998001,3300
+0MT9,Lone Hawk Airport,0MT9,,White Fish,US,48.483299,-114.492996,3284
+0MU0,Eagle Field,0MU0,,Ellington,US,37.234699,-91.093597,784
+0MU1,Sunderland Airport,0MU1,,Avilla,US,37.246700,-94.173897,1027
+0MU2,Christian Hospital Northeast Heliport,0MU2,,Florissant,US,38.774502,-90.238998,520
+0MU3,Hannibal Regional Hospital Heliport,0MU3,,Hannibal,US,39.711201,-91.450699,744
+0MU4,Slaughter Airport,0MU4,,Marceline,US,39.616100,-92.866898,800
+0MU5,Holden Heliport,0MU5,,Holden,US,38.719700,-93.994400,865
+0MU6,Bradbury-Rolf Memorial Heliport,0MU6,,Higginsville,US,39.073299,-93.735901,815
+0MU7,Lambs Field,0MU7,,Lone Jack,US,38.875000,-94.139702,1070
+0MU8,Prince STOLport,0MU8,,Millersville,US,37.438702,-89.759003,582
+0MY0,Kenyon Heliport,0MY0,,Kenyon,US,44.333900,-92.943298,1500
+0MY1,Bozeman Deaconess Hospital Heliport,0MY1,,Bozeman,US,45.669998,-111.018997,4925

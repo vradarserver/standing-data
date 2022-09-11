@@ -1,0 +1,10 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GVAC,Amílcar Cabral International Airport,GVAC,SID,Espargos,CV,16.741400,-22.949400,177
+GVAN,Agostinho Neto Airport,GVAN,NTO,Ponta do Sol,CV,17.202801,-25.090599,32
+GVBA,Rabil Airport,GVBA,BVC,Rabil,CV,16.136499,-22.888901,69
+GVMA,Maio Airport,GVMA,MMO,Vila do Maio,CV,15.155900,-23.213699,36
+GVMT,Mosteiros Airport,GVMT,MTI,Vila do Mosteiros,CV,15.045000,-24.339199,66
+GVNP,Praia International Airport,GVNP,RAI,Praia,CV,14.924500,-23.493500,230
+GVSF,São Filipe Airport,GVSF,SFL,São Filipe,CV,14.885000,-24.480000,617
+GVSN,Preguiça Airport,GVSN,SNE,Preguiça,CV,16.588400,-24.284700,669
+GVSV,São Pedro Airport,GVSV,VXE,São Pedro,CV,16.833200,-25.055300,66

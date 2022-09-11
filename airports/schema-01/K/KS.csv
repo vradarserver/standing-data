@@ -1,0 +1,204 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KS01,Conrad Airport,KS01,,Conrad,US,48.168598,-111.975998,3545
+KS03,Ashland Municipal Sumner Parker Field,KS03,AHM,Ashland,US,42.190300,-122.661003,1885
+KS05,Bandon State Airport,KS05,BDY,Bandon,US,43.086498,-124.407997,122
+KS10,Lake Chelan Airport,KS10,,Chelan,US,47.866001,-119.943001,1263
+KS12,Albany Municipal Airport,KS12,,Albany,US,44.637798,-123.058998,226
+KS17,Twin Lakes Airport,KS17,,Graniteville,US,33.645699,-81.867104,540
+KS19,Mc Cormick County Airport,KS19,,Mc Cormick,US,33.908100,-82.266899,459
+KS20,Goldendale Airport,KS20,,Goldendale,US,45.832100,-120.845001,1678
+KS21,Sunriver Airport,KS21,SUO,Sunriver,US,43.876301,-121.453003,4164
+KS23,Ione Municipal Airport,KS23,,Ione,US,48.708099,-117.413002,2108
+KS24,Sandusky County Regional Airport,KS24,,Fremont,US,41.295700,-83.037201,665
+KS25,Watford City Municipal Airport,KS25,,Watford City,US,47.795700,-103.253998,2111
+KS27,Kalispell City Airport,KS27,,Kalispell,US,48.178600,-114.304001,2932
+KS32,Cooperstown Municipal Airport,KS32,,Cooperstown,US,47.422798,-98.105904,1424
+KS33,Madras Municipal Airport,KS33,,Madras,US,44.670200,-121.154999,2437
+KS34,Plains Airport,KS34,,Plains,US,47.472401,-114.900002,2467
+KS36,Crest Airpark,KS36,,Kent,US,47.337101,-122.103996,472
+KS39,Prineville Airport,KS39,,Prineville,US,44.286999,-120.903999,3250
+KS40,Prosser Airport,KS40,,Prosser,US,46.213402,-119.791000,697
+KS42,Springer Municipal Airport,KS42,,Springer,US,36.327000,-104.620003,5891
+KS45,Siletz Bay State Airport,KS45,,Gleneden Beach,US,44.876900,-124.028999,69
+KS48,Country Squire Airpark,KS48,,Sandy,US,45.354401,-122.267998,1175
+KS50,Auburn Municipal Airport,KS50,,Auburn,US,47.327702,-122.226997,63
+KS52,Methow Valley State Airport,KS52,,Winthrop,US,48.424900,-120.146004,1706
+KS59,Libby Airport,KS59,,Libby,US,48.283798,-115.489998,2601
+KS64,Stanford Airport,KS64,,Stanford,US,47.147202,-110.230003,4327
+KS67,Nampa Municipal Airport,KS67,,Nampa,US,43.581299,-116.523003,2537
+KS69,Lincoln Airport,KS69,,Lincoln,US,46.954399,-112.650002,4603
+KS70,Othello Municipal Airport,KS70,,Othello,US,46.794899,-119.079002,1139
+KS71,Edgar G Obie Airport,KS71,,Chinook,US,48.592098,-109.250999,2416
+KS72,St Maries Municipal Airport,KS72,,St Maries,US,47.327702,-116.577003,2127
+KS73,Kamiah Municipal Airport,KS73,,Kamiah,US,46.219299,-116.013000,1194
+KS75,Payette Municipal Airport,KS75,,Payette,US,44.091599,-116.901001,2228
+KS78,Emmett Municipal Airport,KS78,,Emmett,US,43.849899,-116.542999,2350
+KS80,Idaho County Airport,KS80,IDH,Grangeville,US,45.942600,-116.123001,3314
+KS83,Shoshone County Airport,KS83,,Kellogg,US,47.547699,-116.188004,2223
+KS84,Cottonwood Municipal Airport,KS84,,Cottonwood,US,46.038799,-116.332001,3474
+KS85,Big Sky Field,KS85,,Culbertson,US,48.153301,-104.503998,1954
+KS87,Weiser Municipal Airport,KS87,,Weiser,US,44.206799,-116.961998,2120
+KS94,Port of Whitman Business Air Center Airport,KS94,,Colfax,US,46.858700,-117.414001,2181
+KS95,Martin Field,KS95,,College Place,US,46.046902,-118.417000,746
+KS97,Anderson Field,KS97,,Brewster,US,48.104900,-119.721001,914
+KS98,Vista Field,KS98,VSK,Kennewick,US,46.218601,-119.209999,534
+KSAA,Shively Field,KSAA,,Saratoga,US,41.444901,-106.823997,7012
+KSAC,Sacramento Executive Airport,KSAC,,Sacramento,US,38.512501,-121.492996,24
+KSAD,Safford Regional Airport,KSAD,,Safford,US,32.854801,-109.635002,3179
+KSAF,Santa Fe Municipal Airport,KSAF,SAF,Santa Fe,US,35.617100,-106.088997,6348
+KSAN,San Diego International Airport,KSAN,SAN,San Diego,US,32.733601,-117.190002,17
+KSAR,Sparta Community Hunter Field,KSAR,,Sparta,US,38.148899,-89.698700,538
+KSAT,San Antonio International Airport,KSAT,SAT,San Antonio,US,29.533701,-98.469803,809
+KSAV,Savannah Hilton Head International Airport,KSAV,SAV,Savannah,US,32.127602,-81.202103,50
+KSAW,Sawyer International Airport,KSAW,MQT,Marquette,US,46.353600,-87.395401,1221
+KSAZ,Staples Municipal Airport,KSAZ,,Staples,US,46.380901,-94.806602,1287
+KSBA,Santa Barbara Municipal Airport,KSBA,SBA,Santa Barbara,US,34.426201,-119.839996,13
+KSBD,San Bernardino International Airport,KSBD,SBD,San Bernardino,US,34.095402,-117.235001,1159
+KSBM,Sheboygan County Memorial Airport,KSBM,,Sheboygan,US,43.769600,-87.851402,755
+KSBN,South Bend Regional Airport,KSBN,SBN,South Bend,US,41.708698,-86.317299,799
+KSBO,Emanuel County Airport,KSBO,,Swainsboro,US,32.609100,-82.369904,327
+KSBP,San Luis County Regional Airport,KSBP,SBP,San Luis Obispo,US,35.236801,-120.641998,212
+KSBS,Steamboat Springs Bob Adams Field,KSBS,SBS,Steamboat Springs,US,40.516300,-106.865997,6882
+KSBU,Blue Earth Municipal Airport,KSBU,,Blue Earth,US,43.595299,-94.092796,1107
+KSBX,Shelby Airport,KSBX,,Shelby,US,48.540699,-111.871002,3443
+KSBY,Salisbury Ocean City Wicomico Regional Airport,KSBY,SBY,Salisbury,US,38.340500,-75.510300,52
+KSCB,Scribner State Airport,KSCB,,Scribner,US,41.610298,-96.629898,1325
+KSCD,Merkel Field Sylacauga Municipal Airport,KSCD,,Sylacauga,US,33.171799,-86.305496,569
+KSCH,Schenectady County Airport,KSCH,,Schenectady,US,42.852501,-73.928902,378
+KSCK,Stockton Metropolitan Airport,KSCK,SCK,Stockton,US,37.894199,-121.237999,33
+KSCX,Scott Municipal Airport,KSCX,,Oneida,US,36.455601,-84.585701,1545
+KSDA,Shenandoah Municipal Airport,KSDA,,Shenandoah,US,40.751598,-95.413696,971
+KSDC,Williamson Sodus Airport,KSDC,,Williamson/Sodus,US,43.234699,-77.121002,424
+KSDF,Louisville International Standiford Field,KSDF,SDF,Louisville,US,38.174400,-85.736000,501
+KSDL,Scottsdale Airport,KSDL,SCF,Scottsdale,US,33.622898,-111.911003,1510
+KSDM,Brown Field Municipal Airport,KSDM,,San Diego,US,32.572300,-116.980003,526
+KSDY,Sidney Richland Municipal Airport,KSDY,SDY,Sidney,US,47.706902,-104.193001,1985
+KSEA,Seattle Tacoma International Airport,KSEA,SEA,Seattle,US,47.449001,-122.308998,433
+KSEE,Gillespie Field,KSEE,,San Diego/El Cajon,US,32.826199,-116.972000,388
+KSEF,Sebring Regional Airport,KSEF,,Sebring,US,27.456400,-81.342400,62
+KSEG,Penn Valley Airport,KSEG,,Selinsgrove,US,40.820599,-76.863899,450
+KSEM,Craig Field,KSEM,,Selma,US,32.343899,-86.987801,166
+KSEP,Clark Field Municipal Airport,KSEP,,Stephenville,US,32.215302,-98.177696,1321
+KSEQ,Randolph Air Force Base Auxiliary Airport,KSEQ,,Seguin,US,29.565800,-97.908302,525
+KSER,Freeman Municipal Airport,KSER,,Seymour,US,38.923599,-85.907402,583
+KSET,St Charles County Smartt Airport,KSET,,St Charles,US,38.929699,-90.430000,437
+KSEZ,Sedona Airport,KSEZ,,Sedona,US,34.848598,-111.788002,4830
+KSFB,Orlando Sanford International Airport,KSFB,SFB,Orlando,US,28.777599,-81.237503,55
+KSFF,Felts Field,KSFF,,Spokane,US,47.682800,-117.322998,1953
+KSFM,Sanford Regional Airport,KSFM,,Sanford,US,43.393902,-70.708000,244
+KSFO,San Francisco International Airport,KSFO,SFO,San Francisco,US,37.618999,-122.375000,13
+KSFQ,Suffolk Executive Airport,KSFQ,,Suffolk,US,36.682400,-76.601898,72
+KSFY,Tri Township Airport,KSFY,,Savanna,US,42.045799,-90.107903,616
+KSFZ,North Central State Airport,KSFZ,,Pawtucket,US,41.920799,-71.491402,441
+KSGF,Springfield Branson National Airport,KSGF,SGF,Springfield,US,37.245701,-93.388603,1268
+KSGH,Springfield Beckley Municipal Airport,KSGH,,Springfield,US,39.840302,-83.840202,1051
+KSGJ,St Augustine Airport,KSGJ,,St Augustine,US,29.959200,-81.339798,10
+KSGR,Sugar Land Regional Airport,KSGR,,Houston,US,29.622299,-95.656502,82
+KSGS,South St Paul Municipal Richard E Fleming field,KSGS,,South St Paul,US,44.857101,-93.032898,821
+KSGT,Stuttgart Municipal Airport,KSGT,,Stuttgart,US,34.599499,-91.574997,224
+KSGU,St George Municipal Airport,KSGU,SGU,St George,US,37.036389,-113.510306,2941
+KSHD,Shenandoah Valley Regional Airport,KSHD,SHD,Staunton/Waynesboro/Harrisonburg,US,38.263802,-78.896400,1201
+KSHL,Sheldon Municipal Airport,KSHL,,Sheldon,US,43.208401,-95.833397,1419
+KSHN,Sanderson Field,KSHN,,Shelton,US,47.233601,-123.148003,273
+KSHR,Sheridan County Airport,KSHR,SHR,Sheridan,US,44.769199,-106.980003,4021
+KSHV,Shreveport Regional Airport,KSHV,SHV,Shreveport,US,32.446602,-93.825600,258
+KSIF,Rockingham County Nc Shiloh Airport,KSIF,,Reidsville,US,36.437199,-79.850998,694
+KSIK,Sikeston Memorial Municipal Airport,KSIK,,Sikeston,US,36.898899,-89.561798,315
+KSIV,Sullivan County Airport,KSIV,,Sullivan,US,39.114700,-87.448303,540
+KSIY,Siskiyou County Airport,KSIY,,Montague,US,41.781399,-122.468002,2648
+KSJC,Norman Y. Mineta San Jose International Airport,KSJC,SJC,San Jose,US,37.362598,-121.929001,62
+KSJN,St Johns Industrial Air Park,KSJN,SJN,St Johns,US,34.518600,-109.378998,5737
+KSJT,San Angelo Regional Mathis Field,KSJT,SJT,San Angelo,US,31.357700,-100.496002,1919
+KSJX,Beaver Island Airport,KSJX,,Beaver Island,US,45.692299,-85.566597,669
+KSKA,Fairchild Air Force Base,KSKA,SKA,Spokane,US,47.615101,-117.655998,2461
+KSKF,Lackland Air Force Base (Kelly Field Annex) Airport,KSKF,SKF,San Antonio,US,29.384199,-98.581100,691
+KSKI,Sac City Municipal Airport,KSKI,,Sac City,US,42.379101,-94.979698,1250
+KSKX,Taos Regional Airport,KSKX,TSM,Taos,US,36.458199,-105.671997,7095
+KSKY,Griffing Sandusky Airport,KSKY,SKY,Sandusky,US,41.433399,-82.652298,580
+KSLB,Storm Lake Municipal Airport,KSLB,SLB,Storm Lake,US,42.597301,-95.240700,1488
+KSLC,Salt Lake City International Airport,KSLC,SLC,Salt Lake City,US,40.788399,-111.977997,4227
+KSLE,Salem Municipal Airport/McNary Field,KSLE,SLE,Salem,US,44.909500,-123.002998,214
+KSLG,Smith Field,KSLG,SLG,Siloam Springs,US,36.191898,-94.489998,1191
+KSLH,Cheboygan County Airport,KSLH,,Cheboygan,US,45.653702,-84.519302,639
+KSLI,Los Alamitos Army Air Field,KSLI,,Los Alamitos,US,33.790001,-118.052002,32
+KSLJ,Hagler Army Air Field,KSLJ,,Camp Shelby,US,31.173800,-89.191200,280
+KSLK,Adirondack Regional Airport,KSLK,SLK,Saranac Lake,US,44.385300,-74.206200,1663
+KSLN,Salina Municipal Airport,KSLN,SLN,Salina,US,38.791000,-97.652199,1288
+KSLO,Salem Leckrone Airport,KSLO,,Salem,US,38.642899,-88.964203,573
+KSLR,Sulphur Springs Municipal Airport,KSLR,,Sulphur Springs,US,33.159801,-95.621101,489
+KSMD,Smith Field,KSMD,,Fort Wayne,US,41.143398,-85.152802,835
+KSME,Lake Cumberland Regional Airport,KSME,,Somerset,US,37.053398,-84.615898,927
+KSMF,Sacramento International Airport,KSMF,SMF,Sacramento,US,38.695400,-121.591003,27
+KSMN,Lemhi County Airport,KSMN,,Salmon,US,45.123798,-113.880997,4043
+KSMO,Santa Monica Municipal Airport,KSMO,,Santa Monica,US,34.015800,-118.450996,177
+KSMQ,Somerset Airport,KSMQ,,Somerville,US,40.625999,-74.670197,105
+KSMS,Sumter Airport,KSMS,,Sumter,US,33.994999,-80.361298,182
+KSMX,Santa Maria Pub/Capt G Allan Hancock Field,KSMX,SMX,Santa Maria,US,34.898899,-120.457001,261
+KSNA,John Wayne Airport-Orange County Airport,KSNA,SNA,Santa Ana,US,33.675701,-117.867996,56
+KSNC,Chester Airport,KSNC,,Chester,US,41.383900,-72.505898,416
+KSNH,Savannah Hardin County Airport,KSNH,,Savannah,US,35.170399,-88.215897,473
+KSNK,Winston Field,KSNK,,Snyder,US,32.693401,-100.949997,2430
+KSNL,Shawnee Regional Airport,KSNL,,Shawnee,US,35.357899,-96.942802,1073
+KSNS,Salinas Municipal Airport,KSNS,,Salinas,US,36.662800,-121.606003,85
+KSNY,Sidney Municipal-Lloyd W Carr Field,KSNY,,Sidney,US,41.101299,-102.985001,4313
+KSOA,Sonora Municipal Airport,KSOA,,Sonora,US,30.585699,-100.649002,2140
+KSOP,Moore County Airport,KSOP,,Pinehurst/Southern Pines,US,35.237400,-79.391197,455
+KSOW,Show Low Regional Airport,KSOW,SOW,Show Low,US,34.265499,-110.005997,6415
+KSOY,Sioux Center Municipal Airport,KSOY,,Sioux Center,US,43.134399,-96.187500,1448
+KSPA,Spartanburg Downtown Memorial Airport,KSPA,,Spartanburg,US,34.915699,-81.956497,801
+KSPB,Scappoose Industrial Airpark,KSPB,,Scappoose,US,45.771000,-122.862000,58
+KSPF,Black Hills Clyde Ice Field,KSPF,,Spearfish,US,44.480301,-103.782997,3931
+KSPG,Albert Whitted Airport,KSPG,,St Petersburg,US,27.765100,-82.626999,7
+KSPH,Springhill Airport,KSPH,,Springhill,US,32.983398,-93.409203,218
+KSPI,Abraham Lincoln Capital Airport,KSPI,SPI,Springfield,US,39.844101,-89.677902,598
+KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,KSPS,SPS,Wichita Falls,US,33.988800,-98.491898,1019
+KSPW,Spencer Municipal Airport,KSPW,,Spencer,US,43.165501,-95.202797,1339
+KSPX,Houston Airport,KSPX,,Houston,US,29.508301,-95.051399,20
+KSPZ,Silver Springs Airport,KSPZ,,Silver Springs,US,39.403000,-119.250999,4269
+KSQI,Whiteside Co Arpt-Jos H Bittorf field,KSQI,,Sterling/Rockfalls,US,41.742802,-89.676300,648
+KSQL,San Carlos Airport,KSQL,,San Carlos,US,37.511902,-122.250000,5
+KSRB,Upper Cumberland Regional Airport,KSRB,,Sparta,US,36.055901,-85.530701,1025
+KSRC,Searcy Municipal Airport,KSRC,,Searcy,US,35.210602,-91.737503,265
+KSRE,Seminole Municipal Airport,KSRE,,Seminole,US,35.274700,-96.675201,1024
+KSRQ,Sarasota Bradenton International Airport,KSRQ,SRQ,Sarasota/Bradenton,US,27.395399,-82.554398,30
+KSRR,Sierra Blanca Regional Airport,KSRR,,Ruidoso,US,33.462799,-105.535004,6814
+KSSC,Shaw Air Force Base,KSSC,,Sumter,US,33.972698,-80.470596,241
+KSSF,Stinson Municipal Airport,KSSF,,San Antonio,US,29.337000,-98.471100,577
+KSSI,Malcolm Mc Kinnon Airport,KSSI,,Brunswick,US,31.151800,-81.391296,19
+KSSQ,Shell Lake Municipal Airport,KSSQ,,Shell Lake,US,45.731400,-91.920700,1233
+KSTC,St Cloud Regional Airport,KSTC,STC,St Cloud,US,45.546600,-94.059898,1031
+KSTE,Stevens Point Municipal Airport,KSTE,,Stevens Point,US,44.545200,-89.530296,1110
+KSTF,George M Bryan Airport,KSTF,,Starkville,US,33.433102,-88.848602,333
+KSTJ,Rosecrans Memorial Airport,KSTJ,,St Joseph,US,39.771900,-94.909698,826
+KSTK,Sterling Municipal Airport,KSTK,,Sterling,US,40.615299,-103.264999,4040
+KSTL,Lambert St Louis International Airport,KSTL,STL,St Louis,US,38.748699,-90.370003,618
+KSTP,St Paul Downtown Holman Field,KSTP,STP,St Paul,US,44.934502,-93.059998,705
+KSTS,Charles M. Schulz Sonoma County Airport,KSTS,STS,Santa Rosa,US,38.508999,-122.813004,128
+KSUA,Witham Field,KSUA,,Stuart,US,27.181700,-80.221100,16
+KSUD,Stroud Municipal Airport,KSUD,,Stroud,US,35.789600,-96.655701,900
+KSUE,Door County Cherryland Airport,KSUE,,Sturgeon Bay,US,44.843700,-87.421501,725
+KSUN,Friedman Memorial Airport,KSUN,SUN,Hailey,US,43.504398,-114.295998,5318
+KSUO,Rosebud Sioux Tribal Airport,KSUO,,Rosebud,US,43.258500,-100.859520,2724
+KSUS,Spirit of St Louis Airport,KSUS,,St Louis,US,38.662102,-90.652000,463
+KSUT,Brunswick County Airport,KSUT,,Oak Island,US,33.929298,-78.074997,24
+KSUU,Travis Air Force Base,KSUU,SUU,Fairfield,US,38.262699,-121.927002,62
+KSUW,Richard I Bong Airport,KSUW,,Superior,US,46.689701,-92.094704,674
+KSUX,Sioux Gateway Col. Bud Day Field,KSUX,SUX,Sioux City,US,42.402599,-96.384399,1098
+KSUZ,Saline County Regional Airport,KSUZ,,Benton,US,34.590599,-92.479401,390
+KSVC,Grant County Airport,KSVC,SVC,Silver City,US,32.636501,-108.155998,5446
+KSVE,Susanville Municipal Airport,KSVE,,Susanville,US,40.375702,-120.572998,4149
+KSVH,Statesville Regional Airport,KSVH,,Statesville,US,35.765301,-80.953903,968
+KSVN,Hunter Army Air Field,KSVN,,Savannah,US,32.009998,-81.145699,41
+KSWF,Stewart International Airport,KSWF,SWF,Newburgh,US,41.504101,-74.104797,491
+KSWI,Sherman Municipal Airport,KSWI,,Sherman,US,33.624199,-96.586098,745
+KSWO,Stillwater Regional Airport,KSWO,,Stillwater,US,36.161201,-97.085701,1000
+KSWT,Seward Municipal Airport,KSWT,,Seward,US,40.864700,-97.109200,1506
+KSWW,Avenger Field,KSWW,,Sweetwater,US,32.467400,-100.467003,2380
+KSXL,Summersville Airport,KSXL,,Summersville,US,38.231602,-80.870796,1820
+KSYF,Cheyenne County Municipal Airport,KSYF,,St Francis,US,39.761101,-101.795998,3413
+KSYI,Bomar Field Shelbyville Municipal Airport,KSYI,,Shelbyville,US,35.560101,-86.442497,801
+KSYR,Syracuse Hancock International Airport,KSYR,SYR,Syracuse,US,43.111198,-76.106300,421
+KSYV,Sylvester Airport,KSYV,,Sylvester,US,31.558500,-83.895699,403
+KSZL,Whiteman Air Force Base,KSZL,,Knob Noster,US,38.730301,-93.547897,870
+KSZT,Sandpoint Airport,KSZT,,Sandpoint,US,48.299500,-116.559998,2131
+KSZY,Robert Sibley Airport,KSZY,,Selmer,US,35.202900,-88.498398,610

@@ -1,0 +1,72 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K50D,Iron County Airport,K50D,,Crystal Falls,US,46.009102,-88.273903,1340
+K50F,Bourland Field,K50F,,Fort Worth,US,32.581799,-97.590797,873
+K50I,Kentland Municipal Airport,K50I,,Kentland,US,40.758701,-87.428200,698
+K50R,Lockhart Municipal Airport,K50R,,Lockhart,US,29.850300,-97.672401,532
+K51A,Hawkinsville Pulaski County Airport,K51A,,Hawkinsville,US,32.283501,-83.438499,270
+K51D,Edgeley Municipal Airport,K51D,,Edgeley,US,46.348598,-98.735603,1601
+K51J,Lake City Municipal CJ Evans Field,K51J,,Lake City,US,33.853600,-79.768097,80
+K51R,Madisonville Municipal Airport,K51R,,Madisonville,US,30.912800,-95.952003,287
+K52A,Madison Municipal Airport,K52A,,Madison,US,33.612099,-83.460403,694
+K52F,Northwest Regional Airport,K52F,,Roanoke,US,33.049801,-97.232201,643
+K52J,Lee County Butters Field,K52J,,Bishopville,US,34.244499,-80.236000,211
+K53A,Dr. C P Savage Sr. Airport,K53A,,Montezuma,US,32.301998,-84.007500,337
+K54F,Robert Lee Airport,K54F,,Robert Lee,US,31.881800,-100.540001,1922
+K54J,Defuniak Springs Airport,K54J,,Defuniak Springs,US,30.731300,-86.151604,289
+K54T,RWJ Airpark,K54T,,Baytown,US,29.761700,-94.846497,30
+K55J,Fernandina Beach Municipal Airport,K55J,FHB,Fernandina Beach,US,30.611799,-81.461197,16
+K55K,Oxford Municipal Airport,K55K,,Oxford,US,37.269699,-97.091400,1189
+K55M,Star City Municipal Airport,K55M,,Star City,US,33.926102,-91.877403,398
+K55Y,Rushford Municipal Airport,K55Y,,Rushford,US,43.815800,-91.830101,1211
+K56D,Wyandot County Airport,K56D,,Upper Sandusky,US,40.883400,-83.314499,830
+K56F,Fisher County Airport,K56F,,Rotan/Roby,US,32.825699,-100.415001,1941
+K57C,East Troy Municipal Airport,K57C,,East Troy,US,42.797199,-88.372597,860
+K57S,Troy Airport,K57S,,Troy,US,48.480202,-115.903999,2017
+K58M,Cecil County Airport,K58M,,Elkton,US,39.574200,-75.869797,106
+K5A1,Norwalk Huron County Airport,K5A1,,Norwalk,US,41.244801,-82.551201,852
+K5A4,Okolona Municipal-Richard Stovall Field,K5A4,,Okolona,US,34.015800,-88.726196,335
+K5A6,Winona Montgomery County Airport,K5A6,,Winona,US,33.465401,-89.729202,364
+K5A9,Roosevelt Memorial Airport,K5A9,,Warm Springs,US,32.933498,-84.688797,880
+K5B2,Saratoga County Airport,K5B2,,Saratoga Springs,US,43.051300,-73.861198,434
+K5B5,Napoleon Municipal Airport,K5B5,,Napoleon,US,46.494400,-99.760101,1983
+K5C1,Boerne Stage Field,K5C1,,San Antonio,US,29.723900,-98.694603,1385
+K5C3,Nary National Shefland Field,K5C3,,Nary,US,47.376099,-94.797997,1389
+K5C8,Washburn Municipal Airport,K5C8,,Washburn,US,47.353100,-101.027000,1905
+K5F0,Arcadia Bienville Parish Airport,K5F0,,Arcadia,US,32.530701,-92.954002,440
+K5F1,Post Garza County Municipal Airport,K5F1,,Post,US,33.203701,-101.339996,2545
+K5F4,Homer Municipal Airport,K5F4,,Homer,US,32.788502,-93.003700,244
+K5G6,Cherry Springs Airport,K5G6,,Galeton,US,41.664700,-77.818298,2330
+K5G7,Bluffton Airport,K5G7,,Bluffton,US,40.885399,-83.868599,851
+K5H4,Harvey Municipal Airport,K5H4,,Harvey,US,47.791199,-99.931702,1607
+K5I4,Sheridan Airport,K5I4,,Sheridan,US,40.177898,-86.217300,936
+K5J9,Twin City Airport,K5J9,,Loris,US,34.088402,-78.864899,99
+K5K1,Zelmer Memorial Airpark Inc Airport,K5K1,,Palmyra,US,39.419998,-89.991203,663
+K5L0,Lakota Municipal Airport,K5L0,,Lakota,US,48.029400,-98.325302,1512
+K5M0,Hartselle-Morgan County Regional Airport,K5M0,,Hartselle,US,34.408234,-86.932951,628
+K5M3,Moultonboro Airport,K5M3,,Moultonboro,US,43.768398,-71.386703,571
+K5M4,Fordyce Municipal Airport,K5M4,,Fordyce,US,33.845798,-92.365501,193
+K5M5,Crystal Lake Airport,K5M5,,Decatur,US,36.343601,-94.444801,1180
+K5M8,Gurdon Lowe Field,K5M8,,Gurdon,US,33.923901,-93.168701,229
+K5M9,Marion Crittenden County Airport,K5M9,,Marion,US,37.334301,-88.115097,650
+K5N2,Prentice Airport,K5N2,,Prentice,US,45.542999,-90.279297,1578
+K5N8,Casselton Robert Miller Regional Airport,K5N8,,Casselton,US,46.854000,-97.208702,933
+K5P2,Mc Laughlin Municipal Airport,K5P2,,Mc Laughlin,US,45.796799,-100.783997,2006
+K5R1,Roy Wilcox Airport,K5R1,,Chatom,US,31.451799,-88.194504,165
+K5R2,Ocean Springs Airport,K5R2,,Ocean Springs,US,30.389400,-88.753403,20
+K5R4,Foley Municipal Airport,K5R4,,Foley,US,30.427700,-87.700798,74
+K5R8,De Quincy Industrial Airpark,K5R8,,De Quincy,US,30.441200,-93.473503,81
+K5S0,Oakridge State Airport,K5S0,,Oakridge,US,43.752602,-122.502998,1393
+K5S2,Crescent Lake State Airport,K5S2,,Crescent Lake,US,43.532600,-121.949997,4810
+K5S6,Cape Blanco State Airport,K5S6,,Denmark,US,42.857899,-124.517998,214
+K5S9,Valley View Airport,K5S9,,Estacada,US,45.308201,-122.319000,735
+K5T6,Dona Ana County At Santa Teresa Airport,K5T6,,Santa Teresa,US,31.881001,-106.705002,4112
+K5T9,Maverick County Memorial International Airport,K5T9,,Eagle Pass,US,28.857201,-100.512001,887
+K5U1,Dutton Airport,K5U1,,Dutton,US,47.847198,-111.697998,3699
+K5U5,Fairfield Airport,K5U5,,Fairfield,US,47.629101,-111.980003,3989
+K5U7,Fort Smith Landing Strip,K5U7,,Fort Smith,US,45.320801,-107.931000,3242
+K5V5,Shiprock Airstrip,K5V5,,Shiprock,US,36.697800,-108.700996,5270
+K5W1,Wilson Creek Airport,K5W1,,Wilson Creek,US,47.424900,-119.114998,1440
+K5W4,P K Airpark,K5W4,,Raeford,US,35.019901,-79.191002,304
+K5W5,Triple W Airport,K5W5,,Raleigh,US,35.620300,-78.700302,244
+K5W8,Siler City Municipal Airport,K5W8,,Siler City,US,35.704300,-79.504204,614
+K5Y1,Albert J Lindberg Airport,K5Y1,,Hessel,US,46.035900,-84.419800,760

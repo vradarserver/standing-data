@@ -1,0 +1,19 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EECL,Tallinn Linnahall Heliport,EECL,,Tallinn,EE,59.448620,24.753227,23
+EEEI,Ämari Air Base,EEEI,,Keila,EE,59.260300,24.208500,65
+EEHA,Humala Aerodrome,EEHA,,Humala,EE,59.357900,24.379500,88
+EEJI,Jõhvi Airfield,EEJI,,Jõhvi,EE,59.333000,27.382999,246
+EEKA,Kärdla Airport,EEKA,KDL,Kärdla,EE,58.990799,22.830700,18
+EEKE,Kuressaare Airport,EEKE,URE,Kuressaare,EE,58.229900,22.509501,14
+EEKU,Kihnu Airfield,EEKU,,Saareküla,EE,58.148300,24.002501,10
+EENA,Narva Estonia Airport,EENA,,Narva,EE,59.388599,28.113600,92
+EENI,Nurmsi Airport,EENI,,Nurmsi,EE,58.865002,25.730000,233
+EEPU,Pärnu Airport,EEPU,EPU,Pärnu,EE,58.418999,24.472799,47
+EERA,Rapla Airfield,EERA,,Rapla,EE,58.986401,24.724400,220
+EERI,Ridali Airfield,EERI,,Suurküla,EE,57.939999,26.979000,302
+EERU,Ruhnu Airfield,EERU,,Ringsu,EE,57.783901,23.266100,10
+EETA,Tapa Airfield,EETA,,Tapa,EE,59.240799,25.962200,331
+EETN,Tallinn Airport,EETN,TLL,Tallinn,EE,59.413300,24.832800,131
+EETR,Raadi Airfield,EETR,,Tartu,EE,58.404701,26.776100,217
+EETU,Tartu Airport,EETU,TAY,Tartu,EE,58.307499,26.690399,219
+EEVI,Viljandi Airfield,EEVI,,Viljandi,EE,58.349998,25.493099,249

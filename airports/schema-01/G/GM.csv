@@ -1,0 +1,33 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GMAD,Al Massira Airport,GMAD,AGA,Agadir,MA,30.325001,-9.413070,250
+GMAT,Tan Tan Airport,GMAT,TTA,Tan Tan,MA,28.448200,-11.161300,653
+GMAZ,Zagora Airport,GMAZ,OZG,Zagora,MA,30.320299,-5.866670,2631
+GMFA,Ouezzane Airport,GMFA,,Beni Malek,MA,34.783298,-5.633330,571
+GMFB,Bouarfa Airport,GMFB,UAR,Bouarfa,MA,32.514306,-1.983056,3630
+GMFF,Saïss Airport,GMFF,FEZ,Fes,MA,33.927299,-4.977960,1900
+GMFK,Moulay Ali Cherif Airport,GMFK,ERH,Errachidia,MA,31.947500,-4.398330,3428
+GMFM,Bassatine Airport,GMFM,MEK,Meknes,MA,33.879101,-5.515120,1890
+GMFN,Taouima Nador Airport,GMFN,,Nador,MA,35.150002,-2.917000,10
+GMFO,Angads Airport,GMFO,OUD,Oujda,MA,34.787201,-1.923990,1535
+GMFU,Fes Sefrou Airport,GMFU,,Fes,MA,34.008099,-4.965560,1539
+GMFZ,Taza Airport,GMFZ,,Taza,MA,34.233299,-3.950000,1890
+GMMA,Smara Airport,GMMA,SMW,Smara,EH,26.731800,-11.684700,350
+GMMB,Ben Slimane Airport,GMMB,GMD,Ben Slimane,MA,33.655399,-7.221450,627
+GMMC,Anfa Airport,GMMC,CAS,Casablanca,MA,33.553299,-7.661390,200
+GMME,Rabat-Salé Airport,GMME,RBA,Rabat,MA,34.051498,-6.751520,276
+GMMF,Sidi Ifni Xx Airport,GMMF,SII,Sidi Ifni,MA,29.366699,-10.187800,190
+GMMH,Dakhla Airport,GMMH,VIL,Dakhla,EH,23.718300,-15.932000,36
+GMMI,Mogador Airport,GMMI,ESU,Essaouira,MA,31.397499,-9.681670,384
+GMMJ,El Jadida Airport,GMMJ,,El Jadida,MA,33.233299,-8.516670,92
+GMML,Hassan I Airport,GMML,EUN,El Aaiún,EH,27.151699,-13.219200,207
+GMMN,Mohammed V International Airport,GMMN,CMN,Casablanca,MA,33.367500,-7.589970,656
+GMMO,Taroudant Airport,GMMO,,Taroudant,MA,30.501699,-8.827500,869
+GMMS,Safi Airport,GMMS,SFI,Safi,MA,32.283298,-9.233330,171
+GMMT,Tit Mellil Airport,GMMT,,Casablanca,MA,33.597500,-7.465000,322
+GMMW,Nador International Airport,GMMW,NDR,Nador,MA,34.988800,-3.028210,574
+GMMX,Menara Airport,GMMX,RAK,Marrakech,MA,31.606899,-8.036300,1545
+GMMZ,Ouarzazate Airport,GMMZ,OZZ,Ouarzazate,MA,30.939100,-6.909430,3782
+GMSL,Sidi Slimane Airport,GMSL,,Sidi Slimane,MA,34.230598,-6.050140,179
+GMTA,Cherif Al Idrissi Airport,GMTA,AHU,Al Hoceima,MA,35.177101,-3.839520,95
+GMTN,Saniat Rmel,GMTN,TTU,Tetouan,MA,35.594333,-5.320019,10
+GMTT,Ibn Batouta Airport,GMTT,TNG,Tangier,MA,35.726898,-5.916890,62

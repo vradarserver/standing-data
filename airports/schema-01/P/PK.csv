@@ -1,0 +1,5 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PKMA,Eniwetok Airport,PKMA,ENT,Eniwetok Atoll,MH,11.340700,162.328003,13
+PKMJ,Marshall Islands International Airport,PKMJ,MAJ,Majuro Atoll,MH,7.064760,171.272003,6
+PKRO,Dyess Army Air Field,PKRO,,Roi-Namur,MH,9.396890,167.470993,9
+PKWA,Bucholz Army Air Field,PKWA,KWA,Kwajalein,MH,8.720120,167.731995,9

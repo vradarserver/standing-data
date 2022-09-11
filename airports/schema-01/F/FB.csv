@@ -1,0 +1,26 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FBCO,Camp Okavango Airport,FBCO,,Camp Okavango,BW,-19.117001,23.100000,3150
+FBFT,Francistown Airport,FBFT,FRW,Francistown,BW,-21.159599,27.474501,3283
+FBGM,Gumare Airport,FBGM,,Gumare,BW,-19.366631,22.166666,3100
+FBGZ,Ghanzi Airport,FBGZ,GNZ,Ghanzi,BW,-21.692499,21.658100,3730
+FBKE,Kasane Airport,FBKE,BBK,Kasane,BW,-17.832899,25.162399,3289
+FBKR,Khwai River Lodge Airport,FBKR,KHW,Khwai River Lodge,BW,-19.150000,23.783001,3000
+FBKY,Kanye Airport,FBKY,,Kanye,BW,-25.049999,25.316700,4199
+FBLV,Limpopo Valley Airport,FBLV,TLD,Tuli Lodge,BW,-22.189199,29.126900,1772
+FBMG,Machaneng Airport,FBMG,,Machaneng,BW,-23.183001,27.466999,2900
+FBML,Molepolole Airport,FBML,,Molepolole,BW,-24.389444,25.498611,3790
+FBMM,Makalamabedi Airport,FBMM,,Makalamabedi,BW,-20.333000,23.882999,3100
+FBMN,Maun Airport,FBMN,MUB,Maun,BW,-19.972601,23.431101,3093
+FBNN,Nokaneng Airport,FBNN,,Nokaneng,BW,-19.338600,22.153799,3200
+FBNT,Nata Airport,FBNT,,Nata,BW,-20.216101,26.158899,2690
+FBNW,Gaborone Notwane Airport,FBNW,,Gaborone Notwane,BW,-24.683001,25.933001,3218
+FBOK,Okwa Airport,FBOK,,Okwa,BW,-23.083000,21.882999,3500
+FBPY,Palapye Airport,FBPY,QPH,Palapye,BW,-22.566999,27.150000,3000
+FBRK,Rakops Airport,FBRK,,Rakops,BW,-21.000000,24.333000,3000
+FBSK,Sir Seretse Khama International Airport,FBSK,GBE,Gaborone,BW,-24.555201,25.918200,3299
+FBSR,Serowe Airport,FBSR,,Serowe,BW,-22.423300,26.756701,3800
+FBSV,Savuti Airport,FBSV,,Savuti,BW,-18.520599,24.076700,3150
+FBSW,Shakawe Airport,FBSW,SWX,Shakawe,BW,-18.373899,21.832600,3379
+FBTE,Tshane Airport,FBTE,,Tshane,BW,-24.017000,21.882999,3700
+FBTS,Tshabong Airport,FBTS,TBY,Tshabong,BW,-26.033300,22.400000,3179
+FBXB,Xaxaba Airport,FBXB,,Xaxaba,BW,-19.550501,23.054800,3100

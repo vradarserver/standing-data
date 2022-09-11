@@ -1,0 +1,115 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EBAK,Kiel heliport,EBAK,,Antwerpen,BE,51.200153,4.359219,10
+EBAM,Amougies Airport,EBAM,,Mont-de-l'Enclus,BE,50.740101,3.484900,49
+EBAR,Sterpenich Airport,EBAR,QON,Arlon,BE,49.662800,5.886940,1138
+EBAS,'s Gravenwezel heliport,EBAS,,Schilde,BE,51.246944,4.542778,20
+EBAT,Meldert heliport,EBAT,,Aalst,BE,50.927502,4.114722,131
+EBAV,Avernas-le-Bauduin Airport,EBAV,,Hannut,BE,50.706699,5.068060,394
+EBAW,Antwerp International Airport (Deurne),EBAW,ANR,Antwerp,BE,51.189400,4.460280,39
+EBBA,Baudoir Heliport,EBBA,,Baudoir,BE,50.469633,3.838724,98
+EBBC,Luyckx heliport,EBBC,,Brecht,BE,51.304722,4.629444,99
+EBBE,Beauvechain Air Base,EBBE,,Beauvechain,BE,50.758598,4.768330,370
+EBBG,Michamps Airport,EBBG,,Bastogne,BE,50.052799,5.798610,1770
+EBBH,Keysers heliport,EBBH,,Brecht,BE,51.343056,4.621944,82
+EBBL,Kleine Brogel Air Base,EBBL,,Kleine Brogel,BE,51.168301,5.470000,200
+EBBN,Büllingen Airport,EBBN,,Büllingen,BE,50.415001,6.276390,2067
+EBBO,Mogimont Airport,EBBO,,Bouillon,BE,49.866402,5.068060,1394
+EBBR,Brussels Airport,EBBR,BRU,Brussels,BE,50.901402,4.484440,184
+EBBT,Brasschaat Air Base,EBBT,,Brasschaat,BE,51.340801,4.504400,76
+EBBW,Wonck Airport,EBBW,,Bassenge,BE,50.778301,5.616670,367
+EBBX,Jehonville Air Base,EBBX,,Bertrix,BE,49.891701,5.223890,1514
+EBBY,Baisy-Thy Airport,EBBY,,Genappe,BE,50.568611,4.434722,525
+EBBZ,Buzet Airstrip,EBBZ,,Pont-A-Celles,BE,50.541698,4.381110,522
+EBCF,Cerfontaine Nouv Airport,EBCF,,Cerfontaine,BE,50.152802,4.387220,961
+EBCH,SHAPE Helipad,EBCH,,Mons,BE,50.503056,3.982500,287
+EBCI,Brussels South Charleroi Airport,EBCI,CRL,Brussels,BE,50.459202,4.453820,614
+EBCR,Ronvaux Airport,EBCR,,Ciney,BE,50.247223,5.113889,1076
+EBCS,Saint-Remy Airport,EBCS,,Chimay,BE,50.058300,4.281940,820
+EBCV,Chièvres Air Base,EBCV,,Chièvres,BE,50.575802,3.831000,194
+EBDI,Diksmuide heliport,EBDI,,Diksmuide,BE,51.018055,2.856944,13
+EBDL,Lanklaar heliport,EBDL,,Dilsen-Stokkem,BE,51.017651,5.699703,131
+EBDT,Schaffen Airport,EBDT,,Diest,BE,50.999199,5.065560,100
+EBDW,Webbekom heliport,EBDW,,Diest,BE,50.963612,5.064722,130
+EBEN,Engels heliport,EBEN,,Ranst,BE,51.211666,4.580833,33
+EBEU,UZA heliport,EBEU,,Edegem,BE,51.155880,4.409976,46
+EBFD,Dompire heliport,EBFD,,Fernelmont,BE,50.550835,4.996389,607
+EBFN,Koksijde Air Base,EBFN,,Koksijde,BE,51.090302,2.652780,20
+EBFR,Francorchamps heliport,EBFR,,Francorchamps,BE,50.456179,5.953324,1575
+EBFS,Florennes Air Base,EBFS,,Florennes,BE,50.243301,4.645830,935
+EBGB,Grimbergen Airfield,EBGB,,Grimbergen,BE,50.948546,4.391810,70
+EBGG,Overboelare Airport,EBGG,,Geraardsbergen,BE,50.755600,3.863890,56
+EBGL,CRC Glons Heliport,EBGL,,Bassenge,BE,50.739730,5.542100,438
+EBGT,UZ Gent heliport,EBGT,,Gent,BE,51.020557,3.730278,26
+EBHA,Ham heliport,EBHA,,Ham,BE,51.079353,5.109154,98
+EBHE,Couthuin Airport,EBHE,,Héron,BE,50.538898,5.109170,607
+EBHL,Halen heliport,EBHL,,Halen,BE,50.930832,5.081389,121
+EBHM,Maasland heliport,EBHM,,Hasselt,BE,50.909721,5.348889,164
+EBHN,Hoevenen Airfield,EBHN,,Hoevenen,BE,51.306099,4.387220,10
+EBHO,Holsbeek heliport,EBHO,,Holsbeek,BE,50.912777,4.735000,82
+EBHT,Houthalen heliport,EBHT,,Houthalen,BE,51.014999,5.362500,164
+EBIS,Ath/Isieres Airport,EBIS,,Isieres,BE,50.664200,3.804440,98
+EBKH,Balen-Keiheuvel Airport,EBKH,,Balen,BE,51.180957,5.221124,131
+EBKT,Wevelgem Airport,EBKT,KJK,Wevelgem,BE,50.817200,3.204720,64
+EBKU,Kuurne Heliport,EBKU,,Kuurne,BE,50.859402,3.256670,47
+EBKW,Westkapelle heliport,EBKW,,Knokke-Heist,BE,51.322224,3.293056,10
+EBLB,Elsenborn Airport,EBLB,,Bütgenbach,BE,50.481701,6.181940,1830
+EBLC,Citadelle heliport,EBLC,,Liège,BE,50.653427,5.577611,531
+EBLE,Beverlo Air Base,EBLE,,Leopoldsburg,BE,51.119400,5.300830,207
+EBLG,Liège Airport,EBLG,LGG,Liège,BE,50.637402,5.443220,659
+EBLI,Lierneux Airport,EBLI,,Lierneux,BE,50.286701,5.836390,1411
+EBLN,Liernu Airport,EBLN,,Eghezée,BE,50.580601,4.792500,564
+EBLO,Orban heliport,EBLO,,Liège,BE,50.630913,5.571726,160
+EBLR,Reninge heliport,EBLR,,Lo-Reninge,BE,50.933887,2.755000,25
+EBLS,Sart Tilman heliport,EBLS,,Liège,BE,50.571388,5.565278,771
+EBLU,Lummen heliport,EBLU,,Lummen,BE,50.991943,5.238889,141
+EBLZ,Zaffelare heliport,EBLZ,,Lochristi,BE,51.131111,3.865556,26
+EBMA,Westmalle heliport,EBMA,,Malle,BE,51.287224,4.714167,88
+EBMB,Melsbroek Air Base,EBMB,,15th Air Transport Wing,BE,50.913000,4.490000,98
+EBMD,AZ Middelheim heliport,EBMD,,Antwerpen,BE,51.174168,4.421944,46
+EBME,Meerbeek heliport,EBME,,Meerbeek,BE,50.873756,4.596889,214
+EBMG,Matagne-la-Petite Airport,EBMG,,Doische,BE,50.104698,4.638060,787
+EBML,Maillen Airport,EBML,,Assesse,BE,50.374199,4.927780,886
+EBMO,Moorsele Airport,EBMO,,Moorsele,BE,50.852798,3.147310,66
+EBMS,Bra heliport,EBMS,,Lierneu,BE,50.321625,5.731154,1230
+EBMT,Montigny-Le-Tilleul heliport,EBMT,,Montigny-Le-Tilleul,BE,50.358604,4.368843,656
+EBNE,Neerpelt Airport,EBNE,,Neerpelt,BE,51.211945,5.478611,148
+EBNH,Oostende heliport,EBNH,,Oostende,BE,51.194443,2.854722,13
+EBNM,Suarlée Airport,EBNM,QNM,Namur,BE,50.487999,4.768920,594
+EBNO,Outer Airport,EBNO,,Ninove,BE,50.854401,3.985280,151
+EBOO,Oostdijckbank platform heliport,EBOO,,Oostdijckbank,BE,51.274445,2.447500,69
+EBOR,Orchimont Airport,EBOR,,Vresse-Sur-Semois,BE,49.907200,4.936390,1312
+EBOS,Ostend-Bruges International Airport,EBOS,OST,Ostend,BE,51.198898,2.862220,13
+EBPW,Warcoing heliport,EBPW,,Pecq,BE,50.726112,3.332500,120
+EBRB,Beveren heliport,EBRB,,Roeselare,BE,50.981667,3.125833,84
+EBRO,Van Den Bosch heliport,EBRO,,Ranst,BE,51.209721,4.587500,33
+EBRR,Rumbeke heliport,EBRR,,Roeselare,BE,50.909721,5.348889,79
+EBSG,Saint-Ghislain Airport,EBSG,,Saint Ghislain,BE,50.457500,3.820280,75
+EBSH,St Hubert Airport,EBSH,,Saint Hubert,BE,50.035900,5.404250,1930
+EBSJ,Az Sint-Jan Heliport,EBSJ,,Bruges,BE,51.220506,3.196093,20
+EBSL,Zutendaal Air Base,EBSL,,Zutendaal,BE,50.947498,5.590560,312
+EBSN,'S Gravenvoeren heliport,EBSN,,'S Gravenvoeren,BE,50.764771,5.786845,394
+EBSP,Spa (la Sauvenière) Airport,EBSP,,Spa,BE,50.482498,5.910300,1581
+EBSS,Sint-Lucas heliport,EBSS,,Brugge,BE,51.185001,3.251111,16
+EBST,Limburg Regional Airport,EBST,,Sint Truiden,BE,50.791901,5.201670,246
+EBSU,Saint Hubert Air Base,EBSU,,Saint Hubert,BE,50.034401,5.440810,1930
+EBSW,Sint-Pieters-Leeuw heliport,EBSW,,Sint-Pieters-Leeuw,BE,50.764030,4.219227,197
+EBTE,Temse heliport,EBTE,,Temse,BE,51.141666,4.197222,30
+EBTK,Kasterlee heliport,EBTK,,Tielen,BE,51.288334,4.903056,80
+EBTN,Goetsenhoven Air Base,EBTN,,Tienen,BE,50.781700,4.957780,246
+EBTR,Trazegnies heliport,EBTR,,Trazegnies,BE,50.476665,4.355556,574
+EBTX,Theux (Verviers) Airport,EBTX,,Verviers,BE,50.552601,5.855030,1099
+EBTY,Tournai/Maubray Airport,EBTY,ZGQ,Tournai,BE,50.529701,3.494550,161
+EBUB,ULB heliport,EBUB,,Brussels,BE,50.813057,4.261389,108
+EBUC,UCL heliport,EBUC,,Brussels,BE,50.853184,4.453609,230
+EBUL,Ursel Air Base,EBUL,,Ursel,BE,51.144199,3.475560,95
+EBVE,Veurne heliport,EBVE,,Veurne,BE,51.022221,2.680000,82
+EBVS,Sint-Augustinus heliport,EBVS,,Veurne,BE,51.062778,2.670833,13
+EBVU,Rotselaar heliport,EBVU,,Rotselaar,BE,50.939167,4.730556,30
+EBWE,Weelde Air Base,EBWE,,Weelde,BE,51.394798,4.960190,105
+EBZH,Hasselt Airport,EBZH,QHA,Hasselt,BE,50.970001,5.375070,141
+EBZI,Zingem heliport,EBZI,,Zingem,BE,50.926388,3.617222,30
+EBZM,Oombergen Airport,EBZM,,Zottegem,BE,50.909401,3.826670,240
+EBZO,Zandvoorde heliport,EBZO,,Zonnebeke,BE,50.817280,2.974564,102
+EBZR,Oostmalle Air Base,EBZR,OBL,Zoersel,BE,51.264702,4.753330,53
+EBZU,Zuienkerke Airport,EBZU,,Zuinkerke,BE,51.256699,3.140560,16
+EBZW,Genk Zwartberg Airport,EBZW,,Genk,BE,51.015400,5.526470,278

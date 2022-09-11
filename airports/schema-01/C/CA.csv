@@ -1,0 +1,160 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CA00,Platform Hermosa Heliport,CA00,,Lompoc,US,34.455299,-120.647003,152
+CA01,Burney Sheriff's Station Heliport,CA01,,Burney,US,40.883598,-121.668999,3127
+CA02,Patterson Airport,CA02,,Patterson,US,37.468498,-121.168999,168
+CA03,John Myers Airport,CA03,,Planada,US,37.349899,-120.293999,280
+CA04,Flying N Ranch Airport,CA04,,Cottonwood,US,40.346298,-122.338997,530
+CA05,Machado Dusters Airport,CA05,,Stratford,US,36.160198,-119.813004,192
+CA06,Bates Field,CA06,,Alturas,US,41.417801,-120.569000,4400
+CA07,Scheidel Ranch Airport,CA07,,Pleasant Grove,US,38.840199,-121.561996,28
+CA08,Sce Energy Control Center Heliport,CA08,,Alhambra,US,34.083900,-118.144997,475
+CA09,Round Mountain Airport,CA09,,Klamath River,US,41.886200,-122.844002,3500
+CA10,Coonrod Ranch Airport,CA10,,Little Shasta,US,41.617100,-122.319000,3010
+CA11,Mc Cloud Airstrip,CA11,,Mc Cloud,US,41.273201,-122.122002,3540
+CA12,Ipp Adelanto Heliport,CA12,,Adelanto,US,34.548460,-117.436321,2980
+CA13,Kings River Community College Airport,CA13,,Reedley,US,36.606899,-119.462997,350
+CA14,U of C - Richmond Field Station Heliport,CA14,,Richmond,US,37.913799,-122.332001,17
+CA15,Sierra Nevada Memorial Hospital Heliport,CA15,,Grass Valley,US,39.225300,-121.047997,2450
+CA16,Holtsmans Airport,CA16,,Rio Linda,US,38.729099,-121.389000,120
+CA17,Peterson Airport,CA17,,Riverbank,US,37.723499,-120.889999,158
+CA18,Wagner Aviation Airport,CA18,,Robbins,US,38.872101,-121.709999,24
+CA19,Camanche Skypark Airport,CA19,,Ione,US,38.263802,-120.922997,520
+CA20,Eagle's Nest Airport,CA20,,Ione,US,38.430500,-121.014999,220
+CA21,Limberlost Ranch Airport,CA21,,Rough and Ready,US,39.220699,-121.214996,1650
+CA22,Lauppes Strip,CA22,,Sacramento,US,38.759300,-121.584999,23
+CA23,Maguire-California Hospital Helipad,CA23,,Van Nuys,US,34.035011,-118.266205,376
+CA24,Scripps Memorial Hospital La Jolla Heliport,CA24,,La Jolla,US,32.886398,-117.224998,340
+CA25,Mark Twain St Joseph's Hospital Heliport,CA25,,San Andreas,US,38.192699,-120.674004,1033
+CA26,Hall of Justice Heliport,CA26,,San Francisco,US,37.774899,-122.404999,118
+CA27,Alcatraz Heliport,CA27,,San Francisco,US,37.825199,-122.420998,135
+CA28,University Medical Center Heliport,CA28,,Moreno Valley,US,33.912800,-117.195999,1563
+CA29,Fontana Police Heliport,CA29,,Fontana,US,34.101700,-117.432999,1314
+CA30,Commodore Heliport,CA30,,San Francisco,US,37.810799,-122.415001,10
+CA31,Sanger Heliport,CA31,,Sanger,US,36.732201,-119.555000,374
+CA32,San Joaquin Airport,CA32,,San Joaquin,US,36.583302,-120.250999,165
+CA33,County Medical Center Heliport,CA33,,San Jose,US,37.314201,-121.933998,148
+CA34,Flea Port Heliport,CA34,,San Jose,US,37.373600,-121.879997,76
+CA35,San Rafael Airport,CA35,,San Rafael,US,38.016899,-122.521004,5
+CA36,American Display Heliport,CA36,,Rancho Santa Margarita,US,33.554501,-117.608002,918
+CA37,Dominican Santa Cruz Hospital Heliport,CA37,,Santa Cruz,US,36.990501,-121.983002,115
+CA38,Totem Pole Ranch Airport,CA38,,Calpine,US,39.651299,-120.439003,4986
+CA39,Graywood Ranch Airport,CA39,,Santa Rosa,US,38.434601,-122.564003,450
+CA40,Central Valley Aviation Inc Airport,CA40,,Selma,US,36.521301,-119.669998,276
+CA41,Quinn Airport,CA41,,Selma,US,36.583302,-119.639999,310
+CA42,Mc Conville Airstrip,CA42,,Lake Elsinore,US,33.643600,-117.429001,2600
+CA43,Barton Memorial Hospital Heliport,CA43,,South Lake Tahoe,US,38.911301,-119.997002,6298
+CA44,Sequoia Ranch Airport,CA44,,Springville,US,36.149899,-118.802002,1153
+CA45,Stevinson Strip,CA45,,Stevinson,US,37.324902,-120.867996,79
+CA46,Cedars-Sinai Medical Center Heliport,CA46,,Los Angeles,US,34.076401,-118.382004,334
+CA47,San Diego Police Headquarters Heliport,CA47,,San Diego,US,32.715302,-117.151001,162
+CA48,Jones Heliport,CA48,,Stockton,US,37.979599,-121.228996,35
+CA49,Jones Farms Airport,CA49,,Stratford,US,36.204102,-119.841003,199
+CA50,Hughes/Malibu Heliport,CA50,,Malibu,US,34.044498,-118.694000,455
+CA51,The Sea Ranch Airport,CA51,,The Sea Ranch,US,38.704601,-123.432999,360
+CA52,Ports O'Call Heliport,CA52,,San Pedro,US,33.732101,-118.276001,2
+CA53,Tews Field,CA53,,Redding,US,40.672501,-122.342003,740
+CA54,33 Strip,CA54,,Tracy,US,37.670502,-121.328003,81
+CA55,Mission Hospital Helistop,CA55,,Mission Viejo,US,33.560600,-117.666000,460
+CA56,Correctional Training Facility Heliport,CA56,,Soledad,US,36.467201,-121.370003,180
+CA57,Blake Sky Park Airport,CA57,,Vacaville,US,38.458199,-122.045998,310
+CA58,Emanuel Medical Center Heliport,CA58,,Turlock,US,37.512199,-120.838997,111
+CA59,Vestal Strip,CA59,,Verona,US,38.791599,-121.584000,23
+CA60,Deer Creek Ranch Airport,CA60,,Vina,US,39.949902,-121.997002,280
+CA61,Sce High Desert District Heliport,CA61,,Victorville,US,34.476549,-117.288432,2974
+CA62,Mc Millan Assault Strip,CA62,,Camp Roberts,US,35.719101,-120.767998,920
+CA63,John Muir Walnut Creek Medical Center Heliport,CA63,,Walnut Creek,US,37.912701,-122.040001,211
+CA64,Olive View Medical Center Heliport,CA64,,Sylmar,US,34.326801,-118.445000,1460
+CA65,Alta Vista Heliport,CA65,,Watsonville,US,36.970501,-121.862000,480
+CA66,Monterey Bay Academy Airport,CA66,,Watsonville,US,36.906101,-121.843002,70
+CA67,Westley Airport,CA67,,Westley,US,37.548000,-121.205002,96
+CA68,Saddleback Memorial Medical Center Heliport,CA68,,Laguna Hills,US,33.608299,-117.709000,398
+CA69,Avenal Airport,CA69,,Avenal,US,36.004101,-120.141998,790
+CA70,Sun Hill Ranch Airport,CA70,,Helendale,US,34.757999,-117.497002,2984
+CA71,Horse Shoe A Ranch Airport,CA71,,Drytown,US,38.439999,-120.887001,750
+CA72,Community Memorial Hospital Heliport,CA72,,Ventura,US,34.274700,-119.257004,175
+CA73,Vanderford Ranch Company Airport,CA73,,Yuba City,US,39.095699,-121.716003,42
+CA74,Hemet Valley Hospital Helistop,CA74,,Hemet,US,33.750000,-116.959000,1250
+CA75,Reider Ranch Airport,CA75,,Potrero,US,32.638100,-116.639000,2655
+CA76,Flying T Ranch Airport,CA76,,Ramona,US,33.070301,-116.751999,2500
+CA77,Ridgecrest Community Hospital Heliport,CA77,,Ridgecrest,US,35.641102,-117.670998,2290
+CA78,City Hall Heliport,CA78,,Riverside,US,33.979198,-117.375000,977
+CA79,The Ritz-Carlton Hotel Company Heliport,CA79,,Marina Del Rey,US,33.984501,-118.449997,149
+CA80,San Bernardino County Medical Center Heliport,CA80,,San Bernardino,US,34.127800,-117.267998,1124
+CA81,Riverside Metro Center Heliport,CA81,,Riverside,US,33.982498,-117.375999,950
+CA82,Corona Regional Medical Center Heliport,CA82,,Corona,US,33.873100,-117.568001,695
+CA83,Gilbert Aviation Heliport,CA83,,Visalia,US,36.442699,-119.316002,310
+CA84,Torrey Pines Gliderport,CA84,,San Diego,US,32.889702,-117.247002,372
+CA85,Opus Center Irvine Heliport,CA85,,Irvine,US,33.683601,-117.852997,36
+CA86,Northridge Hospital Heliport,CA86,,Los Angeles,US,34.220050,-118.532613,864
+CA87,Sce Songs Mesa Heliport,CA87,,San Clemente,US,33.379501,-117.559998,100
+CA88,San Ardo Field,CA88,,San Ardo,US,36.026100,-120.907997,441
+CA89,Skylark Field,CA89,,Lake Elsinore,US,33.630001,-117.302002,1253
+CA90,Cadiz Airstrip,CA90,,Cadiz,US,34.513901,-115.518997,780
+CA91,Johnson Heliport,CA91,,Riverside,US,34.008099,-117.334999,904
+CA92,Paradise Skypark Airport,CA92,,Paradise,US,39.710602,-121.616997,1300
+CA93,First Interstate Bank Building Heliport,CA93,,Santa Ana,US,33.753601,-117.867996,245
+CA94,Albalisa Dinner Playhouse Inc Heliport,CA94,,Santa Ana,US,33.766998,-117.917999,33
+CA95,St Joseph Medical Center Heliport,CA95,,Burbank,US,34.155602,-118.329002,568
+CA96,Goleta Valley Community Hospital Heliport,CA96,,Santa Barbara,US,34.433601,-119.809998,45
+CA97,Christy Airstrip,CA97,,Santa Barbara,US,34.019699,-119.852997,250
+CA98,Platform Ocs P-0188 Hondo Heliport,CA98,,Santa Barbara,US,34.390701,-120.122002,142
+CA99,Kilroy Ac8-Long Beach Heliport,CA99,,Long Beach,US,33.807201,-118.146004,121
+CAA2,St. Andre-Avellin,CAA2,,St. Andre Avellin,CA,45.746389,-75.075833,550
+CAA6,Smithers (Canadian) Heliport,CAA6,,Smithers,CA,54.775002,-127.135002,1600
+CAA8,Invermere Airport,CAA8,,Invermere,CA,50.516701,-116.000000,2820
+CAB5,Bronson Creek Airport,CAB5,YBM,Bronson Creek,CA,56.681099,-131.087006,396
+CAB7,Kelowna (Alpine) Heliport,CAB7,,Kelowna,CA,49.865384,-119.568818,1640
+CAC6,Calgary (Alberta Children's Hospital),CAC6,,Calgary,CA,51.075826,-114.147708,3670
+CAD4,Trail Airport,CAD4,YZZ,Trail,CA,49.055599,-117.609001,1427
+CAD5,Merritt Airport,CAD5,,Merritt,CA,50.122799,-120.747002,2080
+CAE2,Cranbrook (East Kootenay Regional Hospital) Heliport,CAE2,,Cranbrook,CA,49.512501,-115.750000,3050
+CAE4,Tsacha Lake Airport,CAE4,,Tsacha Lake,CA,53.016701,-124.833000,3450
+CAE5,Whistler/Green Lake Water Aerodrome,CAE5,YWS,Whistler,CA,50.143600,-122.948997,2100
+CAE7,Harrison Hot Springs Seaplane Base,CAE7,,Harrison Hot Springs,CA,49.304853,-121.785936,34
+CAE9,Bamfield Seaplane Base,CAE9,YBF,Bamfield,CA,48.833302,-125.133003,0
+CAF4,Tsuniah Lake Lodge Airport,CAF4,,Tsuniah Lake Lodge,CA,51.533298,-124.167000,4000
+CAG3,Chilko Lake (Tsylos Park Lodge) Airport,CAG3,,Chilko Lake,CA,51.626099,-124.141998,3850
+CAH2,Ocean Falls Seaplane Base,CAH2,ZOF,Ocean Falls,CA,52.366699,-127.717003,0
+CAH3,Courtenay Airpark,CAH3,,Courtenay,CA,49.679401,-124.982002,9
+CAH4,Valemount Airport,CAH4,,Valemount,CA,52.853298,-119.334000,2615
+CAH5,Leo Creek Airport,CAH5,,Leo Creek,CA,55.116699,-125.615997,2360
+CAJ2,Wiley Airport,CAJ2,,Eagle Plains,CA,66.491096,-136.572998,2365
+CAJ3,Art Sutcliffe Field,CAJ3,,Creston,CA,49.036900,-116.498001,2070
+CAJ4,Anahim Lake Airport,CAJ4,YAA,Anahim Lake,CA,52.452499,-125.303001,3635
+CAJ7,Cayley A J Flying Ranch Airport,CAJ7,,Cayley,CA,50.450001,-113.750000,3450
+CAJ9,Fort Ware Airport,CAJ9,,Fort Ware,CA,57.427200,-125.650002,2450
+CAK3,Delta Heritage Air Park,CAK3,,Delta,CA,49.077400,-122.941002,10
+CAK7,Vancouver (Children & Women's Health Centre) Heliport,CAK7,,Vancouver,CA,49.243842,-123.127096,225
+CAL3,Douglas Lake Airport,CAL3,DGF,Douglas Lake,CA,50.165460,-120.171273,2770
+CAL4,Fort MacKay/Albian Aerodrome,CAL4,JHL,Albian Village,CA,57.223900,-111.418999,1048
+CAL6,Prince Albert (Fire Centre) Heliport,CAL6,,Prince Albert,CA,53.228572,-105.755736,1476
+CAL7,Ganges (Lady Minto / Gulf Islands Hospital) Heliport,CAL7,,Ganges,CA,48.862529,-123.508717,148
+CAL9,Tahsis Seaplane Base,CAL9,ZTS,Tahsis,CA,49.916698,-126.667000,0
+CAM3,Duncan Airport,CAM3,DUQ,Duncan,CA,48.754534,-123.709702,300
+CAM5,Houston Airport,CAM5,,Houston,CA,54.439201,-126.778879,2150
+CAM7,Kamloops (Bc Hydro) Heliport,CAM7,,Kamloops,CA,50.666766,-120.370989,1770
+CAP3,Sechelt-Gibsons Airport,CAP3,,Sechelt-Gibsons,CA,49.460602,-123.719002,250
+CAP6,Ingenika Airport,CAP6,,Ingenika,CA,56.790600,-124.897003,2230
+CAQ4,Springhouse Airpark,CAQ4,,Springhouse,CA,51.955601,-122.139000,3250
+CAQ5,Nakusp Airport,CAQ5,,Nakusp,CA,50.266399,-117.813004,1689
+CAR2,Crawford Bay Airport,CAR2,,Crawford Bay,CA,49.666698,-116.817001,1760
+CAR3,Lillooet Airport,CAR3,,Lillooet,CA,50.674702,-121.893997,1320
+CAS2,Moose Lake (Lodge) Airport,CAS2,,Moose Lake,CA,53.073299,-125.408997,3500
+CAS3,Barkerville Airport,CAS3,,Barkerville,CA,53.088100,-121.514999,4060
+CAT1,Atwood / Coghlin Airport,CAT1,,Atwood,CA,43.683300,-81.004402,1215
+CAT4,Qualicum Beach Airport,CAT4,,Qualicum Beach,CA,49.337200,-124.393997,191
+CAT5,Port Mcneill Airport,CAT5,,Port Mcneill,CA,50.575600,-127.028999,225
+CAT6,Campbell River (Campbell River & District General Hospital) Heliport,CAT6,,Campbell River,CA,50.008784,-125.242605,228
+CAU3,Oliver Airport,CAU3,,Oliver,CA,49.173302,-119.551003,1015
+CAU4,Vanderhoof Airport,CAU4,,Vanderhoof,CA,54.046101,-124.012001,2225
+CAV2,Hope (Fraser Canyon Hospital) Heliport,CAV2,,Hope,CA,49.376912,-121.423409,114
+CAV3,One Hundred Mile House Airport,CAV3,,One Hundred Mile House,CA,51.642502,-121.306999,3055
+CAV4,Mcbride Airport,CAV4,,Mcbride,CA,53.314999,-120.170998,2350
+CAV9,Oak Hammock Air Park,CAV9,,Oak Hammock,CA,50.137798,-97.061401,755
+CAW3,Scum Lake Airport,CAW3,,Scum Lake,CA,51.799999,-123.583000,3950
+CAW4,Whistler (Hospital) Heliport,CAW4,,Whistler,CA,50.120253,-122.954679,2182
+CAW7,Mayne Island Seaplane Base,CAW7,YAV,Miners Bay,CA,48.866699,-123.300003,0
+CAX5,Likely Airport,CAX5,,Likely,CA,52.616699,-121.500000,3225
+CAY2,Gang Ranch Airport,CAY2,,Gang Ranch,CA,51.551701,-122.327003,2150
+CAZ4,Quesnel (G.R. Baker Memorial Hospital) Heliport,CAZ4,,Quesnel,CA,52.982668,-122.500758,1600
+CAZ5,Cache Creek-Ashcroft Regional Airport,CAZ5,,Cache Creek,CA,50.775109,-121.321228,2034

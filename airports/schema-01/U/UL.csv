@@ -1,0 +1,42 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ULAA,Talagi Airport,ULAA,ARH,Archangelsk,RU,64.600304,40.716702,62
+ULAE,Mezen Airport,ULAE,,Mezen,RU,65.878334,44.215000,46
+ULAH,Vaskovo Airport,ULAH,,Arkhangelsk,RU,64.441704,40.421700,82
+ULAK,Severomorsk-1 Naval Air Base,ULAK,,Severomorsk,RU,69.031670,33.418331,239
+ULAL,Leshukonskoye Airport,ULAL,LDG,Leshukonskoye,RU,64.896004,45.723000,220
+ULAM,Naryan Mar Airport,ULAM,NNM,Naryan Mar,RU,67.639999,53.121899,36
+ULAO,Onega Airport,ULAO,,Onega,RU,63.911114,38.125820,59
+ULAR,Kargopol Airport,ULAR,,Kargopol,RU,61.509998,38.924999,420
+ULAS,Solovki Airport,ULAS,CSH,Solovetsky Islands,RU,65.029999,35.733334,60
+ULAT,Pertominsk Airport,ULAT,,Pertominsk,RU,64.790001,38.419998,56
+ULAV,Nizhnyaya Pesha Airport,ULAV,,Nizhnyaya Pesha,RU,66.752998,47.743000,32
+ULBL,Lopshenga Airport,ULBL,,Lopshenga,RU,64.980003,37.693001,49
+ULBM,Purnema Airport,ULBM,,Purnema,RU,64.385400,37.441235,131
+ULBZ,Letnyaya Zolotitsa Airport,ULBZ,,Letnyaya Zolotitsa,RU,64.959999,36.830002,16
+ULDD,Amderma Airport,ULDD,AMV,Amderma,RU,69.763298,61.556400,13
+ULDT,Karatayka Airport,ULDT,,Karatayka,RU,68.750000,61.424999,39
+ULIC,Tsenogora Airport,ULIC,,Tsenogora,RU,64.887001,46.721001,262
+ULJO,Olema Airport,ULJO,,Olema,RU,64.495000,46.146660,164
+ULKK,Kotlas Airport,ULKK,KSZ,Kotlas,RU,61.235802,46.697498,184
+ULKS,Savvatiya Air Base,ULKS,,Kotlas,RU,60.994999,46.869999,318
+ULLI,Pulkovo Airport,ULLI,LED,St. Petersburg,RU,59.800301,30.262501,78
+ULLP,Pushkin Airport,ULLP,,St. Petersburg,RU,59.685001,30.338301,230
+ULLS,Siversky Air Base,ULLS,,Siversky,RU,59.356701,30.036699,341
+ULMA,Umba Airport,ULMA,,Umba,RU,66.696999,34.387001,122
+ULMK,Kirovsk-Apatity Airport,ULMK,KVK,Apatity,RU,67.463303,33.588299,515
+ULMM,Murmansk Airport,ULMM,MMK,Murmansk,RU,68.781700,32.750801,266
+ULMX,Krasnoshchelye Airport,ULMX,,Krasnoshchelye,RU,67.348000,37.077000,492
+ULNN,Novgorod Airport,ULNN,NVR,Velikiy Novgorod,RU,58.493301,31.241699,85
+ULNR,Staraya Russa Airport,ULNR,,Staraya Russa,RU,57.961399,31.384399,52
+ULOL,Velikiye Luki Airport,ULOL,VLU,Velikiye Luki,RU,56.381100,30.608101,328
+ULOO,Pskov Airport,ULOO,PKV,Pskov,RU,57.783901,28.395599,154
+ULPA,Pudozh Airport,ULPA,,Pudozh,RU,61.825001,36.580002,144
+ULPB,Petrozavodsk Airport,ULPB,PES,Petrozavodsk,RU,61.885201,34.154701,151
+ULPK,Kalevala Airport,ULPK,,Kalevala,RU,65.209999,31.135000,377
+ULPS,Segezha Airport,ULPS,,Segezha,RU,63.758999,34.283001,377
+ULSL,Lodeynoye Pole Airport,ULSL,,Lodeynoye Pole,RU,60.716999,33.561001,49
+ULSR,Strelna Heliport,ULSR,,Saint Petersburg,RU,59.860500,30.052000,16
+ULSS,Rzhevka Airport,ULSS,RVH,St. Petersburg,RU,59.980000,30.585600,56
+ULWC,Cherepovets Airport,ULWC,CEE,Cherepovets,RU,59.273602,38.015800,377
+ULWR,Vytegra Airport,ULWR,,Vytegra,RU,61.032001,36.435001,217
+ULWW,Vologda Airport,ULWW,VGD,Vologda,RU,59.282501,39.944401,387

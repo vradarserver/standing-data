@@ -1,0 +1,43 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KW01,Tonasket Municipal Airport,KW01,,Tonasket,US,48.724868,-119.465635,1311
+KW03,Wilson Industrial Air Center Airport,KW03,,Wilson,US,35.770401,-77.969803,161
+KW05,Gettysburg Regional Airport,KW05,,Gettysburg,US,39.840900,-77.274200,590
+KW22,Upshur County Regional Airport,KW22,,Buckhannon,US,39.000500,-80.273697,1635
+KW28,Sequim Valley Airport,KW28,,Sequim,US,48.098099,-123.186996,144
+KW31,Lunenburg County Airport,KW31,,Kenbridge,US,36.960201,-78.184998,526
+KW32,Washington Executive Hyde Field,KW32,,Clinton,US,38.748299,-76.932800,249
+KW35,Potomac Airpark,KW35,,Berkeley Springs,US,39.692600,-78.166100,412
+KW38,Williamsburg Whitley County Airport,KW38,,Williamsburg,US,36.794998,-84.199501,1178
+KW40,Mount Olive Municipal Airport,KW40,,Mount Olive,US,35.222198,-78.037804,168
+KW41,Crisfield Municipal Airport,KW41,,Crisfield,US,38.017601,-75.827797,4
+KW43,Hulett Municipal Airport,KW43,,Hulett,US,44.662899,-104.568001,4264
+KW45,Luray Caverns Airport,KW45,,Luray,US,38.667099,-78.500603,902
+KW63,Lake Country Regional Airport,KW63,,Clarksville,US,36.595798,-78.560097,421
+KW78,William M Tuck Airport,KW78,,South Boston,US,36.709999,-78.848000,420
+KW81,Crewe Municipal Airport,KW81,,Crewe,US,37.181000,-78.098297,420
+KW90,New London Airport,KW90,,Forest,US,37.271801,-79.335899,849
+KW91,Smith Mountain Lake Airport,KW91,,Moneta,US,37.107700,-79.592499,892
+KW94,Camp Peary Landing Strip,KW94,,Williamsburg,US,37.305599,-76.637497,41
+KW95,Ocracoke Island Airport,KW95,,Ocracoke,US,35.101200,-75.966003,5
+KW96,New Kent County Airport,KW96,,Quinton,US,37.503201,-77.125504,123
+KW99,Grant County Airport,KW99,,Petersburg,US,38.994900,-79.145897,963
+KWAL,Wallops Flight Facility Airport,KWAL,WAL,Wallops Island,US,37.940201,-75.466400,40
+KWAY,Greene County Airport,KWAY,WAY,Waynesburg,US,39.900101,-80.133102,1069
+KWBW,Wilkes Barre Wyoming Valley Airport,KWBW,WBW,Wilkes-Barre,US,41.297199,-75.851196,545
+KWDG,Enid Woodring Regional Airport,KWDG,WDG,Enid,US,36.379200,-97.791100,1167
+KWDR,Barrow County Airport,KWDR,WDR,Winder,US,33.982899,-83.667397,943
+KWHP,Whiteman Airport,KWHP,WHP,Los Angeles,US,34.259300,-118.413002,1003
+KWJF,General WM J Fox Airfield,KWJF,WJF,Lancaster,US,34.741100,-118.219002,2351
+KWLD,Strother Field,KWLD,WLD,Winfield/Arkansas City,US,37.168598,-97.037598,1160
+KWLW,Willows Glenn County Airport,KWLW,WLW,Willows,US,39.516399,-122.218002,141
+KWMC,Winnemucca Municipal Airport,KWMC,WMC,Winnemucca,US,40.896599,-117.806000,4308
+KWRB,Robins Air Force Base,KWRB,WRB,Warner Robins,US,32.640099,-83.591904,294
+KWRI,Mc Guire Air Force Base,KWRI,WRI,Wrightstown,US,40.015598,-74.591698,131
+KWRL,Worland Municipal Airport,KWRL,WRL,Worland,US,43.965698,-107.950996,4227
+KWSD,Condron Army Air Field,KWSD,WSD,White Sands,US,32.341499,-106.403000,3934
+KWST,Westerly State Airport,KWST,WST,Westerly,US,41.349602,-71.803398,81
+KWVI,Watsonville Municipal Airport,KWVI,WVI,Watsonville,US,36.935699,-121.790001,163
+KWVL,Waterville Robert Lafleur Airport,KWVL,WVL,Waterville,US,44.533199,-69.675499,333
+KWWD,Cape May County Airport,KWWD,WWD,Wildwood,US,39.008499,-74.908302,23
+KWWR,West Woodward Airport,KWWR,WWR,Woodward,US,36.438000,-99.522667,2189
+KWYS,Yellowstone Airport,KWYS,WYS,West Yellowstone,US,44.688400,-111.117996,6649

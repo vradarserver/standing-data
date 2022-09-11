@@ -1,0 +1,43 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+VO55,Murod Kond Airport,VO55,LTU,Latur,IN,18.411501,76.464699,2136
+VOAT,Agatti Airport,VOAT,AGX,Agatti Island,IN,10.828056,72.178889,14
+VOBG,HAL Airport,VOBG,,Bangalore,IN,12.950000,77.668198,2912
+VOBI,Bellary Airport,VOBI,BEP,Bellary,IN,15.162800,76.882797,30
+VOBL,Bengaluru International Airport,VOBL,BLR,Bangalore,IN,13.197900,77.706299,3000
+VOBM,Belgaum Airport,VOBM,IXG,Belgaum,IN,15.859300,74.618301,2487
+VOBZ,Vijayawada Airport,VOBZ,VGA,Gannavaram,IN,16.528889,80.795833,82
+VOCB,Coimbatore International Airport,VOCB,CJB,Coimbatore,IN,11.030000,77.043404,1324
+VOCC,Willingdon Island Air Base,VOCC,,Kochi,IN,9.947390,76.273102,8
+VOCI,Cochin International Airport,VOCI,COK,Cochin,IN,10.152000,76.401901,30
+VOCL,Calicut International Airport,VOCL,CCJ,Calicut,IN,11.136800,75.955299,342
+VOCP,Kadapa,VOCP,CDP,Andhra Pradesh,IN,14.510000,78.772778,430
+VODG,Dundigul Air Force Academy,VODG,,Hyderabad,IN,17.627199,78.403397,2013
+VODK,Dunakonda Airport,VODK,,Dunakonda,IN,15.833000,79.500000,462
+VOGB,Kalaburagi Airport,VOGB,GBI,Kalaburgi,IN,17.307778,76.958056,1571
+VOGO,Dabolim Airport,VOGO,GOI,Vasco da Gama,IN,15.380800,73.831398,150
+VOHB,Hubli Airport,VOHB,HBX,Hubli,IN,15.361700,75.084900,2171
+VOHS,"Rajiv Gandhi International Airport, Shamshabad",VOHS,HYD,Hyderabad,IN,17.231318,78.429855,2024
+VOHY,Begumpet Airport,VOHY,BPM,Hyderabad,IN,17.453100,78.467598,1742
+VOKN,Kannur International Airport,VOKN,CNN,Mattanur,IN,11.920000,75.550000,249
+VOKP,Koppal Aerodrome,VOKP,,Koppal,IN,15.359100,76.219299,1700
+VOKU,Kurnool Airport,VOKU,KJB,Orvakal,IN,15.706111,78.160833,920
+VOMD,Madurai Airport,VOMD,IXM,Madurai,IN,9.834510,78.093399,459
+VOML,Mangalore International Airport,VOML,IXE,Mangalore,IN,12.961300,74.890099,337
+VOMM,Chennai International Airport,VOMM,MAA,Chennai,IN,12.990005,80.169296,52
+VOMY,Mysore Airport,VOMY,MYQ,Mysore,IN,12.307200,76.649696,2349
+VOPB,Vir Savarkar International Airport,VOPB,IXZ,Port Blair,IN,11.641200,92.729698,14
+VOPC,Pondicherry Airport,VOPC,PNY,Puducherry,IN,11.966667,79.814444,134
+VORM,Ramnad Naval Air Station,VORM,,Ramnad,IN,9.325090,78.971497,16
+VORY,Rajahmundry Airport,VORY,RJA,Rajahmundry,IN,17.110399,81.818199,151
+VOSR,Sindhudurg Airport,VOSR,SDW,Chipi-Parule,IN,16.000000,73.533333,203
+VOSX,Coimbatore Air Force Station,VOSX,,Sulur,IN,11.013600,77.159698,1250
+VOTJ,Tanjore Air Force Base,VOTJ,TJV,Thanjavur,IN,10.722400,79.101601,253
+VOTK,Tuticorin Airport,VOTK,TCR,Tuticorin Airport,IN,8.724167,78.025833,129
+VOTP,Tirupati Airport,VOTP,TIR,Tirupati,IN,13.632500,79.543297,350
+VOTR,Tiruchirapally Civil Airport Airport,VOTR,TRZ,Tiruchirappally,IN,10.765400,78.709702,288
+VOTV,Trivandrum International Airport,VOTV,TRV,Trivandrum,IN,8.482120,76.920097,15
+VOTX,Tambaram Air Force Station,VOTX,,Chennai,IN,12.907200,80.121902,90
+VOVR,Vellore Airport,VOVR,,Vellore,IN,12.908800,79.066803,764
+VOVZ,Vishakhapatnam Airport,VOVZ,VTZ,Visakhapatnam,IN,17.721201,83.224503,15
+VOWA,Warangal Airport,VOWA,WGC,Warrangal,IN,17.914400,79.602203,935
+VOYK,Yelahanka Air Force Station,VOYK,,Yelahanka,IN,13.135500,77.606003,3045

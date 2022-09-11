@@ -1,0 +1,253 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KM01,General Dewitt Spain Airport,KM01,,Memphis,US,35.200699,-90.054001,225
+KM02,Dickson Municipal Airport,KM02,,Dickson,US,36.127998,-87.429802,892
+KM04,Covington Municipal Airport,KM04,,Covington,US,35.583401,-89.587196,280
+KM05,Caruthersville Memorial Airport,KM05,,Caruthersville,US,36.169102,-89.676498,268
+KM08,William L. Whitehurst Field,KM08,,Bolivar,US,35.214500,-89.043404,499
+KM11,Copiah County Airport,KM11,,Crystal Springs,US,31.902901,-90.368698,443
+KM12,Steele Municipal Airport,KM12,,Steele,US,36.095901,-89.863403,258
+KM13,Poplarville Pearl River County Airport,KM13,,Poplarville,US,30.785999,-89.504501,320
+KM15,Perry County Airport,KM15,,Linden,US,35.595798,-87.876701,740
+KM16,John Bell Williams Airport,KM16,,Raymond,US,32.303299,-90.408501,247
+KM17,Bolivar Municipal Airport,KM17,,Bolivar,US,37.596100,-93.347702,1092
+KM18,Hope Municipal Airport,KM18,,Hope,US,33.720100,-93.658798,359
+KM19,Newport Municipal Airport,KM19,,Newport,US,35.637699,-91.176399,239
+KM20,Grayson County Airport,KM20,,Leitchfield,US,37.399502,-86.260201,760
+KM21,Muhlenberg County Airport,KM21,,Greenville,US,37.226200,-87.156403,422
+KM22,Russellville Municipal Airport,KM22,,Russellville,US,34.445301,-87.711304,723
+KM23,James H Easom Field,KM23,,Newton,US,32.311798,-89.135902,369
+KM24,Dean Griffin Memorial Airport,KM24,,Wiggins,US,30.843201,-89.159798,270
+KM25,Mayfield Graves County Airport,KM25,,Mayfield,US,36.769100,-88.584702,523
+KM27,Waldron Municipal Airport,KM27,,Waldron,US,34.875999,-94.109299,695
+KM29,Hassell Field,KM29,,Clifton,US,35.385101,-87.967499,401
+KM30,Metropolis Municipal Airport,KM30,,Metropolis,US,37.185902,-88.750603,384
+KM31,Arnold Field,KM31,,Halls,US,35.903400,-89.397301,292
+KM32,Lake Village Municipal Airport,KM32,,Lake Village,US,33.346001,-91.315697,125
+KM33,Sumner County Regional Airport,KM33,,Gallatin,US,36.376801,-86.408798,583
+KM34,Kentucky Dam State Park Airport,KM34,,Gilbertsville,US,37.009499,-88.295898,349
+KM36,Frank Federer Memorial Airport,KM36,,Brinkley,US,34.880299,-91.176399,194
+KM37,Ruleville Drew Airport,KM37,,Drew,US,33.776402,-90.525002,137
+KM40,Monroe County Airport,KM40,,Aberdeen/Amory,US,33.873699,-88.489700,226
+KM41,Holly Springs Marshall County Airport,KM41,,Holly Springs,US,34.804298,-89.521103,553
+KM43,Prentiss Jefferson Davis County Airport,KM43,,Prentiss,US,31.595400,-89.906197,455
+KM44,Houston Municipal Airport,KM44,,Houston,US,33.891800,-89.023697,337
+KM45,Alpine County Airport,KM45,,Markleeville,US,38.734699,-119.766998,5867
+KM46,Colstrip Airport,KM46,,Colstrip,US,45.852901,-106.709000,3426
+KM48,Houston Memorial Airport,KM48,,Houston,US,37.330101,-91.973198,1196
+KM50,Boardman Airport,KM50,,Boardman,US,45.814800,-119.820999,396
+KM51,Oktibbeha Airport,KM51,,Starkville,US,33.497501,-88.681297,250
+KM52,Franklin Wilkins Airport,KM52,,Lexington,US,35.651299,-88.378899,514
+KM53,Humboldt Municipal Airport,KM53,,Humboldt,US,35.802200,-88.874901,421
+KM54,Lebanon Municipal Airport,KM54,,Lebanon,US,36.190399,-86.315697,588
+KM55,Lamar County Airport,KM55,,Vernon,US,33.846699,-88.115501,463
+KM59,Richton Perry County Airport,KM59,,Richton,US,31.317400,-88.934998,167
+KM60,Woodruff County Airport,KM60,,Augusta,US,35.271900,-91.269699,200
+KM65,Wynne Municipal Airport,KM65,,Wynne,US,35.231602,-90.761597,370
+KM66,Alfred Schroeder Field,KM66,,Hillsboro,US,38.343102,-97.214203,1434
+KM70,Pocahontas Municipal Airport,KM70,,Pocahontas,US,36.245499,-90.955200,273
+KM71,Greensfield Airport,KM71,,Moscow Mills,US,38.901798,-90.960297,549
+KM72,New Albany Union County Airport,KM72,,New Albany,US,34.548698,-89.024200,413
+KM73,Almyra Municipal Airport,KM73,,Almyra,US,34.412300,-91.466301,211
+KM75,Malta Airport,KM75,,Malta,US,48.366901,-107.918999,2254
+KM77,Howard County Airport,KM77,,Nashville,US,33.996700,-93.838097,553
+KM78,Malvern Municipal Airport,KM78,,Malvern,US,34.333302,-92.761497,538
+KM79,John H Hooks Jr Memorial Airport,KM79,,Rayville,US,32.485298,-91.770302,83
+KM80,Scott Airport,KM80,,Tallulah,US,32.416302,-91.148903,84
+KM83,Mccharen Field,KM83,,West Point,US,33.584000,-88.666702,205
+KM85,Gideon Memorial Airport,KM85,,Gideon,US,36.443802,-89.903801,268
+KM88,Cornelia Fort Airpark,KM88,,Nashville,US,36.190300,-86.699699,418
+KM89,Dexter B Florence Memorial Field,KM89,,Arkadelphia,US,34.099800,-93.066101,182
+KM90,William Robert Johnston Municipal Airport,KM90,,Mendota,US,36.758598,-120.371002,162
+KM91,Springfield Robertson County Airport,KM91,,Springfield,US,36.537201,-86.920601,706
+KM93,Houston County Airport,KM93,,Mc Kinnon,US,36.316700,-87.916702,370
+KM94,Desert Aire Airport,KM94,,Mattawa,US,46.687401,-119.920998,586
+KM95,Richard Arthur Field,KM95,,Fayette,US,33.712200,-87.815002,357
+KM99,Saline County/Watts Field,KM99,,Benton,US,34.556599,-92.606903,318
+KMAC,Macon Downtown Airport,KMAC,,Macon,US,32.822102,-83.561996,437
+KMAE,Madera Municipal Airport,KMAE,,Madera,US,36.988602,-120.112000,255
+KMAF,Midland International Airport,KMAF,MAF,Midland,US,31.942499,-102.202003,2871
+KMAI,Marianna Municipal Airport,KMAI,,Marianna,US,30.837799,-85.181900,110
+KMAL,Malone Dufort Airport,KMAL,,Malone,US,44.853699,-74.328903,790
+KMAO,Marion County Airport,KMAO,,Marion,US,34.181198,-79.334702,92
+KMAW,Malden Regional Airport,KMAW,,Malden,US,36.600601,-89.992203,294
+KMBG,Mobridge Municipal Airport,KMBG,,Mobridge,US,45.546501,-100.407997,1716
+KMBL,Manistee Co Blacker Airport,KMBL,,Manistee,US,44.272400,-86.246902,621
+KMBO,Bruce Campbell Field,KMBO,,Madison,US,32.438702,-90.103104,326
+KMBS,MBS International Airport,KMBS,MBS,Saginaw,US,43.532902,-84.079597,668
+KMBT,Murfreesboro Municipal Airport,KMBT,,Murfreesboro,US,35.877499,-86.377502,614
+KMBY,Omar N Bradley Airport,KMBY,,Moberly,US,39.463902,-92.427002,867
+KMCB,Mc Comb/Pike County/John E Lewis Field,KMCB,,Mc Comb,US,31.178499,-90.471901,413
+KMCC,Mc Clellan Airfield,KMCC,,Sacramento,US,38.667599,-121.401001,77
+KMCD,Mackinac Island Airport,KMCD,,Mackinac Island,US,45.864899,-84.637299,739
+KMCE,Merced Regional Macready Field,KMCE,MCE,Merced,US,37.284698,-120.514000,155
+KMCF,Mac Dill Air Force Base,KMCF,,Tampa,US,27.849300,-82.521202,14
+KMCI,Kansas City International Airport,KMCI,MCI,Kansas City,US,39.297600,-94.713898,1026
+KMCK,Mc Cook Ben Nelson Regional Airport,KMCK,,Mc Cook,US,40.206299,-100.592003,2583
+KMCN,Middle Georgia Regional Airport,KMCN,MCN,Macon,US,32.692799,-83.649200,354
+KMCO,Orlando International Airport,KMCO,MCO,Orlando,US,28.429399,-81.308998,96
+KMCW,Mason City Municipal Airport,KMCW,MCW,Mason City,US,43.157799,-93.331299,1213
+KMCX,White County Airport,KMCX,,Monticello,US,40.708801,-86.766800,676
+KMCZ,Martin County Airport,KMCZ,,Williamston,US,35.862202,-77.178200,76
+KMDA,Martindale Army Heliport,KMDA,,San Antonio,US,29.431299,-98.377800,674
+KMDD,Midland Airpark,KMDD,,Midland,US,32.036499,-102.100998,2803
+KMDF,Mooreland Municipal Airport,KMDF,,Mooreland,US,36.484798,-99.194199,1970
+KMDH,Southern Illinois Airport,KMDH,MDH,Carbondale/Murphysboro,US,37.778099,-89.251999,411
+KMDQ,Madison County Executive -Tom Sharp Jr Airport,KMDQ,,Huntsville,US,34.861401,-86.557503,756
+KMDS,Madison Municipal Airport,KMDS,XMD,Madison,US,44.015999,-97.085899,1718
+KMDT,Harrisburg International Airport,KMDT,MDT,Harrisburg,US,40.193501,-76.763397,310
+KMDW,Chicago Midway International Airport,KMDW,MDW,Chicago,US,41.785999,-87.752403,620
+KMDZ,Taylor County Airport,KMDZ,,Medford,US,45.101002,-90.303299,1478
+KMEB,Laurinburg Maxton Airport,KMEB,,Maxton,US,34.791901,-79.365799,216
+KMEI,Key Field,KMEI,MEI,Meridian,US,32.332600,-88.751900,297
+KMEJ,Meade Municipal Airport,KMEJ,,Meade,US,37.276901,-100.356003,2529
+KMEM,Memphis International Airport,KMEM,MEM,Memphis,US,35.042400,-89.976700,341
+KMER,Castle Airport,KMER,,Merced,US,37.380501,-120.568001,191
+KMEV,Minden Tahoe Airport,KMEV,,Minden,US,39.000301,-119.751000,4722
+KMEY,James G. Whiting Memorial Field,KMEY,,Mapleton,US,42.178299,-95.793602,1116
+KMEZ,Mena Intermountain Municipal Airport,KMEZ,,Mena,US,34.545399,-94.202698,1080
+KMFD,Mansfield Lahm Regional Airport,KMFD,,Mansfield,US,40.821400,-82.516602,1297
+KMFE,Mc Allen Miller International Airport,KMFE,MFE,Mc Allen,US,26.175800,-98.238602,107
+KMFI,Marshfield Municipal Airport,KMFI,,Marshfield,US,44.636902,-90.189301,1277
+KMFR,Rogue Valley International Medford Airport,KMFR,MFR,Medford,US,42.374199,-122.873001,1335
+KMFV,Accomack County Airport,KMFV,,Melfa,US,37.646900,-75.761101,47
+KMGC,Michigan City Municipal Airport,KMGC,,Michigan City,US,41.703300,-86.821198,655
+KMGE,Dobbins Air Reserve Base Airport,KMGE,,Marietta,US,33.915401,-84.516296,1068
+KMGG,Maple Lake Municipal Airport,KMGG,,Maple Lake,US,45.236000,-93.985603,1028
+KMGJ,Orange County Airport,KMGJ,,Montgomery,US,41.509998,-74.264603,364
+KMGM,Montgomery Regional (Dannelly Field) Airport,KMGM,MGM,Montgomery,US,32.300598,-86.393997,221
+KMGN,Harbor Springs Airport,KMGN,,Harbor Springs,US,45.425598,-84.913399,686
+KMGR,Moultrie Municipal Airport,KMGR,,Moultrie,US,31.084900,-83.803299,294
+KMGW,Morgantown Municipal Walter L. Bill Hart Field,KMGW,MGW,Morgantown,US,39.642899,-79.916298,1248
+KMGY,Dayton Wright Brothers Airport,KMGY,,Dayton,US,39.589001,-84.224899,957
+KMHE,Mitchell Municipal Airport,KMHE,,Mitchell,US,43.774799,-98.038597,1304
+KMHK,Manhattan Regional Airport,KMHK,MHK,Manhattan,US,39.140999,-96.670799,1057
+KMHL,Marshall Memorial Municipal Airport,KMHL,,Marshall,US,39.095798,-93.202904,779
+KMHP,Metter Municipal Airport,KMHP,,Metter,US,32.373901,-82.079201,197
+KMHR,Sacramento Mather Airport,KMHR,MHR,Sacramento,US,38.553902,-121.297997,99
+KMHT,Manchester Airport,KMHT,MHT,Manchester,US,42.932598,-71.435699,266
+KMHV,Mojave Airport,KMHV,MHV,Mojave,US,35.059399,-118.152000,2801
+KMIA,Miami International Airport,KMIA,MIA,Miami,US,25.793200,-80.290604,8
+KMIB,Minot Air Force Base,KMIB,,Minot,US,48.415600,-101.358002,1667
+KMIC,Crystal Airport,KMIC,,Minneapolis,US,45.062000,-93.353897,869
+KMIE,Delaware County Johnson Field,KMIE,MIE,Muncie,US,40.242298,-85.395897,937
+KMIO,Miami Municipal Airport,KMIO,,Miami,US,36.909199,-94.887497,808
+KMIT,Shafter Minter Field,KMIT,,Shafter,US,35.507401,-119.192001,424
+KMIV,Millville Municipal Airport,KMIV,,Millville,US,39.367802,-75.072197,85
+KMIW,Marshalltown Municipal Airport,KMIW,,Marshalltown,US,42.112701,-92.917801,974
+KMJD,Picayune Municipal Airport,KMJD,,Picayune,US,30.487499,-89.651199,55
+KMJQ,Jackson Municipal Airport,KMJQ,,Jackson,US,43.650002,-94.986504,1446
+KMJX,Robert J. Miller Air Park,KMJX,,Toms River,US,39.927502,-74.292397,82
+KMKA,Miller Municipal Airport,KMKA,,Miller,US,44.525200,-98.958099,1569
+KMKC,Charles B. Wheeler Downtown Airport,KMKC,MKC,Kansas City,US,39.123199,-94.592796,759
+KMKE,General Mitchell International Airport,KMKE,MKE,Milwaukee,US,42.947201,-87.896599,723
+KMKG,Muskegon County Airport,KMKG,MKG,Muskegon,US,43.169498,-86.238197,629
+KMKJ,Mountain Empire Airport,KMKJ,,Marion/Wytheville,US,36.894901,-81.349899,2558
+KMKL,Mc Kellar Sipes Regional Airport,KMKL,MKL,Jackson,US,35.599899,-88.915604,434
+KMKN,Comanche County City Airport,KMKN,,Comanche,US,31.916800,-98.600304,1385
+KMKO,Davis Field,KMKO,,Muskogee,US,35.656502,-95.366699,611
+KMKS,Berkeley County Airport,KMKS,,Moncks Corner,US,33.185501,-80.036301,73
+KMKT,Mankato Regional Airport,KMKT,,Mankato,US,44.221600,-93.918701,1021
+KMKV,Marksville Municipal Airport,KMKV,,Marksville,US,31.094700,-92.069099,79
+KMKY,Marco Island Airport,KMKY,,Marco Island,US,25.995001,-81.672501,5
+KMLB,Melbourne International Airport,KMLB,MLB,Melbourne,US,28.102800,-80.645302,33
+KMLC,Mc Alester Regional Airport,KMLC,,Mc Alester,US,34.882401,-95.783501,770
+KMLD,Malad City Airport,KMLD,,Malad City,US,42.166599,-112.296997,4503
+KMLE,Millard Airport,KMLE,,Omaha,US,41.195999,-96.112000,1051
+KMLF,Milford Municipal-Ben and Judy Briscoe Field,KMLF,,Milford,US,38.426601,-113.012001,5039
+KMLI,Quad City International Airport,KMLI,MLI,Moline,US,41.448502,-90.507500,590
+KMLJ,Baldwin County Airport,KMLJ,,Milledgeville,US,33.154202,-83.240700,385
+KMLS,Frank Wiley Field,KMLS,MLS,Miles City,US,46.428001,-105.886002,2630
+KMLT,Millinocket Municipal Airport,KMLT,,Millinocket,US,45.647800,-68.685600,408
+KMLU,Monroe Regional Airport,KMLU,MLU,Monroe,US,32.510899,-92.037697,79
+KMMH,Mammoth Yosemite Airport,KMMH,MMH,Mammoth Lakes,US,37.624100,-118.837997,7135
+KMMI,McMinn County Airport,KMMI,,Athens,US,35.397301,-84.562599,875
+KMMK,Meriden Markham Municipal Airport,KMMK,,Meriden,US,41.508701,-72.829498,103
+KMML,Southwest Minnesota Regional-Marshall-Ryan Field,KMML,,Marshall,US,44.450500,-95.821899,1183
+KMMS,Selfs Airport,KMMS,,Marks,US,34.231499,-90.289597,162
+KMMT,Mc Entire JNGB Airport,KMMT,,Eastover,US,33.920799,-80.801300,254
+KMMU,Morristown Municipal Airport,KMMU,MMU,Morristown,US,40.799400,-74.414902,187
+KMMV,Mc Minnville Municipal Airport,KMMV,,Mc Minnville,US,45.194401,-123.136002,163
+KMNF,Mountain View Airport,KMNF,,Mountain View,US,36.992802,-91.714500,1181
+KMNG,Montana ARNG Heliport,KMNG,,Billings,US,45.805000,-108.566667,3649
+KMNI,Santee Cooper Regional Airport,KMNI,,Manning,US,33.587101,-80.208702,103
+KMNM,Menominee Marinette Twin County Airport,KMNM,,Menominee,US,45.126701,-87.638397,625
+KMNN,Marion Municipal Airport,KMNN,,Marion,US,40.616199,-83.063499,993
+KMNV,Monroe County Airport,KMNV,,Madisonville,US,35.545399,-84.380203,1031
+KMNZ,Hamilton Municipal Airport,KMNZ,,Hamilton,US,31.665899,-98.148598,1299
+KMO1,Richland Municipal Airport,KMO1,,Richland,US,37.875000,-92.408501,1110
+KMO3,Stockton Municipal Airport,KMO3,,Stockton,US,37.660301,-93.816803,1042
+KMO6,Washington Regional Airport,KMO6,,Washington,US,38.587601,-90.993797,488
+KMO8,North Central Missouri Regional Airport,KMO8,,Brookfield,US,39.770000,-93.012703,843
+KMOB,Mobile Regional Airport,KMOB,MOB,Mobile,US,30.691200,-88.242798,219
+KMOD,Modesto City Co-Harry Sham Field,KMOD,MOD,Modesto,US,37.625801,-120.954002,97
+KMOP,Mount Pleasant Municipal Airport,KMOP,,Mount Pleasant,US,43.621700,-84.737503,755
+KMOR,Moore Murrell Airport,KMOR,,Morristown,US,36.179401,-83.375504,1313
+KMOT,Minot International Airport,KMOT,MOT,Minot,US,48.259399,-101.279999,1716
+KMOX,Morris Municipal - Charlie Schmidt Airport,KMOX,,Morris,US,45.566002,-95.967201,1138
+KMPE,Philadelphia Municipal Airport,KMPE,,Philadelphia,US,32.799400,-89.125999,458
+KMPG,Marshall County Airport,KMPG,,Moundsville,US,39.880798,-80.735802,1214
+KMPI,Mariposa Yosemite Airport,KMPI,RMY,Mariposa,US,37.510899,-120.040001,2254
+KMPJ,Petit Jean Park Airport,KMPJ,,Morrilton,US,35.138901,-92.909203,923
+KMPO,Pocono Mountains Municipal Airport,KMPO,,Mount Pocono,US,41.137501,-75.378899,1915
+KMPR,Mc Pherson Airport,KMPR,,Mc Pherson,US,38.352402,-97.691299,1498
+KMPV,Edward F Knapp State Airport,KMPV,MPV,Barre/Montpelier,US,44.203499,-72.562302,1166
+KMPZ,Mount Pleasant Municipal Airport,KMPZ,,Mount Pleasant,US,40.946602,-91.511101,730
+KMQB,Macomb Municipal Airport,KMQB,,Macomb,US,40.520100,-90.652397,707
+KMQI,Dare County Regional Airport,KMQI,,Manteo,US,35.918999,-75.695503,13
+KMQJ,Mount Comfort Airport,KMQJ,,Indianapolis,US,39.843498,-85.897102,862
+KMQS,Chester County G O Carlson Airport,KMQS,,Coatesville,US,39.979000,-75.865501,660
+KMQW,Telfair Wheeler Airport,KMQW,,Mc Rae,US,32.095798,-82.879997,202
+KMQY,Smyrna Airport,KMQY,,Smyrna,US,36.008999,-86.520103,543
+KMRB,Eastern Wv Regional Shepherd Field,KMRB,,Martinsburg,US,39.401901,-77.984596,565
+KMRC,Maury County Airport,KMRC,,Columbia/Mount Pleasant,US,35.554100,-87.178902,681
+KMRF,Marfa Municipal Airport,KMRF,,Marfa,US,30.371099,-104.017998,4849
+KMRH,Michael J. Smith Field,KMRH,,Beaufort,US,34.733601,-76.660599,11
+KMRJ,Iowa County Airport,KMRJ,,Mineral Point,US,42.886799,-90.236198,1171
+KMRN,Foothills Regional Airport,KMRN,,Morganton,US,35.820202,-81.611397,1270
+KMRT,Union County Airport,KMRT,,Marysville,US,40.224701,-83.351601,1021
+KMRY,Monterey Peninsula Airport,KMRY,MRY,Monterey,US,36.587002,-121.843002,257
+KMSL,Northwest Alabama Regional Airport,KMSL,MSL,Muscle Shoals,US,34.745300,-87.610199,551
+KMSN,Dane County Regional Truax Field,KMSN,MSN,Madison,US,43.139900,-89.337502,887
+KMSO,Missoula International Airport,KMSO,MSO,Missoula,US,46.916302,-114.091003,3206
+KMSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,KMSP,MSP,Minneapolis,US,44.882000,-93.221802,841
+KMSS,Massena International Richards Field,KMSS,MSS,Massena,US,44.935799,-74.845596,215
+KMSV,Sullivan County International Airport,KMSV,,Monticello,US,41.701599,-74.794998,1403
+KMSY,Louis Armstrong New Orleans International Airport,KMSY,MSY,New Orleans,US,29.993401,-90.258003,4
+KMTC,Selfridge Angb Airport,KMTC,MTC,Mount Clemens,US,42.608299,-82.835503,580
+KMTH,The Florida Keys Marathon Airport,KMTH,,Marathon,US,24.726101,-81.051399,5
+KMTJ,Montrose Regional Airport,KMTJ,MTJ,Montrose,US,38.509800,-107.893997,5759
+KMTN,Martin State Airport,KMTN,,Baltimore,US,39.325699,-76.413803,21
+KMTO,Coles County Memorial Airport,KMTO,,Mattoon/Charleston,US,39.477901,-88.279198,722
+KMTP,Montauk Airport,KMTP,,Montauk,US,41.076500,-71.920799,6
+KMTV,Blue Ridge Airport,KMTV,,Martinsville,US,36.630699,-80.018303,941
+KMTW,Manitowoc County Airport,KMTW,,Manitowoc,US,44.128799,-87.680603,651
+KMUI,Muir Army Air Field (Fort Indiantown Gap) Airport,KMUI,,Fort Indiantown Gap(Annville),US,40.434799,-76.569397,488
+KMUL,Spence Airport,KMUL,,Moultrie,US,31.137699,-83.704102,292
+KMUO,Mountain Home Air Force Base,KMUO,,Mountain Home,US,43.043598,-115.872002,2996
+KMUT,Muscatine Municipal Airport,KMUT,,Muscatine,US,41.367802,-91.148201,547
+KMVC,Monroe County Airport,KMVC,,Monroeville,US,31.458000,-87.350998,419
+KMVE,Montevideo Chippewa County Airport,KMVE,,Montevideo,US,44.969101,-95.710297,1034
+KMVI,Monte Vista Municipal Airport,KMVI,,Monte Vista,US,37.527302,-106.047997,7611
+KMVL,Morrisville Stowe State Airport,KMVL,MVL,Morrisville,US,44.534599,-72.613998,732
+KMVM,Machias Valley Airport,KMVM,,Machias,US,44.703098,-67.478600,96
+KMVN,Mount Vernon Airport,KMVN,,Mount Vernon,US,38.323399,-88.858803,480
+KMVY,Martha's Vineyard Airport,KMVY,MVY,Martha's Vineyard,US,41.393101,-70.614304,67
+KMWA,Williamson County Regional Airport,KMWA,,Marion,US,37.755001,-89.011101,472
+KMWC,Lawrence J Timmerman Airport,KMWC,,Milwaukee,US,43.110401,-88.034401,745
+KMWH,Grant Co International Airport,KMWH,,Moses Lake,US,47.207699,-119.320000,1189
+KMWK,Mount Airy Surry County Airport,KMWK,,Mount Airy,US,36.459702,-80.553001,1249
+KMWL,Mineral Wells Airport,KMWL,,Mineral Wells,US,32.781601,-98.060204,974
+KMWM,Windom Municipal Airport,KMWM,,Windom,US,43.913399,-95.109398,1410
+KMWO,Middletown Regional-Hook Field Municipal Airport,KMWO,,Middletown,US,39.530998,-84.395302,650
+KMXA,Manila Municipal Airport,KMXA,,Manila,US,35.894402,-90.154602,242
+KMXF,Maxwell Air Force Base,KMXF,,Montgomery,US,32.382900,-86.365799,171
+KMXO,Monticello Regional Airport,KMXO,,Monticello,US,42.220402,-91.163300,832
+KMYF,Montgomery Field,KMYF,,San Diego,US,32.815701,-117.139999,427
+KMYJ,Mexico Memorial Airport,KMYJ,,Mexico,US,39.157501,-91.818298,823
+KMYL,Mc Call Municipal Airport,KMYL,,Mc Call,US,44.889702,-116.100998,5024
+KMYR,Myrtle Beach International Airport,KMYR,MYR,Myrtle Beach,US,33.679699,-78.928299,25
+KMYV,Yuba County Airport,KMYV,,Marysville,US,39.097801,-121.570000,64
+KMYZ,Marysville Municipal Airport,KMYZ,,Marysville,US,39.855301,-96.630600,1283
+KMZH,Moose Lake Carlton County Airport,KMZH,,Moose Lake,US,46.418800,-92.804703,1076
+KMZJ,Pinal Airpark,KMZJ,,Marana,US,32.510601,-111.328003,1893
+KMZZ,Marion Municipal Airport,KMZZ,MZZ,Marion,US,40.489899,-85.679703,859

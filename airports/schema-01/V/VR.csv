@@ -1,0 +1,11 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+VRDA,Maafaru International Airport,VRDA,NMF,Maafaru,MV,5.822222,73.474724,6
+VRMD,Dharavandhoo Airport,VRMD,DRV,Dharavandhoo,MV,5.156667,73.130556,6
+VRMF,Fuvahmulah Airport,VRMF,FVM,Fuvahmulah Island,MV,-0.309722,73.435000,17
+VRMG,Gan International Airport,VRMG,GAN,Gan,MV,-0.693342,73.155602,6
+VRMH,Hanimaadhoo Airport,VRMH,HAQ,Haa Dhaalu Atoll,MV,6.744230,73.170502,4
+VRMK,Kadhdhoo Airport,VRMK,KDO,Kadhdhoo,MV,1.859170,73.521896,4
+VRMM,Malé International Airport,VRMM,MLE,Malé,MV,4.191830,73.529099,6
+VRMO,Kooddoo Airport,VRMO,GKK,Huvadhu Atoll,MV,0.732400,73.433600,29
+VRMT,Kaadedhdhoo Airport,VRMT,KDM,Huvadhu Atoll,MV,0.488131,72.996902,2
+VRMV,Villa Airport,VRMV,VAM,Maamigili,MV,3.470556,72.835833,6

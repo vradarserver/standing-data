@@ -1,0 +1,16 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HCMA,Alula Airport,HCMA,ALU,Alula,SO,11.958200,50.748000,6
+HCMB,Baidoa Airport,HCMB,BIB,Baidoa,SO,3.102220,43.628601,1820
+HCMC,Candala Airport,HCMC,CXN,Candala,SO,11.500000,49.917000,9
+HCME,Eil Airport,HCME,HCM,Eil,SO,7.917000,49.799999,812
+HCMF,Bosaso Airport,HCMF,BSA,Bosaso,SO,11.275300,49.149399,3
+HCMG,Gardo Airport,HCMG,GSR,Gardo,SO,9.517000,49.083000,2632
+HCMH,Egal International Airport,HCMH,HGA,Hargeisa,SO,9.518170,44.088799,4423
+HCMI,Berbera Airport,HCMI,BBO,Berbera,SO,10.389200,44.941101,30
+HCMM,Aden Adde International Airport,HCMM,MGQ,Mogadishu,SO,2.014440,45.304699,29
+HCMN,Belet Uen Airport,HCMN,,Belet Uen,SO,4.700000,45.216999,559
+HCMO,Obbia Airport,HCMO,CMO,Obbia,SO,5.366667,48.516666,65
+HCMR,Galcaio Airport,HCMR,GLK,Galcaio,SO,6.780830,47.454700,975
+HCMS,Scusciuban Airport,HCMS,CMS,Scusciuban,SO,10.300000,50.233002,1121
+HCMU,Erigavo Airport,HCMU,ERA,Erigavo,SO,10.642051,47.387981,5720
+HCMV,Burao Airport,HCMV,BUO,Burao,SO,9.527500,45.554900,3400

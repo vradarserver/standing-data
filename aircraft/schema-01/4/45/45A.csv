@@ -1,0 +1,5 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+45AA55,OY-JRU,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,0,Danish Air Transport,DTR,560-5236,2001
+45AB4F,OY-JZO,B738,Boeing,737-8U3,Boeing 737-8U3,0,Jettime,JTD,38072,2013
+45AB50,OY-JZP,B738,Boeing,737-8U3,Boeing 737-8U3,0,Jettime,JTD,38071,2011
+45AB53,OY-JZS,B738,Boeing,737-8K5,Boeing 737-8K5,0,Jettime,JTD,35100,2007

@@ -1,0 +1,152 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KP01,Eric Marcus Municipal Airport,KP01,,Ajo,US,32.450100,-112.866997,1458
+KP03,Cochise College Airport,KP03,,Douglas,US,31.371099,-109.690002,4124
+KP04,Bisbee Municipal Airport,KP04,BSQ,Bisbee,US,31.364000,-109.883003,4780
+KP08,Coolidge Municipal Airport,KP08,,Coolidge,US,32.935902,-111.427002,1574
+KP10,Polacca Airport,KP10,,Polacca,US,35.791698,-110.422997,5573
+KP13,San Carlos Apache Airport,KP13,GLB,Globe,US,33.353100,-110.667000,3261
+KP14,Holbrook Municipal Airport,KP14,HBK,Holbrook,US,34.940701,-110.138000,5262
+KP19,Stellar Airpark,KP19,,Chandler,US,33.298901,-111.915001,1177
+KP20,Avi Suquilla Airport,KP20,,Parker,US,34.150600,-114.271004,452
+KP23,Seligman Airport,KP23,,Seligman,US,35.334999,-112.887001,5235
+KP29,Tombstone Municipal Airport,KP29,,Tombstone,US,31.670900,-110.023003,4743
+KP33,Cochise County Airport,KP33,CWX,Willcox,US,32.245399,-109.894997,4187
+KP52,Cottonwood Airport,KP52,,Cottonwood,US,34.730000,-112.035004,3550
+KPAE,Snohomish County (Paine Field) Airport,KPAE,PAE,Everett,US,47.906300,-122.281998,606
+KPAH,Barkley Regional Airport,KPAH,PAH,Paducah,US,37.060799,-88.773804,410
+KPAM,Tyndall Air Force Base,KPAM,,Panama City,US,30.069599,-85.575401,17
+KPAN,Payson Airport,KPAN,,Payson,US,34.256802,-111.338997,5157
+KPAO,Palo Alto Airport of Santa Clara County,KPAO,,Palo Alto,US,37.461102,-122.114998,4
+KPBF,Grider Field,KPBF,,Pine Bluff,US,34.173100,-91.935600,206
+KPBG,Plattsburgh International Airport,KPBG,PBG,Plattsburgh,US,44.650902,-73.468102,234
+KPBH,Price County Airport,KPBH,,Phillips,US,45.709000,-90.402496,1497
+KPBI,Palm Beach International Airport,KPBI,PBI,West Palm Beach,US,26.683201,-80.095596,19
+KPBX,Pike County-Hatcher Field,KPBX,,Pikeville,US,37.561798,-82.566399,1473
+KPCA,Picacho Stagefield Heliport,KPCA,,Picacho,US,32.662789,-111.487970,1675
+KPCM,Plant City Municipal Airport,KPCM,,Plant City,US,28.000200,-82.164200,153
+KPCW,Carl R Keller Field,KPCW,,Port Clinton,US,41.516300,-82.868698,590
+KPCZ,Waupaca Municipal Airport,KPCZ,,Waupaca,US,44.333302,-89.019798,840
+KPDC,Prairie Du Chien Municipal Airport,KPDC,,Prairie Du Chien,US,43.019299,-91.123703,661
+KPDK,DeKalb Peachtree Airport,KPDK,PDK,Atlanta,US,33.875599,-84.302002,1003
+KPDT,Eastern Oregon Regional At Pendleton Airport,KPDT,,Pendleton,US,45.695099,-118.841003,1497
+KPDX,Portland International Airport,KPDX,PDX,Portland,US,45.588699,-122.598000,31
+KPEA,Pella Municipal Airport,KPEA,,Pella,US,41.400101,-92.945900,885
+KPEO,Penn Yan Airport,KPEO,,Penn Yan,US,42.637100,-77.052902,990
+KPEQ,Pecos Municipal Airport,KPEQ,,Pecos,US,31.382401,-103.511002,2613
+KPEX,Paynesville Municipal Airport,KPEX,,Paynesville,US,45.372299,-94.746597,1180
+KPEZ,Pleasanton Municipal Airport,KPEZ,,Pleasanton,US,28.954201,-98.519997,430
+KPFN,Panama City-Bay Co International Airport,KPFN,PFN,Panama City,US,30.212099,-85.682800,20
+KPGA,Page Municipal Airport,KPGA,PGA,Page,US,36.926102,-111.447998,4316
+KPGD,Charlotte County Airport,KPGD,PGD,Punta Gorda,US,26.920200,-81.990501,26
+KPGR,Kirk Field,KPGR,,Paragould,US,36.062901,-90.507797,290
+KPGV,Pitt Greenville Airport,KPGV,PGV,Greenville,US,35.635201,-77.385300,26
+KPHD,Harry Clever Field,KPHD,,New Philadelphia,US,40.470901,-81.419701,894
+KPHF,Newport News Williamsburg International Airport,KPHF,PHF,Newport News,US,37.131901,-76.492996,42
+KPHG,Phillipsburg Municipal Airport,KPHG,,Phillipsburg,US,39.735802,-99.317101,1907
+KPHH,Robert F Swinnie Airport,KPHH,ADR,Andrews,US,33.451698,-79.526199,26
+KPHK,Palm Beach Co Glades Airport,KPHK,,Pahokee,US,26.785000,-80.693398,16
+KPHL,Philadelphia International Airport,KPHL,PHL,Philadelphia,US,39.871899,-75.241096,36
+KPHN,St Clair County International Airport,KPHN,,Port Huron,US,42.910999,-82.528900,650
+KPHP,Philip Airport,KPHP,,Philip,US,44.048599,-101.598999,2207
+KPHT,Henry County Airport,KPHT,,Paris,US,36.338200,-88.382896,580
+KPHX,Phoenix Sky Harbor International Airport,KPHX,PHX,Phoenix,US,33.434299,-112.012001,1135
+KPIA,Greater Peoria Regional Airport,KPIA,PIA,Peoria,US,40.664200,-89.693298,660
+KPIB,Hattiesburg Laurel Regional Airport,KPIB,PIB,Hattiesburg/Laurel,US,31.467100,-89.337097,298
+KPIE,St Petersburg Clearwater International Airport,KPIE,PIE,St Petersburg-Clearwater,US,27.910200,-82.687401,11
+KPIH,Pocatello Regional Airport,KPIH,PIH,Pocatello,US,42.909801,-112.596001,4452
+KPIL,Port Isabel Cameron County Airport,KPIL,,Port Isabel,US,26.166201,-97.345901,19
+KPIM,Harris County Airport,KPIM,,Pine Mountain,US,32.840698,-84.882401,902
+KPIR,Pierre Regional Airport,KPIR,PIR,Pierre,US,44.382702,-100.286003,1744
+KPIT,Pittsburgh International Airport,KPIT,PIT,Pittsburgh,US,40.491501,-80.232903,1203
+KPJC,Zelienople Municipal Airport,KPJC,,Zelienople,US,40.801601,-80.160698,898
+KPJY,Pinckneyville Du Quoin Airport,KPJY,,Pinckneyville,US,37.977901,-89.360497,400
+KPKB,Mid Ohio Valley Regional Airport,KPKB,PKB,Parkersburg,US,39.345100,-81.439201,858
+KPKD,Park Rapids Municipal Konshok Field,KPKD,,Park Rapids,US,46.900600,-95.073097,1445
+KPKF,Park Falls Municipal Airport,KPKF,,Park Falls,US,45.955002,-90.424400,1500
+KPKV,Calhoun County Airport,KPKV,,Port Lavaca,US,28.653999,-96.681297,32
+KPLB,Clinton County Airport,KPLB,PLB,Plattsburgh,US,44.687500,-73.524498,371
+KPLD,Portland Municipal Airport,KPLD,,Portland,US,40.450802,-84.990097,925
+KPLK,M. Graham Clark-Taney County Airport,KPLK,,Point Lookout,US,36.625900,-93.228897,940
+KPLN,Pellston Regional Airport of Emmet County Airport,KPLN,PLN,Pellston,US,45.570900,-84.796700,721
+KPLR,St Clair County Airport,KPLR,,Pell City,US,33.558800,-86.249100,485
+KPLU,Pierce County-Thun Field,KPLU,,Puyallup,US,47.103901,-122.287003,538
+KPMB,Pembina Municipal Airport,KPMB,,Pembina,US,48.942501,-97.240799,795
+KPMD,Palmdale Regional/USAF Plant 42 Airport,KPMD,PMD,Palmdale,US,34.629398,-118.084999,2543
+KPMH,Greater Portsmouth Regional Airport,KPMH,,Portsmouth,US,38.840500,-82.847298,663
+KPMP,Pompano Beach Airpark,KPMP,,Pompano Beach,US,26.247101,-80.111099,19
+KPMU,Panola County Airport,KPMU,,Batesville,US,34.363499,-89.892601,221
+KPMV,Plattsmouth Municipal Airport,KPMV,,Plattsmouth,US,40.950199,-95.917900,1204
+KPMZ,Plymouth Municipal Airport,KPMZ,,Plymouth,US,35.808399,-76.759300,39
+KPNA,Ralph Wenz Field,KPNA,,Pinedale,US,42.795502,-109.806999,7102
+KPNC,Ponca City Regional Airport,KPNC,,Ponca City,US,36.731998,-97.099800,1008
+KPNE,Northeast Philadelphia Airport,KPNE,,Philadelphia,US,40.081902,-75.010597,120
+KPNM,Princeton Municipal Airport,KPNM,,Princeton,US,45.559898,-93.608200,980
+KPNN,Princeton Municipal Airport,KPNN,,Princeton,US,45.200699,-67.564400,266
+KPNS,Pensacola Regional Airport,KPNS,PNS,Pensacola,US,30.473400,-87.186600,121
+KPNT,Pontiac Municipal Airport,KPNT,,Pontiac,US,40.924400,-88.623901,666
+KPOB,Pope Field,KPOB,POB,Fayetteville,US,35.170898,-79.014503,217
+KPOC,Brackett Field,KPOC,,La Verne,US,34.091599,-117.781998,1011
+KPOE,Polk Army Air Field,KPOE,,Fort Polk,US,31.044800,-93.191704,330
+KPOF,Poplar Bluff Municipal Airport,KPOF,,Poplar Bluff,US,36.773899,-90.324898,331
+KPOH,Pocahontas Municipal Airport,KPOH,,Pocahontas,US,42.742802,-94.647301,1226
+KPOU,Dutchess County Airport,KPOU,POU,Poughkeepsie,US,41.626598,-73.884201,165
+KPOY,Powell Municipal Airport,KPOY,,Powell,US,44.867199,-108.792999,5092
+KPPA,Perry Lefors Field,KPPA,,Pampa,US,35.612999,-100.996002,3245
+KPPF,Tri City Airport,KPPF,,Parsons,US,37.329899,-95.506203,900
+KPPO,La Porte Municipal Airport,KPPO,,La Porte,US,41.572498,-86.734497,812
+KPPQ,Pittsfield Penstone Municipal Airport,KPPQ,,Pittsfield,US,39.638901,-90.778397,710
+KPQI,Northern Maine Regional Airport at Presque Isle,KPQI,PQI,Presque Isle,US,46.688999,-68.044800,534
+KPQL,Trent Lott International Airport,KPQL,,Pascagoula,US,30.462799,-88.529198,17
+KPQN,Pipestone Municipal Airport,KPQN,,Pipestone,US,43.983299,-96.300301,1736
+KPRB,Paso Robles Municipal Airport,KPRB,,Paso Robles,US,35.672901,-120.626999,840
+KPRC,Ernest A. Love Field,KPRC,PRC,Prescott,US,34.654499,-112.419998,5045
+KPRG,Edgar County Airport,KPRG,,Paris,US,39.700199,-87.669601,654
+KPRN,Mac Crenshaw Memorial Airport,KPRN,,Greenville,US,31.845699,-86.610703,451
+KPRO,Perry Municipal Airport,KPRO,,Perry,US,41.827999,-94.159897,1013
+KPRX,Cox Field,KPRX,,Paris,US,33.636600,-95.450798,547
+KPRZ,Portales Municipal Airport,KPRZ,,Portales,US,34.145500,-103.410004,4078
+KPSB,Mid State Airport,KPSB,,Philipsburg,US,40.884399,-78.087303,1948
+KPSC,Tri Cities Airport,KPSC,PSC,Pasco,US,46.264702,-119.119003,410
+KPSF,Pittsfield Municipal Airport,KPSF,,Pittsfield,US,42.426800,-73.292900,1194
+KPSK,New River Valley Airport,KPSK,,Dublin,US,37.137299,-80.678497,2105
+KPSM,Portsmouth International at Pease Airport,KPSM,PSM,Portsmouth,US,43.077900,-70.823303,100
+KPSN,Palestine Municipal Airport,KPSN,,Palestine,US,31.779699,-95.706299,423
+KPSO,Stevens Field,KPSO,,Pagosa Springs,US,37.286301,-107.056000,7664
+KPSP,Palm Springs International Airport,KPSP,PSP,Palm Springs,US,33.829700,-116.507004,477
+KPSX,Palacios Municipal Airport,KPSX,,Palacios,US,28.727501,-96.250999,14
+KPTB,Dinwiddie County Airport,KPTB,,Petersburg,US,37.183800,-77.507401,193
+KPTD,Potsdam Municipal-Damon field,KPTD,,Potsdam,US,44.676701,-74.948402,474
+KPTG,Lee County Airport,KPTG,,Pennington Gap,US,36.746101,-83.037201,1860
+KPTK,Oakland County International Airport,KPTK,,Pontiac,US,42.665501,-83.420097,980
+KPTN,Harry P Williams Memorial Airport,KPTN,,Patterson,US,29.709499,-91.338997,9
+KPTS,Atkinson Municipal Airport,KPTS,,Pittsburg,US,37.449501,-94.731102,950
+KPTT,Pratt Industrial Airport,KPTT,,Pratt,US,37.701599,-98.746902,1953
+KPTV,Porterville Municipal Airport,KPTV,,Porterville,US,36.029598,-119.063004,442
+KPTW,Pottstown Limerick Airport,KPTW,,Pottstown,US,40.239601,-75.556702,309
+KPUB,Pueblo Memorial Airport,KPUB,PUB,Pueblo,US,38.289101,-104.497002,4726
+KPUC,Carbon County Regional/Buck Davis Field,KPUC,,Price,US,39.613899,-110.751000,5957
+KPUJ,Paulding County Regional Airport,KPUJ,,Dallas,US,33.913306,-84.942083,1289
+KPUW,Pullman Moscow Regional Airport,KPUW,PUW,"Pullman/Moscow,Id",US,46.743900,-117.110001,2556
+KPVB,Platteville Municipal Airport,KPVB,,Platteville,US,42.689400,-90.444397,1025
+KPVC,Provincetown Municipal Airport,KPVC,,Provincetown,US,42.071899,-70.221397,9
+KPVD,Theodore Francis Green State Airport,KPVD,PVD,Providence,US,41.732601,-71.420403,55
+KPVE,Beech River Regional Airport,KPVE,,Lexington-Parsons,US,35.656399,-88.195396,488
+KPVF,Placerville Airport,KPVF,,Placerville,US,38.724201,-120.752998,2585
+KPVG,Hampton Roads Executive Airport,KPVG,,Norfolk,US,36.780201,-76.448799,23
+KPVJ,Pauls Valley Municipal Airport,KPVJ,,Pauls Valley,US,34.711102,-97.223198,971
+KPVU,Provo Municipal Airport,KPVU,,Provo,US,40.219200,-111.723000,4497
+KPVW,Hale County Airport,KPVW,,Plainview,US,34.168098,-101.717003,3374
+KPWA,Wiley Post Airport,KPWA,,Oklahoma City,US,35.534199,-97.647102,1300
+KPWC,Pine River Regional Airport,KPWC,,Pine River,US,46.724800,-94.381699,1295
+KPWD,Sher Wood Airport,KPWD,,Plentywood,US,48.790298,-104.533997,2250
+KPWG,Mc Gregor Executive Airport,KPWG,,Waco,US,31.484900,-97.316498,592
+KPWK,Chicago Executive Airport,KPWK,,Chicago/Prospect Heights/Wheeling,US,42.114222,-87.901494,647
+KPWM,Portland International Jetport Airport,KPWM,PWM,Portland,US,43.646198,-70.309303,76
+KPWT,Bremerton National Airport,KPWT,PWT,Bremerton,US,47.490200,-122.764999,444
+KPXE,Perry Houston County Airport,KPXE,,Perry,US,32.510601,-83.767303,418
+KPYG,Pageland Airport,KPYG,,Pageland,US,34.742100,-80.345200,575
+KPYM,Plymouth Municipal Airport,KPYM,,Plymouth,US,41.909000,-70.728798,148
+KPYN,Piedmont Municipal Airport,KPYN,,Piedmont,US,37.126701,-90.712898,467
+KPYP,Centre-Piedmont-Cherokee County Regional Airport,KPYP,,Centre,US,34.089977,-85.610069,596
+KPYX,Perryton Ochiltree County Airport,KPYX,,Perryton,US,36.412899,-100.751999,2918
+KPZQ,Presque Isle County Airport,KPZQ,,Rogers City,US,45.407101,-83.812897,670

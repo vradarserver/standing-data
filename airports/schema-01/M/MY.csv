@@ -1,0 +1,117 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MY00,Sieg's Farm Airport,MY00,,Truman,US,43.894100,-94.493896,1060
+MY01,Roan Airport,MY01,,Warren,US,48.145802,-96.752602,860
+MY03,Braun's Airport,MY03,,Sleepy Eye,US,44.281601,-94.640503,1009
+MY04,Koch's Personal Field,MY04,,Taunton,US,44.660000,-96.037300,1130
+MY06,Ramerth Airport,MY06,,Fulda,US,43.831402,-95.555298,1500
+MY07,Nord Field,MY07,,Wolverton,US,46.583302,-96.606499,948
+MY10,Deters Farms Airport,MY10,,Spring Grove,US,43.561100,-91.681503,1220
+MY11,Gilgenbach's Airport,MY11,,Taopi,US,43.521400,-92.658501,1320
+MY12,Dykstra Acreage Airport,MY12,,Trosky,US,43.880798,-96.253098,1690
+MY13,Swan Field,MY13,,Saginaw,US,46.869301,-92.457100,1345
+MY15,Kastanek Airport,MY15,,Pierz,US,45.955799,-93.989403,1320
+MY17,Swanson Private Airport,MY17,,Goodridge,US,48.088902,-95.774696,1170
+MY18,Lino Air Park,MY18,,Lino Lakes,US,45.187199,-93.130501,907
+MY19,Schwenk Airport,MY19,,Murdock,US,45.170799,-95.392502,1082
+MY20,Prudential Helistop,MY20,,Plymouth,US,45.063900,-93.448601,956
+MY21,Kollar's Shoreview Marine Seaplane Base,MY21,,Shoreview,US,45.033298,-93.125198,886
+MY22,Hazelglade Resort Seaplane Base,MY22,,Wahkon,US,46.141602,-93.521103,1250
+MY23,Andings Landing Seaplane Base,MY23,,Chanhassen,US,44.880501,-93.608597,942
+MY24,Falk Private Airport,MY24,,Park Rapids,US,46.862202,-95.052200,1443
+MY25,Knapp Personal Use Airport,MY25,,Foxhome,US,46.279999,-96.331497,1018
+MY26,Minnesota Valley Health Center Heliport,MY26,,Le Sueur,US,44.453300,-93.915703,839
+MY28,Pinetree Airpark,MY28,,Harris,US,45.579800,-92.963097,930
+MY29,Kaiser's Airstrip,MY29,,Lake Park,US,46.796902,-96.099602,1400
+MY30,Compressor Station 2207 Heliport,MY30,,Ada,US,47.240200,-96.525597,901
+MY32,Rosacker's Nr 2 Seaplane Base,MY32,,Deerwood,US,46.364399,-93.860001,1261
+MY33,Rosacker's Nr 1 Seaplane Base,MY33,,New Brighton,US,45.076900,-93.204399,865
+MY34,Jorgensen's Landing Seaplane Base,MY34,,Prior Lake,US,44.739399,-93.395798,898
+MY35,Walker Field,MY35,,Afton,US,44.933498,-92.817703,902
+MY36,Fudpucker International Seaplane Base,MY36,,Excelsior,US,44.908298,-93.583603,930
+MY37,Thomas Field,MY37,,Eyota,US,43.981076,-92.246554,1285
+MY38,Irons Point Seaplane Base,MY38,,Tower,US,47.843300,-92.350700,1358
+MY42,Mathis Airport,MY42,,Gonvick,US,47.863800,-95.527000,1170
+MY43,Becker Personal Airport,MY43,,St Francis,US,45.402699,-93.389397,920
+MY44,Rice Memorial Hospital Heliport,MY44,,Willmar,US,45.120098,-95.046600,1179
+MY46,Hay Shakers Airport,MY46,,Nicollet,US,44.279202,-94.213303,995
+MY47,Guggenberger Airport,MY47,,Sartell,US,45.604698,-94.210800,1050
+MY48,Lake Fremont Seaplane Base,MY48,,Zimmerman,US,45.457500,-93.578300,974
+MY49,Anderson Airport,MY49,,Bear River,US,47.787399,-93.060501,1310
+MY50,Frontenac Airport,MY50,,Frontenac,US,44.502701,-92.361298,793
+MY52,Turkey Track Airport,MY52,,Coates,US,44.718601,-93.044098,923
+MY54,Cloverleaf-East Bemidji Airport,MY54,,Bemidji,US,47.438301,-94.812202,1445
+MY56,Robertson Field,MY56,,Hibbing,US,47.252399,-92.859398,1290
+MY57,Fedor Airport,MY57,,Holdingford,US,45.763302,-94.457497,1175
+MY58,Home-Base Airport,MY58,,Holloway,US,45.238800,-95.925301,1020
+MY59,Gasper Airport,MY59,,Euclid,US,47.901600,-96.612297,910
+MY60,Hagen Airport,MY60,,Richville,US,46.502701,-95.619797,1370
+MY62,"Ultraflyte, Inc Ultralightport",MY62,,Jenkins,US,46.665199,-94.343300,1270
+MY64,Schjeldrup Airport,MY64,,Felton,US,47.031101,-96.602303,903
+MY65,University of Mn Hospitals & Clinics Heliport,MY65,,Minneapolis,US,44.971901,-93.234398,890
+MY66,North Star Ranch Airport,MY66,,Onamia,US,46.070499,-93.847198,1330
+MY68,Johnsons Aero Repair Airport,MY68,,Wheaton,US,45.777199,-96.391403,1028
+MY71,Mueller Airport,MY71,,Georgetown,US,47.126400,-96.780602,880
+MY72,Isle Private Airport,MY72,,Isle,US,46.159698,-93.461304,1271
+MY73,Lake Pulaski Seaplane Base,MY73,,Buffalo,US,45.198601,-93.844704,958
+MY76,Johnson'S Sea Landing Seaplane Base,MY76,,Tower,US,47.856094,-92.391675,1300
+MY77,North Memorial Heliport,MY77,,Robbinsdale,US,45.013901,-93.322502,930
+MY78,Sunrise Airport,MY78,,Stacy,US,45.429100,-92.986298,910
+MY79,Children's Hospital  -St Paul Heliport,MY79,,St Paul,US,44.942501,-93.109703,785
+MY80,Rosenberg Airport,MY80,,Ceylon,US,43.522202,-94.582497,1255
+MY82,Du Fresne Airport,MY82,,Forest Lake,US,45.213001,-93.074699,900
+MY83,Safe Air Seaplane Base,MY83,,Longville,US,46.986599,-94.124397,1306
+MY84,Sioux Valley Hospital Heliport,MY84,,New Ulm,US,44.312698,-94.475502,879
+MY85,Advance Machine Company Heliport,MY85,,Plymouth,US,45.001900,-93.469704,973
+MY86,Johnson Seaplane Base,MY86,,Rockford,US,45.150799,-93.739998,970
+MY87,St Cloud Hospital Heliport,MY87,,St Cloud,US,45.545799,-94.057503,1024
+MY88,Cary Airport,MY88,,Park Rapids,US,46.857498,-94.983101,1413
+MY89,Pavek Personal Airport,MY89,,Pine City,US,45.908298,-92.905800,980
+MY90,Al's Due North Airport,MY90,,North Branch,US,45.482201,-92.988503,915
+MY91,Douglas County Hospital Heliport,MY91,,Alexandria,US,45.873600,-95.377296,1418
+MY92,Grohnke Field,MY92,,Braham,US,45.728600,-93.288300,960
+MY93,North Air Seaplane Base,MY93,,Perham,US,46.610833,-95.704444,1370
+MY94,Country Haven Airport,MY94,,Cloquet,US,46.752499,-92.419197,1309
+MY95,Swanson Field,MY95,,Crown,US,45.446400,-93.382797,935
+MY96,Quist Seaplane Base,MY96,,Faribault,US,44.416698,-93.330803,1004
+MY97,Nielsen's Airport,MY97,,Farmington,US,44.598000,-93.126900,990
+MY98,Pake Airport,MY98,,Felton,US,47.045502,-96.665604,898
+MY99,Johnston Airport,MY99,,Hawley,US,46.857498,-96.235199,1360
+MYA0,Mores Island Airport,MYA0,,Mores Island,BS,26.317699,-77.563599,10
+MYAB,Clarence A. Bain Airport,MYAB,MAY,Mangrove Cay,BS,24.287701,-77.684601,19
+MYAK,Congo Town Airport,MYAK,COX,Andros,BS,24.158701,-77.589798,15
+MYAM,Marsh Harbour International Airport,MYAM,MHH,Marsh Harbour,BS,26.511400,-77.083504,6
+MYAN,San Andros Airport,MYAN,SAQ,Andros Island,BS,25.053801,-78.049004,5
+MYAP,Spring Point Airport,MYAP,AXP,Spring Point,BS,22.441799,-73.970901,11
+MYAT,Treasure Cay Airport,MYAT,TCB,Treasure Cay,BS,26.745300,-77.391296,8
+MYBS,South Bimini Airport,MYBS,BIM,South Bimini,BS,25.699900,-79.264702,10
+MYCA,Arthur's Town Airport,MYCA,ATC,Arthur's Town,BS,24.629400,-75.673798,18
+MYCB,New Bight Airport,MYCB,TBI,Cat Island,BS,24.316667,-75.454167,13
+MYCH,Hawks News Airport,MYCH,,Hawks News,BS,24.153601,-75.519997,3
+MYCI,Colonel Hill Airport,MYCI,CRI,Colonel Hill,BS,22.745600,-74.182404,5
+MYCS,Cay Sal Airport,MYCS,,Cay Sal,BS,23.696400,-80.321297,3
+MYCX,Cutlass Bay Airport,MYCX,,Cutlass Bay,BS,24.148899,-75.398102,3
+MYCZ,AUTEC Heliport,MYCZ,,Andros Town,BS,24.709722,-77.772500,37
+MYEB,Black Point Airstrip,MYEB,,Black Point,BS,24.089488,-76.397917,10
+MYEF,Exuma International Airport,MYEF,GGT,George Town,BS,23.562599,-75.877998,9
+MYEG,George Town Airport,MYEG,,George Town,BS,23.466700,-75.781700,5
+MYEH,North Eleuthera Airport,MYEH,ELH,North Eleuthera,BS,25.474899,-76.683502,13
+MYEM,Governor's Harbour Airport,MYEM,GHB,Governor's Harbour,BS,25.284700,-76.331001,26
+MYER,Rock Sound Airport,MYER,RSD,Rock Sound,BS,24.895079,-76.176882,10
+MYGF,Grand Bahama International Airport,MYGF,FPO,Freeport,BS,26.558701,-78.695602,7
+MYGM,Auxiliary Airfield,MYGM,,Grand Bahama,BS,26.631901,-78.359200,8
+MYGW,West End Airport,MYGW,WTD,West End,BS,26.685301,-78.974998,5
+MYIG,Inagua Airport,MYIG,IGA,Matthew Town,BS,20.975000,-73.666901,8
+MYLD,Deadman's Cay Airport,MYLD,LGI,Deadman's Cay,BS,23.179001,-75.093597,9
+MYLS,Stella Maris Airport,MYLS,SML,Stella Maris,BS,23.582317,-75.268621,10
+MYMM,Mayaguana Airport,MYMM,MYG,Mayaguana,BS,22.379499,-73.013496,11
+MYNN,Lynden Pindling International Airport,MYNN,NAS,Nassau,BS,25.039000,-77.466202,16
+MYSM,San Salvador Airport,MYSM,ZSA,San Salvador,BS,24.063299,-74.524002,24
+MYX4,Big Whale Cay Airport,MYX4,,Big Whale Cay,BS,25.399599,-77.791000,16
+MYX5,Cistern Field,MYX5,,Cistern Field,BS,25.778700,-77.885201,18
+MYX6,Oakes Field-Nassau,MYX6,,Nassau,BS,25.040501,-77.351501,10
+MYX7,Rudder Cut Cay Airport,MYX7,,Rudder Cut Cay,BS,23.886400,-76.253700,10
+MYX8,Darby Island Airport,MYX8,,Darby Island,BS,23.850300,-76.228203,5
+MYXC,Hog Key Airport,MYXC,,Long Island,BS,23.600700,-75.339302,5
+MYXH,Sampson Cay Airport,MYXH,,Sampson Cay,BS,24.216000,-76.478500,8
+MYZ2,Cape Eleuthera Airport,MYZ2,,Cape Eleuthera,BS,24.789900,-76.293999,9
+MYZ3,Little Whale Cay Berry Islands Airport,MYZ3,,Little Whale Cay,BS,25.441799,-77.761703,5

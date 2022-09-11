@@ -1,0 +1,34 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EHAL,Ameland Airport,EHAL,,Ameland,NL,53.451698,5.677220,11
+EHAM,Amsterdam Airport Schiphol,EHAM,AMS,Amsterdam,NL,52.308601,4.763890,-11
+EHBD,Budel Airport,EHBD,,Weert,NL,51.255299,5.601390,114
+EHBK,Maastricht Aachen Airport,EHBK,MST,Maastricht,NL,50.911701,5.770140,375
+EHDL,Deelen Air Base,EHDL,QAR,Arnhem,NL,52.060600,5.873060,158
+EHDP,De Peel Air Base,EHDP,,Venray,NL,51.517300,5.855720,98
+EHDR,Drachten Airport,EHDR,,Drachten,NL,53.119202,6.129720,14
+EHDS,Aero Club Salland,EHDS,,Lemelerveld,NL,52.468333,6.333333,10
+EHEH,Eindhoven Airport,EHEH,EIN,Eindhoven,NL,51.450100,5.374530,74
+EHGG,Eelde Airport,EHGG,GRQ,Groningen,NL,53.119701,6.579440,17
+EHGR,Gilze Rijen Air Base,EHGR,GLZ,Breda,NL,51.567402,4.931830,49
+EHHA,Amsterdam Heliport,EHHA,,Amsterdam,NL,52.414625,4.804802,1
+EHHO,Hoogeveen Airport,EHHO,,Hoogeveen,NL,52.730801,6.516110,40
+EHHV,Hilversum Airport,EHHV,,Hilversum,NL,52.191898,5.146940,3
+EHKD,De Kooy Airport,EHKD,DHR,Den Helder,NL,52.923401,4.780620,3
+EHLE,Lelystad Airport,EHLE,LEY,Lelystad,NL,52.460300,5.527220,-13
+EHLW,Leeuwarden Air Base,EHLW,LWR,Leeuwarden,NL,53.228600,5.760560,3
+EHMC,Air Operations Control Station Nieuw Milligen,EHMC,,Nieuw Milligen,NL,52.223173,5.767822,171
+EHMZ,Midden-Zeeland Airport,EHMZ,,Middelburg,NL,51.512199,3.731110,6
+EHRD,Rotterdam Airport,EHRD,RTM,Rotterdam,NL,51.956902,4.437220,-15
+EHSB,Soesterberg Air Base,EHSB,UTC,Soesterberg,NL,52.127300,5.276190,66
+EHSE,Seppe Airport,EHSE,,Hoeven,NL,51.554699,4.552500,30
+EHST,Stadskanaal Airport,EHST,,Stadskanaal,NL,52.998600,7.022780,14
+EHTE,Teuge Airport,EHTE,,Deventer,NL,52.244701,6.046670,17
+EHTL,Terlet Airport,EHTL,,Terlet,NL,52.057201,5.924440,276
+EHTP,Maasvlakte Heliport,EHTP,,Rotterdam,NL,51.959400,4.090000,3
+EHTW,Twenthe Airport,EHTW,ENS,Enschede,NL,52.270000,6.874170,114
+EHTX,Texel Airport,EHTX,,Texel,NL,53.115299,4.833610,2
+EHVB,Valkenburg Naval Air Base,EHVB,LID,Leiden,NL,52.166100,4.417940,1
+EHVK,Volkel Air Base,EHVK,UDE,Uden,NL,51.656399,5.708610,72
+EHVL,Vlieland Heliport,EHVL,,Vlieland,NL,53.296665,5.085833,37
+EHWO,Woensdrecht Air Base,EHWO,WOE,Bergen Op Zoom,NL,51.449100,4.342030,63
+EHYP,Ĳmuiden Heliport,EHYP,,Ĳmuiden,NL,52.469799,4.593300,1

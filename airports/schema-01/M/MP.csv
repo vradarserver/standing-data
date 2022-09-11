@@ -1,0 +1,32 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MP00,Cap Justiniano Montenegro Airport,MP00,,Pedasi,PA,7.556880,-80.023300,16
+MP01,Finca Ceiba Airport,MP01,,Finca Jaguá,PA,8.355000,-82.836403,52
+MP02,Finca 45 Airport,MP02,,Dos Caños,PA,9.543330,-82.733803,56
+MP03,La Cabezona Airport,MP03,,Guarumal,PA,8.338390,-82.503502,31
+MP17,Finca 67 Airport,MP17,,Changuinola,PA,9.434410,-82.499100,30
+MP18,Penonome Airport,MP18,,Penonome,PA,8.503830,-80.360298,282
+MP21,Alvaro Berroa Airport,MP21,,Nueva California,PA,8.770390,-82.664398,5000
+MP22,Ingenio Santa Rosa Airport,MP22,,Ingenio Santa Rosa,PA,8.195220,-80.658699,109
+MP23,Calzada Larga Airport,MP23,,Calzada Larga,PA,9.166280,-79.545097,394
+MP24,Chame Airport,MP24,,La Paz,PA,8.588460,-79.889702,141
+MP26,Punta Cocos Airport,MP26,,Punta Cocos,PA,8.224850,-78.904404,66
+MP27,Deborah Airport,MP27,,Guabito,PA,9.516140,-82.595497,20
+MPBO,Bocas Del Toro International Airport,MPBO,BOC,Isla Colón,PA,9.340850,-82.250801,10
+MPCE,Alonso Valderrama Airport,MPCE,CTD,Chitré,PA,7.987840,-80.409698,33
+MPCH,Cap Manuel Niño International Airport,MPCH,CHX,Changuinola,PA,9.458640,-82.516800,19
+MPDA,Enrique Malek International Airport,MPDA,DAV,David,PA,8.391000,-82.434998,89
+MPEJ,Enrique Adolfo Jimenez Airport,MPEJ,ONX,Colón,PA,9.356640,-79.867401,25
+MPFS,Fort Sherman Airport,MPFS,,Fort Sherman,PA,9.365090,-79.949799,10
+MPHO,Howard Airport,MPHO,BLB,Panamá City,PA,8.914790,-79.599602,52
+MPJE,Jaqué Airport,MPJE,JQE,Jaqué,PA,7.517780,-78.157204,29
+MPLP,Captain Ramon Xatruch Airport,MPLP,PLP,La Palma,PA,8.406670,-78.141701,30
+MPMG,Marcos A. Gelabert International Airport,MPMG,PAC,Albrook,PA,8.973340,-79.555603,31
+MPNU,Augusto Vergara Airport,MPNU,,Los Santos,PA,7.857380,-80.276100,69
+MPOA,Puerto Obaldia Airport,MPOA,,Puerto Obaldia,PA,8.686260,-77.524399,223
+MPRH,Cap Scarlet Martinez Airport,MPRH,,Rio Hato,PA,8.375880,-80.127899,105
+MPSA,Ruben Cantu Airport,MPSA,SYP,Santiago,PA,8.085600,-80.945297,272
+MPSM,Río Hato Airport,MPSM,RIH,Río Hato,PA,8.375833,-80.127778,105
+MPTO,Tocumen International Airport,MPTO,PTY,Tocumen,PA,9.071360,-79.383499,135
+MPVR,El Porvenir Airport,MPVR,,El Porvenir,PA,9.563420,-79.004097,17
+MPWN,San Blas Airport,MPWN,NBL,Wannukandi,PA,9.449600,-78.979500,17
+MPZL,Finca 32 Airport,MPZL,,La Dalia,PA,9.427090,-82.562698,23

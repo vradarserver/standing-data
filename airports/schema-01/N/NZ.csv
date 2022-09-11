@@ -1,0 +1,109 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+NZAA,Auckland International Airport,NZAA,AKL,Auckland,NZ,-37.008099,174.792007,23
+NZAE,Mount Tarawera Airport,NZAE,,Mount Tarawera,NZ,-38.233002,176.516998,3100
+NZAL,Avalon Heliport,NZAL,,Wellington,NZ,-41.186699,174.944000,93
+NZAN,Alfredton Airport,NZAN,,Alfredton,NZ,-40.698101,175.856003,500
+NZAP,Taupo Airport,NZAP,TUO,Taupo,NZ,-38.739700,176.084000,1335
+NZAR,Ardmore Airport,NZAR,AMZ,Manurewa,NZ,-37.029701,174.973007,111
+NZBA,Balclutha Aerodrome,NZBA,,Balclutha,NZ,-46.243301,169.750000,22
+NZBC,ASB Bank Centre Heliport,NZBC,,Aukland,NZ,-36.849899,174.761993,468
+NZBW,Burwood Hospital Heliport,NZBW,,Christchurch,NZ,-43.479698,172.686996,16
+NZCB,Centre Bush Aerodrome,NZCB,,Centre Bush,NZ,-46.040001,168.311996,255
+NZCH,Christchurch International Airport,NZCH,CHC,Christchurch,NZ,-43.489399,172.531998,123
+NZCI,Chatham Islands-Tuuta Airport,NZCI,CHT,Waitangi,NZ,-43.810001,-176.457001,43
+NZDC,Dunedin City Heliport,NZDC,,Dunedin,NZ,-45.883301,170.507996,5
+NZDH,Dunedin Hospital Heliport,NZDH,,Dunedin,NZ,-45.868599,170.511002,159
+NZDN,Dunedin Airport,NZDN,DUD,Dunedin,NZ,-45.928101,170.197998,4
+NZFG,Fern Gully Heliport,NZFG,,Oban,NZ,-46.894983,168.111033,70
+NZFI,Feilding Airport,NZFI,,Feilding,NZ,-40.255798,175.604996,214
+NZGB,Great Barrier Aerodrome,NZGB,GBZ,Claris,NZ,-36.241402,175.472000,20
+NZGI,Garden City Heliport,NZGI,,Christchurch,NZ,-43.493301,172.548004,89
+NZGS,Gisborne Airport,NZGS,GIS,Gisborne,NZ,-38.663300,177.977997,15
+NZGT,Glentanner Airport,NZGT,GTN,Glentanner Station,NZ,-43.906700,170.128006,1824
+NZHA,Hawera Airport,NZHA,,Hawera,NZ,-39.553299,174.266998,371
+NZHK,Hokitika,NZHK,HKK,Hokitika,NZ,-42.713611,170.985278,146
+NZHN,Hamilton International Airport,NZHN,HLZ,Hamilton,NZ,-37.866699,175.332001,172
+NZIR,McMurdo Station Ice Runway,NZIR,,McMurdo Station,AQ,-77.853996,166.468994,1
+NZJA,Tauranga Hospital Heliport,NZJA,,Tauranga,NZ,-37.705799,176.149002,17
+NZJB,Wairau Hospital Heliport,NZJB,,Blenheim,NZ,-41.536900,173.944000,100
+NZJC,Christchurch Hospital Heliport,NZJC,,Christchurch,NZ,-43.536701,172.621994,55
+NZJE,Dargaville Hospital Heliport,NZJE,,Dargaville,NZ,-35.928902,173.876007,102
+NZJG,Gisborne Hospital Heliport,NZJG,,Gisborne,NZ,-38.641102,178.003998,51
+NZJH,Hastings Hospital Heliport,NZJH,,Hastings,NZ,-39.629236,176.824040,36
+NZJI,Bay of Islands Hospital Heliport,NZJI,,Kawakawa,NZ,-35.385834,174.070282,200
+NZJK,Kaitaia Hospital Heliport,NZJK,,Kaitaia,NZ,-35.118301,173.261002,100
+NZJL,Aukland Hospital Helipad,NZJL,,Aukland,NZ,-36.859200,174.768997,204
+NZJM,Palmerston North Hospital Heliport,NZJM,,Palmerston North,NZ,-40.337799,175.619003,128
+NZJN,North Shore Hospital Heliport,NZJN,,North Shore City,NZ,-36.781700,174.759003,70
+NZJO,Rotorua Hospital Heliport,NZJO,,Rotorua,NZ,-38.131901,176.246994,979
+NZJP,Te Puia Springs Hospital Heliport,NZJP,,Te Puia Springs,NZ,-38.054816,178.304291,760
+NZJQ,Taranaki Base Hospital Heliport,NZJQ,,New Plymouth,NZ,-39.073299,174.054993,104
+NZJR,Whangarei Hospital Heliport,NZJR,,Whangarei,NZ,-35.734699,174.302994,154
+NZJS,Southland - Kew Hospital Heliport,NZJS,,Invercargill,NZ,-46.437199,168.358994,29
+NZJT,Taumarunui Hospital Heliport,NZJT,,Taumarunui,NZ,-38.889702,175.251007,675
+NZJU,Wanganui Hospital Heliport,NZJU,,Wanganui,NZ,-39.943298,175.039001,42
+NZJV,Waitakere Hospital Heliport,NZJV,,Waitakere,NZ,-36.870602,174.630997,70
+NZJW,Rawene Hospital Heliport,NZJW,,Rawene,NZ,-35.408298,173.516663,149
+NZJX,Tokoroa Hospital Heliport,NZJX,,Tokoroa,NZ,-38.231899,175.860992,1200
+NZJY,Wairoa Hospital Heliport,NZJY,,Wairoa,NZ,-39.042500,177.414001,59
+NZJZ,Taupo Hospital Heliport,NZJZ,,Taupo,NZ,-38.698601,176.098999,1349
+NZKD,Motu Kaikoura Island Aerodrome,NZKD,,Kaikoura Island,NZ,-36.178101,175.324005,400
+NZKH,Kenepuru Hospital Heliport,NZKH,,Wellington,NZ,-41.145000,174.835007,89
+NZKK,Kerikeri Airport,NZKK,KKE,Kerikeri,NZ,-35.262798,173.912003,492
+NZKT,Kaitaia Airport,NZKT,KAT,Kaitaia,NZ,-35.070000,173.285004,270
+NZKU,Kupe Helipad,NZKU,,Kupe Platform,NZ,-39.799999,174.117004,100
+NZLD,Limestone Downs Airport,NZLD,,Limestone Downs,NZ,-37.480000,174.744995,596
+NZLF,Rotorua Lakefront Heliport,NZLF,,Rotorua,NZ,-38.129398,176.253006,935
+NZLX,Alexandra Airport,NZLX,ALR,Alexandra,NZ,-45.211700,169.373001,752
+NZMB,Mechanics Bay Heliport,NZMB,MHB,Auckland City,NZ,-36.846526,174.787872,5
+NZMH,Wairarapa Hospital Heliport,NZMH,,Masterton,NZ,-40.947498,175.675003,367
+NZML,Molesworth Airport,NZML,,Molesworth,NZ,-42.083000,173.283005,2813
+NZMQ,Oaonui Heliport,NZMQ,,Oaonui,NZ,-39.399841,173.809860,112
+NZMR,Murchison Airport,NZMR,,Murchison,NZ,-41.796700,172.315002,531
+NZMS,Hood Airport,NZMS,MRO,Masterton,NZ,-40.973301,175.634003,364
+NZMX,Maari Heliport,NZMX,,Maari Platform,NZ,-39.974998,173.292007,60
+NZMZ,Matakana Island Airport,NZMZ,,Matakana Island,NZ,-37.599998,176.082993,95
+NZNE,North Shore Aerodrome,NZNE,,Dairy Flat,NZ,-36.656700,174.654999,210
+NZNH,Nelson Hospital Heliport,NZNH,,Nelson,NZ,-41.288300,173.272003,180
+NZNP,New Plymouth Airport,NZNP,NPL,New Plymouth,NZ,-39.008598,174.179001,97
+NZNR,Napier,NZNR,NPE,Napier,NZ,-39.465833,176.870000,6
+NZNS,Nelson Airport,NZNS,NSN,Nelson,NZ,-41.298302,173.220993,17
+NZNV,Invercargill Airport,NZNV,IVC,Invercargill,NZ,-46.412399,168.313004,5
+NZOB,Ocean Beach Heliport,NZOB,,Ocean Beach,NZ,-46.589699,168.306000,20
+NZOI,Motiti Island Airport,NZOI,,Motiti Island,NZ,-37.632999,176.417007,135
+NZOM,Omaka Blenheim Airport,NZOM,,Blenheim,NZ,-41.540001,173.921997,102
+NZPG,McMurdo Station Pegasus Field,NZPG,,McMurdo Station,AQ,-77.963402,166.524994,18
+NZPM,Palmerston North,NZPM,PMR,Palmerston North,NZ,-40.320556,175.616944,151
+NZPN,Picton Aerodrome,NZPN,PCN,Picton,NZ,-41.346100,173.955994,161
+NZPP,Kapiti Coast Airport,NZPP,PPQ,Paraparaumu,NZ,-40.904722,174.989167,22
+NZQN,Queenstown International Airport,NZQN,ZQN,Queenstown,NZ,-45.021099,168.738998,1171
+NZQW,Queens Wharf Heliport,NZQW,,Wellington,NZ,-41.285801,174.779999,10
+NZRC,Ryans Creek Aerodrome,NZRC,SZS,Oban,NZ,-46.899700,168.100998,62
+NZRI,Rangitata Island Airport,NZRI,,Rangitata Island,NZ,-44.084999,171.416000,288
+NZRO,Rotorua Regional Airport,NZRO,ROT,Rotorua,NZ,-38.109200,176.317001,935
+NZRT,Rangiora Airfield,NZRT,,Rangiora,NZ,-43.290001,172.542007,180
+NZSD,Stratford Airport,NZSD,,Stratford,NZ,-39.318901,174.309998,951
+NZTG,Tauranga Airport,NZTG,TRG,Tauranga,NZ,-37.671902,176.195999,13
+NZTO,Tokoroa Airfield,NZTO,TKZ,Tokoroa,NZ,-38.236698,175.891998,1220
+NZTQ,Te Kuiti Hospital Heliport,NZTQ,,Te Kuiti,NZ,-38.333900,175.151993,250
+NZTS,Taharoa Aerodrome,NZTS,THH,Taharoa,NZ,-38.181099,174.707993,69
+NZTT,Te Kuiti Airfield,NZTT,,Te Kuiti,NZ,-38.303299,175.147003,161
+NZTU,Timaru,NZTU,TIU,Timaru,NZ,-44.302778,171.225278,89
+NZUA,Maui A Heliport,NZUA,,Maui A Platform,NZ,-39.558300,173.449997,157
+NZUB,Maui B Heliport,NZUB,,Maui B Platform,NZ,-39.650002,173.307999,114
+NZUI,Tui Helipad,NZUI,,Tui Platform,NZ,-39.431900,173.233002,60
+NZUK,Pukaki Airport,NZUK,TWZ,Twitzel,NZ,-44.235001,170.117996,1575
+NZUR,Murchison Hospital Heliport,NZUR,,Murchison,NZ,-41.806400,172.328995,573
+NZVR,Taihape Airport,NZVR,,Taihape,NZ,-39.685001,175.789001,1550
+NZWB,Woodbourne Airport,NZWB,BHE,Blenheim,NZ,-41.518299,173.869995,109
+NZWD,Williams Field,NZWD,,McMurdo Station,AQ,-77.867401,167.057007,68
+NZWE,Kauaroa Bay Heliport,NZWE,,Poukaraka Flats,NZ,-36.829700,175.065994,15
+NZWF,Wanaka,NZWF,WKA,Wanaka,NZ,-44.722222,169.245556,1142
+NZWG,Wigram Airport,NZWG,,Christchurch,NZ,-43.551102,172.552994,74
+NZWH,Wellington Hospital Heliport,NZWH,,Wellington,NZ,-41.308300,174.779007,290
+NZWK,Whakatane,NZWK,WHK,Whakatane,NZ,-37.920556,176.914167,20
+NZWN,Wellington International Airport,NZWN,WLG,Wellington,NZ,-41.327202,174.804993,41
+NZWO,Wairoa Airport,NZWO,WIR,Wairoa,NZ,-39.006901,177.406998,42
+NZWR,Whangarei,NZWR,WRE,Whangarei,NZ,-35.768333,174.365000,133
+NZWS,Westport,NZWS,WSZ,Westport,NZ,-41.738056,171.580833,13
+NZWU,Wanganui Airport,NZWU,WAG,Wanganui,NZ,-39.962200,175.024994,27

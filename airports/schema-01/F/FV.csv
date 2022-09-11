@@ -1,0 +1,72 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FVAB,Aberdeen Airport,FVAB,,Aberdeen,ZW,-18.167000,32.667000,4495
+FVAE,Braebourne Airport,FVAE,,Braebourne,ZW,-16.667000,31.233000,3600
+FVBI,Binga Airport,FVBI,,Binga,ZW,-17.648100,27.317499,1950
+FVBL,Mabalauta Airport,FVBL,,Mabalauta,ZW,-21.917000,31.466999,950
+FVBM,Bumi Airport,FVBM,,Bumi,ZW,-16.816999,28.350000,1650
+FVBO,Bosbury Airport,FVBO,,Bosbury,ZW,-18.216999,30.132999,3940
+FVCC,C.C. Strip,FVCC,,C.C. Strip,ZW,-17.433001,30.299999,4050
+FVCD,Chirundu Airport,FVCD,,Chirundu,ZW,-16.000000,28.900000,1310
+FVCE,Celina Airport,FVCE,,Celina,ZW,-17.517000,30.850000,4058
+FVCH,Chipinge Airport,FVCH,CHJ,Chipinge,ZW,-20.206699,32.628300,3720
+FVCM,Cam+Motor Airport,FVCM,,Cam+Motor,ZW,-18.299999,29.966999,3720
+FVCP,Charles Prince Airport,FVCP,,Harare,ZW,-17.751600,30.924700,4845
+FVCR,Chizarira Airport,FVCR,,Chizarira,ZW,-17.683001,27.900000,3280
+FVCV,Chivu Airport,FVCV,,Chivu,ZW,-19.033001,30.900000,4790
+FVCZ,Buffalo Range Airport,FVCZ,BFO,Chiredzi,ZW,-21.008101,31.578600,1421
+FVDA,Dawsons Airport,FVDA,,Dawsons,ZW,-17.017000,30.900000,4800
+FVDE,Deka Airport,FVDE,,Deka,ZW,-18.100000,26.716999,1750
+FVDU,Dudley Airport,FVDU,,Dudley,ZW,-18.283001,31.483000,4986
+FVED,Eduan Airport,FVED,,Eduan,ZW,-18.767000,29.783001,3900
+FVFA,Victoria Falls International Airport,FVFA,VFA,Victoria Falls,ZW,-18.095900,25.839001,3490
+FVFG,Fothergill Airport,FVFG,,Fothergill,ZW,-16.700001,28.667000,1630
+FVFI,Filabusi Airport,FVFI,,Filabusi,ZW,-20.533001,29.267000,3525
+FVGD,Gwanda Airport,FVGD,,Gwanda,ZW,-20.900000,29.000000,3328
+FVGT,Gaths Mine Airport,FVGT,,Gaths Mine,ZW,-19.983000,30.500000,3454
+FVGW,Gweru Airport,FVGW,,Gweru,ZW,-19.549999,29.733000,4660
+FVHP,Home Park Airport,FVHP,,Home Park,ZW,-18.200001,31.733000,5150
+FVHY,Hippo Valley Airport,FVHY,,Chiredzi,ZW,-21.049999,31.667000,1420
+FVIN,Induna Airport,FVIN,,Induna,ZW,-20.083000,28.700001,4489
+FVIT,Itafa Airport,FVIT,,Itafa,ZW,-18.299999,29.882999,3800
+FVJN,Joshua Mqabuko Nkomo International Airport,FVJN,BUQ,Bulawayo,ZW,-20.017401,28.617901,4359
+FVKB,Kariba International Airport,FVKB,KAB,Kariba,ZW,-16.519800,28.885000,1706
+FVKK,Kwekwe Airport,FVKK,,Kwekwe,ZW,-18.933300,29.842800,4000
+FVKW,Mkwasine Airport,FVKW,,Mkwasine,ZW,-20.799999,31.816999,1620
+FVKZ,Kezi Airport,FVKZ,,Kezi,ZW,-20.917000,28.483000,3300
+FVLA,Langford Airport,FVLA,,Langford,ZW,-17.933001,30.950001,4600
+FVLG,Longuiel Airport,FVLG,,Longuiel,ZW,-17.000000,29.632999,4200
+FVLU,Lusulu Airport,FVLU,,Lusulu,ZW,-18.083000,27.867001,3240
+FVMA,Marondera Airport,FVMA,,Marondera,ZW,-18.183001,31.466999,5370
+FVMB,Mashumbi Airport,FVMB,,Mashumbi,ZW,-16.167000,30.566999,1240
+FVMF,Mabikwa Airport,FVMF,,Mabikwa,ZW,-18.733000,27.533001,3450
+FVMK,Mkonono Airport,FVMK,,Mkonono,ZW,-17.716999,30.417000,4650
+FVMN,Mana Pools Airport,FVMN,,Mana Pools,ZW,-15.767000,29.382999,1300
+FVMS,Middle Sabi Airport,FVMS,,Middle Sabi,ZW,-20.216999,32.367001,1510
+FVMT,Mutoko Airport,FVMT,,Mutoko,ZW,-17.431900,32.184502,3950
+FVMV,Masvingo International Airport,FVMV,MVZ,Masvingo,ZW,-20.055300,30.859100,3595
+FVMW,Murewa Airport,FVMW,,Murewa,ZW,-17.650000,31.799999,4579
+FVNY,Nyanyadzi Airport,FVNY,,Nyanyadzi,ZW,-19.733000,32.432999,1850
+FVPL,Plumtree Airport,FVPL,,Plumtree,ZW,-20.483000,27.783001,4527
+FVRA,Ratelshoek Airport,FVRA,,Ratelshoek,ZW,-20.167000,32.833000,3250
+FVRE,Renroc Airport,FVRE,,Renroc,ZW,-16.966999,29.566999,4200
+FVRG,Robert Gabriel Mugabe International Airport,FVRG,HRE,Harare,ZW,-17.931801,31.092800,4887
+FVRT,Rutenga Airport,FVRT,,Rutenga,ZW,-21.233000,30.733000,1825
+FVRU,Rusape Airport,FVRU,,Rusape,ZW,-18.533001,32.132999,4560
+FVSE,Sanyati Estate Airport,FVSE,,Sanyati Estate,ZW,-17.966999,29.216999,2790
+FVSN,Sun Yet Sen Airport,FVSN,,Sun Yet Sen,ZW,-21.333000,28.517000,2891
+FVSV,Spray View Airport,FVSV,,Spray View,ZW,-17.917000,25.816999,3210
+FVSX,Sengwa Gorge Airport,FVSX,,Sengwa Gorge,ZW,-18.167000,28.850000,2900
+FVSY,Siyalima Airport,FVSY,,Siyalima,ZW,-16.632999,30.650000,4540
+FVTA,Tashinga Airport,FVTA,,Tashinga,ZW,-16.816999,28.433001,1630
+FVTD,Tinfields Airport,FVTD,,Tinfields,ZW,-19.950001,31.433001,3600
+FVTE,Tengwe Airport,FVTE,,Tengwe,ZW,-17.117001,29.617001,4000
+FVTJ,Tonje Airport,FVTJ,,Tonje,ZW,-20.316999,32.349998,1500
+FVTL,Thornhill Air Base,FVTL,GWE,Gweru,ZW,-19.436399,29.861900,4680
+FVTS,Tsholothso Airport,FVTS,,Tsholothso,ZW,-19.767000,27.767000,3580
+FVTU,Tuli Airport,FVTU,,Tuli,ZW,-21.934925,29.196339,1940
+FVWD,Wedza Airport,FVWD,,Wedza,ZW,-18.617001,31.583000,4600
+FVWN,Hwange National Park Airport,FVWN,HWN,Hwange,ZW,-18.629900,27.021000,3543
+FVWT,Hwange Airport,FVWT,WKI,Hwange,ZW,-18.362499,26.516701,2500
+FVYT,Inyati Airport,FVYT,,Inyati,ZW,-19.700001,28.850000,4400
+FVZC,Zisco Airport,FVZC,,Zisco,ZW,-19.033001,29.716999,3975
+FVZK,Zaka Airport,FVZK,,Zaka,ZW,-20.350000,31.417000,2550

@@ -1,0 +1,22 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+DIAP,Port Bouet Airport,DIAP,ABJ,Abidjan,CI,5.261390,-3.926290,21
+DIAU,Abengourou Airport,DIAU,OGO,Abengourou,CI,6.715560,-3.470280,676
+DIBC,Bocanda Airport,DIBC,,Bocanda,CI,7.033000,-4.533000,427
+DIBI,Boundiali Airport,DIBI,BXI,Boundiali,CI,9.533000,-6.467000,1286
+DIBN,Bouna Airport,DIBN,BQO,Bouna,CI,9.277500,-3.025280,1148
+DIBU,Soko Airport,DIBU,BDK,Bondoukou,CI,8.017220,-2.761940,1247
+DIDB,Dabou Airport,DIDB,,Dabou,CI,5.351385,-4.403458,141
+DIDK,Dimbokro Airport,DIDK,DIM,Dimbokro,CI,6.651670,-4.640560,344
+DIFK,Ferkessedougou Airport,DIFK,FEK,Ferkessedougou,CI,9.600000,-5.200000,1102
+DIGA,Gagnoa Airport,DIGA,GGN,Gagnoa,CI,6.133000,-5.950000,732
+DIGL,Guiglo Airport,DIGL,GGO,Guiglo,CI,6.524990,-7.478610,722
+DIGN,Nero-Mer Airport,DIGN,BBV,Grand-Béréby,CI,4.643413,-6.923962,20
+DIKO,Korhogo Airport,DIKO,HGO,Korhogo,CI,9.387180,-5.556660,1214
+DIMN,Man Airport,DIMN,MJC,Man,CI,7.272222,-7.587500,1089
+DIOD,Odienne Airport,DIOD,KEO,Odienne,CI,9.500000,-7.567000,1365
+DIOF,Ouango Fitini Airport,DIOF,OFI,Ouango Fitini,CI,9.600000,-4.050000,974
+DISG,Seguela Airport,DISG,SEO,Seguela,CI,7.968330,-6.710830,1056
+DISP,San Pédro Airport,DISP,SPY,San Pédro,CI,-6.661111,4.746667,5906
+DISS,Sassandra Airport,DISS,ZSS,Sassandra,CI,4.928330,-6.132780,203
+DITB,Tabou Airport,DITB,TXU,Tabou,CI,4.437809,-7.362728,39
+DIYO,Yamoussoukro Airport,DIYO,ASK,Yamoussoukro,CI,6.903170,-5.365580,699

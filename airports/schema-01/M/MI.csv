@@ -1,0 +1,94 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MI00,Bonnie Field,MI00,,Rock,US,46.052200,-87.258202,970
+MI01,Fasel Field,MI01,,Avoca,US,43.057800,-82.676903,735
+MI02,Brablec Farms Airport,MI02,,Britton,US,41.987000,-83.804703,691
+MI03,Read Seaplane Base,MI03,,Curtis,US,46.168900,-85.793602,692
+MI04,Airborn Paraflite Ultralightport,MI04,,Ithaca,US,43.306900,-84.645798,758
+MI05,Crompton's Private Strip,MI05,,Clio,US,43.166698,-83.787498,680
+MI06,Lee Field,MI06,,Bennington,US,42.923100,-84.283302,810
+MI07,Dearborn Helistop,MI07,,Dearborn,US,42.297298,-83.227097,606
+MI08,Chrysler Corp Heliport,MI08,,Auburn Hills,US,42.653099,-83.224998,1060
+MI09,Milan Airport,MI09,,Milan,US,42.049999,-83.740196,706
+MI10,Hoerners Corners Airport,MI10,,De Witt,US,42.865299,-84.705498,800
+MI11,Crippen Field,MI11,,Charlotte,US,42.534199,-84.801399,890
+MI12,State Police Hq Heliport,MI12,,East Lansing,US,42.726700,-84.490303,860
+MI13,Minikey Airport,MI13,,Sheridan,US,43.161701,-85.061699,900
+MI14,Overflow Pad (Lower Pad) Heliport,MI14,,Ann Arbor,US,42.288898,-83.730499,780
+MI15,Wards Long Acres Airport,MI15,,Fair Haven,US,42.729198,-82.665199,618
+MI16,Independence Green Heliport,MI16,,Farmington,US,42.470001,-83.419403,850
+MI17,Hackley Hospital Emergency Heliport,MI17,,Muskegon,US,43.220299,-86.242302,628
+MI18,Cedarville Airport,MI18,,Flushing,US,43.093102,-83.836098,725
+MI19,Thorn Airport,MI19,,Custer,US,43.930000,-86.165604,780
+MI20,White O'Morn Heliport,MI20,,Chelsea,US,42.252602,-84.007401,960
+MI21,A.C. Miller Airport,MI21,,Frontier,US,41.737499,-84.564903,944
+MI22,Crump Airport,MI22,,Niles,US,41.873699,-86.202797,745
+MI23,Mckimmy Field,MI23,,Bridgeport,US,43.346901,-83.866699,600
+MI24,Wilson Township Airport,MI24,,East Jordan,US,45.141701,-85.006699,730
+MI25,Myers Airport,MI25,,Bridgman,US,41.922298,-86.545601,670
+MI26,Hynes Field,MI26,,Hartland,US,42.610901,-83.732697,978
+MI27,Haigh Airport,MI27,,Howell,US,42.612499,-83.854103,1000
+MI28,Dow Division Heliport,MI28,,Midland,US,43.592300,-84.224403,635
+MI29,Gooding Airport,MI29,,Whitmore Lake,US,42.376400,-83.792702,920
+MI30,Kidder Field,MI30,,Grand Rapids,US,42.936100,-85.621101,780
+MI31,Cornish Field,MI31,,Lawton,US,42.101501,-85.837898,910
+MI32,Ummc Heliport,MI32,,Ann Arbor,US,42.285900,-83.727997,802
+MI33,Adair Airstrip,MI33,,Richmond,US,42.792301,-82.639397,631
+MI34,Ingham Medical Helistop,MI34,,Lansing,US,42.702801,-84.553001,860
+MI35,Claucherty Airport,MI35,,Litchfield,US,42.077801,-84.829102,988
+MI36,Johnston Field,MI36,,Howell,US,42.609200,-83.813904,1005
+MI37,Wenning Landing Area Airport,MI37,,Marine City,US,42.755600,-82.558296,620
+MI38,Eichmeier Field,MI38,,Mason,US,42.602299,-84.426399,900
+MI39,Laszlo Airport,MI39,,Milan,US,42.075001,-83.608299,675
+MI40,Fairlane Plaza Heliport,MI40,,Dearborn,US,42.320900,-83.219398,614
+MI41,Crystal Airport,MI41,,St. Clair,US,42.831699,-82.534599,610
+MI42,B C Cobb Heliport,MI42,,Muskegon,US,43.255001,-86.238403,586
+MI43,Pewanogowink-Banks Airport,MI43,,Montrose,US,43.186100,-83.901398,660
+MI44,D J Airport,MI44,,Mount Pleasant,US,43.672298,-84.736702,755
+MI45,Ed Schulte's Place STOLport,MI45,,Ortonville,US,42.808102,-83.451897,1050
+MI46,Heliflite Heliport,MI46,,South Lyon,US,42.487301,-83.651901,920
+MI47,Dysinger Airport,MI47,,Perry,US,42.808399,-84.190201,897
+MI48,Ham-A-Lot Field,MI48,,Petersburg,US,41.833401,-83.683296,680
+MI49,Hillsdale Hospital Heliport,MI49,,Hillsdale,US,41.911201,-84.633598,1141
+MI50,Dodge Airport,MI50,,Romeo,US,42.766701,-82.949898,705
+MI51,Loars Field,MI51,,Onsted,US,41.996899,-84.188599,995
+MI52,Markham Airport,MI52,,Clinton,US,42.090599,-83.968002,825
+MI53,Mills Field,MI53,,Newport,US,42.009201,-83.258301,590
+MI54,Helifarm Heliport,MI54,,Monroe,US,41.793598,-83.538101,610
+MI55,Zeitler Airport,MI55,,Merril,US,43.490002,-84.365303,678
+MI56,North Michigan Hospitals Inc Heliport,MI56,,Petoskey,US,45.339199,-84.972801,636
+MI57,Eagle Heliport,MI57,,Romeo,US,42.793098,-83.026100,605
+MI58,Stony Acres Airport,MI58,,Sunfield,US,42.754501,-85.028603,849
+MI59,Cass Heliport,MI59,,West Bloomfield,US,42.601002,-83.394203,935
+MI60,Tannehill Airfield,MI60,,Fife Lake,US,44.591400,-85.310799,1050
+MI61,Henry Ford Wyandotte Hospital Heliport,MI61,,Wyandotte,US,42.208401,-83.144203,578
+MI63,St Mary's Hospital Heliport,MI63,,Grand Rapids,US,42.958401,-85.662804,660
+MI66,Michigan International Speedway Heliport,MI66,,Brooklyn,US,42.058899,-84.239304,1000
+MI67,Tyrone Airport,MI67,,Bailey,US,43.289200,-85.781197,810
+MI68,Del Hickcox Airport,MI68,,Baroda,US,41.937500,-86.501404,645
+MI69,Battle Creek Health System Helistop,MI69,,Battle Creek,US,42.330898,-85.178902,855
+MI70,Carl's Airport,MI70,,Macon,US,42.071201,-83.883598,850
+MI71,Silver Lake Airport,MI71,,Mears,US,43.644501,-86.452904,772
+MI72,Nelson Airport,MI72,,Buchanan,US,41.849998,-86.349998,665
+MI73,North Cedar Airport,MI73,,Cedar Springs,US,43.258400,-85.545898,893
+MI74,Wdiv-Tv Channel 4 Heliport,MI74,,Detroit,US,42.329800,-83.053497,670
+MI76,Reading Airport,MI76,,Fennville,US,42.549999,-86.216698,700
+MI77,Shafter Airport,MI77,,Galesburg,US,42.299999,-85.416702,805
+MI78,Weller Airport,MI78,,Grandville,US,42.916698,-85.783401,600
+MI79,Executive Heliport,MI79,,Plymouth/Canton,US,42.348099,-83.453903,690
+MI80,Wabasis Lake Airport,MI80,,Greenville,US,43.128399,-85.399200,892
+MI81,Express Heliport,MI81,,Farmington Hills,US,42.513901,-83.357803,895
+MI82,Harry's Field,MI82,,Hudsonville,US,42.876400,-85.955597,662
+MI84,Kerby Field,MI84,,Mattawan,US,42.198399,-85.806702,780
+MI85,Community Health Center of Branch County Heliport,MI85,,Coldwater,US,41.937500,-84.987999,959
+MI86,Midget Airport,MI86,,North Muskegon,US,43.342499,-86.186897,669
+MI88,Bakers Field,MI88,,Burnips,US,42.732300,-85.905296,680
+MI89,Perry Airport,MI89,,Schoolcraft,US,42.148701,-85.652802,894
+MI90,Baldwin Lake Heliport,MI90,,Union,US,41.790298,-85.838898,850
+MI91,T & M Companies Heliport,MI91,,Wixom,US,42.527000,-83.575500,940
+MI92,Lilienthal Airport,MI92,,Iron Mountain,US,45.932701,-88.098198,1250
+MI93,Circle T Ranch Airport,MI93,,Curran,US,44.687801,-83.743896,1010
+MI94,Fontecchio Airport,MI94,,E Kingsford,US,45.784698,-88.068199,1110
+MI95,Taylors Flight Park Airport,MI95,,Cassopolis,US,41.846699,-85.894997,890
+MI97,Butterworth Hospital Heliport,MI97,,Grand Rapids,US,42.969501,-85.665604,746
+MI98,Dowd Field,MI98,,Fibre,US,46.201401,-84.741699,705
+MI99,Robertson Field,MI99,,Richmond,US,42.798901,-82.658798,620

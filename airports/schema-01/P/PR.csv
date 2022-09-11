@@ -1,0 +1,36 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PR01,Hato Rey Heliport,PR01,,San Juan,PR,18.419201,-66.056702,35
+PR02,Prasa-La Plata Heliport,PR02,,Toa Alta,PR,18.352501,-66.236397,361
+PR04,Squibb Heliport,PR04,,Humacao,PR,18.148800,-65.793800,16
+PR06,Hill Heliport,PR06,,Culebra,PR,18.299999,-65.283302,80
+PR07,Boqueron Airport,PR07,,Las Piedras,PR,18.201900,-65.839104,373
+PR08,Baxter-San German Heliport,PR08,,San German,PR,18.086100,-67.028000,211
+PR09,Sabalos Ward Heliport,PR09,,Mayaguez,PR,18.176100,-67.146698,34
+PR10,Boqueron Airport,PR10,,Cabo Rojo,PR,18.010700,-67.141296,3
+PR11,Rexach Office Building Heliport,PR11,,Puerto Nuevo,PR,18.415199,-66.126801,60
+PR12,State Government Number One Heliport,PR12,,San Juan,PR,18.449400,-66.066597,269
+PR13,Insular Government Number Two Heliport,PR13,,San Juan,PR,18.417400,-66.077698,168
+PR14,Orama-Iayuya Heliport,PR14,,Jayuya,PR,18.211100,-66.629303,1463
+PR15,Parguera Heliport,PR15,,Lajas,PR,17.975000,-67.044403,32
+PR16,Banco Popular Center Heliport,PR16,,San Juan,PR,18.427401,-66.058800,215
+PR17,Prasa-Barbosa Heliport,PR17,,San Juan,PR,18.414101,-66.043800,163
+PR19,Orocovis Health Center Heliport,PR19,,Orocovis,PR,18.226601,-66.394302,1717
+PR20,Michael Gonzalez Airport,PR20,,Adjuntas,PR,18.180201,-66.756897,2340
+PR21,Fort Buchanan Heliport,PR21,,Guaynabo,PR,18.415001,-66.131897,33
+PR22,Public Buildings Authority Heliport,PR22,,San Juan,PR,18.449200,-66.066399,81
+PR23,Baxter-Aibonito Heliport,PR23,,Aibonito,PR,18.139700,-66.266296,1836
+PR24,Cullingford Field,PR24,,Boqueron,PR,17.976400,-67.170799,14
+PR25,Lajas Airpark,PR25,,Lajas,PR,18.012501,-67.069199,30
+PR26,Villa Marina Heliport,PR26,,Fajardo,PR,18.331301,-65.632896,15
+PR27,Santa Isabel Airport,PR27,,Santa Isabel,PR,17.963200,-66.391197,27
+PR28,R.H. Heliport,PR28,,Isabela,PR,18.494200,-67.024200,24
+PR29,Villamil-Mayaguez Mall Heliport,PR29,,Mayaguez,PR,18.158899,-67.146400,82
+PR30,Prtc Office Building Heliport,PR30,,San Juan,PR,18.411100,-66.101601,175
+PR31,San Juan Steam Plant Heliport,PR31,,San Juan,PR,18.427996,-66.105515,60
+PR32,Hospital Alejandro Otero Lopez Heliport,PR32,,Manati,PR,18.433599,-66.483597,116
+PR33,Bayamon Regional Hospital Heliport,PR33,,Bayamon,PR,18.367500,-66.153801,110
+PR34,San Juan Seaplane Base,PR34,,San Juan,PR,18.457800,-66.121101,10
+PR42,Empresas Diaz-Rio Pedras Heliport,PR42,,San Juan,PR,18.395300,-66.051399,154
+PR53,Sabanera Heliport,PR53,,Cidra,PR,18.190800,-66.120796,1350
+PR68,Mora Development Corp Heliport,PR68,,Hato Rey,PR,18.415300,-66.075798,50
+PR99,Puerto Heliport,PR99,,San Juan,PR,18.395556,-66.073611,129

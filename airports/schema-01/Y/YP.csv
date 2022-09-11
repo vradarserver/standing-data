@@ -1,0 +1,29 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+YPAD,Adelaide International Airport,YPAD,ADL,Adelaide,AU,-34.945000,138.531006,20
+YPAG,Port Augusta Airport,YPAG,PUG,Port Augusta,AU,-32.506944,137.716667,56
+YPBO,Paraburdoo Airport,YPBO,PBO,Paraburdoo,AU,-23.171101,117.745003,1406
+YPCC,Cocos (Keeling) Islands Airport,YPCC,CCK,Cocos (Keeling) Islands,CC,-12.188300,96.833900,10
+YPDN,Darwin International Airport,YPDN,DRW,Darwin,AU,-12.414700,130.876999,103
+YPEA,RAAF Base Pearce,YPEA,,Bullsbrook,AU,-31.667801,116.014999,149
+YPED,RAAF Base Edinburgh,YPED,,Adelaide,AU,-34.702499,138.621002,67
+YPEF,Penfield Airfield,YPEF,,Sunbury,AU,-37.513302,144.697998,1150
+YPGV,Gove Airport,YPGV,GOV,Nhulunbuy,AU,-12.269400,136.817993,192
+YPJT,Perth Jandakot Airport,YPJT,JAD,Perth,AU,-32.097500,115.880997,99
+YPKA,Karratha Airport,YPKA,KTA,Karratha,AU,-20.712200,116.773003,29
+YPKG,Kalgoorlie Boulder Airport,YPKG,KGI,Kalgoorlie,AU,-30.789400,121.461998,1203
+YPKS,Parkes Airport,YPKS,PKE,Parkes,AU,-33.131401,148.238998,1069
+YPKU,Kununurra Airport,YPKU,KNX,Kununurra,AU,-15.778100,128.707993,145
+YPLC,Port Lincoln Airport,YPLC,PLO,Port Lincoln,AU,-34.605301,135.880005,36
+YPLM,Learmonth Airport,YPLM,LEA,Exmouth,AU,-22.235600,114.088997,19
+YPLU,Plutonic Airport,YPLU,,Plutonic Gold Mine,AU,-25.313333,119.423333,1896
+YPMH,Prominent Hill Airport,YPMH,PXH,Prominent Hill,AU,-29.716667,135.521667,734
+YPMQ,Port Macquarie Airport,YPMQ,PQQ,Port Macquarie,AU,-31.435801,152.863007,12
+YPPD,Port Hedland International Airport,YPPD,PHE,Port Hedland,AU,-20.377800,118.625999,33
+YPPF,Adelaide Parafield Airport,YPPF,,Adelaide,AU,-34.793301,138.632996,57
+YPPH,Perth International Airport,YPPH,PER,Perth,AU,-31.940300,115.967003,67
+YPRC,Prince Charles Hospital Helipad,YPRC,,Brisbane,AU,-27.387610,153.024110,135
+YPRI,Princess Alexandra Hospital Helipad,YPRI,,Brisbane,AU,-27.500180,153.033800,200
+YPTJ,Patjarr Airport,YPTJ,,Patjarr,AU,-24.618900,126.327003,1493
+YPTN,Katherine Tindal Civilian Airport,YPTN,KTR,Katherine,AU,-14.521111,132.377778,443
+YPWR,Woomera Airfield,YPWR,UMR,Woomera,AU,-31.144199,136.817001,548
+YPXM,Christmas Island Airport,YPXM,XCH,Christmas Island,CX,-10.450600,105.690002,916

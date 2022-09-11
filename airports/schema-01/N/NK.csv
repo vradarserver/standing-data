@@ -1,0 +1,79 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+NK01,Countryman's Landing Strip,NK01,,Carthage,US,43.999500,-75.604897,790
+NK04,Shepard Airport,NK04,,Constantia,US,43.250099,-75.999603,463
+NK05,Tom N' Jerry Airport,NK05,,Danby,US,42.354801,-76.516098,1490
+NK06,S.O.P. Airport,NK06,,Germantown,US,42.096199,-73.855400,190
+NK07,Big Island Airport,NK07,,Goshen,US,41.327900,-74.409897,410
+NK08,Sheeley's Farm Airport,NK08,,High Falls,US,41.831799,-74.129898,260
+NK09,Eagle Ridge Airport,NK09,,Burdett,US,42.405602,-76.820503,1480
+NK10,D C Helicopters Heliport,NK10,,Cohocton,US,42.491699,-77.507797,1250
+NK11,Troop B. Headquarters Heliport,NK11,,Saranac Lake,US,44.301201,-74.080704,1663
+NK12,Donnelly's Airport,NK12,,Wales,US,42.769501,-78.546997,1030
+NK13,Snyder's Lake Seaplane Base,NK13,,Wynantskill,US,42.658401,-73.638496,488
+NK14,Little Falls Ems Heliport,NK14,,Little Falls,US,42.040901,-74.836800,900
+NK15,Seventh Lake Seaplane Base,NK15,,Inlet,US,43.742802,-74.761902,1785
+NK16,Hendricks Field,NK16,,Gouverneur,US,44.368099,-75.402397,480
+NK17,August Field,NK17,,Gansevoort,US,43.209361,-73.581711,131
+NK19,Potoczak Airport,NK19,,Clarence Center,US,43.061199,-78.661400,582
+NK22,One Ten Heliport,NK22,,Farmingdale,US,40.742100,-73.421303,120
+NK23,Tetz Landing Heliport,NK23,,Bloomingburg,US,41.548667,-74.469722,961
+NK24,Tilden Airport,NK24,,Montour Falls,US,42.347301,-76.878799,900
+NK25,Cambria Airport,NK25,,Lockport,US,43.215900,-78.808403,380
+NK26,Old Forge Airport,NK26,,Old Forge,US,43.725183,-74.976217,1753
+NK27,Hedge Hop Field,NK27,,Springville,US,42.488998,-78.634804,1400
+NK28,Tgp-254 Heliport,NK28,,Nassau,US,42.481499,-73.562897,560
+NK29,Southampton Village Heliport,NK29,,Southampton,US,40.850101,-72.416199,41
+NK31,Dawn Patrol Aviation Airport,NK31,,Albion,US,43.269501,-78.145302,480
+NK32,Ny Arng Heliport,NK32,,Albany,US,42.666698,-73.832901,280
+NK33,Ny State Police - Troop T Heliport,NK33,,Albany,US,42.616699,-73.782898,250
+NK34,St Luke's Memorial Hospital Heliport,NK34,,Utica,US,43.096199,-75.276299,575
+NK37,Winthrop University Hospital Heliport,NK37,,Mineola,US,40.741798,-73.643997,156
+NK38,Parker's Landing Heliport,NK38,,Gardiner,US,41.654499,-74.140404,350
+NK39,One Police Plaza Heliport,NK39,,New York,US,40.712601,-73.999603,244
+NK40,Ibm Mount Pleasant Heliport,NK40,,North Tarrytown,US,41.113201,-73.862602,150
+NK41,Mather Heliport,NK41,,Port Jefferson,US,40.939098,-73.054398,203
+NK42,St John's Episcopal Hospital Heliport,NK42,,Smithtown,US,40.869499,-73.221802,130
+NK43,Jerry Phibbs Airport,NK43,,Albany,US,42.758400,-73.924599,340
+NK44,Bethlehem Energy Center Heliport,NK44,,Glenmont,US,42.594861,-73.766250,20
+NK45,St Charles Hospital Heliport,NK45,,Port Jefferson,US,40.946499,-73.060898,500
+NK47,Dalrymples Airport,NK47,,Elmira,US,42.041698,-76.833000,900
+NK48,Eastern Long Island Heliport,NK48,,Greenport,US,41.109699,-72.360001,6
+NK49,Ibm Owego Heliport,NK49,,Owego,US,42.102901,-76.221298,907
+NK50,St Mary's Hospital Elevated Heliport,NK50,,Amsterdam,US,42.954201,-74.215401,335
+NK52,Connelly Field,NK52,,Elmira,US,42.085098,-76.921303,1525
+NK53,Dodge/Coppola/Wheeler Airport,NK53,,Sullivanville,US,42.205601,-76.770500,1030
+NK54,Matejka Field,NK54,,Erin,US,42.176701,-76.641098,1690
+NK55,Onondaga County Sheriff's Department Heliport,NK55,,Camillus,US,43.085098,-76.287102,400
+NK56,Ibm Fishkill Plant No. 2 Heliport,NK56,,Hopewell Junction,US,41.543400,-73.819000,250
+NK57,Ross Heliport,NK57,,Niagara Falls,US,43.119499,-78.935898,635
+NK58,Gibraltar Heliport,NK58,,Hamburg,US,42.528400,-78.907303,770
+NK59,Copake Lake Seaplane Base,NK59,,Copake,US,42.143101,-73.591202,715
+NK60,Bostrup's Landing Seaplane Base,NK60,,Lake Pleasant,US,43.484798,-74.351799,1725
+NK61,General Electric R&D Center Heliport,NK61,,Schenectady,US,42.827000,-73.874603,354
+NK63,Mercy Hospital Heliport,NK63,,Buffalo,US,42.841702,-78.799797,595
+NK64,Amch Heliport,NK64,,Albany,US,42.651699,-73.774803,209
+NK65,H & H Aviation Service Inc. Heliport,NK65,,Forestville,US,42.483398,-79.077499,1000
+NK68,White Birch Field,NK68,,Hancock,US,42.050098,-75.301003,1860
+NK71,Marcellus Airport,NK71,,Marcellus,US,43.011200,-76.349701,850
+NK72,James Henion Private Field,NK72,,Ithaca,US,42.376202,-76.532402,1300
+NK73,Ciba-Geigy Heliport,NK73,,Suffern,US,41.118401,-74.134300,310
+NK74,Match Mate Airport,NK74,,Aurora,US,42.744499,-76.663597,840
+NK75,Thomas E. Perdue Heliport,NK75,,Massena,US,44.936699,-74.909698,260
+NK76,Grammar Airport,NK76,,Geneva,US,42.882500,-77.051697,755
+NK77,Niagara Falls Memorial Parking Ramp Heliport,NK77,,Niagara Falls,US,43.093899,-79.051201,670
+NK78,Ge Management Development Institute Heliport,NK78,,Ossining,US,41.188999,-73.867897,181
+NK79,Lewis Landing Airport,NK79,,Slate Hill,US,41.418400,-74.532402,880
+NK80,Rainbow Air Heliport,NK80,,Niagara Falls,US,43.088902,-79.062302,583
+NK81,Roberts Roost Airport,NK81,,Arcade,US,42.633400,-78.355301,1751
+NK82,Engineers Airport,NK82,,Constantia,US,43.315899,-76.014900,480
+NK83,Nettie's Place Airport,NK83,,Quaker Street,US,42.710098,-74.223701,1330
+NK84,Safe Flight Instrument Corp. Heliport,NK84,,White Plains,US,41.081100,-73.713303,415
+NK85,Harris Hill Heliport,NK85,,Bedford Hills,US,41.244499,-73.680099,280
+NK86,Doms Heliport,NK86,,Chester,US,41.366798,-74.249603,480
+NK87,Merkle Airport,NK87,,Clarence Center,US,43.066700,-78.599701,590
+NK89,Ultralight Flight Farm Ultralightport,NK89,,Monterey,US,42.291698,-77.057999,1200
+NK90,Tli Heliport,NK90,,Ossining,US,41.145100,-73.868500,9
+NK91,Boyle's Landing Airport,NK91,,Sharon Springs,US,42.816200,-74.624603,1300
+NK92,Eab Plaza Heliport,NK92,,Uniondale,US,40.719501,-73.582901,95
+NK95,Bastek Heliport,NK95,,Pine Island,US,41.320900,-74.504303,450
+NK96,St Francis Hospital Heliport,NK96,,Poughkeepsie,US,41.718700,-73.927399,163

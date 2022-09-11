@@ -1,0 +1,68 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LG53,Lamia Airport,LG53,,Lamia,GR,38.874599,22.434999,38
+LG54,Tympaki Airport,LG54,,Crete Island,GR,35.063702,24.767401,7
+LG55,Triodhon Airport,LG55,,Triodhon,GR,37.094101,21.990400,36
+LG56,Olimboi Airport,LG56,,Chios Island,GR,38.236099,25.939199,656
+LGAD,Andravida Airport,LGAD,PYR,Andravida,GR,37.920700,21.292601,55
+LGAG,Agrinion Airport,LGAG,AGQ,Agrinion,GR,38.602001,21.351200,154
+LGAL,Dimokritos Airport,LGAL,AXD,Alexandroupolis,GR,40.855900,25.956301,24
+LGAM,Amphiali Heliport,LGAM,,Salamis Island,GR,37.971600,23.530399,43
+LGAT,Athen Helenikon Airport,LGAT,HEW,Athens,GR,37.893299,23.726101,69
+LGAV,Eleftherios Venizelos International Airport,LGAV,ATH,Athens,GR,37.936401,23.944500,308
+LGAX,Alexandria Airport,LGAX,,Alexandria,GR,40.651100,22.488701,27
+LGBL,Nea Anchialos Airport,LGBL,VOL,Nea Anchialos,GR,39.219601,22.794300,83
+LGE,Lake Gregory Airport,,LGE,Lake Gregory,AU,-20.108889,127.618611,981
+LGEL,Elefsis Airport,LGEL,,Elefsina,GR,38.063801,23.556000,143
+LGEP,Epitalion Airport,LGEP,,Pyrgos,GR,37.613899,21.498100,3
+LGHI,Chios Island National Airport,LGHI,JKH,Chios Island,GR,38.343201,26.140600,15
+LGHL,Porto Cheli Airport,LGHL,PKH,Porto Cheli,GR,37.297501,23.147800,69
+LGIK,Ikaria Airport,LGIK,JIK,Ikaria Island,GR,37.682701,26.347099,79
+LGIO,Ioannina Airport,LGIO,IOA,Ioannina,GR,39.696400,20.822500,1558
+LGIR,Heraklion International Nikos Kazantzakis Airport,LGIR,HER,Heraklion,GR,35.339699,25.180300,115
+LGKA,Kastoria National Airport,LGKA,KSO,Kastoria,GR,40.446301,21.282200,2167
+LGKC,Kithira Airport,LGKC,KIT,Kithira Island,GR,36.274300,23.017000,1045
+LGKF,Kefallinia Airport,LGKF,EFL,Kefallinia Island,GR,38.120098,20.500500,59
+LGKJ,Kastelorizo Airport,LGKJ,KZS,Kastelorizo Island,GR,36.141701,29.576401,489
+LGKL,Kalamata Airport,LGKL,KLX,Kalamata,GR,37.068298,22.025499,26
+LGKM,Amigdhaleon Airport,LGKM,,Filipos,GR,40.972801,24.341400,203
+LGKN,Marathon Kotroni Airport,LGKN,,Marathon,GR,38.137798,23.951099,682
+LGKO,Kos Airport,LGKO,KGS,Kos Island,GR,36.793301,27.091700,412
+LGKP,Karpathos Airport,LGKP,AOK,Karpathos Island,GR,35.421398,27.146000,66
+LGKR,Ioannis Kapodistrias International Airport,LGKR,CFU,Kerkyra Island,GR,39.601898,19.911699,6
+LGKS,Kasos Airport,LGKS,KSJ,Kasos Island,GR,35.421398,26.910000,35
+LGKV,Alexander the Great International Airport,LGKV,KVA,Kavala,GR,40.913300,24.619200,18
+LGKY,Kalymnos Airport,LGKY,,Kalymnos Island,GR,36.963299,26.940599,771
+LGKZ,Filippos Airport,LGKZ,KZI,Kozani,GR,40.286098,21.840799,2059
+LGLE,Leros Airport,LGLE,LRS,Leros Island,GR,37.184898,26.800301,39
+LGLM,Limnos Airport,LGLM,LXS,Limnos Island,GR,39.917099,25.236300,14
+LGLR,Larisa Airport,LGLR,LRA,Larisa,GR,39.656283,22.340001,241
+LGLX,Piraeus Heliport,LGLX,,El Pireo Port,GR,37.991798,23.574800,30
+LGMG,Megara Airport,LGMG,,Megara,GR,37.981098,23.365400,12
+LGMK,Mikonos Airport,LGMK,JMK,Mykonos Island,GR,37.435101,25.348101,405
+LGML,Milos Airport,LGML,MLO,Milos Island,GR,36.696899,24.476900,10
+LGMR,Marathon Wasser Airport,LGMR,,Marathon,GR,38.143902,24.012800,3
+LGMT,Mytilene International Airport,LGMT,MJT,Mytilene,GR,39.056702,26.598301,60
+LGNX,Naxos Airport,LGNX,JNX,Naxos Island,GR,37.081100,25.368099,10
+LGPA,Paros Airport,LGPA,PAS,Paros Island,GR,37.010300,25.128099,131
+LGPL,Astypalaia Airport,LGPL,JTY,Astypalaia Island,GR,36.579899,26.375799,165
+LGPZ,Aktion National Airport,LGPZ,PVK,Preveza/Lefkada,GR,38.925499,20.765301,11
+LGRD,Maritsa Airport,LGRD,,Rodes Island,GR,36.383099,28.108900,204
+LGRP,Diagoras Airport,LGRP,RHO,Rodes Island,GR,36.405399,28.086201,17
+LGRX,Araxos Airport,LGRX,GPA,Patras,GR,38.151100,21.425600,46
+LGSA,Chania International Airport,LGSA,CHQ,Souda,GR,35.531700,24.149700,490
+LGSD,Sedes Airport,LGSD,,Sedes,GR,40.533100,23.025299,85
+LGSK,Skiathos Island National Airport,LGSK,JSI,Skiathos,GR,39.177101,23.503700,54
+LGSM,Samos Airport,LGSM,SMI,Samos Island,GR,37.689999,26.911699,19
+LGSO,Syros Airport,LGSO,JSY,Syros Island,GR,37.422798,24.950899,236
+LGSP,Sparti Airport,LGSP,SPJ,Sparti,GR,36.973900,22.526300,500
+LGSR,Santorini Airport,LGSR,JTR,Santorini Island,GR,36.399200,25.479300,127
+LGST,Sitia Airport,LGST,JSH,Crete Island,GR,35.216099,26.101299,376
+LGSV,Stefanovikion Airport,LGSV,,Stefanovilion,GR,39.480000,22.767200,146
+LGSY,Skiros Airport,LGSY,SKU,Skiros Island,GR,38.967602,24.487200,44
+LGTG,Tanagra Airport,LGTG,,Tanagra,GR,38.339802,23.565001,485
+LGTL,Kasteli Airport,LGTL,,Crete Island,GR,35.192001,25.327000,1180
+LGTP,Tripolis Airport,LGTP,,Trípoli,GR,37.530602,22.403601,2113
+LGTS,Thessaloniki Macedonia International Airport,LGTS,SKG,Thessaloniki,GR,40.519699,22.970900,22
+LGTT,Tatoi Airport,LGTT,,Tatoi,GR,38.108898,23.783800,785
+LGVO,Volos Army Airport,LGVO,,Volos,GR,39.383900,22.917400,112
+LGZA,Dionysios Solomos Airport,LGZA,ZTH,Zakynthos Island,GR,37.750900,20.884300,15

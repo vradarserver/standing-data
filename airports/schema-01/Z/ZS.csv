@@ -1,0 +1,49 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ZSAM,Xiamen Gaoqi International Airport,ZSAM,XMN,Xiamen,CN,24.544001,118.127998,59
+ZSAQ,Anqing Tianzhushan Airport,ZSAQ,AQG,"Anqing, Anhui Province",CN,30.582222,117.050278,0
+ZSBB,Bengbu Airport,ZSBB,BFU,Bengbu,CN,32.847733,117.320244,100
+ZSCG,Changzhou,ZSCG,CZX,Changzhou,CN,31.941667,119.711667,39
+ZSCN,Nanchang Changbei International Airport,ZSCN,KHN,Nanchang,CN,28.865000,115.900002,143
+ZSDY,Dongying Airport,ZSDY,DOY,Dongying,CN,37.271600,118.281900,86
+ZSFY,Fuyang Xiguan Airport,ZSFY,FUG,Fuyang,CN,32.882157,115.734364,104
+ZSFZ,Fuzhou Changle International Airport,ZSFZ,FOC,Fuzhou,CN,25.935101,119.663002,46
+ZSGZ,Ganzhou Airport,ZSGZ,KOW,Ganzhou,CN,25.825800,114.912003,387
+ZSHC,Hangzhou Xiaoshan International Airport,ZSHC,HGH,Hangzhou,CN,30.229500,120.433998,23
+ZSHZ,Heze Peony Airport,ZSHZ,HZA,Heze,CN,35.211833,115.736889,155
+ZSJA,Jing Gang Shan Airport,ZSJA,JGS,Ji An,CN,26.899700,114.737500,282
+ZSJD,Jingdezhen Airport,ZSJD,JDZ,Jingdezhen,CN,29.338600,117.176003,112
+ZSJG,Jining Qufu Airport,ZSJG,JNG,Jining,CN,35.292778,116.346667,134
+ZSJH,Chizhou Jiuhuashan Airport,ZSJH,JUH,Chizhou,CN,30.740278,117.686667,22
+ZSJJ,Jiujiang Lushan Airport,ZSJJ,JIU,Jiujiang,CN,29.733000,115.983000,0
+ZSJN,Yaoqiang Airport,ZSJN,TNA,Jinan,CN,36.857201,117.216003,76
+ZSJU,Quzhou Airport,ZSJU,JUZ,Quzhou,CN,28.965833,118.899444,0
+ZSLD,Longyan Guanzhishan Airport,ZSLD,LCX,Longyan,CN,25.674700,116.747002,1225
+ZSLG,Lianyungang Airport,ZSLG,LYG,Lianyungang,CN,34.550000,119.250000,0
+ZSLQ,Huangyan Luqiao Airport,ZSLQ,HYN,Huangyan,CN,28.562200,121.429000,0
+ZSLY,Qiyang Airport,ZSLY,LYI,Linyi,CN,35.046100,118.412000,218
+ZSNB,Ningbo Lishe International Airport,ZSNB,NGB,Ningbo,CN,29.826700,121.461998,13
+ZSNJ,Nanjing Lukou Airport,ZSNJ,NKG,Nanjing,CN,31.742001,118.862000,49
+ZSNT,Nantong Xingdong Airport,ZSNT,NTG,Nantong,CN,32.070800,120.976000,0
+ZSOF,Hefei Xinqiao International Airport,ZSOF,HFE,Hefei,CN,31.991111,116.989167,207
+ZSPD,Shanghai Pudong International Airport,ZSPD,PVG,Shanghai,CN,31.143400,121.805000,13
+ZSQD,Liuting Airport,ZSQD,TAO,Qingdao,CN,36.266102,120.374001,33
+ZSQZ,Quanzhou Airport,ZSQZ,JJN,Quanzhou,CN,24.796400,118.590000,0
+ZSRZ,Rizhao Shanzihe Airport,ZSRZ,RIZ,Rizhao Shanzihe Airport,CN,35.399722,119.316667,121
+ZSSH,Huai'an Lianshui Airport,ZSSH,HIA,Huai'an Lianshui Airport,CN,33.790556,119.125000,23
+ZSSM,Sanming Shaxian Airport,ZSSM,SQJ,Sanming,CN,26.428056,117.845000,889
+ZSSR,Shangrao Sanqingshan Airport,ZSSR,SQD,Shangrao,CN,28.380278,117.961389,0
+ZSSS,Shanghai Hongqiao International Airport,ZSSS,SHA,Shanghai,CN,31.197901,121.335999,10
+ZSTX,Tunxi International Airport,ZSTX,TXN,Huangshan,CN,29.733300,118.256000,0
+ZSWA,Wuhu Xuanzhou Airport,ZSWA,WHA,Wanzhi,CN,31.104444,118.667222,0
+ZSWF,Weifang Airport,ZSWF,WEF,Weifang,CN,36.646700,119.119000,0
+ZSWH,Weihai Airport,ZSWH,WEH,Weihai,CN,37.187099,122.228996,145
+ZSWX,Sunan Shuofang International Airport,ZSWX,WUX,Wuxi,CN,31.494400,120.429001,24
+ZSWY,Nanping Wuyishan Airport,ZSWY,WUS,Wuyishan,CN,27.701900,118.000999,614
+ZSWZ,Wenzhou Yongqiang Airport,ZSWZ,WNZ,Wenzhou,CN,27.912200,120.852000,0
+ZSXZ,Xuzhou Guanyin Airport,ZSXZ,XUZ,Xuzhou,CN,34.160000,117.110000,140
+ZSYA,Yangzhou Taizhou Airport,ZSYA,YTY,Yangzhou,CN,32.561667,119.715000,7
+ZSYC,Yichun Mingyueshan Airport,ZSYC,YIC,Yichun,CN,27.803333,114.308056,430
+ZSYN,Yancheng Airport,ZSYN,YNZ,Yancheng,CN,33.385600,120.125000,0
+ZSYT,Yantai Laishan Airport,ZSYT,YNT,Yantai,CN,37.401699,121.372002,59
+ZSYW,Yiwu Airport,ZSYW,YIW,Yiwu,CN,29.344700,120.031998,262
+ZSZS,Zhoushan Airport,ZSZS,HSN,Zhoushan,CN,29.934200,122.362000,3

@@ -1,0 +1,124 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CN01,Mendocino Coast District Hospital Heliport,CN01,,Fort Bragg,US,39.431999,-123.800003,108
+CN02,San Francisco Va Medical Center Heliport,CN02,,San Francisco,US,37.783331,-122.506389,350
+CN06,Infineon Raceway Pad 2 Heliport,CN06,,Sonoma,US,38.155081,-122.450692,110
+CN10,Mono County Medical Heliport,CN10,,Bridgeport,US,38.253300,-119.231003,6450
+CN11,Uc Davis Medical Center Life Flight Base Heliport,CN11,,Sacramento,US,38.551102,-121.450996,32
+CN12,Williams Gliderport,CN12,,Williams,US,39.163502,-122.132004,68
+CN13,Borges - Clarksburg Airport,CN13,,Clarksburg,US,38.443199,-121.509003,12
+CN14,Queen of the Valley Hospital Heliport,CN14,,Napa,US,38.323898,-122.296997,49
+CN15,Vineyard Oaks Farm Airport,CN15,,Lemore,US,36.369202,-119.786003,210
+CN17,Childrens Hospital and Health Center Heliport,CN17,,San Diego,US,32.799198,-117.152000,445
+CN19,Las Serpientes Airport,CN19,,Knightsen,US,37.933102,-121.612999,10
+CN20,Ferndale Resort Seaplane Base,CN20,,Kelseyville,US,39.002998,-122.796997,1326
+CN22,Northrop Anaheim Heliport,CN22,,Anaheim,US,33.865002,-117.917000,160
+CN23,Harvard Airport,CN23,,Yermo,US,34.961700,-116.675003,1825
+CN24,Flying R Airport,CN24,,Galt,US,38.283001,-121.254997,70
+CN25,The Westin Bonaventure Hotel Heliport,CN25,,Los Angeles,US,34.052799,-118.255997,679
+CN26,Rodgers Flat Heliport,CN26,,Belden,US,39.966599,-121.283997,1560
+CN27,Hughes/Canoga Park Heliport,CN27,,Canoga Park,US,34.237499,-118.625999,845
+CN28,Big Creek Helistop,CN28,,Big Creek,US,37.201099,-119.251999,4960
+CN29,J-B Airport,CN29,,Farmington,US,37.935200,-121.014999,103
+CN32,Boeing De Soto Heliport,CN32,,Canoga Park,US,34.234699,-118.584999,875
+CN33,Airport Imperial Bldg Helistop,CN33,,El Segundo,US,33.930302,-118.397003,238
+CN34,"Pg&E, Fresno Service Center Heliport",CN34,,Fresno,US,36.719398,-119.760002,289
+CN35,Hughes/Space & Comm. Heliport,CN35,,El Segundo,US,33.930302,-118.398003,183
+CN36,Shaws Hill Heliport,CN36,,Grass Valley,US,39.233200,-121.051003,2900
+CN37,Kelso Valley Airport,CN37,,Mojave,US,35.381302,-118.231003,4047
+CN38,Flying B Ranch Airport,CN38,,Franklin,US,38.341301,-121.436996,19
+CN39,Operating Engineers Pension Trust Bldg Heliport,CN39,,Los Angeles,US,34.062000,-118.291000,441
+CN42,Double Creek Ranch Airport,CN42,,Manton,US,40.445702,-121.882004,2030
+CN43,Boeing Anaheim B/250 Heliport,CN43,,Anaheim,US,33.859699,-117.849998,342
+CN44,Flying Bull Airport,CN44,,Modesto,US,37.620499,-121.163002,40
+CN45,Bear Valley Hospital Heliport,CN45,,Big Bear Lake,US,34.246700,-116.888000,6800
+CN46,The McConnell Foundation Heliport,CN46,,Redding,US,40.598202,-122.332001,643
+CN47,Pacoima Dam Heliport,CN47,,Los Angeles,US,34.333599,-118.397003,2039
+CN51,Community Regional Medical Center Heliport,CN51,,Fresno,US,36.743698,-119.785004,415
+CN53,Kings County Houston Ave. Heliport,CN53,,Hanford,US,36.299861,-119.594861,239
+CN98,Walter'S Camp Airport,CN98,,Palo Verde,US,33.245556,-114.710278,309
+CNA2,Highgate Airport,CNA2,,Highgate,CA,42.554401,-81.803101,710
+CNA3,Springwater Barrie Airpark,CNA3,,Springwater,CA,44.406399,-79.731697,963
+CNA4,Emsdale Airport,CNA4,,Emsdale,CA,45.549999,-79.349998,1150
+CNA5,Uxbridge (Cottage Hospital) Heliport,CNA5,,Uxbridge,CA,44.102456,-79.128578,900
+CNA8,Winchester Airport,CNA8,,Winchester,CA,45.045601,-75.303299,250
+CNA9,Tomvale Airport,CNA9,,Plevna,CA,44.916100,-76.935799,890
+CNB2,Bolton Heliport,CNB2,,Bolton,CA,43.852161,-79.694822,700
+CNB4,Cobourg (Northumberland Hills Hospital) Heliport,CNB4,,Cobourg,CA,43.977200,-78.199997,343
+CNB5,Arnprior Seaplane Base,CNB5,,Arnprior,CA,45.407501,-76.359703,330
+CNC3,Brampton Airport,CNC3,,Brampton,CA,43.760300,-79.875000,935
+CNC4,Guelph Airport,CNC4,,Guelph,CA,43.563900,-80.196098,1100
+CNC9,Perth (Great War Memorial Hospital) Heliport,CNC9,,Perth,CA,44.906938,-76.253647,450
+CND3,Sudbury (Regional Hospital) Heliport,CND3,,Sudbury,CA,46.479460,-80.989497,912
+CND4,Stanhope Municipal Airport,CND4,,Haliburton,CA,45.110833,-78.640000,1066
+CNE3,Bearskin Lake Airport,CNE3,XBE,Bearskin Lake,CA,53.965599,-91.027199,800
+CNE4,Iroquois Falls Airport,CNE4,,Iroquois Falls,CA,48.741699,-80.793297,1008
+CNE9,Essex Airport,CNE9,,Essex,CA,42.095798,-82.879402,620
+CNF2,Haliburton (Hospital) Heliport,CNF2,,Haliburton,CA,45.038101,-78.530296,1050
+CNF3,Pendleton Airport,CNF3,,Pendleton,CA,45.486099,-75.096100,260
+CNF4,Lindsay Airport,CNF4,,Lindsay,CA,44.364700,-78.783897,882
+CNF9,Niagara South Airport,CNF9,,Niagara Falls,CA,42.999401,-79.063599,576
+CNG5,Pembroke (Regional Hospital) Heliport,CNG5,,Pembroke,CA,45.815300,-77.107803,496
+CNG6,Walkerton (County of Bruce General Hospital) Heliport,CNG6,,Walkerton,CA,44.121354,-81.152452,875
+CNH2,Natuashish Airport,CNH2,,Natuashish,CA,55.913898,-61.184399,30
+CNH3,Durham (Mulock) Airport,CNH3,,Durham,CA,44.229198,-80.913902,1100
+CNH9,Nanaimo (West Coast) Heliport,CNH9,,Nanaimo,CA,49.184867,-123.989083,200
+CNJ3,Fort Erie Airport,CNJ3,,Fort Erie,CA,42.917212,-78.957453,625
+CNJ4,Orillia Airport,CNJ4,,Orillia,CA,44.677656,-79.310217,725
+CNK2,Kincardine (Ellis Field) Airport,CNK2,,Kincardine,CA,44.156101,-81.400597,925
+CNK4,Parry Sound Area Municipal Airport,CNK4,,Parry Sound,CA,45.257500,-79.829697,832
+CNK6,Owen Sound (Grey Bruce Health Services) Heliport,CNK6,,Owen Sound,CA,44.568100,-80.913300,794
+CNK9,Kitchener-Waterloo (Grand River Hospital) Heliport,CNK9,,Kitchener-Waterloo,CA,43.452886,-80.503719,1110
+CNL3,Brockville - Thousand Islands Regional Tackaberry Airport,CNL3,XBR,Brockville,CA,44.639400,-75.750298,402
+CNL4,Port Elgin Airport,CNL4,,Port Elgin,CA,44.415298,-81.414398,650
+CNL6,Hurds Lake Seaplane Base,CNL6,,Renfrew,CA,45.416698,-76.650002,608
+CNL8,Wyevale (Boker Field) Airport,CNL8,,Wyevale,CA,44.655300,-79.878899,705
+CNL9,Nueltin Lake Airport,CNL9,,Nueltin Lake,CA,59.708099,-100.126999,971
+CNM2,Melbourne Airport,CNM2,,Melbourne,CA,42.824200,-81.548599,735
+CNM3,Sturgeon Falls (West Nipissing General Hospital) Heliport,CNM3,,Sturgeon Falls,CA,46.373324,-79.916278,680
+CNM5,Kingfisher Lake Airport,CNM5,KIF,Kingfisher Lake,CA,53.012501,-89.855301,866
+CNN3,Shelburne / Fisher Field,CNN3,,Shelburne,CA,44.027893,-80.205946,1675
+CNN4,Atwood Airport,CNN4,,Atwood,CA,43.693880,-81.002626,1232
+CNN8,Gananoque Airport,CNN8,,Gananoque,CA,44.401901,-76.244202,395
+CNP3,Arnprior Airport,CNP3,,Arnprior,CA,45.413601,-76.365799,358
+CNP5,Kamaniskeg Lake Seaplane Base,CNP5,,Combermere,CA,45.383301,-77.650002,928
+CNP7,Iroquois Airport,CNP7,,Iroquois,CA,44.842178,-75.311409,246
+CNP8,Greenbank Airport,CNP8,,Greenbank,CA,44.133697,-79.013028,975
+CNQ3,Welland / Niagara Central Airport,CNQ3,,Welland,CA,42.979198,-79.324699,585
+CNQ4,Tillsonburg Airport,CNQ4,,Tillsonburg,CA,42.927500,-80.746944,894
+CNQ5,Constance Lake Seaplane Base,CNQ5,,Ottawa,CA,45.402802,-75.975601,196
+CNR3,Sault Ste. Marie Heliport,CNR3,,Sault Ste. Marie,CA,46.504398,-84.323303,580
+CNR4,Tobermory Airport,CNR4,,Tobermory,CA,45.221468,-81.627560,700
+CNR6,Carleton Place Airport,CNR6,,Carleton Place,CA,45.103901,-76.123299,450
+CNR9,Arnstein Airport,CNR9,,Arnstein,CA,45.925598,-79.927803,745
+CNS3,Englehart (District Hospital) Heliport,CNS3,,Englehart,CA,47.823240,-79.880047,679
+CNS4,Alexandria Aerodrome,CNS4,,Alexandria,CA,45.330700,-74.625725,260
+CNS6,Straffordville Airport,CNS6,,Straffordville,CA,42.738300,-80.816704,732
+CNS7,Kincardine Airport,CNS7,YKD,Kincardine,CA,44.201401,-81.606697,772
+CNS8,Morrisburg Airport,CNS8,,Morrisburg,CA,44.946999,-75.077400,254
+CNS9,Smiths Falls (Community Hospital) Heliport,CNS9,,Smiths Falls,CA,44.907175,-76.027783,409
+CNT3,Ogoki Post Airport,CNT3,YOG,Ogoki Post,CA,51.658600,-85.901703,594
+CNT4,Little Current (Manitoulin Health Centre) Heliport,CNT4,,Little Current,CA,45.978100,-81.926399,625
+CNT6,Elmira Airport,CNT6,,Elmira,CA,43.584702,-80.603104,1250
+CNT7,Picton Airport,CNT7,,Picton,CA,43.989201,-77.139198,465
+CNU3,Peterborough (Civic Hospital) Heliport,CNU3,,Peterborough,CA,44.300598,-78.345802,738
+CNU4,Belleville Airport,CNU4,,Belleville,CA,44.192200,-77.309402,320
+CNU8,Markham Airport,CNU8,,Toronto,CA,43.935799,-79.262199,807
+CNV2,Inverness (Consolidated Memorial Hospital) Heliport,CNV2,,Inverness,CA,46.199372,-61.291823,100
+CNV3,New Liskeard (Temiskaming Hospital) Heliport,CNV3,,New Liskeard,CA,47.494480,-79.692947,895
+CNV4,Hawkesbury Airport,CNV4,,Hawkesbury,CA,45.616699,-74.650002,167
+CNV8,Edenvale Aerodrome,CNV8,,Edenvale,CA,44.441101,-79.962799,718
+CNV9,Québec / Neuville Airport,CNV9,,"Neuville, QC",CA,46.721476,-71.585498,314
+CNW2,Windermere Airport,CNW2,,Windermere,CA,45.162498,-79.535301,746
+CNW3,Bancroft Airport,CNW3,,Bancroft,CA,45.073101,-77.880600,1085
+CNW4,Mindemoya (Hospital) Heliport,CNW4,,Mindemoya,CA,45.738899,-82.166702,675
+CNW8,Toronto (Hospital For Sick Children) Heliport,CNW8,,Toronto,CA,43.656846,-79.387880,498
+CNW9,New Westminster (Royal Columbian Hospital) Heliport,CNW9,,New Westminster,CA,49.226403,-122.890191,124
+CNX3,Carey Lake Airport,CNX3,,Carey Lake,CA,49.750000,-84.033302,837
+CNX8,Nixon Airport,CNX8,,Nixon,CA,42.847500,-80.395302,780
+CNY3,Collingwood Airport,CNY3,,Collingwood,CA,44.449200,-80.158302,730
+CNY4,Alliston Airport,CNY4,,Alliston,CA,44.183300,-79.837097,720
+CNY8,Toronto (Sunnybrook Medical Centre) Heliport,CNY8,,Toronto,CA,43.721300,-79.370765,480
+CNZ4,Barry's Bay / Madawaska Valley Airpark,CNZ4,,Barry's Bay,CA,45.504723,-77.644093,1000
+CNZ6,Georgetown (Georgetown & District Hospital) Heliport,CNZ6,,Georgetown,CA,43.644402,-79.934402,878
+CNZ7,Hanover (District Hospital) Heliport,CNZ7,,Hanover,CA,44.140800,-81.029198,935
+CNZ8,Grimsby Airpark,CNZ8,,Grimsby,CA,43.160000,-79.599197,640

@@ -1,0 +1,97 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SHAB,Aguas Blancas Heliport,SHAB,,Puchuncavi,CL,-32.665556,-71.440278,102
+SHAC,Asociación Chilena de Seguridad Heliport,SHAC,,Santiago,CL,-33.443611,-70.632225,1969
+SHAE,Aerorescate Heliport,SHAE,,Pudahuel,CL,-33.439722,-70.831389,1460
+SHAG,Anguila 1 Heliport,SHAG,,Magallanes,CL,-52.499443,-68.725555,66
+SHAL,Los Paltos Heliport,SHAL,,Isla De Maipo,CL,-33.725556,-70.930278,298
+SHAP,Asistencia Pública Dr. Alejandro del Río Heliport,SHAP,,Santiago,CL,-33.439999,-70.637222,1886
+SHAU,La Aurora Heliport,SHAU,,Curacavi,CL,-33.425278,-71.023056,696
+SHBC,Las Brisas De Chicureo Heliport,SHBC,,Santiago,CL,-33.239722,-70.696111,1175
+SHBE,Banco Exterior Heliport,SHBE,,Santiago,CL,-33.436111,-70.644997,2000
+SHBL,Hospital Ramón Barros Luco Heliport,SHBL,,Santiago,CL,-33.485279,-70.644447,1805
+SHBP,Bahía Los Primos Heliport,SHBP,,La Estrella,CL,-34.110832,-71.535278,574
+SHBS,Banco Santander Heliport,SHBS,,Santiago,CL,-33.436111,-70.651390,2067
+SHC,Shire Airport,,SHC,Shire,ET,14.100000,38.283333,6407
+SHCA,Prefectura Aeropolicial de Carabineros Heliport,SHCA,,Santiago,CL,-33.455276,-70.548332,2070
+SHCB,Caburga Heliport,SHCB,,Pucon,CL,-39.166943,-71.760559,1558
+SHCC,Clínica Las Condes Heliport,SHCC,,Santiago,CL,-33.385277,-70.530830,2461
+SHCG,Cachagua Heliport,SHCG,,Zapallar,CL,-32.578888,-71.454445,80
+SHCI,San Cristóbal Heliport,SHCI,,Zapallar,CL,-32.576111,-71.452499,98
+SHCM,Corporativo Mutual Heliport,SHCM,,Santiago,CL,-33.440277,-70.637779,2100
+SHCP,Servicios Aéreos Copters Heliport,SHCP,,Rancagua,CL,-34.136391,-70.770554,1509
+SHCY,Hospital de Coyhaique Heliport,SHCY,,Coyhaique,CL,-45.568890,-72.075554,915
+SHDG,Batería Dungenes Nº 1 Heliport,SHDG,,Magallanes,CL,-52.380833,-68.431389,25
+SHDN,Daniel 1 Heliport,SHDN,,Magallanes,CL,-52.364723,-68.764999,98
+SHDO,Valle Nevado Heliport,SHDO,,Farellones,CL,-33.363888,-70.251663,9858
+SHDP,Del Pacifico Heliport,SHDP,,Temuco,CL,-38.754166,-72.802498,200
+SHEC,Edificio Bank Boston Heliport,SHEC,,Santiago,CL,-33.412498,-70.591110,2270
+SHEE,Esmeralda Heliport,SHEE,,Yerbas Buenas,CL,-35.720001,-71.509720,574
+SHEH,Edificio Huidobro Heliport,SHEH,,Santiago,CL,-33.403889,-70.572777,2470
+SHEI,Escuela de Investigaciones Policiales Heliport,SHEI,,Santiago,CL,-33.459446,-70.716667,1608
+SHEJ,Cuartel Gral. I División De Ejercito Heliport,SHEJ,,Antofagasta,CL,-23.682500,-70.413889,124
+SHEM,El Mercurio Heliport,SHEM,,Santiago,CL,-33.381111,-70.595833,2247
+SHEQ,El Conquistador Heliport,SHEQ,,Santiago,CL,-33.370556,-70.650558,1670
+SHES,Eso Heliport,SHES,,Antofagasta,CL,-24.638334,-70.384720,7861
+SHET,San Esteban Heliport,SHET,,Yerbas Buenas,CL,-35.702221,-71.572220,541
+SHFA,Los Cerrillos Military Heliport,SHFA,,Santiago,CL,-33.496389,-70.695278,1703
+SHFE,Hospital San Camilo Heliport,SHFE,,San Felipe,CL,-32.748333,-70.709999,2155
+SHFR,San Francisco Heliport,SHFR,,Litueche,CL,-34.159721,-71.751663,935
+SHGA,Gral. Humberto Arriagada Heliport,SHGA,,Santiago,CL,-33.447498,-70.606941,1903
+SHGE,Gertrudis Echeñique Heliport,SHGE,,Santiago,CL,-33.413612,-70.589722,2270
+SHGR,Edificio Corpgroup Heliport,SHGR,,Las Condes,CL,-33.404444,-70.573056,2448
+SHHC,Hospital Clínico Regional de Concepción Heliport,SHHC,,Concepcion,CL,-36.820835,-73.035004,151
+SHHE,Helicopters Heliport,SHHE,,Machali,CL,-34.210556,-70.715836,1837
+SHHF,Hospital FACH Heliport,SHHF,,Santiago,CL,-33.391945,-70.543053,2574
+SHHI,Hospital del Imponente Heliport,SHHI,,Santiago,CL,-33.417221,-70.528053,2426
+SHHM,Hospital Militar Heliport,SHHM,,Santiago,CL,-33.415279,-70.603333,2067
+SHHN,Hospital Naval Almirante Nef Heliport,SHHN,,Viña Del Mar,CL,-33.996666,-71.535835,200
+SHHR,Carabineros de Chile Heliport,SHHR,,Punta Arenas,CL,-53.156387,-70.922226,213
+SHHS,Hospital del Salvador Heliport,SHHS,,Santiago,CL,-33.436111,-70.621109,1910
+SHHV,Naval Heliport,SHHV,,Arica,CL,-18.472200,-70.320602,12
+SHIQ,Cuartel Gral. VI División de Ejercito Heliport,SHIQ,,Iquique,CL,-20.230000,-70.144997,26
+SHIS,Isidora 3000 Heliport,SHIS,,Las Condes,CL,-33.413889,-70.597778,2510
+SHJO,Hospital San José Heliport,SHJO,,Santiago,CL,-33.408611,-70.652222,1868
+SHKI,Kipreos Heliport,SHKI,,Santiago,CL,-33.560276,-70.744446,1575
+SHLA,Las Americas Heliport,SHLA,,Santiago,CL,-33.435833,-70.643333,2126
+SHLC,Lan Courier Heliport,SHLC,,Santiago,CL,-33.383888,-79.750557,1565
+SHLP,La Parva Heliport,SHLP,,Farellones,CL,-33.328888,-70.283333,9080
+SHLS,Las Salinas Heliport,SHLS,,Viña Del Mar,CL,-32.995834,-71.547226,10
+SHMA,Clínica Santa María Heliport,SHMA,,Santiago,CL,-33.432220,-70.628334,2028
+SHMB,Mercedez Benz Heliport,SHMB,,Santiago,CL,-33.461666,-70.714722,1617
+SHMD,Ministerio de Defensa Nacional Heliport,SHMD,,Santiago,CL,-33.435276,-70.638054,2123
+SHMS,Mutual de Seguridad Heliport,SHMS,,Santiago,CL,-33.458057,-70.699997,1650
+SHNC,Catalina Norte 1 Heliport,SHNC,,Punta Arenas,CL,-52.563610,-68.675552,98
+SHNL,Nueva de Lyon Heliport,SHNL,,Santiago,CL,-33.417500,-70.608055,2192
+SHNO,Catalina Norte 2 Heliport,SHNO,,Punta Arenas,CL,-52.575279,-69.663612,30
+SHNZ,Nazareno Heliport,SHNZ,,Pirque,CL,-33.652779,-70.527222,2822
+SHOT,Santa Rosa De Tabalí Heliport,SHOT,,Ovalle,CL,-30.679444,-71.408611,787
+SHOV,Lo Ovalle Heliport,SHOV,,Casablanca,CL,-33.250832,-71.368332,919
+SHPE,Pelluco Heliport,SHPE,,Puerto Montt,CL,-41.485554,-72.902779,66
+SHPP,Papudo Heliport,SHPP,,Papudo,CL,-32.500278,-71.459167,82
+SHPT,Portillo Heliport,SHPT,,Los Andes,CL,-32.836388,-70.131111,9000
+SHPU,Punta Catalina Heliport,SHPU,,Punta Catalina,CL,-52.545834,-68.758331,16
+SHQN,Quinn Heliport,SHQN,,Valdivia,CL,-39.852501,-73.257202,49
+SHRB,Rodelbahn Heliport,SHRB,,Santiago,CL,-33.459167,-70.517220,2789
+SHRE,Jose Miguel Carrera Heliport,SHRE,,Santiago,CL,-33.441389,-70.655000,2034
+SHRP,Rapel Heliport,SHRP,,Las Cabras,CL,-34.212776,-71.453056,394
+SHSB,Cerro Sombrero Heliport,SHSB,,Magallanes,CL,-52.766666,-69.288887,98
+SHSC,Santiago Centro Heliport,SHSC,,Santiago,CL,-33.439167,-70.648056,2083
+SHSD,Sonda Heliport,SHSD,,Santiago,CL,-52.249401,-68.936699,76
+SHSE,Posesión Heliport,SHSE,,Posesion,CL,-52.249443,-68.936668,76
+SHSI,Posesión 5 Heliport,SHSI,,Posesion,CL,-52.268333,-69.073334,98
+SHSK,Skua 1 Heliport,SHSK,,Punta Catalina,CL,-52.409168,-68.785278,98
+SHSM,Edificio Torre Santa María Heliport,SHSM,,Santiago,CL,-33.416668,-70.616669,2329
+SHSO,Hospital Santiago Oriente Heliport,SHSO,,Santiago,CL,-33.502777,-70.578888,2083
+SHSR,Edificio Torre San Ramón Heliport,SHSR,,Santiago,CL,-33.416668,-70.603889,2133
+SHSS,Hospital Regional de Temuco Heliport,SHSS,,Temuco,CL,-38.735832,-72.598335,410
+SHST,Santiago Heliport,SHST,,Santiago,CL,-33.441113,-70.645279,1929
+SHSU,Skua 4 Heliport,SHSU,,Punta Catalina,CL,-52.375832,-68.788612,69
+SHTC,Edificio Corporativo CTC Heliport,SHTC,,Santiago,CL,-33.436943,-70.632500,2389
+SHTI,Torre Interamericana Heliport,SHTI,,Santiago,CL,-33.436390,-70.643608,2185
+SHTL,Torre Ligure Heliport,SHTL,,Concepcion,CL,-36.824444,-73.050003,182
+SHTO,Subteniente Marcelo Topali Heliport,SHTO,,Santiago,CL,-33.438889,-70.635002,2121
+SHTR,Sotracer Heliport,SHTR,,Los Angeles,CL,-37.478611,-72.326668,486
+SHVI,Villarica Park Lake Heliport,SHVI,,Villarrica,CL,-39.301944,-72.088889,804
+SHVM,Viña Matetic Heliport,SHVM,,Cartagena,CL,-33.469444,-71.399167,820
+SHWT,World Trade Center Heliport,SHWT,,Santiago,CL,-33.403610,-70.603333,2261
+SHYA,Sumaya Heliport,SHYA,,Pirque,CL,-33.676666,-70.547226,2244

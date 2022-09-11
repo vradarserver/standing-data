@@ -1,0 +1,635 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SJAA,Fazenda São José do Rio Branco Airport,SJAA,,Pontes E Lacerda,BR,-15.071389,-59.153332,1142
+SJAC,Fazenda Rio Preto Airport,SJAC,,São Félix Do Araguaia,BR,-11.475556,-51.687222,886
+SJAD,Tecno Bag Heliport,SJAD,,Lorena,BR,-22.756666,-45.108612,1765
+SJAE,Fazenda Furnas Airport,SJAE,,Ribeirão Cascalheira,BR,-13.140278,-51.801109,1618
+SJAF,Fazenda Água Limpa Airport,SJAF,,Campo Novo Do Parecis,BR,-13.670833,-57.895557,1804
+SJAG,Fazenda Paredão Airport,SJAG,,Vila Bela Da Santíssima Trindade,BR,-13.628611,-60.288334,804
+SJAI,Fazenda Davilândia Airport,SJAI,,Montividiu Do Norte,BR,-13.187500,-48.750000,1359
+SJAJ,Estação Convention Center Heliport,SJAJ,,Curitiba,BR,-25.438334,-49.267223,3084
+SJAK,Fazenda F5 Airport,SJAK,,Tupaciguara,BR,-18.364166,-48.871944,1624
+SJAL,Fazenda Santa Maria Airport,SJAL,,Açailândia,BR,-4.646389,-47.233334,1077
+SJAM,Estância Lajota Heliport,SJAM,,Mairiporã,BR,-23.248333,-46.571110,3183
+SJAN,Grupo Santander Banespa - Panamericana Park Heliport,SJAN,,São Paulo,BR,-23.653889,-46.725555,2405
+SJAO,Natura Heliport,SJAO,,Cajamar,BR,-23.404167,-46.828609,2414
+SJAP,Fazenda Mrajan Heliport,SJAP,,Valinhos,BR,-22.915001,-46.984165,2290
+SJAQ,Fazenda Renascença Airport,SJAQ,,Unaí,BR,-16.120277,-46.360001,2999
+SJAR,Fazenda Bela Manhã Airport,SJAR,,Santa Clara D`Oeste,BR,-20.018600,-50.899200,1198
+SJAS,Fazenda São Roque Airport,SJAS,,Reginópolis,BR,-21.669167,-49.173058,1450
+SJAU,Araguacema Airport,SJAU,,Araguacema,BR,-8.837720,-49.557499,680
+SJAV,Nauto Najar Heliport,SJAV,,Americana,BR,-22.748611,-47.301109,1871
+SJAW,Fazenda Citrícola Airport,SJAW,,Gavião Peixoto,BR,-21.725279,-48.451942,2057
+SJAX,Fazenda Acalanto Airport,SJAX,,São Desidério,BR,-12.965000,-45.976112,2657
+SJAY,Fazenda Ventura Airport,SJAY,,São Desidério,BR,-13.160833,-46.200832,3127
+SJAZ,Fazenda Querubim Airport,SJAZ,,São Desidério,BR,-12.768889,-46.021389,2733
+SJBA,Friboi Heliport,SJBA,,São Paulo,BR,-23.513332,-46.730831,2445
+SJBE,Ortosíntese Heliport,SJBE,,São Paulo,BR,-23.440832,-46.723888,2743
+SJBF,Fazenda J.K. Airport,SJBF,,Mimoso De Goiás,BR,-15.158889,-48.283890,2136
+SJBG,Edifício Torre Almirante Heliport,SJBG,,Rio De Janeiro,BR,-22.909166,-43.178890,417
+SJBH,Tranportadora Americana Heliport,SJBH,,São Paulo,BR,-23.514723,-46.738335,2407
+SJBI,Edra Heliport,SJBI,,Ipeúna,BR,-22.440277,-47.697777,2002
+SJBJ,Guancan Heliport,SJBJ,,Cotia,BR,-23.613056,-46.851391,2690
+SJBK,Iriri Airport,SJBK,,Altamira,BR,-5.679167,-54.244999,581
+SJBL,Fazenda São José Heliport,SJBL,,Rio Claro,BR,-22.330000,-47.488609,2113
+SJBN,Aldeia Pykany Airport,SJBN,,Altamira,BR,-8.166667,-54.829723,1100
+SJBO,Terra Vista Heliport,SJBO,,Porto Seguro,BR,-16.543056,-39.111668,240
+SJBP,Atrium VI.com Heliport,SJBP,,São Paulo,BR,-23.595278,-46.687222,2664
+SJBQ,CBMM Heliport,SJBQ,,Araxá,BR,-19.675833,-46.903889,3649
+SJBR,Fazenda Santa Luzia Airport,SJBR,,Corumbá,BR,-17.876667,-56.388889,401
+SJBS,Fazenda Livramento Airport,SJBS,,Corumbá,BR,-19.268612,-56.031113,443
+SJBT,Fazenda São João Airport,SJBT,,Aquidauana,BR,-19.574444,-56.099445,417
+SJBU,Fazenda Baluarte Airport,SJBU,,Lagoa Dos Patos,BR,-17.012777,-44.790279,1720
+SJBW,Fazenda Barbacena Airport,SJBW,,São Pedro Do Ivaí,BR,-23.839443,-51.902779,1247
+SJBX,Severino Lopes Airport,SJBX,,São José Do Mipibu,BR,-6.020000,-35.239723,329
+SJBY,João Silva Airport,SJBY,,Santa Inês,BR,-3.654280,-45.345200,82
+SJBZ,Fazenda Três Barras Airport,SJBZ,,Itarumã,BR,-18.957222,-51.108612,1411
+SJCA,Comandante Vittorio Bonomi Airport,SJCA,,Mococa,BR,-21.530399,-47.046501,2133
+SJCB,Classic Heliport,SJCB,,São Paulo,BR,-23.513332,-46.734165,2401
+SJCC,Álvaro Gama Heliport,SJCC,,Cabo Frio,BR,-22.868334,-42.046944,17
+SJCD,Fazenda Pingo D`Água Airport,SJCD,,Pedro Gomes,BR,-17.721111,-53.937500,1303
+SJCE,Usina Eldorado Airport,SJCE,,Rio Brilhante,BR,-21.852222,-54.018890,1690
+SJCF,Fazenda Estrela D`Alva Airport,SJCF,,Canarana,BR,-13.189167,-52.306946,1250
+SJCG,Iate Clube de Santos - Angra dos Reis Heliport,SJCG,,Angra Dos Reis,BR,-22.978056,-44.433613,214
+SJCI,Cap PM Paulo José de Menezes Filho Heliport,SJCI,,São José Dos Campos,BR,-23.194445,-45.874168,1962
+SJCJ,Forum Trabalhista de 1ª Instância de São Paulo I Heliport,SJCJ,,São Paulo,BR,-23.522223,-46.661110,2619
+SJCK,Rei da Pamonha Heliport,SJCK,,São Paulo,BR,-23.442499,-46.756668,2560
+SJCL,Fazenda Araçatuba Airport,SJCL,,Nova Crixás,BR,-14.531389,-50.408611,1100
+SJCM,Fazenda São Marcus Airport,SJCM,,Pontal Do Araguaia,BR,-16.121668,-52.950832,4361
+SJCN,Aero Agrícola Cristalina Airport,SJCN,,Cristalina,BR,-16.906944,-47.708332,3544
+SJCO,Fazenda Aparecida Airport,SJCO,,Penápolis,BR,-21.498056,-50.101112,1510
+SJCP,Fazenda São Roberto Airport,SJCP,,Paraúna,BR,-17.072779,-50.847500,2497
+SJCQ,Fazenda Serra Azul Airport,SJCQ,,Baixa Grande,BR,-11.935500,-40.050701,1123
+SJCR,Forum Trabalhista de 1ª Instância de São Paulo II Heliport,SJCR,,São Paulo,BR,-23.522223,-46.661667,2619
+SJCS,Continental Square Heliport,SJCS,,São Paulo,BR,-23.595556,-46.684166,2678
+SJCT,Fazenda da Mata Heliport,SJCT,,Cláudio,BR,-20.474167,-44.782780,2622
+SJCU,CDA - Uberaba Heliport,SJCU,,Uberaba,BR,-20.000000,-47.896667,1766
+SJCV,Trend Bank Heliport,SJCV,,Camanducaia,BR,-22.864445,-46.036388,5020
+SJCW,Jatapu Airport,SJCW,,Urucará,BR,-1.712050,-58.511200,132
+SJCX,Hospital Pronto Socorro de Venda Nova Heliport,SJCX,,Belo Horizonte,BR,-19.818333,-43.947498,2622
+SJCY,Estância Santa Rita Airport,SJCY,,Cuiabá,BR,-15.679444,-55.955555,617
+SJCZ,Fazenda Paraíso Airport,SJCZ,,Nova Ubiratã,BR,-12.429167,-54.256390,1101
+SJDA,Fazenda Cruzeiro Airport,SJDA,,Uberaba,BR,-19.192223,-48.117222,3160
+SJDB,Bonito Airport,SJDB,,Bonito,BR,-21.247299,-56.452499,1180
+SJDC,Coca-Cola Heliport,SJDC,,Uberaba,BR,-19.744167,-47.979168,2530
+SJDD,Fazenda Jumbo Airport,SJDD,,Taquarussu,BR,-22.513889,-53.341946,854
+SJDF,Hospital Anchieta Heliport,SJDF,,Brasília,BR,-15.823333,-48.066387,4013
+SJDG,Projeto Iriri Airport,SJDG,,Altamira,BR,-6.188056,-54.072224,657
+SJDH,Fazenda S.M. Airport,SJDH,,Jaborandi,BR,-14.550000,-45.766666,2891
+SJDI,Fazenda Concórdia Airport,SJDI,,Naviraí,BR,-22.849167,-54.206112,1247
+SJDJ,Arenhart Airport,SJDJ,,Uruguaiana,BR,-29.888611,-57.139999,210
+SJDK,Oeste Plaza Shopping - MC Heliport,SJDK,,Andradina,BR,-20.884167,-51.368610,1339
+SJDL,Fazenda Paraíso Airport,SJDL,,Corumbá,BR,-17.307777,-55.845280,1313
+SJDN,Fazenda Campo Alegre Airport,SJDN,,Aquidauana,BR,-19.456112,-55.740833,558
+SJDO,Maroum Heliport,SJDO,,Ilhabela,BR,-23.821112,-45.371113,10
+SJDP,My Way Heliport,SJDP,,Angra Dos Reis,BR,-23.014723,-44.287224,99
+SJDQ,Trade Tower Heliport,SJDQ,,Campinas,BR,-22.897499,-47.046944,2294
+SJDR,Diplomata Empresarial S/C Ltda Heliport,SJDR,,Guarujá,BR,-23.918333,-46.212776,7
+SJDS,Fábrica Fortaleza Airport,SJDS,,Eusébio,BR,-3.927222,-38.500557,66
+SJDT,Fazenda São Roque Airport,SJDT,,Aquidauana,BR,-19.518333,-55.311943,453
+SJDU,Nossa Senhora do Loreto Airport,SJDU,,Uruguaiana,BR,-29.728056,-56.962223,329
+SJDV,Fazenda Redenção Airport,SJDV,,Corumbá,BR,-19.618610,-56.743057,312
+SJDW,Fazenda Canadá Airport,SJDW,,Caracol,BR,-22.126944,-57.289444,548
+SJDX,Fazenda Bandeirantes Airport,SJDX,,Aquidauana,BR,-19.412222,-55.549721,375
+SJDY,Fazenda da Barra Airport,SJDY,,Camapuã,BR,-18.663055,-54.068611,1533
+SJDZ,Cidade Empresarial Heliport,SJDZ,,Aparecida De Goiânia,BR,-16.750000,-49.349167,2937
+SJEA,Cadete 56-147 Santana Airport,SJEA,,Palmeirópolis,BR,-12.850000,-48.225277,985
+SJEB,Milennium Office Park Heliport,SJEB,,São Paulo,BR,-23.592777,-46.689167,2487
+SJED,Fazenda Abath Airport,SJED,,Corumbá,BR,-18.680000,-57.224998,348
+SJEE,Fazenda Ourissanga Airport,SJEE,,Selvíria,BR,-20.420278,-51.445278,1182
+SJEF,Fazenda Costa Rica Airport,SJEF,,Aquidauana,BR,-19.746944,-56.042221,342
+SJEG,Estância Esmeralda Airport,SJEG,,Corumbá,BR,-20.160557,-57.158054,525
+SJEH,Fazenda Santa Eliza Airport,SJEH,,Ribeirão Bonito,BR,-22.101944,-48.226944,2395
+SJEI,New England Heliport,SJEI,,São Paulo,BR,-23.557777,-46.661110,2904
+SJEJ,Fazenda Bonanza Airport,SJEJ,,Avaí,BR,-22.155001,-49.287777,1713
+SJEK,Satélite Aviação Agrícola Airport,SJEK,,Canarana,BR,-13.545556,-52.263889,4594
+SJEL,Eldorado Airport,SJEL,,Itaituba,BR,-6.955556,-56.471111,837
+SJEM,Estância Pousada dos Pássaros Airport,SJEM,,Vera,BR,-12.319167,-55.333889,1231
+SJEN,Pista PLA e Silva Airport,SJEN,,Santa Vitória Do Palmar,BR,-33.143890,-52.976391,10
+SJEO,Sylvio Quadros Mercês Heliport,SJEO,,Salvador,BR,-12.979167,-38.473331,168
+SJEP,Sementes Roos Heliport,SJEP,,Não Me Toque,BR,-28.443333,-52.813889,1723
+SJEQ,Fazenda Bom Jesus Airport,SJEQ,,Corumbá,BR,-18.182777,-56.782501,404
+SJER,Fazenda Canadá Airport,SJER,,Acreúna,BR,-17.318889,-50.320278,1841
+SJES,Fazenda Água Pê Airport,SJES,,Corumbá,BR,-18.117779,-56.641109,407
+SJET,Fazenda Recreio Airport,SJET,,Corumbá,BR,-17.564722,-56.786667,404
+SJEU,Fazenda São Cristóvão Airport,SJEU,,Corumbá,BR,-17.869167,-56.193890,404
+SJEV,Fazenda São Francisco Airport,SJEV,,Corumbá,BR,-17.648333,-56.886112,401
+SJEW,Fazenda Horita Airport,SJEW,,São Desidério,BR,-13.011111,-46.238056,3163
+SJEX,Fazenda Vitória Airport,SJEX,,São Desidério,BR,-13.010556,-46.107777,2966
+SJEY,Fazenda Agronet Airport,SJEY,,Indiaporã,BR,-19.990557,-50.266109,1562
+SJFA,West Side Heliport,SJFA,,Barueri,BR,-23.503332,-46.848888,2932
+SJFB,Fazenda Bacuri Airport,SJFB,,Riachão,BR,-8.382778,-46.442223,1815
+SJFC,Federação do Comércio do Estado de São Paulo Heliport,SJFC,,São Paulo,BR,-23.558332,-46.652222,2707
+SJFD,Méier Medical Center Heliport,SJFD,,Rio De Janeiro,BR,-22.899166,-43.281387,178
+SJFF,Frigo Estrela Airport,SJFF,,Estrela D`Oeste,BR,-20.294722,-50.410557,1595
+SJFG,Fazenda Penedo Airport,SJFG,,Itaituba,BR,-5.521111,-57.107498,250
+SJFH,I.I.J.O.- Rosário Heliport,SJFH,,Guaíra,BR,-20.411943,-48.216667,1808
+SJFI,CIFI Airport,SJFI,,Cuiabá,BR,-15.634722,-55.990555,644
+SJFJ,Três Marias da Pitangueiras Airport,SJFJ,,Santo Antônio Do Leverger,BR,-17.235001,-55.226665,522
+SJFK,Fazenda Cachoeira Airport,SJFK,,Araguaçu,BR,-12.596667,-49.518055,752
+SJFL,Fazenda Campo Formoso Airport,SJFL,,Sandolândia,BR,-12.561667,-49.863335,1083
+SJFM,Fazenda Macuco Airport,SJFM,,Eldorado,BR,-23.835833,-54.231388,1149
+SJFN,Fazenda Brasil Novo Airport,SJFN,,Coxim,BR,-18.371668,-54.928890,752
+SJFO,Fazenda Califórnia Airport,SJFO,,Porteirão,BR,-18.036667,-50.199444,1549
+SJFP,Fazenda Perobal Airport,SJFP,,Corumbiara,BR,-12.910833,-61.368889,984
+SJFQ,Fazenda Quatrirmãs Airport,SJFQ,,Itatinga,BR,-22.959444,-48.674721,2441
+SJFR,Fronteira Airport,SJFR,,Brasnorte,BR,-12.523889,-58.235558,1492
+SJFS,São João e São Marcos Heliport,SJFS,,Porto Feliz,BR,-23.208055,-47.480278,1475
+SJFT,Fazenda Triunfo Rio Turvo Airport,SJFT,,Nova Bandeirantes,BR,-10.093056,-57.726944,1018
+SJFU,Tabuleiro Airport,SJFU,,Bananeiras,BR,-6.694167,-35.630280,1716
+SJFV,Fazenda Gaia Airport,SJFV,,Monte Alegre De Minas,BR,-18.760000,-48.755280,2762
+SJFW,Fazenda W. Egídio III Airport,SJFW,,Unaí,BR,-15.938056,-46.477501,2648
+SJFX,Fazenda Santo Ângelo Airport,SJFX,,São Desidério,BR,-12.798333,-46.095833,2799
+SJFY,Hospital Estadual de Pronto Socorro Heliport,SJFY,,João Pessoa,BR,-7.121389,-34.844444,91
+SJFZ,Fazenda MC Heliport,SJFZ,,Espírito Santo Do Pinhal,BR,-22.251667,-46.800278,2644
+SJGA,Aerorural Floramazon Airport,SJGA,,Aveiro,BR,-3.702222,-56.053890,131
+SJGB,Fazenda Ponte de Pedra Airport,SJGB,,Campo Novo Do Parecis,BR,-13.584167,-57.463055,1690
+SJGC,Fazenda Busato I Airport,SJGC,,São Desidério,BR,-12.901667,-45.500000,1201
+SJGD,Fazenda Rio Brilhante Airport,SJGD,,São Desidério,BR,-12.803333,-45.723610,2500
+SJGE,Pista Nações Unidas Airport,SJGE,,Itaituba,BR,-6.081389,-56.289444,591
+SJGF,Aeródromo Nova Era Airport,SJGF,,Pântano Grande,BR,-30.212778,-52.441387,131
+SJGG,Plaza II Heliport,SJGG,,São Paulo,BR,-23.610832,-46.696110,2671
+SJGH,Aeropel Airport,SJGH,,São Borja,BR,-28.716389,-55.992500,300
+SJGI,Fazenda Cypi Airport,SJGI,,Corumbá,BR,-19.338057,-56.907780,328
+SJGJ,Namocoli Airport,SJGJ,,Corumbá,BR,-20.608889,-57.554169,282
+SJGK,Fazenda Rio liberdade Airport,SJGK,,Santana Do Araguaia,BR,-9.428611,-51.026943,404
+SJGL,Pitangueira Heliport,SJGL,,Agrolândia,BR,-27.376110,-49.830833,1290
+SJGM,Quadra Hungria Heliport,SJGM,,São Paulo,BR,-23.575001,-46.696110,2491
+SJGN,Fazenda Agromar Airport,SJGN,,São José Do Rio Claro,BR,-13.662500,-56.482777,1201
+SJGO,Eldorado Airport,SJGO,,Eldorado,BR,-23.818611,-54.252499,1079
+SJGP,Condomínio Fly-In Community Airport,SJGP,,Rondonópolis,BR,-16.446199,-54.664200,1047
+SJGQ,Fazenda Alebisa Heliport,SJGQ,,Uberlândia,BR,-18.860832,-48.503334,2641
+SJGR,Fazenda Cavalgada Grande Airport,SJGR,,Crixás,BR,-14.604722,-50.152779,1050
+SJGS,São José de Dentro Heliport,SJGS,,Nova Friburgo,BR,-22.282223,-42.495277,3298
+SJGT,Salto Augusto Airport,SJGT,,Apiacás,BR,-8.892778,-58.549721,1559
+SJGU,Araguatins Airport,SJGU,,Araguatins,BR,-5.684440,-48.115601,411
+SJGV,Bons Ventos Heliport,SJGV,,São José Dos Pinhais,BR,-25.661388,-49.139168,2963
+SJGW,Estância Floresta Airport,SJGW,,Sinop,BR,-11.782778,-55.539165,1280
+SJGX,Da Praia Velha Airport,SJGX,,Camaquã,BR,-31.126667,-51.575832,30
+SJGY,Fazenda Barriguda Airport,SJGY,,São Domingos,BR,-13.707778,-46.735832,1965
+SJGZ,Fazenda Araçatuba Airport,SJGZ,,Anaurilândia,BR,-22.090000,-52.674999,1231
+SJHA,Fazenda Janaína Airport,SJHA,,Amambaí,BR,-22.983055,-55.020000,1296
+SJHB,Real Hospital Português Heliport,SJHB,,Recife,BR,-8.063889,-34.897778,221
+SJHC,Canal Heliport,SJHC,,Cabo Frio,BR,-22.872223,-42.011665,7
+SJHD,Fazenda Modelo Airport,SJHD,,Brasilândia,BR,-21.382221,-52.198891,1375
+SJHE,Fazenda Palmeira Airport,SJHE,,Ipiranga Do Norte,BR,-12.093889,-55.997780,1201
+SJHF,Bunge Airport,SJHF,,Uruçui,BR,-7.372222,-44.396111,1837
+SJHG,Confresa Airport,SJHG,CFO,Confresa,BR,-10.634400,-51.563599,781
+SJHH,Fazenda Poruína Airport,SJHH,,Serranópolis,BR,-18.120001,-52.217777,2287
+SJHI,Flow Water Heliport,SJHI,,Campos Do Jordão,BR,-22.745277,-45.531387,6063
+SJHJ,Fazenda Remanso Airport,SJHJ,,Cacoal,BR,-11.182222,-61.088890,831
+SJHK,Música Airport,SJHK,,Dom Pedrito,BR,-30.936111,-55.080833,394
+SJHL,Frisama Eldorado Airport,SJHL,,Eldorado Do Carajás,BR,-6.094722,-49.361389,384
+SJHM,Fazenda Globo Airport,SJHM,,Sapezal,BR,-12.953611,-58.590279,1588
+SJHN,Fazenda Belluno Airport,SJHN,,Alfredo Wagner,BR,-27.817223,-49.233891,3445
+SJHO,Fazenda Colorado Airport,SJHO,,Diamantino,BR,-13.951389,-57.105556,1699
+SJHP,Monte Belo Airport,SJHP,,Ribas Do Rio Pardo,BR,-20.276388,-53.661667,1624
+SJHQ,Fazenda São José da Reunidas Airport,SJHQ,,São José Do Xingu,BR,-11.033611,-52.333889,1155
+SJHS,Fazenda São Vicente Airport,SJHS,,Uberlândia,BR,-19.317499,-48.348610,2477
+SJHT,Fazenda ANB Airport,SJHT,,Corguinho,BR,-19.831667,-54.829445,1194
+SJHU,Agropecuária Vale do Guaporé Airport,SJHU,,Vila Bela Da Santíssima Trindade,BR,-13.878611,-60.096390,1149
+SJHV,Valmor Weiss Heliport,SJHV,,Curitiba,BR,-25.448055,-49.243610,2920
+SJHW,Professor Maurício Joppert Airport,SJHW,,Engenheiro Navarro,BR,-17.293612,-43.958611,2221
+SJHX,Frisama Açailândia Airport,SJHX,,Açailândia,BR,-4.945556,-47.464722,926
+SJHY,Paiva Air Heliport,SJHY,,Mairinque,BR,-23.559168,-47.199722,2730
+SJHZ,Fazenda Dois Netos Airport,SJHZ,,Paranatinga,BR,-13.245556,-54.033890,1165
+SJIA,Ipiaú Heliport,SJIA,,Ipiaú,BR,-14.153333,-39.699722,430
+SJIB,Itabuna Heliport,SJIB,,Itabuna,BR,-14.810500,-39.290401,217
+SJIC,Pedro da Costa Lima Airport,SJIC,,Santa Rita Do Pardo,BR,-21.244444,-52.786110,1050
+SJID,Fazenda Goiaba Airport,SJID,,Três Lagoas,BR,-19.917221,-52.631390,1549
+SJIE,Aero Agrícola Sapezal Airport,SJIE,,Sapezal,BR,-13.550278,-58.860001,1739
+SJIF,Fazenda Nova Era Airport,SJIF,,Iguatemi,BR,-23.394167,-54.752499,1247
+SJIH,Polícia Federal do Espírito Santo Heliport,SJIH,,Vila Velha,BR,-20.327223,-40.353333,62
+SJII,Fazenda São Marcos Airport,SJII,,Dourados,BR,-22.296667,-54.941387,1395
+SJIJ,Fazenda Amparo Airport,SJIJ,,Alto Taquari,BR,-17.781944,-53.461109,2766
+SJIL,Fazenda Santa Bárbara Airport,SJIL,,Corumbá,BR,-19.098612,-55.847778,427
+SJIM,Major PM oswaldo Cândido Nunes Heliport,SJIM,,Nova Venécia,BR,-18.705833,-40.407223,436
+SJIN,Hotel Ariau Amazon Towers II Heliport,SJIN,,Iranduba,BR,-3.091944,-60.441944,98
+SJIO,Guararapes Airport,SJIO,,Santa Cecília,BR,-26.991943,-50.383057,3609
+SJIP,Ipiranga Centro Logístico Heliport,SJIP,,Guarulhos,BR,-23.419722,-46.376945,2500
+SJIQ,Usina Coruripe - Filial Limeira do Oeste Airport,SJIQ,,Limeira Do Oeste,BR,-19.523333,-50.655556,1384
+SJIR,Engenheiro Joaquim Martins Airport,SJIR,,Iramaia,BR,-13.307778,-40.882778,1733
+SJIS,Fazenda Futuro Airport,SJIS,,Ribas Do Rio Pardo,BR,-20.346666,-53.456944,1598
+SJIT,Itaú de Minas Airport,SJIT,,Itaú De Minas,BR,-20.755301,-46.750198,2520
+SJIU,Fazenda Beija-Flor Airport,SJIU,,Esplanada,BR,-11.794167,-38.090832,555
+SJIV,São João Airport,SJIV,,Maçambará,BR,-29.085833,-56.214722,269
+SJIW,Casas Bahia Heliport,SJIW,,Santana Do Parnaíba,BR,-23.475000,-46.828335,2723
+SJIX,Marina Porto Imperial Heliport,SJIX,,Parati,BR,-23.230556,-44.715279,10
+SJIY,São Leopoldo Airport,SJIY,,Itaituba,BR,-4.979167,-56.927223,814
+SJIZ,Módulo Aguapei Airport,SJIZ,,Porto Esperidião,BR,-15.868889,-59.218887,869
+SJJA,Fazenda Jamanxin Airport,SJJA,,Novo Progresso,BR,-8.375000,-55.306110,800
+SJJB,Fazenda Cacique Airport,SJJB,,Brasilândia,BR,-20.776667,-52.777222,1348
+SJJC,Ceará-Mirim Heliport,SJJC,,Ceará-Mirim,BR,-5.507500,-35.503334,98
+SJJD,Jijoca De Jericoacoara Airport,SJJD,,Jijoca De Jericoacoara,BR,-2.888889,-40.474167,66
+SJJE,Jequié Heliport,SJJE,,Jequié,BR,-13.840278,-40.103058,709
+SJJF,Pousada do Rio Roosevelt Airport,SJJF,,Novo Aripuanã,BR,-8.494444,-60.962502,292
+SJJG,Fazenda Tanguru Airport,SJJG,,Querência,BR,-12.721667,-52.378613,1050
+SJJH,Pousada Rio Xingu Airport,SJJH,,Vitória Do Xingu,BR,-3.249444,-51.722500,233
+SJJI,Novo Horizonte Airport,SJJI,,Coronel Domingos Soares,BR,-26.249166,-51.903332,3720
+SJJJ,Fazenda Juliana Airport,SJJJ,,Chupinguaia,BR,-12.682500,-61.088890,1132
+SJJK,Fazenda Taquaral Airport,SJJK,,Alta Floresta,BR,-10.028889,-56.738300,980
+SJJL,Fazenda Campo Aberto Airport,SJJL,,Barreiras,BR,-11.788300,-45.964699,2418
+SJJM,Michels Aviação Agrícola LTDA Airport,SJJM,,Sapezal,BR,-13.532222,-58.765278,1884
+SJJN,Fazenda Ponto de Apoio Airport,SJJN,,Água Clara,BR,-20.466389,-52.687500,1320
+SJJO,João de Oliveira Bueno Airport,SJJO,,Monte Alegre De Goiás,BR,-13.192500,-47.115555,1431
+SJJP,São Francisco Airport,SJJP,,Itaituba,BR,-7.835278,-56.538334,778
+SJJQ,Polícia Federal Heliport,SJJQ,,Natal,BR,-5.826111,-35.223610,218
+SJJR,Fazenda Recreio Airport,SJJR,,Andrelândia,BR,-21.719444,-44.209442,3810
+SJJS,BS Colway Heliport,SJJS,,Piraquara,BR,-25.461390,-49.111111,3018
+SJJT,Fazenda Vale Verde Airport,SJJT,,Pium,BR,-9.961111,-49.751945,581
+SJJU,Fazenda Barra Mansa Airport,SJJU,,Nova Lacerda,BR,-14.049444,-60.151943,725
+SJJV,Fazenda Pilar Airport,SJJV,,Aveiro,BR,-3.293333,-56.184723,499
+SJJW,Fazenda Santa Emília Airport,SJJW,,Aquidauana,BR,-19.505556,-55.613056,443
+SJJX,Maca Aero Airport,SJJX,,Tailândia,BR,-2.898056,-48.958611,179
+SJJY,Indaiaúba Heliport,SJJY,,Ilhabela,BR,-23.908056,-45.303055,500
+SJJZ,Ilha de Terrapleno Heliport,SJJZ,,Rio Grande,BR,-32.032780,-52.072777,10
+SJKA,Aerocampo Airport,SJKA,,Campo Novo Do Parecis,BR,-13.635278,-57.899445,1798
+SJKB,Cotriguaçu Airport,SJKB,,Cotriguaçu,BR,-9.899444,-58.581944,1506
+SJKC,Fazenda Costa Norte II Airport,SJKC,,Apiacás,BR,-9.291389,-58.033054,787
+SJKD,Helisilva Heliport,SJKD,,Balneário Camburiú,BR,-27.026388,-48.621113,10
+SJKE,Sellix Heliport,SJKE,,Itaboraí,BR,-22.747223,-42.832500,72
+SJKF,Lago Azul Heliport,SJKF,,Araçoiaba Da Serra,BR,-23.508612,-47.581944,2008
+SJKG,Fazenda Jatobá Airport,SJKG,,Uruará,BR,-3.513333,-54.095554,499
+SJKH,Boa Fé Airport,SJKH,,Itaituba,BR,-7.428056,-56.340832,722
+SJKI,Curiaú Airport,SJKI,,Macapá,BR,0.208889,-51.009201,66
+SJKJ,Fazenda Cangaia Airport,SJKJ,,Sonora,BR,-17.442778,-53.808887,2549
+SJKK,Coca-Cola Heliport,SJKK,,Uberlândia,BR,-18.896667,-48.242222,3084
+SJKL,Canã Airport,SJKL,,Normândia,BR,4.618890,-60.071701,994
+SJKM,Canawapai Airport,SJKM,,Uiramutã,BR,4.808060,-60.022202,1886
+SJKN,Caracanã Airport,SJKN,,Uiramutã,BR,4.704720,-60.265301,1988
+SJKO,Cararuau Airport,SJKO,,Normândia,BR,4.063060,-60.165001,594
+SJKP,Caraparu Airport,SJKP,,Uiramutã,BR,4.541110,-60.463100,1194
+SJKQ,Caramambataí (Mapae) Airport,SJKQ,,Uiramutã,BR,5.123060,-60.585800,1989
+SJKR,Pista KRB Airport,SJKR,,Itaituba,BR,-6.080556,-56.389168,706
+SJKS,Catrimani I Airport,SJKS,,Mucajaí,BR,2.375560,-63.008301,1092
+SJKT,Contão Airport,SJKT,,Normândia,BR,4.171670,-60.543598,577
+SJKU,Cumaipá Airport,SJKU,,Uiramutã,BR,4.813890,-60.473598,2188
+SJKV,Cumanã I Airport,SJKV,,Pacaraima,BR,4.470280,-60.778099,1191
+SJKW,Cumanã II Airport,SJKW,,Pacaraima,BR,4.426940,-60.823898,1191
+SJKX,Cutia Airport,SJKX,,Normândia,BR,4.170000,-59.748600,496
+SJKZ,Estevão Airport,SJKZ,,Uiramutã,BR,4.449720,-60.439201,994
+SJLA,Flechal Airport,SJLA,,Uiramutã,BR,4.661390,-60.291901,1988
+SJLB,Fazenda Chaparral Airport,SJLB,,Lambari D`Oeste,BR,-15.501944,-57.767223,949
+SJLC,Hakoma Airport,SJLC,,Alto Alegre,BR,2.720000,-63.567501,1191
+SJLD,Fazenda Porto do Campo Airport,SJLD,,Lambari D`Oeste,BR,-15.715556,-57.711388,594
+SJLE,Halikato-U Airport,SJLE,,Alto Alegre,BR,3.225000,-63.199402,994
+SJLF,Homoxi Airport,SJLF,,Iracema,BR,2.497780,-63.729698,2284
+SJLH,Jacamim Airport,SJLH,,Bonfim,BR,2.176110,-59.783901,495
+SJLI,Fazenda Lilliani Airport,SJLI,,Bom Jardim,BR,-4.213611,-46.974998,958
+SJLJ,Jatapuzinho Airport,SJLJ,,Caroebe,BR,0.597222,-59.221699,397
+SJLK,Lago Grande I Airport,SJLK,,Bonfim,BR,3.442780,-60.352501,298
+SJLL,Maturucá Airport,SJLL,,Normândia,BR,4.460830,-60.100300,1493
+SJLM,Leão de Ouro Airport,SJLM,,Pacaraima,BR,4.151670,-61.427799,298
+SJLN,Maloquinha Airport,SJLN,,Pacaraima,BR,4.726940,-60.590599,1890
+SJLO,Manalaí Airport,SJLO,,Uiramutã,BR,5.084170,-60.378899,2189
+SJLP,Manoá-Pium Airport,SJLP,,Bonfim,BR,2.980000,-60.095299,348
+SJLQ,Maracanã Airport,SJLQ,,Normândia,BR,4.365000,-60.016701,1791
+SJLS,Marupá Airport,SJLS,,Bonfim,BR,2.125280,-59.821400,495
+SJLT,Milho Airport,SJLT,,Boa Vista,BR,3.385560,-60.407799,358
+SJLU,Missão Catrinami Airport,SJLU,,Caracaraí,BR,1.740830,-62.286400,397
+SJLV,Morro Airport,SJLV,,Uiramutã,BR,4.357220,-59.970001,1792
+SJLW,Mudubim I Airport,SJLW,,Pacaraima,BR,4.421670,-60.489700,1493
+SJLX,Mutum Airport,SJLX,,Uiramutã,BR,4.453060,-59.853901,1792
+SJLZ,Orinduque Airport,SJLZ,,Uiramutã,BR,4.734440,-60.034698,1896
+SJMA,Fazenda Mundo Acabado Airport,SJMA,,Sonora,BR,-17.935556,-54.926109,525
+SJMB,Fazenda Mombaça Heliport,SJMB,,Angra Dos Reis,BR,-23.016111,-44.289165,132
+SJMC,Monte Carlo Trade Center Heliport,SJMC,,Barueri,BR,-23.492779,-46.851944,2746
+SJMD,Paapiu Novo Airport,SJMD,,Iracema,BR,2.722780,-62.950298,696
+SJME,Mato Grosso Airport,SJME,,Pacaraima,BR,4.570560,-60.903099,2783
+SJMF,Pacu Airport,SJMF,,Normândia,BR,4.163890,-60.222198,994
+SJMG,Maguinhos Heliport,SJMG,,Armação Dos Búzios,BR,-22.774445,-41.931667,5
+SJMH,Palimiú Airport,SJMH,,Alto Alegre,BR,3.318060,-62.971100,896
+SJMI,Parafuri Airport,SJMI,,Alto Alegre,BR,3.288060,-63.843102,1988
+SJMJ,Pedra Branca Airport,SJMJ,,Uiramutã,BR,4.457220,-60.267799,1489
+SJMK,Pedra Preta Airport,SJMK,,Uiramutã,BR,4.713060,-60.476398,2188
+SJML,Piolho Airport,SJML,,Pacaraima,BR,4.701390,-60.733601,2287
+SJMM,Pipi Airport,SJMM,,Uiramutã,BR,4.930000,-60.321899,2585
+SJMN,Raposa Airport,SJMN,,Normândia,BR,3.810000,-60.090302,495
+SJMO,Santa Isabel Airport,SJMO,,Pacaraima,BR,4.470000,-60.862499,1194
+SJMP,Santa Liberdade Airport,SJMP,,Pacaraima,BR,4.287500,-60.256901,1890
+SJMQ,Santa Maria de Normândia Airport,SJMQ,,Normândia,BR,4.170280,-60.137798,847
+SJMR,Maragogipe Airport,SJMR,,Itaquiraí,BR,-23.461111,-54.298889,998
+SJMS,Mineração Serra Grande Heliport,SJMS,,Crixás,BR,-14.574167,-49.967499,1267
+SJMT,São Miguel Cachoeirinha Airport,SJMT,,Pacaraima,BR,4.490280,-60.990601,1194
+SJMU,Sauparú Airport,SJMU,,Uiramutã,BR,4.989720,-60.435600,2287
+SJMV,Serra do Sol Airport,SJMV,,Uiramutã,BR,4.942500,-60.475300,2480
+SJMW,Socó Airport,SJMW,,Uiramutã,BR,4.470000,-60.176899,1690
+SJMX,Suapi Airport,SJMX,,Pacaraima,BR,4.575280,-60.858299,2487
+SJMZ,Fazenda Mizote Airport,SJMZ,,São Desidério,BR,-12.957500,-45.984722,2701
+SJNA,Clube de Esportes Aéreos e Náuticos do Pará Airport,SJNA,,Belém,BR,-1.267222,-48.430000,17
+SJNB,Ubaru Airport,SJNB,,Pacaraima,BR,4.501670,-60.802200,1194
+SJNC,Uraricoera Airport,SJNC,,Alto Alegre,BR,3.146110,-62.230301,794
+SJND,Nova Descoberta Airport,SJND,,Itaituba,BR,-6.618889,-56.692501,821
+SJNE,Wapum Airport,SJNE,,Bonfim,BR,1.990000,-59.957199,495
+SJNF,Wilimon Airport,SJNF,,Uiramutã,BR,4.635000,-60.176102,1739
+SJNG,Xidea Airport,SJNG,,Alto Alegre,BR,2.606940,-63.869400,1988
+SJNH,Fazenda Nhu-Verá Airport,SJNH,,Corumbá,BR,-18.027222,-55.460278,492
+SJNI,Fazenda Mutum Airport,SJNI,,Nova Mutum,BR,-13.919722,-56.084442,1575
+SJNJ,Fazenda Lakanka Airport,SJNJ,,Jussara,BR,-15.432500,-51.590557,892
+SJNK,Fazenda Três Perobas Airport,SJNK,,Santa Luzia D`Oeste,BR,-12.081667,-61.639999,1119
+SJNL,Fazenda Reata Airport,SJNL,,Campo Novo Do Parecis,BR,-13.620278,-57.580833,1791
+SJNM,Fazenda Santa Luzia Airport,SJNM,,Nova Mutum,BR,-13.999722,-55.945278,1520
+SJNN,Fazenda Botelho Airport,SJNN,,Nova Mamoré,BR,-10.222222,-64.343330,535
+SJNO,Fazenda Nazaré Airport,SJNO,,Corumbá,BR,-18.673611,-57.123333,348
+SJNP,Novo Progresso Airport,SJNP,,Novo Progresso,BR,-7.125833,-55.400833,794
+SJNQ,Destilaria Medasa Airport,SJNQ,,Medeiros Neto,BR,-17.485001,-40.157780,656
+SJNR,Norte Jet Airport,SJNR,,Benevides,BR,-1.307222,-48.257500,88
+SJNS,Ilha dos Macacos Airport,SJNS,,Paranaíta,BR,-9.225556,-57.022499,1266
+SJNT,Higienópolis Medical Center Heliport,SJNT,,São Paulo,BR,-23.549168,-46.658054,2884
+SJNU,Fazenda Campo Alto Airport,SJNU,,Ribeirão Cascalheira,BR,-13.037222,-51.713890,1099
+SJNV,Fazenda São Francisco Airport,SJNV,,Gouvelândia,BR,-18.431389,-50.256111,1857
+SJNW,Fazenda Nhandu Airport,SJNW,,Novo Mundo,BR,-9.633889,-55.226944,1103
+SJNX,Cosmos Aviação Agrícola Airport,SJNX,,Chapadão Do Céu,BR,-18.408056,-52.630280,2730
+SJNY,Iberostar Praia do Forte Heliport,SJNY,,Mata De São João,BR,-12.549167,-37.990276,33
+SJNZ,Fazenda Três Lagoas Airport,SJNZ,,Sapezal,BR,-13.252778,-58.729168,1746
+SJOA,Fazenda Fortaleza Heliport,SJOA,,Taubaté,BR,-23.178612,-45.471111,2155
+SJOB,Estáncia Parque Atibaia Heliport,SJOB,,Atibaia,BR,-23.080299,-46.581902,2874
+SJOC,Hotel Paradise Heliport,SJOC,,Catanduva,BR,-21.110277,-48.962223,1952
+SJOD,Alô Brasil Heliport,SJOD,,Monte Mor,BR,-22.970556,-47.298889,1863
+SJOE,Haras Cachoeira Heliport,SJOE,,Itu,BR,-23.246389,-47.424721,1732
+SJOF,Frango Norte Heliport,SJOF,,Tietê,BR,-23.073610,-47.727501,1726
+SJOG,Ariquemes Airport,SJOG,,Ariquemes,BR,-9.884722,-63.048889,530
+SJOH,Juruti Airport,SJOH,,Juruti,BR,-2.186667,-56.090279,108
+SJOI,Fazenda Jaguatirica Airport,SJOI,,Porto Murtinho,BR,-22.032223,-57.981945,289
+SJOJ,Simasa Airport,SJOJ,,Açailândia,BR,-4.869167,-47.389168,656
+SJOK,Fazenda Modelo Airport,SJOK,,Água Clara,BR,-19.315556,-52.976665,2041
+SJOL,RS Morizono Heliport,SJOL,,Barueri,BR,-23.508057,-46.836109,2362
+SJOM,Fazenda Karla Renata Airport,SJOM,,Castanheira,BR,-10.632500,-58.445000,991
+SJON,Fazenda São José do Generoso Airport,SJON,,Corumbá,BR,-18.872499,-56.789165,328
+SJOO,Doutor João Osmar de Oliveira Airport,SJOO,,Comodoro,BR,-14.134167,-59.819721,864
+SJOP,Minas da Conceição Heliport,SJOP,,Itabira,BR,-19.650833,-43.253056,2789
+SJOQ,Cristália Heliport,SJOQ,,Itapira,BR,-22.467777,-46.717499,2185
+SJOR,Fazenda Parabúfalos Airport,SJOR,,Macapá,BR,1.019440,-50.213902,30
+SJOS,Tropical Heliport,SJOS,,Nova Serrana,BR,-19.875278,-45.003887,2412
+SJOU,Marfrig Frigorífico Airport,SJOU,,Paranatinga,BR,-14.453333,-54.033611,1628
+SJOV,C.B.E. - Companhia Brasileira de Equipamentos Heliport,SJOV,,Ribeirão Grande,BR,-24.148611,-48.344166,2474
+SJOW,Fazenda Guadalupe Airport,SJOW,,Santo Antônio Do Aracanguá,BR,-20.981667,-50.526943,1188
+SJOX,Fazenda Brinquinho Airport,SJOX,,São Desidério,BR,-12.825000,-46.244999,3145
+SJOY,Fazenda São Miguel Airport,SJOY,,São Desidério,BR,-12.607222,-46.239445,2999
+SJOZ,Faria Lima Square Heliport,SJOZ,,São Paulo,BR,-23.588057,-46.682220,2612
+SJPA,EMAL - Pimenta Bueno Airport,SJPA,,Pimenta Bueno,BR,-11.686111,-60.629723,1001
+SJPB,Guarapiranga Golfe Heliport,SJPB,,São Paulo,BR,-23.787500,-46.781666,2487
+SJPC,Giannone Flavor Heliport,SJPC,,Sorocaba,BR,-23.453056,-47.421112,1992
+SJPD,Riacho Verde Heliport,SJPD,,Bezerros,BR,-8.256111,-35.772499,1664
+SJPE,Praia da Armação Heliport,SJPE,,Ilhabela,BR,-23.735001,-45.343056,10
+SJPF,Polícia Federal Heliport,SJPF,,Foz Do Iguaçu,BR,-25.515833,-54.572498,709
+SJPG,Pista Branca de Neve Airport,SJPG,,Itaituba,BR,-6.125000,-56.398888,545
+SJPH,Fazenda Palma Airport,SJPH,,Luziânia,BR,-16.189444,-48.078056,3297
+SJPI,Fazenda Pirapitinga Airport,SJPI,,Cocalzinho De Goiás,BR,-15.412778,-48.634167,2510
+SJPJ,Prefeitura do Município de Jundiaí Heliport,SJPJ,,Jundiaí,BR,-23.171389,-46.900276,2454
+SJPK,Marcos da Cunha Airport,SJPK,,Luís Eduardo Magalhães,BR,-12.361389,-46.134167,2815
+SJPL,Fazenda Austrália Airport,SJPL,,Deodápolis,BR,-21.974167,-54.147778,1116
+SJPM,Capitão PM Cidimar Antunes de Almeida Heliport,SJPM,,Niterói,BR,-22.866667,-43.123333,13
+SJPN,Campan Heliport,SJPN,,Cambará,BR,-23.041945,-50.055279,1661
+SJPO,Xingó Airport,SJPO,,Piranhas,BR,-9.587778,-37.778332,791
+SJPP,Aero Rural Airport,SJPP,,Alta Floresta,BR,-9.856944,-56.004444,879
+SJPQ,Avstal Airport,SJPQ,,Unaí,BR,-16.319721,-47.225277,3205
+SJPR,Andrieli Base Operacional Airport,SJPR,,Primavera Do Leste,BR,-15.579722,-54.407780,2188
+SJPS,Fazenda Monte Belo Airport,SJPS,,Barra Do Bugres,BR,-14.980000,-57.991669,636
+SJPT,Petrobrás - Refinaria de Capuava Heliport,SJPT,,Mauá,BR,-23.652779,-46.480000,2480
+SJPU,Pau D`Arco Airport,SJPU,,Itaituba,BR,-7.120000,-56.814445,866
+SJPV,Fazenda Guimarães Airport,SJPV,,Lucas Do Rio Verde,BR,-12.976389,-56.183613,1378
+SJPW,Fazenda Guimarães II Airport,SJPW,,Lucas Do Rio Verde,BR,-12.901944,-56.371944,1312
+SJPX,Fazenda Cidade Verde Airport,SJPX,,Poxoréo,BR,-15.415278,-54.372223,2028
+SJPY,Coqueiral Heliport,SJPY,,Porto Seguro,BR,-16.485277,-39.068333,6
+SJPZ,Fazenda Santo Antônio Heliport,SJPZ,,Matinha,BR,-3.116111,-45.012779,59
+SJQA,Fazenda Clarim Airport,SJQA,,São Desidério,BR,-13.212222,-46.238888,3121
+SJQB,Fazenda Symalu Airport,SJQB,,Cumaru Do Norte,BR,-8.327500,-51.105000,601
+SJQC,Jequitimar Heliport,SJQC,,Guarujá,BR,-23.968332,-46.187222,36
+SJQD,Fazenda São Roque do Vale do Rio Negro Airport,SJQD,,Aquidauana,BR,-19.369167,-56.348888,296
+SJQE,Bonacin Airport,SJQE,,Piraquara,BR,-25.407713,-49.050479,2999
+SJQF,Fazenda Londrina Airport,SJQF,,Campo Novo Do Parecis,BR,-13.355556,-57.755001,1690
+SJQG,HSBC Heliport,SJQG,,Curitiba,BR,-25.502501,-49.279999,2956
+SJQH,Fazenda Tempero Seco Airport,SJQH,,Lábrea,BR,-9.396389,-66.679726,375
+SJQI,Porto Jofre Airport,SJQI,,Poconé,BR,-17.361389,-56.779167,361
+SJQJ,Jomarca II Heliport,SJQJ,,Guarujá,BR,-23.989721,-46.242222,30
+SJQK,Barra do Vento Airport,SJQK,,Boa Vista,BR,2.695560,-60.814201,279
+SJQM,Fazenda Lago Azul Heliport,SJQM,,Igarapé Do Meio,BR,-3.650833,-45.202778,115
+SJQN,Quirinópolis Airport,SJQN,,Quirinópolis,BR,-18.446100,-50.409199,1922
+SJQO,Unidade Administrativa Conjunta do IAP/BPAMB Heliport,SJQO,,Paranaguá,BR,-25.514168,-48.499168,27
+SJQQ,Fazenda Terra Alta Airport,SJQQ,,Portel,BR,-2.865000,-50.992779,66
+SJQR,Jacarezinho Airport,SJQR,,Valparaíso,BR,-21.148056,-50.901112,1312
+SJQS,Paredão da Serra Airport,SJQS,,Chapada Dos Guimarães,BR,-15.471944,-55.720001,2117
+SJQT,Fazenda Haras RPC Airport,SJQT,,Nova Lima,BR,-20.168612,-43.926945,4209
+SJQU,Mantiqueira Heliport,SJQU,,Itanhandu,BR,-22.334167,-44.904167,3160
+SJQV,Usina Santa Luiza Airport,SJQV,,Motuca,BR,-21.509167,-48.197224,1978
+SJQW,Warna Roos Heliport,SJQW,,Santa Bárbara Do Sul,BR,-28.181110,-53.216667,1804
+SJQX,Fazenda Uruará Airport,SJQX,,Uruará,BR,-3.524722,-53.386112,797
+SJQY,Terminal do Solimões Heliport,SJQY,,Coari,BR,-3.944167,-63.163612,112
+SJQZ,Dona Iracema Airport,SJQZ,,Porto Nacional,BR,-10.606389,-48.348610,919
+SJRA,Pesqueiro Xingu Airport,SJRA,,São Félix Do Xingu,BR,-5.775000,-52.622223,525
+SJRB,Fazenda VR Airport,SJRB,,Santa Cruz Do Xingu,BR,-10.113056,-52.505001,1191
+SJRC,Serra da Borda Airport,SJRC,,Vila Bela Da Santíssima Trindade,BR,-14.827222,-59.688057,1575
+SJRD,Ilha Josefa Heliport,SJRD,,Angra Dos Reis,BR,-23.040556,-44.392223,131
+SJRE,Vila Adail Heliport,SJRE,,Elias Fausto,BR,-23.049723,-47.389721,1975
+SJRF,Lavalpa Heliport,SJRF,,Jacareí,BR,-23.293612,-45.976391,1968
+SJRG,Rio Grande Airport,SJRG,RIG,Rio Grande,BR,-32.081699,-52.163299,27
+SJRH,Fazenda Galheiro Airport,SJRH,,Campo Verde,BR,-15.308056,-54.599724,1788
+SJRI,Condomínio Boa Esperança Airport,SJRI,,Baixa Grande Do Ribeiro,BR,-8.406389,-45.441387,1825
+SJRJ,Agromineral Mutum Airport,SJRJ,,Itaituba,BR,-7.640278,-56.787777,752
+SJRK,Agropecuária São Roberto Airport,SJRK,,Santana Do Araguaia,BR,-9.232222,-50.930279,860
+SJRL,Fazenda do Açucar Airport,SJRL,,Nobres,BR,-14.458611,-56.052776,1001
+SJRM,Monte das Oliveiras Heliport,SJRM,,Santo André,BR,-23.665001,-46.520279,2566
+SJRN,Carlos Gomes Center Heliport,SJRN,,Porto Alegre,BR,-30.031389,-51.176666,419
+SJRO,Fazenda Santa Elisa Airport,SJRO,,Auriflama,BR,-20.530556,-50.634998,1312
+SJRP,Fazenda Santângelo Agropecuária Airport,SJRP,,Miranda,BR,-20.132500,-56.371113,450
+SJRQ,Hospital São Camilo Pompéia Heliport,SJRQ,,São Paulo,BR,-23.533890,-46.688332,2703
+SJRR,Fazenda Barreiro Airport,SJRR,,Paraúna,BR,-17.054167,-50.928333,2461
+SJRS,Fazenda Guanabara Airport,SJRS,,Junqueirópolis,BR,-21.343611,-51.403332,1017
+SJRT,Fazenda Arrendamento Airport,SJRT,,Paranatinga,BR,-14.369444,-54.002499,1499
+SJRU,Maria Cecília Lara Campos Heliport,SJRU,,São Paulo,BR,-23.590555,-46.683056,2595
+SJRV,PCH Garganta da Jararaca Airport,SJRV,,Nova Maringá,BR,-13.386111,-57.615555,1394
+SJRW,PCH Buriti Airport,SJRW,,Água Clara,BR,-19.341110,-52.689445,1581
+SJRX,Grupamento Aéreo da Polícia Militar Heliport,SJRX,,Praia Grande,BR,-24.033333,-46.493332,6
+SJRY,Mega Mix Heliport,SJRY,,São Paulo,BR,-23.535557,-46.618057,2526
+SJRZ,João Domingues de Araújo Heliport,SJRZ,,São Paulo,BR,-23.604168,-46.693611,2631
+SJSA,Fazenda Aimorés Airport,SJSA,,Juti,BR,-22.789722,-54.597778,1263
+SJSB,Ilha Guaíba Heliport,SJSB,,Mangaratiba,BR,-23.006666,-44.031666,197
+SJSC,Fazenda São Sebastião do Castelo Airport,SJSC,,Corumbá,BR,-18.661112,-57.623890,358
+SJSD,Fazenda São Bento Airport,SJSD,,Sidrolândia,BR,-21.072779,-55.128334,1772
+SJSE,Serabi Airport,SJSE,,Itaituba,BR,-6.319722,-55.794998,1017
+SJSF,Agropecuária Barrinha Airport,SJSF,,São Francisco Sales,BR,-19.841389,-49.688332,1310
+SJSG,Usina Serra Grande Heliport,SJSG,,São José Da Lage,BR,-8.978056,-36.070278,1175
+SJSH,Sonhar Airport,SJSH,,Governador Celso Ramos,BR,-27.370556,-48.612221,33
+SJSJ,Fazenda São José do Cangalha Airport,SJSJ,,Água Clara,BR,-19.515556,-52.604721,1201
+SJSK,Mário Spada Airport,SJSK,,Minas Novas,BR,-17.528334,-42.383610,3271
+SJSL,Fazenda Santa Luiza Airport,SJSL,,Icaraima,BR,-23.347778,-53.500000,1162
+SJSM,Fazenda Santa Rita Airport,SJSM,,Itarumã,BR,-19.006111,-50.952221,1451
+SJSN,Fazenda Carvalho Airport,SJSN,,São Luiz Do Norte,BR,-14.836667,-49.361389,1871
+SJSO,Fazenda Divisão II Airport,SJSO,,Lucas Do Rio Verde,BR,-12.953611,-56.318333,1358
+SJSQ,Palma Heliport,SJSQ,,Luziânia,BR,-16.188334,-48.075558,3320
+SJSR,Fazenda Santa Rosa Airport,SJSR,,Mara Rosa,BR,-13.992222,-49.763058,1044
+SJSS,Agrifor Airport,SJSS,,Sorriso,BR,-12.508333,-55.695278,1100
+SJST,Umbará Energy Heliport,SJST,,Curitiba,BR,-25.604168,-49.293610,2798
+SJSU,Fazenda São Marcus Airport,SJSU,,Vila Alta,BR,-23.564167,-53.797222,1083
+SJSW,Natal Mar Heliport,SJSW,,Natal,BR,-5.865278,-35.180279,82
+SJSY,Resgate Região Oceânica Heliport,SJSY,,Niterói,BR,-22.938889,-43.060833,56
+SJSZ,Usina Mundial Heliport,SJSZ,,Mirandópolis,BR,-21.195278,-51.218334,1214
+SJTA,Cristal Airport,SJTA,,Borá,BR,-22.181667,-50.492500,1355
+SJTB,Fazenda Buriti Airport,SJTB,,Chapada Dos Guimarães,BR,-15.465000,-55.622501,2451
+SJTD,Plaza JK Heliport,SJTD,,São Paulo,BR,-23.590555,-46.684444,2618
+SJTE,Praia do Algodão Heliport,SJTE,,Angra Dos Reis,BR,-22.991112,-44.422779,69
+SJTF,Fazenda Mequens Airport,SJTF,,Alta Floresta D`Oeste,BR,-13.061944,-62.257500,552
+SJTG,Fazenda Calcário Tangará Airport,SJTG,,Tangará Da Serra,BR,-14.450278,-57.800556,1831
+SJTI,Fazenda Iapó Airport,SJTI,,Tibagi,BR,-24.527779,-50.365833,2700
+SJTJ,Fazenda Guanabara Airport,SJTJ,,Nova Alvorada Do Sul,BR,-21.116667,-54.449722,1450
+SJTK,Ecofly Airport,SJTK,,Brotas,BR,-22.296944,-48.120277,2129
+SJTL,Aero Agrícola Gaivota Airport,SJTL,,Jaguapitã,BR,-22.978611,-51.548611,1821
+SJTM,Santa Cecília Airport,SJTM,,Mirandópolis,BR,-20.887777,-50.988335,1260
+SJTN,Fazenda Alvorada do Caxingó Airport,SJTN,,Monte Alegre De Goiás,BR,-13.375000,-46.897499,1742
+SJTO,São José Airport,SJTO,,Campo Novo Do Parecis,BR,-14.143889,-57.780556,2083
+SJTP,Boa Safra Airport,SJTP,,Tapurá,BR,-12.728056,-56.502777,1321
+SJTQ,Fazenda Santa tereza Airport,SJTQ,,Petrópolis,BR,-22.368889,-43.251389,2087
+SJTR,Angélica IV Heliport,SJTR,,São Paulo,BR,-23.553888,-46.662777,2933
+SJTS,Terra Santa Airport,SJTS,,Terra Santa,BR,-2.072778,-56.488888,83
+SJTT,Fazenda Lagoa do Barro Airport,SJTT,,Novo Planalto,BR,-13.238611,-49.709442,926
+SJTU,Fazenda Tucano Airport,SJTU,,Campo Novo Do Parecis,BR,-13.582778,-57.559444,1765
+SJTV,Fazenda Guerra Airport,SJTV,,Juara,BR,-11.474167,-57.921112,984
+SJTW,Centauro Heliport,SJTW,,Igarassu,BR,-7.818056,-34.917778,66
+SJTX,Fazenda Nelore Heliport,SJTX,,Bela Vista Do Maranhão,BR,-3.731389,-45.273335,182
+SJTY,Gran Meliá Mofarrej Heliport,SJTY,,São Paulo,BR,-23.564167,-46.655834,2969
+SJTZ,Dom Eliseu Airport,SJTZ,,Dom Eliseu,BR,-4.302778,-47.581669,800
+SJUA,Fazenda Ipanema Airport,SJUA,,Correntina,BR,-13.625833,-46.139721,3101
+SJUB,Fazenda Rio Azul Airport,SJUB,,Vila Bela Da Santíssima Trindade,BR,-15.183333,-60.221668,896
+SJUC,Jardim Paraíso Airport,SJUC,,Luís Eduardo Magalhães,BR,-12.108333,-45.777500,2395
+SJUD,Usina Dourados Airport,SJUD,,Dourados,BR,-21.990278,-55.113056,1420
+SJUE,Ecological Center Heliport,SJUE,,Barueri,BR,-23.534721,-46.874722,2575
+SJUF,Silvestre Heliport,SJUF,,Pedra Branca Do Amapari,BR,0.856111,-51.888332,446
+SJUH,Fazenda Lagoinha Airport,SJUH,,Pedrinópolis,BR,-19.238611,-47.497780,3346
+SJUI,Fazenda São Francisco Heliport,SJUI,,Mogi Mirim,BR,-22.382221,-47.008331,2149
+SJUJ,Fazenda Juína Airport,SJUJ,,Campos De Júlio,BR,-13.453611,-59.260277,2215
+SJUK,Fazenda Capitão Verdi Airport,SJUK,,Tangará Da Serra,BR,-14.360000,-57.917778,2435
+SJUL,Fazenda Rio Pardo Airport,SJUL,,Iaras,BR,-22.877777,-49.037777,2257
+SJUM,Umuarama Heliport,SJUM,,Marechal Deodoro,BR,-9.748889,-35.821945,16
+SJUN,Unimed - Nordeste Heliport,SJUN,,Caxias Do Sul,BR,-29.164167,-51.200279,2534
+SJUO,Forest Trade Heliport,SJUO,,São Paulo,BR,-23.579445,-46.661667,2526
+SJUP,Braskem Heliport,SJUP,,Camaçari,BR,-12.679444,-38.321110,223
+SJUQ,Fazenda Vista Alegre Airport,SJUQ,,Três Lagoas,BR,-19.739166,-52.606110,1349
+SJUS,Fazenda Acará Airport,SJUS,,Britânia,BR,-15.074444,-51.158890,804
+SJUT,Cimento Rio Branco Heliport,SJUT,,Rio Branco Do Sul,BR,-25.185278,-49.316666,3066
+SJUU,Fazenda Paraná Airport,SJUU,,Nova Roma,BR,-14.028056,-46.871113,1450
+SJUV,A Universal Heliport,SJUV,,São Paulo,BR,-23.517221,-46.627220,2507
+SJUW,CPFL Sede Heliport,SJUW,,Campinas,BR,-22.857779,-47.044998,2350
+SJUX,MBP - Metalúrgica Barra do Piraí Heliport,SJUX,,Barra Do Piraí,BR,-22.476389,-43.851665,1182
+SJUY,Sinal Empreendimentos Heliport,SJUY,,Rio Das Ostras,BR,-22.488333,-41.934444,33
+SJUZ,Santo Aleixo Heliport,SJUZ,,Morungaba,BR,-22.920834,-46.791943,3006
+SJVA,DJY Heliport,SJVA,,São Paulo,BR,-23.597221,-46.685555,2603
+SJVB,Fazenda Sagrado Coração de Jesus Airport,SJVB,,Vila Bela Da Santíssima Trindade,BR,-15.091667,-60.121666,499
+SJVC,Ibiporanga da Felicidade Airport,SJVC,,Tanabi,BR,-20.459167,-49.533611,1779
+SJVD,Nazaré da Felicidade Airport,SJVD,,Buritizeiro,BR,-17.854721,-45.240555,2550
+SJVE,VR Campos do Jordão Heliport,SJVE,,Campos Do Jordão,BR,-22.743334,-45.544167,5673
+SJVF,Fazenda Colorado Airport,SJVF,,Figueirão,BR,-18.817778,-53.865002,1785
+SJVG,Jacarecica Heliport,SJVG,,Maceió,BR,-9.604722,-35.679722,1
+SJVH,Condomínio Edifício Mansão Macedo Heliport,SJVH,,Fortaleza,BR,-3.729444,-38.501110,276
+SJVI,Viana II Heliport,SJVI,,Itapema,BR,-27.142221,-48.591946,10
+SJVJ,Chácara da Capela Heliport,SJVJ,,Tietê,BR,-23.125557,-47.708889,1676
+SJVL,Fazenda Cachoeirinha Airport,SJVL,,Perdizes,BR,-19.370277,-47.128887,3281
+SJVM,Estância Califórnia Airport,SJVM,,Alta Floresta,BR,-9.891944,-56.129444,945
+SJVN,Fazenda do Limão Airport,SJVN,,Almeirim,BR,0.289167,-53.869999,984
+SJVO,Aragarças Airport,SJVO,,Aragarças,BR,-15.899400,-52.241100,1061
+SJVP,Vila Pitinga Airport,SJVP,,Presidente Figueiredo,BR,-0.799167,-60.083889,876
+SJVQ,Triálcool Airport,SJVQ,,Canápolis,BR,-18.889444,-49.286110,2231
+SJVR,Fazenda São Joaquim Airport,SJVR,,Jardim,BR,-21.491943,-56.487221,1181
+SJVS,Vale do Paranaíba Airport,SJVS,,Capinópolis,BR,-18.703056,-49.686943,1739
+SJVT,Cimento Rio Negro-Cantagalo Heliport,SJVT,,Cantagalo,BR,-21.918333,-42.259724,1066
+SJVU,Hospital Memorial São José Heliport,SJVU,,Recife,BR,-8.065278,-34.896942,180
+SJVV,Fazenda Catelani Airport,SJVV,,Minaçu,BR,-13.473333,-48.459167,2461
+SJVW,Campos Gerais Airport,SJVW,,Balsas,BR,-8.516944,-46.746944,1706
+SJVX,Pagrisa Airport,SJVX,,Ulianópolis,BR,-3.700556,-47.763332,453
+SJVY,Haras Bela Vista Airport,SJVY,,São Miguel Do Tocantins,BR,-5.541667,-47.502499,335
+SJVZ,Fazenda São Paulo Airport,SJVZ,,Sapezal,BR,-13.610278,-58.569168,2012
+SJWA,Usina Maracaju Airport,SJWA,,Maracaju,BR,-21.345278,-55.433334,1509
+SJWB,Pouso Alto Airport,SJWB,,Piracanjuba,BR,-17.457779,-48.983055,2428
+SJWC,Fazenda Nossa Senhora da Muxima Airport,SJWC,,Água Clara,BR,-19.587221,-52.951942,1532
+SJWD,Usina Passa Tempo Airport,SJWD,,Rio Brilhante,BR,-21.507221,-54.715832,984
+SJWE,Fazenda Araribá Airport,SJWE,,Canarana,BR,-13.404722,-52.848331,1279
+SJWF,Mima Heliport,SJWF,,São João Da Barra,BR,-21.647223,-41.023609,16
+SJWG,Itagro Airport,SJWG,,Alegrete,BR,-29.780277,-55.697224,384
+SJWH,Fazenda Santa Inês Airport,SJWH,,Nova Brasilândia,BR,-14.651111,-55.383888,1330
+SJWI,Fazenda Flor Airport,SJWI,,Campo Grande,BR,-21.496944,-53.749722,1420
+SJWJ,HPE Heliport,SJWJ,,São Paulo,BR,-23.669443,-46.702778,2424
+SJWK,Fiec Heliport,SJWK,,Fortaleza,BR,-3.739444,-38.508888,230
+SJWL,Boca da Mata Airport,SJWL,,Gaúcha Do Norte,BR,-13.574444,-53.983055,1804
+SJWM,Fazenda Sanga Funda Airport,SJWM,,Sapezal,BR,-13.066667,-58.705833,1949
+SJWN,Fazenda Santa Dulcina Airport,SJWN,,Taquarituba,BR,-23.549999,-49.250000,2096
+SJWO,Terra Santa Airport,SJWO,,Barra Do Bugres,BR,-14.806944,-57.973610,699
+SJWP,Warpol Airport,SJWP,,São Desidério,BR,-12.619444,-45.923611,2650
+SJWQ,José Doná Airport,SJWQ,,Birigui,BR,-21.217501,-50.300835,1338
+SJWR,Heligalo Heliport,SJWR,,Angra Dos Reis,BR,-23.034166,-44.201668,344
+SJWS,Praia de Olaria Heliport,SJWS,,São Sebastião,BR,-23.766666,-45.405277,10
+SJWT,Fazenda Sucuri Airport,SJWT,,Itiquira,BR,-17.395832,-54.759724,1788
+SJWU,Fazenda Ideal Airport,SJWU,,Nova Venécia,BR,-18.667221,-40.332779,471
+SJWV,Fazenda São Judas Airport,SJWV,,São Miguel Do Araguaia,BR,-13.378056,-50.424442,1030
+SJWW,Fazenda Cachoeira Preta Airport,SJWW,,Água Clara,BR,-20.021389,-53.216110,1083
+SJWX,Rio Alegre Airport,SJWX,,Euclides Da Cunha Paulista,BR,-22.575001,-52.503056,981
+SJWY,Parkway Heliport,SJWY,,Brasília,BR,-15.910833,-47.973057,3724
+SJWZ,E-Tower Heliport,SJWZ,,São Paulo,BR,-23.593611,-46.689999,2848
+SJXA,Aeromis Airport,SJXA,,Bagé,BR,-31.292221,-54.156113,886
+SJXB,Aquapey Airport,SJXB,,Porto Esperdião,BR,-15.756389,-58.801945,600
+SJXC,Usina Santa Cruz Airport,SJXC,ARS,Santa Cruz Cabrália,BR,-16.183056,-39.358055,410
+SJXD,Escarpas Heliport,SJXD,,Capitólio,BR,-20.640278,-46.003613,2602
+SJXE,Sinal Construtora Heliport,SJXE,,Silva Jardim,BR,-22.683611,-42.369720,68
+SJXF,Aloiso Ximenes de Farias Junior Heliport,SJXF,,Trairi,BR,-3.223056,-39.255554,33
+SJXG,Fazenda Agroplan Airport,SJXG,,São Félix Do Araguaia,BR,-11.663333,-52.849998,1083
+SJXH,Águas Frias Airport,SJXH,,Iraí,BR,-27.216944,-53.272499,1135
+SJXM,Carolina de Assis Repetto Airport,SJXM,,Lima Duarte,BR,-21.732222,-43.894444,3452
+SJXN,Parque Fazenda Bom Futuro Airport,SJXN,,Poconé,BR,-17.191389,-57.033890,361
+SJXO,HP Padilha Heliport,SJXO,,Mangaratiba,BR,-23.038610,-44.153332,16
+SJXP,Alice Maria Sampaio Ferreira Heliport,SJXP,,São Paulo,BR,-23.608610,-46.694168,2579
+SJXQ,Ribeirão Shopping Heliport,SJXQ,,Ribeirão Preto,BR,-21.211666,-47.834442,2037
+SJXR,B. Cao Viño Heliport,SJXR,,Praia Grande,BR,-24.009722,-46.417221,177
+SJXS,Veracel Airport,SJXS,,Belmonte,BR,-16.104445,-39.363888,434
+SJXT,Iguassú Heliport,SJXT,,Angra Dos Reis,BR,-23.121111,-44.192780,16
+SJXU,Alphaville Gramado Heliport,SJXU,,Gramado,BR,-29.383612,-50.888332,2684
+SJXV,Fazenda Bela Vista Airport,SJXV,,Amambaí,BR,-22.931110,-55.054443,1256
+SJXW,Fazenda 3M Airport,SJXW,,Nova Alvorada Do Sul,BR,-21.673611,-54.035831,1155
+SJXX,Recreio Airport,SJXX,,Ponta Porã,BR,-22.679443,-55.540558,1968
+SJXY,Piratas Mall Heliport,SJXY,,Angra Dos Reis,BR,-23.003611,-44.299168,6
+SJXZ,Namour Heliport,SJXZ,,São Paulo,BR,-23.572779,-46.641109,2900
+SJYA,Caraguatá Heliport,SJYA,,Saquarema,BR,-22.920834,-42.477501,162
+SJYB,Edifício Plaza I Heliport,SJYB,,São Paulo,BR,-23.610277,-46.695557,2648
+SJYC,AHE Peixe Angical Airport,SJYC,,Peixe,BR,-12.203100,-48.469700,808
+SJYD,Fazenda Kajussol Airport,SJYD,,Santa Luzia D`Oeste,BR,-11.964722,-61.686668,636
+SJYE,Água Fria Airport,SJYE,,Pacaraima,BR,4.620560,-60.277199,994
+SJYF,Ajarani Airport,SJYF,,Caracaraí,BR,2.007780,-61.475800,594
+SJYG,Alto Mucajaí Airport,SJYG,,Alto Alegre,BR,2.765000,-62.221401,237
+SJYI,Araí Airport,SJYI,,Pacaraima,BR,4.443890,-60.847198,1500
+SJYJ,Aratha-Ú Airport,SJYJ,,Alto Alegre,BR,3.160830,-63.781399,236
+SJYK,Baixo Catrimani Airport,SJYK,,Caracaraí,BR,1.071110,-62.218300,171
+SJYL,Baixo Mucajaí Airport,SJYL,,Alto Alegre,BR,2.736940,-62.019402,499
+SJYM,Bala Airport,SJYM,,Pacaraima,BR,3.837220,-60.603298,348
+SJYO,Bananal Airport,SJYO,,Pacaraima,BR,4.632780,-60.585602,892
+SJYP,Bananeira Airport,SJYP,,Uiramutã,BR,4.321110,-60.193901,892
+SJYR,Caju Airport,SJYR,,Pacaraima,BR,4.705830,-60.515301,794
+SJYS,Camará Airport,SJYS,,Normândia,BR,3.990830,-60.181702,594
+SJYT,Campo Formoso Airport,SJYT,,Pacaraima,BR,4.720000,-60.769699,1194
+SJYU,Campo Grande Airport,SJYU,,Pacaraima,BR,4.685560,-60.802799,1194
+SJYV,Cauê-Apiaí Heliport,SJYV,,Apiaí,BR,-24.516666,-48.849724,2959
+SJYW,Fazenda Santa Terezinha Airport,SJYW,,Santa Terezinha,BR,-10.331389,-50.940277,748
+SJYY,Rio do Sangue Airport,SJYY,,Brasnorte,BR,-11.522222,-58.177223,935
+SJYZ,Fazenda Lagoa Encantada Airport,SJYZ,,Primavera Do Leste,BR,-15.270278,-54.257500,1968
+SJZA,Capão Alto Airport,SJZA,,Tapes,BR,-30.676390,-51.525276,107
+SJZB,Vale do Tucanã Airport,SJZB,,Castanheira,BR,-10.689444,-58.649723,879
+SJZC,Destilaria São Luiz Airport,SJZC,,Maraial,BR,-8.778889,-35.785000,1371
+SJZD,Fazenda Bandeiras Airport,SJZD,,Corumbá,BR,-17.861944,-56.703056,361
+SJZE,Fazenda Brioso Airport,SJZE,,Três Lagoas,BR,-20.240557,-52.386665,1270
+SJZF,Fazenda Campo Triste Airport,SJZF,,Três Lagoas,BR,-20.618610,-52.018055,1197
+SJZG,Leonel de Moura Brizola Airport,SJZG,,Confresa,BR,-10.658333,-51.436111,843
+SJZH,Fazenda Rio do Fogo Airport,SJZH,,Nova Santa Helena,BR,-10.881667,-54.997780,981
+SJZI,Monte Carmelo Heliport,SJZI,,Santos,BR,-23.958332,-46.330833,99
+SJZJ,Rancho Dória Heliport,SJZJ,,Campos Do Jordão,BR,-22.698055,-45.529720,5223
+SJZK,Projac Heliport,SJZK,,Rio De Janeiro,BR,-22.956667,-43.397221,94
+SJZL,Daslu Heliport,SJZL,,São Paulo,BR,-23.592501,-46.691387,2451
+SJZM,Carlos Alberto Pinto Airport,SJZM,,Arraias,BR,-12.606944,-46.747223,1338
+SJZN,Costa Brasilis Heliport,SJZN,,Santa Cruz Cabrália,BR,-16.241667,-39.009167,3
+SJZO,Fazenda Boi Branco Airport,SJZO,,Corumbá,BR,-18.465555,-56.763332,394
+SJZP,Mathovi Airport,SJZP,,Novo Mundo,BR,-9.833056,-55.464722,1070
+SJZQ,Fazenda Monte Alegre Airport,SJZQ,,Corrente,BR,-10.564167,-44.946945,1444
+SJZR,Fazenda Itália Airport,SJZR,,Uruçui,BR,-7.444722,-44.353333,1280
+SJZS,Fazenda Canel Airport,SJZS,,Uruçui,BR,-7.540000,-44.822498,1280
+SJZT,Fazenda Busato II Airport,SJZT,,Serra Ramalho,BR,-13.238611,-43.736111,1500
+SJZU,Seculum Heliport,SJZU,,São Paulo,BR,-23.585278,-46.682777,2592
+SJZV,Terras de São José Heliport,SJZV,,Itu,BR,-23.298332,-47.294998,2038
+SJZW,Fazenda Regina Airport,SJZW,,Itatinga,BR,-23.286667,-48.738056,2044
+SJZX,Fazenda Rebojo Airport,SJZX,,Corumbá,BR,-20.026388,-57.918888,397
+SJZY,Centro Administrativo Rio Negro Heliport,SJZY,,Barueri,BR,-23.500000,-46.848331,2737
+SJZZ,Fazenda Passo Fundo Airport,SJZZ,,Primavera Do Leste,BR,-15.017500,-53.935833,2199

@@ -1,0 +1,60 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+EKAE,Ærø Airport,EKAE,,Ærø,DK,54.852798,10.456400,3
+EKAH,Aarhus Airport,EKAH,AAR,Aarhus,DK,56.299999,10.619000,82
+EKAL,Allerød Airport,EKAL,,Allerød,DK,55.870300,12.315500,135
+EKAT,Anholt Airport,EKAT,,Anholt,DK,56.698898,11.555900,23
+EKAV,Avnø Air Base,EKAV,,Avnø,DK,55.083000,11.783000,13
+EKBI,Billund Airport,EKBI,BLL,Billund,DK,55.740299,9.151780,247
+EKCH,Copenhagen Kastrup Airport,EKCH,CPH,Copenhagen,DK,55.617901,12.656000,17
+EKEB,Esbjerg Airport,EKEB,EBJ,Esbjerg,DK,55.525902,8.553400,97
+EKEL,Endelave West Airport,EKEL,,Endelave,DK,55.756500,10.248500,15
+EKFA,Frooba Heliport,EKFA,,Frooba,FO,61.543701,-6.774420,77
+EKFU,Fur Airport,EKFU,,Fur,DK,56.824402,8.986110,30
+EKGH,Grønholt Hillerød Airport,EKGH,,Grønholt,DK,55.941399,12.382200,97
+EKGR,Grenaa Airport,EKGR,,Grenaa,DK,56.442501,10.930600,20
+EKHG,Herning Airport,EKHG,,Herning,DK,56.184700,9.044450,167
+EKHK,Holbaek (Ny Hagested) Airport,EKHK,,Holbaek,DK,55.732800,11.602800,2
+EKHO,Lindtorp Airport,EKHO,,Holstebro,DK,56.396702,8.441940,49
+EKHS,Hadsund Airport,EKHS,,Hadsund,DK,56.755924,10.228829,8
+EKHV,Haderslev Airport,EKHV,,Haderslev,DK,55.302200,9.522500,81
+EKKA,Karup Airport,EKKA,KRP,Karup,DK,56.297501,9.124630,170
+EKKL,Kalundborg Airport,EKKL,,Kalundborg,DK,55.700298,11.250000,1
+EKKO,Korsør Airport,EKKO,,Korsør,DK,55.336899,11.241700,39
+EKKV,Klaksvik Heliport,EKKV,,Klaksvik,FO,62.217850,-6.576455,263
+EKLS,Læsø Airport,EKLS,BYR,Læsø,DK,57.277199,11.000100,25
+EKLV,Lemvig Airport,EKLV,,Lemvig,DK,56.502998,8.311330,97
+EKMB,Lolland Falster Maribo Airport,EKMB,MRW,Lolland Falster / Maribo,DK,54.699299,11.440100,16
+EKMN,Kostervig Mon Airport,EKMN,,Koster,DK,54.964699,12.194400,3
+EKMS,Mykines Heliport,EKMS,,Mykines,FO,62.102100,-7.645920,110
+EKNM,"Morsø Airport, Tødsø",EKNM,,Morsø,DK,56.824402,8.786670,53
+EKNS,Nakskov Airport,EKNS,,Naksnov,DK,54.817200,11.130800,3
+EKOD,Odense Airport,EKOD,ODE,Odense,DK,55.476700,10.330900,56
+EKPB,Kruså-Padborg Airport,EKPB,,Kruså / Padborg,DK,54.870300,9.279010,88
+EKRA,Rarup Airport,EKRA,,Rarup,DK,55.778599,9.938890,131
+EKRD,Randers Airport,EKRD,,Randers,DK,56.506599,10.036400,139
+EKRK,Copenhagen Roskilde Airport,EKRK,RKE,Copenhagen,DK,55.585602,12.131400,146
+EKRN,Bornholm Airport,EKRN,RNN,Rønne,DK,55.063301,14.759600,52
+EKRR,Ro Airport,EKRR,,Ro,DK,55.210300,14.878600,325
+EKRS,Ringsted Airport,EKRS,,Ringsted,DK,55.425800,11.806700,113
+EKSA,Sæby (Ottestrup) Airport,EKSA,,Sæby,DK,57.346699,10.407000,110
+EKSB,Sønderborg Airport,EKSB,SGD,Sønderborg,DK,54.964401,9.791730,24
+EKSD,Spjald Airport,EKSD,,Spjald,DK,56.102699,8.514230,249
+EKSN,Sindal Airport,EKSN,CNL,Sindal,DK,57.503502,10.229400,92
+EKSO,Svínoy Heliport,EKSO,,Svínoy,FO,62.276699,-6.341500,30
+EKSP,Vojens Skrydstrup Airport,EKSP,SKS,Vojens,DK,55.225601,9.263930,141
+EKSR,Stóra Dímun Heliport,EKSR,,Stóra Dímun,FO,61.685299,-6.758500,305
+EKSS,Samsø Airport,EKSS,,Samsø,DK,55.889500,10.613700,1
+EKST,Sydfy (Tasinge) Airport,EKST,,Tasinge,DK,55.016602,10.563300,7
+EKSV,Skive Airport,EKSV,SQW,Skive,DK,56.550201,9.172980,74
+EKSY,Skúvoy Heliport,EKSY,,Skúvoy,FO,61.769600,-6.803410,70
+EKTB,Tórshavn/Bodanes Heliport,EKTB,,Tórshavn/Bodanes,FO,62.021702,-6.757420,68
+EKTD,Tønder Airport,EKTD,,Tønder,DK,54.929699,8.840570,1
+EKTS,Thisted Airport,EKTS,TED,Thisted,DK,57.068802,8.705220,23
+EKVA,Vandel Air Base,EKVA,,Vandel,DK,55.701000,9.213580,250
+EKVB,Viborg Airport,EKVB,,Viborg,DK,56.410000,9.409100,75
+EKVD,Kolding Vamdrup Airport,EKVD,,Kolding / Vamdrup,DK,55.436298,9.330920,143
+EKVG,Vagar Airport,EKVG,FAE,Vagar,FO,62.063599,-7.277220,280
+EKVH,Aars Airport,EKVH,,Aars,DK,56.846901,9.458610,119
+EKVJ,Stauning Airport,EKVJ,STA,Skjern / Ringkøbing,DK,55.990101,8.353910,17
+EKVL,Vaerlose Air Base,EKVL,,Kirke Vaerlose,DK,55.769501,12.323900,42
+EKYT,Aalborg Airport,EKYT,AAL,Aalborg,DK,57.092759,9.849243,10

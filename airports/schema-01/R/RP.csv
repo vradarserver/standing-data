@@ -1,0 +1,71 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+RP14,MRMP Airport,RP14,,Ramon,PH,16.829800,121.500000,384
+RPLB,Subic Bay International Airport,RPLB,SFS,Olongapo City,PH,14.794400,120.271004,64
+RPLC,Diosdado Macapagal International Airport,RPLC,CRK,Angeles City,PH,15.186000,120.559998,484
+RPLI,Laoag International Airport,RPLI,LAO,Laoag City,PH,18.178101,120.531998,25
+RPLJ,Jomalig Island Airport,RPLJ,,Jomalig,PH,14.704000,122.331001,36
+RPLL,Ninoy Aquino International Airport,RPLL,MNL,Manila,PH,14.508600,121.019997,75
+RPLN,Palanan Municipal Airport,RPLN,,Palanan,PH,17.065667,122.427671,52
+RPLP,Legazpi City International Airport,RPLP,LGP,Legazpi City,PH,13.157500,123.735000,66
+RPLS,Sangley Point Air Base,RPLS,NSP,Cavite City,PH,14.495400,120.903999,8
+RPLT,Itbayat Airport,RPLT,,Itbayat,PH,20.716999,121.817001,328
+RPLX,Corregidor Airport,RPLX,,Corregidor,PH,14.391300,120.607002,102
+RPLY,Alabat Island Airport,RPLY,,Alabat Island,PH,14.232000,121.929001,6
+RPMA,Allah Valley Airport,RPMA,AAV,Surallah,PH,6.366820,124.750999,659
+RPMB,Rajah Buayan Air Base,RPMB,,General Santos City,PH,6.106440,125.235001,28
+RPMC,Awang Airport,RPMC,CBO,Cotabato City,PH,7.165240,124.209999,189
+RPMD,Francisco Bangoy International Airport,RPMD,DVO,Davao City,PH,7.125520,125.646004,96
+RPME,Bancasi Airport,RPME,BXU,Butuan City,PH,8.951500,125.478800,141
+RPMG,Dipolog Airport,RPMG,DPL,Dipolog City,PH,8.601983,123.341875,12
+RPMH,Camiguin Airport,RPMH,CGM,Camiguin,PH,9.253611,124.706944,53
+RPMJ,Jolo Airport,RPMJ,JOL,Jolo,PH,6.053611,121.011111,118
+RPML,Cagayan De Oro Airport,RPML,CGY,Cagayan De Oro City,PH,8.415620,124.611000,601
+RPMM,Malabang Airport,RPMM,MLP,Malabang,PH,7.617220,124.058998,27
+RPMN,Sanga-Sanga,RPMN,TWT,Sanga-Sanga,PH,5.046944,119.742778,5
+RPMO,Labo Airport,RPMO,OZC,Ozamiz City,PH,8.178510,123.842003,75
+RPMP,Pagadian Airport,RPMP,PAG,Pagadian City,PH,7.830731,123.461180,5
+RPMR,Tambler Airport,RPMR,GES,General Santos,PH,6.058000,125.096001,505
+RPMS,Surigao Airport,RPMS,SUG,Surigao City,PH,9.755838,125.480947,20
+RPMW,Tandag Airport,RPMW,TDG,Tandag,PH,9.072111,126.171444,16
+RPMY,Malaybalay Airport,RPMY,,Malaybalay City,PH,8.141660,125.116997,2051
+RPMZ,Zamboanga International Airport,RPMZ,ZAM,Zamboanga City,PH,6.922420,122.059998,33
+RPNS,Siargao Airport,RPNS,IAO,Del Carmen,PH,9.859100,126.014000,10
+RPSD,Cesar Lim Rodriguez Airport,RPSD,RZP,"Taytay Airport, Sandoval Airport",PH,10.818740,119.507697,80
+RPUB,Loakan Airport,RPUB,BAG,Baguio City,PH,16.375099,120.620003,4251
+RPUD,Daet Airport,RPUD,DTE,Daet,PH,14.129200,122.980003,10
+RPUE,Lucena Airport,RPUE,,Lucena,PH,13.929000,121.601997,39
+RPUH,San Jose Airport,RPUH,SJI,San Jose,PH,12.361500,121.046997,14
+RPUI,Iba Airport,RPUI,,Iba,PH,15.324756,119.969498,11
+RPUJ,Castillejos Airport,RPUJ,,Castillejos,PH,14.967000,120.150002,200
+RPUK,Calapan Airport,RPUK,,Calapan City,PH,13.417000,121.199997,11
+RPUN,Naga Airport,RPUN,WNP,Naga,PH,13.584900,123.269997,142
+RPUO,Basco Airport,RPUO,BSO,Basco,PH,20.451300,121.980003,291
+RPUQ,Vigan Airport,RPUQ,,Vigan City,PH,17.555300,120.356003,16
+RPUR,Dr.Juan C. Angara Airport,RPUR,BQA,Baler,PH,15.729800,121.500000,108
+RPUT,Tuguegarao Airport,RPUT,TUG,Tuguegarao City,PH,17.643368,121.733150,70
+RPUU,Bulan Airport,RPUU,,Bulan,PH,12.684200,123.877998,3937
+RPUV,Virac Airport,RPUV,VRC,Virac,PH,13.576400,124.206001,121
+RPUW,Marinduque Airport,RPUW,MRQ,Gasan,PH,13.361000,121.825996,32
+RPUX,Plaridel Airport,RPUX,,Plaridel,PH,14.893100,120.851997,20
+RPUY,Cauayan Airport,RPUY,CYZ,Cauayan City,PH,16.929899,121.752998,200
+RPVA,Daniel Z. Romualdez Airport,RPVA,TAC,Tacloban City,PH,11.227600,125.028000,10
+RPVB,Bacolod-Silay International Airport,RPVB,BCD,Bacolod City,PH,10.642511,122.929617,25
+RPVC,Calbayog Airport,RPVC,CYP,Calbayog City,PH,12.072700,124.544998,12
+RPVD,Sibulan Airport,RPVD,DGT,Dumaguete City,PH,9.333710,123.300003,15
+RPVE,Godofredo P. Ramos Airport,RPVE,MPH,Malay,PH,11.924500,121.954002,7
+RPVF,Catarman National Airport,RPVF,CRM,Catarman,PH,12.502400,124.636002,6
+RPVG,Guiuan Airport,RPVG,,Guiuan,PH,11.035500,125.741997,7
+RPVH,Hilongos Airport,RPVH,,Hilongos,PH,10.380000,124.742996,12
+RPVI,Iloilo International Airport,RPVI,ILO,Iloilo City,PH,10.833017,122.493358,27
+RPVJ,Moises R. Espinosa Airport,RPVJ,MBT,Masbate,PH,12.369400,123.628998,26
+RPVK,Kalibo International Airport,RPVK,KLO,Kalibo,PH,11.679400,122.375999,14
+RPVL,Wasig Airport,RPVL,,Mansalay,PH,12.536100,121.481003,13
+RPVM,Mactan Cebu International Airport,RPVM,CEB,Lapu-Lapu City,PH,10.307500,123.978996,31
+RPVO,Ormoc Airport,RPVO,OMC,Ormoc City,PH,11.058000,124.565002,83
+RPVP,Puerto Princesa Airport,RPVP,PPS,Puerto Princesa City,PH,9.742120,118.759003,71
+RPVR,Roxas Airport,RPVR,RXS,Roxas City,PH,11.597700,122.751999,10
+RPVS,Evelio Javier Airport,RPVS,EUQ,San Jose,PH,10.766000,121.932999,23
+RPVT,Tagbilaran Airport,RPVT,TAG,Tagbilaran City,PH,9.664080,123.852997,38
+RPVU,Romblon Airport,RPVU,TBH,Romblon,PH,12.311000,122.084999,10
+RPVV,Francisco B. Reyes Airport,RPVV,USU,Coron,PH,12.121500,120.099998,148
+RPVW,Borongan Airport,RPVW,,Borongan City,PH,11.674300,125.478996,7

@@ -1,0 +1,114 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+CJA3,Morden Airport,CJA3,,Morden,CA,49.210300,-98.059196,950
+CJA5,Nestor Falls Airport,CJA5,,Nestor Falls,CA,49.140301,-93.916901,1195
+CJA7,Arcola Airport,CJA7,,Arcola,CA,49.633301,-102.483002,1985
+CJB2,Friendship Field,CJB2,,Carman,CA,49.491402,-98.018600,882
+CJB3,Steinbach Airport,CJB3,,Steinbach,CA,49.549400,-96.679398,850
+CJB5,Moosomin Airport,CJB5,,Moosomin,CA,50.168598,-101.643997,1853
+CJB6,Gods Lake Airport,CJB6,,Gods Lake,CA,54.779202,-93.716904,605
+CJB8,Kyle Airport,CJB8,,Kyle,CA,50.833302,-108.070000,2175
+CJC2,Craik Airport,CJC2,,Craik,CA,51.056099,-105.837997,1950
+CJC3,Davidson Municipal Airport,CJC3,,Davidson,CA,51.247799,-105.975998,2025
+CJC4,Central Butte Airport,CJC4,,Central Butte,CA,50.801399,-106.487999,2030
+CJC5,Shaunavon Airport,CJC5,,Shaunavon,CA,49.658100,-108.405998,3028
+CJC6,Hafford Airport,CJC6,,Hafford,CA,52.732201,-107.374001,1935
+CJC8,Laurie River Airport,CJC8,,Laurie River,CA,56.248600,-101.304001,1200
+CJC9,Buffalo Narrows Heliport,CJC9,,Buffalo Narrows,CA,55.868599,-108.482002,1392
+CJD2,Cudworth Municipal Airport,CJD2,,Cudworth,CA,52.483299,-105.717003,1878
+CJD3,Birch Hills Airport,CJD3,,Birch Hills,CA,52.990799,-105.445000,1500
+CJD5,Leader Airport,CJD5,,Leader,CA,50.877201,-109.500999,2201
+CJE2,Dore Lake Airport,CJE2,,Dore Lake,CA,54.616699,-107.383003,1565
+CJE3,Weyburn Airport,CJE3,,Weyburn,CA,49.697498,-103.801003,1934
+CJE4,Snow Lake Airport,CJE4,,Snow Lake,CA,54.897202,-99.818901,993
+CJE5,Glaslyn Airport,CJE5,,Glaslyn,CA,53.377201,-108.342003,2250
+CJE6,Paradise Hill Airport,CJE6,,Paradise Hill,CA,53.535301,-109.433998,1927
+CJE7,Ashern Airport,CJE7,,Ashern,CA,51.158600,-98.331902,976
+CJF3,Île-à-la-Crosse Airport,CJF3,,Île-à-la-Crosse,CA,55.489700,-107.930000,1394
+CJF5,West Poplar Airport,CJF5,,West Poplar,CA,49.003101,-106.387001,2885
+CJF8,Biggar Airport,CJF8,,Biggar,CA,52.051102,-107.987999,2130
+CJG2,Eatonia (Elvie Smith) Municipal Airport,CJG2,,Eatonia,CA,51.218899,-109.392998,2365
+CJG6,Kenora (Lake of the Woods District Hospital) Heliport,CJG6,,Kenora,CA,49.768600,-94.498901,1100
+CJH2,Gilbert Plains Airport,CJH2,,Gilbert Plains,CA,51.133301,-100.500000,1310
+CJH3,Maidstone Airport,CJH3,,Maidstone,CA,53.094398,-109.324997,1975
+CJH4,Ferland Airport,CJH4,,Ferland,CA,49.445000,-106.931999,2550
+CJH7,Beechy Airport,CJH7,,Beechy,CA,50.837031,-107.367754,2100
+CJH8,Leask Airport,CJH8,,Leask,CA,53.016701,-106.750000,1715
+CJJ2,Glenboro Airport,CJJ2,,Glenboro,CA,49.549999,-99.333298,1240
+CJJ4,Deloraine Airport,CJJ4,,Deloraine,CA,49.150600,-100.500999,1680
+CJJ5,Cabri Airport,CJJ5,,Cabri,CA,50.619400,-108.466003,2175
+CJJ8,Macklin Airport,CJJ8,,Macklin,CA,52.342800,-109.918999,2280
+CJK2,Gunisao Lake Airport,CJK2,,Gunisao Lake,CA,53.520000,-96.371101,886
+CJK3,Beauval Airport,CJK3,,Beauval,CA,55.110298,-107.716003,1436
+CJK4,Esterhazy Airport,CJK4,,Esterhazy,CA,50.642799,-102.099998,1700
+CJK5,Gull Lake Airport,CJK5,,Gull Lake,CA,50.057800,-108.489998,2665
+CJK9,Preeceville Airport,CJK9,,Preeceville,CA,51.950001,-102.650002,1750
+CJL2,Hatchet Lake Airport,CJL2,,Hatchet Lake,CA,58.662498,-103.538002,1362
+CJL4,La Loche Airport,CJL4,,La Loche,CA,56.473301,-109.403999,1501
+CJL5,Winnipeg / Lyncrest Airport,CJL5,,Winnipeg,CA,49.852501,-96.973602,775
+CJL6,Altona Municipal Airport,CJL6,,Altona,CA,49.094398,-97.533897,806
+CJL8,Kasba Lake Airport,CJL8,,Kasba Lake,CA,60.291901,-102.501999,1131
+CJL9,Radisson Airport,CJL9,,Radisson,CA,52.463100,-107.376999,1675
+CJM2,Ituna Airport,CJM2,,Ituna,CA,51.146099,-103.426003,2200
+CJM4,Gravelbourg Airport,CJM4,,Gravelbourg,CA,49.866207,-106.571075,2296
+CJM5,Frontier Airport,CJM5,,Frontier,CA,49.166698,-108.567001,2960
+CJM6,Arborfield Airport,CJM6,,Arborfield,CA,53.107800,-103.651001,1183
+CJN2,Kamsack Airport,CJN2,,Kamsack,CA,51.559700,-101.878998,1510
+CJN3,Ignace Heliport,CJN3,,Ignace,CA,49.406399,-91.634697,1500
+CJN4,Assiniboia Airport,CJN4,,Assiniboia,CA,49.734699,-105.946999,2370
+CJN5,Corman Air Park,CJN5,,Saskatoon,CA,52.000599,-106.462997,1690
+CJN7,Little Churchill River / Dunlop's Fly-In Lodge Airport,CJN7,,Little Churchill River,CA,56.580002,-96.247498,700
+CJP2,Kerrobert Airport,CJP2,,Kerrobert,CA,51.926899,-109.128998,2208
+CJP6,Camsell Portage Airport,CJP6,,Camsell Portage,CA,59.610001,-109.266998,750
+CJP7,Bird River (Lac Du Bonnet) Airport,CJP7,,Bird River,CA,50.396702,-95.735001,950
+CJP9,Charlot River Airport,CJP9,,Charlot River,CA,59.601700,-109.137001,700
+CJQ2,Lampman Airport,CJQ2,,Lampman,CA,49.366699,-102.766998,1950
+CJQ3,Carlyle Airport,CJQ3,,Carlyle,CA,49.644402,-102.287003,2074
+CJQ4,Maple Creek Airport,CJQ4,,Maple Creek,CA,49.895802,-109.474998,2517
+CJQ5,Arnes Airport,CJQ5,,Arnes,CA,50.836102,-96.957199,725
+CJQ6,Tanquary Fiord Airport,CJQ6,,Tanquary Fiord,CA,81.409401,-76.881699,50
+CJQ9,Big Sand Lake Airport,CJQ9,,Big Sand Lake,CA,57.619400,-99.875298,1050
+CJR2,Luseland Airport,CJR2,,Luseland,CA,52.070000,-109.374001,2300
+CJR3,The Pas / Grace Lake Airport,CJR3,,The Pas,CA,53.826401,-101.205002,873
+CJR4,Eston Airport,CJR4,,Eston,CA,51.144199,-108.763000,2225
+CJR5,Gladstone Airport,CJR5,,Gladstone,CA,50.163601,-98.942497,900
+CJR7,Canora Airport,CJR7,,Canora,CA,51.628899,-102.449997,1603
+CJR8,Mccreary Airport,CJR8,,Mccreary,CA,50.764702,-99.496696,1000
+CJR9,Naicam Airport,CJR9,,Naicam,CA,52.411400,-104.484001,1780
+CJS2,Malcolm Island Airport,CJS2,,Malcolm Island,CA,56.949402,-102.238998,1120
+CJS3,Cluff Lake Airport,CJS3,XCL,Cluff Lake,CA,58.391102,-109.515999,1112
+CJS4,Moose Jaw Municipal Airport,CJS4,,Moose Jaw,CA,50.434200,-105.387001,1896
+CJS5,Killarney Municipal Airport,CJS5,,Killarney,CA,49.151699,-99.690300,1680
+CJS7,Carman (South) Airport,CJS7,,Carman,CA,49.480301,-98.014999,870
+CJT2,Matheson Island Airport,CJT2,,Matheson Island,CA,51.732201,-96.934402,725
+CJT3,Knee Lake Airport,CJT3,,Knee Lake,CA,54.915298,-94.798103,625
+CJT4,Cumberland House Airport,CJT4,,Cumberland House,CA,53.956100,-102.297997,877
+CJT5,Melita Airport,CJT5,,Melita,CA,49.261700,-101.014000,1475
+CJT8,Homewood Airport,CJT8,,Homewood,CA,49.509201,-97.850601,815
+CJT9,Leoville Airport,CJT9,,Leoville,CA,53.620602,-107.609001,1960
+CJU3,Macdonald Airport,CJU3,,Macdonald,CA,50.096401,-98.500801,840
+CJU4,Humboldt Airport,CJU4,,Humboldt,CA,52.176102,-105.126999,1865
+CJU5,Minnedosa Airport,CJU5,,Minnedosa,CA,50.271900,-99.763100,1840
+CJU6,Arborg Airport,CJU6,,Arborg,CA,50.912800,-97.304398,765
+CJU7,Edam Airport,CJU7,,Edam,CA,53.185001,-108.789001,1790
+CJV2,Neilburg Airport,CJV2,,Neilburg,CA,52.831402,-109.639999,2222
+CJV4,Otter Lake Airport,CJV4,,Otter Lake,CA,55.581100,-104.785004,1300
+CJV5,Neepawa Airport,CJV5,,Neepawa,CA,50.232800,-99.510597,1277
+CJV7,Summer Beaver Airport,CJV7,SUR,Summer Beaver,CA,52.708599,-88.541901,832
+CJV8,Grand Rapids Airport,CJV8,,Grand Rapids,CA,53.172501,-99.323097,860
+CJV9,Melville Municipal Airport,CJV9,,Melville,CA,50.941399,-102.737999,1800
+CJW2,Oxbow Airport,CJW2,,Oxbow,CA,49.233299,-102.150002,1850
+CJW3,Loon Lake Airport,CJW3,,Loon Lake,CA,54.018299,-109.135002,1790
+CJW4,Pelican Narrows Airport,CJW4,,Pelican Narrows,CA,55.286900,-102.750000,1242
+CJW5,Russell Airport,CJW5,,Russell,CA,50.765800,-101.294998,1825
+CJW7,Cigar Lake Airport,CJW7,,Cigar Lake,CA,58.053101,-104.484001,1562
+CJX3,La Ronge Heliport,CJX3,,La Ronge,CA,55.114700,-105.294998,1225
+CJX4,Rosetown Airport,CJX4,,Rosetown,CA,51.564400,-107.917999,1920
+CJX5,Souris Glenwood Industrial Air Park,CJX5,,Souris Glenwood,CA,49.633301,-100.199997,1480
+CJX7,Arctic Bay Airport,CJX7,,Arctic Bay,CA,73.005892,-85.032549,100
+CJY3,Tisdale Airport,CJY3,,Tisdale,CA,52.836700,-104.067001,1525
+CJY4,Sandy Bay Airport,CJY4,,Sandy Bay,CA,55.545601,-102.272003,1001
+CJY5,Strathclair Airport,CJY5,,Strathclair,CA,50.396099,-100.425003,1875
+CJZ2,Portage La Prairie (North) Airport,CJZ2,,Portage La Prairie,CA,49.992500,-98.303101,860
+CJZ3,Melfort Airport,CJZ3,,Melfort,CA,52.866699,-104.699997,1495
+CJZ4,Shellbrook Airport,CJZ4,,Shellbrook,CA,53.228298,-106.362999,1640
+CJZ5,Virden (West) Airport,CJZ5,,Virden,CA,49.883301,-101.067001,1510

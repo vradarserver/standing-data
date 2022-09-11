@@ -1,0 +1,60 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ND01,Nelson Airport,ND01,,Amenia,US,47.045799,-97.186501,950
+ND02,Ricketyback Field,ND02,,Aneta,US,47.811100,-97.960098,1510
+ND07,Punton Private Airport,ND07,,Absaraka,US,47.002800,-97.407204,1105
+ND09,Bryn Airport,ND09,,Dazey,US,47.191101,-98.168999,1431
+ND10,Flying-N-Ranch Airport,ND10,,Christine,US,46.548901,-96.786499,930
+ND11,R J Bohn Armory Heliport,ND11,,Bismarck,US,46.831100,-100.720001,1768
+ND14,Fordville Airport,ND14,,Fordville,US,48.234699,-97.801804,1154
+ND16,Frei Private Airport,ND16,,Halliday,US,47.441700,-102.241997,2100
+ND18,Judy Strip,ND18,,Glenburn,US,48.506401,-101.217003,1570
+ND20,Gensrich Airport,ND20,,Hatton,US,47.704201,-97.350098,1021
+ND22,Fischer Private Airport,ND22,,Garrison,US,47.683300,-101.599998,2065
+ND23,Wright Field,ND23,,Williston,US,48.188099,-103.620003,1885
+ND24,Inkster Airport,ND24,,Inkster,US,48.140301,-97.672600,1092
+ND26,Gajewski Field,ND26,,Alexander,US,47.900002,-103.658997,2100
+ND27,St Aloisius Medical Center Heliport,ND27,,Harvey,US,47.766899,-99.931396,1595
+ND28,Towner County Medical Center Heliport,ND28,,Cando,US,48.493099,-99.211502,1480
+ND29,Swenson Airport,ND29,,Belfield,US,46.666698,-103.234001,2900
+ND30,Medcenter One Hospital Med-I-Port Heliport,ND30,,Bismarck,US,46.807999,-100.782997,1705
+ND32,Kalainov Private Airport,ND32,,Steele,US,46.915501,-99.894501,1845
+ND33,Dawson Mediport Heliport,ND33,,Dawson,US,46.876701,-99.752296,1750
+ND34,Moen Airport,ND34,,Epping,US,48.275002,-103.349998,2200
+ND35,Lindemann Airport,ND35,,Lucca,US,46.700001,-97.700401,1199
+ND36,Don's Airport,ND36,,St Thomas,US,48.638000,-97.484802,840
+ND38,Rices Airpark,ND38,,Maddock,US,47.958302,-99.536499,1575
+ND40,Rau Field,ND40,,Medina,US,46.816700,-99.250397,1855
+ND41,Voller Airport,ND41,,Strasburg,US,46.134701,-100.112999,1900
+ND42,Warren Pietsch Airport,ND42,,Sawyer,US,48.103100,-101.078003,1550
+ND43,Flying S Ranch Airport,ND43,,Minot,US,48.200001,-101.403999,1840
+ND44,Underwood Airport,ND44,,Underwood,US,47.466702,-101.134003,2035
+ND45,Innovis Health Heliport,ND45,,Fargo,US,46.831501,-96.829201,908
+ND46,St Alexius Med-I-Port Heliport,ND46,,Bismarck,US,46.807499,-100.777000,1697
+ND47,Geske Airfield,ND47,,Enderlin,US,46.640800,-97.551102,1103
+ND48,St. Luke's Hospital Heliport,ND48,,Fargo,US,46.883598,-96.785599,975
+ND49,Krause Private Airport,ND49,,Wyndmere,US,46.223598,-97.130402,1060
+ND50,Sakakawea Medical Center Heliport,ND50,,Hazen,US,47.298302,-101.612999,1756
+ND52,True North Airpark,ND52,,West Fargo,US,46.802799,-97.012199,913
+ND54,Whitman Field,ND54,,Robinson,US,47.129200,-99.730400,1783
+ND59,Grieve Airport,ND59,,Buffalo,US,46.987499,-97.529503,1208
+ND60,Frokjer Airport,ND60,,Arvilla,US,47.958900,-97.479797,953
+ND62,Brands Airport,ND62,,Taylor,US,46.848301,-102.458000,2423
+ND65,Letzring Airport,ND65,,Center,US,46.988899,-101.353996,2230
+ND68,Vining Airport,ND68,,Wheatland,US,46.955799,-97.301201,980
+ND72,Lonetree Airstrip,ND72,,Harvey,US,47.684399,-100.084999,1647
+ND73,Peterson Airport,ND73,,Amenia,US,47.048302,-97.255600,999
+ND74,Smith Private Airport,ND74,,Amenia,US,47.016602,-97.162903,940
+ND75,Pete's Tractor Salvage Airport,ND75,,Anamoose,US,47.720001,-100.268997,1655
+ND76,Turner Field,ND76,,Arthur,US,47.059700,-97.156799,942
+ND78,Wilcox Farm Airport,ND78,,Ayr,US,47.040001,-97.537003,1210
+ND80,Spitzer Airport,ND80,,Baldwin,US,47.081699,-100.724998,2050
+ND81,Grand Forks Par Site Heliport,ND81,,Cavalier,US,48.721901,-97.911201,1182
+ND85,Humann Private Airstrip,ND85,,Hazelton,US,46.493099,-100.179001,1980
+ND86,Peterson Airport,ND86,,Grendra,US,48.563900,-103.962997,2190
+ND87,Indian Hill Resort Airport,ND87,,Garrison,US,47.605598,-102.105003,2010
+ND89,Mutschler Field,ND89,,Clementsville,US,47.055801,-98.507004,1490
+ND90,Dahl Private Airport,ND90,,Cogswell/Brampton/,US,45.966599,-97.733704,1285
+ND92,Schroeder Airport,ND92,,Davenport,US,46.708302,-97.116997,920
+ND96,Sauter Airport,ND96,,Bismark,US,46.801701,-100.679001,1730
+ND98,Cloud Nine Airport,ND98,,Lincoln,US,46.760799,-100.654999,1830
+ND99,Ellig Field,ND99,,Hickson,US,46.720200,-96.809502,910

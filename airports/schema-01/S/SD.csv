@@ -1,0 +1,634 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SD00,Mj Aviation Ii Airport,SD00,,Elk Point,US,42.678699,-96.698898,1115
+SD01,Mj Aviation I Airport,SD01,,Letcher,US,43.899700,-98.107697,1305
+SD03,Calico Field,SD03,,Winfred,US,44.050499,-97.335098,1750
+SD05,Thorson Airfield,SD05,,Aberdeen,US,45.371601,-98.478699,1300
+SD09,Mid-Dakota Hospital Heliport,SD09,,Chamberlain,US,43.786900,-99.326500,1735
+SD13,Hofer Private Airport,SD13,,Doland,US,44.866600,-98.071999,1368
+SD14,Valburg Ranch Airport,SD14,,Draper,US,43.733299,-100.398003,1688
+SD17,Cdp Hospital Heliport,SD17,,Sisseton,US,45.658001,-97.050102,1250
+SD19,Andersen Farms Airport,SD19,,Badger,US,44.465302,-97.222504,1750
+SD21,Hayes Emergency Airstrip,SD21,,Hayes,US,44.370800,-101.009003,1986
+SD22,Holy Infant Hospital Heliport,SD22,,Hoven,US,45.256401,-99.776199,1908
+SD23,Black Hills Health Care System Heliport,SD23,,Hot Springs,US,43.437401,-103.473000,3528
+SD24,Bruch Ranch Airport,SD24,,Sturgis,US,44.447201,-103.394997,3070
+SD25,Rappe Field,SD25,,Ipswich,US,45.452202,-99.012299,1521
+SD26,Mike Jacob Sturgis Heliport,SD26,,Sturgis,US,44.416801,-103.449997,3280
+SD29,Menno Airport,SD29,,Menno,US,43.244400,-97.553101,1350
+SD33,Sky Ranch For Boys Airport,SD33,,Camp Crook,US,45.500000,-104.000000,3200
+SD35,Bruch Airfield,SD35,,Sturgis,US,44.494167,-103.394444,2980
+SD36,Booth Ranch Airport,SD36,,Ridgeview,US,45.129200,-100.755997,2250
+SD37,Fiedler Airport,SD37,,Selby,US,45.496101,-100.003998,1950
+SD40,Rapid City Regional Hospital Heliport,SD40,,Rapid City,US,44.057800,-103.225998,3354
+SD41,Shambo Ranch Airport,SD41,,Lemmon,US,45.533298,-101.834000,2500
+SD42,Waltner & Richards Airport,SD42,,Bridgewater,US,43.566601,-97.533699,1403
+SD43,Ingle Airport,SD43,,Cavour,US,44.239700,-98.049698,1305
+SD44,Cook Field,SD44,,Chamberlain,US,43.783298,-99.257599,1678
+SD45,Community Memorial Hospital Heliport,SD45,,Redfield,US,44.871201,-98.521202,1300
+SD46,Jensen Airport,SD46,,Dell Rapids,US,43.833302,-96.850304,1520
+SD47,Hunt Field,SD47,,Eagle Butte,US,45.002800,-101.212997,2440
+SD48,Blomberg 42 Ranch Private Airport,SD48,,Faith,US,45.200001,-102.650002,2610
+SD49,Hite Private Airport,SD49,,Ferney,US,45.287201,-98.054298,1320
+SD50,Harrold Municipal Airport,SD50,,Harrold,US,44.530899,-99.747498,1787
+SD52,Avera Queen of Peace Hospital Heliport,SD52,,Mitchell,US,43.714100,-98.008698,1386
+SD53,Howard Field,SD53,,Beresford,US,42.906399,-96.810799,1250
+SD54,St Luke's Mrmc Heliport,SD54,,Aberdeen,US,45.461899,-98.643204,1304
+SD55,Winter Airfield,SD55,,Huron,US,44.315800,-98.273300,1323
+SD56,Ralph Myers Airport,SD56,,Onida,US,44.866600,-99.617104,1900
+SD57,W L Thompson Airport,SD57,,Pierre,US,44.566601,-100.750000,2113
+SD58,Burke Hospital Heliport,SD58,,Burke,US,43.181900,-99.293297,2210
+SD59,Carr Airport,SD59,,Prairie City,US,45.533298,-102.814003,2886
+SD60,Ike John Private Airport,SD60,,Strool/Prairie City,US,45.400002,-102.795998,2756
+SD61,Plihal Farms Airport,SD61,,Tyndall,US,43.016701,-97.866997,1435
+SD62,Schaller Airport,SD62,,Verdon,US,45.250000,-98.167000,1320
+SD63,Custer Heliport,SD63,,Custer,US,43.762199,-103.608002,5334
+SD64,Estelline Medical Clinic Heliport,SD64,,Estelline,US,44.579700,-96.900803,1659
+SD65,Whipple Ranch Airport,SD65,,Wilmot,US,45.437698,-96.999802,1462
+SD66,Cooks Airport,SD66,,Cottonwood,US,43.973301,-101.952003,2456
+SD67,Flandreau Medical Center Heliport,SD67,,Flandreau,US,44.051601,-96.592003,1570
+SD68,Flying T Airport,SD68,,Hot Springs,US,43.384701,-103.431000,3675
+SD69,Badlands Heliport,SD69,,Interior,US,43.783298,-101.896004,2500
+SD70,Rushmore Heliport,SD70,,Keystone,US,43.887199,-103.426003,4400
+SD71,Bogner Field,SD71,,Oelrichs,US,43.116600,-103.366997,3660
+SD72,Vig Ranch Airfield,SD72,,Opal,US,44.849998,-102.584000,2600
+SD73,Staben Strip,SD73,,Philip,US,44.520802,-101.593002,2227
+SD74,Vander Wal Private Airport,SD74,,Pollock,US,45.995499,-100.375999,1955
+SD75,Livingston Airport,SD75,,Stickney,US,43.591099,-98.452003,1641
+SD76,Tennant Ranch Airport,SD76,,Camp Crook,US,45.829399,-103.945000,3090
+SD77,Barber Strip,SD77,,Rapid City,US,44.000301,-103.017998,3200
+SD78,Anderson Aerial Spraying Airport,SD78,,Kennebec,US,43.901501,-99.878899,1750
+SD79,Monty Harer Airstrip,SD79,,Hoven,US,45.201401,-99.836197,1860
+SD80,Mobridge Regional Hospital Heliport,SD80,,Mobridge,US,45.545799,-100.448997,1670
+SD81,Vivian Airport,SD81,,Vivian,US,43.931400,-100.315002,1920
+SD82,Webster-Eneboe Airstrip,SD82,,Wilmot,US,45.424999,-96.866997,1160
+SD83,Lee Airport,SD83,,De Smet,US,44.215599,-97.607498,1555
+SD84,Marone Airport,SD84,,Huron,US,44.265800,-98.120399,1285
+SD86,Custer Regional Hospital Heliport,SD86,,Custer,US,43.773039,-103.593806,5300
+SD87,Platte Community Memorial Hospital Heliport,SD87,,Platte,US,43.384399,-98.835602,1618
+SD88,Dunn Airport,SD88,,Bison,US,45.389099,-102.002998,2467
+SD89,Priebe Landing Strip,SD89,,Pukwana,US,43.770599,-99.207497,1628
+SD90,Mitchell's Strip,SD90,,Spearfish,US,44.467201,-103.787003,3920
+SD91,Star Aviation Nr 1 Heliport,SD91,,Spearfish,US,44.468399,-103.811996,4025
+SD92,Telstar Heliport,SD92,,Mitchell,US,43.698299,-98.021500,1310
+SD93,Gary Myers Airport,SD93,,Gettysburg,US,44.864201,-99.606400,1930
+SD94,Lundin Airport,SD94,,Revillo,US,44.993000,-96.476997,1186
+SD96,Pioneer Memorial Hospital Heliport,SD96,,Viborg,US,43.175800,-97.084198,1350
+SD97,Oller Airport,SD97,,Vivian,US,43.877800,-100.362000,2100
+SD98,Barber Airport,SD98,,Enning,US,44.462502,-102.552002,2655
+SD99,Glawe's Airport,SD99,,Sioux Falls,US,43.625000,-96.750298,1495
+SDAA,Araras Airport,SDAA,,Araras,BR,-22.339100,-47.359299,2247
+SDAB,Maju Heliport,SDAB,,Araçatuba,BR,-21.093611,-50.481388,1247
+SDAC,Aché Heliport,SDAC,,Guarulhos,BR,-23.474443,-46.521942,2444
+SDAD,Everaldo Moras Barreto Airport,SDAD,,Adamantina,BR,-21.694799,-51.097301,1394
+SDAE,São Pedro Airport,SDAE,,São Pedro,BR,-22.583611,-47.896111,1858
+SDAF,Fazenda Palmeiras Airport,SDAF,,Analândia,BR,-22.156700,-47.719299,2762
+SDAG,Angra dos Reis Airport,SDAG,,Angra Dos Reis,BR,-22.975300,-44.307098,10
+SDAH,Amil Resgate Heliport,SDAH,,Barueri,BR,-23.493334,-46.848057,2585
+SDAI,Americana Airport,SDAI,,Americana,BR,-22.755800,-47.269402,2085
+SDAJ,Fazenda Santa Marina Airport,SDAJ,,Santo Antônio Do Aracanguá,BR,-20.847099,-50.787998,1126
+SDAL,Fazenda Alamo Airport,SDAL,,Sao Carlos,BR,-21.815201,-47.901901,2434
+SDAM,Amarais Airport,SDAM,CPQ,Campinas,BR,-22.859200,-47.108200,2008
+SDAN,Fazenda Santo Ângelo Airport,SDAN,,Brotas,BR,-22.245556,-48.257778,1680
+SDAP,Hospital Paulistano Heliport,SDAP,,São Paulo,BR,-23.565277,-46.642776,2798
+SDAQ,Centro Empresarial do Aço Heliport,SDAQ,,São Paulo,BR,-23.634167,-46.639999,2815
+SDAR,Hotel Canto da Floresta Heliport,SDAR,,Amparo,BR,-22.748611,-46.685555,2825
+SDAS,Fazenda Santo Antônio Airport,SDAS,,Mirandópolis,BR,-21.275700,-51.283199,1141
+SDAU,C.T.O Itaú Heliport,SDAU,,São Paulo,BR,-23.558056,-46.618610,2661
+SDAV,Auxiliar I Heliport,SDAV,,São Paulo,BR,-23.631945,-46.713612,2539
+SDAW,Banco Industrial Heliport,SDAW,,São Paulo,BR,-23.591110,-46.685001,2457
+SDAX,Bradesco - Sta Cecília Heliport,SDAX,,São Paulo,BR,-23.540001,-46.649166,2549
+SDAZ,Fazenda Laranjeiras Heliport,SDAZ,,Areal,BR,-22.205557,-43.095001,1596
+SDBA,Batatais Airport,SDBA,,Batatais,BR,-20.877222,-47.585556,2890
+SDBB,Bebedouro Airport,SDBB,,Bebedouro,BR,-20.900400,-48.473301,1942
+SDBC,Bradesco Alphaville Heliport,SDBC,,Barueri,BR,-23.487499,-46.857498,2546
+SDBF,Porto Seguro Heliport,SDBF,,São Paulo,BR,-23.512222,-46.670834,2575
+SDBG,Barra Green Heliport,SDBG,,Rio De Janeiro,BR,-23.006111,-43.347221,13
+SDBH,Bandeirantes Heliport,SDBH,,São Paulo,BR,-23.594999,-46.709999,2615
+SDBI,Aeroclube Airport,SDBI,,Birigui,BR,-21.281944,-50.326942,1394
+SDBJ,Jimenez Heliport,SDBJ,,Piedade,BR,-23.709444,-47.425556,2658
+SDBK,Botucatu Airport,SDBK,QCJ,Botucatu,BR,-22.939501,-48.467999,3012
+SDBL,Banco Real S/A Heliport,SDBL,,São Paulo,BR,-23.563610,-46.654167,2923
+SDBM,Hospital Beneficência Portuguesa Heliport,SDBM,,São Paulo,BR,-23.568056,-46.641666,2794
+SDBN,Fazenda Bonanza Airport,SDBN,,Salto De Pirapora,BR,-23.686111,-47.557499,2316
+SDBP,Aeroporto Estadual Arthur Siqueira Airport,SDBP,,Bragança Paulista,BR,-22.978800,-46.537102,2887
+SDBR,Business Center Heliport,SDBR,,São Paulo,BR,-23.596111,-46.685280,2608
+SDBS,Os Bandeirantes Heliport,SDBS,,São Paulo,BR,-23.575832,-46.686943,2585
+SDBT,Banco de Boston Heliport,SDBT,,São Paulo,BR,-23.544722,-46.635555,2565
+SDBV,Balneário São Januário Airport,SDBV,,Ilha Comprida,BR,-24.870832,-47.758331,26
+SDBW,Banespa República Heliport,SDBW,,São Paulo,BR,-23.543263,-46.650276,2676
+SDBZ,KMS Heliport,SDBZ,,Barueri,BR,-23.505278,-46.844723,2521
+SDCA,Capão Bonito Airport,SDCA,,Capão Bonito,BR,-24.036200,-48.356701,2402
+SDCB,Refinaria Presidente Bernardes Heliport,SDCB,,Cubatão,BR,-23.887777,-46.427776,23
+SDCC,Country Club Orgabil Airport,SDCC,,Araçatuba,BR,-21.220000,-50.410000,1253
+SDCD,Catanduva Airport,SDCD,,Catanduva,BR,-21.149200,-48.988701,1841
+SDCE,Fazenda Marambaia Airport,SDCE,,Pirapora,BR,-17.438334,-44.936943,1766
+SDCF,CBS Heliport,SDCF,,São Paulo,BR,-23.584723,-46.671391,2653
+SDCG,Senadora Eunice Micheles Airport,SDCG,OLC,São Paulo De Olivença,BR,-3.467930,-68.920412,335
+SDCH,Band Heliport,SDCH,,São Paulo,BR,-23.643057,-46.736111,2589
+SDCI,Cabiúnas Heliport,SDCI,,Macaé,BR,-22.281668,-41.717499,66
+SDCK,Condomínio Edifício Itaquere Heliport,SDCK,,São Paulo,BR,-23.582222,-46.682220,2621
+SDCL,Fazenda Campo Alegre Airport,SDCL,,Cerqueira César,BR,-23.154167,-49.208889,2182
+SDCM,Sete Povos Airport,SDCM,,São Desidério,BR,-12.863333,-46.162498,2957
+SDCN,Centro Médico Naval Marcílio Dias Heliport,SDCN,,Rio De Janeiro,BR,-22.917221,-43.269444,409
+SDCO,Sorocaba Airport,SDCO,SOD,Sorocaba,BR,-23.478001,-47.490002,2077
+SDCP,Fazenda Sant`anna Heliport,SDCP,,Amparo,BR,-22.736668,-46.746387,2598
+SDCQ,Mediterâneo Heliport,SDCQ,,Cotia,BR,-23.593056,-46.852779,2648
+SDCR,Fazenda Caiçara Airport,SDCR,,Itanhaém,BR,-24.071112,-46.829445,36
+SDCS,Veracel Heliport,SDCS,,Eunápolis,BR,-16.091944,-39.412777,480
+SDCT,Fazenda Santo Antonio do Oriçanga Airport,SDCT,,Estiva Gerbi,BR,-22.228611,-46.970001,2237
+SDCU,Brigadeiro Francisco Pinto de Moura Airport,SDCU,,Casemiro De Abreu,BR,-22.554167,-42.115002,18
+SDCV,Citibank Heliport,SDCV,,São Paulo,BR,-23.565001,-46.653610,2997
+SDCW,Fazenda Paloma Airport,SDCW,,Colômbia,BR,-20.326111,-48.828335,1706
+SDCX,Centro Empresarial Mourisco Heliport,SDCX,,Rio De Janeiro,BR,-22.949722,-43.180279,119
+SDCY,Camargo Corrêa Heliport,SDCY,,São Paulo,BR,-23.591944,-46.686943,2572
+SDCZ,Fazenda Bom Jardim Airport,SDCZ,,Mangaratiba,BR,-22.936111,-44.098610,16
+SDDA,Deputado Adib Chammas Heliport,SDDA,,Santo André,BR,-23.642221,-46.532780,2554
+SDDB,Maggi Agropecuária Airport,SDDB,,Campos Novos Paulista,BR,-22.612499,-50.095554,1703
+SDDC,Panco 10 Heliport,SDDC,,Duque De Caxias,BR,-22.666700,-43.296101,58
+SDDF,Sul América Seguros Heliport,SDDF,,São Paulo,BR,-23.607779,-46.700558,2555
+SDDG,Hospital Samaritano Heliport,SDDG,,São Paulo,BR,-23.538610,-46.662498,2966
+SDDH,Birmann 29 Heliport,SDDH,,São Paulo,BR,-23.587500,-46.680832,2614
+SDDK,Saint-Exupéry Airport,SDDK,,Ocauçu,BR,-22.482779,-49.983891,1886
+SDDL,Fazenda Dois Lagos Airport,SDDL,,Tatuí,BR,-23.307501,-47.933887,1916
+SDDM,Dona Marta Heliport,SDDM,,Rio De Janeiro,BR,-22.945000,-43.196945,1145
+SDDN,Andradina Airport,SDDN,,Andradina,BR,-20.924999,-51.382000,1247
+SDDO,Cândido Mendes Heliport,SDDO,,Rio De Janeiro,BR,-22.904167,-43.175278,460
+SDDP,Delta PLaza Heliport,SDDP,,São Paulo,BR,-23.567499,-46.645832,2918
+SDDR,Dracena Airport,SDDR,QDC,Dracena,BR,-21.460501,-51.606899,1220
+SDDT,de Imbetiba Heliport,SDDT,,Macaé,BR,-22.387777,-41.772499,18
+SDDU,Fazenda Santa Carolina,SDDU,,Dourado,BR,-22.131001,-48.319302,2302
+SDDW,Delmar Heliport,SDDW,,Guarujá,BR,-23.921110,-46.215832,7
+SDDX,Fazenda Paiquerê Airport,SDDX,,Populina,BR,-19.888056,-50.514168,1483
+SDDY,Cesari Heliport,SDDY,,Cubatão,BR,-23.823611,-46.367778,246
+SDEA,Edifício HSBC Tower Heliport,SDEA,,São Paulo,BR,-23.583055,-46.683887,2619
+SDEB,Ericson do Brasil Heliport,SDEB,,São José Dos Campos,BR,-23.061943,-45.782501,1875
+SDEC,Rancho Enagri Airport,SDEC,,Alto Garças,BR,-16.956110,-53.570000,2572
+SDED,Edra do Brasil Airport,SDED,,Ipeúna,BR,-22.440277,-47.701668,2008
+SDEE,Rancho Villela Airport,SDEE,,Itaí,BR,-23.570278,-48.863335,1801
+SDEF,Edifício Morumbi Office Tower Heliport,SDEF,,São Paulo,BR,-23.623333,-46.696110,2619
+SDEG,Fazenda Nova Califórnia Airport,SDEG,,Martinópolis,BR,-22.466700,-51.200802,1450
+SDEH,Fazenda Santo Antônio Heliport,SDEH,,Araras,BR,-22.378056,-47.325001,2047
+SDEJ,Fazenda Guará do Pinhal Airport,SDEJ,,Itapetininga,BR,-23.665833,-48.073612,2036
+SDEK,Barra do Una Heliport,SDEK,,São Sebastião,BR,-23.735832,-45.746944,43
+SDEL,Condomínio Spázio Central JK Heliport,SDEL,,São Paulo,BR,-23.600279,-46.554722,2684
+SDEM,Estância Machado Airport,SDEM,,Álvares Machado,BR,-22.101110,-51.451668,1388
+SDEO,Fazenda Entre Rios Airport,SDEO,,Ibitinga,BR,-21.878599,-48.659401,1709
+SDEP,Presidente Epitácio Airport,SDEP,,Presidente Epitácio,BR,-21.774300,-52.143799,974
+SDEQ,Vigor Heliport,SDEQ,,São Paulo,BR,-23.533056,-46.603333,2434
+SDER,Fazenda Entre Rios Airport,SDER,,Sud Menucci,BR,-20.764999,-50.856945,1207
+SDES,Estância Colorado Airport,SDES,,Sales De Oliveira,BR,-20.760279,-47.861942,2372
+SDET,Tietê Airport,SDET,,Tietê,BR,-23.104721,-47.724445,1644
+SDEU,Empresarial Anhanguera Heliport,SDEU,,Cajamar,BR,-23.384722,-46.831669,2658
+SDEV,Centro Empresarial Vari Heliport,SDEV,,São Paulo,BR,-23.499722,-46.622780,2668
+SDEW,Grupo Julio Simões - Sede Heliport,SDEW,,Mogi Das Cruzes,BR,-23.541389,-46.229168,2461
+SDEY,Imigrantes Heliport,SDEY,,Diadema,BR,-23.688889,-46.605278,2554
+SDEZ,Unibanco Eusébio Matoso Heliport,SDEZ,,São Paulo,BR,-23.572500,-46.698891,2680
+SDFA,Fazenda Bonança Airport,SDFA,,Pereira Barreto,BR,-20.676399,-51.030800,1200
+SDFD,Fernandópolis Airport,SDFD,,Fernandópolis,BR,-20.276600,-50.215599,1640
+SDFE,Fazenda Santo Antônio Airport,SDFE,,Bela Vista,BR,-22.068056,-56.702499,633
+SDFF,Fazenda Fittipaldi Citrus Airport,SDFF,,Araraquara,BR,-21.854445,-48.295834,1673
+SDFG,Fazenda Guanabara Heliport,SDFG,,Arapeí,BR,-22.658890,-44.465557,1591
+SDFH,Fazenda Amália Airport,SDFH,,Santa Rosa Do Viterbo,BR,-21.444000,-47.370899,2318
+SDFI,Fazenda Itaquere Airport,SDFI,,Araraquara,BR,-21.654600,-48.266300,2257
+SDFK,Fazenda Figueira Airport,SDFK,,Marabá Paulista,BR,-22.068890,-52.158890,1234
+SDFL,Fazenda Santa Albana Airport,SDFL,,Itapetininga,BR,-23.571112,-48.283333,2051
+SDFM,Fazenda Santa Maria Airport,SDFM,,Teodoro Sampaio,BR,-22.288889,-52.255833,1083
+SDFN,Fazenda São Francisco Airport,SDFN,,Fartura,BR,-23.475000,-49.543888,1703
+SDFO,Centro Gráfico Folha Heliport,SDFO,,Santana Do Parnaíba,BR,-23.465555,-46.860001,2535
+SDFP,Folha de São Paulo Heliport,SDFP,,São Paulo,BR,-23.537779,-46.645832,2612
+SDFQ,Centro Empresarial Botafogo Heliport,SDFQ,,Rio De Janeiro,BR,-22.944445,-43.181667,187
+SDFS,Fazenda Santa Gertrudes Heliport,SDFS,,Dourado,BR,-22.092222,-48.346943,2119
+SDFT,Virgulino de Oliveira Airport,SDFT,,Itapira,BR,-22.414444,-46.808887,2152
+SDFU,Fazenda Ponte Funda Airport,SDFU,,Presidente Eptácio,BR,-21.870556,-52.163055,984
+SDFV,Federação Paulista de Futevol Heliport,SDFV,,São Paulo,BR,-23.521667,-46.667221,2477
+SDFW,Condomínio Edifício San Paolo Heliport,SDFW,,São Paulo,BR,-23.576668,-46.687778,2726
+SDFX,Casa Nova Airport,SDFX,,Casa Nova,BR,-9.157090,-40.937698,1247
+SDFY,Fazenda Ipameri Airport,SDFY,,Osvaldo Cruz,BR,-21.631390,-50.808887,1280
+SDFZ,Vivo Barra Funda Heliport,SDFZ,,São Paulo,BR,-23.509167,-46.681110,2441
+SDGA,Acapulco Heliport,SDGA,,Guarujá,BR,-23.955000,-46.201389,36
+SDGB,Usina Colorado Airport,SDGB,,Guaíra,BR,-20.276943,-48.181946,1988
+SDGD,Eucatex Heliport,SDGD,,Botucatu,BR,-22.994167,-48.568333,2664
+SDGE,Casas Bahia Heliport,SDGE,,São Caetano Do Sul,BR,-23.610277,-46.570557,2520
+SDGF,Fazenda Fartura Airport,SDGF,,Ocauçu,BR,-22.367222,-49.946945,1647
+SDGI,Fazenda Guariroba Heliport,SDGI,,Campinas,BR,-22.922777,-46.906944,2297
+SDGJ,Fazenda Suíssa Airport,SDGJ,,Guaimbê,BR,-21.912222,-49.857498,1748
+SDGK,Fazenda Gurucaia Airport,SDGK,,Guararapes,BR,-21.494722,-50.733891,1345
+SDGL,Catedral Mundial da Fé Heliport,SDGL,,Rio De Janeiro,BR,-22.878889,-44.276112,154
+SDGM,Birmann 09 Heliport,SDGM,,São Paulo,BR,-23.654167,-46.716667,2566
+SDGO,Itapemirim Heliport,SDGO,,Guarulhos,BR,-23.454445,-46.485832,2543
+SDGP,Hotel Fazenda Capricho Airport,SDGP,,Avaré,BR,-23.224443,-48.796112,2099
+SDGQ,Banco Sofisa Heliport,SDGQ,,São Paulo,BR,-23.562778,-46.655834,2864
+SDGR,Guararapes Airport,SDGR,,Guararapes,BR,-21.263056,-50.653057,1312
+SDGS,Bertolucci Heliport,SDGS,,São Paulo,BR,-23.585556,-46.680279,2657
+SDGT,Fazenda Alvorada Airport,SDGT,,Campos Novos Paulista,BR,-22.525000,-50.045834,1895
+SDGU,Usina Bonfim Airport,SDGU,,Guariba,BR,-21.404444,-48.303333,2116
+SDGV,CPM Granja Viana Heliport,SDGV,,Cotia,BR,-23.599443,-46.832500,2710
+SDGW,JKFC Heliport,SDGW,,São Paulo,BR,-23.586666,-46.674721,2648
+SDGX,Shering Plough Heliport,SDGX,,São Paulo,BR,-23.626944,-46.707779,2494
+SDGY,Fazenda Anhangaí Airport,SDGY,,Araçatuba,BR,-20.927500,-50.743332,1181
+SDGZ,Bradesco Cidade de Deus Heliport,SDGZ,,Osasco,BR,-23.548889,-46.772221,2529
+SDHA,HASP Heliport,SDHA,,São Paulo,BR,-23.513332,-46.644169,2379
+SDHB,Bradesco Heliport,SDHB,,Osasco,BR,-23.548056,-46.768333,2467
+SDHC,Fazenda Koga Airport,SDHC,,Getulina,BR,-21.871944,-49.980278,1292
+SDHD,Hospital de Clínicas de Niterói Heliport,SDHD,,Niterói,BR,-22.894444,-43.115833,188
+SDHE,Fazenda Herdade Airport,SDHE,,Itapira,BR,-22.492500,-46.843613,2494
+SDHG,Málaga Heliport,SDHG,,Osasco,BR,-23.481667,-46.778057,2526
+SDHH,Comercial Campineira de Combustíveis Heliport,SDHH,,Paulínea,BR,-22.757500,-47.158054,1959
+SDHI,Hospital Gastroclínica Heliport,SDHI,,São Paulo,BR,-23.594999,-46.651669,2566
+SDHJ,Hospital da Polícia Militar Heliport,SDHJ,,São Paulo,BR,-23.472778,-46.620277,2592
+SDHK,Pirelli - Laboratório Eng. Cabos Heliport,SDHK,,Santo André,BR,-23.663055,-46.505833,2559
+SDHL,Lagoa Heliport,SDHL,,Rio De Janeiro,BR,-22.975636,-43.217918,10
+SDHM,Helicentro Morumbí Heliport,SDHM,,São Paulo,BR,-23.595278,-46.745277,2428
+SDHN,Philips Heliport,SDHN,,São Paulo,BR,-23.608055,-46.696945,2667
+SDHO,Bradesco - Santo André Heliport,SDHO,,Santo André,BR,-23.655832,-46.528332,2523
+SDHQ,Shopping Leste Aricanduva Heliport,SDHQ,,São Paulo,BR,-23.567499,-46.504723,2434
+SDHS,TECSAT Heliport,SDHS,,São José Dos Campos,BR,-23.242779,-45.932777,1975
+SDHT,Cetenco Plaza - Torre Norte Heliport,SDHT,,São Paulo,BR,-23.558056,-46.657501,2943
+SDHU,Morro da Urca Heliport,SDHU,,Rio De Janeiro,BR,-22.951668,-43.165833,692
+SDHV,Hospital Albert Einstein Heliport,SDHV,,São Paulo,BR,-23.600279,-46.715000,2828
+SDHW,Hospital Bandeirantes Heliport,SDHW,,São Paulo,BR,-23.607222,-46.634445,2598
+SDHY,Edifício São Gonzaga Heliport,SDHY,,São Paulo,BR,-23.559168,-46.660831,3008
+SDHZ,Hospital Vera Cruz Heliport,SDHZ,,Campinas,BR,-22.904167,-47.067780,2406
+SDIA,Itaú - Boavista Heliport,SDIA,,São Paulo,BR,-23.545834,-46.629723,2525
+SDIB,Irmãos Ribeiro Airport,SDIB,,Espírito Santo Do Pinhal,BR,-22.158100,-46.775299,3018
+SDID,Itararé Airport,SDID,,Itararé,BR,-24.135279,-49.328335,2598
+SDIE,Industrial Estudantes Heliport,SDIE,,Cotia,BR,-23.589440,-46.879170,2467
+SDIG,Ibitinga Airport,SDIG,,Ibitinga,BR,-21.747299,-48.855701,1780
+SDIH,Fazenda Irohy Airport,SDIH,,Biritiba-Mirim,BR,-23.565556,-46.069443,2467
+SDIJ,Panco 13 Heliport,SDIJ,,Itaboraí,BR,-22.756399,-42.890301,112
+SDIL,Fazenda Pedra Branca Airport,SDIL,,Angra Dos Reis,BR,-22.903400,-44.289001,10
+SDIM,Itanhaém Airport,SDIM,,Itanhaém,BR,-24.164722,-46.785557,13
+SDIN,Clube do Céu Airport,SDIN,,Rio De Janeiro,BR,-22.997499,-43.401390,3
+SDIO,Aeroclube de Itápolis Airport,SDIO,,Itápolis,BR,-21.599722,-48.832779,1739
+SDIP,Fazenda Centro de Vôo a Vela Ipuã Airport,SDIP,,Caçapava,BR,-23.043333,-45.775555,1913
+SDIQ,Goettems Heliport,SDIQ,,Angra Dos Reis,BR,-23.048056,-44.195000,8
+SDIS,The Eagle`s Nest Heliport,SDIS,,Arandu,BR,-23.247499,-49.029446,1867
+SDIT,Itaú NPD Paulista Heliport,SDIT,,São Paulo,BR,-23.576668,-46.658054,2558
+SDIU,Itu Airport,SDIU,,Itu,BR,-23.349722,-47.327778,2231
+SDIV,Ituverava Airport,SDIV,,Ituverava,BR,-20.375500,-47.768700,2044
+SDIW,Edifício São Paulo Trade Building Heliport,SDIW,,São Paulo,BR,-23.593889,-46.688889,2628
+SDIX,Iporanga - Guarujá Heliport,SDIX,,Guarujá,BR,-23.887777,-46.172222,20
+SDIY,Fábrica de Motores Rolls Royce Heliport,SDIY,,São Bernardo Do Campo,BR,-23.698889,-46.561668,2575
+SDIZ,Fazenda São Paulo Airport,SDIZ,,Cardoso,BR,-20.155556,-49.934723,1656
+SDJA,Doutor José Augusto de Arruda Botelho Airport,SDJA,,Itirapina,BR,-22.194720,-47.861670,2569
+SDJB,Quinta Da Baroneza II Heliport,SDJB,,Bragança Paulista,BR,-22.973056,-46.700000,2526
+SDJE,Avibrás II Heliport,SDJE,,Jacareí,BR,-23.345833,-45.825001,2133
+SDJF,Fazenda Jequitibá Airport,SDJF,,Buri,BR,-23.845278,-48.448055,2310
+SDJG,Fazenda Ponte Preta Airport,SDJG,,Santa Cruz Do Rio Pardo,BR,-22.733334,-49.483334,1689
+SDJH,Norberto Odebrecht Heliport,SDJH,,Salvador,BR,-12.962500,-38.435560,154
+SDJI,Avibrás II Heliport,SDJI,,Jacareí,BR,-23.326389,-45.817223,2395
+SDJJ,Francisco Mellão Heliport,SDJJ,,São Paulo,BR,-23.593332,-46.688057,2634
+SDJL,Jales Airport,SDJL,JLS,Jales,BR,-20.292999,-50.546398,1496
+SDJM,Sítio Santo Antônio Heliport,SDJM,,Jundiaí,BR,-23.132500,-46.928333,2520
+SDJN,Fazenda São Luiz Airport,SDJN,,Jardinópolis,BR,-21.100555,-47.750557,1772
+SDJQ,Fazenda São Joaquim O.B. Airport,SDJQ,,Pereira Barreto,BR,-20.828400,-51.007999,1276
+SDJR,Fazenda Santa Inês Airport,SDJR,,São José Do Rio Preto,BR,-20.882500,-49.392502,1804
+SDJT,J. Toledo Heliport,SDJT,,Jundiaí,BR,-23.174723,-46.908333,2287
+SDJU,Hospital São Luiz Heliport,SDJU,,São Paulo,BR,-23.590279,-46.672779,2536
+SDJV,São João da Boa Vista Airport,SDJV,,São João Da Boa Vista,BR,-22.017221,-46.840832,2500
+SDJW,Hospital Cidade Jardim Heliport,SDJW,,São Paulo,BR,-23.590834,-46.703335,2552
+SDJY,Paulista Capital Plaza - The Flat Heliport,SDJY,,São Paulo,BR,-23.571112,-46.646111,2953
+SDKB,Casa Branca Airport,SDKB,,Casa Branca,BR,-21.788055,-47.055557,2346
+SDKC,Fazenda Eldorado Airport,SDKC,,Gália,BR,-22.303612,-49.462223,1771
+SDKD,Condomínio América Business Park Heliport,SDKD,,São Paulo,BR,-23.618334,-46.703056,2490
+SDKE,Coribe Airport,SDKE,,Coribe,BR,-13.777222,-44.464443,2198
+SDKF,Juazeiro Airport,SDKF,,Curaçá,BR,-9.155540,-40.091400,1220
+SDKG,Fazenda Gávea Airport,SDKG,,Cerqueira César,BR,-23.225000,-49.179169,2031
+SDKH,Edifício New Century Heliport,SDKH,,Ribeirão Preto,BR,-21.205278,-47.809723,2179
+SDKI,CL Heliport,SDKI,,São José Dos Campos,BR,-23.224443,-45.906944,1993
+SDKJ,Formosa do Rio Preto Airport,SDKJ,,Formosa Do Rio Preto,BR,-11.021600,-45.186699,1598
+SDKK,Mococa Airport,SDKK,QOA,Mococa,BR,-21.487801,-47.034401,2116
+SDKM,Hotel Emiliano Heliport,SDKM,,São Paulo,BR,-23.565832,-46.665279,2716
+SDKN,Fazenda e Haras Bela Vista Airport,SDKN,,Mineiros Do Tietê,BR,-22.438057,-48.405556,2339
+SDKO,Fazenda Campo Grande Airport,SDKO,,Colômbia,BR,-20.257700,-48.788601,1830
+SDKP,Fazenda Jamaica Airport,SDKP,,Pompéia,BR,-22.189722,-50.278889,1611
+SDKQ,Fazenda São João Airport,SDKQ,,Guaraci,BR,-20.216667,-49.066666,1673
+SDKR,Fazenda Triângulo Airport,SDKR,,Pontes E Lacerda,BR,-15.175000,-59.171112,1116
+SDKS,Torre da Glória Heliport,SDKS,,Rio De Janeiro,BR,-22.918056,-43.177223,197
+SDKT,Edifício Dacon Heliport,SDKT,,São Paulo,BR,-23.568056,-46.683887,2703
+SDKU,Itanhangá Heliport,SDKU,,Indaiatuba,BR,-23.060833,-47.185280,2313
+SDKV,Rede Globo Heliport,SDKV,,São Paulo,BR,-23.613611,-46.696110,2384
+SDKW,FazendaSodema Airport,SDKW,,Vera,BR,-12.295278,-55.536944,1181
+SDKY,Hospital das Clínicas Heliport,SDKY,,São Paulo,BR,-23.557777,-46.668888,2740
+SDLA,Condomínio Laranjeiras Heliport,SDLA,,Parati,BR,-23.344168,-44.660831,11
+SDLB,Metropolitan Office Heliport,SDLB,,São Paulo,BR,-23.580833,-46.682499,2670
+SDLD,Fazenda São Miguel Heliport,SDLD,,Ribeirão Branco,BR,-24.195557,-48.642776,2894
+SDLE,Rio de Contas Airport,SDLE,,Rio De Contas,BR,-13.587500,-41.789165,3576
+SDLF,SBT Heliport,SDLF,,Osasco,BR,-23.476667,-46.777500,2639
+SDLG,Salviano Inácio Rocha Airport,SDLG,,Ourolândia,BR,-10.974444,-41.069443,1890
+SDLH,Caldas do Jorro Airport,SDLH,,Tucano,BR,-11.044167,-38.784168,696
+SDLI,Abaré Airport,SDLI,,Abaré,BR,-8.736990,-39.115398,955
+SDLJ,Igarapé Bahia Airport,SDLJ,,Parauapebas,BR,-6.047780,-50.579700,2257
+SDLK,Caculé Airport,SDLK,,Caculé,BR,-14.481200,-42.264702,2064
+SDLM,Ipua Faz Alianca Airport,SDLM,,Ipua,BR,-20.504999,-48.044201,2375
+SDLN,Fazenda Tosana Airport,SDLN,,Cabo Frio,BR,-22.599722,-42.028889,26
+SDLO,Fazenda Pontal Airport,SDLO,,Cairu,BR,-13.564800,-38.939999,12
+SDLP,Lençóis Paulista Airport,SDLP,QGC,Lençóis Paulista,BR,-22.578400,-48.774601,2039
+SDLQ,Fazenda Perobal Airport,SDLQ,,Guararapes,BR,-21.503611,-50.778057,1339
+SDLR,Fazenda Sonho Dourado Airport,SDLR,,Valentim Gentil,BR,-20.467222,-50.142223,1722
+SDLS,Terminal Petrobrás - Guararema Heliport,SDLS,,Guararema,BR,-23.414167,-45.966667,1919
+SDLT,Fazenda Santa Rita Airport,SDLT,,Lutecia,BR,-22.199400,-50.373600,1437
+SDLU,Fazenda Santa Luíza Airport,SDLU,,Barra Bonita,BR,-22.483101,-48.524502,1782
+SDLV,Fazenda São Francisco Airport,SDLV,,Florestópolis,BR,-22.920834,-51.351944,1581
+SDLW,Fazenda Campo Real Airport,SDLW,,Campo Novo Do Parecis,BR,-13.446944,-57.781113,1804
+SDLX,Fazenda Jacareúna Airport,SDLX,,São Félix Do Araguaia,BR,-11.441111,-52.204723,1417
+SDMA,Fazenda Maristela Airport,SDMA,,Tremembé,BR,-22.954166,-45.601665,1804
+SDMB,Benteler Heliport,SDMB,,Campinas,BR,-23.001110,-47.119446,2156
+SDMC,Maricá Airport,SDMC,,Maricá,BR,-22.919500,-42.830898,13
+SDMD,Fazenda Santa Izabel Airport,SDMD,,Coxim,BR,-18.000000,-54.695833,1033
+SDME,Marchesan S.A. Airport,SDME,,Matão,BR,-21.630600,-48.392899,1942
+SDMF,Maresias Heliport,SDMF,,São Sebastião,BR,-23.786388,-45.571945,36
+SDMI,Comando do 8º Distrito Naval Heliport,SDMI,,São Paulo,BR,-23.594168,-46.646667,2580
+SDMN,Meira Fernandes Heliport,SDMN,,Capão Bonito,BR,-23.916668,-48.426109,2434
+SDMO,Monte Alto Airport,SDMO,,Monte Alto,BR,-21.258981,-48.523607,2461
+SDMP,Erik Heliport,SDMP,,Mairiporã,BR,-23.299999,-46.599167,3707
+SDMQ,Fazenda Quebracho Brasil Airport,SDMQ,,Porto Murtinho,BR,-21.848056,-57.899167,299
+SDMR,Marambaia Airport,SDMR,,Rio De Janeiro,BR,-23.066389,-43.879723,16
+SDMS,Marechiaro Heliport,SDMS,,Angra Dos Reis,BR,-23.015556,-44.280556,190
+SDMT,Banco Bradesco Av. Paulista Heliport,SDMT,,São Paulo,BR,-23.562222,-46.654999,2896
+SDMU,Multiplan Heliport,SDMU,,Rio De Janeiro,BR,-22.909445,-43.175556,351
+SDMV,Fazenda Morro Vermelho Airport,SDMV,,Jaú,BR,-22.277201,-48.604500,1736
+SDMW,Fazenda Karajá Airport,SDMW,,Nova Crixás,BR,-14.112500,-50.680833,833
+SDMX,Fazenda Fontana Airport,SDMX,,Campo Verde,BR,-15.500000,-55.379167,2267
+SDMY,Fazenda Cambuhy Airport,SDMY,,Matão,BR,-21.632900,-48.479099,2008
+SDMZ,Mercedes Benz do Brasil S/A Heliport,SDMZ,,São Bernardo Do Campo,BR,-23.663334,-46.579445,2412
+SDNA,Fazenda Vale Verde Airport,SDNA,,Comendador Gomes,BR,-19.671944,-48.994722,2336
+SDNB,Nobara - Guarujá Heliport,SDNB,,Guarujá,BR,-23.999443,-46.298058,10
+SDNC,Panco V Heliport,SDNC,,Taubaté,BR,-23.034401,-45.588100,1945
+SDND,Fazenda Nova Damasco Airport,SDND,,Narandiba,BR,-22.482779,-51.530277,1411
+SDNE,Fazenda São Joaquim Airport,SDNE,,Marabá Paulista,BR,-22.199444,-51.973610,1585
+SDNF,Center Shopping Heliport,SDNF,,Uberlândia,BR,-18.903889,-48.258331,2881
+SDNG,Fazenda São Gabriel Airport,SDNG,,Nova Maringá,BR,-13.100000,-56.952778,1197
+SDNI,Nascimento I Airport,SDNI,,Vargem Grande Paulista,BR,-23.619722,-46.983612,3090
+SDNJ,Nascimento II Airport,SDNJ,,Capão Bonito,BR,-24.074722,-48.224724,2604
+SDNK,Fazenda Vitória Airport,SDNK,,Primavera Do Leste,BR,-14.965000,-54.050835,2513
+SDNM,Fazenda Marambaia Heliport,SDNM,,Petrópolis,BR,-22.447500,-43.128334,2395
+SDNN,Birmann 21 Heliport,SDNN,,São Paulo,BR,-23.565832,-46.700832,2520
+SDNO,São Manuel Airport,SDNO,,São Manuel,BR,-22.695801,-48.576599,2395
+SDNP,Edifício Banespa - Patriarca Heliport,SDNP,,São Paulo,BR,-23.546389,-46.636665,2644
+SDNR,Banco Santander Heliport,SDNR,,São Paulo,BR,-23.651112,-46.713612,2515
+SDNS,Samambaia Heliport,SDNS,,Petrópolis,BR,-22.462500,-43.130554,3167
+SDNU,Ministro Nelson Hungria Heliport,SDNU,,Rio De Janeiro,BR,-22.906389,-43.173058,222
+SDNV,Aldeia Nacepoti Airport,SDNV,,Altamira,BR,-9.503889,-54.011944,1001
+SDNW,Aldeia Piaracu Airport,SDNW,,São José Do Xingu,BR,-10.788333,-53.071667,1148
+SDNY,Aeroclube Airport,SDNY,QNV,Nova Iguaçu,BR,-22.745300,-43.460300,164
+SDNZ,Fazenda Alto do Piriqui Airport,SDNZ,,Sonora,BR,-17.844999,-54.768890,1640
+SDOA,Lagoa da Floresta Airport,SDOA,,Barra Do Corda,BR,-5.488611,-45.488611,591
+SDOB,Fazenda São José OB Airport,SDOB,,Tapiratiba,BR,-21.425200,-46.754299,2585
+SDOC,Hospital do Coração Heliport,SDOC,,São Paulo,BR,-23.573055,-46.643055,2825
+SDOD,Fazenda Vida Airport,SDOD,,Barra Do Corda,BR,-5.840000,-45.541944,820
+SDOE,Fazenda Sibéria Airport,SDOE,,Grajaú,BR,-5.722222,-45.791389,741
+SDOF,Serrambi Heliport,SDOF,,Ipojuca,BR,-8.549722,-35.007221,16
+SDOG,Península Heliport,SDOG,,Guarujá,BR,-23.996944,-46.203056,236
+SDOH,Cimed Heliport,SDOH,,Pouso Alegre,BR,-22.265833,-45.941387,2917
+SDOI,Centro Nacional de Pára-quedismo Airport,SDOI,,Boituva,BR,-23.298056,-47.691944,2051
+SDOK,Casas Bahia Heliport,SDOK,,Jundiaí,BR,-23.237499,-46.864723,2517
+SDOL,Agropesp Airport,SDOL,,Tapurá,BR,-12.441389,-56.406944,1001
+SDOM,Hospital Montreal Heliport,SDOM,,Osasco,BR,-23.536900,-45.775299,2520
+SDON,Ônix Heliport,SDON,,São Paulo,BR,-23.551666,-46.721668,2634
+SDOP,ESM/Sigma Pharma 2 Heliport,SDOP,,Hortolândia,BR,-22.895555,-47.189999,2127
+SDOR,Fazenda Mosquito Airport,SDOR,,Orlândia,BR,-20.747223,-47.889721,2415
+SDOS,Issac Heliport,SDOS,,Guarujá,BR,-23.909401,-46.167198,39
+SDOT,Attilio Tinelli Heliport,SDOT,,São Paulo,BR,-23.598612,-46.693890,2559
+SDOU,Ourinhos Airport,SDOU,OUS,Ourinhos,BR,-22.966499,-49.913300,1532
+SDOV,Mozarlândia Airport,SDOV,,Mozarlândia,BR,-14.770400,-50.564098,1076
+SDOW,Ourilândia do Norte Airport,SDOW,,Ourilândia Do Norte,BR,-6.763100,-51.049900,751
+SDOX,Fazenda Pixoxó Airport,SDOX,,São Carlos,BR,-21.781111,-47.884445,2133
+SDOY,Ambev Heliport,SDOY,,Jacareí,BR,-23.213888,-45.998611,1854
+SDOZ,Aldeia Pontal Airport,SDOZ,,Apiacás,BR,-8.100833,-58.284444,869
+SDPA,Fazenda Portobello Airport,SDPA,,Mangaratiba,BR,-22.927500,-44.080002,20
+SDPB,Pedreira Pau Pedra Heliport,SDPB,,Guarulhos,BR,-23.350279,-46.425556,2739
+SDPC,Atena Airport,SDPC,,Rancharia,BR,-22.152780,-51.028610,1585
+SDPD,Pindamonhangaba Airport,SDPD,,Pindamonhangaba,BR,-22.943611,-45.431389,1919
+SDPE,Pirelli Eden Heliport,SDPE,,Sorocaba,BR,-23.412779,-47.425556,1832
+SDPF,Portoferreir Han Airport,SDPF,,Porto Ferreira,BR,-21.874201,-47.473900,1870
+SDPG,Fazenda Progresso Airport,SDPG,,Andradina,BR,-21.054443,-51.406113,1198
+SDPH,Porto do Sol Hotel Heliport,SDPH,,São Paulo,BR,-23.538610,-46.652779,2690
+SDPJ,Panco VII Heliport,SDPJ,,São Paulo,BR,-23.530000,-46.490000,2579
+SDPK,Panco I Heliport,SDPK,,São Paulo,BR,-23.527779,-46.494446,2652
+SDPL,Sofitel São Paulo Heliport,SDPL,,São Paulo,BR,-23.592777,-46.649723,2697
+SDPM,Palácio dos Bandeirantes Heliport,SDPM,,São Paulo,BR,-23.600555,-46.713055,2600
+SDPN,Penápolis Airport,SDPN,,Penápolis,BR,-21.410000,-50.033600,1371
+SDPO,Plaza Centenário Heliport,SDPO,,São Paulo,BR,-23.605278,-46.860001,2826
+SDPP,Fazenda Fortaleza Airport,SDPP,,Paranapanema,BR,-23.292999,-48.814400,1952
+SDPR,Pirelli S/A Heliport,SDPR,,Campinas,BR,-22.942778,-47.149723,2100
+SDPS,Pedreira Sargon Heliport,SDPS,,Santa Isabel,BR,-23.356388,-46.279999,2631
+SDPT,Parque Paulista Heliport,SDPT,,São Paulo,BR,-23.559723,-46.658890,2897
+SDPU,Paquetá Heliport,SDPU,,Rio De Janeiro,BR,-22.767221,-43.113056,10
+SDPW,Piracicaba Airport,SDPW,QHB,Piracicaba,BR,-22.711500,-47.618198,1887
+SDPY,Pirassununga Airport,SDPY,,Pirassununga,BR,-22.026388,-47.419445,2241
+SDQA,Centro Empresarial Nações Unidas - Torre Oeste Heliport,SDQA,,São Paulo,BR,-23.609722,-46.697224,2736
+SDQB,Edifício Berrini 500 Heliport,SDQB,,São Paulo,BR,-23.600834,-46.691666,2648
+SDQC,Quarto Comar Heliport,SDQC,,São Paulo,BR,-23.563889,-46.612499,2329
+SDQD,Hospital Copa D`OR Heliport,SDQD,,Rio De Janeiro,BR,-22.965279,-43.196667,187
+SDQE,Fazenda Carambola Airport,SDQE,,Ponta Porã,BR,-22.569445,-55.636112,2041
+SDQF,Ita Heliport,SDQF,,Itapecerica Da Serra,BR,-23.700000,-46.830000,2638
+SDQG,Fazenda Nova Floresta Airport,SDQG,,Caiabu,BR,-21.898890,-51.186390,1460
+SDQH,Fazenda da Ilha Airport,SDQH,,Tibagi,BR,-24.650000,-50.362499,2812
+SDQI,Fazenda Quilombo Heliport,SDQI,,Indaiatuba,BR,-23.072222,-47.090832,2361
+SDQJ,Disco Heliport,SDQJ,,Rio De Janeiro,BR,-22.984722,-43.236111,187
+SDQL,Fazenda Cerro Azul Airport,SDQL,,Nioaque,BR,-21.188610,-55.734400,1191
+SDQM,Helicentro Ribeirão Preto Heliport,SDQM,,Ribeirão Preto,BR,-21.210278,-47.770000,1837
+SDQN,Fazenda Tangará Airport,SDQN,,Nioaque,BR,-20.898611,-55.709999,919
+SDQO,Fazenda São Quirino Heliport,SDQO,,Morungaba,BR,-22.917221,-46.845554,2513
+SDQP,Parque Cultural Paulista Heliport,SDQP,,São Paulo,BR,-23.571667,-46.645000,2959
+SDQQ,Companhia Agrícola de Quatá Airport,SDQQ,,Quatá,BR,-22.286100,-50.638901,1919
+SDQS,Berrini Heliport,SDQS,,São Paulo,BR,-23.601110,-46.691666,2572
+SDQT,Office Tower Itaim Heliport,SDQT,,São Paulo,BR,-23.581112,-46.678890,2644
+SDQV,Fazenda Santa Fé Airport,SDQV,,Cáceres,BR,-16.139999,-58.514999,676
+SDQW,Fazenda Criciúma Airport,SDQW,,Sorriso,BR,-13.410000,-55.233611,1575
+SDQX,Fazenda Esperança Airport,SDQX,,Itapeva,BR,-23.867778,-48.805278,2267
+SDQY,Shopping Center Iguatemi Heliport,SDQY,,Campinas,BR,-22.890833,-47.029720,2356
+SDQZ,Fazenda Espinhaço II Airport,SDQZ,,Barra Do Garças,BR,-15.397222,-52.074722,991
+SDRB,Renaissance Hotel Heliport,SDRB,,São Paulo,BR,-23.558889,-46.661667,2952
+SDRC,Fazenda Santana Airport,SDRC,,Rancharia,BR,-22.181944,-50.865833,1608
+SDRD,Adhemar Ribeiro Airport,SDRD,,Santa Rita Do Passa Quatro,BR,-21.642500,-47.471111,2776
+SDRE,Recreio Heliport,SDRE,,Rio De Janeiro,BR,-23.007778,-43.446945,26
+SDRF,Fazenda Recanto Feliz Airport,SDRF,,Rio Claro,BR,-22.746111,-44.050835,1750
+SDRG,Graciosa Heliport,SDRG,,Pinhais,BR,-25.391666,-49.155834,2986
+SDRH,Fazenda Chaparral Airport,SDRH,,Campo Grande,BR,-20.844444,-54.526112,1509
+SDRI,Rio Sul Center Heliport,SDRI,,Rio De Janeiro,BR,-22.957779,-43.177223,532
+SDRJ,Prefeitura do Rio de Janeiro Heliport,SDRJ,,Rio De Janeiro,BR,-22.970278,-43.209999,7
+SDRK,Rio Claro Airport,SDRK,QIQ,Rio Claro,BR,-22.431101,-47.564201,1991
+SDRL,Faria Lima Heliport,SDRL,,São Paulo,BR,-23.567223,-46.692780,2622
+SDRN,Zarzur Heliport,SDRN,,São Paulo,BR,-23.569721,-46.699722,2606
+SDRO,Agropastoril bom Pastor Airport,SDRO,,Rondonópolis,BR,-16.465555,-54.711945,1034
+SDRQ,Dr. Rudolf Imanuel Schneider Heliport,SDRQ,,Porto Seguro,BR,-16.440556,-39.083332,3
+SDRR,Avaré-Arandu Airport,SDRR,QVP,Avaré,BR,-23.092501,-48.987400,2657
+SDRS,Resende Airport,SDRS,QRZ,Resende,BR,-22.478500,-44.480301,1320
+SDRU,Fazenda Caramuru Airport,SDRU,,Inúbia Paulista,BR,-21.693890,-50.936111,1285
+SDRV,VR Heliport,SDRV,,São Paulo,BR,-23.594444,-46.706944,2614
+SDRW,Fazenda Pirapitinga Airport,SDRW,,Canápolis,BR,-18.777500,-49.231667,2172
+SDRX,Fazenda Palmeiras Airport,SDRX,,Corumbá,BR,-17.966944,-57.033054,499
+SDRY,Fazenda São Paulo Airport,SDRY,,Amambaí,BR,-22.952778,-54.845280,1493
+SDRZ,Fazenda Marabá Airport,SDRZ,,Porto Murtinho,BR,-21.687222,-57.358055,499
+SDSB,Fazenda São Sebastião Airport,SDSB,,Rifaina,BR,-19.995832,-47.523888,1705
+SDSC,São Carlos Airport,SDSC,QSC,São Carlos,BR,-21.875401,-47.903702,2649
+SDSE,Sítio Santa Helena Airport,SDSE,,Gabriel Monteiro,BR,-21.473333,-50.615555,1414
+SDSF,Shering Plough Heliport,SDSF,,Rio De Janeiro,BR,-22.962778,-43.372501,10
+SDSG,Fazenda Nossa Senhora da Conceição Heliport,SDSG,,São Manuel,BR,-22.752501,-48.521111,2231
+SDSH,Fazenda Sangrilá Airport,SDSH,,Bauru,BR,-22.295555,-49.212223,1755
+SDSI,SESI - FIESP Heliport,SDSI,,São Paulo,BR,-23.563334,-46.654167,2986
+SDSK,Saquarema Airport,SDSK,,Saquarema,BR,-22.929722,-42.506943,26
+SDSL,Hospital Sírio Libanês Heliport,SDSL,,São Paulo,BR,-23.557222,-46.654446,2755
+SDSM,Fazenda Nossa Senhora da Conceição Airport,SDSM,,São Manuel,BR,-22.764723,-48.542500,2482
+SDSN,São Luiz Heliport,SDSN,,São Paulo,BR,-23.590555,-46.686668,2582
+SDSO,Fazenda São Geraldo Airport,SDSO,,Piquerobi,BR,-22.003889,-51.811111,1476
+SDSQ,Usina Santa Rita Airport,SDSQ,,Santa Rita Do Passa Quatro,BR,-21.723612,-47.656944,2067
+SDSR,Subestação São Roque Heliport,SDSR,,Ibiúna,BR,-23.658611,-47.102779,2867
+SDST,Fazenda Santa Terezinha da Barra Airport,SDST,,São Carlos,BR,-21.881945,-47.776112,2385
+SDSU,Pirelli Sumaré Heliport,SDSU,,Sumaré,BR,-22.800556,-47.192223,1557
+SDSV,Fazenda Santa Cândida Airport,SDSV,,Guariba,BR,-21.327778,-48.171112,2080
+SDSY,Panco III Heliport,SDSY,,Seropédica,BR,-22.713301,-43.692501,126
+SDSZ,Banco Safra Heliport,SDSZ,,São Paulo,BR,-23.558332,-46.659721,2973
+SDTA,Tatuí Heliport,SDTA,,Tatuí,BR,-23.331944,-47.880001,2083
+SDTB,Atibaia Airport,SDTB,,Atibaia,BR,-23.127777,-46.574722,2592
+SDTC,Edel Trade Center Heliport,SDTC,,São Paulo,BR,-23.602777,-46.660831,2732
+SDTE,Fazenda Tapijara Airport,SDTE,,Arandu,BR,-23.219999,-49.075901,1929
+SDTF,Tatuí Airport,SDTF,,Tatuí,BR,-23.331900,-47.878300,2083
+SDTG,Edifício Atrium IV Heliport,SDTG,,São Paulo,BR,-23.592777,-46.685833,2608
+SDTH,Dimep Heliport,SDTH,,Itatinga,BR,-23.147499,-48.495277,2323
+SDTI,Tupi Paulista Airport,SDTI,,Tupi Paulista,BR,-21.393057,-51.598888,1198
+SDTJ,Edifício Atrium V Heliport,SDTJ,,São Paulo,BR,-23.595833,-46.684444,2594
+SDTK,Parati Airport,SDTK,,Parati,BR,-23.224400,-44.720299,10
+SDTL,Telesp Heliport,SDTL,,São Paulo,BR,-23.520832,-46.678055,2366
+SDTM,Crystal Tower Heliport,SDTM,,Barueri,BR,-23.492500,-46.853058,2827
+SDTN,Usina Açucareira Santo Antônio Airport,SDTN,,Sertãozinho,BR,-21.121944,-47.952221,1969
+SDTP,Tupã Airport,SDTP,,Tupã,BR,-21.889099,-50.505100,1805
+SDTQ,Fazenda Santa Thereza Airport,SDTQ,,Aparecida Do Rio Doce,BR,-18.232779,-51.202221,2149
+SDTR,Fazenda Bandeirantes Airport,SDTR,,Porto Murtinho,BR,-20.883333,-57.417778,499
+SDTS,Fazenda Planalto Airport,SDTS,,Jaraguari,BR,-20.341389,-54.415833,2329
+SDTT,Fazenda Barra do Traitu Airport,SDTT,,Araçatuba,BR,-21.246944,-50.490276,1345
+SDTU,Itausa Heliport,SDTU,,São Paulo,BR,-23.636389,-46.641944,2536
+SDTV,Tivoli Center Heliport,SDTV,,São Paulo,BR,-23.628099,-46.736099,2608
+SDTW,Fazenda São João Airport,SDTW,,Terenos,BR,-20.326111,-55.100555,919
+SDTX,Fazenda São José Airport,SDTX,,Ilha Solteira,BR,-20.541945,-51.357498,1236
+SDTY,Usina São Martinho Airport,SDTY,,Pradópolis,BR,-21.339800,-48.114899,1713
+SDTZ,Fazenda Santa Júlia Airport,SDTZ,,Corumbá,BR,-20.119167,-57.111942,492
+SDUA,Agrorural Sol Nascente Airport,SDUA,,Aveiro,BR,-3.508611,-56.315834,108
+SDUB,Ubatuba Airport,SDUB,UBT,Ubatuba,BR,-23.441099,-45.075600,13
+SDUD,Usina Santa Adélia Airport,SDUD,,Jaboticabal,BR,-21.332300,-48.316200,1991
+SDUE,Fazenda Figueira Airport,SDUE,,Penápolis,BR,-21.511944,-50.121113,1526
+SDUF,Fazenda Touro Peru Airport,SDUF,,Porto Murtinho,BR,-21.080556,-57.497222,492
+SDUG,Usina Sao Geraldo Airport,SDUG,,Ribeiro Preto,BR,-21.130800,-48.066399,1804
+SDUH,Fazenda Sumaré Airport,SDUH,,Ribas Do Rio Pardo,BR,-21.542500,-53.343056,1001
+SDUI,Centro EmpresariaL Iudice Heliport,SDUI,,São Paulo,BR,-23.513056,-46.694443,2487
+SDUJ,Milennium Heliport,SDUJ,,São Paulo,BR,-23.584167,-46.682777,2575
+SDUK,Fazenda Xaimite Airport,SDUK,,Água Boa,BR,-14.096667,-52.901943,1601
+SDUL,Usina Santa Lydia Airport,SDUL,,Ribeirão Preto,BR,-21.201668,-47.920555,2270
+SDUM,Uniban Heliport,SDUM,,São Paulo,BR,-23.506390,-46.596943,2568
+SDUN,Itaperuna Airport,SDUN,,Itaperuna,BR,-21.219299,-41.875900,410
+SDUO,Alagoinhas Airport,SDUO,QGS,Alagoinhas,BR,-12.175100,-38.380199,568
+SDUP,Unibanco Patriarca Heliport,SDUP,,São Paulo,BR,-23.548056,-46.636112,2867
+SDUQ,Paraguaçu Paulista Airport,SDUQ,,Paraguaçu Paulista,BR,-22.426901,-50.606899,1525
+SDUR,Iberá Airport,SDUR,,Ponta Grossa,BR,-25.051945,-50.190834,2937
+SDUS,Mayrowy Airport,SDUS,,Apiacás,BR,-7.956111,-57.838890,689
+SDUT,Hotel Transamérica Heliport,SDUT,,São Paulo,BR,-23.650833,-46.722778,2379
+SDUU,Usina Califórnia Airport,SDUU,,Parapuã,BR,-21.911110,-50.868330,1476
+SDUW,Fazenda Sertãozinho Heliport,SDUW,,Botelho,BR,-21.641899,-46.342201,2739
+SDUX,Havan Heliport,SDUX,,Brusque,BR,-27.106944,-48.907500,253
+SDUY,Rio Alpha Heliport,SDUY,,Rio De Janeiro,BR,-22.917220,-43.181390,495
+SDUZ,Usina São Luiz Airport,SDUZ,,Ourinhos,BR,-22.948334,-49.766109,1608
+SDVA,Fazenda Campo Vitória Airport,SDVA,,Vargem Grande Do Sul,BR,-21.832222,-46.955555,2329
+SDVB,INA Brasil Heliport,SDVB,,Sorocaba,BR,-23.437778,-47.414165,2072
+SDVC,Cometa Vila Maria Heliport,SDVC,,São Paulo,BR,-23.517221,-46.579167,2418
+SDVD,Vila Real Heliport,SDVD,,Petrópolis,BR,-22.409166,-43.148056,2254
+SDVE,Vera Cruz Airport,SDVE,,Vera Cruz,BR,-22.230200,-49.817200,2100
+SDVG,Votuporanga Airport,SDVG,VOT,Votuporanga,BR,-20.463200,-50.004501,1667
+SDVH,Fazenda Vale Eldorado Airport,SDVH,,Atibaia,BR,-23.004168,-46.634724,2727
+SDVI,Comandante Gastão Airport,SDVI,,Tangará Da Serra,BR,-14.650000,-57.500000,1391
+SDVJ,Fazenda Santa Marta Airport,SDVJ,,Santa Maria Das Barreiras,BR,-8.722500,-50.455000,807
+SDVK,Viação Cometa Móoca Heliport,SDVK,,São Paulo,BR,-23.560833,-46.605000,2441
+SDVL,Valença Airport,SDVL,,Valença,BR,-22.242779,-43.713612,1903
+SDVM,Bradesco - Vila Matilde Heliport,SDVM,,São Paulo,BR,-23.544722,-46.516666,2587
+SDVN,Fazenda Santíssima Trindade Airport,SDVN,,Amambaí,BR,-23.286944,-54.841111,1299
+SDVO,Varam Heliport,SDVO,,São Paulo,BR,-23.567499,-46.655556,2926
+SDVQ,Fazenda Baía das Conchas Airport,SDVQ,,Porto Murtinho,BR,-21.190000,-57.640000,351
+SDVR,Hospital Dr.Osíris Florindo Coelho Heliport,SDVR,,Ferraz De Vasconcelos,BR,-23.537778,-46.358056,2723
+SDVT,Helbor Tower Heliport,SDVT,,Mogi Das Cruzes,BR,-23.522778,-46.195557,2634
+SDVU,Aldeia Kremoro Airport,SDVU,,Peixoto De Azevedo,BR,-7.209722,-52.905277,3281
+SDVV,Cragea-Suzano Heliport,SDVV,,Suzano,BR,-23.641944,-46.322222,2523
+SDVW,Volkswagem do Brasil - Fábrica III Heliport,SDVW,,Taubaté,BR,-23.060556,-45.633888,1873
+SDVX,Estância Flamboyants Heliport,SDVX,,Descalvado,BR,-21.866944,-47.628333,2336
+SDVY,Le Canton Heliport,SDVY,,Teresópolis,BR,-22.385556,-42.853333,2726
+SDVZ,Life Hotel Heliport,SDVZ,,Curitiba,BR,-25.424723,-49.269169,3183
+SDWA,Aerogalo Heliport,SDWA,,Angra Dos Reis,BR,-23.041111,-44.194721,98
+SDWB,Cyk Heliport,SDWB,,São Paulo,BR,-23.566111,-46.651669,2986
+SDWC,Aldeia Baú Airport,SDWC,,Altamira,BR,-7.360278,-54.829723,699
+SDWD,Fazenda Califórnia Airport,SDWD,,Barretos,BR,-20.430834,-48.605000,1856
+SDWE,Usina São Carlos Airport,SDWE,,Jaboticabal,BR,-21.284166,-48.162777,1919
+SDWF,Panco 9 Heliport,SDWF,,Rio De Janeiro,BR,-22.861111,-43.342220,131
+SDWG,Fazenda Itapiranga Airport,SDWG,,Marabá Paulista,BR,-22.063057,-51.924721,1394
+SDWH,Fazenda Avanhandava Airport,SDWH,,José Bonifácio,BR,-21.188601,-49.936100,1444
+SDWI,Fazenda Lagoa do Cavalo Airport,SDWI,,Gravatá,BR,-8.170000,-35.630000,1709
+SDWJ,Aldeia Kubenkroke Airport,SDWJ,,Altamira,BR,-8.725278,-53.390278,1099
+SDWK,Junqueira Airport,SDWK,,Igarapava,BR,-20.001667,-47.767502,1850
+SDWL,Três Marias Airport,SDWL,,Itupeva,BR,-23.191668,-47.075001,2566
+SDWM,Aldeia de Metuktire Airport,SDWM,,Peixoto De Azevedo,BR,-10.063611,-52.996666,2953
+SDWN,Fazenda Barreiro Grande Airport,SDWN,,Colômbia,BR,-20.347500,-48.772499,1857
+SDWP,Palácio Boa Vista Heliport,SDWP,,Campos Do Jordão,BR,-22.735832,-45.606667,5814
+SDWR,Fazenda Primavera Airport,SDWR,,Mirandópolis,BR,-21.077778,-51.144444,1627
+SDWS,West Gate Heliport,SDWS,,Barueri,BR,-23.502777,-46.848057,2694
+SDWT,World Trade Center Heliport,SDWT,,São Paulo,BR,-23.609444,-46.696667,2657
+SDWU,Fazenda Anahí Airport,SDWU,,Porto Murtinho,BR,-21.708332,-57.740555,279
+SDWW,Air Haco Heliport,SDWW,,Blumenau,BR,-26.725834,-49.065834,594
+SDWX,Pista Sol Nascente Airport,SDWX,,Itaituba,BR,-5.490833,-57.215832,541
+SDWY,Central Towers Paulista Heliport,SDWY,,São Paulo,BR,-23.564722,-46.640835,2808
+SDXB,Cristalina Airport,SDXB,,Cristalina,BR,-16.791000,-47.645199,3937
+SDXC,Cesp Heliport,SDXC,,Bauru,BR,-22.287779,-49.098888,1959
+SDXD,IBM Tutóia Heliport,SDXD,,São Paulo,BR,-23.572500,-46.656387,2786
+SDXE,Chácara Serradinho Airport,SDXE,,Jaboticabal,BR,-21.264799,-48.356098,2037
+SDXF,Alto Paraíso Airport,SDXF,,Alto Paraíso,BR,-14.121000,-47.530899,4413
+SDXG,Tropical Ponta Negra Flat Heliport,SDXG,,Manaus,BR,-3.063889,-60.106945,263
+SDXH,Gandini Heliport,SDXH,,Itu,BR,-23.251110,-47.325279,2812
+SDXI,Fazenda Cajueiro Airport,SDXI,,São Domingos Do Capim,BR,-4.238611,-48.476665,577
+SDXJ,Costa Rica Airport,SDXJ,,Costa Rica,BR,-18.486670,-53.153330,2428
+SDXL,Fazenda Santa Clara Heliport,SDXL,,Cordeiro,BR,-22.037779,-42.336945,1411
+SDXM,da Praia Heliport,SDXM,,Armação Dos Búzios,BR,-22.773890,-41.889999,23
+SDXO,Fazenda Santa Maria da Mata Airport,SDXO,,Sud Menucci,BR,-20.727501,-50.971668,1142
+SDXP,Guararema Parque Hotel Heliport,SDXP,,Guararema,BR,-23.423889,-46.020279,2034
+SDXQ,Fazenda Flamboyant Airport,SDXQ,,Castilho,BR,-20.906944,-51.575558,1112
+SDXR,Fazenda Vaca Mocha Airport,SDXR,,Caracol,BR,-22.225555,-57.154720,463
+SDXS,Mar Gírios Heliport,SDXS,,São Paulo,BR,-23.594168,-46.705833,2592
+SDXT,Fazenda Boa Vista Airport,SDXT,,Rio Negro,BR,-19.435556,-55.062778,1100
+SDXU,Fazenda Araçatuba Airport,SDXU,,Pacaembu,BR,-21.343332,-51.251667,1401
+SDXV,Magazine Luiza Heliport,SDXV,,Louveira,BR,-23.117222,-46.992222,2362
+SDXX,Fazenda Santa Vitória Heliport,SDXX,,Queluz,BR,-22.509443,-44.750832,1755
+SDXY,Atlântida Ilhas Park Heliport,SDXY,,Xangri-Lá,BR,-29.780277,-50.045830,30
+SDXZ,Granja Viana Heliport,SDXZ,,Cotia,BR,-23.590000,-46.818333,2520
+SDYA,Carmo Couri Heliport,SDYA,,São Paulo,BR,-23.596666,-46.685280,2585
+SDYB,Fazenda São José do Barreiro Airport,SDYB,,Itapetininga,BR,-23.785278,-48.340000,2234
+SDYC,Amarras Heliport,SDYC,,Armação Dos Búzios,BR,-22.774721,-41.901669,125
+SDYD,Senna Heliport,SDYD,,Angra Dos Reis,BR,-23.040277,-44.196945,16
+SDYE,Hotal Fazenda Dona Carolina Heliport,SDYE,,Itatiba,BR,-22.941111,-46.700832,2625
+SDYF,Fazenda Irmãos Munaretto Airport,SDYF,,Lucas Do Rio Verde,BR,-13.106667,-55.993057,1408
+SDYG,Companhia de Cimento Ribeirão Grande Heliport,SDYG,,Ribeirão Grande,BR,-24.161388,-48.350277,2248
+SDYH,José Roberto Magalhães Teixeira Heliport,SDYH,,Campinas,BR,-22.929167,-47.082779,2297
+SDYI,Fazenda Buritiz Airport,SDYI,,Buritizeiro,BR,-17.917500,-45.402500,3045
+SDYJ,José Martins da Silva Airport,SDYJ,,Regente Feijó,BR,-22.225555,-51.348057,1663
+SDYK,Tower 2000 Heliport,SDYK,,Niterói,BR,-22.892221,-43.118057,187
+SDYL,RM - Angra Heliport,SDYL,,Angra Dos Reis,BR,-23.023333,-44.290279,112
+SDYM,Limeira Airport,SDYM,QGB,Limeira,BR,-22.603889,-47.411944,2172
+SDYN,Fazenda Esmeralda Airport,SDYN,,Taciba,BR,-22.588888,-51.298889,1365
+SDYO,Hospital Santa Marcelina Heliport,SDYO,,São Paulo,BR,-23.554167,-46.461388,2684
+SDYP,Piracaia Heliport,SDYP,,Piracaia,BR,-22.986111,-46.334442,2887
+SDYR,Panco II Heliport,SDYR,,São Paulo,BR,-23.599443,-46.699444,2641
+SDYS,Aeroportobelo Airport,SDYS,,Porto Belo,BR,-27.173611,-48.631111,33
+SDYV,Secovi Heliport,SDYV,,São Paulo,BR,-23.603333,-46.648056,2625
+SDYW,Itapeva Airport,SDYW,,Itapeva,BR,-23.941401,-48.881802,2320
+SDYX,Campo Maior Airport,SDYX,,Campo Maior,BR,-4.854167,-42.260555,490
+SDYY,Lucent Heliport,SDYY,,Campinas,BR,-22.850279,-47.023335,2188
+SDYZ,Kuka Heliport,SDYZ,,São Paulo,BR,-23.568333,-46.601391,2457
+SDZA,Fazenda Santa Maria Airport,SDZA,,Pirajuí,BR,-22.005556,-49.411110,1804
+SDZB,ICS - Guarujá Heliport,SDZB,,Guarujá,BR,-23.985556,-46.284443,5
+SDZD,Flextronics Internacional Heliport,SDZD,,Sorocaba,BR,-23.425278,-47.361942,1939
+SDZH,Fazenda Santa Helena Airport,SDZH,,Pindamonhangaba,BR,-22.890400,-45.493301,1804
+SDZM,Fazenda São Marcos Airport,SDZM,,Itapeva,BR,-23.922400,-48.818298,2254
+SDZR,Fazenda Cruzeiro Airport,SDZR,,Guariba,BR,-21.412222,-48.328609,2116
+SDZS,Fazenda Bananeira Airport,SDZS,,Altair,BR,-20.580000,-49.079700,1673
+SDZT,Fazenda Posses do Rio Grande Airport,SDZT,,Guaraci,BR,-20.310833,-48.976944,1581
+SDZU,Fazenda Anhumas Airport,SDZU,,Marabá Paulista,BR,-22.122499,-52.197777,1001
+SDZV,Fazenda Gandu Airport,SDZV,,Duartina,BR,-22.476110,-49.470001,1841
+SDZW,Fazenda Ipanema Airport,SDZW,,Andradina,BR,-20.811666,-51.294167,1181
+SDZX,Fazenda Suri Airport,SDZX,,Campinápolis,BR,-14.815556,-53.133056,1050
+SDZZ,Sítio São José Airport,SDZZ,,Nova Europa,BR,-21.797777,-48.543888,1790

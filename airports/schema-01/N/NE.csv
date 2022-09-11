@@ -1,0 +1,71 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+NE01,Schutte Airport,NE01,,Guide Rock,US,40.194698,-98.351997,1876
+NE02,Pender Community Hospital Heliport,NE02,,Pender,US,42.106098,-96.711098,1348
+NE04,Ely Airport,NE04,,Guide Rock,US,40.094501,-98.341698,1743
+NE05,Cherry Heliport,NE05,,Firth,US,40.565300,-96.661400,1370
+NE06,Woolf Brothers Airport,NE06,,Lynch,US,42.825001,-98.425400,1395
+NE08,Larrabee Airport,NE08,,Lamar,US,40.547798,-101.977997,3518
+NE09,Simpson Airport,NE09,,Norfolk,US,41.963299,-97.467300,1650
+NE10,Flying C Heliport,NE10,,Elkhorn,US,41.256901,-96.243599,1227
+NE11,Durands Sky Ranch Airport,NE11,,Omaha,US,41.360001,-96.040298,1285
+NE12,Sullivan Airstrip,NE12,,Palmer,US,41.238899,-98.228104,1745
+NE14,Ogallala Community Hospital Heliport,NE14,,Ogallala,US,41.150501,-101.720001,3326
+NE15,Starns Auxiliary Airport,NE15,,Ashland,US,41.049999,-96.382797,1080
+NE16,Gothenburg Memorial Hospital Heliport,NE16,,Gothenburg,US,40.939201,-100.153000,2680
+NE17,Walts Aerial Service Airport,NE17,,St. Paul,US,41.248600,-98.455902,1795
+NE18,Krutz Airport,NE18,,Seward,US,40.914200,-97.080597,1450
+NE19,Ag Air Airport,NE19,,Broadwater,US,41.595798,-102.817001,3651
+NE20,Bernadt Airport,NE20,,Steinauer,US,40.186100,-96.211403,1290
+NE24,Polaks Sky Ranch Airport,NE24,,Valparaiso,US,41.033298,-96.817001,1268
+NE25,Orr Field,NE25,,North Platte,US,41.181900,-100.860001,2860
+NE27,Abie Sky Ranch Airport,NE27,,Abie,US,41.366699,-96.950302,1440
+NE28,Jubilee Heliport,NE28,,Omaha,US,41.356899,-96.048897,1220
+NE29,Cavanaugh Airport,NE29,,Minden,US,40.513901,-99.012001,2175
+NE30,Olson Field,NE30,,Holdrege,US,40.573601,-99.420403,2330
+NE31,B.C. Air Airport,NE31,,Battle Creek,US,42.014500,-97.586403,1600
+NE32,Box Butte General Hospital Med-I-Port Heliport,NE32,,Alliance,US,42.114399,-102.871002,3929
+NE33,Clearidge Airport,NE33,,Bennet,US,40.709702,-96.476700,1320
+NE34,Fehringer Aerodrome,NE34,,Sidney,US,41.038898,-102.953003,4300
+NE35,Sutton Airport,NE35,,Chester,US,40.058300,-97.541199,1583
+NE37,Loseke Airstrip,NE37,,Columbus,US,41.472500,-97.271400,1490
+NE38,Aknux Airport,NE38,,Prosser,US,40.709499,-98.560097,2025
+NE39,Warbonnet Ag Strip,NE39,,Davey,US,40.950001,-96.650299,1325
+NE40,Denton Airfield,NE40,,Denton,US,40.715801,-96.867798,1270
+NE41,Rgnl West Medical Center Heliport,NE41,,Scottsbluff,US,41.887600,-103.664001,3985
+NE42,Dream Field,NE42,,Lincoln,US,40.933300,-96.700600,1194
+NE43,Musiel Airport,NE43,,Morse Bluff,US,41.439701,-96.754204,1230
+NE44,Koinzan Airport,NE44,,Elgin,US,41.983299,-98.083702,1919
+NE45,Stewart Field,NE45,,Bennet,US,40.694401,-96.577797,1380
+NE46,Gemini Heliport,NE46,,Omaha,US,41.254200,-96.067001,1150
+NE49,Koke Airport,NE49,,Gretna,US,41.066700,-96.250298,1265
+NE50,Sudbeck Field,NE50,,Hartington,US,42.615299,-97.410301,1480
+NE51,Kohles Airport,NE51,,Martell,US,40.657200,-96.757797,1320
+NE52,Easton Field,NE52,,Hebron,US,40.077801,-97.614998,1600
+NE53,Liesveld Airport,NE53,,Holland,US,40.591099,-96.588898,1385
+NE54,Dostal-Bradley Airport,NE54,,Howells,US,41.708302,-96.979500,1500
+NE55,Humboldt Hospital Heliport,NE55,,Humboldt,US,40.162201,-95.941902,978
+NE56,Werner Airport,NE56,,Valley,US,41.341400,-96.394997,1157
+NE57,Thomas Airport,NE57,,Liberty,US,40.092201,-96.478104,1350
+NE59,Pester Airport,NE59,,Lincoln,US,40.833302,-96.567001,1150
+NE60,St Elizabeth Community Health Center Heliport,NE60,,Lincoln,US,40.807800,-96.630798,1252
+NE62,Ochsner Heliport,NE62,,Madison,US,41.843601,-97.417000,1630
+NE64,Luetkenhaus Airport,NE64,,Memphis,US,41.105301,-96.409500,1120
+NE65,Roth Airport,NE65,,Milford,US,40.766998,-97.077797,1485
+NE68,Faith Regional Health Services West Campus Heliport,NE68,,Norfolk,US,42.034100,-97.452698,1500
+NE69,Browns Airport,NE69,,Weeping Water,US,40.867500,-96.110001,1183
+NE71,Immanuel Medical Center Heliport,NE71,,Omaha,US,41.322201,-96.021103,1246
+NE73,Stinking Water Creek Airport,NE73,,Elsie,US,40.723301,-101.457001,3165
+NE76,St Francis Medical Center Heliport,NE76,,Grand Island,US,40.924999,-98.372597,2106
+NE79,Mueller Field,NE79,,Roca,US,40.652802,-96.621101,1405
+NE80,Weaver Airport,NE80,,Roca /Lincoln/,US,40.676399,-96.639198,1330
+NE82,Nolte Farms Airport,NE82,,Murray,US,40.932499,-95.999496,1245
+NE83,Moab Heliport,NE83,,Shelby,US,41.120602,-97.431396,1640
+NE84,Memorial Hospital Heliport,NE84,,Aurora,US,40.868301,-98.014503,1802
+NE85,Glaser Airport,NE85,,Spalding,US,41.687199,-98.302597,2035
+NE86,Traudt Airport,NE86,,Sutton,US,40.665600,-97.869797,1725
+NE87,Rempe Private Airport,NE87,,Superior,US,40.097198,-98.064796,1760
+NE88,Novotny/Tonar Farms Airport,NE88,,Valparaiso,US,41.020802,-96.864197,1426
+NE89,Herberts Farm Airport,NE89,,Winnetoon,US,42.543301,-97.968697,1658
+NE90,Mary Lanning Memorial Hospital Heliport,NE90,,Hastings,US,40.591400,-98.387497,1925
+NE92,Thomsen Airport,NE92,,Wymore,US,40.049400,-96.666100,1405
+NE99,Hawkins Ranch Airport,NE99,,Arthur,US,41.575001,-101.818001,3680

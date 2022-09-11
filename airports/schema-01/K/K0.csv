@@ -1,0 +1,94 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K00C,Animas Air Park,K00C,AMK,Durango,US,37.203201,-107.869003,6684
+K00F,Broadus Airport,K00F,BDX,Broadus,US,45.472500,-105.454002,3280
+K00M,Thigpen Field,K00M,,Bay Springs,US,31.953800,-89.234497,351
+K00R,Livingston Municipal Airport,K00R,,Livingston,US,30.685900,-95.017899,151
+K00V,Meadow Lake Airport,K00V,,Colorado Springs,US,38.945801,-104.570000,6874
+K01G,Perry-Warsaw Airport,K01G,,Perry,US,42.741299,-78.052101,1559
+K01M,Tishomingo County Airport,K01M,,Belmont,US,34.491699,-88.201103,578
+K02A,Gragg-Wade Field,K02A,,Clanton,US,32.850498,-86.611397,585
+K02C,Capitol Airport,K02C,,Brookfield,US,43.090222,-88.178160,850
+K02G,Columbiana County Airport,K02G,,East Liverpool,US,40.673302,-80.641403,1160
+K03B,Mansfield Municipal Airport,K03B,,Mansfield,US,37.127800,-92.621002,1500
+K03D,Memphis Memorial Airport,K03D,,Memphis,US,40.447300,-92.226997,813
+K04A,Frank Sikes Airport,K04A,,Luverne,US,31.736300,-86.262497,300
+K04G,Lansdowne Airport,K04G,,Youngstown,US,41.130501,-80.619598,1044
+K04M,Calhoun County Airport,K04M,,Pittsboro,US,33.930099,-89.342796,383
+K04Y,Hawley Municipal Airport,K04Y,,Hawley,US,46.883801,-96.350304,1208
+K05C,Griffith-Merrillville Airport,K05C,,Griffith,US,41.519798,-87.399498,634
+K05D,New Town Municipal Airport,K05D,,New Town,US,47.966999,-102.477997,1925
+K05U,Eureka Airport,K05U,,Eureka,US,39.604198,-116.004997,5954
+K06A,Moton Field Municipal Airport,K06A,,Tuskegee,US,32.460499,-85.680000,264
+K06C,Schaumburg Regional Airport,K06C,,Chicago/Schaumburg,US,41.989300,-88.101196,801
+K06D,Rolla Municipal Airport,K06D,,Rolla,US,48.884300,-99.620903,1823
+K06M,Eupora Airport,K06M,,Eupora,US,33.534599,-89.312599,450
+K06U,Jackpot/Hayden Field,K06U,,Jackpot,US,41.976002,-114.657997,5213
+K07A,Franklin Field,K07A,,Union Springs,US,32.166801,-85.809700,300
+K07F,Gladewater Municipal Airport,K07F,,Gladewater,US,32.528801,-94.971703,296
+K07R,Bishop Municipal Airport,K07R,,Bishop,US,27.610300,-97.751900,55
+K07V,Cuchara Valley At La Veta Airport,K07V,,La Veta,US,37.523800,-105.009003,7153
+K08A,Wetumpka Municipal Airport,K08A,,Wetumpka,US,32.529400,-86.328201,197
+K08C,Riverview Airport,K08C,,Jenison,US,42.935902,-85.805000,603
+K08D,Stanley Municipal Airport,K08D,,Stanley,US,48.300800,-102.405998,2245
+K08K,Harvard State Airport,K08K,,Harvard,US,40.651402,-98.079803,1815
+K08M,Carthage-Leake County Airport,K08M,,Carthage,US,32.761200,-89.530098,454
+K09A,Butler-Choctaw County Airport,K09A,,Butler,US,32.119301,-88.127502,134
+K09J,Jekyll Island Airport,K09J,,Jekyll Island,US,31.074499,-81.427803,11
+K09K,Sargent Municipal Airport,K09K,,Sargent,US,41.637001,-99.340401,2313
+K09M,Charleston Municipal Airport,K09M,,Charleston,US,33.991501,-90.078102,175
+K09R,Tyler County Airport,K09R,,Woodville,US,30.775200,-94.458504,388
+K0A2,Hester Memorial Airport,K0A2,,Calhoun Falls,US,34.090401,-82.567902,517
+K0A3,Smithville Municipal Airport,K0A3,,Smithville,US,35.985298,-85.809303,1084
+K0A4,Johnson City Stolport Airport,K0A4,,Johnson City,US,36.363701,-82.308998,1550
+K0A7,Hendersonville Airport,K0A7,,Hendersonville,US,35.307598,-82.433197,2084
+K0A8,Bibb County Airport,K0A8,,Centreville,US,32.936798,-87.088898,251
+K0A9,Elizabethton Municipal Airport,K0A9,,Elizabethton,US,36.371201,-82.173302,1593
+K0B1,Bethel Regional Airport,K0B1,,Bethel,US,44.425201,-70.809898,654
+K0B4,Hartington Municipal Airport,K0B4,,Hartington,US,42.603600,-97.252602,1387
+K0B5,Turners Falls Airport,K0B5,,Montague,US,42.591400,-72.522797,356
+K0B8,Elizabeth Field,K0B8,FID,Fishers Island,US,41.251301,-72.031601,9
+K0C0,Dacy Airport,K0C0,,Harvard,US,42.402500,-88.632401,913
+K0C4,Pender Municipal Airport,K0C4,,Pender,US,42.113899,-96.728897,1345
+K0D8,Gettysburg Municipal Airport,K0D8,,Gettysburg,US,44.986698,-99.952797,2062
+K0E0,Moriarty Airport,K0E0,,Moriarty,US,34.985600,-106.009003,6199
+K0E8,Crownpoint Airport,K0E8,,Crownpoint,US,35.717701,-108.202003,6696
+K0F2,Bowie Municipal Airport,K0F2,,Bowie,US,33.601700,-97.775597,1101
+K0F4,Loup City Municipal Airport,K0F4,,Loup City,US,41.290298,-98.990601,2071
+K0F7,Fountainhead Lodge Airpark,K0F7,,Eufaula,US,35.388699,-95.599998,670
+K0F9,Tishomingo Airpark,K0F9,,Tishomingo,US,34.198502,-96.674500,647
+K0G3,Tecumseh Municipal Airport,K0G3,,Tecumseh,US,40.399399,-96.171402,1306
+K0G6,Williams County Airport,K0G6,,Bryan,US,41.467400,-84.506599,730
+K0G7,Finger Lakes Regional Airport,K0G7,,Seneca Falls,US,42.883598,-76.781097,492
+K0H1,Trego Wakeeney Airport,K0H1,,Wakeeney,US,39.004501,-99.892899,2435
+K0I8,Cynthiana-Harrison County Airport,K0I8,,Cynthiana,US,38.366199,-84.283302,721
+K0J4,Florala Municipal Airport,K0J4,,Florala,US,31.042500,-86.311600,314
+K0J6,Headland Municipal Airport,K0J6,,Headland,US,31.364300,-85.311798,359
+K0J9,Flying V Airport,K0J9,,Utica,US,40.867802,-97.354202,1585
+K0K7,Humboldt Municipal Airport,K0K7,,Humboldt,US,42.736099,-94.245201,1093
+K0L7,Jean Airport,K0L7,,Jean,US,35.768299,-115.330002,2832
+K0L9,Echo Bay Airport,K0L9,,Overton,US,36.311100,-114.463997,1535
+K0M0,Billy Free Municipal Airport,K0M0,,Dumas,US,33.884800,-91.534500,163
+K0M1,Scott Field,K0M1,,Parsons,US,35.637798,-88.127998,520
+K0M2,Reelfoot Lake Airport,K0M2,,Tiptonville,US,36.475300,-89.346199,289
+K0M3,John A Baker Field,K0M3,,Hohenwald,US,35.546001,-87.597298,972
+K0M4,Benton County Airport,K0M4,,Camden,US,36.011101,-88.123299,468
+K0M5,Humphreys County Airport,K0M5,,Waverly,US,36.116600,-87.738197,756
+K0M8,Byerley Airport,K0M8,,Lake Providence,US,32.825901,-91.187698,106
+K0M9,Delhi Municipal Airport,K0M9,,Delhi,US,32.410702,-91.498703,91
+K0O2,Baker Airport,K0O2,,Baker,US,35.285500,-116.083000,922
+K0Q5,Shelter Cove Airport,K0Q5,,Shelter Cove,US,40.027599,-124.072998,69
+K0R0,Columbia-Marion County Airport,K0R0,,Columbia,US,31.297001,-89.812798,265
+K0R1,Atmore Municipal Airport,K0R1,,Atmore,US,31.016199,-87.446800,287
+K0R3,Abbeville Chris Crusta Memorial Airport,K0R3,,Abbeville,US,29.975800,-92.084198,16
+K0R4,Concordia Parish Airport,K0R4,,Vidalia,US,31.562000,-91.506500,54
+K0R5,David G Joyce Airport,K0R5,,Winnfield,US,31.963699,-92.660301,146
+K0R6,Hampton Municipal Airport,K0R6,,Hampton,US,33.522598,-92.460297,178
+K0S0,Lind Airport,K0S0,,Lind,US,46.976799,-118.586998,1507
+K0S7,Dorothy Scott Airport,K0S7,,Oroville,US,48.959000,-119.412003,1064
+K0S9,Jefferson County International Airport,K0S9,,Port Townsend,US,48.053799,-122.810997,108
+K0V3,Pioneer Village Field,K0V3,,Minden,US,40.514900,-98.945602,2160
+K0V4,Brookneal/Campbell County Airport,K0V4,,Brookneal,US,37.141701,-79.016403,596
+K0V6,Mission Sioux Airport,K0V6,,Mission,US,43.306900,-100.627998,2605
+K0V7,Kayenta Airport,K0V7,,Kayenta,US,36.709702,-110.237000,5710
+K0VG,Lee County Airport,K0VG,,Jonesville,US,36.654099,-83.217796,1411
+K0W3,Harford County Airport,K0W3,,Churchville,US,39.566799,-76.202400,409

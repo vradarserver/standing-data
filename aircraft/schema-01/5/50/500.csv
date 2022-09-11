@@ -1,0 +1,37 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+500094,T7-AMC,F260,Aermacchi,SF260,Aermacchi SF260,1,Private,,2-57,
+500177,T7-AXL,BE36,Beech,36 Bonanza,Beech 36 Bonanza,1,Private,,,
+500197,T7-LDT,P46T,Piper,Malibu Meridian,Piper Malibu Meridian,1,Private,,4636391,
+500208,T7-AIRX,BE20,Beech,King Air 250,Beech King Air 250,1,Private,,BY-174,
+50020A,T7-SLXP,PC12,Pilatus,PC-12/47,Pilatus PC-12/47,0,Super Legacy,,864,
+500213,T7-ME8,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Middle East Airlines,MEA,10221,2021
+500214,T7-ME9,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Middle East Airlines,MEA,10322,2021
+500222,T7-GER,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2071,
+500223,T7-CNC,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6286,
+500230,T7-OWN,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6083,
+500232,T7-AAAA,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60016,
+500234,T7-ULS,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,349,2000
+500235,T7-TDL,P46T,Piper,PA-46R-350T,Piper PA-46R-350T,1,Private,,46-36325,
+500236,T7-818,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,TAG Aviation San Marino,TAG,6102,
+500239,T7-LJA,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4291,
+50023B,T7-CAPE,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,1,Private,,73010,
+500241,T7-MCV,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6059,
+50024B,,GL5T,Bombardier,BD-700-1A11 Global 5000,Bombardier BD-700-1A11 Global 5000,1,Private,,9569,
+500254,T7-LASER,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,1,Private,,50500590,
+500260,T7-FJA,F900,Dassault,Falcon 900X,Dassault Falcon 900X,1,Private,,616,
+500263,T7-ALX,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258536,
+500264,T7-MPS,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,238,
+500269,T7-JAB,H25B,Raytheon Hawker,850XP,Raytheon Hawker 850XP,1,Private,,258810,
+50026A,T7-550,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Empire Aviation,,5380,
+500272,T7-BAT,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14500995,2007
+500274,T7-TANMG,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5523,
+500280,T7-EAGLE,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9032,
+500284,T7-977,GLF4,Gulfstream,4SP,Gulfstream 4SP,1,Private,,500284,
+500289,T7-SKK,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,,
+50028C,T7-KLCPM,GLF5,Gulfstream,G550,Gulfstream G550,0,Nomad Aviation,,5283,2010
+500290,T7-BDA,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9427,
+500293,T7-SAB,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Gama Aviation,GMA,1589,2001
+500295,T7-0302,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5427,
+500296,T7-CZW,B737,Boeing,737-700 BBJ,Boeing 737-700 BBJ,1,Private,,38408,2013
+5002A5,T7-5PM,P46T,Piper,PA-46-500TP Meridian,Piper PA-46-500TP Meridian,1,Private,,46-97304,
+5002B7,T7-DAT,P180,Piaggio,P-180 Avanti II,Piaggio P-180 Avanti II,1,Private,,1194,

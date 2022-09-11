@@ -1,0 +1,670 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SN00,J Roesner Airport,SN00,,Salina,US,38.846901,-97.550301,1211
+SN01,Dwight Eisenhower Va Medical Center Heliport,SN01,,Leavenworth,US,39.282799,-94.888000,897
+SN02,Wright International Airport,SN02,,Kanorado,US,39.408298,-102.021004,3883
+SN03,Lenora Municipal Airport,SN03,,Lenora,US,39.629398,-100.014999,2373
+SN04,Roberts Memorial Airport,SN04,,Emporia,US,38.423100,-96.371902,1185
+SN05,Halstead Airport,SN05,,Halstead,US,38.031399,-97.509201,1412
+SN07,Beaumont Hotel Airport,SN07,,Beaumont,US,37.659199,-96.527199,1617
+SN08,Fisher Airport,SN08,,Burrton,US,37.991699,-97.656403,1430
+SN09,Solomon Valley Airpark,SN09,,Minneapolis,US,39.113899,-97.683098,1205
+SN10,Belle Plaine Farms Airport,SN10,,Belle Plaine,US,37.395802,-97.209999,1190
+SN11,Caney Municipal Hospital Helicopter Pad Heliport,SN11,,Caney,US,37.006500,-95.931602,755
+SN12,Jenkinson Airport,SN12,,Meade,US,37.363899,-100.471001,2737
+SN13,Albers Airport,SN13,,Cheney,US,37.658298,-97.774498,1380
+SN14,Schoolcraft Airport,SN14,,Agricola,US,38.416698,-95.516899,1165
+SN16,Curtis Airport,SN16,,Kechi,US,37.856400,-97.269798,1380
+SN17,Shupe Airport,SN17,,Ashland,US,37.071999,-99.605103,1769
+SN18,Sills Air Park,SN18,,Augusta,US,37.666698,-97.016998,1295
+SN19,Flying H Ranch Airport,SN19,,Augusta,US,37.625000,-97.096199,1400
+SN20,Brady-Pippin Airport,SN20,,Augusta,US,37.719501,-97.048897,1300
+SN21,Flory /Private/ Airport,SN21,,Baldwin City,US,38.822800,-95.287804,1100
+SN22,Hoelting Airport,SN22,,Basehor,US,39.112202,-94.956100,960
+SN23,Overmiller Airport,SN23,,Smith Center,US,39.911999,-98.665604,2010
+SN25,Lucas Airport,SN25,,Big Bow,US,37.418598,-101.557999,3172
+SN26,Horttor Airport,SN26,,Blue Mound,US,38.177799,-95.002998,970
+SN27,Bovinair Airport,SN27,,Bonner Springs,US,39.062500,-94.944702,920
+SN28,Belcher Airport,SN28,,Brookville,US,38.868599,-97.937798,1420
+SN29,Rucker Burdett Airport,SN29,,Burdett,US,38.187500,-99.533997,2151
+SN30,Marysville Mediport Heliport,SN30,,Marysville,US,39.847801,-96.635002,1283
+SN31,William Newton Memorial Hospital Heliport,SN31,,Winfield,US,37.245201,-96.982002,1156
+SN32,Rands Airport,SN32,,Belle Plaine,US,37.426399,-97.269501,1210
+SN33,Callaway Airpark,SN33,,Clay Center,US,39.433300,-97.121101,1275
+SN34,Rucker Airport,SN34,,Clearwater,US,37.575001,-97.491997,1300
+SN35,Menorah Medical Park Heliport,SN35,,Overland Park,US,38.910599,-94.650200,907
+SN36,Wamsley Field,SN36,,Conway Springs,US,37.426399,-97.637802,1335
+SN37,Harold K. Wells Airport,SN37,,Elmdale,US,38.387001,-96.729698,1100
+SN38,Lawrence Memorial Hospital Heliport,SN38,,Lawrence,US,38.980000,-95.248901,858
+SN39,Baldock Farm Airport,SN39,,Delphos,US,39.250000,-97.650299,1350
+SN40,Olson Aerodrome,SN40,,Derby,US,37.523602,-97.198402,1325
+SN41,Ziggy Carline Airport,SN41,,Girard,US,37.504200,-94.826698,1300
+SN42,Harrod Airport,SN42,,Ottawa,US,38.561401,-95.208199,990
+SN43,Strafuss Airport,SN43,,Effingham,US,39.504200,-95.471100,1050
+SN44,Bob Faler Airport,SN44,,Elk City,US,37.300098,-95.900299,850
+SN45,Michael's Airport,SN45,,Lawrence,US,38.831402,-95.266403,1105
+SN46,Taylor Airport,SN46,,Benton,US,37.871899,-97.072197,1340
+SN47,Converse Farm Airport,SN47,,Eskridge,US,38.766701,-96.107201,1231
+SN48,Moore Field,SN48,,Byers,US,37.788300,-98.849800,1992
+SN49,Mc Collough Airfield,SN49,,Randall,US,39.685299,-97.971199,1465
+SN50,Mt Carmel Medical Center Heliport,SN50,,Pittsburg,US,37.380299,-94.685204,915
+SN51,Meitl Airport,SN51,,Dresden,US,39.589699,-100.428001,2725
+SN52,Pilot Pointe Estates Airport,SN52,,Douglass,US,37.481400,-97.012001,1237
+SN53,Bonner Field,SN53,,Fredonia,US,37.433399,-95.916901,950
+SN54,Overland Park Regional Medical Center Heliport,SN54,,Overland Park,US,38.837502,-94.724403,961
+SN55,R J C Farms Inc Airport,SN55,,Friend,US,38.215302,-101.002998,2900
+SN56,Mercy Hospital Heliport,SN56,,Fort Scott,US,37.836201,-94.708298,905
+SN57,Witham Airport,SN57,,Ottawa,US,38.698601,-95.300301,1110
+SN58,Foster Field,SN58,,El Dorado,US,37.869999,-96.646698,1440
+SN59,Hermon Farm Airport,SN59,,Gardner,US,38.852798,-94.910004,1060
+SN60,Lcf Heliport,SN60,,Lansing,US,39.250000,-94.900200,760
+SN61,Yoder Airpark,SN61,,Goddard,US,37.659698,-97.629501,1475
+SN62,Roberts Field,SN62,,Bentley,US,37.874199,-97.512497,1384
+SN63,Gail Ballard Airport,SN63,,Haviland,US,37.608398,-99.115700,2165
+SN64,Eck Field,SN64,,Goddard,US,37.695801,-97.539200,1330
+SN65,Lake Waltanna Airport,SN65,,Goddard,US,37.591702,-97.616997,1440
+SN66,Beesley Farms Airport,SN66,,Gove,US,38.818298,-100.455002,2635
+SN67,Button Airport,SN67,,Great Bend,US,38.383301,-98.750397,1845
+SN68,Lil Bird Airport,SN68,,Valley Center,US,37.879200,-97.310303,1456
+SN69,Emmerson Airport,SN69,,Hammond,US,37.931400,-94.642700,860
+SN70,Kaypod Airport,SN70,,Harper,US,37.251400,-97.954498,1379
+SN71,Bob Park Airport,SN71,,Harper,US,37.302799,-97.964203,1396
+SN72,Graham Farms Airport,SN72,,Harris,US,38.299999,-95.440002,985
+SN73,Salina Regional Health Center Heliport,SN73,,Salina,US,38.831100,-97.610901,1228
+SN74,Hays Medical Center Heliport,SN74,,Hays,US,38.880299,-99.299004,2000
+SN75,Sommers Airport,SN75,,Highland,US,39.866699,-95.333603,1070
+SN76,Sunflower Aerodrome,SN76,,Hutchinson,US,37.926399,-97.906197,1582
+SN77,Johns Airport,SN77,,Johnson,US,37.400002,-101.766998,3390
+SN78,Albright Airport,SN78,,Bucyrus,US,38.698101,-94.718803,1000
+SN79,Municipal Office Building Heliport,SN79,,Kansas City,US,39.113098,-94.626099,1026
+SN80,Girard District Hospital Heliport,SN80,,Girard,US,37.515598,-94.856697,995
+SN81,Hancock Airport,SN81,,Piper,US,39.181900,-94.870003,940
+SN83,Highcrest Air Park,SN83,,Lansing,US,39.227200,-94.951401,1000
+SN84,Blaser's Airport,SN84,,Leavenworth,US,39.270802,-94.987701,1000
+SN85,Fox Fire Airport,SN85,,Wellsville,US,38.733601,-95.102203,1058
+SN86,Arrow B Ranch Airport,SN86,,Leoti,US,38.704201,-101.420998,3430
+SN87,Supreme Feeders Airport,SN87,,Liberal,US,37.259998,-100.906998,2830
+SN88,Crosswind Airfield,SN88,,Louisburg,US,38.571400,-94.712700,1100
+SN89,Somerset Airport,SN89,,Louisburg,US,38.537800,-94.726898,1100
+SN90,D'Field Airport,SN90,,Mc Louth,US,39.226398,-95.191902,1100
+SN91,Godfrey Airport,SN91,,Madison,US,38.109699,-96.115601,1100
+SN92,Sunshine Ranch Airport,SN92,,Manhattan,US,39.333302,-96.700302,1300
+SN93,Dickson /Private/ Airport,SN93,,Miller,US,38.645802,-95.989197,1140
+SN94,Amy Airport,SN94,,Minneola,US,37.466702,-100.000000,2560
+SN95,Roberts Air Field,SN95,,Sylvia,US,37.977501,-98.404198,1765
+SN97,Brollier Airport,SN97,,Moscow,US,37.326401,-101.197998,3056
+SN98,Anton Flying Uv Airport,SN98,,Satanta,US,37.420799,-100.942001,2954
+SN99,Laflin Ranch Airport,SN99,,Olsburg,US,39.400002,-96.616997,1190
+SNAB,Araripina Airport,SNAB,,Araripina,BR,-7.586760,-40.535500,2194
+SNAC,Fazenda Santa Rosa Airport,SNAC,,Xinguara,BR,-7.036670,-50.088902,699
+SNAD,Fazenda Águia Branca Airport,SNAD,,Gurupi,BR,-3.327778,-46.779720,410
+SNAE,Arcoverde Airport,SNAE,,Arcoverde,BR,-8.407880,-37.088200,2080
+SNAF,Fazenda Água Comprida Airport,SNAF,,Água Comprida,BR,-19.946943,-48.033611,2211
+SNAG,Araguari Airport,SNAG,,Araguari,BR,-18.668301,-48.190498,3107
+SNAH,Adustina Airport,SNAH,,Adustina,BR,-10.580900,-38.088799,892
+SNAI,Alto Parnaíba Airport,SNAI,APY,Alto Parnaíba,BR,-9.083611,-45.950558,968
+SNAJ,Fazenda Jaguaré Airport,SNAJ,,Paragominas,BR,-3.421667,-48.335556,436
+SNAK,Carajás Heliport,SNAK,,Parauapebas,BR,-6.081667,-50.073334,2106
+SNAL,Arapiraca Airport,SNAL,APQ,Arapiraca,BR,-9.775360,-36.629200,886
+SNAM,Santo Antônio do Amparo Airport,SNAM,,Santo Antônio Do Amparo,BR,-20.913500,-44.892899,3601
+SNAP,Janaúba Airport,SNAP,,Janaúba,BR,-15.732000,-43.323101,1732
+SNAQ,Elisa Heliport,SNAQ,,Jarinu,BR,-23.154167,-46.779722,2671
+SNAR,Cirilo Queiróz Airport,SNAR,AMJ,Almenara,BR,-16.183890,-40.667220,640
+SNAS,Três Marias Airport,SNAS,,Três Marias,BR,-18.222401,-45.188999,2579
+SNAT,Aracati Airport,SNAT,,Aracati,BR,-4.567140,-37.799999,128
+SNAV,Agrovale Airport,SNAV,,Juazeiro,BR,-9.504170,-40.369440,1289
+SNAW,Fazenda Boa Fé Airport,SNAW,,Conquista,BR,-19.876944,-47.679722,2461
+SNAX,Marcelo Pires Halzhausen Airport,SNAX,AIF,Assis,BR,-22.640000,-50.453056,1850
+SNAY,Fazenda Rio Lages Airport,SNAY,,São Félix Do Xingu,BR,-6.281111,-51.746113,853
+SNAZ,Amargosa Airport,SNAZ,,Amargosa,BR,-12.993600,-39.639900,1394
+SNBB,Fazenda Agronol Airport,SNBB,,Luís Eduardo Magalhães,BR,-11.947222,-45.725277,2464
+SNBC,Barra do Corda Airport,SNBC,BDC,Barra Do Corda,BR,-5.502500,-45.215833,509
+SNBD,Sobradinho Airport,SNBD,,Juazeiro,BR,-9.462010,-40.824299,1240
+SNBE,Fazenda Botuverá Airport,SNBE,,Paranatinga,BR,-14.470278,-53.667778,1001
+SNBG,Baixo Guandu - Aimorés Airport,SNBG,,Baixo Guandu,BR,-19.499001,-41.041801,279
+SNBH,Biocor Heliport,SNBH,,Nova Lima,BR,-19.981943,-43.944721,3907
+SNBI,Bacabal Airport,SNBI,,Bacabal,BR,-4.227710,-44.820000,64
+SNBJ,Belo Jardim Airport,SNBJ,,Belo Jardim,BR,-8.345270,-36.441200,2100
+SNBK,Bocaíuva Airport,SNBK,,Bocaíuva,BR,-17.000000,-43.000000,2395
+SNBL,Belmonte Airport,SNBL,BVM,Belmonte,BR,-15.871700,-38.871899,33
+SNBM,Cristiano Ferreira Varella Airport,SNBM,,Muriaé,BR,-21.126101,-42.394402,886
+SNBN,Balbinot Airport,SNBN,,Portel,BR,-2.875833,-50.491669,203
+SNBR,Barreiras Airport,SNBR,BRA,Barreiras,BR,-12.078900,-45.008999,2447
+SNBS,Balsas Airport,SNBS,BSS,Balsas,BR,-7.526030,-46.053299,930
+SNBT,Benedito Leite Airport,SNBT,,Benedito Leite,BR,-7.216944,-44.550556,984
+SNBU,Sócrates Mariani Bittencourt Airport,SNBU,BMS,Brumado,BR,-14.255400,-41.817501,1673
+SNBV,Campo de Boi Airport,SNBV,,Ipixuna Do Pará,BR,-2.523310,-47.517399,186
+SNBW,Baião Airport,SNBW,,Baião,BR,-2.800278,-49.667221,105
+SNBX,Barra Airport,SNBX,BQQ,Barra,BR,-11.080800,-43.147499,1345
+SNBY,Bambuí Airport,SNBY,,Bambuí,BR,-20.036400,-45.972301,2523
+SNBZ,Paramirim Airport,SNBZ,,Paramirim,BR,-13.446111,-42.249168,1788
+SNCA,Campo Belo Airport,SNCA,,Campo Belo,BR,-20.892300,-45.335098,3182
+SNCB,Castanhal Airport,SNCB,,Prainha,BR,-2.523611,-53.939720,502
+SNCC,Calçoene Airport,SNCC,,Calçoene,BR,2.514720,-50.952202,59
+SNCD,Catuama Heliport,SNCD,,Goiana,BR,-7.690556,-34.875832,16
+SNCF,Continental Airport,SNCF,,Altamira,BR,-3.295278,-52.259167,485
+SNCG,Campos Gerais Airport,SNCG,,Campos Gerais,BR,-21.226110,-45.779167,2838
+SNCI,Cibrasa Airport,SNCI,,Capanema,BR,-1.231000,-47.200600,174
+SNCJ,Piquiatuba Airport,SNCJ,,Santarém,BR,-2.546667,-54.705002,407
+SNCL,Lorenzo Airport,SNCL,,Cairu,BR,-13.389444,-38.910000,3
+SNCM,Caponga Heliport,SNCM,,Cascavel,BR,-4.023611,-38.208889,20
+SNCP,Carutapera Airport,SNCP,CTP,Carutapera,BR,-1.250278,-46.017223,85
+SNCQ,Cocorobó Airport,SNCQ,,Euclides Da Cunha,BR,-10.527222,-39.033054,1509
+SNCR,Viganó I Heliport,SNCR,,Belo Horizonte,BR,-19.963057,-43.955555,3426
+SNCS,Campos Sales Airport,SNCS,,Campos Sales,BR,-7.053020,-40.358501,2001
+SNCT,Ubaporanga Airport,SNCT,,Caratinga,BR,-19.725300,-42.112099,2067
+SNCU,Cururupu Airport,SNCU,CPU,Cururupu,BR,-1.821111,-44.866944,39
+SNCW,Centro de Lançamento de Alcântara Airport,SNCW,,Alcântara,BR,-2.373000,-44.396400,148
+SNCX,Colatina Airport,SNCX,QCH,Colatina,BR,-19.487000,-40.579399,492
+SNCY,Campo da Praia Airport,SNCY,,Coruripe,BR,-10.220833,-36.286110,138
+SNCZ,Ponte Nova Airport,SNCZ,,Ponte Nova,BR,-20.403299,-42.916500,1877
+SNDB,Rurópolis Airport,SNDB,,Rurópolis,BR,-4.085556,-54.910831,325
+SNDC,Redenção Airport,SNDC,RDC,Redenção,BR,-8.033290,-49.979900,670
+SNDD,Fazenda Eldorado Airport,SNDD,,Igarapé Do Meio,BR,-3.692222,-45.270000,118
+SNDF,Fazenda Santa Lúcia Airport,SNDF,,Santa Inês,BR,-3.655000,-45.451111,272
+SNDG,São Domingos Airport,SNDG,,São Domingos Do Maranhão,BR,-5.573610,-44.431702,787
+SNDH,Aba Airport,SNDH,,Barreiras,BR,-12.160278,-45.022499,1682
+SNDI,Pista Castanheirinho Airport,SNDI,,Itaituba,BR,-7.099722,-56.852222,623
+SNDJ,Santana dos Brejos Airport,SNDJ,,Santana Dos Brejos,BR,-12.976111,-44.039165,1759
+SNDN,Leopoldina Airport,SNDN,LEP,Leopoldina,BR,-21.466101,-42.727001,919
+SNDO,Ouro Branco Airport,SNDO,,Paracatu,BR,-16.716389,-47.017776,3066
+SNDP,Palmares Airport,SNDP,,Acará,BR,-2.260278,-48.598331,218
+SNDQ,Fazenda Soya Airport,SNDQ,,São Desidério,BR,-12.921111,-45.569443,2549
+SNDR,Domingos Rego Airport,SNDR,,Timon,BR,-5.079790,-42.873699,373
+SNDT,Diamantina Airport,SNDT,DTI,Diamantina,BR,-18.232000,-43.650398,4446
+SNDU,Ponta Do Sol Airport,SNDU,,Capitólio,BR,-20.638333,-45.998056,2854
+SNDV,Divinópolis Airport,SNDV,DIQ,Divinópolis,BR,-20.180700,-44.870899,2608
+SNDW,Divisa Airport,SNDW,,Encruzilhada,BR,-15.717222,-41.017223,3051
+SNDX,Cachoeira Airport,SNDX,,Coruripe,BR,-10.040000,-36.326389,345
+SNDY,Dores Do Indaia Airport,SNDY,,Dores Do Indiaia,BR,-19.457199,-45.584400,2490
+SNDZ,Via Brasil Heliport,SNDZ,,Belo Horizonte,BR,-19.841944,-43.966110,2676
+SNEA,Piçarrão Airport,SNEA,,Estrela Do Sul,BR,-18.721390,-47.865555,3166
+SNEB,Paragominas Airport,SNEB,,Paragominas,BR,-3.025278,-47.316944,508
+SNEC,Outeiros da Brisas Airport,SNEC,,Porto Seguro,BR,-16.713057,-39.143055,130
+SNED,Canavieiras Airport,SNED,CNV,Canavieiras,BR,-15.667000,-38.954700,19
+SNEE,Jauá Airport,SNEE,,Camaçari,BR,-12.805859,-38.243752,76
+SNEF,Praia de Santa Rita Heliport,SNEF,,Parati,BR,-23.190833,-44.645556,49
+SNEH,Mineração Porquinho Airport,SNEH,,Itaituba,BR,-5.167222,-57.625832,298
+SNEJ,Monte Verde Airport,SNEJ,,Camanducaia,BR,-22.859722,-46.037498,5102
+SNEK,Moria Airport,SNEK,,Dom Bosco,BR,-16.883888,-46.236389,1201
+SNEL,Belterra Airport,SNEL,,Belterra,BR,-2.666944,-54.900555,541
+SNEN,Fazenda Calumbi Airport,SNEN,,Fortuna,BR,-5.813333,-44.137779,689
+SNEO,Dezoito Airport,SNEO,,Nerópolis,BR,-16.441111,-49.199722,2700
+SNEP,EunÃ¡polis Airport,SNEP,,EunÃ¡polis,BR,-16.329201,-39.576900,610
+SNEQ,Ouro Negro Heliport,SNEQ,,Rio De Janeiro,BR,-22.912778,-43.222778,282
+SNES,Esplanada Airport,SNES,,Esplanada,BR,-11.750556,-37.950279,164
+SNEU,Euclides da Cunha Airport,SNEU,,Euclides Da Cunha,BR,-10.527300,-39.032700,1499
+SNEV,Posthaus Heliport,SNEV,,Blumenau,BR,-26.880556,-49.139444,95
+SNEW,Fazenda Congonhas Airport,SNEW,,Carneirinho,BR,-19.662600,-50.951302,1375
+SNEY,Fazenda Lagoa do Morro Airport,SNEY,,Brejões,BR,-13.102500,-39.903610,2666
+SNEZ,Fazenda Palmeira do Capim Airport,SNEZ,,Novo Brasil,BR,-15.959444,-50.713890,1220
+SNFA,Fazenda Santo Antônio Airport,SNFA,,Unaí,BR,-16.716200,-46.521198,1795
+SNFB,Fazenda Minas Gerais Airport,SNFB,,Pontes E Lacerda,BR,-14.777222,-59.046944,2395
+SNFC,Fazenda Forquilha Airport,SNFC,,Tapira,BR,-19.851667,-46.709999,4370
+SNFD,Fazenda Santo Antônio Airport,SNFD,,Buritizeiro,BR,-17.080278,-45.447224,1739
+SNFE,Alfenas Airport,SNFE,,Alfenas,BR,-21.431400,-45.932098,2871
+SNFF,Feijó Airport,SNFF,,Fortaleza,BR,-3.809444,-38.616943,82
+SNFG,Fazenda Citropar Airport,SNFG,,Capitão Poço,BR,-1.841667,-47.184166,220
+SNFH,Fazenda Dom Felipe Airport,SNFH,,Ponta Porã,BR,-22.559170,-55.375830,1857
+SNFI,Fazenda São José do Parnaíba Airport,SNFI,,Tupaciguara,BR,-18.387501,-48.861668,1676
+SNFJ,Pousada Thaimaçu Airport,SNFJ,,Jacareacanga,BR,-9.062778,-56.593334,751
+SNFK,Francisco Sá Airport,SNFK,,Francisco Sá,BR,-16.438334,-43.469444,2484
+SNFL,Garimbo Tocantinzinho Airport,SNFL,,Itaituba,BR,-6.050556,-56.302223,590
+SNFM,Anglogold Ashantil Mineração Heliport,SNFM,,Nova Lima,BR,-19.965833,-43.835278,2907
+SNFN,Fazenda Santa Fé Airport,SNFN,,Jardinópolis,BR,-20.940000,-47.870000,1739
+SNFP,Fazenda Pirapó Airport,SNFP,,Sorriso,BR,-12.181389,-55.788612,1273
+SNFQ,Fazenda Paineira Airport,SNFQ,,São Sebastião Da Bela Vista,BR,-22.149445,-45.762501,3001
+SNFR,Belém de São Francisco Airport,SNFR,,Belém De São Francisco,BR,-8.769590,-38.949600,1034
+SNFS,Fazenda Mimoso S/A Airport,SNFS,,Barreiras,BR,-11.871389,-45.737221,2536
+SNFT,Fazenda Serinhaém Airport,SNFT,,Ituberá,BR,-13.836667,-38.993610,9
+SNFU,Frutal Airport,SNFU,,Frutal,BR,-20.002800,-48.958401,1808
+SNFV,Lago Joanes Airport,SNFV,,Simões Filho,BR,-12.666667,-38.395832,239
+SNFW,São João do Piauí Airport,SNFW,,São João Do Piauí,BR,-8.391111,-42.250556,1004
+SNFX,São Félix do Xingu Airport,SNFX,SXX,São Félix Do Xingu,BR,-6.640278,-51.990002,656
+SNFZ,Fazenda Villa Terezinha Airport,SNFZ,,Bocaíuva,BR,-17.405500,-43.940399,2765
+SNGA,Guarapari Airport,SNGA,GUZ,Guarapari,BR,-20.646500,-40.491901,28
+SNGB,Gilbués Airport,SNGB,,Gilbués,BR,-9.833611,-45.367222,1476
+SNGC,Pista Canaã Airport,SNGC,,Itaituba,BR,-7.193611,-57.048889,741
+SNGD,Guadalupe Airport,SNGD,GDP,Guadalupe,BR,-6.782220,-43.582199,564
+SNGE,Ilha do Retiro Heliport,SNGE,,Recife,BR,-8.066670,-34.901940,66
+SNGF,Fazenda Manacá Heliport,SNGF,,Gravatá,BR,-8.191389,-35.504723,1749
+SNGG,Bom Jesus do Gurguéia Airport,SNGG,,Bom Jesus Do Gurguéia,BR,-9.057250,-44.371101,1066
+SNGH,Guanhães Airport,SNGH,,Guanhães,BR,-18.707701,-42.838902,2618
+SNGI,Guanambi Airport,SNGI,GNM,Guanambi,BR,-14.208200,-42.746101,1815
+SNGK,Fazenda Bela Vista Airport,SNGK,,Monte Alegre De Minas,BR,-19.048332,-48.972221,1984
+SNGL,Boa Vista Heliport,SNGL,,Porto Feliz,BR,-23.181944,-47.559444,1949
+SNGM,Fazenda Canadá Airport,SNGM,GMS,Uberlândia,BR,-18.862499,-48.415279,2624
+SNGN,Garanhuns Airport,SNGN,QGP,Garanhuns,BR,-8.834280,-36.471600,2533
+SNGO,Fazenda Nova Airport,SNGO,,Uberlândia,BR,-19.047777,-48.582222,2689
+SNGP,Fazenda Santa Maria Airport,SNGP,,Tupaciguara,BR,-18.586945,-48.869167,2624
+SNGQ,Fazenda Estrela Dalva Airport,SNGQ,,Rondon Do Pará,BR,-4.250833,-48.768055,446
+SNGR,Gorotire Airport,SNGR,,Gorotire,BR,-7.783611,-51.133888,656
+SNGS,Aeroclube de Alagoas Airport,SNGS,,Maceió,BR,-9.587500,-35.757778,285
+SNGT,Gentio de Ouro Airport,SNGT,,Gentio De Ouro,BR,-11.441700,-42.518200,3501
+SNGU,Gurupá Airport,SNGU,,Gurupá,BR,-1.416944,-51.633888,66
+SNGW,Fazenda Cauaxi Airport,SNGW,,Paragominas,BR,-3.763333,-48.173889,754
+SNGX,Guaxupé Airport,SNGX,,Guaxupé,BR,-21.326401,-46.731201,2786
+SNGY,Fazenda Santapazienza Heliport,SNGY,,Itatiba,BR,-23.068300,-46.826700,2520
+SNGZ,Bardahl Heliport,SNGZ,,Cajamar,BR,-23.340278,-46.845000,3182
+SNHA,Itabuna Airport,SNHA,ITN,Itabuna,BR,-14.810500,-39.290401,197
+SNHB,Base de Paracuru Heliport,SNHB,,Paracuru,BR,-3.400278,-39.000278,20
+SNHD,Fazenda Floresta do Lobo Airport,SNHD,,Uberlândia,BR,-19.077500,-48.130278,3159
+SNHE,Fazenda Inhumas do Chapadão Airport,SNHE,,Uberaba,BR,-19.302221,-48.204166,2792
+SNHG,Fazenda Varjadão Airport,SNHG,,Sandolândia,BR,-12.341389,-49.621111,794
+SNHH,Helibrás Heliport,SNHH,,Itajubá,BR,-22.426666,-45.478058,2762
+SNHI,Polo Industrial Heliport,SNHI,,Guamaré,BR,-5.127500,-36.384445,49
+SNHJ,Usina de José Bonifácio Airport,SNHJ,,José Bonifácio,BR,-21.095000,-49.914722,1404
+SNHK,Nacional Grafite I Airport,SNHK,,Itapecerica,BR,-20.434444,-45.138332,3051
+SNHL,Lagoa da Taboca Airport,SNHL,,João Pinheiro,BR,-17.193333,-45.665558,1969
+SNHM,Morro da Gavazza Heliport,SNHM,,Salvador,BR,-13.008333,-38.530834,154
+SNHN,Megafort Heliport,SNHN,,Contagem,BR,-19.891111,-44.053333,2913
+SNHO,Nacional de Grafite II Airport,SNHO,,Pedra Azul,BR,-15.836111,-41.076389,1968
+SNHP,Herbert Mata Pires Airport,SNHP,,Itaberaba,BR,-12.402464,-40.474655,1188
+SNHQ,Nacional de Grafite III Airport,SNHQ,,Salto Da Divisa,BR,-16.181110,-39.931946,984
+SNHR,Fazenda Água Santa Airport,SNHR,,Perdizes,BR,-19.363056,-47.359444,3548
+SNHS,Santa Magalhães Airport,SNHS,,Serra Talhada,BR,-8.062400,-38.328800,1571
+SNHT,Togni Heliport,SNHT,,Poços De Caldas,BR,-21.780277,-46.596111,3885
+SNHU,FazendaBola Sete Airport,SNHU,,Itinga Do Maranhão,BR,-4.570000,-47.470000,699
+SNHW,Fazenda Agro-Maratá Airport,SNHW,,Santa Luzia,BR,-4.322222,-46.228333,1001
+SNHX,Fazenda Samello Airport,SNHX,,Paracatu,BR,-17.362499,-47.440834,2591
+SNHY,Hospital Esperança Heliport,SNHY,,Recife,BR,-8.066944,-34.895000,159
+SNHZ,Palácio do Governo do Estado do Amazonas Heliport,SNHZ,,Manaus,BR,-3.092500,-60.050000,213
+SNIA,Igarapé-Açu Airport,SNIA,,Igarapé-Açu,BR,-1.127222,-47.599167,180
+SNIB,Itaberaba Airport,SNIB,,Itaberaba,BR,-12.500000,-40.269901,929
+SNIC,Irecê Airport,SNIC,IRE,Irecê,BR,-11.339900,-41.847000,2561
+SNID,Instituto Doutor Arnaldo Heliport,SNID,,São Paulo,BR,-23.556110,-46.667778,3038
+SNIE,Caetité Airport,SNIE,,Caetité,BR,-14.012100,-42.494598,2854
+SNIF,Fazenda Serra Dourada Airport,SNIF,,Itaituba,BR,-5.717222,-56.436111,443
+SNIG,Iguatu Airport,SNIG,QIG,Iguatu,BR,-6.346640,-39.293800,699
+SNII,Ouroland Airport,SNII,,Itaituba,BR,-6.816944,-56.550556,699
+SNIJ,Suape Heliport,SNIJ,,Ipojuca,BR,-8.363333,-35.008610,47
+SNIK,Itamarandiba Airport,SNIK,,Itamarandiba,BR,-17.850555,-42.850555,3196
+SNIN,Prainha Airport,SNIN,,Prainha,BR,-1.800278,-53.483891,279
+SNIO,Cipó Airport,SNIO,,Cipó,BR,-11.117222,-38.516945,499
+SNIP,Itapetinga Airport,SNIP,QIT,Itapetinga,BR,-15.244500,-40.277199,915
+SNIR,Fazenda Mata Escura Airport,SNIR,,Parnarama,BR,-5.742778,-43.598888,712
+SNIS,Fazenda Rio Largo Airport,SNIS,,Caxias,BR,-5.196944,-43.597778,459
+SNIT,Ibotirama Airport,SNIT,,Ibotirama,BR,-12.168600,-43.222099,1398
+SNIU,Ipiaú Airport,SNIU,IPU,Ipiaú,BR,-14.133889,-39.733891,492
+SNIV,Fazenda Jumari Airport,SNIV,,Ipiaçu,BR,-18.646389,-49.882500,1424
+SNIX,Fazenda Masutti Airport,SNIX,,Campos De Júlio,BR,-13.553333,-59.100278,1617
+SNIY,Ibimirim Airport,SNIY,,Ibimirim,BR,-8.500278,-37.666943,1329
+SNIZ,Fazenda Jaqueline Airport,SNIZ,,Vilhena,BR,-12.882500,-60.119444,1772
+SNJA,Jardim de Angicos Airport,SNJA,,Jardim De Angicos,BR,-5.638611,-35.956669,492
+SNJB,Jacobina Airport,SNJB,JCM,Jacobina,BR,-11.163200,-40.553101,1640
+SNJC,Fazenda Agua Boa Airport,SNJC,,Ribamar Fiquene,BR,-5.961111,-47.392223,495
+SNJE,Fazenda Sertão do Formoso Airport,SNJE,,Jaborandi,BR,-14.793611,-46.003056,3028
+SNJG,Fazenda São José da Lagoa Airport,SNJG,,Nova Crixás,BR,-14.576667,-50.705556,1286
+SNJH,São José do Jacuípe Airport,SNJH,,São José Do Jacuípe,BR,-11.452778,-40.042221,1391
+SNJI,Fazenda Fortaleza de Santa Terezinha Airport,SNJI,,Jequitaí,BR,-17.186800,-44.649502,2077
+SNJJ,Fazenda Vô Anízio Airport,SNJJ,,Dois Irmãos Do Buriti,BR,-20.715278,-55.379722,837
+SNJK,Jequié Airport,SNJK,JEQ,Jequié,BR,-13.877700,-40.071602,646
+SNJL,Fazenda do Rochedo Airport,SNJL,,Juiz De Fora,BR,-21.845556,-43.187500,2300
+SNJM,Aeroporto Elias Breder Airport,SNJM,,Manhuaçu,BR,-20.259722,-42.183887,2723
+SNJN,Januária Airport,SNJN,JNA,Januária,BR,-15.473800,-44.385502,1575
+SNJO,Aeroclube Airport,SNJO,,João Pessoa,BR,-7.091990,-34.841599,16
+SNJP,João Pinheiro Airport,SNJP,,João Pinheiro,BR,-17.787500,-46.119999,2990
+SNJQ,Jequitinhonha Airport,SNJQ,,Jequitinhonha,BR,-16.441900,-41.036900,853
+SNJR,Prefeito Octávio de Almeida Neves Airport,SNJR,JDR,São João Del Rei,BR,-21.084999,-44.224724,3117
+SNJS,Jardim do Seridó Airport,SNJS,,Jardim Do Seridó,BR,-6.541111,-36.731667,837
+SNJT,Fazenda Caraíbas Airport,SNJT,,Janaúba,BR,-15.654167,-43.401669,1811
+SNJV,Fazenda Santa Mônica Airport,SNJV,,São João Da Ponte,BR,-16.002737,-43.746648,2077
+SNJW,Jaraguá Airport,SNJW,,Sacramento,BR,-20.040300,-47.421501,1909
+SNJX,Hospital Monte Sinai Heliport,SNJX,,Juiz De Fora,BR,-21.781389,-43.364723,2776
+SNJY,Termoaçu Heliport,SNJY,,Alto Do Rodrigues,BR,-5.382500,-36.821944,72
+SNJZ,Fazenda Santa Izabel do Porto Seguro da Jaú Airport,SNJZ,,São Félix Do Xingu,BR,-7.076389,-52.934723,804
+SNKA,Fazenda Perto d`Água Heliport,SNKA,,Avaré,BR,-23.253889,-48.907500,2041
+SNKB,Aeroclube Airport,SNKB,,Campina Grande,BR,-7.178333,-35.990276,1926
+SNKC,Cocos Airport,SNKC,,Cocos,BR,-14.172778,-44.546667,2018
+SNKD,Conceição do Mato Dentro Airport,SNKD,,Conceição Do Mato Dentro,BR,-19.020300,-43.433899,2196
+SNKE,Santana do Araguaia Airport,SNKE,CMP,Santana Do Araguaia,BR,-9.319970,-50.328499,597
+SNKF,Conselheiro Lafaiete Airport,SNKF,QDF,Conselheiro Lafaiete,BR,-20.738600,-43.797401,3478
+SNKG,Ama Heliport,SNKG,,Arujá,BR,-23.383333,-46.308613,2687
+SNKH,Creputiá Airport,SNKH,,Creputiá,BR,-8.116944,-57.117222,984
+SNKI,Cachoeiro do Itapemirim Airport,SNKI,CDI,Cachoeiro Do Itapemirim,BR,-20.834299,-41.185600,335
+SNKJ,Fazenda Rio Dourado Airport,SNKJ,,Cumaru Do Norte,BR,-8.344167,-51.451389,814
+SNKK,Caicó Airport,SNKK,,Caicó,BR,-6.439170,-37.078300,600
+SNKM,Margarida Heliport,SNKM,,Moreno,BR,-8.097500,-35.175278,604
+SNKN,Currais Novos Airport,SNKN,QCP,Currais Novos,BR,-6.280833,-36.540279,1148
+SNKO,Brotas de Macaúbas Airport,SNKO,,Brotas De Macaúbas,BR,-11.999400,-42.634899,2667
+SNKQ,Klaus Mangold Airport,SNKQ,,Ipixuna Do Pará,BR,-2.391944,-47.845001,200
+SNKR,Corrente Airport,SNKR,,Corrente,BR,-10.451944,-45.136391,1552
+SNKS,Santa Rita de Cássia Airport,SNKS,,Santa Rita De Cássia,BR,-10.950278,-44.467220,1476
+SNKT,Crepurizinho Airport,SNKT,,Itaituba,BR,-6.844444,-56.589443,1092
+SNKU,Canudos Airport,SNKU,,Canudos,BR,-9.900556,-39.133610,1247
+SNKV,Fazenda Campo Verde Airport,SNKV,,Tartarugalzinho,BR,1.042780,-50.516701,49
+SNKW,Fazenda Boa Sorte Airport,SNKW,,Iacri,BR,-21.918889,-50.636389,1398
+SNKX,Marborges Airport,SNKX,,Moju,BR,-1.971667,-48.628056,114
+SNKY,Fazenda Cikel Airport,SNKY,,Paragominas,BR,-3.664444,-48.834444,299
+SNKZ,Fazenda Remanso do Pito Airport,SNKZ,,Naviraí,BR,-23.201389,-53.855556,912
+SNLA,Fazenda Lagoa das Antas Airport,SNLA,,Canaã Dos Carajás,BR,-6.567500,-49.719444,899
+SNLB,Livramento do Brumado Airport,SNLB,LVB,Livramento Do Brumado,BR,-13.650600,-41.833900,1559
+SNLC,Las Casas Airport,SNLC,,Las Casas,BR,-7.966944,-50.017223,1969
+SNLD,Fazenda Serra Azul Airport,SNLD,,Itaituba,BR,-5.696667,-56.494720,472
+SNLE,Hospital Geral de Barueri Heliport,SNLE,,Barueri,BR,-23.496667,-46.872222,2556
+SNLF,Filial Campo Florido Airport,SNLF,,Campo Florido,BR,-19.813889,-48.738888,1959
+SNLG,Serra do Cipó Airport,SNLG,,Jaboticatubas,BR,-19.398611,-43.746387,2621
+SNLH,Lajinha Airport,SNLH,,Lajinha,BR,-20.140278,-41.609165,2051
+SNLI,Abaeté Airport,SNLI,,Abaeté,BR,-19.155600,-45.494801,2178
+SNLJ,Agropecuária Céu Aberto Ltda Airport,SNLJ,,Aripuanã,BR,-9.516667,-61.250000,3428
+SNLK,Agropecuária Ferreira Penço Ltda Airport,SNLK,,Aripuanã,BR,-9.715833,-61.046665,3297
+SNLL,Brennand Heliport,SNLL,,Ipojuca,BR,-8.580278,-35.038891,3
+SNLM,Fazenda Agropecuária Rancho 11 Airport,SNLM,,Porto Esperidião,BR,-15.614167,-58.900276,1001
+SNLN,Linhares Airport,SNLN,,Linhares,BR,-19.355200,-40.069500,131
+SNLO,São Lourenço Airport,SNLO,SSO,São Lourenço,BR,-22.090900,-45.044498,2871
+SNLP,Santa Fé Heliport,SNLP,,Piracaia,BR,-22.994444,-46.390835,2848
+SNLQ,Fazenda Conforto Airport,SNLQ,,Nova Crixás,BR,-14.065800,-50.415901,1001
+SNLR,Itautec Heliport,SNLR,,São Paulo,BR,-23.530832,-46.571945,2438
+SNLS,São Sebastião Heliport,SNLS,,Lagoa Santa,BR,-19.704721,-43.847778,2677
+SNLT,Paulistana Airport,SNLT,,Paulistana,BR,-8.166389,-41.153889,1181
+SNLU,Fazenda Boa Luz Airport,SNLU,,Laranjeiras,BR,-10.842222,-37.203888,167
+SNLV,Lavrinhas Airport,SNLV,,Lavrinhas,BR,-17.735832,-43.459442,3478
+SNLX,Fazenda Primavera I Airport,SNLX,,Rondon Do Pará,BR,-4.800556,-48.393333,1050
+SNLY,Lagoa da Prata Airport,SNLY,,Lagoa Da Prata,BR,-20.061399,-45.554901,2159
+SNLZ,Fazenda Boca da Mata Airport,SNLZ,,Divinópolis Do Tocantins,BR,-9.431944,-49.591110,669
+SNMA,Monte Alegre Airport,SNMA,MTE,Monte Alegre,BR,-1.995800,-54.074200,325
+SNMC,Macaúbas Airport,SNMC,,Macaúbas,BR,-13.025000,-42.672298,2133
+SNMD,Mundico Coelho Airport,SNMD,,Itaituba,BR,-6.820556,-56.844723,471
+SNME,Costa dos Coqueiros Airport,SNME,,Mata De São João,BR,-12.489722,-38.023609,233
+SNMF,Agropastoril Monte Alegre Airport,SNMF,,Monte Belo,BR,-21.350555,-46.250557,2841
+SNMG,Miguel Dias Heliport,SNMG,,Fortaleza,BR,-3.766667,-38.490833,66
+SNMH,Magalhaes de Almeida Airport,SNMH,,Codo,BR,-4.476960,-43.889900,203
+SNMI,Mina Caraíba Airport,SNMI,,Jaguarari,BR,-9.834722,-39.883331,1476
+SNMJ,Maracás Airport,SNMJ,,Maracás,BR,-13.433300,-40.433300,3280
+SNMK,Mocambinho Airport,SNMK,,Jaíba,BR,-15.093000,-43.979099,1519
+SNML,Manduca Leão Airport,SNML,,Rio Largo,BR,-9.544444,-35.829445,387
+SNMM,Morada Nova de Minas Airport,SNMM,,Morada Nova De Minas,BR,-18.593889,-45.353058,1988
+SNMN,Minas Novas Airport,SNMN,,Minas Novas,BR,-17.233889,-42.583889,2461
+SNMO,Morada Nova Airport,SNMO,,Morada Nova,BR,-5.083611,-38.383610,509
+SNMP,Fazenda Marocopa Airport,SNMP,,Paracatu,BR,-17.323055,-46.538055,1752
+SNMQ,Felipe Hansen Heliport,SNMQ,,Joinville,BR,-26.316389,-48.865833,108
+SNMR,Maraú Airport,SNMR,,Maraú,BR,-14.117222,-38.983891,66
+SNMU,Mucuri Airport,SNMU,MVS,Mucuri,BR,-18.048901,-39.864201,276
+SNMV,Fazenda Flávia Airport,SNMV,,Alcinópolis,BR,-18.350000,-53.750000,1250
+SNMW,Agropecuária Paralelo Dez Ltda Airport,SNMW,,Aripuanã,BR,-9.999444,-61.052223,3035
+SNMX,São Mateus Airport,SNMX,SBJ,São Mateus,BR,-18.721300,-39.833698,98
+SNMZ,Porto de Moz Airport,SNMZ,PTQ,Porto De Moz,BR,-1.741450,-52.236099,53
+SNNA,Albrás Heliport,SNNA,,Barcarena,BR,-1.562500,-48.737778,56
+SNNB,Fazenda Cana Brava Airport,SNNB,,Paracatu,BR,-17.176945,-46.297501,1772
+SNNC,Rio Capim Airport,SNNC,,Ipixuna Do Pará,BR,-2.820278,-47.893055,236
+SNND,Berlin Ltda Airport,SNND,,Ituiutaba,BR,-18.935301,-49.472698,1815
+SNNE,São João Nepomuceno Airport,SNNE,,São João Nepomuceno,BR,-21.542221,-43.021111,1322
+SNNF,Nossa Senhora de Fátima Airport,SNNF,,Teresina,BR,-5.033611,-42.705555,607
+SNNH,Carinhanha Airport,SNNH,,Carinhanha,BR,-14.298500,-43.797298,1483
+SNNI,Praia do Forte Airport,SNNI,,Mata De São João,BR,-12.565000,-38.021667,49
+SNNJ,Fazenda Santa Cruz Airport,SNNJ,,Iaciara,BR,-14.217778,-46.838612,1529
+SNNK,Fazenda Teragro Airport,SNNK,,Matias Cardoso,BR,-14.769444,-43.415279,1512
+SNNL,Hospital de Olhos de Minas Gerais Heliport,SNNL,,Nova Lima,BR,-19.981112,-43.945000,3925
+SNNM,Entre Rios - Vitória Airport,SNNM,,Guarapuava,BR,-25.566111,-51.496666,3602
+SNNO,Fazenda São Domingos Airport,SNNO,,Comodoro,BR,-14.063889,-59.866390,1001
+SNNP,Nilo Peçanha Airport,SNNP,,Nilo Peçanha,BR,-8.066944,-52.167221,984
+SNNQ,Fazenda Santa Lúcia Airport,SNNQ,,Porto Murtinho,BR,-23.038889,-54.747500,1640
+SNNR,Modesto Heliport,SNNR,,Recife,BR,-8.111667,-34.897778,36
+SNNS,Fazenda Jaibense Airport,SNNS,,Matias Cardoso,BR,-14.946111,-43.681110,1644
+SNNT,Nova Ponte Airport,SNNT,,Nova Ponte,BR,-19.198400,-47.728699,3261
+SNNU,Nanuque Airport,SNNU,NNU,Nanuque,BR,-17.823299,-40.329899,591
+SNNV,Fazenda Estrela do Sul Airport,SNNV,,Pedra Preta,BR,-16.570557,-54.170834,1099
+SNNX,Fazenda Boa Vista Airport,SNNX,,Corumbiara,BR,-12.833333,-61.349998,866
+SNNY,Fazenda Espírito Santo Airport,SNNY,,Comodoro,BR,-13.280556,-60.331112,1001
+SNNZ,Fazenda Água Turva Airport,SNNZ,,Caracol,BR,-22.123611,-57.103889,745
+SNOA,CoroatÃ¡ Airport,SNOA,,CoroatÃ¡,BR,-4.141110,-44.115601,157
+SNOB,Sobral Airport,SNOB,QBX,Sobral,BR,-3.678890,-40.336800,210
+SNOD,Praia do Saco Airport,SNOD,,Estância,BR,-11.421944,-37.322498,20
+SNOG,Ceará-Mirim Airport,SNOG,,Ceará-Mirim,BR,-5.661210,-35.413898,171
+SNOH,Atlantis Heliport,SNOH,,Goiana,BR,-7.564167,-34.858612,16
+SNOI,Fazenda Rio Mutuca Airport,SNOI,,Juara,BR,-10.426389,-58.161388,951
+SNOJ,Minalpa - Mineração Alto Parnaíba Ltda. Airport,SNOJ,,Alta Floresta,BR,-10.416667,-56.388611,984
+SNOK,Fazenda Chão de Estrelas Airport,SNOK,,Aurora Do Pará,BR,-2.327222,-47.651112,126
+SNOM,Fazenda Guaporeí Airport,SNOM,,Vila Bela Da Santíssima Trindade,BR,-15.006700,-60.220699,1001
+SNON,Casa de Campo Heliport,SNON,,Campinas,BR,-22.939167,-47.070557,2316
+SNOO,Fazenda Quatrilho Airport,SNOO,,Sorriso,BR,-13.357780,-55.616110,1457
+SNOQ,Fazenda Agropecuária Crioulo Airport,SNOQ,,Tacuru,BR,-23.598888,-55.142502,1263
+SNOR,Fazenda Sesmaria Heliport,SNOR,,Amparo,BR,-22.596945,-46.853611,2280
+SNOS,Municipal José Figueiredo Airport,SNOS,PSW,Passos,BR,-20.732201,-46.661800,2697
+SNOT,Fazenda Santa Fé do Guaporé Airport,SNOT,,Comodoro,BR,-14.011667,-59.886665,951
+SNOU,Novo Aeródromo de Feijó Airport,SNOU,,Feijó,BR,-8.140833,-70.347221,394
+SNOV,Povoado de Camaçari Airport,SNOV,,Coruripe,BR,-10.122500,-36.292221,279
+SNOW,Fazenda Turmalina Airport,SNOW,,Martinópolis,BR,-21.982222,-50.972221,1378
+SNOX,Oriximiná Airport,SNOX,ORX,Oriximiná,BR,-1.714080,-55.836201,262
+SNOY,Ouricuri Airport,SNOY,,Ouricuri,BR,-7.876520,-40.091801,1529
+SNOZ,Coronel Alexandre Raposo Airport,SNOZ,,Paço Do Lumiar,BR,-2.520970,-44.121300,154
+SNPA,Pará de Minas Airport,SNPA,,Pará De Minas,BR,-19.842600,-44.601200,2598
+SNPC,Picos Airport,SNPC,PCS,Picos,BR,-7.062060,-41.523701,1050
+SNPD,Patos de Minas Airport,SNPD,POJ,Patos De Minas,BR,-18.672800,-46.491199,2793
+SNPE,Penedo Airport,SNPE,,Penedo,BR,-10.265900,-36.551498,197
+SNPF,Fazenda Canabrava Airport,SNPF,,Parnarama,BR,-5.591111,-43.317780,689
+SNPG,Porto Grande Airport,SNPG,,Porto Grande,BR,0.866389,-51.400600,197
+SNPH,Fazenda Do Cantagalo Airport,SNPH,,Piedras do Maria Da Cruz,BR,-15.395900,-44.145199,1576
+SNPL,Fazenda Pacuruxu Airport,SNPL,,Santa Mercedes,BR,-21.256390,-51.728889,1181
+SNPM,Palmeiras Airport,SNPM,,Palmeiras,BR,-12.500556,-41.583889,2395
+SNPN,Fazenda Água Fria Airport,SNPN,,Lavínia,BR,-21.030277,-50.925835,1378
+SNPP,Morro de São Paulo Airport,SNPP,,Cairu,BR,-13.436944,-38.922501,66
+SNPQ,Pesqueira Airport,SNPQ,,Pesqueira,BR,-8.374167,-36.637779,2067
+SNPR,Gilson Machado Heliport,SNPR,,Gravatá,BR,-8.199722,-35.616112,1529
+SNPS,Pontezinha Airport,SNPS,,Buritis,BR,-15.260100,-46.762402,3277
+SNPT,Passa Tempo Airport,SNPT,,Passa Tempo,BR,-20.650557,-44.500557,3143
+SNPW,Piaus Airport,SNPW,,Piaus,BR,-8.833611,-50.000557,591
+SNPX,Pirapora Airport,SNPX,PIV,Pirapora,BR,-17.316900,-44.860298,1808
+SNPY,São Sebastião do Paraíso Airport,SNPY,,São Sebastião Do Paraíso,BR,-20.948200,-46.983200,3110
+SNPZ,Pedra Azul Airport,SNPZ,,Pedra Azul,BR,-16.067223,-41.167221,2625
+SNQA,Fazenda Tracajá Airport,SNQA,,Paragominas,BR,-2.640556,-47.862221,138
+SNQB,Fazenda Val Paraíso Airport,SNQB,,Paragominas,BR,-3.168333,-48.071388,256
+SNQD,Sousa Airport,SNQD,,Sousa,BR,-6.785440,-38.233398,745
+SNQE,Fazenda Serra Grande Airport,SNQE,,Parauapebas,BR,-6.068889,-49.840000,682
+SNQF,Ilha Verde Heliport,SNQF,,Trairi,BR,-3.220278,-39.255833,20
+SNQG,Cangapara Airport,SNQG,FLB,Floriano,BR,-6.846390,-43.077301,689
+SNQI,Fazenda Camagril Agropecuária Airport,SNQI,,Diamantino,BR,-14.118056,-57.341110,2756
+SNQJ,Rancho Paraíso Airport,SNQJ,,Corumbá,BR,-17.522778,-55.400555,499
+SNQK,Muro Alto Beach Resort Heliport,SNQK,,Ipojuca,BR,-8.437222,-34.983334,39
+SNQL,Bom Jesus Airport,SNQL,,Cáceres,BR,-15.735000,-57.346390,482
+SNQM,Queimadas Airport,SNQM,,Queimadas,BR,-10.988333,-39.620556,1050
+SNQO,Fazenda Campanário Airport,SNQO,,Bodoquena,BR,-20.375000,-56.541943,558
+SNQQ,Atlântico Offices Heliport,SNQQ,,Macaé,BR,-22.389999,-41.776390,118
+SNQR,Fazenda Bahia - Don Bosco Airport,SNQR,,Poconé,BR,-16.727777,-57.233334,3
+SNQS,Fazenda Nossa Senhora Auxiliadora Airport,SNQS,,Ivinhema,BR,-22.304443,-54.030556,1001
+SNQT,Fazenda Estrela do Sul Airport,SNQT,,Umuarama,BR,-23.795834,-53.479721,1542
+SNQU,Mucugê Airport,SNQU,,Mucugê,BR,-13.031200,-41.444099,3510
+SNQV,Curvelo Airport,SNQV,,Curvelo,BR,-18.749399,-44.457001,2205
+SNQW,Cururu Airport,SNQW,,Jacareacanga,BR,-7.564444,-57.742222,453
+SNQX,Quixadá Airport,SNQX,,Quixadá,BR,-4.979070,-38.987598,653
+SNQZ,Fazenda Bagagem Airport,SNQZ,,Aral Moreira,BR,-22.842777,-55.570557,1837
+SNRB,Fazenda Rosa de Maio Airport,SNRB,,Itaituba,BR,-4.315210,-56.107498,102
+SNRC,Ouro Verde Heliport,SNRC,,Curitiba,BR,-25.507778,-49.332222,3155
+SNRD,Prado Airport,SNRD,PDF,Prado,BR,-17.296700,-39.271198,66
+SNRE,Fazenda Rebeca Airport,SNRE,,Serra Dourada,BR,-12.682700,-43.871498,1575
+SNRG,Furnas Centrais Elétricas S/A Heliport,SNRG,,Rio De Janeiro,BR,-22.955278,-43.191113,262
+SNRH,Rachid Saliba Airport,SNRH,,Boa Esperança,BR,-21.039400,-45.872200,2625
+SNRI,Riviera de São Lourenço Heliport,SNRI,,Bertioga,BR,-23.797777,-46.055832,23
+SNRJ,Brejo Airport,SNRJ,,Brejo,BR,-3.666944,-42.833889,328
+SNRM,Remanso Airport,SNRM,,Remanso,BR,-9.650278,-42.117222,1381
+SNRN,Fazenda Vinte de Maio Airport,SNRN,,Getulina,BR,-21.808889,-49.971111,1509
+SNRO,Fazenda Salto de Bota Heliport,SNRO,,Brotas,BR,-22.313334,-48.018890,2372
+SNRQ,Porto Rico Airport,SNRQ,,Jacareacanga,BR,-6.104167,-57.379444,331
+SNRR,Fazenda Aratau Airport,SNRR,,Novo Repartimento,BR,-4.151310,-50.163300,604
+SNRS,Russas Airport,SNRS,,Russas,BR,-4.947270,-38.008202,115
+SNRT,Prata Airport,SNRT,,Prata,BR,-19.333099,-48.944698,2172
+SNRU,Caruaru Airport,SNRU,CAU,Caruaru,BR,-8.282390,-36.013500,1891
+SNRV,Fazenda Rio Vermelho Airport,SNRV,,Sapucaia,BR,-6.882778,-49.463890,450
+SNRW,Fazenda Barreiro Airport,SNRW,,Miracema Do Tocantins,BR,-9.907222,-48.634998,1033
+SNRY,Redpoint I Heliport,SNRY,,Belo Horizonte,BR,-19.972500,-43.934723,3812
+SNSA,Fazenda Bom Sucesso Airport,SNSA,,Vazante,BR,-17.608610,-46.703888,2454
+SNSB,São Bento Airport,SNSB,,São Bento,BR,-2.704444,-44.844723,230
+SNSD,São Luiz Airport,SNSD,,São Desidério,BR,-12.919444,-45.714443,2664
+SNSE,Sento Sé Airport,SNSE,,Sento Sé,BR,-9.741389,-41.841110,1306
+SNSF,Fazenda Entre Rios Airport,SNSF,,Porto Murtinho,BR,-21.365000,-57.109165,1050
+SNSG,Salgueiro Airport,SNSG,,Salgueiro,BR,-8.047160,-39.136398,1539
+SNSI,Santa Maria do Suaçuí Airport,SNSI,,Santa Maria Do Suaçuí,BR,-18.198610,-42.466110,1575
+SNSJ,Fazenda Fogliatelli Airport,SNSJ,,Sapezal,BR,-13.529722,-58.573334,1723
+SNSK,Santa Rita Do Sapucai Airport,SNSK,,Santa Rita Do Sapucai,BR,-22.273300,-45.639400,2851
+SNSL,Fazenda Ipitinga Airport,SNSL,,Almeirim,BR,0.341111,-53.814701,1680
+SNSM,Salinópolis Airport,SNSM,,Salinópolis,BR,-0.695664,-47.334702,88
+SNSN,São Raimundo Nonato Airport,SNSN,,São Raimundo Nonato,BR,-9.030000,-42.680000,1247
+SNSO,Serro Airport,SNSO,,Serro,BR,-18.608500,-43.424099,2428
+SNSP,Moinho II Heliport,SNSP,,São Gonçalo Do Sapucaí,BR,-21.944721,-45.620277,2958
+SNSQ,Centro Empresarial Nações Unidas - Torre Norte Heliport,SNSQ,,São Paulo,BR,-23.610277,-46.696388,2900
+SNSR,Fazenda Santos Reis Airport,SNSR,,Guarda-Mor,BR,-17.547899,-46.978699,2165
+SNSS,Salinas Airport,SNSS,,Salinas,BR,-16.208300,-42.321999,2504
+SNST,Souto Soares Airport,SNST,,Souto Soares,BR,-12.097300,-41.640701,2753
+SNSU,Fazenda Pontão Airport,SNSU,,Xinguara,BR,-6.881111,-49.162224,495
+SNSV,Fazenda São Pedro Airport,SNSV,,Eldorado,BR,-23.661667,-54.077499,591
+SNSW,Soure Airport,SNSW,SFK,Soure,BR,-0.699431,-48.521000,43
+SNSX,Fazenda São Martinho Airport,SNSX,,Ilha Solteira,BR,-20.357222,-51.251110,1148
+SNSY,Fazenda São José Airport,SNSY,,Bonito,BR,-20.945000,-56.496113,1247
+SNSZ,Fazenda Itaguassu Airport,SNSZ,,Maracaju,BR,-21.355556,-55.619720,1401
+SNTA,Fazenda São Miguel Airport,SNTA,,Pompéia,BR,-21.868610,-50.116390,1444
+SNTB,Afogados da Ingazeira Airport,SNTB,,Afogados Da Ingazeira,BR,-7.723611,-37.618889,1844
+SNTC,Tambori Airport,SNTC,,Teresina,BR,-5.160000,-42.719723,66
+SNTD,Fazenda Mamoneira Airport,SNTD,,Natalândia,BR,-16.586201,-46.501099,1862
+SNTF,Teixeira de Freitas Airport,SNTF,TXF,Teixeira De Freitas,BR,-17.524500,-39.668499,344
+SNTG,Afrânio Airport,SNTG,,Afrânio,BR,-8.610556,-41.000278,1703
+SNTJ,Santa Teresa Airport,SNTJ,,Itaituba,BR,-4.291389,-56.087502,98
+SNTL,Tamboril Airport,SNTL,,Tamboril,BR,-4.857830,-40.374599,1116
+SNTM,Turmalina Airport,SNTM,,Turmalina,BR,-17.233889,-42.733891,2894
+SNTO,Juscelino Kubitscheck Airport,SNTO,TFL,Teófilo Otoni,BR,-17.892300,-41.513599,1572
+SNTP,Agropalma Airport,SNTP,,Tailândia,BR,-2.525278,-48.751945,66
+SNTR,Piritiba Airport,SNTR,,Piritiba,BR,-11.738100,-40.569500,1896
+SNTS,Patos Airport,SNTS,,Patos,BR,-7.038990,-37.251598,820
+SNTT,Tranquilo Restolin Airport,SNTT,,Felixlândia,BR,-18.758200,-45.107601,2009
+SNTU,Turiaçu Airport,SNTU,,Turiaçu,BR,-1.766944,-45.450558,33
+SNTV,Fazenda Veredão Airport,SNTV,,Taiobeiras,BR,-15.655300,-41.654099,2559
+SNTW,Senador Teotônio Vilela Airport,SNTW,,Teotônio Vilela,BR,-9.896944,-36.293056,443
+SNTX,Litorânea Airport,SNTX,,Cururupu,BR,-1.301944,-44.904999,26
+SNTY,Correntina Airport,SNTY,,Correntina,BR,-13.380556,-44.617222,2159
+SNTZ,Toa-toa Heliport,SNTZ,,Porto Seguro,BR,-16.407223,-39.044724,3
+SNUB,Ubá Airport,SNUB,,Ubá,BR,-21.121000,-42.881901,1115
+SNUC,Açu Airport,SNUC,,Açu,BR,-5.595050,-36.960899,394
+SNUD,Urbano Santos Airport,SNUD,,Urbano Santos,BR,-3.199722,-43.386391,197
+SNUF,Fazenda Treis Coringas Airport,SNUF,,Uberaba,BR,-19.524445,-47.852501,3264
+SNUG,Fazenda Eunice Airport,SNUG,,Vila Bela Da Santíssima Trindade,BR,-14.955556,-59.622780,787
+SNUH,Piumhi Airport,SNUH,,Piumhi,BR,-20.438601,-45.992802,2444
+SNUI,Araçuai Airport,SNUI,,Araçuai,BR,-16.852600,-42.045101,1181
+SNUJ,Santa Maria da Boa Vista Airport,SNUJ,,Santa Maria Da Boa Vista,BR,-8.781944,-39.872223,1253
+SNUK,Fazenda Lago Vermelho Airport,SNUK,,Buritizeiro,BR,-17.035278,-45.486389,1690
+SNUL,Fazenda Aurora III Airport,SNUL,,Ribas Do Rio Pardo,BR,-21.452499,-53.353333,1214
+SNUM,São José do Egito Airport,SNUM,,São José Do Egito,BR,-7.486944,-37.291111,2133
+SNUN,Unaí Airport,SNUN,,Unaí,BR,-16.356501,-46.927700,1998
+SNUP,Usina Porto Rico Airport,SNUP,,Campo Alegre,BR,-9.802778,-36.222500,404
+SNUQ,Pão de Açúcar Heliport,SNUQ,,São Paulo,BR,-23.571667,-46.657501,2651
+SNUS,Usina Delta I Airport,SNUS,,Delta,BR,-19.940832,-47.778332,2100
+SNUT,Utinga Airport,SNUT,,Utinga,BR,-12.105500,-41.074501,1988
+SNUU,Uauá Airport,SNUU,,Uauá,BR,-9.835000,-39.494446,1335
+SNUV,Fazenda Nova Aurora Airport,SNUV,,Anaurilândia,BR,-22.216944,-52.740276,951
+SNUW,Sertânia Airport,SNUW,,Sertânia,BR,-8.057500,-37.289444,1968
+SNUX,Fazenda Santo Antônio Airport,SNUX,,Ribas Do Rio Pardo,BR,-21.404722,-53.306946,1142
+SNUY,Buritis Airport,SNUY,,Buritis,BR,-15.631667,-46.428612,1870
+SNUZ,Usina Coruripe Airport,SNUZ,,Coruripe,BR,-10.093333,-36.187778,210
+SNVA,Fazenda Bela Vista Airport,SNVA,,Cumaru Do Norte,BR,-7.987500,-50.631668,1037
+SNVB,Valença Airport,SNVB,VAL,Valença,BR,-13.296500,-38.992401,21
+SNVC,Viçosa Airport,SNVC,,Viçosa,BR,-20.744722,-42.841946,2162
+SNVF,Banco Itaú Heliport,SNVF,,Rio De Janeiro,BR,-22.899445,-43.223610,207
+SNVH,Fazenda Santa Helena Airport,SNVH,,Cáceres,BR,-16.168612,-58.138332,492
+SNVI,Mélio Viana Airport,SNVI,QID,Três Corações,BR,-21.790600,-45.269199,3232
+SNVJ,Fazenda Salto Grande Airport,SNVJ,,Jauru,BR,-15.253333,-58.793331,1444
+SNVK,Fazenda Santa Terezinha Airport,SNVK,,Três Lagoas,BR,-20.501389,-52.368889,1214
+SNVL,Virgem da Lapa Airport,SNVL,,Virgem Da Lapa,BR,-16.773890,-42.387501,2477
+SNVM,Fazenda Guaivira Airport,SNVM,,Brasilândia,BR,-20.664444,-52.767223,1112
+SNVN,Fazenda Santa Clara Airport,SNVN,,Rubiácea,BR,-21.303333,-50.752220,1352
+SNVO,Fazenda Pontal Airport,SNVO,,Carneirinho,BR,-19.978056,-50.968334,1240
+SNVP,Fazenda Araçatuba Airport,SNVP,,Santa Fé,BR,-6.976944,-49.199444,541
+SNVQ,Fazenda Santa Mônica Airport,SNVQ,,Piraquê,BR,-6.523056,-48.265835,600
+SNVR,Aeroclube da Bahia Airport,SNVR,,Vera Cruz,BR,-13.024700,-38.665798,12
+SNVS,Breves Airport,SNVS,BVS,Breves,BR,-1.636530,-50.443600,98
+SNVT,Pires do Rio Heliport,SNVT,,São Caetano Do Sul,BR,-23.615278,-46.546665,2477
+SNVU,Fazenda Itatuba Airport,SNVU,,Cássia,BR,-20.430834,-46.860001,2395
+SNVV,Valente Airport,SNVV,,Valente,BR,-11.411111,-39.443333,1322
+SNVW,Fazenda São João do Guaporé Airport,SNVW,,Nova Lacerda,BR,-13.997778,-60.074165,574
+SNVX,Golden Air Heliport,SNVX,,São José,BR,-27.541668,-48.624168,63
+SNVY,Fazenda Ouro Verde Airport,SNVY,,Paranhos,BR,-23.976944,-55.365276,1299
+SNVZ,Várzea da Palma Airport,SNVZ,,Várzea Da Palma,BR,-17.645000,-44.710556,1719
+SNWA,Guaxuma Airport,SNWA,,Coruripe,BR,-9.980556,-36.231110,322
+SNWB,Fazenda São Lucas Airport,SNWB,,Mirandópolis,BR,-20.932222,-50.956944,1099
+SNWC,Camocim Airport,SNWC,CMC,Camocim,BR,-2.896180,-40.858002,16
+SNWD,Fazenda Guavirá Airport,SNWD,,Iguatemi,BR,-23.430279,-54.608334,1335
+SNWE,Fazenda Baia da Bugra Airport,SNWE,,Corumbá,BR,-20.278055,-57.233891,507
+SNWF,Fazenda Cachoeirinha Airport,SNWF,,Ponta Porã,BR,-22.438057,-55.231667,1476
+SNWG,Fazenda Iporã Airport,SNWG,,Itaquiraí,BR,-23.586945,-54.057777,1476
+SNWH,Fazenda São Mateus Airport,SNWH,,Querência Do Norte,BR,-22.966667,-53.543331,1050
+SNWI,Fazenda São João II Airport,SNWI,,Comodoro,BR,-14.068889,-60.009167,594
+SNWJ,Fazenda Rancho Alegre Airport,SNWJ,,Araputanga,BR,-15.208056,-58.624722,1345
+SNWK,Fazenda Santa Terezinha Airport,SNWK,,Pedra Preta,BR,-16.674444,-54.266388,722
+SNWL,Fazenda Ranchinho Airport,SNWL,,Aporé,BR,-18.833332,-51.791111,1788
+SNWM,Fazenda Bonito Airport,SNWM,,Ilha Solteira,BR,-20.382778,-51.195557,1181
+SNWN,Fazenda Aliança Airport,SNWN,,Pedra Preta,BR,-16.668056,-54.385834,942
+SNWO,Fazenda Vera Cruz Airport,SNWO,,Amambaí,BR,-23.017778,-54.624443,1001
+SNWP,Laginha Airport,SNWP,,União Dos Palmares,BR,-9.313889,-36.056389,262
+SNWR,Wilma Rabelo Airport,SNWR,,Senador José Porfírio,BR,-2.636590,-51.827000,201
+SNWS,Crateús Airport,SNWS,,Crateús,BR,-5.211350,-40.704201,1034
+SNWT,Kioma Heliport,SNWT,,Eusébio,BR,-3.875833,-38.431389,33
+SNWU,Fazenda Ponte Quinhá Airport,SNWU,,Aral Moreira,BR,-23.008612,-55.509724,1575
+SNWV,Viganó 3 Heliport,SNWV,,Esmeraldas,BR,-19.725555,-44.395279,2362
+SNWW,Paradise Golf Heliport,SNWW,,Mogi Das Cruzes,BR,-23.590555,-46.261944,2523
+SNWX,Newton Heliport,SNWX,,Limeira,BR,-22.538889,-47.419445,2001
+SNWZ,Uruba Airport,SNWZ,,Atalaia,BR,-9.485000,-35.958889,302
+SNXB,Caxambu Airport,SNXB,,Caxambu,BR,-21.917000,-44.968201,2838
+SNXC,Viganó II Heliport,SNXC,,Betim,BR,-19.954166,-44.071945,3238
+SNXD,Fazenda Beradão Airport,SNXD,,Itaituba,BR,-6.272778,-55.785831,764
+SNXF,Retiro Santo Antônio da Fazenda Triunfo Airport,SNXF,,Corumbá,BR,-17.892500,-56.997501,394
+SNXG,Fazenda dos Castanhais Airport,SNXG,,Sapucaia,BR,-6.774870,-49.361301,745
+SNXH,Itapecuru Airport,SNXH,,Codó,BR,-4.513056,-44.020000,184
+SNXI,Estância Turística de Pereira Barreto Airport,SNXI,,Pereira Barreto,BR,-20.624722,-51.084999,1289
+SNXJ,Juscelino Plaza Heliport,SNXJ,,São Paulo,BR,-23.587221,-46.675278,2657
+SNXK,Fazenda Lagoa do Triunfo Airport,SNXK,,São Félix Do Xingu,BR,-6.536944,-52.769169,558
+SNXL,Primavera Airport,SNXL,,Querência,BR,-12.616667,-52.153889,1201
+SNXM,Fazenda Itumbiara Airport,SNXM,,Altamira,BR,-6.420278,-53.611389,886
+SNXN,Heringer Airport,SNXN,,Balsas,BR,-7.375278,-45.989723,1021
+SNXO,Fazenda Bom Sucesso Airport,SNXO,,Novo Progresso,BR,-7.893611,-56.387501,600
+SNXP,Residência Papaiz Heliport,SNXP,,São Paulo,BR,-23.589167,-46.704166,2615
+SNXQ,Xique-Xique Airport,SNXQ,,Xique-Xique,BR,-10.834100,-42.683399,1384
+SNXR,Fazenda Conforto Airport,SNXR,,Itaituba,BR,-7.393333,-56.523056,771
+SNXS,Fazenda São Braz Airport,SNXS,QXC,Barra De Santo Antonio,BR,-9.375278,-35.541668,164
+SNXU,Meridional Heliport,SNXU,,Cariacica,BR,-20.332222,-40.378334,144
+SNXV,Fazenda Lagoa das Conchas Airport,SNXV,,Colniza,BR,-9.087222,-61.186943,348
+SNXW,Chaves Airport,SNXW,,Chaves,BR,-0.200278,-49.967220,20
+SNXX,Maxaranguape Airport,SNXX,,Maxaranguape,BR,-5.384140,-35.528400,302
+SNXY,Cikel Brasil Verde Airport,SNXY,,Portel,BR,-2.700278,-50.528610,98
+SNYA,Almeirim Airport,SNYA,,Almeirim,BR,-1.491944,-52.578335,584
+SNYB,Ituiutaba Airport,SNYB,,Ituiutaba,BR,-18.999800,-49.486698,1985
+SNYC,Rosa Branca Airport,SNYC,,Itaituba,BR,-7.009167,-56.904446,552
+SNYD,Pilão Arcado Airport,SNYD,,Pilão Arcado,BR,-10.066944,-42.450558,1312
+SNYE,Pinheiro Airport,SNYE,PHI,Pinheiro,BR,-2.483611,-45.067223,125
+SNYF,Fazenda Parnaíba Airport,SNYF,,Tasso Fragoso,BR,-8.505556,-46.121944,1854
+SNYG,Naturágua Heliport,SNYG,,Fortaleza,BR,-3.831944,-38.473610,16
+SNYH,Agropecuária Castanhais Airport,SNYH,ITI,Cumaru Do Norte,BR,-8.700000,-51.174168,1096
+SNYI,Fazenda HJ Airport,SNYI,,Unaí,BR,-16.623611,-47.299721,3113
+SNYJ,Pista São Jorge Airport,SNYJ,,Jacareacanga,BR,-6.133611,-57.404167,810
+SNYK,Cumbuco Heliport,SNYK,,Caucaia,BR,-3.623333,-38.732224,3
+SNYL,Fazenda São João Airport,SNYL,,Varjão De Minas,BR,-18.426945,-46.051945,3300
+SNYM,Fazenda Flexas Airport,SNYM,,São Romão,BR,-16.376389,-45.123055,1594
+SNYN,Fazenda Rio das Pedras Airport,SNYN,,Prata,BR,-19.551666,-48.837502,2300
+SNYO,Fazenda Logradouro Vereda da Ponte Airport,SNYO,,Riachinho,BR,-16.299168,-46.159443,2848
+SNYP,Chácara Paraíso Airport,SNYP,,Benevides,BR,-1.317778,-48.298889,69
+SNYQ,Pista São Pedro Airport,SNYQ,,Itaituba,BR,-5.320556,-56.664722,459
+SNYR,Fazenda Água Azul Airport,SNYR,,Itaituba,BR,-5.947778,-56.554722,518
+SNYS,Destilaria WD Airport,SNYS,,João Pinheiro,BR,-18.220556,-45.991112,3199
+SNYT,Ituaçu Airport,SNYT,,Ituaçu,BR,-13.828300,-41.302299,1804
+SNYU,Iturama Airport,SNYU,,Iturama,BR,-19.717990,-50.220180,1558
+SNYV,Fazenda Socôco Airport,SNYV,,Moju,BR,-2.119722,-48.645832,102
+SNYW,Antônio Guerreiro Airport,SNYW,,Guimarães,BR,-2.109444,-44.651112,245
+SNYX,Sítio Vodó Airport,SNYX,,Cascavel,BR,-4.095000,-38.247501,249
+SNYY,Copra Heliport,SNYY,,Sumaré,BR,-22.812500,-47.207500,1926
+SNYZ,Vicente José Airport,SNYZ,,Russas,BR,-4.843056,-38.144444,115
+SNZA,Pouso Alegre Airport,SNZA,PPY,Pouso Alegre,BR,-22.289200,-45.919102,2904
+SNZC,Fazenda Águas Claras Airport,SNZC,,Iguatemi,BR,-23.325001,-54.504723,1220
+SNZD,Fazenda Dona Hilda Airport,SNZD,,Montividiu Do Norte,BR,-13.204167,-48.600834,1424
+SNZE,Aeroxingu Airport,SNZE,,Altamira,BR,-3.171944,-52.191666,369
+SNZF,Fazenda Bela Vista Airport,SNZF,,Soure,BR,-0.271389,-48.575001,66
+SNZH,Fazenda Pequena Holanda Airport,SNZH,,Alto Parnaíba,BR,-9.010000,-46.144722,2835
+SNZI,Helvétia Heliport,SNZI,,Indaiatuba,BR,-23.059444,-47.159721,2077
+SNZK,Fazenda Canadá Airport,SNZK,,Itacarambí,BR,-15.024300,-44.039101,1510
+SNZL,Fazenda Santa Thereza Airport,SNZL,,Novo Horizonte,BR,-21.571388,-49.300835,1401
+SNZM,JCPM Trade Center Heliport,SNZM,,Recife,BR,-8.089722,-34.881943,282
+SNZO,Fazenda Bebida Velha Airport,SNZO,,Touros,BR,-5.296944,-35.536667,131
+SNZP,Poções Airport,SNZP,,Poções,BR,-14.522600,-40.345001,2772
+SNZQ,Pista Santa Lúcia Airport,SNZQ,,Itaituba,BR,-7.228611,-56.232777,1968
+SNZR,Paracatu Airport,SNZR,,Paracatu,BR,-17.242599,-46.883099,2359
+SNZS,Birmann 31 Heliport,SNZS,,São Paulo,BR,-23.590000,-46.681946,2618
+SNZT,Fazenda Recreio Airport,SNZT,,Paragominas,BR,-3.506389,-48.333332,499
+SNZU,Fazenda Nova Conceição Airport,SNZU,,Tomé Açu,BR,-2.855556,-48.232777,243
+SNZV,Fazenda Jamaica Airport,SNZV,,Ulianópolis,BR,-3.725556,-47.476112,361
+SNZW,Ituberá Airport,SNZW,,Ituberá,BR,-13.732222,-39.141666,13
+SNZY,Fazenda Bandeira Airport,SNZY,,Tupã,BR,-22.000557,-50.597778,1450
+SNZZ,Muzzi Airport,SNZZ,,Coruripe,BR,-9.967778,-36.198891,331

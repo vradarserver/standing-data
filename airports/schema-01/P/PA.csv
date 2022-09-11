@@ -1,0 +1,291 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PA01,Merrys Pymatuning Airport,PA01,,Linesville,US,41.675098,-80.434502,1203
+PA02,Dillen Personal Airport,PA02,,Mc Kean,US,41.983398,-80.183098,1028
+PA03,Hospital of Univ. of Pa Heliport,PA03,,Philadelphia,US,39.945900,-75.194099,193
+PA04,Brookville Hospital Heliport,PA04,,Brookville,US,41.156502,-79.093102,1516
+PA05,Monesmith Airport,PA05,,Point Pleasant,US,40.441200,-75.074898,390
+PA07,Bilinski Airport,PA07,,Middleboro,US,42.014500,-80.120102,1080
+PA08,Jj & Pk Airport,PA08,,Greencastle,US,39.793400,-77.778099,542
+PA09,Hendrick Landing Area Heliport,PA09,,Carbondale,US,41.571499,-75.507401,1100
+PA10,Du Bois Regional Medical Center Heliport,PA10,,Du Bois,US,41.114799,-78.775299,1467
+PA11,The Gettysburg Hospital Heliport,PA11,,Gettysburg,US,39.824699,-77.235603,554
+PA12,Commonwealth Security Systems Heliport,PA12,,Lancaster,US,40.042301,-76.388298,385
+PA13,Superior Tours Heliport,PA13,,Lancaster,US,40.029301,-76.224403,320
+PA14,Battlefield Heliport,PA14,,Gettysburg,US,39.784801,-77.256699,560
+PA15,Couillard Seaplane Base,PA15,,Martins Creek,US,40.775002,-75.141403,210
+PA16,Shadyside Health Education & Research Corp Heliport,PA16,,Pittsburgh,US,40.455101,-79.940300,1037
+PA17,Canaan's Field,PA17,,Lawrenceville,US,42.003700,-77.099998,1600
+PA18,Buzzards Field,PA18,,Mill Hall,US,41.094200,-77.414398,760
+PA19,Strizki Ultralightport,PA19,,Elkdale,US,41.697300,-75.594902,1260
+PA20,Thermal G. Ranch Gliderport,PA20,,Erie,US,42.020599,-80.070602,1430
+PA21,West Middlesex Airport,PA21,,West Middlesex,US,41.165298,-80.502602,1100
+PA22,Hermitage Airport,PA22,,Sharon,US,41.201401,-80.422302,1100
+PA23,Kingsdale Air Park,PA23,,Littlestown,US,39.727001,-77.111900,595
+PA24,Latrobe Hospital Heliport,PA24,,Latrobe,US,40.320301,-79.393600,1039
+PA25,Cuatros Vientos Airport,PA25,,Quaker City,US,40.659302,-75.873802,500
+PA26,Wxkw Heliport,PA26,,Allentown,US,40.636200,-75.484596,385
+PA27,Butz Heliport,PA27,,Allentown,US,40.604301,-75.562103,454
+PA28,Westmoreland Hospital Heliport,PA28,,Greensburg,US,40.301201,-79.555298,1100
+PA29,Frick Hospital & Community Health Center Heliport,PA29,,Mount Pleasant,US,40.145302,-79.550598,1240
+PA30,East Penn Airport,PA30,,Andreas,US,40.766800,-75.774597,885
+PA31,Rover Airport,PA31,,Annville,US,40.283401,-76.539398,500
+PA32,Ashland Regional Medical Center Heliport,PA32,,Ashland,US,40.783401,-76.333000,1060
+PA33,Lars/Private Airport,PA33,,Athens,US,41.950100,-76.483002,1300
+PA34,T N Ward Heliport,PA34,,Bala Cynwyd,US,40.016800,-75.241302,150
+PA35,Bally Spring Farm Airport,PA35,,Bally,US,40.431999,-75.625999,660
+PA36,Stefanik Airport,PA36,,Bedminster,US,40.452900,-75.203796,520
+PA37,Sci-Mahanoy Heliport,PA37,,Mahanoy,US,40.820900,-76.162102,1500
+PA38,Beaver Run Heliport,PA38,,Quakertown,US,40.433399,-75.366302,510
+PA39,Beaver Springs Airport,PA39,,Benfer,US,40.776501,-77.216400,642
+PA40,Benton Airport,PA40,,Benton,US,41.200100,-76.387199,780
+PA41,Butler Memorial Hospital Heliport,PA41,,Butler,US,40.866699,-79.881401,1190
+PA42,Berwick Hospital Corporation Personal Use Heliport,PA42,,Berwick,US,41.070400,-76.231300,581
+PA43,Arnold Airport,PA43,,Birdsboro,US,40.266800,-75.883003,680
+PA44,Stone Castle Motel Airport,PA44,,Bloomsburg,US,40.973598,-76.518600,585
+PA45,Logue Airport,PA45,,Bodines,US,41.416698,-76.932999,1320
+PA46,"Horizon Hospital System, Greenville Heliport",PA46,,Greenville,US,41.411701,-80.372803,1047
+PA47,Cloudbound Airport,PA47,,Gettysburg,US,39.780800,-77.278702,600
+PA48,Holy Spirit Hospital Helipad,PA48,,Harrisburg,US,40.252270,-76.920639,426
+PA49,Mountain Bay Air Park Inc Airport,PA49,,Hawley,US,41.380100,-75.232399,1500
+PA50,Bloomsburg Hospital Heliport,PA50,,Bloomsburg,US,41.009499,-76.452400,660
+PA51,Bowtie Airport,PA51,,Biglerville,US,39.908501,-77.205200,560
+PA52,Oberlander Airport,PA52,,Union City,US,41.859333,-79.907167,1626
+PA53,Cosklos Elkview Airport,PA53,,Carbondale,US,41.626999,-75.528198,1710
+PA54,Kellachows Airport,PA54,,Carbondale,US,41.522301,-75.396004,1430
+PA55,Neiderer Airport,PA55,,Carlisle,US,40.216801,-77.116402,440
+PA56,Upmc Passavant Cranberry Heliport,PA56,,Cranberry,US,40.683998,-80.096497,1100
+PA57,Grove City Medical Ctr Heliport,PA57,,Grove City,US,41.171447,-80.084222,1255
+PA58,Rocktop Airport,PA58,,Chambersburg,US,39.974998,-77.557800,770
+PA59,Cast & Baker Heliport,PA59,,Canonsburg,US,40.244499,-80.181702,1246
+PA60,Chambersburg Hospital Heliport,PA60,,Chambersburg,US,39.939499,-77.648003,640
+PA61,Kunda Airport,PA61,,Collegeville,US,40.166801,-75.449600,252
+PA62,Temple University Heliport,PA62,,Philadelphia,US,40.004799,-75.149597,47
+PA63,Wpxi-Tv Evergreen Road Heliport,PA63,,Pittsburgh,US,40.495361,-80.010667,1106
+PA64,Cairnwood Heliport,PA64,,Huntington Valley,US,40.138199,-75.057404,260
+PA65,Hi-Vu Airport,PA65,,Coplay,US,40.700100,-75.549599,760
+PA66,Cumberland Valley Airstrip,PA66,,Greencastle,US,39.816799,-77.726097,550
+PA67,Allegheny Hospitals Canonsburg Heliport,PA67,,Canonsburg,US,40.247200,-80.191399,1169
+PA68,Bugs Airport,PA68,,Nazareth,US,40.714298,-75.304298,430
+PA69,Vogelsong Airport,PA69,,Dillsburg,US,40.128700,-76.969398,590
+PA70,Fetters Construction Airport,PA70,,Downingtown,US,40.091801,-75.710800,500
+PA71,Dwight's Delight Airport,PA71,,Dushore,US,41.520901,-76.462196,1717
+PA72,Circle W Airfield,PA72,,East Berlin,US,39.958698,-76.970802,460
+PA73,D.Evans Farm Airport,PA73,,East Prospect,US,39.979500,-76.536102,525
+PA74,Gusler Airport,PA74,,Elizabethville/Halifax,US,40.465401,-76.839996,700
+PA75,Baker Airport,PA75,,Elkland,US,41.965099,-77.315804,1800
+PA76,Rosenzweig Airport,PA76,,Wilkes Barre,US,41.137001,-75.861099,1930
+PA77,Erwinna Private Airport,PA77,,Erwinna,US,40.500099,-75.066299,350
+PA78,Tintinhull Airport,PA78,,Erwinna,US,40.500099,-75.082901,350
+PA79,Tinicum Farms Heliport,PA79,,Erwinna,US,40.529301,-75.099602,280
+PA80,St Luke's Hospital Heliport,PA80,,Fountain Hill,US,40.608398,-75.403198,470
+PA81,5 Lakes Airport,PA81,,Fayetteville,US,39.912800,-77.532799,819
+PA82,Grayce Farms Airport,PA82,,Fleetville,US,41.600101,-75.682999,1300
+PA83,Skyview Heliport,PA83,,Souderton,US,40.315701,-75.304604,530
+PA84,Level Acres Farm Airport,PA84,,Fordville,US,39.954300,-76.909401,523
+PA85,Drewniany-Springmeadow Airport,PA85,,Frederick,US,40.304798,-75.533501,330
+PA86,Krill Personal Use Airport,PA86,,Frystown,US,40.447601,-76.341103,520
+PA87,At&T Solid State Tech Center Heliport,PA87,,Breinigsville,US,40.546200,-75.662102,460
+PA88,Nemacolin Airport,PA88,,Farmington,US,39.805599,-79.548897,2010
+PA89,Ben's Landing Ultralightport,PA89,,East Berlin,US,39.959000,-77.049698,550
+PA90,Flat Rock Seaplane Base,PA90,,Gladwyne,US,40.056198,-75.266602,40
+PA91,Kane Community Hospital Heliport,PA91,,Kane,US,41.671902,-78.818100,2000
+PA92,Blue Mountain Academy (Private) Airport,PA92,,Hamburg,US,40.552898,-76.028801,531
+PA93,Cherokee Heliport,PA93,,Brick Church Village,US,40.685001,-79.456703,1175
+PA94,Sharon General Hospital Heliport,PA94,,Sharon,US,41.232601,-80.496498,980
+PA95,Turnpike Nr 1 Heliport,PA95,,Harrisburg,US,40.216801,-76.782997,348
+PA97,Warren General Hospital Heliport,PA97,,Warren,US,41.843899,-79.154800,1178
+PA98,Wnep-Tv Heliport,PA98,,Moosic,US,41.370098,-75.680702,1035
+PA99,Gnaden Huetten Memorial Hospital Heliport,PA99,,Lehighton,US,40.832001,-75.726898,600
+PAAK,Atka Airport,PAAK,AKB,Atka,US,52.220299,-174.205994,57
+PAAL,Port Moller Airport,PAAL,PML,Cold Bay,US,56.006001,-160.561005,20
+PAAM,Driftwood Bay Air Force Station Airport,PAAM,,Dutch Harbor,US,53.972950,-166.858459,24
+PAAN,Gold King Creek Airport,PAAN,,Fairbanks,US,64.198997,-147.927994,1720
+PAAQ,Palmer Municipal Airport,PAAQ,PAQ,Palmer,US,61.594898,-149.089005,242
+PAAT,Casco Cove Coast Guard Station,PAAT,ATU,Attu,US,52.828400,173.179993,40
+PABA,Barter Island LRRS Airport,PABA,BTI,Barter Island Lrrs,US,70.134003,-143.582001,2
+PABE,Bethel Airport,PABE,BET,Bethel,US,60.779800,-161.837997,126
+PABG,Beluga Airport,PABG,BVU,Beluga,US,61.172199,-151.044006,130
+PABI,Allen Army Airfield,PABI,BIG,Delta Junction Ft Greely,US,63.994499,-145.722000,1291
+PABL,Buckland Airport,PABL,BKC,Buckland,US,65.981598,-161.149002,31
+PABM,Big Mountain Airport,PABM,BMX,Big Mountain,US,59.361198,-155.259003,663
+PABP,Badami Airport,PABP,,Deadhorse,US,70.137497,-147.029999,26
+PABR,Wiley Post Will Rogers Memorial Airport,PABR,BRW,Barrow,US,71.285400,-156.766006,44
+PABT,Bettles Airport,PABT,BTT,Bettles,US,66.913902,-151.529007,647
+PABU,Bullen Point Air Force Station Airport,PABU,,Kaktovik,US,70.172798,-146.835999,18
+PABV,Birchwood Airport,PABV,,Birchwood,US,61.416500,-149.507004,83
+PACD,Cold Bay Airport,PACD,CDB,Cold Bay,US,55.206100,-162.725006,96
+PACE,Central Airport,PACE,CEM,Central,US,65.573799,-144.783005,937
+PACH,Chuathbaluk Airport,PACH,CHU,Chuathbaluk,US,61.579102,-159.216003,244
+PACI,Chalkyitsik Airport,PACI,CIK,Chalkyitsik,US,66.644997,-143.740005,544
+PACK,Chefornak Airport,PACK,,Chefornak,US,60.149200,-164.285995,40
+PACL,Clear Airport,PACL,,Clear,US,64.301201,-149.119995,552
+PACM,Scammon Bay Airport,PACM,SCM,Scammon Bay,US,61.845299,-165.570999,14
+PACR,Circle City /New/ Airport,PACR,IRC,Circle,US,65.830498,-144.076004,613
+PACS,Cape Sarichef Airport,PACS,,Cape Sarichef,US,54.582401,-164.914001,291
+PACV,Merle K (Mudhole) Smith Airport,PACV,CDV,Cordova,US,60.491798,-145.477997,54
+PACX,Coldfoot Airport,PACX,,Coldfoot,US,67.252197,-150.203995,1042
+PACY,Yakataga Airport,PACY,CYT,Yakataga,US,60.082001,-142.492996,12
+PACZ,Cape Romanzof Lrrs Airport,PACZ,CZF,Cape Romanzof,US,61.780300,-166.039002,464
+PADE,Deering Airport,PADE,DRG,Deering,US,66.069603,-162.766006,21
+PADG,Red Dog Airport,PADG,RDB,Red Dog,US,68.032097,-162.899002,969
+PADK,Adak Airport,PADK,ADK,Adak Island,US,51.877998,-176.645996,18
+PADL,Dillingham Airport,PADL,DLG,Dillingham,US,59.044701,-158.505005,81
+PADM,Marshall Don Hunter Sr Airport,PADM,,Marshall,US,61.864300,-162.026001,103
+PADQ,Kodiak Airport,PADQ,ADQ,Kodiak,US,57.750000,-152.494003,78
+PADU,Unalaska Airport,PADU,DUT,Unalaska,US,53.900101,-166.544006,22
+PADY,Kongiganak Airport,PADY,,Kongiganak,US,59.960800,-162.880997,30
+PAED,Elmendorf Air Force Base,PAED,EDF,Anchorage,US,61.250999,-149.807007,212
+PAEE,Eek Airport,PAEE,EEK,Eek,US,60.213673,-162.043884,12
+PAEG,Eagle Airport,PAEG,,Eagle,US,64.776398,-141.151001,908
+PAEH,Cape Newenham LRRS Airport,PAEH,EHM,Cape Newenham,US,58.646400,-162.063004,541
+PAEI,Eielson Air Force Base,PAEI,EIL,Fairbanks,US,64.665703,-147.102005,547
+PAEM,Emmonak Airport,PAEM,EMK,Emmonak,US,62.786098,-164.490997,13
+PAEN,Kenai Municipal Airport,PAEN,ENA,Kenai,US,60.573101,-151.244995,99
+PAEW,Newtok Airport,PAEW,,Newtok,US,60.939098,-164.641006,25
+PAFA,Fairbanks International Airport,PAFA,FAI,Fairbanks,US,64.815102,-147.856003,439
+PAFB,Ladd AAF Airfield,PAFB,FBK,Fairbanks/Ft Wainwright,US,64.837502,-147.613998,454
+PAFE,Kake Airport,PAFE,,Kake,US,56.961399,-133.910004,172
+PAFK,Farewell Lake Seaplane Base,PAFK,,Farewell Lake,US,62.542500,-153.623001,1052
+PAFL,Tin Creek Airport,PAFL,,Farewell Lake,US,62.531601,-153.610992,1151
+PAFM,Ambler Airport,PAFM,ABL,Ambler,US,67.106300,-157.856995,334
+PAFR,Bryant Army Heliport,PAFR,FRN,Fort Richardson(Anchorage),US,61.266399,-149.653000,378
+PAFS,Nikolai Airport,PAFS,,Nikolai,US,63.018600,-154.358002,441
+PAFV,Five Mile Airport,PAFV,,Five Mile,US,65.927002,-149.839996,510
+PAFW,Farewell Airport,PAFW,,Farewell,US,62.506599,-153.893997,1535
+PAGA,Edward G. Pitka Sr Airport,PAGA,GAL,Galena,US,64.736198,-156.936997,153
+PAGB,Galbraith Lake Airport,PAGB,GBH,Galbraith Lake,US,68.479698,-149.490005,2663
+PAGG,Kwigillingok Airport,PAGG,,Kwigillingok,US,59.876499,-163.169006,18
+PAGH,Shungnak Airport,PAGH,,Shungnak,US,66.888100,-157.162003,197
+PAGK,Gulkana Airport,PAGK,GKN,Gulkana,US,62.154900,-145.457001,1586
+PAGL,Golovin Airport,PAGL,GLV,Golovin,US,64.550499,-163.007004,59
+PAGM,Gambell Airport,PAGM,GAM,Gambell,US,63.766800,-171.733002,27
+PAGQ,Big Lake Airport,PAGQ,,Big Lake,US,61.536098,-149.813995,158
+PAGS,Gustavus Airport,PAGS,GST,Gustavus,US,58.425301,-135.707001,35
+PAGT,Nightmute Airport,PAGT,,Nightmute,US,60.471001,-164.701004,4
+PAGY,Skagway Airport,PAGY,SGY,Skagway,US,59.460098,-135.315994,44
+PAHC,Holy Cross Airport,PAHC,HCR,Holy Cross,US,62.188301,-159.774994,70
+PAHL,Huslia Airport,PAHL,,Huslia,US,65.697899,-156.350998,220
+PAHN,Haines Airport,PAHN,HNS,Haines,US,59.243801,-135.524002,15
+PAHO,Homer Airport,PAHO,HOM,Homer,US,59.645599,-151.477005,84
+PAHP,Hooper Bay Airport,PAHP,HPB,Hooper Bay,US,61.523899,-166.147003,13
+PAHU,Hughes Airport,PAHU,,Hughes,US,66.041100,-154.263001,299
+PAHV,Healy River Airport,PAHV,,Healy,US,63.866199,-148.968994,1263
+PAHX,Shageluk Airport,PAHX,SHX,Shageluk,US,62.692299,-159.569000,79
+PAIG,Igiugig Airport,PAIG,IGG,Igiugig,US,59.324001,-155.901993,90
+PAII,Egegik Airport,PAII,EGX,Egegik,US,58.185501,-157.375000,92
+PAIK,Bob Baker Memorial Airport,PAIK,IAN,Kiana,US,66.975998,-160.436996,166
+PAIL,Iliamna Airport,PAIL,ILI,Iliamna,US,59.754398,-154.910996,192
+PAIM,Indian Mountain Lrrs Airport,PAIM,UTO,Utopia Creek,US,65.992798,-153.703995,1273
+PAIN,Mc Kinley National Park Airport,PAIN,,Mckinley Park,US,63.732601,-148.910995,1720
+PAIW,Wales Airport,PAIW,WAA,Wales,US,65.622597,-168.095001,22
+PAJC,Chignik Airport,PAJC,,Chignik,US,56.311501,-158.373001,18
+PAJN,Juneau International Airport,PAJN,JNU,Juneau,US,58.355000,-134.576004,21
+PAJV,Jonesville Mine Airport,PAJV,,Sutton,US,61.731400,-148.927994,870
+PAJZ,Koliganek Airport,PAJZ,,Koliganek,US,59.726601,-157.259003,269
+PAKD,Kodiak Municipal Airport,PAKD,KDK,Kodiak,US,57.805901,-152.373993,139
+PAKF,False Pass Airport,PAKF,KFP,False Pass,US,54.847401,-163.410004,20
+PAKH,Akhiok Airport,PAKH,AKK,Akhiok,US,56.938702,-154.182999,44
+PAKI,Kipnuk Airport,PAKI,,Kipnuk,US,59.932999,-164.031006,11
+PAKK,Koyuk Alfred Adams Airport,PAKK,KKA,Koyuk,US,64.939499,-161.154007,154
+PAKL,Kulik Lake Airport,PAKL,,Kulik Lake,US,58.982101,-155.121002,717
+PAKN,King Salmon Airport,PAKN,AKN,King Salmon,US,58.676800,-156.649002,73
+PAKO,Nikolski Air Station,PAKO,IKO,Nikolski,US,52.941601,-168.848999,77
+PAKP,Anaktuvuk Pass Airport,PAKP,AKP,Anaktuvuk Pass,US,68.133598,-151.742996,2102
+PAKT,Ketchikan International Airport,PAKT,KTN,Ketchikan,US,55.355598,-131.714005,89
+PAKU,Ugnu-Kuparuk Airport,PAKU,UUK,Kuparuk,US,70.330803,-149.598007,67
+PAKV,Kaltag Airport,PAKV,KAL,Kaltag,US,64.319099,-158.740997,181
+PAKW,Klawock Airport,PAKW,AKW,Klawock,US,55.579201,-133.076004,80
+PAKY,Karluk Airport,PAKY,KYK,Karluk,US,57.567101,-154.449997,137
+PALB,Larsen Bay Airport,PALB,,Larsen Bay,US,57.535099,-153.977997,87
+PALG,Kalskag Airport,PALG,KLG,Kalskag,US,61.536301,-160.341003,55
+PALH,Lake Hood Seaplane Base,PALH,,Anchorage,US,61.180000,-149.972000,71
+PALP,Alpine Airstrip,PALP,DQH,Deadhorse,US,70.344299,-150.945007,18
+PALR,Chandalar Lake Airport,PALR,WCR,Chandalar Lake,US,67.504501,-148.483002,1920
+PALU,Cape Lisburne Lrrs Airport,PALU,LUR,Cape Lisburne,US,68.875099,-166.110001,16
+PAMB,Manokotak Airport,PAMB,KMO,Manokotak,US,58.990200,-159.050003,100
+PAMC,McGrath Airport,PAMC,MCG,McGrath,US,62.952900,-155.606003,341
+PAMD,Middleton Island Airport,PAMD,,Middleton Island,US,59.449902,-146.307007,100
+PAMH,Minchumina Airport,PAMH,,Minchumina,US,63.886002,-152.302002,678
+PAMK,St Michael Airport,PAMK,,St Michael,US,63.490101,-162.110001,98
+PAML,Manley Hot Springs Airport,PAML,MLY,Manley Hot Springs,US,64.997597,-150.643997,270
+PAMO,Mountain Village Airport,PAMO,MOU,Mountain Village,US,62.095402,-163.682007,337
+PAMR,Merrill Field,PAMR,MRI,Anchorage,US,61.213501,-149.843994,137
+PAMX,Mc Carthy Airport,PAMX,,Mccarthy,US,61.437099,-142.904007,1531
+PAMY,Mekoryuk Airport,PAMY,MYU,Mekoryuk,US,60.371399,-166.270996,48
+PANA,Napakiak Airport,PANA,WNA,Napakiak,US,60.690300,-161.979004,17
+PANC,Ted Stevens Anchorage International Airport,PANC,ANC,Anchorage,US,61.174400,-149.996002,152
+PANI,Aniak Airport,PANI,ANI,Aniak,US,61.581600,-159.542999,88
+PANN,Nenana Municipal Airport,PANN,ENN,Nenana,US,64.547302,-149.074005,362
+PANO,Nondalton Airport,PANO,,Nondalton,US,59.980202,-154.839005,314
+PANT,Annette Island Airport,PANT,ANN,Annette,US,55.042400,-131.572006,119
+PANU,Nulato Airport,PANU,,Nulato,US,64.729301,-158.074005,399
+PANV,Anvik Airport,PANV,ANV,Anvik,US,62.646702,-160.190994,291
+PANW,New Stuyahok Airport,PANW,KNW,New Stuyahok,US,59.449902,-157.328003,364
+PAOB,Kobuk Airport,PAOB,OBU,Kobuk,US,66.912300,-156.897003,137
+PAOC,Portage Creek Airport,PAOC,PCA,Portage Creek,US,58.906502,-157.714005,137
+PAOH,Hoonah Airport,PAOH,HNH,Hoonah,US,58.096100,-135.410004,19
+PAOM,Nome Airport,PAOM,OME,Nome,US,64.512199,-165.445007,37
+PAOO,Toksook Bay Airport,PAOO,OOK,Toksook Bay,US,60.541401,-165.087006,59
+PAOR,Northway Airport,PAOR,ORT,Northway,US,62.961300,-141.929001,1715
+PAOT,Ralph Wien Memorial Airport,PAOT,OTZ,Kotzebue,US,66.884697,-162.598999,14
+PAOU,Nelson Lagoon Airport,PAOU,,Nelson Lagoon,US,56.007500,-161.160004,14
+PAPB,St George Airport,PAPB,PBV,St George,US,56.578300,-169.662003,125
+PAPC,Port Clarence Coast Guard Station,PAPC,KPC,Port Clarence,US,65.253700,-166.858994,10
+PAPE,Perryville Airport,PAPE,,Perryville,US,55.905998,-159.162994,29
+PAPG,Petersburg James A Johnson Airport,PAPG,PSG,Petersburg,US,56.801701,-132.945007,111
+PAPH,Port Heiden Airport,PAPH,PTH,Port Heiden,US,56.959099,-158.632996,95
+PAPK,Napaskiak Airport,PAPK,PKA,Napaskiak,US,60.702900,-161.778000,24
+PAPM,Platinum Airport,PAPM,PTU,Platinum,US,59.011398,-161.820007,15
+PAPN,Pilot Point Airport,PAPN,PIP,Pilot Point,US,57.580399,-157.572006,57
+PAPO,Point Hope Airport,PAPO,PHO,Point Hope,US,68.348801,-166.798996,12
+PAPR,Prospect Creek Airport,PAPR,,Prospect Creek,US,66.814102,-150.643997,1095
+PAQH,Quinhagak Airport,PAQH,,Quinhagak,US,59.755100,-161.845001,42
+PAQT,Nuiqsut Airport,PAQT,NUI,Nuiqsut,US,70.209999,-151.005997,38
+PARC,Arctic Village Airport,PARC,ARC,Arctic Village,US,68.114700,-145.578995,2092
+PARS,Russian Mission Airport,PARS,,Russian Mission,US,61.778885,-161.319458,51
+PARY,Ruby Airport,PARY,RBY,Ruby,US,64.727203,-155.470001,658
+PASA,Savoonga Airport,PASA,SVA,Savoonga,US,63.686401,-170.492996,53
+PASC,Deadhorse Airport,PASC,SCC,Deadhorse,US,70.194702,-148.464996,65
+PASD,Sand Point Airport,PASD,SDP,Sand Point,US,55.314999,-160.522995,21
+PASH,Shishmaref Airport,PASH,SHH,Shishmaref,US,66.249603,-166.089005,12
+PASI,Sitka Rocky Gutierrez Airport,PASI,SIT,Sitka,US,57.047100,-135.362000,21
+PASK,Selawik Airport,PASK,WLK,Selawik,US,66.600098,-159.985992,17
+PASL,Sleetmute Airport,PASL,SQL,Sleetmute,US,61.700500,-157.166000,190
+PASM,St Mary's Airport,PASM,KSM,St Mary's,US,62.060501,-163.302002,312
+PASN,St Paul Island Airport,PASN,SNP,St Paul Island,US,57.167301,-170.220001,63
+PASO,Seldovia Airport,PASO,,Seldovia,US,59.442402,-151.703995,29
+PASP,Sheep Mountain Airport,PASP,SMU,Sheep Mountain,US,61.812000,-147.507004,2750
+PAST,Summit Airport,PAST,UMM,Summit,US,63.331501,-149.126999,2409
+PASV,Sparrevohn Lrrs Airport,PASV,SVW,Sparrevohn,US,61.097401,-155.574005,1585
+PASW,Skwentna Airport,PASW,SKW,Skwentna,US,61.965302,-151.190994,148
+PASX,Soldotna Airport,PASX,SXQ,Soldotna,US,60.475700,-151.033997,113
+PASY,Eareckson Air Station,PASY,SYA,Shemya,US,52.712299,174.113998,95
+PATA,Ralph M Calhoun Memorial Airport,PATA,TAL,Tanana,US,65.174400,-152.108994,236
+PATC,Tin City Long Range Radar Station Airport,PATC,TNC,Tin City,US,65.563103,-167.921997,271
+PATE,Teller Airport,PATE,,Teller,US,65.240402,-166.339005,294
+PATG,Togiak Airport,PATG,TOG,Togiak Village,US,59.052799,-160.397003,21
+PATJ,Tok Airport,PATJ,TKJ,Tok,US,63.303333,-143.001111,1670
+PATK,Talkeetna Airport,PATK,,Talkeetna,US,62.320499,-150.093994,358
+PATL,Tatalina LRRS Airport,PATL,TLJ,Takotna,US,62.894402,-155.977005,964
+PATQ,Atqasuk Edward Burnell Sr Memorial Airport,PATQ,ATK,Atqasuk,US,70.467300,-157.436005,96
+PATW,Cantwell Airport,PATW,,Cantwell,US,63.391201,-148.955994,2190
+PAUK,Alakanuk Airport,PAUK,AUK,Alakanuk,US,62.680042,-164.659927,10
+PAUM,Umiat Airport,PAUM,UMT,Umiat,US,69.371101,-152.136002,267
+PAUN,Unalakleet Airport,PAUN,UNK,Unalakleet,US,63.888401,-160.798996,27
+PAUO,Willow Airport,PAUO,WOW,Willow,US,61.754200,-150.052002,221
+PAVA,Chevak Airport,PAVA,VAK,Chevak,US,61.540900,-165.600500,75
+PAVC,King Cove Airport,PAVC,KVC,King Cove,US,55.116299,-162.266006,155
+PAVD,Valdez Pioneer Field,PAVD,VDZ,Valdez,US,61.133900,-146.248001,121
+PAVE,Venetie Airport,PAVE,VEE,Venetie,US,67.008698,-146.365997,574
+PAVL,Kivalina Airport,PAVL,KVL,Kivalina,US,67.736198,-164.563004,13
+PAWB,Beaver Airport,PAWB,WBQ,Beaver,US,66.362198,-147.406998,359
+PAWD,Seward Airport,PAWD,SWD,Seward,US,60.126900,-149.419006,22
+PAWG,Wrangell Airport,PAWG,WRG,Wrangell,US,56.484299,-132.369995,49
+PAWI,Wainwright Airport,PAWI,AIN,Wainwright,US,70.638000,-159.994995,41
+PAWM,White Mountain Airport,PAWM,WMO,White Mountain,US,64.689201,-163.412994,267
+PAWN,Noatak Airport,PAWN,WTK,Noatak,US,67.566101,-162.975006,88
+PAWR,Whittier Airport,PAWR,,Whittier,US,60.777199,-148.722000,30
+PAWS,Wasilla Airport,PAWS,WWA,Wasilla,US,61.571701,-149.539993,354
+PAWT,Wainwright Air Station,PAWT,,Wainwright,US,70.613403,-159.860001,35
+PAXK,Paxson Airport,PAXK,,Paxson,US,63.024601,-145.501007,2653
+PAYA,Yakutat Airport,PAYA,YAK,Yakutat,US,59.503300,-139.660004,33

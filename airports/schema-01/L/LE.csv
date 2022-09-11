@@ -1,0 +1,145 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LE83,Mojados Airport,LE83,,Mojados,ES,41.464699,-4.714270,2329
+LE84,Jayena Airport,LE84,,Jayena,ES,36.930698,-3.835380,3654
+LE85,Tablada Airport,LE85,,Sevilla,ES,37.351700,-6.014560,26
+LEAB,Albacete-Los Llanos Airport,LEAB,ABC,Albacete,ES,38.948502,-1.863520,2302
+LEAE,Alcolea Airport,LEAE,,Alcolea,ES,37.946098,-4.589440,463
+LEAL,Alicante International Airport,LEAL,ALC,Alicante,ES,38.282200,-0.558156,142
+LEAM,Almería International Airport,LEAM,LEI,Almería,ES,36.843899,-2.370100,70
+LEAP,Ampuriabrava Airport,LEAP,,Ampuriabraba,ES,42.259998,3.109722,2
+LEAS,Asturias Airport,LEAS,OVD,Ranón,ES,43.563599,-6.034620,416
+LEAT,Alfes Airport,LEAT,,Alfes,ES,41.549999,0.650000,705
+LEAX,La Axarquía-Leoni Benabu Airport,LEAX,,Málaga,ES,36.801666,-4.135556,118
+LEBA,Córdoba Airport,LEBA,ODB,Córdoba,ES,37.841999,-4.848880,297
+LEBB,Bilbao Airport,LEBB,BIO,Bilbao,ES,43.301102,-2.910610,138
+LEBE,Beas De Segura Airport,LEBE,,Jaén,ES,38.271111,-2.948889,1780
+LEBG,Burgos Airport,LEBG,RGS,Burgos,ES,42.357601,-3.620760,2945
+LEBI,Sa Sabina Heliport,LEBI,,Formentera Island,ES,38.716599,1.399960,44
+LEBL,Barcelona International Airport,LEBL,BCN,Barcelona,ES,41.297100,2.078460,12
+LEBP,BP Oil España Heliport,LEBP,,Castellón de La Plana,ES,39.957901,-0.011632,943
+LEBZ,Badajoz Airport,LEBZ,BJZ,Badajoz,ES,38.891300,-6.821330,609
+LECA,La Nava - Corral De Ayllón Airport,LECA,,Corral dev Ayllón,ES,41.410801,-3.448330,3280
+LECC,Cas Curredó Heliport,LECC,,Ibiza Island,ES,38.929100,1.466330,278
+LECD,La Cerdanya Airport,LECD,,Alp,ES,42.386398,1.866670,3586
+LECF,Calaf-Sallavinera Airport,LECF,,Sant Pere Sallavinera,ES,41.744202,1.556940,2355
+LECH,Castellón-Costa Azahar Airport,LECH,CDT,Castellón de la Plana,ES,40.213889,0.073333,1145
+LECI,Santa Cilia De Jaca Airport,LECI,,Huesca,ES,42.569199,-0.727778,2241
+LECJ,Castejón de los Monegros Airport,LECJ,,Huesca,ES,41.607800,-0.218327,1424
+LECN,Castellon Aerodrome,LECN,,Castellón de La Plana,ES,39.999199,0.026111,20
+LECO,A Coruña Airport,LECO,LCG,Culleredo,ES,43.302101,-8.377260,326
+LECT,El Castaño Airport,LECT,,Luciana,ES,39.010700,-4.386360,2116
+LECU,Cuatro Vientos Airport,LECU,ECV,Madrid,ES,40.370701,-3.785140,2269
+LECX,Campolara Airport,LECX,,Segovia,ES,40.903099,-4.520280,3353
+LEDA,Lleida-Alguaire Airport,LEDA,ILD,Lleida,ES,41.727778,0.535833,350
+LEDG,Dirección General de Tráfico Heliport,LEDG,,Madrid,ES,40.449299,-3.646131,2336
+LEDO,Hospital Doce de Octubre Heliport,LEDO,,Madrid,ES,40.374736,-3.699853,1970
+LEEL,El Musel Heliport,LEEL,,Gijón,ES,43.549732,-5.695446,1
+LEEM,El Manantío Airport,LEEM,,Badajoz,ES,38.777508,-6.991124,708
+LEEV,E. Castellanos-Villacastín Airport,LEEV,,Villacastin,ES,40.783901,-4.462780,3637
+LEEX,Expo 92 Heliport,LEEX,,Sevilla,ES,37.399300,-6.010675,30
+LEFM,Fuentemilanos Airport,LEFM,,Segovia,ES,40.888611,-4.237500,3307
+LEFR,Fira M2 Heliport,LEFR,,Barcelona,ES,41.353901,2.129170,34
+LEGA,Armilla Airport,LEGA,,Armilla,ES,37.133202,-3.635690,2297
+LEGC,Altarejos-Guadalcanal Airport,LEGC,,Sevilla,ES,38.171700,-5.739530,1928
+LEGD,Garidells Heliport,LEGD,,Tarragona,ES,41.213902,1.241560,434
+LEGE,Girona Airport,LEGE,GRO,Girona,ES,41.901001,2.760550,468
+LEGR,Federico Garcia Lorca Airport,LEGR,GRX,Granada,ES,37.188702,-3.777360,1860
+LEGT,Getafe Air Base,LEGT,,Getafe,ES,40.294102,-3.723830,2031
+LEGU,Guadalupe Airport,LEGU,,Guadalupe,ES,39.345699,-5.197350,1408
+LEGY,Garray Airport,LEGY,,Soria,ES,41.823101,-2.478610,3360
+LEHA,Hospital Alcorcón Heliport,LEHA,,Alcorcón,ES,40.349702,-3.838190,2269
+LEHB,Ciudad Sanitaria y Universitaria de Bellvitge Heliport,LEHB,,Barcelona,ES,41.345299,2.107290,35
+LEHC,Huesca/Pirineos Airport,LEHC,,Monflorite/Alcalá del Obispo,ES,42.076099,-0.316667,1768
+LEHE,Helicsa Heliport,LEHE,,Albacete,ES,39.071201,-1.834350,2226
+LEHI,Hinojosa del Duque Airport,LEHI,,Hinojosa del Duque,ES,38.500000,-5.117000,1772
+LEHJ,Hospital Universitario Joan XXIII Heliport,LEHJ,,Tarragona,ES,41.125599,1.238130,75
+LEHM,Hospital General De Manresa Heliport,LEHM,,Manresa,ES,41.720001,1.840560,962
+LEIB,Ibiza Airport,LEIB,IBZ,Ibiza,ES,38.872898,1.373120,24
+LEIG,Igualada/Odena Airport,LEIG,,Barcelona,ES,41.585602,1.653060,1148
+LEIU,Iurreta Heliport,LEIU,,Durango,ES,43.181900,-2.646390,422
+LEIZ,La Perdiz - Torre De Juan Abad Airport,LEIZ,,Torre de Juan Abad,ES,38.513100,-3.364330,2902
+LEJC,Hotel Rey Juan Carlos I Heliport,LEJC,,Barcelona,ES,41.382500,2.109170,287
+LEJO,Madrigalejo Del Monte Airport,LEJO,,Madrigalejo Del Monte,ES,42.134399,-3.731030,3030
+LEJR,Jerez Airport,LEJR,XRY,Jerez de la Forntera,ES,36.744598,-6.060110,93
+LEJT,Hospital Doctor Josep Trueta Heliport,LEJT,,Gerona,ES,41.997898,2.821400,215
+LEJU,La Juliana Airport,LEJU,,Sevilla,ES,37.294998,-6.162500,148
+LELA,La Calderera Airport,LELA,,Valdepeñas,ES,38.747898,-3.514560,2644
+LELC,San Javier Airport,LELC,MJV,San Javier,ES,37.775002,-0.812389,11
+LELH,Alhama De Murcia Airport,LELH,,Cánovas,ES,37.748901,-1.302160,669
+LELI,Linares Airport,LELI,,Linares,ES,38.090801,-3.706670,1033
+LELL,Sabadell Airport,LELL,QSA,Sabadell,ES,41.520901,2.105080,485
+LELM,Almansa Airport,LELM,,Albacete,ES,38.895000,-1.113180,2248
+LELN,Leon Airport,LELN,LEN,León,ES,42.589001,-5.655560,3006
+LELT,Lillo Airport,LELT,,Lillo,ES,39.716900,-3.320560,2272
+LEMD,Madrid Barajas International Airport,LEMD,MAD,Madrid,ES,40.493600,-3.566760,1998
+LEMF,Mafé - Gibraleón Airport,LEMF,HEV,Gibraleón,ES,37.364300,-6.920940,86
+LEMG,Málaga Airport,LEMG,AGP,Málaga,ES,36.674900,-4.499110,53
+LEMH,Menorca Airport,LEMH,MAH,Menorca Island,ES,39.862598,4.218650,302
+LEMI,Región de Murcia International Airport,LEMI,RMU,"Valladolises y Lo Jurado, Murcia",ES,37.790325,-1.141831,633
+LEMN,Heli Montsiá - Amposta Heliport,LEMN,,Tarragona,ES,40.666401,0.564722,254
+LEMO,Moron Air Base,LEMO,OZP,Morón,ES,37.174900,-5.615940,285
+LEMP,Los Martínez Del Puerto Airport,LEMP,,Murcia,ES,37.798901,-1.097500,534
+LEMR,La Morgal Airport,LEMR,,Oviedo,ES,43.429199,-5.830560,541
+LEMS,Manresa Airport,LEMS,,Manresa,ES,41.765301,1.861670,897
+LEMT,Casarrubios Del Monte Airport,LEMT,,Toledo,ES,40.235001,-4.026390,2050
+LEMU,Muchamiel Airport,LEMU,,Muchamiel,ES,38.440601,-0.475278,427
+LEMX,La Mancha-Toledo Airport,LEMX,,Toledo,ES,39.562099,-3.250750,2405
+LENA,Benabarre Airport,LENA,,Huesca,ES,42.022800,0.482222,2450
+LENB,Cala'n Blanes Heliport,LENB,,Menorca Island,ES,39.997501,3.813330,27
+LENH,Nou Hospital De Mataró Heliport,LENH,,Mataró,ES,41.560799,2.429720,638
+LENM,Hospital Can Misses Heliport,LENM,,Ibiza Island,ES,38.917500,1.419440,91
+LEOC,Ocaña Airport,LEOC,,Toledo,ES,39.937500,-3.503330,2405
+LEOR,Parque De Bomberos De Orriols Heliport,LEOR,,Orriols,ES,42.132198,2.903890,530
+LEOT,Ontur Airport,LEOT,,Ontur,ES,38.616901,-1.525000,2200
+LEPA,Palma De Mallorca Airport,LEPA,PMI,Palma De Mallorca,ES,39.551701,2.738810,27
+LEPB,Autoridad Portuaria de Barcelona Heliport,LEPB,,Barcelona,ES,41.364300,2.183010,29
+LEPI,Casas de los Pinos Airport,LEPI,,Cuenca,ES,39.298199,-2.378720,2370
+LEPP,Pamplona Airport,LEPP,PNA,Pamplona,ES,42.770000,-1.646330,1504
+LEPR,Palma Del Río Airport,LEPR,,Palma del Rio,ES,37.715302,-5.213560,408
+LEPS,Mas Passamaner Heliport,LEPS,,Reus,ES,41.185902,1.159920,480
+LEPV,Costa Norte-Puerto de Viveiro-Celeiro Heliport,LEPV,,Vivero,ES,43.674801,-7.595230,13
+LEPY,El Portinyol Heliport,LEPY,,Barcelona,ES,41.583500,2.560790,200
+LEPZ,Los Pozuelos De Calatrava Airport,LEPZ,,Los Pozuelos De Calatrava,ES,38.912201,-4.191110,1850
+LERA,R.A.C.C. Heliport,LERA,,Barcelona,ES,41.383301,2.108330,300
+LERE,Requena Airport,LERE,,Requena,ES,39.474701,-1.034440,2330
+LERG,Berga Heliport,LERG,,Berga,ES,42.105598,1.853330,2300
+LERI,Alcantarilla Airport,LERI,,Alcantarilla,ES,37.951099,-1.230320,250
+LERJ,Logroño-Agoncillo Airport,LERJ,RJL,Logroño,ES,42.460953,-2.322235,1161
+LERM,Robledillo De Mohernando Airport,LERM,,Robledillo De Mohernando,ES,40.865299,-3.247780,3097
+LERO,Rozas Airport,LERO,,Lugo,ES,43.116901,-7.470280,1444
+LERS,Reus Air Base,LERS,REU,Reus,ES,41.147400,1.167170,233
+LERT,Rota Naval Station Airport,LERT,ROZ,Rota,ES,36.645199,-6.349460,86
+LESA,Salamanca Airport,LESA,SLM,Salamanca,ES,40.952099,-5.501990,2595
+LESB,Son Bonet Airport,LESB,,Mallorca Island,ES,39.598900,2.702780,157
+LESE,San Enrique Airport,LESE,,Almodóvar del Campo,ES,38.730801,-4.313060,2263
+LESG,Sangüesa Airport,LESG,,Sangüesa,ES,42.565601,-1.284720,1297
+LESL,San Luis Airport,LESL,,Menorca Island,ES,39.862202,4.258330,197
+LESO,San Sebastian Airport,LESO,EAS,Hondarribia,ES,43.356499,-1.790610,16
+LESP,Hospital San Pau Heliport,LESP,,Barcelona,ES,41.413502,2.171960,265
+LESS,Sotos Airport,LESS,,Sotos,ES,40.204201,-2.143890,3170
+LEST,Santiago de Compostela Airport,LEST,SCQ,Santiago de Compostela,ES,42.896301,-8.415140,1213
+LESU,Aeròdrom dels Pirineus-Alt Urgell Airport,LESU,LEU,Montferrer / Castellbò,ES,42.338600,1.409170,2625
+LETA,Servei Generals Del Circuit De Catalunya Heliport,LETA,,Barcelona,ES,41.574001,2.257160,470
+LETC,Matilla De Los Caños Airport,LETC,,Valladolid,ES,41.530602,-4.925000,2300
+LETE,Morante Airport,LETE,,Badajoz,ES,39.036900,-6.690560,703
+LETF,Tomás Fernández Espada Airport,LETF,,Villamartin,ES,36.871793,-5.648775,470
+LETI,El Tietar Airport,LETI,,La Iglesuela,ES,40.243900,-4.794440,1401
+LETL,Teruel Airport,LETL,TEV,Teruel,ES,40.411944,-1.217500,3366
+LETO,Torrejón Airport,LETO,TOJ,Madrid,ES,40.496700,-3.445870,2026
+LETP,Santo Tome Del Puerto Airport,LETP,,Segovia,ES,41.204201,-3.594720,3638
+LETR,Tremp Heliport,LETR,,Tremp,ES,42.169399,0.892778,1930
+LETS,Torre Picasso Heliport,LETS,,Madrid,ES,40.449829,-3.693144,2340
+LETV,Tirviá Heliport,LETV,,Tirvia,ES,42.518799,1.242310,3150
+LETZ,Torozos Airport,LETZ,,Valladolid,ES,41.785301,-4.864730,2784
+LEUL,Ullastrell-Teresa Vilá Heliport,LEUL,,Ullastrell,ES,41.524300,1.971580,450
+LEVB,El Carrascal Airport,LEVB,,Valladolid,ES,41.824699,-4.893060,2788
+LEVC,Valencia Airport,LEVC,VLC,Valencia,ES,39.489300,-0.481625,240
+LEVD,Valladolid Airport,LEVD,VLL,Valladolid,ES,41.706100,-4.851940,2776
+LEVF,Villaframil Airport,LEVF,,Lugo,ES,43.552502,-7.087780,80
+LEVH,Vielha Heliport,LEVH,,Vielha,ES,42.704399,0.796946,3200
+LEVI,Viso del Marqués Airport,LEVI,,Viso del Marqués,ES,38.505600,-3.426150,2672
+LEVT,Vitoria/Foronda Airport,LEVT,VIT,Alava,ES,42.882801,-2.724470,1682
+LEVX,Vigo Airport,LEVX,VGO,Vigo,ES,42.231800,-8.626770,856
+LEXJ,Santander Airport,LEXJ,SDR,Santander,ES,43.427101,-3.820010,16
+LEZG,Zaragoza Air Base,LEZG,ZAZ,Zaragoza,ES,41.666199,-1.041550,863
+LEZL,Sevilla Airport,LEZL,SVQ,Sevilla,ES,37.417999,-5.893110,112

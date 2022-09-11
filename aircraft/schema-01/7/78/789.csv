@@ -1,0 +1,10 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+789002,B-4661,CRJ7,Bombardier,Challenger 870,Bombardier Challenger 870,0,China Naval Air Force,,10335,2013
+789243,B-LQC,A359,Airbus,A350-941,Airbus A350-941,0,Cathay Pacific,CPA,393,2021
+78924A,B-HPE,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10171,2021
+78924C,B-HPG,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10191,2021
+78924D,B-HPH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10199,2021
+789253,B-LCV,A20N,Airbus,A320-271N,Airbus A320-271N,0,Hong Kong Express Airways,HKE,10414,2021
+789254,B-KJA,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42277,2017
+789260,B-KJB,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42279,2017
+789263,B-HPI,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10853,2022

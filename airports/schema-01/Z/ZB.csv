@@ -1,0 +1,36 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ZBAA,Beijing Capital International Airport,ZBAA,PEK,Beijing,CN,40.080101,116.584999,116
+ZBAD,Beijing Daxing International Airport,ZBAD,PKX,Beijing,CN,39.509167,116.410556,98
+ZBCD,Chengde Puning Airport,ZBCD,CDE,Chengde,CN,41.122500,118.073889,2293
+ZBCF,Chifeng Airport,ZBCF,CIF,Chifeng,CN,42.235000,118.908000,0
+ZBCZ,Changzhi Airport,ZBCZ,CIH,Changzhi,CN,36.247500,113.126000,0
+ZBDH,Qinhuangdao Beidaihe Airport,ZBDH,BPE,Qinhuangdao,CN,39.666389,119.058889,46
+ZBDS,Ordos Ejin Horo Airport,ZBDS,DSN,Ordos,CN,39.490000,109.861389,4557
+ZBDT,Datong Airport,ZBDT,DAT,Datong,CN,40.060299,113.482002,3442
+ZBER,Erenhot Saiwusu International Airport,ZBER,ERL,"Erenhot,",CN,43.422500,112.096667,3301
+ZBES,Arxan Yi'ershi Airport,ZBES,YIE,Yi'ershi,CN,47.310556,119.911944,2925
+ZBHD,Handan Airport,ZBHD,HDG,Handan,CN,36.525833,114.425556,229
+ZBHH,Baita International Airport,ZBHH,HET,Hohhot,CN,40.851398,111.823997,3556
+ZBL,Biloela Airport,,ZBL,Biloela,AU,-24.400000,150.516660,0
+ZBLA,Dongshan Airport,ZBLA,HLD,Hailar,CN,49.205002,119.824997,2169
+ZBLF,Linfen Qiaoli Airport,ZBLF,LFQ,Linfen,CN,36.131667,111.658056,1483
+ZBLL,Lüliang Airport,ZBLL,LLV,Lüliang,CN,37.683333,111.142778,3826
+ZBMZ,Manzhouli Xijiao Airport,ZBMZ,NZH,Manzhouli,CN,49.566667,117.330000,0
+ZBNY,Beijing Nanyuan Airport,ZBNY,NAY,Beijing,CN,39.782799,116.388001,0
+ZBOW,Baotou Airport,ZBOW,BAV,Baotou,CN,40.560001,109.997002,3321
+ZBSH,Shanhaiguan Airport,ZBSH,SHP,Qinhuangdao,CN,39.968102,119.731003,30
+ZBSJ,Shijiazhuang Daguocun International Airport,ZBSJ,SJW,Shijiazhuang,CN,38.280701,114.696999,233
+ZBTJ,Tianjin Binhai International Airport,ZBTJ,TSN,Tianjin,CN,39.124401,117.346001,10
+ZBTL,Tongliao Airport,ZBTL,TGO,Tongliao,CN,43.556700,122.200000,0
+ZBTS,Tangshan Sannühe Airport,ZBTS,TVS,"Tangshan,Hebei Province",CN,39.717778,118.003333,40
+ZBUC,Ulanqab Jining Airport,ZBUC,UCB,Ulanqab,CN,41.129722,113.108056,4622
+ZBUH,Wuhai Airport,ZBUH,WUA,Wuhai,CN,39.793400,106.799300,3650
+ZBUL,Ulanhot Airport,ZBUL,HLH,Ulanhot,CN,46.133333,122.800000,0
+ZBXH,Xilinhot Airport,ZBXH,XIL,Xilinhot,CN,43.915600,115.964000,0
+ZBXT,Xingtai Dalian Airport,ZBXT,XNT,Xingtai,CN,36.883100,114.429300,280
+ZBXZ,Xinzhou Wutaishan Airport,ZBXZ,WUT,Dingxiang County,CN,38.599167,112.967778,2527
+ZBYC,Yuncheng Guangong Airport,ZBYC,YCU,Yuncheng,CN,35.116391,111.031389,1242
+ZBYN,Taiyuan Wusu Airport,ZBYN,TYN,Taiyuan,CN,37.746899,112.627998,2575
+ZBYZ,Bayannur Airport,ZBYZ,RLK,Bayannur,CN,40.926389,107.738889,3399
+ZBZJ,Zhangjiakou Ningyuan Airport,ZBZJ,ZQZ,"Zhangjiakou, Hebei Province",CN,40.738611,114.930278,2348
+ZBZL,Zhalantun Chengjisihan Airport,ZBZL,NZL,"Zhalantun, Hulunbuir, Inner Mongolia",CN,47.865833,122.767500,935

@@ -1,0 +1,33 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LD57,Sepurine Training Base,LD57,,Zaton,HR,44.209999,15.163200,60
+LDDP,Ploce Airport,LDDP,,Ploce,HR,43.038700,17.429600,7
+LDDU,Dubrovnik Airport,LDDU,DBV,Dubrovnik,HR,42.561401,18.268200,527
+LDLO,Lošinj Island Airport,LDLO,LSZ,Lošinj,HR,44.565800,14.393100,151
+LDOB,Vukovar Borovo N Airport,LDOB,,Vukovar,HR,45.386398,18.962799,289
+LDOC,Čepin Airport,LDOC,,Čepin,HR,45.542198,18.636200,299
+LDOR,Slavonski Jelas Airport,LDOR,,Slavonski,HR,45.156101,17.988100,276
+LDOS,Osijek Airport,LDOS,OSI,Osijek,HR,45.462700,18.810200,290
+LDOV,Vinkovci Sopot Airport,LDOV,,Vinkovci,HR,45.251099,18.759199,266
+LDPL,Pula Airport,LDPL,PUY,Pula,HR,44.893501,13.922200,274
+LDPM,Medulin Campanoz Airport,LDPM,,Medulin,HR,44.843300,13.904200,171
+LDPN,Unije Airport,LDPN,,Unije Island,HR,44.628300,14.241100,39
+LDPV,Vrsar Crljenka Airport,LDPV,,Vrsar,HR,45.141701,13.630600,121
+LDRG,Grobnicko Polje Airport,LDRG,,Grobnicko,HR,45.379501,14.503800,951
+LDRI,Rijeka Airport,LDRI,RJK,Rijeka,HR,45.216900,14.570300,278
+LDRO,Otočac Airport,LDRO,,Otočac,HR,44.847775,15.286617,1539
+LDSB,Bol Airport,LDSB,BWK,Brač Island,HR,43.285702,16.679701,1776
+LDSF,Firule Heliport,LDSF,,Split,HR,43.502930,16.462219,77
+LDSH,Hvar Private Airport,LDSH,,Hvar Island,HR,43.181702,16.633301,92
+LDSP,Split Airport,LDSP,SPU,Split,HR,43.538898,16.298000,79
+LDSS,Sinj Glider Airport,LDSS,,Sinj,HR,43.700298,16.671400,981
+LDVA,Varaždin Airport,LDVA,,Varaždin,HR,46.294647,16.382933,548
+LDVC,Čakovec Pribisla Airport,LDVC,,Čakovec,HR,46.391899,16.500299,512
+LDVD,Daruvar Blagorod Airport,LDVD,,Daruvar,HR,45.559399,17.033100,410
+LDVK,Koprivnica Danic Airport,LDVK,,Koprivnica,HR,46.213100,16.837200,440
+LDZA,Zagreb Airport,LDZA,ZAG,Zagreb,HR,45.742901,16.068800,353
+LDZB,Buševec Velika Glider Airport,LDZB,,Busevec,HR,45.647499,16.124399,341
+LDZC,Čazma Grabovnica Airport,LDZC,,Čazma,HR,45.749699,16.663601,479
+LDZD,Zemunik Airport,LDZD,ZAD,Zadar,HR,44.108299,15.346700,289
+LDZJ,Bjelovar Brezova Airport,LDZJ,,Bjelovar,HR,45.860802,16.835800,430
+LDZL,Lučko Airport,LDZL,,Zagreb,HR,45.766899,15.848600,400
+LDZU,Udbina Air Base,LDZU,,Udbina,HR,44.557598,15.774400,2462

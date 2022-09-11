@@ -1,0 +1,99 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+IA00,Jukam's Landing Airport,IA00,,Menlo,US,41.520000,-94.362701,1230
+IA01,Ridge Airport,IA01,,Oakland,US,41.351398,-95.466400,1300
+IA02,Hoff Airport,IA02,,Bellevue,US,42.262001,-90.580101,1025
+IA03,Lemons Airport,IA03,,Cedar Falls,US,42.522202,-92.494598,970
+IA04,Winneshiek Medical Center Heliport,IA04,,Decorah,US,43.294102,-91.774498,892
+IA05,Rathbun Lake Airport,IA05,,Centerville,US,40.851700,-92.858498,1200
+IA06,Sig-Nor Airport,IA06,,Sigourney,US,41.383301,-92.183502,818
+IA07,Grismore Airport,IA07,,Corydon,US,40.766701,-93.300201,1100
+IA08,Riedesel Private Airport,IA08,,Lohrville,US,42.278099,-94.551697,1150
+IA09,Grinnell Regional Medical Center Heliport,IA09,,Grinnell,US,41.725800,-92.703499,18
+IA10,Mercy Health Center Heliport,IA10,,Dubuque,US,42.491699,-90.672897,1050
+IA11,Too Short Airport,IA11,,Indianola,US,41.293900,-93.665497,980
+IA12,Lloyd's Field,IA12,,Clear Lake,US,43.097198,-93.402199,1220
+IA13,Cherokee Regional Medical Center Heliport,IA13,,Cherokee,US,42.085300,-95.570000,900
+IA14,Walters Heliport,IA14,,Guttenberg,US,42.805801,-91.118202,1050
+IA15,Hawk Field,IA15,,Hawkeye,US,42.886902,-91.936096,1115
+IA16,Picayune Airport,IA16,,Iowa City,US,41.708302,-91.500198,800
+IA17,Bluebird Airport,IA17,,Janesville,US,42.623001,-92.501297,924
+IA18,Poyner Airport,IA18,,Jesup,US,42.470798,-92.088501,960
+IA19,Lucas County Health Center Heliport,IA19,,Chariton,US,41.027500,-93.302399,1049
+IA21,Schurr Airport,IA21,,Leclaire,US,41.599998,-90.383499,720
+IA22,Orr-Port Airport,IA22,,New London,US,40.938400,-91.403503,790
+IA23,Gaa Private Airport,IA23,,Guttenberg,US,42.808899,-91.098198,620
+IA24,Green Castle Airport,IA24,,Oxford,US,41.755001,-91.727699,750
+IA25,Bartlett Field,IA25,,Solon,US,41.800598,-91.439903,820
+IA26,Carter Field,IA26,,Stockport,US,40.808399,-91.808502,750
+IA27,Antique Airfield,IA27,,Blakesburg,US,40.977798,-92.587700,890
+IA28,Sherman Airport,IA28,,Hiawatha,US,42.058300,-91.690201,860
+IA29,Allen Memorial Hospital Heliport,IA29,,Waterloo,US,42.526901,-92.339600,899
+IA30,Kleis Airport,IA30,,Zwingle,US,42.299999,-90.750099,1050
+IA31,Beeds Lake Airport,IA31,,Hampton,US,42.766602,-93.246002,1148
+IA32,Pierson Field,IA32,,Oskaloosa,US,41.325001,-92.717102,845
+IA33,Dad's Field,IA33,,Rockwell,US,43.011902,-93.242401,1200
+IA34,Mahaska County Hospital Heliport,IA34,,Oskaloosa,US,41.300499,-93.629898,800
+IA35,Ruckl Airport,IA35,,Council Bluffs,US,41.187199,-95.904198,970
+IA36,Mercer Field,IA36,,Creston,US,41.075001,-94.426903,1320
+IA37,Horn Memorial Hospital Heliport,IA37,,Ida Grove,US,42.338902,-95.459999,1325
+IA38,De Louis Field,IA38,,Des Moines,US,41.548100,-93.429199,1250
+IA39,Anamosa Community Hospital Heliport,IA39,,Anamosa,US,42.112801,-91.288200,880
+IA40,Osceola Community Hospital Heliport,IA40,,Sibley,US,43.410000,-95.742500,1537
+IA41,Laverty Field,IA41,,Indianola,US,41.415298,-93.561302,950
+IA42,Sielaff Helo Pad Heliport,IA42,,Iowa Falls,US,42.472198,-93.304398,1040
+IA43,Strawberry Point Medical Center Heliport,IA43,,Strawberry Point,US,42.691898,-91.533203,1100
+IA44,Solly's Strip Ultralightport,IA44,,Lamoni,US,40.651402,-93.960800,1150
+IA45,Willie's Bomber Patch Airport,IA45,,Marcus,US,42.775002,-95.846100,1446
+IA46,Wayne County Hospital Heliport,IA46,,Corydon,US,40.757801,-93.318497,1093
+IA47,Day Field,IA47,,Grimes,US,41.640202,-93.808800,980
+IA48,Kern Field,IA48,,Polk City,US,41.741699,-93.725197,900
+IA49,Jirak Airport,IA49,,Fort Atkinson,US,43.145000,-92.053497,1180
+IA50,Sigourney Iowa Airport,IA50,,Sigourney,US,41.290798,-92.188004,697
+IA51,De Soto Airport,IA51,,De Soto,US,41.541698,-94.008598,1000
+IA52,Freedom Field,IA52,,Estherville,US,43.443001,-94.848000,1350
+IA54,Anderson Airport,IA54,,Dubuque,US,42.502201,-90.843201,1135
+IA55,Myrtue Memorial Hospital Heliport,IA55,,Harlan,US,41.649200,-95.324203,1231
+IA56,Farrar Airport,IA56,,Farrar,US,41.780499,-93.379402,916
+IA57,Mercy Hospital Heliport,IA57,,Oelwein,US,42.673901,-91.901802,1119
+IA58,B-8 Farms Airport,IA58,,Whiting,US,42.115002,-96.171997,1063
+IA59,Bickel STOLport,IA59,,Keokuk,US,40.391701,-91.416801,680
+IA60,Iowa Army Natl Guard Heliport,IA60,,Waterloo,US,42.556099,-92.399902,866
+IA61,Estle Field,IA61,,Fairfield,US,41.080299,-91.946602,800
+IA62,Wheatley Farms Airport,IA62,,Elkhorn,US,41.533298,-95.075302,1310
+IA63,Edgren Airport,IA63,,Oskaloosa,US,41.258301,-92.551598,840
+IA64,Iowa Methodist Medical Center Heliport,IA64,,Des Moines,US,41.589401,-93.633102,990
+IA65,Donnellson Airport,IA65,,Donnellson,US,40.620899,-91.541801,700
+IA66,Nash Field Indianola Airport,IA66,,Indianola,US,41.303902,-93.567703,991
+IA67,Cass County Memorial Hospital Heliport,IA67,,Atlantic,US,41.401100,-94.991898,1250
+IA68,Freedom Field,IA68,,La Motte,US,42.266701,-90.600700,1055
+IA69,Sand Field Airport,IA69,,Marcus,US,42.873600,-95.803101,1520
+IA70,Friesenborg & Larson Airport,IA70,,Buffalo Center,US,43.425800,-93.835800,1220
+IA71,Indianola Heliport,IA71,,Indianola,US,41.359699,-93.559097,900
+IA72,Mercy Hospital Heliport,IA72,,Cedar Rapids,US,41.978600,-91.655197,850
+IA73,St Lukes Hospital Emergency Heliport,IA73,,Cedar Rapids,US,41.984699,-91.661598,759
+IA74,Trinity Regional Medical Center Heliport,IA74,,Fort Dodge,US,42.492500,-94.191902,1000
+IA75,Mays Island Helistop,IA75,,Cedar Rapids,US,41.975800,-91.670197,815
+IA76,Cobb Farm Airport,IA76,,Corydon,US,40.728100,-93.343300,1100
+IA77,Keitzer Field,IA77,,Mediapolis,US,41.026402,-91.141800,755
+IA78,Virginia Gay Hospital Heliport,IA78,,Vinton,US,42.173599,-92.012398,245
+IA79,Palo Alto County Hospital Heliport,IA79,,Emmetsburg,US,43.101898,-94.704697,1210
+IA80,Dyersville Area Airport,IA80,,Dyersville,US,42.496101,-91.179901,980
+IA81,Genesis Medical Center West Campus Heliport,IA81,,Davenport,US,41.542801,-90.592400,169
+IA82,Mercy Hospital Medical Center Private Heliport,IA82,,Des Moines,US,41.599998,-93.621002,894
+IA83,Kohlhaas Airport,IA83,,Livermore,US,42.953899,-94.167702,1153
+IA84,Lawton Airport,IA84,,Lawton,US,42.483299,-96.200302,1235
+IA85,Tuinstra Airfield,IA85,,Indianola,US,41.435101,-93.540497,900
+IA86,Hedgewood Landing Airport,IA86,,Indianola,US,41.266701,-93.509399,990
+IA87,Robel Field,IA87,,Grimes,US,41.657501,-93.821098,965
+IA88,Quiet Valley Heliport,IA88,,Mc Causland,US,41.704201,-90.468201,504
+IA89,Woodward State Hospital Heliport,IA89,,Woodward,US,41.871700,-93.914398,1060
+IA90,Humboldt County Memorial Hospital Heliport,IA90,,Humboldt,US,42.733002,-94.231598,1102
+IA91,Montgomery County Memorial Heliport,IA91,,Red Oak,US,41.027199,-95.214798,1181
+IA92,University of Iowa Hospitals & Clinic No2 Heliport,IA92,,Iowa City,US,41.667500,-91.600197,790
+IA93,Olsen Airport,IA93,,Missouri Valley,US,41.612801,-95.895599,1030
+IA94,Nesler Field,IA94,,Moorland,US,42.433300,-94.283600,1147
+IA95,Hcph Heliport,IA95,,Webster City,US,42.458900,-93.823799,1080
+IA96,Baum-Harmon Memorial Hospital Heliport,IA96,,Primghar,US,43.088299,-95.623901,1520
+IA97,Nichols Airport,IA97,,La Porte City,US,42.316700,-92.283501,950
+IA98,Iowa Lutheran Hospital Life Flight Heliport,IA98,,Des Moines,US,41.602200,-93.610497,856
+IA99,Dickinson County Memorial Hospital Heliport,IA99,,Spirit Lake,US,43.417500,-95.123901,1455

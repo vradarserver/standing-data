@@ -1,0 +1,41 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+4860B1,PH-EAE,D328,Dornier,328-110,Dornier 328-110,0,Maritime Surveillance,,3059,1995
+486236,PH-MLY,TB20,Socata,TB-20 Trinidad,Socata TB-20 Trinidad,1,Private,,1711,1995
+486237,PH-VHY,C172,Cessna,172P Skyhawk,Cessna 172P Skyhawk,1,Private,,172-74314,
+486251,PH-NLX,PIAT,Pipistrel,Velis Electro,Pipistrel Velis Electro,1,Private,,VSW1280011,2020
+486265,PH-TDX,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,42.AC056,
+4862FC,PH-VFE,P28A,Piper,PA28-161 Warrior III,Piper PA28-161 Warrior III,0,Vliegclub Flevo,,2842039,1998
+486345,PH-LLT,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,1,Private,,131,2021
+486349,PH-COB,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,1,Private,,134,2021
+486363,PH-HLC,DA40,Diamond,DA-40 NG,Diamond DA-40 NG,1,Private,,40.N539,2021
+486380,PH-FAR,M20P,Mooney,M20J 201,Mooney M20J 201,1,Private,,24-1447,1984
+486397,PH-AAI,AS50,Airbus Helicopters,AS350 B3,Airbus Helicopters AS350 B3,1,Private,,8755,2019
+486398,PH-TAX,DA50,Diamond,DA-50C,Diamond DA-50C,1,Private,,50.C.A.A.009,2021
+4863C4,PH-VDH,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.158,2021
+4863DB,PH-NXC,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020051,2021
+4863DC,PH-NXD,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020054,2021
+4863DE,PH-KJZ,SLG4,Sling Aircraft,4 TSI,Sling 4 TSI,1,Private,,276SK,2021
+486402,PH-JEN,SF50,Cirrus,SF-50 Vision,Cirrus SF-50 Vision,1,Private,,0136,2019
+486403,PH-HCJ,G2CA,Guimbal,G-2 Cabri,Guimbal G-2 Cabri,1,Private,,1288,2021
+486404,PH-WTN,EC30,Airbus Helicopters,EC130 T2,Airbus Helicopters EC130 T2,1,Private,,9166,2022
+486415,PH-OOO,BALL,Schroeder Fire Balloons,G,Schroeder Fire Balloons G,1,Private,,1108,2004
+486426,PH-4U9,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,0,Adventure Flights,,21 SI 206,
+486427,PH-4V1,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,21 SI 210,2021
+486432,PH-GDT,BX2,Brandli,BX-2 Cherry,Brandli BX-2 Cherry,1,Private,,220,2021
+486435,PH-EUL,A189,Leonardo,AW189,Leonardo AW189,0,CHC Helicopters Netherlands,HNL,89011,2018
+486442,PH-GHZ,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,1,Private,,560-5584,2005
+486444,PH-SKP,TBM9,Daher,TBM-940,Daher TBM-940,1,Private,,1398,2021
+486463,PH-JET,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,1,Private,,42000017,
+486464,PH-KLX,P06T,Tecnam,P2006T,Tecnam P2006T,1,Private,,345,
+486469,PH-4V4,WT9,Aerospool,WT-9 Dynamic,Aerospool WT-9 Dynamic,1,Private,,DY-750D,2021
+486482,PH-NXE,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020060,2021
+486483,PH-NXF,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM,KLM,19020061,2021
+486484,PH-NXG,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020062,2021
+48648F,PH-UZI,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,0,Air Service Liege,,680-0328,2012
+486491,PH-NXH,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020063,2022
+486492,PH-NXI,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020064,2022
+486493,PH-NXJ,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM,KLM,19020065,2022
+486494,PH-NXK,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020066,2022
+486495,PH-NXL,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020067,2022
+4864CE,PH-WPA,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Exxaero,XRO,2151,2018
+4864D9,PH-RME,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Air Alsie,MMD,157,

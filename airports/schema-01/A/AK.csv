@@ -1,0 +1,94 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+AK00,Anchor River Airpark,AK00,,Anchor Point,US,59.796700,-151.863007,120
+AK01,Alaska Airpark,AK01,,Sterling,US,60.528983,-150.625133,320
+AK02,Bear Creek 1 Airport,AK02,,Bear Creek,US,65.539902,-161.061996,575
+AK04,Skelton Airport,AK04,,Eureka,US,61.937000,-147.169006,3289
+AK05,Breeden Airport,AK05,,Sterling,US,60.541050,-150.599217,365
+AK06,Denali Airport,AK06,,Mckinley Park,US,63.645100,-148.798004,2050
+AK07,Dog Fish Bay Airport,AK07,,Nanwalek,US,59.241001,-151.876999,10
+AK08,Thomas Strip,AK08,,Willow,US,61.789902,-150.106003,190
+AK09,Wingsong Estates Airport,AK09,,Delta Junction,US,64.049599,-145.501999,1100
+AK10,Ernies Airstrip,AK10,,Willow,US,61.717201,-150.108994,210
+AK11,Point Mcintyre Airport,AK11,,Point Mcintyre,US,70.401703,-148.682007,15
+AK12,Flying Crown Airport,AK12,,Anchorage,US,61.106602,-149.863998,47
+AK13,Chena Hot Springs Airport,AK13,CEX,Chena Hot Springs,US,65.051804,-146.046997,1195
+AK14,Turinsky Airstrip,AK14,,Point Mackenzie,US,61.351299,-150.089005,100
+AK16,Sunset Strip,AK16,,Wasilla,US,61.523399,-149.714996,303
+AK17,Glacierview Strip,AK17,,Homer,US,59.763599,-151.223007,1600
+AK18,Camp Point Airport,AK18,,Homer,US,59.828499,-153.080994,8
+AK19,Carl's Landing Airport,AK19,,Talkeetna,US,62.173901,-150.063995,300
+AK20,Cd-3 Airstrip,AK20,,Nuiqsut,US,70.420622,-150.886667,7
+AK21,Nushagak Airport,AK21,,Dillingham,US,59.132599,-157.776993,40
+AK22,Lakloey Air Park,AK22,,Fairbanks,US,64.821701,-147.522003,475
+AK24,Hilltop Airport,AK24,,Chugiak,US,61.418201,-149.438995,420
+AK25,Piper Landing Airport,AK25,,Wasilla,US,61.617500,-149.615005,350
+AK26,Solomon State Field,AK26,,Solomon,US,64.560600,-164.442001,25
+AK27,Valley Flying Crown Airport,AK27,,Wasilla,US,61.642601,-149.623993,400
+AK28,Chena Marina Airport,AK28,,Fairbanks,US,64.814003,-147.919006,427
+AK29,Reids Landing Airport,AK29,,Houston,US,61.612598,-149.852005,246
+AK30,Strawberry Point Airport,AK30,,Cordova,US,60.391153,-146.097464,50
+AK31,Swift Creek Airport,AK31,,Mccarthy,US,61.411201,-143.001007,1225
+AK32,Oooguruk Island Heliport,AK32,,Nuiqsut,US,70.495422,-150.253467,27
+AK33,Herendeen Bay Airport,AK33,HED,Herendeen Bay,US,55.801399,-160.899002,20
+AK34,Kashwitna Lake Seaplane Base,AK34,,Willow,US,61.835300,-150.080002,186
+AK35,Buffalo Row Heliport,AK35,,Delta Junction,US,64.038902,-145.738998,1180
+AK36,Point Mac Airport,AK36,,Point Mackenzie,US,61.436001,-150.121994,300
+AK37,Point Mackenzie Heliport,AK37,,Point Mackenzie,US,61.249500,-150.035995,72
+AK38,Providence Hospital Heliport,AK38,,Anchorage,US,61.188999,-149.822006,140
+AK39,South Gasline Airport,AK39,,Sterling,US,60.697201,-150.179993,381
+AK40,Nixon Fork Mine Airport,AK40,,McGrath,US,63.229198,-154.759995,1510
+AK41,Greg'n Sage Airport,AK41,,North Pole,US,64.543900,-146.843994,925
+AK42,Valley Hospital - Palmer Heliport,AK42,,Palmer,US,61.600899,-149.106003,248
+AK43,Jacobsen Lake Seaplane Base,AK43,,Wasilla,US,61.579102,-149.539001,350
+AK44,Talkeetna Village Strip,AK44,,Talkeetna,US,62.318901,-150.115997,346
+AK45,Lost River 2 Airport,AK45,,Lost River,US,65.456200,-167.175003,220
+AK46,Abi Airport,AK46,,Palmer,US,61.628799,-149.042999,750
+AK47,Shawn Field,AK47,,Wasilla,US,61.585701,-149.563004,300
+AK48,"Valley Hospital, Wasilla Heliport",AK48,,Wasilla,US,61.585201,-149.425003,340
+AK49,Taylor Airport,AK49,TWE,Taylor,US,65.679298,-164.798996,440
+AK50,Sky Ranch At Pioneer Peak Airport,AK50,,Palmer,US,61.554600,-149.143997,120
+AK51,Wilder/Natwick Llc Airport,AK51,,Port Alsworth,US,60.198601,-154.324997,288
+AK52,Moen's Ranch Airport,AK52,,Fairbanks,US,64.888901,-147.535995,582
+AK53,Downwind Landing Airport,AK53,,Palmer,US,61.582298,-148.996994,220
+AK54,Stro's Airport,AK54,,Wasilla,US,61.657101,-149.326004,340
+AK55,Moose Run Airstrip,AK55,,Soldotna,US,60.489201,-150.802002,290
+AK56,Tikchik Lodge Seaplane Base,AK56,,Tikchik,US,59.963200,-158.477005,304
+AK57,Long Lake Seaplane Base,AK57,,Willow,US,61.725700,-150.091003,180
+AK58,Fairview West Airport,AK58,,Wasilla,US,61.540001,-149.548996,73
+AK59,King Ranch Airport,AK59,,Sutton,US,61.795601,-148.354996,1350
+AK60,Fort Jensen Airport,AK60,,Jensens,US,57.885101,-157.097000,240
+AK61,Stephan Lake Lodge Airport,AK61,,Talkeetna,US,62.699600,-148.906998,1900
+AK63,Pat-Mar Strip,AK63,,Palmer,US,61.588600,-149.143005,246
+AK64,Taylor Mountain Airport,AK64,,Taylor Mountain Mine,US,60.867802,-157.391998,1000
+AK65,Green's Strip,AK65,,Wasilla,US,61.597900,-149.350998,300
+AK66,Hunter Creek Airport,AK66,,Palmer,US,61.463100,-148.804001,100
+AK67,Skid Marks Airport,AK67,,Willow,US,61.738602,-150.072998,64
+AK68,Minuteman Strip,AK68,,Willow,US,61.720299,-150.054001,290
+AK69,Long Lake Airport,AK69,,Willow,US,61.729301,-150.098007,200
+AK71,Lonely Air Station,AK71,LNI,Lonely,US,70.910698,-153.242004,17
+AK72,Jewell Airport,AK72,,Willow,US,61.704700,-150.600998,113
+AK73,Mcgahan Industrial Airpark,AK73,,Nikishka,US,60.725300,-151.302002,150
+AK74,Kodiak Emergency/Spruce Cape Heliport,AK74,,Kodiak,US,57.807899,-152.354004,41
+AK75,Candle 2 Airport,AK75,CDL,Candle,US,65.907700,-161.925995,15
+AK76,East Alsek River Airport,AK76,,Yakutat,US,59.126099,-138.406998,20
+AK77,All West Airport,AK77,,Delta Junction,US,63.941399,-145.421997,1275
+AK79,Jolly Field,AK79,,Wasilla,US,61.593550,-149.566500,100
+AK80,American Creek Airport,AK80,,American Creek,US,65.101700,-151.177002,500
+AK82,Campbell Blm Heliport,AK82,,Anchorage,US,61.156101,-149.792007,235
+AK83,Gannon's Landing Airport,AK83,,Wasilla,US,61.627300,-149.608994,380
+AK84,Scooter's Landing Strip,AK84,,Sterling,US,60.529400,-150.830994,259
+AK85,Birchwater Airport,AK85,,Wasilla,US,61.482333,-149.763986,110
+AK86,Kramer Airport,AK86,,Big Lake,US,61.573539,-149.911350,150
+AK87,Team Levine Heliport,AK87,,Big Lake,US,61.514900,-149.929001,150
+AK88,Eagle Nest Airport,AK88,,Palmer,US,61.604698,-149.039993,416
+AK89,Black Spruce Airport,AK89,,Houston,US,61.657001,-149.837006,350
+AK90,Shirley Lake Airport,AK90,,Willow,US,61.744701,-150.115005,185
+AK91,Elmendorf Hospital Heliport,AK91,,Anchorage,US,61.239700,-149.748993,228
+AK92,Martin Airport,AK92,,Palmer,US,61.638000,-149.029007,820
+AK93,Grouse Ridge Airport,AK93,,Palmer,US,61.655201,-149.272995,535
+AK94,Alascom/Coastal Lena Point Heliport,AK94,,Juneau,US,58.390800,-134.776993,150
+AK95,Twin Lake Airport,AK95,,Big Lake,US,61.569801,-149.779007,185
+AK96,Bartletts Airport,AK96,BSZ,Egegik,US,58.216202,-157.352005,50
+AK97,Boswell Bay Airport,AK97,BSW,Boswell Bay,US,60.423100,-146.145996,230
+AK98,Buck Creek Airport,AK98,,Buck Creek,US,65.638702,-167.485992,560
+AK99,Grand Home Airport,AK99,,Wasilla,US,61.446667,-149.761111,85

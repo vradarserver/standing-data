@@ -1,0 +1,28 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HE24,Siwa Oasis North Airport,HE24,SEW,Siwa,EG,29.345501,25.506701,330
+HE34,Kibrit Airport,HE34,,Kibrit,EG,30.246901,32.492298,22
+HE35,Abu Suwayr Air Base,HE35,,Abu Suwayr,EG,30.572701,32.095299,49
+HE37,Bilbeis Airport,HE37,,Bilbeis,EG,30.394899,31.601400,90
+HE44,Al Ismailiyah Airport,HE44,,Ismailia,EG,30.598801,32.234600,39
+HEAL,El Alamein International Airport,HEAL,DBB,El Alamein,EG,30.924500,28.461399,143
+HEAR,El Arish International Airport,HEAR,AAC,El Arish,EG,31.073299,33.835800,121
+HEAT,Assiut International Airport,HEAT,ATZ,Assiut,EG,27.046499,31.011999,772
+HEAX,El Nouzha Airport,HEAX,ALY,Alexandria,EG,31.183901,29.948900,-6
+HEAZ,Almaza Air Force Base,HEAZ,,Cairo,EG,30.091801,31.360001,300
+HEBA,Borg El Arab International Airport,HEBA,HBE,Alexandria,EG,30.917700,29.696400,177
+HEBL,Abu Simbel Airport,HEBL,ABS,Abu Simbel,EG,22.375999,31.611700,616
+HEBS,Beni Suef Air Base,HEBS,,Beni Suef,EG,29.208300,31.016600,108
+HECA,Cairo International Airport,HECA,CAI,Cairo,EG,30.121901,31.405600,382
+HECW,Cairo West Airport,HECW,CWE,El Cairo,EG,30.116400,30.915400,550
+HEEM,Giza Embaba Airport,HEEM,,Cairo,EG,30.074699,31.191401,59
+HEGN,Hurghada International Airport,HEGN,HRG,Hurghada,EG,27.178301,33.799400,52
+HEGO,El Gouna Airport,HEGO,,El Gouna,EG,27.366899,33.668201,56
+HEGS,Jiyanklis Air Base,HEGS,,Jiyanklis,EG,30.819799,30.191200,49
+HELX,Luxor International Airport,HELX,LXR,Luxor,EG,25.671000,32.706600,294
+HEMA,Marsa Alam International Airport,HEMA,RMF,Marsa Alam,EG,25.557100,34.583698,251
+HEMM,Mersa Matruh Airport,HEMM,MUH,Mersa Matruh,EG,31.325399,27.221701,94
+HEPS,Port Said Airport,HEPS,PSD,Port Said,EG,31.279400,32.240002,8
+HESG,Sohag International Airport,HESG,HMB,Sohag,EG,26.342778,31.742778,310
+HESH,Sharm El Sheikh International Airport,HESH,SSH,Sharm el-Sheikh,EG,27.977301,34.395000,143
+HESN,Aswan International Airport,HESN,ASW,Aswan,EG,23.964399,32.820000,662
+HETB,Taba International Airport,HETB,TCP,Taba,EG,29.587799,34.778099,2415

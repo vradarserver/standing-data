@@ -1,0 +1,143 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KO02,Nervino Airport,KO02,NVN,Beckwourth,US,39.818501,-120.352997,4900
+KO05,Rogers Field,KO05,,Chester,US,40.282398,-121.240997,4528
+KO08,Colusa County Airport,KO08,,Colusa,US,39.179001,-121.992996,50
+KO09,Round Valley Airport,KO09,,Covelo,US,39.790199,-123.265999,1434
+KO11,Stilwell Cherokee Nation Airport,KO11,,Stilwell,US,35.757000,-94.649902,1084
+KO15,Turlock Municipal Airport,KO15,,Turlock,US,37.487400,-120.696999,159
+KO16,Garberville Airport,KO16,,Garberville,US,40.085999,-123.814003,546
+KO20,Kingdon Airpark,KO20,,Lodi,US,38.091599,-121.359001,15
+KO22,Columbia Airport,KO22,,Columbia,US,38.030399,-120.415001,2118
+KO24,Lee Vining Airport,KO24,,Lee Vining,US,37.958302,-119.107002,6802
+KO26,Lone Pine Airport,KO26,,Lone Pine,US,36.588299,-118.052002,3680
+KO27,Oakdale Airport,KO27,ODC,Oakdale,US,37.756302,-120.800003,237
+KO28,Ells Field Willits Municipal Airport,KO28,,Willits,US,39.451302,-123.372002,2063
+KO32,Reedley Municipal Airport,KO32,,Reedley,US,36.666302,-119.449997,383
+KO35,Hollis Municipal Airport,KO35,,Hollis,US,34.708401,-99.908699,1658
+KO37,Haigh Field,KO37,,Orland,US,39.721199,-122.147003,215
+KO41,Watts Woodland Airport,KO41,,Woodland,US,38.673901,-121.872002,125
+KO42,Woodlake Airport,KO42,,Woodlake,US,36.398800,-119.107002,425
+KO43,Yerington Municipal Airport,KO43,EYR,Yerington,US,39.004101,-119.157997,4378
+KO46,Weed Airport,KO46,,Weed,US,41.474899,-122.453003,2938
+KO47,Prague Municipal Airport,KO47,,Prague,US,35.482300,-96.718697,1042
+KO51,Laverne Municipal Airport,KO51,,Laverne,US,36.744499,-99.908699,2112
+KO52,Sutter County Airport,KO52,,Yuba City,US,39.123699,-121.605003,58
+KO53,Medford Municipal Airport,KO53,,Medford,US,36.790600,-97.749001,1092
+KO54,Lonnie Pool Field Weaverville Airport,KO54,,Weaverville,US,40.745701,-122.921997,2350
+KO57,Bryant Field,KO57,,Bridgeport,US,38.262402,-119.225998,6468
+KO59,Cedarville Airport,KO59,,Cedarville,US,41.552700,-120.166000,4623
+KO60,Cloverdale Municipal Airport,KO60,,Cloverdale,US,38.776001,-122.992996,277
+KO61,Cameron Airpark,KO61,,Cameron Park,US,38.683998,-120.987999,1286
+KO65,Christman Airfield,KO65,,Okeene,US,36.112499,-98.308701,1205
+KO69,Petaluma Municipal Airport,KO69,,Petaluma,US,38.257801,-122.606003,90
+KO70,Westover Field Amador County Airport,KO70,,Jackson,US,38.376801,-120.793999,1690
+KO79,Sierraville Dearwater Airport,KO79,,Sierraville,US,39.581001,-120.353996,4984
+KO81,Tulelake Municipal Airport,KO81,,Tulelake,US,41.887402,-121.359001,4044
+KO86,Trinity Center Airport,KO86,,Trinity Center,US,40.983200,-122.694000,2390
+KO88,Rio Vista Municipal Airport,KO88,,Rio Vista,US,38.193401,-121.704002,20
+KO89,Fall River Mills Airport,KO89,,Fall River Mills,US,41.018799,-121.432999,3323
+KOAJ,Albert J Ellis Airport,KOAJ,OAJ,Jacksonville,US,34.829201,-77.612099,94
+KOAK,Metropolitan Oakland International Airport,KOAK,OAK,Oakland,US,37.721298,-122.221001,9
+KOAR,Marina Municipal Airport,KOAR,OAR,Marina,US,36.681900,-121.762001,137
+KOBE,Okeechobee County Airport,KOBE,,Okeechobee,US,27.262800,-80.849800,34
+KOBI,Woodbine Municipal Airport,KOBI,,Woodbine,US,39.219200,-74.794800,42
+KOCF,Ocala International Jim Taylor Field,KOCF,,Ocala,US,29.172600,-82.224197,90
+KOCH,A L Mangham Jr. Regional Airport,KOCH,,Nacogdoches,US,31.577999,-94.709503,355
+KOCQ,J. Douglas Bake Memorial Airport,KOCQ,,Oconto,US,44.874199,-87.909599,604
+KOCW,Warren Field,KOCW,,Washington,US,35.570499,-77.049797,38
+KODO,Odessa Schlemeyer Field,KODO,,Odessa,US,31.920601,-102.387001,3004
+KODX,Evelyn Sharp Field,KODX,,Ord,US,41.624199,-98.952400,2070
+KOEA,O'Neal Airport,KOEA,,Vincennes,US,38.691399,-87.552200,414
+KOEB,Branch County Memorial Airport,KOEB,,Coldwater,US,41.933399,-85.052597,959
+KOEL,Oakley Municipal Airport,KOEL,,Oakley,US,39.109901,-100.816002,3045
+KOEO,L O Simenstad Municipal Airport,KOEO,,Osceola,US,45.310001,-92.691902,903
+KOFF,Offutt Air Force Base,KOFF,,Omaha,US,41.118301,-95.912498,1052
+KOFK,Karl Stefan Memorial Airport,KOFK,,Norfolk,US,41.985500,-97.435097,1573
+KOFP,Hanover County Municipal Airport,KOFP,,Richmond/Ashland,US,37.709000,-77.436699,207
+KOGA,Searle Field,KOGA,,Ogallala,US,41.119499,-101.769997,3279
+KOGB,Orangeburg Municipal Airport,KOGB,,Orangeburg,US,33.456799,-80.859497,195
+KOGD,Ogden Hinckley Airport,KOGD,OGD,Ogden,US,41.195900,-112.012001,4473
+KOGM,Ontonagon County Schuster Field,KOGM,,Ontonagon,US,46.845501,-89.367104,669
+KOGS,Ogdensburg International Airport,KOGS,OGS,Ogdensburg,US,44.681900,-75.465500,297
+KOIC,Lt Warren Eaton Airport,KOIC,,Norwich,US,42.566601,-75.524101,1025
+KOIN,Oberlin Municipal Airport,KOIN,,Oberlin,US,39.833900,-100.539001,2703
+KOJA,Thomas P Stafford Airport,KOJA,,Weatherford,US,35.544800,-98.668503,1605
+KOJC,Johnson County Executive Airport,KOJC,,Olathe,US,38.847599,-94.737602,1096
+KOKB,Oceanside Municipal Airport,KOKB,,Oceanside,US,33.217300,-117.353996,28
+KOKC,Will Rogers World Airport,KOKC,OKC,Oklahoma City,US,35.393101,-97.600700,1295
+KOKH,AJ Eisenberg Airport,KOKH,,Oak Harbor,US,48.251499,-122.674004,193
+KOKK,Kokomo Municipal Airport,KOKK,,Kokomo,US,40.528198,-86.058998,830
+KOKM,Okmulgee Regional Airport,KOKM,,Okmulgee,US,35.668098,-95.948700,720
+KOKS,Garden County Airport,KOKS,,Oshkosh,US,41.401001,-102.355003,3394
+KOKV,Winchester Regional Airport,KOKV,WGO,Winchester,US,39.143501,-78.144402,726
+KOKZ,Kaolin Field,KOKZ,,Sandersville,US,32.966702,-82.838203,438
+KOLD,"Dewitt Field,Old Town Municipal Airport",KOLD,OLD,Old Town,US,44.952801,-68.674301,126
+KOLE,Cattaraugus County-Olean Airport,KOLE,,Olean,US,42.241199,-78.371399,2135
+KOLF,L M Clayton Airport,KOLF,,Wolf Point,US,48.094501,-105.574997,1986
+KOLG,Solon Springs Municipal Airport,KOLG,,Solon Springs,US,46.314800,-91.816399,1102
+KOLM,Olympia Regional Airport,KOLM,OLM,Olympia,US,46.969399,-122.903000,209
+KOLS,Nogales International Airport,KOLS,,Nogales,US,31.417700,-110.848000,3955
+KOLU,Columbus Municipal Airport,KOLU,,Columbus,US,41.448002,-97.342598,1447
+KOLV,Olive Branch Airport,KOLV,,Olive Branch,US,34.978699,-89.786903,402
+KOLY,Olney Noble Airport,KOLY,,Olney-Noble,US,38.721802,-88.176399,482
+KOLZ,Oelwein Municipal Airport,KOLZ,,Oelwein,US,42.680801,-91.974503,1076
+KOMA,Eppley Airfield,KOMA,OMA,Omaha,US,41.303200,-95.894096,984
+KOMH,Orange County Airport,KOMH,,Orange,US,38.247200,-78.045601,465
+KOMK,Omak Airport,KOMK,,Omak,US,48.464401,-119.517998,1305
+KOMN,Ormond Beach Municipal Airport,KOMN,,Ormond Beach,US,29.300600,-81.113602,29
+KONA,Winona Municipal-Max Conrad Field,KONA,,Winona,US,44.077202,-91.708298,656
+KONL,The O'Neill Municipal John L Baker Field,KONL,,O'Neill,US,42.469898,-98.688103,2031
+KONM,Socorro Municipal Airport,KONM,,Socorro,US,34.022499,-106.903000,4875
+KONO,Ontario Municipal Airport,KONO,,Ontario,US,44.020500,-117.014000,2193
+KONP,Newport Municipal Airport,KONP,,Newport,US,44.580399,-124.057999,160
+KONT,Ontario International Airport,KONT,ONT,Ontario,US,34.056000,-117.600998,944
+KONX,Currituck County Regional Airport,KONX,,Currituck,US,36.398899,-76.016296,18
+KONY,Olney Municipal Airport,KONY,,Olney,US,33.350899,-98.819199,1275
+KONZ,Grosse Ile Municipal Airport,KONZ,,Detroit/Grosse Ile,US,42.099098,-83.161499,591
+KOOA,Oskaloosa Municipal Airport,KOOA,,Oskaloosa,US,41.226200,-92.493896,841
+KOPF,Opa-locka Executive Airport,KOPF,,Miami,US,25.907000,-80.278397,8
+KOPL,St Landry Parish Ahart Field,KOPL,,Opelousas,US,30.558399,-92.099403,75
+KOPN,Thomaston Upson County Airport,KOPN,,Thomaston,US,32.954601,-84.263199,798
+KOQN,Brandywine Airport,KOQN,,West Chester,US,39.990101,-75.581902,466
+KOQU,Quonset State Airport,KOQU,,North Kingstown,US,41.597099,-71.412102,18
+KOQW,Maquoketa Municipal Airport,KOQW,,Maquoketa,US,42.050098,-90.738800,769
+KORB,Orr Regional Airport,KORB,,Orr,US,48.015900,-92.856102,1311
+KORC,Orange City Municipal Airport,KORC,,Orange City,US,42.990299,-96.062798,1414
+KORD,Chicago O'Hare International Airport,KORD,ORD,Chicago,US,41.978600,-87.904800,672
+KORE,Orange Municipal Airport,KORE,,Orange,US,42.570099,-72.288597,555
+KORF,Norfolk International Airport,KORF,ORF,Norfolk,US,36.894600,-76.201202,26
+KORG,Orange County Airport,KORG,,Orange,US,30.069201,-93.800903,13
+KORH,Worcester Regional Airport,KORH,ORH,Worcester,US,42.267300,-71.875702,1009
+KORK,North Little Rock Municipal Airport,KORK,,North Little Rock,US,34.833099,-92.254097,545
+KORL,Executive Airport,KORL,,Orlando,US,28.545500,-81.332901,113
+KORS,Orcas Island Airport,KORS,ESD,Eastsound,US,48.708199,-122.910004,31
+KOSA,Mount Pleasant Regional Airport,KOSA,,Mount Pleasant,US,33.095501,-94.961502,364
+KOSC,Oscoda Wurtsmith Airport,KOSC,OSC,Oscoda,US,44.451599,-83.394096,633
+KOSH,Wittman Regional Airport,KOSH,OSH,Oshkosh,US,43.984402,-88.556999,808
+KOSU,Ohio State University Airport,KOSU,,Columbus,US,40.079800,-83.072998,905
+KOSX,Kosciusko Attala County Airport,KOSX,,Kosciusko,US,33.090302,-89.542000,480
+KOTG,Worthington Municipal Airport,KOTG,,Worthington,US,43.655102,-95.579201,1574
+KOTH,Southwest Oregon Regional Airport,KOTH,OTH,North Bend,US,43.417099,-124.246002,17
+KOTM,Ottumwa Regional Airport,KOTM,OTM,Ottumwa,US,41.106602,-92.447899,845
+KOUN,University of Oklahoma Westheimer Airport,KOUN,,Norman,US,35.245602,-97.472099,1182
+KOVE,Oroville Municipal Airport,KOVE,,Oroville,US,39.487801,-121.622002,192
+KOVL,Olivia Regional Airport,KOVL,,Olivia,US,44.778599,-95.032799,1076
+KOVO,North Vernon Airport,KOVO,,North Vernon,US,39.045601,-85.605301,757
+KOVS,Boscobel Airport,KOVS,,Boscobel,US,43.160198,-90.675499,673
+KOWA,Owatonna Degner Regional Airport,KOWA,,Owatonna,US,44.123402,-93.260597,1145
+KOWB,Owensboro Daviess County Airport,KOWB,OWB,Owensboro,US,37.740101,-87.166801,407
+KOWD,Norwood Memorial Airport,KOWD,,Norwood,US,42.190498,-71.172897,49
+KOWI,Ottawa Municipal Airport,KOWI,,Ottawa,US,38.538700,-95.252998,966
+KOWK,Central Maine Arpt of Norridgewock Airport,KOWK,,Norridgewock,US,44.715500,-69.866501,270
+KOWP,William R. Pogue Municipal Airport,KOWP,,Sand Springs,US,36.175301,-96.151802,892
+KOWX,Putnam County Airport,KOWX,,Ottawa,US,41.035599,-83.982002,764
+KOXB,Ocean City Municipal Airport,KOXB,,Ocean City,US,38.310398,-75.124001,11
+KOXC,Waterbury Oxford Airport,KOXC,,Oxford,US,41.478600,-73.135201,726
+KOXD,Miami University Airport,KOXD,,Oxford,US,39.502300,-84.784401,1041
+KOXI,Starke County Airport,KOXI,,Knox,US,41.330200,-86.664703,685
+KOXR,Oxnard Airport,KOXR,OXR,Oxnard,US,34.200802,-119.207001,45
+KOXV,Knoxville Municipal Airport,KOXV,,Knoxville,US,41.298901,-93.113800,928
+KOYM,St Marys Municipal Airport,KOYM,,St Marys,US,41.412498,-78.502602,1934
+KOZA,Ozona Municipal Airport,KOZA,,Ozona,US,30.735300,-101.203003,2381
+KOZR,Cairns AAF (Fort Rucker) Air Field,KOZR,,Fort Rucker/Ozark,US,31.275700,-85.713402,301
+KOZW,Livingston County Spencer J. Hardy Airport,KOZW,,Howell,US,42.629200,-83.982101,962

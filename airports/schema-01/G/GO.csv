@@ -1,0 +1,16 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+GO66,Dodji Airport,GO66,,Dodji,SN,15.543900,-14.958300,66
+GOBD,Blaise Diagne International Airport,GOBD,DSS,Diass,SN,14.671111,-17.066944,290
+GODK,Kolda North Airport,GODK,KDA,Kolda,SN,12.898500,-14.968100,33
+GOGG,Ziguinchor Airport,GOGG,ZIG,Ziguinchor,SN,12.555600,-16.281799,75
+GOGS,Cap Skirring Airport,GOGS,CSK,Cap Skirring,SN,12.410200,-16.746099,52
+GOOK,Kaolack Airport,GOOK,KLC,Kaolack,SN,14.146900,-16.051300,26
+GOOY,Léopold Sédar Senghor International Airport,GOOY,DKR,Dakar,SN,14.739700,-17.490200,85
+GOSM,Ouro Sogui Airport,GOSM,MAX,Matam,SN,15.593600,-13.322800,85
+GOSP,Podor Airport,GOSP,POD,Podor,SN,16.683001,-14.967000,20
+GOSR,Richard Toll Airport,GOSR,RDT,Richard Toll,SN,16.433001,-15.650000,20
+GOSS,Saint Louis Airport,GOSS,XLS,Saint Louis,SN,16.050800,-16.463200,9
+GOTB,Bakel Airport,GOTB,BXE,Bakel,SN,14.847300,-12.468300,98
+GOTK,Kédougou Airport,GOTK,KGG,Kédougou,SN,12.572300,-12.220300,584
+GOTS,Simenti Airport,GOTS,SMY,Simenti,SN,13.046800,-13.295400,171
+GOTT,Tambacounda Airport,GOTT,TUD,Tambacounda,SN,13.736800,-13.653100,161

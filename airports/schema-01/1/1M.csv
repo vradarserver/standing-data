@@ -1,0 +1,79 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+1MA0,Jordan Hospital Heliport,1MA0,,Plymouth,US,41.941002,-70.646896,122
+1MA1,Deaconess Nashoba Hospital Heliport,1MA1,,Ayer,US,42.576500,-71.573997,308
+1MA2,UMASS Memorial Medical Center-Univ Campus Heliport,1MA2,,Worcester,US,42.275002,-71.760002,417
+1MA4,Wang Heliport,1MA4,,Lowell,US,42.609299,-71.321701,104
+1MA5,Unknown Field,1MA5,,Southborough,US,42.278999,-71.547798,432
+1MA6,Micron Heliport,1MA6,,Southwick,US,42.067902,-72.744499,245
+1MA7,Long Hill Orchard Heliport,1MA7,,West Newbury,US,42.473400,-70.978897,120
+1MA8,Horizon Hill Heliport,1MA8,,Lincoln,US,42.419998,-71.309402,336
+1MA9,Morton Hospital Heliport,1MA9,,Taunton,US,41.905899,-71.094200,50
+1MD0,Clng Cove Point Heliport,1MD0,,Lusby,US,38.391800,-76.407997,133
+1MD1,Big Oak Farm Airport,1MD1,,Cambridge,US,38.569000,-76.286301,4
+1MD3,Krastel Farms Airport,1MD3,,Kennedyville,US,39.308998,-75.987701,75
+1MD4,Prince George's Hospital Center Heliport,1MD4,,Cheverly,US,38.930302,-76.920799,297
+1MD5,Federal Support Center Heliport,1MD5,,Laytonsville,US,39.192101,-77.106598,510
+1MD6,Metroplex Heliport,1MD6,,New Carrollton,US,38.946201,-76.868301,99
+1MD7,Shady Grove Adventist Hospital Heliport,1MD7,,Rockville,US,39.098202,-77.196899,475
+1MD8,Mayberry Run Airport,1MD8,,Westminster/Silver Run,US,39.682899,-77.097198,580
+1MD9,Washington County Hospital Heliport,1MD9,,Hagerstown,US,39.637299,-77.714699,589
+1ME1,Victor Heliport,1ME1,,Belfast,US,44.410599,-69.009201,180
+1MI0,Ashman Island Seaplane Base,1MI0,,Drummond Island,US,46.068600,-83.724197,580
+1MI1,Nikkila Farms Airport,1MI1,,Mass,US,46.702702,-88.997398,1100
+1MI2,Guardian Industries Heliport,1MI2,,Auburn Hills,US,42.699799,-83.247398,1021
+1MI3,Black River Ranch Airport,1MI3,,Onaway,US,45.195801,-84.321701,880
+1MI4,Ramsy Farm Airport,1MI4,,Perronville,US,45.838902,-87.322403,880
+1MI5,Mckenzie's Landing Airport,1MI5,,Howell,US,42.603100,-83.859703,955
+1MI6,Rosedale Airport,1MI6,,Sault Ste Marie,US,46.377800,-84.311096,675
+1MI7,Thompson Airport,1MI7,,Selkirk,US,44.316700,-84.066704,857
+1MI8,Vlachos Acres Airport,1MI8,,Hubbard,US,44.846699,-83.636902,785
+1MI9,Southfork Airport,1MI9,,Marquette,US,46.472198,-87.350098,660
+1MN0,Wetherbee Farm Airport,1MN0,,Tenney,US,46.043598,-96.546204,980
+1MN1,Beyer Airport,1MN1,,Tenney,US,45.973301,-96.564201,1000
+1MN2,Hay Acres Airport,1MN2,,Akiey,US,45.938202,-94.760696,1430
+1MN3,Northern Itasca Health Care Center Heliport,1MN3,,Bigfork,US,47.747200,-93.646301,1320
+1MN4,Krueger Loon Lake Seaplane Base,1MN4,,Vergas,US,46.622200,-95.836403,1370
+1MN5,Molnau Airpark,1MN5,,Waconia,US,44.843601,-93.739998,1000
+1MN6,Cook Hospital Heliport,1MN6,,Cook,US,47.853001,-92.679100,1315
+1MN7,Cuyuna Regional Medical Center Heliport,1MN7,,Crosby,US,46.482201,-93.943604,1255
+1MN8,Sky Harbor Residential Airpark,1MN8,,Webster,US,44.525799,-93.326897,1111
+1MN9,Jackson Medical Center Heliport,1MN9,,Jackson,US,43.624699,-95.004402,1450
+1MO1,St Joseph Hospital Heliport,1MO1,,Kirkwood,US,38.568100,-90.433998,530
+1MO2,Hart Airport,1MO2,,Freeman,US,38.549500,-94.476601,825
+1MO3,Lake Viking Airport,1MO3,,Gallatin,US,39.933399,-94.073799,940
+1MO4,Longwood Mfg Corp Airport,1MO4,,Gallatin,US,39.891701,-93.864098,800
+1MO6,Double S Ranch Airport,1MO6,,Grandin,US,36.836201,-90.722298,737
+1MO7,Hines Airport,1MO7,,Gorin,US,40.363899,-91.975197,750
+1MO8,Sherlock Field,1MO8,,Gravois Mills,US,38.252800,-92.803001,800
+1MO9,Eagle's Point & Red Barn Village Airpark,1MO9,,Greenfield,US,37.479198,-93.851601,1040
+1MS0,Tapley Airport,1MS0,,Shaw,US,33.599800,-90.781197,129
+1MS1,Neshoba General Hospital Heliport,1MS1,,Philadelphia,US,32.757099,-89.106400,388
+1MS2,Peterson Airport,1MS2,,Goodman,US,32.941799,-89.930603,240
+1MS3,Montfort Jones Memorial Hospital Heliport,1MS3,,Kosciusko,US,33.066002,-89.597900,455
+1MS4,Methodist Medical Center Heliport,1MS4,,Jackson,US,32.287899,-90.256203,366
+1MS5,General Dan C Mills Emergency Heliport,1MS5,,Byhalia,US,34.889000,-89.702904,44
+1MS6,Eagles Ridge Airport,1MS6,,Hernando,US,34.797298,-89.913101,262
+1MS7,Smith County General Hospital Heliport,1MS7,,Raleigh,US,31.999599,-89.519501,535
+1MS8,Columbus Air Force Base Aux Field Airfield,1MS8,,Shuqualak,US,32.940102,-88.579201,260
+1MS9,Piker-Too Airport,1MS9,,Centreville,US,31.011801,-90.968201,300
+1MT0,Nine Quarter Circle Ranch Airport,1MT0,,Gallatin Gateway,US,45.067402,-111.296997,6974
+1MT1,Krinitt Helicopters Heliport,1MT1,,Belgrade,US,45.774200,-111.203003,4474
+1MT2,Skyrider Ultralightport,1MT2,,Billings,US,45.943100,-108.549004,3540
+1MT3,Wood Strip,1MT3,,Elliston,US,46.558102,-112.412003,5100
+1MT4,Davis Airport,1MT4,,Helena,US,46.688499,-111.871002,3780
+1MT5,Holy Rosary Heliport,1MT5,,Miles City,US,46.394600,-105.829002,2372
+1MT6,Bobcat Field,1MT6,,Philipsburg,US,46.356899,-113.510002,4824
+1MT7,Prill Field,1MT7,,Sand Coulee,US,47.421101,-111.158997,3420
+1MT8,St. James Heliport,1MT8,,Butte,US,46.009399,-112.544998,5733
+1MT9,Wilcox Airport,1MT9,,Billings,US,45.789200,-108.683998,3390
+1MU0,Medcalf Field,1MU0,,Republic,US,37.166698,-93.562698,1260
+1MU1,Lake Taney Como Seaplane Base,1MU1,,Rockaway Beach,US,36.666698,-93.154297,716
+1MU2,Smitty's Landing Airport,1MU2,,Ridgely,US,39.447399,-94.667198,800
+1MU3,Putnam County Memorial Hospital Heliport,1MU3,,Unionville,US,40.482700,-93.005898,1060
+1MU4,Short Air Airport,1MU4,,Warrensburg,US,38.651699,-93.778801,840
+1MU5,Grace G Shepard Memorial Heliport,1MU5,,Buffalo,US,37.524200,-93.143204,1152
+1MU6,Simerly Airport,1MU6,,Fillmore,US,40.110802,-94.968903,971
+1MU7,Mooseberry Airport,1MU7,,Jackson,US,37.465302,-89.612000,480
+1MU8,Church's Landing Airport,1MU8,,Rushville,US,39.554199,-94.998596,826
+1MU9,Nielsens Medical Evac Heliport,1MU9,,Saint Charles,US,38.935299,-90.476501,425
+1MY1,Carlson Agricultural Airport,1MY1,,Wendell,US,45.985298,-96.194397,1033

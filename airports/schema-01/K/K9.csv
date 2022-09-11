@@ -1,0 +1,55 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K90F,Broken Bow Airport,K90F,,Broken Bow,US,34.014000,-94.758598,404
+K91F,Arrowhead Airport,K91F,,Canadian,US,35.156300,-95.621300,851
+K92F,Chattanooga Sky Harbor Airport,K92F,,Chattanooga,US,34.368698,-98.682098,1135
+K93C,Richland Airport,K93C,,Richland Center,US,43.283401,-90.298302,742
+K93F,Mignon Laird Municipal Airport,K93F,,Cheyenne,US,35.607498,-99.704697,2084
+K93Y,David City Municipal Airport,K93Y,,David City,US,41.230900,-97.122902,1617
+K94E,Whiskey Creek Airport,K94E,,Silver City,US,32.762001,-108.208000,6126
+K94K,Cassville Municipal Airport,K94K,,Cassville,US,36.697399,-93.900497,1482
+K94R,Lackey Aviation Airport,K94R,,Wharton,US,29.266100,-96.007698,90
+K95D,Beulah Airport,K95D,,Beulah,US,47.250801,-101.814003,1791
+K95E,Stallion Army Air Field,K95E,,Socorro,US,33.819000,-106.644997,4925
+K95F,Cleveland Municipal Airport,K95F,,Cleveland,US,36.283798,-96.463303,912
+K96D,Walhalla Municipal Airport,K96D,,Walhalla,US,48.940601,-97.902802,953
+K97M,Ekalaka Airport,K97M,,Ekalaka,US,45.877800,-104.537003,3503
+K98D,Onida Municipal Airport,K98D,,Onida,US,44.700802,-100.100998,1874
+K99N,Bamberg County Airport,K99N,,Bamberg,US,33.304501,-81.108398,231
+K99V,Crawford Airport,K99V,,Crawford,US,38.704201,-107.643997,6470
+K9A0,Lumpkin County Wimpys Airport,K9A0,,Dahlonega,US,34.579300,-84.020699,1311
+K9A1,Covington Municipal Airport,K9A1,,Covington,US,33.632500,-83.849602,809
+K9A4,Lawrence County Airport,K9A4,,Courtland,US,34.659401,-87.348801,588
+K9A5,Barwick Lafayette Airport,K9A5,,Lafayette,US,34.688599,-85.290398,777
+K9C8,Evart Municipal Airport,K9C8,,Evart,US,43.895901,-85.279198,1018
+K9D0,Highmore Municipal Airport,K9D0,,Highmore,US,44.541599,-99.446198,1854
+K9D1,Gregory Municipal Flynn Field,K9D1,,Gregory,US,43.221699,-99.403297,2168
+K9D2,Harding County Airport,K9D2,,Buffalo,US,45.580601,-103.529999,2889
+K9D4,Deck Airport,K9D4,,Myerstown,US,40.351799,-76.329597,523
+K9D7,Cando Municipal Airport,K9D7,,Cando,US,48.480000,-99.235901,1481
+K9D9,Hastings Airport,K9D9,,Hastings,US,42.663601,-85.346298,801
+K9F0,Dublin Municipal Airport,K9F0,,Dublin,US,32.068199,-98.325302,1495
+K9F8,Hoven Municipal Airport,K9F8,,Hoven,US,45.257599,-99.797798,1884
+K9F9,Sycamore Strip,K9F9,,Fort Worth,US,32.628502,-97.353600,760
+K9G2,Prices Airport,K9G2,,Linden,US,42.807598,-83.769897,920
+K9G3,Akron Airport,K9G3,,Akron,US,43.021099,-78.482498,840
+K9G8,Ebensburg Airport,K9G8,,Ebensburg,US,40.461201,-78.775200,2099
+K9K7,Ellsworth Municipal Airport,K9K7,,Ellsworth,US,38.750401,-98.229301,1615
+K9K8,Kingman Airport Clyde Cessna Field,K9K8,,Kingman,US,37.668999,-98.123901,1607
+K9L2,Edwards Af Aux North Base Airport,K9L2,,Edwards,US,34.990799,-117.862999,2299
+K9M4,Ackerman Choctaw County Airport,K9M4,,Ackerman,US,33.303501,-89.228401,552
+K9M6,Kelly Airport,K9M6,,Oak Grove,US,32.849201,-91.403900,112
+K9M8,Sheridan Municipal Airport,K9M8,,Sheridan,US,34.328400,-92.350998,232
+K9S2,Scobey Airport,K9S2,,Scobey,US,48.807701,-105.439003,2432
+K9S4,Mineral County Airport,K9S4,,Superior,US,47.168301,-114.853996,2787
+K9S5,Three Forks Airport,K9S5,,Three Forks,US,45.878101,-111.569000,4089
+K9S9,Lexington Airport,K9S9,,Lexington,US,45.454102,-119.690002,1634
+K9U0,Turner Airport,K9U0,,Turner,US,48.854198,-108.408997,3049
+K9U3,Austin Airport,K9U3,ASQ,Austin,US,39.467999,-117.195000,5730
+K9U4,Dixon Airport,K9U4,,Dixon,US,41.038300,-107.497002,6520
+K9U7,Currant Ranch Airport,K9U7,,Currant,US,38.736000,-115.480003,5181
+K9V5,Modisett Airport,K9V5,,Rushville,US,42.737499,-102.445000,3751
+K9V6,Martin Municipal Airport,K9V6,,Martin,US,43.165600,-101.712997,3293
+K9V7,Eads Municipal Airport,K9V7,,Eads,US,38.475101,-102.810997,4245
+K9V9,Chamberlain Municipal Airport,K9V9,,Chamberlain,US,43.766102,-99.321297,1695
+K9X1,Williams Airport,K9X1,,Porter,US,30.153400,-95.321999,122
+K9Y1,Weydahl Field,K9Y1,,Killdeer,US,47.392799,-102.771004,2256

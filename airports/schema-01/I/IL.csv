@@ -1,0 +1,92 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+IL00,Welch Heliport,IL00,,Danville,US,40.099701,-87.574402,650
+IL01,Wolford's Airport,IL01,,Abingdon,US,40.792500,-90.438202,720
+IL02,Herbert C. Maas Airport,IL02,,Zion,US,42.472198,-87.908401,719
+IL03,Columbia Hoffman Estates Medical Center Heliport,IL03,,Hoffman Estates,US,42.052799,-88.140099,807
+IL04,Methodist Medical Center of Illinois Heliport,IL04,,Peoria,US,40.700600,-89.594803,631
+IL05,Bingham Airport,IL05,,Alden,US,42.440300,-88.488998,980
+IL07,Taylor Airport,IL07,,Amboy,US,41.723598,-89.291801,760
+IL08,Good Shepherd Hospital Heliport,IL08,,Barrington,US,42.195900,-88.172897,793
+IL09,Albrecht /2/ Airport,IL09,,Amboy,US,41.631401,-89.405098,802
+IL11,Donald Alfred Gade Airport,IL11,,Antioch,US,42.465302,-88.040398,805
+IL12,Kinsey RLA Restricted Landing Area,IL12,,Arenzville,US,39.880001,-90.465103,455
+IL13,Funfsinn Airport,IL13,,Arlington,US,41.470798,-89.180801,715
+IL14,Stark Heliport,IL14,,Bloomington,US,40.480000,-89.021698,750
+IL15,Runyan Aviation Airport,IL15,,Bushnell,US,40.569401,-90.548698,660
+IL16,Houseman Airport,IL16,,Cobden,US,37.540100,-89.122597,800
+IL17,Center Point Heliport,IL17,,Oak Brook,US,41.849701,-87.927200,660
+IL18,Crook Restricted Landing Area,IL18,,Columbia,US,38.387001,-90.191803,580
+IL19,Shawnee Community College Heliport,IL19,,Ullin,US,37.267200,-89.032204,440
+IL20,Il Emergency Operations Center Heliport,IL20,,Springfield,US,39.611401,-89.604401,590
+IL21,Mercy Center For Health Care Services Heliport,IL21,,Aurora,US,41.786701,-88.323997,700
+IL22,Heeg Airport,IL22,,Oquawka,US,41.007099,-90.882896,600
+IL23,Ellis Airport,IL23,,Davis,US,42.442501,-89.450104,900
+IL24,Richardson Airport,IL24,,New Berlin,US,39.707500,-89.883102,653
+IL25,Bromenn Hospital Heliport,IL25,,Normal,US,40.496399,-88.990799,810
+IL26,Fayette County Hospital Heliport,IL26,,Vandalia,US,38.969200,-89.096100,521
+IL27,Landis Plastics Heliport,IL27,,Alsip,US,41.678600,-87.762497,610
+IL29,Von Alvens Airview Airport,IL29,,Beecher,US,41.299999,-87.650002,715
+IL31,Cooch Landing Area Airport,IL31,,Atwood,US,39.843300,-88.453300,695
+IL32,Adkisson Airport,IL32,,Hammond,US,39.783298,-88.621399,669
+IL33,Sherman Hospital Heliport,IL33,,Elgin,US,42.054684,-88.280666,780
+IL34,Henderson Airport,IL34,,Belvidere,US,42.214500,-88.757004,815
+IL35,Redpath Restricted Landing Area,IL35,,Baldwin,US,38.181999,-89.808403,470
+IL36,Bob Walberg Field,IL36,,Belvidere,US,42.320900,-88.758400,840
+IL38,J Maddock Airport,IL38,,Big Rock,US,41.766998,-88.531998,705
+IL40,St Joseph Medical Center - Bloomington Heliport,IL40,,Bloomington,US,40.482300,-88.956497,855
+IL41,Rochelle Community Hospital Heliport,IL41,,Rochelle,US,41.928299,-89.063599,817
+IL42,Memorial Medical Center - Woodstock Heliport,IL42,,Woodstock,US,42.276199,-88.402702,940
+IL43,Rural King Supply Heliport,IL43,,Mattoon,US,39.492802,-88.412201,715
+IL44,Arrow Heliport,IL44,,Fox Lake,US,42.403400,-88.187599,738
+IL45,Busboom Airport,IL45,,Gifford,US,40.311100,-88.015297,780
+IL46,Brooks Ranch Airport,IL46,,Burnside,US,40.466702,-91.033501,700
+IL47,Lincoln Land Community College Heliport,IL47,,Springfield,US,39.723099,-89.604301,580
+IL49,Braidwood National Park Service Heliport,IL49,,Godley,US,41.241699,-88.230301,602
+IL50,Memorial Hospital Heliport,IL50,,Carthage,US,40.409211,-91.133476,653
+IL51,Aero Acres Airport,IL51,,Campus,US,41.038101,-88.337502,645
+IL52,Williams Airport,IL52,,Carthage,US,40.439201,-91.143997,679
+IL53,Lung RLA Restricted Landing Area,IL53,,Carthage,US,40.461201,-91.073799,617
+IL54,Richmond Airport,IL54,,Table Grove,US,40.344200,-90.442802,680
+IL55,Andrew RLA Restricted Landing Area Airport,IL55,,Champaign,US,40.160301,-88.304497,810
+IL56,Mc Culley Airport,IL56,,Champaign,US,40.220299,-88.253700,750
+IL57,Cottonwood Airport,IL57,,Bloomington,US,40.422001,-89.020599,765
+IL58,Aero Four Airport,IL58,,Channahon,US,41.436100,-88.248703,600
+IL59,Chicago Glider Club Gliderport,IL59,,Channahon,US,41.431999,-88.247299,590
+IL60,Chatsworth Restricted Landing Area,IL60,,Chatsworth,US,40.743099,-88.291199,742
+IL61,Vienna Correctional Center Heliport,IL61,,Grantsburg,US,37.397598,-88.774200,510
+IL62,Munch Heliport,IL62,,Chemung,US,42.422001,-88.730698,900
+IL63,Mays Aviation Airport,IL63,,Chenoa,US,40.700001,-88.675102,720
+IL64,Martin Airport,IL64,,Lincoln,US,40.180599,-89.500099,558
+IL65,M.A.M Trail Airport,IL65,,Little York,US,41.005001,-90.708504,605
+IL67,Big Muddy Correctional Facility Heliport,IL67,,Ina,US,38.129799,-88.904800,425
+IL68,Mill Rose Farm Restricted Landing Area,IL68,,Chicago/Barrington,US,42.077202,-88.159798,850
+IL69,First Area Police Hdqtrs Heliport,IL69,,Chicago,US,41.799999,-87.627800,600
+IL70,Wgn-Tv Heliport,IL70,,Chicago,US,41.948299,-87.693298,591
+IL71,Dury Estates Airport,IL71,,Hurst,US,37.819199,-89.152199,395
+IL72,Entwistle Airport,IL72,,Lostant,US,41.115601,-89.044800,700
+IL73,St Elizabeth's Hospital Heliport,IL73,,Belleville,US,38.509998,-89.988899,564
+IL74,Rose Packing County Heliport,IL74,,Chicago,US,41.802799,-87.766197,613
+IL75,John H. Stroger Hospital of Cook County Heliport,IL75,,Chicago,US,41.874802,-87.673401,593
+IL76,Marcor Heliport,IL76,,Chicago,US,41.896099,-87.642303,1047
+IL77,Advocate Christ Medical Center Heliport,IL77,,Chicago/Oak Lawn/,US,41.724998,-87.729202,619
+IL78,Benoit Airport,IL78,,Kankakee,US,41.131100,-87.792297,660
+IL79,Resurrection Medical Center Heliport,IL79,,Chicago,US,41.986354,-87.814997,663
+IL81,Berns Airport,IL81,,Clifton,US,40.936100,-88.041702,658
+IL82,Martin RLA Restricted Landing Area,IL82,,Clinton,US,40.109501,-88.828697,725
+IL83,Mulderink Heliport,IL83,,South Chicago Heights,US,41.478600,-87.589798,665
+IL84,Douglas Airport,IL84,,Colusa,US,40.576401,-91.102898,650
+IL85,Midwestern Regional Medical Center Heliport,IL85,,Zion,US,42.449200,-87.827797,711
+IL86,Krohe Airport,IL86,,Beardstown,US,39.936199,-90.466797,450
+IL87,W Davis Airport,IL87,,Compton,US,41.711102,-89.112297,930
+IL88,Earl Barnickel Airport,IL88,,Compton,US,41.674999,-89.116798,929
+IL89,St Mary Medical Center - Galesburg Heliport,IL89,,Galesburg,US,40.986698,-90.361397,790
+IL90,Nordic Heliport,IL90,,Gurnee,US,42.358299,-87.887497,700
+IL91,Testoni Farms Airport,IL91,,Cornell,US,41.020901,-88.653397,688
+IL92,Ingalls Memorial Hospital Heliport,IL92,,Harvey,US,41.606400,-87.660301,608
+IL93,Hendrickson Flying Service Airport,IL93,,Creston,US,41.945301,-88.924004,889
+IL94,Hoblit Farms Airport,IL94,,Atlanta,US,40.226299,-89.242897,623
+IL95,Corn Field,IL95,,Custer Park,US,41.223099,-88.145302,585
+IL96,Kaiser Heliport,IL96,,Monee,US,41.385101,-87.720299,750
+IL97,Springfield Southwest Airpark,IL97,,New Berlin,US,39.737000,-89.809799,635
+IL98,Chicagoland Speedway Heliport,IL98,,Joliet,US,41.479698,-88.058296,650
+IL99,B & C Airport,IL99,,Earlville,US,41.592800,-88.967300,715

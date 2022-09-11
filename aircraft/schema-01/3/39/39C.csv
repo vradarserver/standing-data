@@ -1,0 +1,12 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+39C501,F-HRIB,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,0,VallJet,VLJ,525-0188,
+39C8AD,F-HSFN,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Gestair,GES,560-6300,
+39CC83,F-HTED,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,118,
+39CE57,F-HTSX,P28A,Piper,PA-28-181 Archer TX,Piper PA-28-181 Archer TX,1,Private,,,
+39CEB1,F-HTVR,B738,Boeing,737-86J (W),Boeing 737-86J (W),0,Transavia France,TVF,37761,2011
+39CEB3,F-HTVT,B738,Boeing,737-86J,Boeing 737-86J,0,Transavia France,TVF,37767,2012
+39CEB4,F-HTVU,B738,Boeing,737-86J,Boeing 737-86J,0,Transavia France,TVF,37770,2012
+39CF0E,F-HTYO,A359,Airbus,A350-941,Airbus A350-941,0,Air France,AFR,546,2022
+39CF0F,F-HTYP,A359,Airbus,A350-941,Airbus A350-941,0,Air France,AFR,548,2022
+39CF10,F-HTYQ,A359,Airbus,A350-941,Airbus A350-941,0,Air France,AFR,551,2022
+39CF11,F-HTYR,A359,Airbus,A350-941,Airbus A350-941,0,Air France,AFR,562,2022

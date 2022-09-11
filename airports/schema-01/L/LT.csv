@@ -1,0 +1,76 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LT86,Imroz Airport,LT86,GKD,Gökçeada,TR,40.204498,25.883301,73
+LTAB,Güvercinlik Airport,LTAB,,Ankara,TR,39.935001,32.740799,2687
+LTAC,Esenboğa International Airport,LTAC,ESB,Ankara,TR,40.128101,32.995098,3125
+LTAD,Etimesgut Air Base,LTAD,ANK,Ankara,TR,39.949799,32.688599,2653
+LTAE,Akıncı Air Base,LTAE,,Ankara,TR,40.078899,32.565601,2767
+LTAF,Adana Airport,LTAF,ADA,Adana,TR,36.982201,35.280399,65
+LTAG,İncirlik Air Base,LTAG,UAB,Adana,TR,37.002102,35.425900,238
+LTAH,Afyon Airport,LTAH,AFY,Afyonkarahisar,TR,38.726398,30.601101,3310
+LTAI,Antalya International Airport,LTAI,AYT,Antalya,TR,36.898701,30.800501,177
+LTAJ,Gaziantep International Airport,LTAJ,GZT,Gaziantep,TR,36.947201,37.478699,2315
+LTAK,İskenderun Airport,LTAK,,İskenderun,TR,36.574455,36.153419,25
+LTAL,Kastamonu Airport,LTAL,KFS,Kastamonu,TR,41.314201,33.795799,3520
+LTAN,Konya Airport,LTAN,KYA,Konya,TR,37.979000,32.561901,3381
+LTAO,Malatya Tulga Airport,LTAO,,Malatya,TR,38.353699,38.253899,3016
+LTAP,Amasya Merzifon Airport,LTAP,MZH,Amasya,TR,40.829399,35.521999,1758
+LTAQ,Samsun Samair Airport,LTAQ,SSX,Samsun,TR,41.278645,36.305180,521
+LTAR,Sivas Airport,LTAR,VAS,Sivas,TR,39.813801,36.903500,5236
+LTAS,Zonguldak Airport,LTAS,ONQ,Zonguldak,TR,41.506401,32.088600,39
+LTAT,Malatya Erhaç Airport,LTAT,MLX,Malatya,TR,38.435299,38.091000,2828
+LTAU,Kayseri Erkilet Airport,LTAU,ASR,Kayseri,TR,38.770401,35.495399,3463
+LTAV,Sivrihisar Airport,LTAV,,Sivrihisar,TR,39.451500,31.365299,3185
+LTAW,Tokat Airport,LTAW,TJK,Tokat,TR,40.307430,36.367409,1831
+LTAX,Ereğli Erdemir Airport,LTAX,,Eregli,TR,41.251400,31.410801,10
+LTAY,Çardak Airport,LTAY,DNZ,Denizli,TR,37.785599,29.701300,2795
+LTAZ,Nevşehir Kapadokya International Airport,LTAZ,NAV,Nevşehir,TR,38.771900,34.534500,3100
+LTBA,Atatürk International Airport,LTBA,ISL,Istanbul,TR,40.976898,28.814600,163
+LTBD,Çıldır Airport,LTBD,CII,Aydın,TR,37.814999,27.895300,102
+LTBE,Bursa Airport,LTBE,BTZ,Bursa,TR,40.233299,29.009199,331
+LTBF,Balikesir Merkez,LTBF,BZI,Balikesir,TR,39.619258,27.925958,340
+LTBH,Çanakkale Airport,LTBH,CKZ,Çanakkale,TR,40.137699,26.426800,23
+LTBJ,Adnan Menderes International Airport,LTBJ,ADB,İzmir,TR,38.292400,27.157000,412
+LTBN,Kütahya Airport,LTBN,,Kütahya,TR,39.426701,30.016899,3026
+LTBO,Uşak Airport,LTBO,USQ,Uşak,TR,38.681499,29.471701,2897
+LTBP,Yalova Airport,LTBP,,Çiftlikköy,TR,40.684399,29.375700,6
+LTBQ,Cengiz Topel Naval Air Station,LTBQ,KCO,İzmit,TR,40.735028,30.083336,182
+LTBR,Bursa Yenişehir Airport,LTBR,YEI,Bursa,TR,40.255199,29.562599,764
+LTBS,Dalaman International Airport,LTBS,DLM,Dalaman,TR,36.713100,28.792500,20
+LTBU,Tekirdağ Çorlu Airport,LTBU,TEQ,Çorlu,TR,41.138199,27.919100,574
+LTBW,İstanbul Hezarfen Airfield,LTBW,,Istanbul,TR,41.103600,28.547701,57
+LTBX,Samandıra Air Base,LTBX,,Ümraniye,TR,40.993000,29.216499,400
+LTBY,Anadolu University Airport,LTBY,AOE,Eskişehir,TR,39.809898,30.519400,2588
+LTBZ,Zafer Airport,LTBZ,KZR,Kütahya,TR,39.111389,30.130000,0
+LTCA,Elazığ Airport,LTCA,EZS,Elazığ,TR,38.606899,39.291401,2927
+LTCB,Ordu-Giresun,LTCB,OGU,Ordu,TR,40.966667,38.080000,18
+LTCC,Diyarbakir Airport,LTCC,DIY,Diyarbakir,TR,37.893902,40.201000,2251
+LTCD,Erzincan Airport,LTCD,ERC,Erzincan,TR,39.710201,39.527000,3783
+LTCE,Erzurum International Airport,LTCE,ERZ,Erzurum,TR,39.956501,41.170200,5763
+LTCF,Kars Airport,LTCF,KSY,Kars,TR,40.562199,43.115002,5889
+LTCG,Trabzon International Airport,LTCG,TZX,Trabzon,TR,40.995098,39.789700,104
+LTCH,Şanlıurfa Airport,LTCH,SFQ,Şanlıurfa,TR,37.094299,38.847099,1483
+LTCI,Van Ferit Melen Airport,LTCI,VAN,Van,TR,38.468201,43.332298,5480
+LTCJ,Batman Airport,LTCJ,BAL,Batman,TR,37.929001,41.116600,1822
+LTCK,Muş Airport,LTCK,MSR,Muş,TR,38.747799,41.661201,4157
+LTCL,Siirt Airport,LTCL,SXZ,Siirt,TR,37.978901,41.840401,2001
+LTCM,Sinop Airport,LTCM,NOP,Sinop,TR,42.015800,35.066399,20
+LTCN,Kahramanmaraş Airport,LTCN,KCM,Kahramanmaraş,TR,37.538826,36.953522,1723
+LTCO,Ağrı Airport,LTCO,AJI,Ağrı,TR,39.654600,43.027100,5462
+LTCP,Adıyaman Airport,LTCP,ADF,Adıyaman,TR,37.731400,38.468899,2216
+LTCR,Mardin Airport,LTCR,MQM,Mardin,TR,37.223301,40.631699,1729
+LTCS,Şanlıurfa GAP Airport,LTCS,GNY,Şanlıurfa,TR,37.445663,38.895592,2708
+LTCT,Iğdır Airport,LTCT,IGD,Iğdır,TR,39.983056,43.866389,3100
+LTCU,Cewlik Bingöl Airport,LTCU,BGG,Bingöl,TR,38.861111,40.592500,3488
+LTCV,Şırnak Şerafettin Elçi Airport,LTCV,NKT,Cizre,TR,37.363889,42.060000,2037
+LTCW,Hakkari–Yüksekova Airport,LTCW,YKO,Yüksekova,TR,37.551667,44.233611,6400
+LTDA,Hatay Airport,LTDA,HTY,Hatay,TR,36.362778,36.282223,269
+LTFB,Selçuk Efes Airport,LTFB,,Selçuk,TR,37.950699,27.329000,10
+LTFC,Süleyman Demirel International Airport,LTFC,ISE,Isparta,TR,37.855400,30.368401,2835
+LTFD,Balıkesir Körfez Airport,LTFD,EDO,Edremit,TR,39.554600,27.013800,50
+LTFE,Milas Bodrum International Airport,LTFE,BJV,Bodrum,TR,37.250599,27.664301,21
+LTFG,Gazipaşa Airport,LTFG,GZP,Alanya,TR,36.299217,32.300598,92
+LTFH,Samsun Çarşamba Airport,LTFH,SZF,Samsun,TR,41.254501,36.567101,18
+LTFJ,Sabiha Gökçen International Airport,LTFJ,SAW,Istanbul,TR,40.898602,29.309200,312
+LTFM,Istanbul Airport,LTFM,IST,Istanbul,TR,41.263889,28.705556,302
+LTFO,Rize–Artvin Airport,LTFO,RZV,"Yeşilköy, Pazar",TR,41.169167,40.828889,16
+LTXE,Karain Airport,LTXE,,Antalya,TR,37.096443,30.647736,1015

@@ -1,0 +1,397 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+FA01,St. Joseph Hospital Heliport,FA01,,Port Charlotte,US,26.990900,-82.095100,13
+FA03,Southfork Airport,FA03,,Duette,US,27.603901,-82.192902,109
+FA04,Mease Hospital Emergency Heliport,FA04,,Dunedin,US,28.014200,-82.781998,35
+FA06,Pinellas County Sheriff's Building Heliport,FA06,,Largo,US,27.891399,-82.789299,76
+FA08,Orlampa Inc Airport,FA08,,Polk City,US,28.167000,-81.808098,139
+FA09,Arliss M Airport,FA09,,Fairfield,US,29.340799,-82.263702,200
+FA10,Bso Public Safety Helistop,FA10,,Fort Lauderdale,US,26.124500,-80.179199,8
+FA11,Bird Field,FA11,,Jennings,US,30.622400,-83.259300,150
+FA12,Shands Helistop,FA12,,Gainesville,US,29.639099,-82.345398,334
+FA14,Broadway Helicopters Heliport,FA14,,Fort Walton Beach,US,30.397699,-86.594101,10
+FA15,Hamilton Helistop,FA15,,Jasper,US,30.523300,-82.956497,152
+FA16,Jay Hospital Heliport,FA16,,Jay,US,30.949900,-87.150803,252
+FA17,Kissimmee Seaplane Base,FA17,,Kissimmee,US,28.283600,-81.408997,53
+FA18,Devils Garden Strip,FA18,,La Belle,US,28.451099,-81.000298,18
+FA19,Palms West Hospital Helistop,FA19,,Loxahatchee,US,26.680599,-80.840599,21
+FA20,Post Electric Inc Heliport,FA20,,Panama City,US,30.208000,-85.675797,10
+FA21,Memorial Hospital West Helistop,FA21,,Pembroke Pines,US,26.014299,-80.311401,12
+FA22,Dove Heliport,FA22,,Sarasota,US,27.333401,-82.430099,12
+FA23,Sarasota Memorial Hospital Heliport,FA23,,Sarasota,US,27.317801,-82.529800,100
+FA24,Horseshoe Acres Airpark,FA24,,Indiantown,US,27.093300,-80.612198,9
+FA25,Black Creek Pass Airport,FA25,,Tallahasse,US,30.500950,-84.078100,95
+FA26,Dogwood Farm Airport,FA26,,Havana,US,30.537201,-84.451897,200
+FA27,Ellsworth Field,FA27,,Arcadia,US,27.205601,-81.777199,60
+FA29,Lumar Field,FA29,,Perry,US,30.130800,-83.549400,65
+FA30,Redtail Airstrip,FA30,,Morriston,US,29.279200,-82.500000,65
+FA31,Cypress Gardens Heliport,FA31,,Winter Haven,US,27.989700,-81.693100,151
+FA32,Circle P Airport,FA32,,Perry,US,30.103300,-83.450302,83
+FA33,Mosquito Ctl Heliport,FA33,,Sarasota,US,27.272499,-82.366096,25
+FA34,Beach Mosquito Control District Heliport,FA34,,Panama City Beach,US,30.208500,-85.827698,14
+FA35,Lindbergh's Landing Airport,FA35,,Miami,US,25.619499,-80.488701,9
+FA36,White Farms Airport,FA36,,Chiefland,US,29.512699,-82.874802,46
+FA37,Wing South Airpark,FA37,,Naples,US,26.116800,-81.703102,9
+FA38,Woods and Lakes Airpark,FA38,,Oklawaha,US,29.123600,-81.887001,100
+FA39,Veterans Administration Medical Center Heliport,FA39,,Gainesville,US,29.637199,-82.362000,102
+FA40,Hidden Lake Airport,FA40,,New Port Richey,US,28.282499,-82.645699,30
+FA41,Mosquito Control Heliport,FA41,,Jacksonville,US,30.441099,-81.477303,20
+FA42,Sheets Airport,FA42,,Groveland,US,28.532900,-81.846703,118
+FA43,Dog Island Airport,FA43,,Carrabelle,US,29.808500,-84.595703,4
+FA44,Willis Gliderport,FA44,,Boynton Beach,US,26.548100,-80.214798,18
+FA45,Lake Wales Heliport,FA45,,Lake Wales,US,27.916100,-81.548698,125
+FA46,Henderson Field,FA46,,Minneola,US,28.633600,-81.708099,90
+FA47,South Dade Community Health Center Heliport,FA47,,Homestead,US,25.565901,-80.350601,7
+FA48,Four Points Sheraton Lakeside Heliport,FA48,,Kissimmee,US,28.339500,-81.595398,110
+FA49,Shady International Airport,FA49,,Ocala,US,29.096100,-82.179001,102
+FA50,Wings-N-Wheels Airport,FA50,,Reddick,US,29.361401,-82.149803,82
+FA51,William's Sky Manor Airport,FA51,,La Belle,US,26.739000,-81.506203,15
+FA52,Florida Hospital-Sebring Heliport,FA52,,Sebring,US,27.538099,-81.509201,154
+FA53,Eagles Nest Heliport,FA53,,Auburndale,US,28.043900,-81.848602,125
+FA54,Coral Creek Airport,FA54,,Placida,US,26.854500,-82.251198,4
+FA55,Garnair Airport,FA55,,Bonifay,US,30.779699,-85.768303,105
+FA56,North Florida Regional Medical Center Heliport,FA56,,Gainesville,US,29.661501,-82.412102,143
+FA57,Archer Emergency Heliport,FA57,,Archer,US,29.534201,-82.524399,82
+FA58,Helen Ellis Hospital Heliport,FA58,,Tarpon Springs,US,28.132601,-82.758301,39
+FA59,Nitv Heliport,FA59,,Wellington,US,26.634001,-80.224197,18
+FA60,Vince's Condominium Association Airport,FA60,,Lake Placid,US,27.238899,-81.385902,115
+FA61,Shands Jacksonville Hospital Heliport,FA61,,Jacksonville,US,30.348900,-81.666496,25
+FA62,Santa Fe River Ranch Airport,FA62,,Alachua,US,29.916901,-82.483200,145
+FA63,Leffler Airport,FA63,,Alamana,US,28.963600,-81.121399,43
+FA64,Montgomery Ranch Airport,FA64,,Arcadia,US,27.074499,-81.586502,75
+FA65,Memorial Medical Center of Jacksonville Heliport,FA65,,Jacksonville,US,30.291700,-81.600800,15
+FA66,Travel Lodge Heliport,FA66,,Atlantic Beach,US,30.324100,-81.411797,28
+FA67,Walker Memorial Medical Center Heliport,FA67,,Avon Park,US,27.632500,-81.518402,120
+FA69,Duda Airstrip,FA69,,Belle Glade,US,26.587799,-80.637299,14
+FA70,St. Joseph's Hospital North Heliport,FA70,,Lutz,US,28.128056,-82.506389,60
+FA71,The Cedars Airfield,FA71,,Cedar Key,US,29.228001,-82.943703,8
+FA72,Acres of Diamonds Airpark,FA72,,Greenwood,US,30.886299,-85.163803,134
+FA73,Oak Harbor Seaplane Base,FA73,,Haines City,US,28.128901,-81.687897,130
+FA74,Romor Ranch Airport,FA74,,Ochopee,US,25.980900,-81.056702,12
+FA76,Miami Childrens Hospital Heliport,FA76,,Miami,US,25.740930,-80.294641,54
+FA77,Lowe's Airport,FA77,,Sarasota,US,27.330900,-82.290604,54
+FA78,Robinestte Seaplane Base,FA78,,St Cloud,US,28.333000,-81.250000,58
+FA79,Doan Heliport,FA79,,South Daytona,US,29.165501,-81.027298,13
+FA80,Lost Horn Ranch Airport,FA80,,Ochopee,US,25.968100,-81.081497,12
+FA81,Tavernaero Park Airport,FA81,,Tavernier,US,25.008699,-80.533096,10
+FA82,Good Samaritan Medical Center Heliport,FA82,,West Palm Beach,US,26.724701,-80.055801,17
+FA83,Orlando North Airpark,FA83,,Zellwood,US,28.726400,-81.650902,80
+FA88,Pittman Oaks Airport,FA88,,Live Oak,US,30.425042,-83.048469,83
+FA99,Fantasy Field Airstrip,FA99,,Chehalis,US,46.587833,-122.865778,300
+FAAB,Alexander Bay Airport,FAAB,ALJ,Alexander Bay,ZA,-28.575001,16.533300,98
+FAAD,Adelaide Airport,FAAD,,Adelaide,ZA,-32.683102,26.294201,1955
+FAAE,Aberdeen Airport,FAAE,,Aberdeen,ZA,-32.466702,24.066700,2461
+FAAF,Andrew's Field Airport,FAAF,,Struisbaai,ZA,-34.762890,20.034916,30
+FAAG,Aggeneys Airport,FAAG,AGZ,Aggeneys,ZA,-29.281799,18.813900,2648
+FAAL,Alldays Airport,FAAL,ADY,Alldays,ZA,-22.679001,29.055500,2600
+FAAM,Amsterdam Airport,FAAM,,Amsterdam,ZA,-26.633333,30.600000,4310
+FAAN,Aliwal North Airport,FAAN,,Aliwal North,ZA,-30.680000,26.730000,4405
+FAAP,Arnot Power Station Airport,FAAP,,Arnot Power Station,ZA,-25.941099,29.810301,5594
+FAAS,Ashton Airport,FAAS,,Ashton,ZA,-33.816666,20.066668,525
+FABA,Microland Flight Park,FABA,,Bapsfontein,ZA,-25.976256,28.389015,5476
+FABB,Brakpan Airport,FABB,,Brakpan,ZA,-26.238600,28.301800,5300
+FABD,Burghersdorp Airport,FABD,,Burgersdorp,ZA,-30.977501,26.308100,4734
+FABE,Bisho Airport,FABE,BIY,Bisho,ZA,-32.897099,27.279100,1950
+FABF,Barkley East Airport,FABF,,Barkley East,ZA,-30.966667,27.604166,5940
+FABH,Belfast Aerodrome,FABH,,Belfast,ZA,-25.658742,30.041578,6250
+FABK,Bushmans Kloof Airport,FABK,,Bushman's Kloof,ZA,-32.035000,19.043500,1050
+FABL,Bram Fischer International Airport,FABL,BFN,Bloemfontain,ZA,-29.092699,26.302401,4458
+FABM,Bethlehem Airport,FABM,,Bethlehem,ZA,-28.248400,28.336100,5561
+FABO,Hendrik Potgieter Airport,FABO,,Bothaville,ZA,-27.366800,26.629200,4236
+FABP,Black Rock Airport,FABP,,Santoy,ZA,-27.129724,22.846255,3450
+FABR,Barberton Airport,FABR,,Umjindi (Barberton),ZA,-25.716869,30.975180,2250
+FABS,Brits Airport,FABS,,Brits,ZA,-25.532301,27.775900,3756
+FABT,Bethesda Road Airport,FABT,,Bethesda,ZA,-31.873199,24.796900,4630
+FABU,Bultfontein Airport,FABU,UTE,Bultfontein,ZA,-28.273369,26.135835,4400
+FABV,Brandviei Airport,FABV,,Brandviei,ZA,-30.466700,20.466700,2999
+FABW,Beaufort West Airport,FABW,,Beaufort West,ZA,-32.299999,22.670000,2941
+FABX,Beatrix Airport,FABX,,Virginia,ZA,-28.245001,26.771900,4518
+FABZ,Bizana Airport,FABZ,,Bizana,ZA,-30.860300,29.863899,2740
+FACA,Monte Carlo Airport,FACA,,Monte Carlo,ZA,-28.799999,27.417000,4995
+FACB,Colesberg Airport,FACB,,Colesberg,ZA,-30.733900,25.065001,4639
+FACC,Arathusa Safari Lodge Airport,FACC,,Arathusa,ZA,-24.744167,31.522499,1200
+FACD,Cradock Airport,FACD,CDO,Cradock,ZA,-32.156700,25.645599,3110
+FACE,Ceres Airport,FACE,,Ceres,ZA,-33.353001,19.311399,1519
+FACF,Cap St Francis Airport,FACF,,St Francis,ZA,-34.186901,24.834999,131
+FACH,Cookhouse Airport,FACH,,Cookhouse,ZA,-32.744701,25.796301,1893
+FACI,Citrusdal Airport,FACI,,Citrusdal,ZA,-32.617699,19.005400,532
+FACK,Christiana Airport,FACK,,Christiana,ZA,-27.877701,25.201799,3978
+FACL,Carolina Airport,FACL,,Carolina,ZA,-26.078100,30.092501,5420
+FACN,Carnarvon Airport,FACN,,Carnarvon,ZA,-30.988600,22.131701,4160
+FACO,Alkantpan Copper Airport,FACO,,Cooperton,ZA,-29.906401,22.316700,3589
+FACR,Carltonville Airport,FACR,,Carltonville,ZA,-26.366667,27.346666,5000
+FACT,Cape Town International Airport,FACT,CPT,Cape Town,ZA,-33.964802,18.601700,151
+FACV,Calvinia Airport,FACV,,Calvinia,ZA,-31.500299,19.725901,3250
+FACW,Clanwilliam Airport,FACW,,Clanwilliam,ZA,-32.183102,18.888599,650
+FACX,Cathcart Airport,FACX,,Cathcart,ZA,-32.287102,27.138800,3959
+FACY,Stilbaai Airport,FACY,,Stilbaai,ZA,-34.351799,21.424801,266
+FADA,De Aar Airport,FADA,,De Aar,ZA,-30.692200,24.020599,4154
+FADB,Dwaalboom Airport,FADB,,Dwaalboom,ZA,-24.807199,26.829700,3652
+FADD,Dundee Airport,FADD,,Dundee,ZA,-28.183100,30.222500,4219
+FADE,Delmas Airport,FADE,,Delmas,ZA,-26.141666,28.691668,5075
+FADG,Dordrecht Airport,FADG,,Dordrecht,ZA,-31.383333,27.033333,5200
+FADH,Durnacol Airport,FADH,,Durnacol,ZA,-28.046101,30.006399,4317
+FADK,Mubatuba Airport,FADK,DUK,Mubatuba,ZA,-28.368401,32.248100,210
+FADL,Delareyville Airport,FADL,,Delareyville,ZA,-26.679199,25.474701,4469
+FADM,Kokstad Airport,FADM,,Kokstad,ZA,-30.556499,29.408199,4084
+FADN,Durban International Airport,FADN,,Durban,ZA,-29.970100,30.950500,33
+FADO,Dendron Airport,FADO,,Dendron,ZA,-23.380600,29.320801,3399
+FADP,Darlington Dam Lodge Airport,FADP,,Port Elizabeth,ZA,-33.183201,25.193199,847
+FADQ,Zulu Inyala Airport,FADQ,PZL,Phinda,ZA,-27.849400,32.309700,160
+FADR,Dunnottar Airport,FADR,,Dunnottar,ZA,-26.349701,28.441900,5241
+FADS,De Doorns Airport,FADS,,De Doorns,ZA,-33.455557,19.684493,1626
+FADV,Devon Airport,FADV,,Devon,ZA,-26.358999,28.789700,5460
+FADX,Delta 200 Airstrip,FADX,,Koeberg,ZA,-33.649494,18.471880,220
+FADY,De Aar Military Airport,FADY,,De Aar,ZA,-30.636509,23.919725,4037
+FADZ,Drakensberg Gardens Airport,FADZ,,Drakensberg Gardens,ZA,-29.750000,29.250000,5948
+FAEC,Estcourt Airport,FAEC,,Estcourt,ZA,-29.047199,29.910601,4262
+FAED,Edenburg Airport,FAED,,Edenburg,ZA,-29.750000,25.900000,4509
+FAEG,Egnep Airport,FAEG,,Egnep,ZA,-24.566999,30.316999,2299
+FAEL,Ben Schoeman Airport,FAEL,ELS,East London,ZA,-33.035599,27.825899,435
+FAEM,Empangeni Airport,FAEM,EMG,Empangeni,ZA,-28.719999,31.889999,251
+FAEO,Ermelo Airport,FAEO,,Ermelo,ZA,-26.495600,29.979799,5700
+FAER,Ellisras Matimba Airport,FAER,ELL,Ellisras,ZA,-23.726700,27.688299,2799
+FAES,Eshowe Airport,FAES,,Eshowe,ZA,-28.880199,31.454901,1601
+FAET,Elliot Airport,FAET,,Elliot,ZA,-31.306900,27.849501,5028
+FAFB,Ficksburg Sentraoes Airport,FAFB,FCB,Ficksburg,ZA,-28.823099,27.908899,5315
+FAFF,Frankfort Airport,FAFF,,Frankfort,ZA,-27.285400,28.515301,5176
+FAFG,Flamingo Vlei Airport,FAFG,,Flamingo Vlei,ZA,-30.490999,21.121700,3248
+FAFK,Fisantekraal Airport,FAFK,,Fisantekraal,ZA,-33.770000,18.740000,410
+FAFO,Fort Beaufort Airport,FAFO,,Fort Beaufort,ZA,-32.790501,26.577700,1581
+FAFR,Fraserburg Airport,FAFR,,Fraseburg,ZA,-31.933901,21.502501,4180
+FAFU,Fraaiuitzicht Airport,FAFU,,Fraaiuitzicht,ZA,-27.316999,27.250000,4841
+FAFW,Freeway Airport,FAFW,,Kromdraai,ZA,-25.477200,28.290001,3819
+FAGA,Grange Airport,FAGA,,Umzimkulu,ZA,-30.267000,29.966999,2600
+FAGC,Grand Central Airport,FAGC,GCJ,Midrand,ZA,-25.986300,28.140100,5325
+FAGG,George Airport,FAGG,GRJ,George,ZA,-34.005600,22.378901,648
+FAGH,Glen Grey Airport,FAGH,,Emmaus,ZA,-28.833334,29.466667,3500
+FAGI,Giyani Airport,FAGI,GIY,Giyani,ZA,-23.283300,30.650000,1584
+FAGJ,Gifvlei Airport,FAGJ,,Gifvlei,ZA,-30.383301,20.033300,3199
+FAGL,Groblersdal Kob Airport,FAGL,,Groblersdal,ZA,-25.186899,29.403299,3051
+FAGM,Rand Airport,FAGM,QRA,Johannesburg,ZA,-26.242500,28.151199,5483
+FAGR,Graaff Reinet Airport,FAGR,,Graaff-Reinet,ZA,-32.193600,24.541401,2604
+FAGS,Giants Castle Airport,FAGS,,Giant'S Castle Game Reserve,ZA,-29.269699,29.566099,6086
+FAGT,Grahamstown Airport,FAGT,,Grahamstown,ZA,-33.284698,26.498100,2135
+FAGV,Gravelotte Airport,FAGV,,Gravelotte,ZA,-23.916700,30.700001,1650
+FAGW,Magwa Airport,FAGW,,Magwa,ZA,-31.393942,29.693470,1823
+FAGY,Greytown Airport,FAGY,,Greytown,ZA,-29.122000,30.586700,3531
+FAHA,Harmony Airport,FAHA,,Virginia,ZA,-28.078699,26.861200,4399
+FAHB,Hartebeespoortdam Airport,FAHB,,Hartebeespoort,ZA,-24.502399,28.079100,3740
+FAHC,Howick Airport,FAHC,,Howick,ZA,-29.552799,30.211100,3619
+FAHD,Humansdorp Airport,FAHD,,Humansdorp,ZA,-34.036598,24.788900,345
+FAHE,Pullenshope Hendrina Airport,FAHE,,Hendrina,ZA,-25.977800,29.618900,5171
+FAHF,Henrys Flats Airport,FAHF,,Henry'S Flats,ZA,-33.046101,25.716900,1709
+FAHG,Heidelburg Airport,FAHG,,Heidelburg,ZA,-26.510000,28.389999,5089
+FAHH,Hibberdene Airport,FAHH,,Hibberdene,ZA,-30.629999,30.520000,89
+FAHI,Halfweg Airport,FAHI,,Halfweg,ZA,-30.013300,20.139200,3159
+FAHJ,Harding Airport,FAHJ,,Harding,ZA,-30.566700,29.883301,2890
+FAHK,Haakdoornboom Airport,FAHK,,Haakdoornboom,ZA,-25.587200,28.115801,4055
+FAHL,Hluhluwe Airport,FAHL,HLW,Hluhluwe,ZA,-28.016605,32.275171,249
+FAHM,Hermanus Airport,FAHM,,Hermanus,ZA,-34.400002,19.200001,72
+FAHO,Heilbron Airport,FAHO,,Heilbron,ZA,-27.278601,27.995600,5200
+FAHP,Hoopstad Airport,FAHP,,Hoopstad,ZA,-27.821699,25.916901,4131
+FAHR,Harrismith Airport,FAHR,HRS,Harrismith,ZA,-28.235100,29.106199,5585
+FAHS,Hoedspruit Air Force Base Airport,FAHS,HDS,Hoedspruit,ZA,-24.368601,31.048700,1743
+FAHT,Hoedspruit Airport,FAHT,,Hoedspruit,ZA,-24.351700,30.949400,1801
+FAHU,H M S Bastard Memorial Airport,FAHU,,H.M.S.Bastard Memorial,ZA,-30.542500,29.499001,4701
+FAHV,Gariep Dam Airport,FAHV,,Hendrik Verwoerd dam,ZA,-30.562201,25.528299,4176
+FAIA,Itala Airport,FAIA,,Itala,ZA,-27.486700,31.171101,2665
+FAID,Idutywa Airport,FAID,,Idutywa,ZA,-32.099998,28.316700,2530
+FAIO,Odi Airport,FAIO,,Lerulaneng,ZA,-25.549999,27.933001,3862
+FAIS,Isithebe Airport,FAIS,,Nyoni,ZA,-29.105556,31.407499,313
+FAIV,Ingwavuma Airport,FAIV,,Ingwavuma,ZA,-27.117100,32.008701,2100
+FAIW,Indwe Airport,FAIW,,Indwe,ZA,-31.483334,27.350000,4167
+FAJF,Jagersfontain Airport,FAJF,,Jagersfontain,ZA,-29.762501,25.433001,4714
+FAJP,Joubertina Airport,FAJP,,Joubertina,ZA,-33.831200,23.830099,2007
+FAJV,Jansenville Airport,FAJV,,Jansenville,ZA,-32.939098,24.670700,1430
+FAKA,Kagga Kamma Airport,FAKA,,Kagga Kamma Private Game Reserve,ZA,-32.746994,19.562099,3494
+FAKB,Kosibaai Airport,FAKB,,Kosi Bay,ZA,-27.033333,32.750000,140
+FAKD,P C Pelser Airport,FAKD,KXE,Klerksdorp,ZA,-26.871099,26.718000,4444
+FAKE,Keimouth Airport,FAKE,,Keimouth,ZA,-32.700001,28.350000,222
+FAKF,Koffee Bay Airport,FAKF,,Koffee Bay,ZA,-31.963900,29.149099,10
+FAKG,Komati Power Station Airport,FAKG,,Komati Power Station,ZA,-26.093300,29.455601,5289
+FAKH,Kenhardt Airport,FAKH,,Kenhardt,ZA,-29.326700,21.188601,2723
+FAKI,Kobb Inn Airport,FAKI,,Kobb Inn,ZA,-32.433799,28.683467,147
+FAKK,Kakamas Airport,FAKK,,Kakamas,ZA,-28.799999,20.632999,2322
+FAKL,Kriel Airport,FAKL,,Kriel,ZA,-26.251101,29.194700,5262
+FAKM,Kimberley Airport,FAKM,KIM,Kimberley,ZA,-28.802799,24.765200,3950
+FAKN,Kruger Mpumalanga International Airport,FAKN,MQP,Mpumalanga,ZA,-25.383200,31.105600,2829
+FAKO,Komga Airport,FAKO,,Komga,ZA,-32.592800,27.875799,2178
+FAKP,Komatipoort Airport,FAKP,KOF,Komatipoort,ZA,-25.440300,31.930000,541
+FAKR,Krugersdorp Airport,FAKR,,Krugersdorp,ZA,-26.080999,27.725700,5499
+FAKS,Kroonstad Airport,FAKS,,Kroonstad,ZA,-27.660601,27.315800,4700
+FAKT,Kitty Hawk Airport,FAKT,,Boschkop,ZA,-25.860001,28.450001,4619
+FAKU,Johan Pienaar Airport,FAKU,KMH,Kuruman,ZA,-27.456699,23.411400,4382
+FAKV,Koffyfontein Min Airport,FAKV,,Koffyfontein,ZA,-29.439400,24.988600,3996
+FAKW,Kareedouw Airport,FAKW,,Kareedouw,ZA,-33.966667,24.299999,1050
+FAKX,Kenton on Sea Airport,FAKX,,Kenton On Sea,ZA,-33.669300,26.630899,172
+FAKZ,Kleinsee Airport,FAKZ,KLZ,Kleinsee,ZA,-29.688400,17.094000,270
+FALA,Lanseria Airport,FALA,HLA,Johannesburg,ZA,-25.938499,27.926100,4517
+FALB,Ladybrand Af Airport,FALB,,Ladybrand,ZA,-29.181101,27.453600,5180
+FALC,Lime Acres Finsch Mine Airport,FALC,LMR,Lime Acres,ZA,-28.360100,23.439100,4900
+FALD,Londolozi Airport,FALD,LDZ,Londolozi,ZA,-24.750200,31.475700,1300
+FALE,King Shaka International Airport,FALE,DUR,Durban,ZA,-29.614444,31.119722,295
+FALF,Loeriesfontein Airport,FALF,,Loeriesfontein,ZA,-30.906401,19.425301,2997
+FALH,Lohathla Military Airport,FALH,,Lohathla,ZA,-28.036800,23.098700,4500
+FALI,Lichtenburg Airport,FALI,,Lichtenburg,ZA,-26.175699,26.184601,4875
+FALK,Lusikisiki Airport,FALK,LUJ,Lusikisiki,ZA,-31.366699,29.583300,1831
+FALL,Lydenburg Airport,FALL,,Lydenburg,ZA,-25.103300,30.414200,4882
+FALM,Makhado Air Force Base Airport,FALM,,Louis Trichardt Southwest,ZA,-23.159901,29.696501,3069
+FALO,Louis Trichardt Airport,FALO,LCD,Louis Trichardt,ZA,-23.061899,29.864700,3025
+FALQ,El Mirador Airport,FALQ,,Ardmore,ZA,-28.986111,29.479723,3897
+FALR,Steytlerville Airport,FALR,,Steytlerville,ZA,-33.337002,24.321400,1450
+FALS,Somersveld Airport,FALS,,Somersveld,ZA,-33.246227,18.479998,196
+FALW,Langebaanweg Airport,FALW,SDB,Langebaanweg,ZA,-32.968899,18.160299,108
+FALY,Ladysmith Airport,FALY,LAY,Ladysmith,ZA,-28.581699,29.749701,3548
+FAMA,Matatiele Airport,FAMA,,Matatiele,ZA,-30.322201,28.794201,4762
+FAMB,Middelburg Airport,FAMB,,Middelburg,ZA,-25.684799,29.440201,4886
+FAMC,Middelburg 2 Airport,FAMC,,Cape Town,ZA,-31.547199,25.029400,4022
+FAMD,Malamala Airport,FAMD,AAM,Malamala,ZA,-24.818100,31.544600,1124
+FAMF,Malabar Airport,FAMF,,Malabar,ZA,-29.011900,23.847401,3348
+FAMG,Margate Airport,FAMG,MGH,Margate,ZA,-30.857401,30.343000,495
+FAMH,Musina(Messina) Airport,FAMH,MEZ,Musina,ZA,-22.356001,29.986200,1904
+FAMI,Marble Hall Airport,FAMI,,Marble Hall,ZA,-24.989100,29.283100,2980
+FAMJ,Majuba Power Station Airport,FAMJ,,Amerspoort,ZA,-27.079300,29.778500,5600
+FAMK,Mafeking Airport,FAMK,,Mafeking,ZA,-25.816668,25.616667,4201
+FAML,Manyani Game Lodge Airport,FAML,,Mafeking,ZA,-25.816700,25.716700,4383
+FAMM,Mmabatho International Airport,FAMM,MBD,Mafeking,ZA,-25.798401,25.548000,4181
+FAMN,Riverside Airport,FAMN,LLE,Malelane,ZA,-25.430000,31.576700,1024
+FAMO,Mossel Bay Airport,FAMO,MZY,Mossel Bay,ZA,-34.158298,22.058599,531
+FAMP,Madimbo Airport,FAMP,,Matshakatini,ZA,-22.374701,30.881599,2116
+FAMQ,Maclear Airport,FAMQ,,Maclear,ZA,-31.083300,28.376400,4106
+FAMS,Morningside Farm Airport,FAMS,,Silveroaks,ZA,-25.704500,26.909000,4251
+FAMT,Molteno Airport,FAMT,,Molteno,ZA,-31.389601,26.348400,5254
+FAMU,Mkuze Airport,FAMU,MZQ,Mkuze,ZA,-27.626101,32.044300,400
+FAMV,Montrose Airport,FAMV,,Montrose,ZA,-24.625000,30.186111,2690
+FAMX,Mbazwana Airport,FAMX,,Mbazwana,ZA,-27.481400,32.593899,195
+FAMY,Malmesbury Airport,FAMY,,Mammesbury,ZA,-33.461899,18.700800,971
+FAMZ,Msauli Airport,FAMZ,,Msauli,ZA,-26.049999,31.017000,2548
+FANA,Nongoma Airport,FANA,,Nongoma,ZA,-27.914000,31.656200,2596
+FANC,Newcastle Airport,FANC,NCS,Newcastle,ZA,-27.770599,29.976900,4074
+FANG,Ngala Airport,FANG,NGL,Ngala,ZA,-24.387800,31.325800,3357
+FANH,New Hanover Airport,FANH,,New Hanover,ZA,-29.356001,30.518400,2490
+FANL,New Largo Airport,FANL,,Witbank,ZA,-25.978500,28.984400,5038
+FANS,Nelspruit Airport,FANS,NLP,Nelspruit,ZA,-25.500000,30.913799,2875
+FANV,Nieuwoudtville Airfield,FANV,,Nieuwoudtville,ZA,-31.350000,19.116667,1890
+FANY,Nylstroom Airfield,FANY,,Modimolle,ZA,-24.686100,28.434900,3900
+FAOB,Overberg Airport,FAOB,OVG,Overberg,ZA,-34.554901,20.250700,52
+FAOD,Odendaalsrus Airport,FAOD,,Odendaalsrus,ZA,-27.871000,26.693399,1340
+FAOF,Jack Duvenhage Airport,FAOF,,Olifantshoek,ZA,-27.961700,22.716600,4216
+FAOH,Oudtshoorn Airport,FAOH,OUH,Oudtshoorn,ZA,-33.606998,22.188999,1063
+FAOI,Orient Glider Airport,FAOI,,Orient,ZA,-26.039400,27.595600,5102
+FAOL,Othawa Airport,FAOL,,Otthawa,ZA,-24.733000,31.400000,1098
+FAON,Ornate Lake St L Airport,FAON,,Hluhluwe,ZA,-28.044901,32.425400,59
+FAOR,OR Tambo International Airport,FAOR,JNB,Johannesburg,ZA,-26.139200,28.246000,5558
+FAOT,Ottosdal Airport,FAOT,,Ottosdal,ZA,-26.798300,26.000299,4860
+FAOY,Orkney Airport,FAOY,,Orkney,ZA,-26.983900,26.651400,4265
+FAPA,Port Alfred Airport,FAPA,AFD,Port Alfred,ZA,-33.554199,26.877701,307
+FAPC,Prince Albert Airport,FAPC,,Prince Albert,ZA,-33.202499,22.032200,2001
+FAPD,Pofadder Airport,FAPD,,Pofadder,ZA,-29.141701,19.413099,3241
+FAPE,Port Elizabeth Airport,FAPE,PLZ,Port Elizabeth,ZA,-33.984901,25.617300,226
+FAPF,Piet Retief Airport,FAPF,,Piet Retief,ZA,-26.996901,30.840799,4423
+FAPG,Plettenberg Bay Airport,FAPG,PBZ,Plettenberg Bay,ZA,-34.090302,23.327801,465
+FAPH,Hendrik Van Eck Airport,FAPH,PHW,Phalaborwa,ZA,-23.937201,31.155399,1432
+FAPI,Pietersburg Municipal Airport,FAPI,,Polokwane,ZA,-23.926100,29.484400,4354
+FAPJ,Port St Johns Airport,FAPJ,JOH,Port St Johns,ZA,-31.605900,29.519800,1227
+FAPK,Prieska Airport,FAPK,PRK,Prieska,ZA,-29.683599,22.770599,3100
+FAPL,Pongola Airport,FAPL,,Pongola,ZA,-27.362200,31.606701,942
+FAPM,Pietermaritzburg Airport,FAPM,PZB,Pietermaritzburg,ZA,-29.649000,30.398701,2423
+FAPN,Pilanesberg International Airport,FAPN,NTY,Pilanesberg,ZA,-25.333799,27.173401,3412
+FAPO,Pilgrims Rest Airport,FAPO,,Mankolehlotlo,ZA,-24.784700,30.792200,3802
+FAPP,Polokwane International Airport,FAPP,PTG,Potgietersrus,ZA,-23.845301,29.458599,4076
+FAPQ,Punda Maria(Malia) Airport,FAPQ,,Kruger National Park,ZA,-22.770000,31.010800,1500
+FAPS,Potchefstroom Airport,FAPS,PCF,Potchefstroom,ZA,-26.671000,27.081900,4520
+FAPT,Posmasburg Soil Airport,FAPT,,Postmasburg,ZA,-28.338600,23.079700,4301
+FAPU,Paarl East Airport,FAPU,,Paarl,ZA,-33.710767,19.024389,596
+FAPV,Petrusville Airport,FAPV,,Petrusville,ZA,-30.081800,24.679600,4116
+FAPW,Pietersrus Airport,FAPW,,Pietersrus,ZA,-26.606100,29.329201,5472
+FAPX,Paradise Beach Airport,FAPX,,Jeffreysbaal,ZA,-34.102779,24.882778,15
+FAPY,Parys Airport,FAPY,,Parys,ZA,-26.889299,27.503401,4740
+FAPZ,Progress Airport,FAPZ,,Sunlands,ZA,-33.930000,25.370001,748
+FAQF,Pomfret Airport,FAQF,,Pomfret,ZA,-25.847700,23.537300,3817
+FAQR,Potgietersrus Airport,FAQR,,Potgietersus,ZA,-24.233334,28.983334,3500
+FAQT,Queenstown Airport,FAQT,UTW,Queenstown,ZA,-31.920200,26.882200,3637
+FARA,Petit Airport,FARA,,Daveyton,ZA,-26.081667,28.400000,5460
+FARB,Richards Bay Airport,FARB,RCB,Richards Bay,ZA,-28.740999,32.092098,109
+FARD,Riversdale Airport,FARD,,Riversdale,ZA,-34.111698,21.262800,591
+FARG,Rustenburg Airport,FARG,,Rustenburg,ZA,-25.644300,27.271099,3700
+FARI,Reivilo Airport,FARI,RVO,Reivilo,ZA,-27.547199,24.172501,4715
+FARM,Richmond Airport,FARM,,Richmond,ZA,-31.423500,23.978201,4731
+FARO,Rooiberg Airport,FARO,,Rooiberg,ZA,-24.777789,27.752336,3811
+FARS,Robertson Airport,FARS,ROD,Robertson,ZA,-33.812199,19.902800,640
+FARZ,Reitz Airport,FARZ,,Maasstroom,ZA,-22.784201,28.430300,5331
+FASA,Sani Pass Airport,FASA,,Sani Pass,ZA,-29.657200,29.447701,5933
+FASB,Springbok Airport,FASB,SBU,Springbok,ZA,-29.689301,17.939600,2690
+FASC,Secunda Airport,FASC,ZEC,Secunda,ZA,-26.524099,29.170099,5250
+FASD,Saldanha /Vredenburg Airport,FASD,,Saldanha-Vredenburg,ZA,-32.964100,17.969299,50
+FASE,Sabi Sabi Airport,FASE,GSS,Belfast,ZA,-24.941500,31.444599,1276
+FASG,Schweizer Reneke Airport,FASG,,Schweizer Reneke,ZA,-27.163099,25.286100,4373
+FASH,Stellenbosch Airport,FASH,,Stellenbosch,ZA,-33.980000,18.820000,295
+FASI,Springs Airfield,FASI,,Springs,ZA,-26.248400,28.397499,5340
+FASJ,Saffier Airport,FASJ,,Saffier,ZA,-26.760000,27.760000,4700
+FASK,Swartkop Air Force Base,FASK,,Pretoria,ZA,-25.809700,28.164600,4780
+FASL,Sutherland Airport,FASL,,Sutherland,ZA,-32.488201,20.697100,5247
+FASM,Siteka Airport,FASM,,Siteka,ZA,-29.325001,30.149200,4400
+FASN,Senekal Airport,FASN,,Senekal,ZA,-28.312201,27.646099,4849
+FASR,Standerton Airport,FASR,,Standerton,ZA,-26.927000,29.209999,5200
+FASS,Sishen Airport,FASS,SIS,Sishen,ZA,-27.648600,22.999300,3848
+FAST,Somerset East Airport,FAST,,Somerset East,ZA,-32.750198,25.594999,2349
+FASU,Sace Airport,FASU,,Sace,ZA,-25.956900,29.211700,5151
+FASW,Slurry Airport,FASW,,Slurry,ZA,-25.815599,25.886400,4692
+FASX,Hendrik Swellengrebel Airport,FASX,,Swellendam,ZA,-34.048199,20.474600,407
+FASY,Syferfontein Airport,FASY,,Hiltonia,ZA,-26.349199,27.779400,5420
+FASZ,Skukuza Airport,FASZ,SZK,Skukuza,ZA,-24.960899,31.588699,1020
+FATA,Tedderfield Air Park,FATA,,Tedderfield,ZA,-26.351999,27.969000,5198
+FATB,Thorny Bush Game Lodge Airport,FATB,,Hoedspruit,ZA,-24.414722,31.165001,1900
+FATF,Tommys Field Airport,FATF,,Beeshoek,ZA,-28.260000,22.993200,4360
+FATH,Thohoyandou Airport,FATH,THY,Thohoyandou,ZA,-23.076900,30.383600,2021
+FATI,Thabazimbi Airport,FATI,,Thabazimbi,ZA,-24.576085,27.419686,3225
+FATK,Tsitsikama Fly Airport,FATK,,Tsitsikama,ZA,-34.084702,24.289700,381
+FATM,Stutterheim Airport,FATM,,Stutterheim,ZA,-32.566666,27.450001,2675
+FATN,Thaba Nchu Tar Airport,FATN,TCU,Homeward,ZA,-29.317801,26.822800,4941
+FATP,New Tempe Airport,FATP,,Bain's Vlei,ZA,-29.032900,26.157600,4547
+FATR,Trennery's Airport,FATR,,Qolora,ZA,-32.638599,28.424299,114
+FATT,Tutuka Power Station Airport,FATT,,Standerton,ZA,-26.776600,29.338800,5313
+FATW,Witberg Tswalu Airport,FATW,,Tswalo Game Reserve,ZA,-27.205000,22.481899,3921
+FATZ,Tzaneen Airport,FATZ,LTA,Tzaneen,ZA,-23.824400,30.329300,1914
+FAUB,Underberg Airport,FAUB,,Underberg,ZA,-29.788401,29.498301,5057
+FAUC,Ulco Airport,FAUC,,Ulco,ZA,-28.354500,24.229099,3512
+FAUG,Ugie Airport,FAUG,,Ugie,ZA,-31.219999,28.209999,4580
+FAUH,Uitenhage Airport,FAUH,,Uitenhage,ZA,-33.785301,25.383301,289
+FAUL,Prince Mangosuthu Buthelezi Airport,FAUL,ULD,Ulundi,ZA,-28.320601,31.416500,1720
+FAUP,Pierre Van Ryneveld Airport,FAUP,UTN,Upington,ZA,-28.399099,21.260201,2782
+FAUR,Utrecht Airport,FAUR,,Utrecht,ZA,-27.680500,30.316799,4101
+FAUT,K. D. Matanzima Airport,FAUT,UTT,Mthatha,ZA,-31.547899,28.674299,2400
+FAVA,Vaalputs Airport,FAVA,,Vaalputs,ZA,-30.134199,18.526699,3340
+FAVB,Vryburg Airport,FAVB,VRU,Vyrburg,ZA,-26.982401,24.728800,3920
+FAVD,Vrede Airport,FAVD,,Vrede,ZA,-27.440300,29.153099,5499
+FAVE,Ventersdorp Airport,FAVE,,Ventersdorp,ZA,-26.300900,26.814199,4917
+FAVF,Verborgenfontei Airport,FAVF,,Verborgenfontein,ZA,-31.165800,23.809401,4360
+FAVG,Virginia Airport,FAVG,VIR,Durban,ZA,-29.770599,31.058399,20
+FAVI,Von Abo's Villa Airport,FAVI,,Von Abo's Villa,ZA,-27.610600,26.683500,4304
+FAVM,Venetia Airport,FAVM,,Venetia Mine,ZA,-22.448099,29.337700,2333
+FAVP,Vanderbijlpark Airport,FAVP,,Vanderbijlpark,ZA,-26.690300,27.777100,4861
+FAVR,Vredendal Airport,FAVR,VRE,Vredendal,ZA,-31.641001,18.544800,330
+FAVS,Vastrap Airport,FAVS,,Upington,ZA,-27.841389,21.634167,3245
+FAVU,Volksrust Airport,FAVU,,Volksrust,ZA,-27.376900,29.860001,5610
+FAVV,Vereeniging Airport,FAVV,,Vereeniging,ZA,-26.566401,27.960800,4846
+FAVW,Victoria West Airport,FAVW,,Victoria West,ZA,-31.399401,23.156401,4124
+FAVY,Vryheid Airport,FAVY,VYD,Vryheid,ZA,-27.786900,30.796400,3799
+FAWA,Warmbaths Airport,FAWA,,Warmbaths,ZA,-24.910000,28.299999,3655
+FAWB,Wonderboom Airport,FAWB,PRY,Pretoria,ZA,-25.653900,28.224199,4095
+FAWC,Worcester Glider Airport,FAWC,,Worcester,ZA,-33.663101,19.415300,673
+FAWD,Wolmeransstad Airport,FAWD,,Wolmeransstad,ZA,-27.170000,25.980000,4513
+FAWI,Witbank Airport,FAWI,,Witbank,ZA,-25.832300,29.191999,5078
+FAWK,Waterkloof Air Force Base,FAWK,WKF,Pretoria,ZA,-25.830000,28.222500,4940
+FAWL,Williston Airport,FAWL,,Williston,ZA,-31.383600,20.932800,3484
+FAWM,Welkom Airport,FAWM,WEL,Welkom,ZA,-27.997999,26.669600,4399
+FAWN,Winburg Airport,FAWN,,Winburg,ZA,-28.500000,27.016666,4800
+FAWO,Willowmore Airport,FAWO,,Willowmore,ZA,-33.263302,23.490601,2608
+FAWP,Wepener Airport,FAWP,,Wepener,ZA,-29.742399,27.022600,4755
+FAWR,Wavecrest Airport,FAWR,,Wavecrest,ZA,-32.589699,28.519199,89
+FAWS,Wesselbronn Af Airport,FAWS,,Wesselsbron,ZA,-27.846701,26.350599,4301
+FAWT,Cape Blue Mine Airport,FAWT,,Westerberg,ZA,-29.333334,22.283333,3050
+FAYP,Ysterplaat Air Force Base,FAYP,,Cape Town,ZA,-33.900200,18.498301,52
+FAZA,Zastron Airport,FAZA,,Zastron,ZA,-30.299999,27.117001,4265
+FAZP,Mazeppa Bay Airport,FAZP,,Mazeppa Bay,ZA,-32.471901,28.652800,13
+FAZQ,Star Airport,FAZQ,,Star,ZA,-26.893101,27.690001,4754
+FAZR,Zeerust Airport,FAZR,,Zeerust,ZA,-25.599001,26.042299,4258

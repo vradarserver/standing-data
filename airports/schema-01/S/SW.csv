@@ -1,0 +1,552 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SWAA,Fazenda Ykaraí Airport,SWAA,,Nova Crixás,BR,-14.543889,-50.592777,896
+SWAE,Uaicas Airport,SWAE,,Alto Alegre,BR,3.545000,-63.182201,1083
+SWAF,Agroer Aviação Agrícola Airport,SWAF,,Rondonópolis,BR,-16.483889,-54.667221,827
+SWAH,Agropecuária Floresta São Joaquim Ltda Airport,SWAH,,Aripuanã,BR,-10.141667,-60.652779,325
+SWAK,Assunção do Içana Airport,SWAK,,São Gabriel Da Cachoeira,BR,1.066389,-67.600555,492
+SWAN,Arenápolis Airport,SWAN,,Arenápolis,BR,-14.500278,-57.017223,1329
+SWAO,Anamoim Airport,SWAO,,São Gabriel Da Cachoeira,BR,1.799720,-67.383904,335
+SWAP,Fazenda Apemag Airport,SWAP,,Barra Do Bugres,BR,-15.333611,-57.317223,951
+SWAQ,Érico Airport,SWAQ,,Boa Vista,BR,3.763330,-62.409401,689
+SWAR,Fazenda Aruanã Airport,SWAR,,Ribeirão Cascalheira,BR,-13.082778,-51.586388,968
+SWAS,Telebrás I Heliport,SWAS,,Brasília,BR,-15.806111,-47.883610,3661
+SWAT,Fazenda Cachoeira Airport,SWAT,,Alto Araguaia,BR,-17.089167,-53.331669,2795
+SWAU,Fazenda Nossa Senhora Aparecida Airport,SWAU,,Pirajuba,BR,-19.950000,-48.580000,2592
+SWAV,Fazenda Água Verde Airport,SWAV,,Diamantino,BR,-14.072778,-57.454723,2037
+SWAW,Telebrás II Heliport,SWAW,,Brasília,BR,-15.806111,-47.882500,3661
+SWAZ,Santo Atanázio Airport,SWAZ,,São Gabriel Da Cachoeira,BR,0.399722,-69.300552,394
+SWBB,Barra do Bugres Airport,SWBB,,Barra Do Bugres,BR,-15.058611,-57.183056,722
+SWBC,Barcelos Airport,SWBC,BAZ,Barcelos,BR,-0.981292,-62.919601,112
+SWBF,Fazenda Boa Fortuna Airport,SWBF,,Pium,BR,-10.005000,-49.491943,741
+SWBG,União do Vale Airport,SWBG,,Pontes E Lacerda,BR,-15.200000,-59.387222,810
+SWBH,Brejinho de Nazaré Airport,SWBH,,Brejinho De Nazaré,BR,-11.016944,-48.600555,869
+SWBI,Barreirinha Airport,SWBI,,Barreirinha,BR,-2.792420,-57.057899,69
+SWBJ,Fazenda Itarema Airport,SWBJ,,Canarana,BR,-13.255000,-52.040001,1339
+SWBL,Balbina Airport,SWBL,,Presidente Figueiredo,BR,-1.924810,-59.412300,564
+SWBN,Fazenda Barreirinhos Airport,SWBN,,Barão De Melgaço,BR,-16.946388,-56.392776,377
+SWBO,Fazenda São João Airport,SWBO,,Campos Verdes,BR,-14.274722,-49.649166,1542
+SWBP,1º BPM Heliport,SWBP,,Goiânia,BR,-16.513611,-49.251110,2264
+SWBQ,Barracão Queimado Airport,SWBQ,,Vila Bela Da Santíssima Trindade,BR,-13.733611,-59.717220,2067
+SWBR,Borba Airport,SWBR,RBB,Borba,BR,-4.406340,-59.602402,293
+SWBS,Brasileia Airport,SWBS,,Brasileila,BR,-11.016900,-68.733902,489
+SWBT,Fazenda Beira Rio Airport,SWBT,,Nova Canaã Do Norte,BR,-10.371111,-55.818611,820
+SWBU,Fazenda Fartura Baixão Novo Airport,SWBU,,Peixoto De Azevedo,BR,-10.215556,-55.083057,1214
+SWBV,Auaris Airport,SWBV,,Boa Vista,BR,4.016389,-64.518611,2336
+SWBW,Agro Pousadas do Guaporé Airport,SWBW,,Vila Bela Da Santíssima Trindade,BR,-14.768333,-60.034443,886
+SWBX,Fazenda Santo Antônio do Paraíso Airport,SWBX,,Itiquira,BR,-17.491112,-55.228333,650
+SWBY,Fazenda Goiasa Airport,SWBY,,Bom Jesus De Goiás,BR,-18.050556,-49.700558,1820
+SWBZ,Jpo Airport,SWBZ,,Sorriso,BR,-12.605278,-55.764721,1155
+SWCA,Carauari Airport,SWCA,CAF,Carauari,BR,-4.871520,-66.897499,355
+SWCB,Campos Belos Airport,SWCB,,Campos Belos,BR,-13.008889,-46.774723,2198
+SWCC,Fazenda Curitiba Airport,SWCC,,Comodoro,BR,-13.622200,-60.601390,705
+SWCD,Fazenda Santa Mônica Airport,SWCD,,Alexânia,BR,-15.935300,-48.646599,3888
+SWCE,Fazenda Cedro Airport,SWCE,,Santo Antônio Do Leverger,BR,-16.204300,-55.398701,2310
+SWCF,Fazenda Confap Airport,SWCF,,Comodoro,BR,-13.730278,-60.478611,673
+SWCG,Fazenda Varjão Grande Airport,SWCG,,Caçu,BR,-18.491501,-51.298801,2060
+SWCH,Fazenda Charqueada Norte Airport,SWCH,,Alta Floresta,BR,-10.000278,-57.067223,820
+SWCJ,Coperjava Airport,SWCJ,,Formoso Do Araguaia,BR,-11.816944,-49.750557,699
+SWCK,Fazenda Cocal Airport,SWCK,,Canarana,BR,-12.683611,-52.717220,984
+SWCL,Chácara Santa Eulália Airport,SWCL,,Alta Floresta,BR,-9.546667,-57.415833,669
+SWCM,Fazenda Couto Magalhães Airport,SWCM,,Água Boa,BR,-13.990278,-52.926945,1378
+SWCN,Fazenda Saudade Airport,SWCN,,Cocalinho,BR,-14.143333,-51.014999,784
+SWCO,Fazenda Continental Airport,SWCO,,Cocalinho,BR,-14.715556,-51.209721,919
+SWCP,Campo Novo do Parecis Airport,SWCP,,Campo Novo Do Parecis,BR,-13.628611,-57.926388,1818
+SWCQ,Costa Marques Airport,SWCQ,CQS,Costa Marques,BR,-12.421100,-64.251602,555
+SWCR,Porto Caracará Airport,SWCR,,Poconé,BR,-17.833889,-57.167221,328
+SWCT,Complexo Turístico S. R. Pantanal Hotéis LTDA Airport,SWCT,,Poconé,BR,-17.368055,-56.784721,334
+SWCU,Fazenda Canuanã Airport,SWCU,,Formoso Do Araguaia,BR,-11.977500,-49.908054,787
+SWCV,Casalvasco Airport,SWCV,,Vila Bela Da Santíssima Trindade,BR,-15.489444,-60.085556,676
+SWCX,Cabixi Airport,SWCX,,Cabixi,BR,-13.700278,-60.700558,1247
+SWCY,Fazenda Aparecida do Norte Airport,SWCY,,Nova Maringá,BR,-12.844722,-56.976944,1004
+SWDA,Fazenda Duas Âncoras - Seção Sede Airport,SWDA,,Barra Do Garças,BR,-14.935833,-52.173058,925
+SWDB,Fazenda Eldorado Airport,SWDB,,Barra Do Garças,BR,-15.576944,-52.218887,1086
+SWDC,Fazenda Arco-Íris Airport,SWDC,,Alto Garças,BR,-16.938334,-53.578335,2516
+SWDE,Fazenda Piratininga Airport,SWDE,,São Miguel Do Araguaia,BR,-12.821944,-50.332222,722
+SWDF,Fazenda Braço Forte Airport,SWDF,,Novo Mundo,BR,-9.525000,-55.042221,1417
+SWDG,Fazenda São José Airport,SWDG,,Reginópolis,BR,-21.744444,-49.164722,1509
+SWDI,Dois Irmãos Airport,SWDI,,Peixe,BR,-11.733611,-49.333889,771
+SWDJ,Fazenda Duas Âncoras - Seção JAÓ Airport,SWDJ,,Barra Do Garças,BR,-14.857500,-52.036667,886
+SWDK,Fazenda Dona Olga Airport,SWDK,,Colorado D`Oeste,BR,-13.019722,-61.168610,680
+SWDM,Diamantino Airport,SWDM,DMT,Diamantino,BR,-14.376900,-56.400398,1476
+SWDN,Dianópolis Airport,SWDN,DNO,Dianópolis,BR,-11.595400,-46.846699,2001
+SWDO,Rosário do Leste Airport,SWDO,,Rosário Do Leste,BR,-14.816944,-56.417221,699
+SWDP,Haras da Mata Heliport,SWDP,,Cesário Lange,BR,-23.175000,-47.924170,2064
+SWDQ,Fazenda Saltos do Poente Airport,SWDQ,,Santo Antônio Do Leverger,BR,-16.435833,-55.271111,1352
+SWDS,Fazenda Favo de Mel Airport,SWDS,,Pontes E Lacerda,BR,-15.660833,-59.305557,846
+SWDT,Fazenda Pioneira Airport,SWDT,,Diamantino,BR,-14.283611,-57.700558,2178
+SWDU,Diauarum Airport,SWDU,,Barra Do Garças,BR,-11.033611,-53.117222,820
+SWDV,Descalvados Airport,SWDV,,Cáceres,BR,-16.734722,-57.763889,361
+SWDW,Divisão Airport,SWDW,,Diamantino,BR,-13.116944,-56.167221,1345
+SWDY,Fazenda Água Fria Airport,SWDY,,Nova Crixás,BR,-14.754722,-50.377499,1175
+SWDZ,Fazenda Água Limpa Airport,SWDZ,,Indiavaí,BR,-15.289444,-58.530277,1181
+SWEB,Fazenda Araúna Airport,SWEB,,Juara,BR,-11.567500,-58.026112,951
+SWED,Fazenda Eldorado Airport,SWED,,Arapoema,BR,-7.757222,-49.121666,686
+SWEE,Estirão do Equador Airport,SWEE,,Atalaia Do Norte,BR,-4.523780,-71.560799,98
+SWEF,Fazenda Europa Airport,SWEF,,Cocalinho,BR,-14.801667,-51.340000,899
+SWEG,Fazenda Duas Marias Airport,SWEG,,Barão De Melgaço,BR,-16.833332,-55.669167,446
+SWEI,Eirunepé Airport,SWEI,ERN,Eirunepé,BR,-6.639530,-69.879799,412
+SWEJ,Fazenda Marazul Airport,SWEJ,,Barao De Melgao,BR,-16.538900,-55.918301,479
+SWEK,Canarana Airport,SWEK,CQA,Canarana,BR,-13.574444,-52.270557,1314
+SWEL,Fazenda Santa Eulália Airport,SWEL,,Araguaiana,BR,-15.058333,-51.916668,853
+SWEM,Emal - Empresa de Mineiração Aripuanã Ltda. Airport,SWEM,,Primavera Do Leste,BR,-14.618889,-54.003334,1837
+SWEN,Estância Recanto Airport,SWEN,,Alta Floresta,BR,-9.941944,-56.100555,1017
+SWEO,Itapara Sport Fishing Airport,SWEO,,Rorainópolis,BR,0.209722,-61.549999,262
+SWEQ,Fazenda Marazul III Airport,SWEQ,,Barão De Melgaço,BR,-16.591400,-55.986698,505
+SWER,Estância Santana Airport,SWER,,Cuiabá,BR,-15.469722,-56.063332,801
+SWES,ESAT Aerotáxi Heliport,SWES,,Brasília,BR,-15.790000,-47.900000,3678
+SWET,Fazenda Encantado Airport,SWET,,Sapezal,BR,-13.316667,-58.798332,558
+SWEU,Ecotur Univini Park Airport,SWEU,,Caracaraí,BR,0.801389,-61.660599,266
+SWEV,Fazenda Piraim Airport,SWEV,,Nossa Senhora Do Livramento,BR,-16.251699,-56.087502,446
+SWEW,Fazenda Felicidade Airport,SWEW,,Porto Esperidião,BR,-15.842222,-58.631668,656
+SWEX,Fazenda Santa Escolastica Airport,SWEX,,Pedra Preta,BR,-16.846666,-54.458889,1145
+SWEY,Fazenda Santa Fé Airport,SWEY,,Santa Tereza De Goias,BR,-13.535000,-48.901669,1197
+SWEZ,Fazenda Santa Rita de Cássia Airport,SWEZ,,Jangada,BR,-15.250278,-56.481110,666
+SWFA,Fazenda Pamplona Airport,SWFA,,Cristalina,BR,-16.250557,-47.617222,3281
+SWFC,Fazenda Colorado Airport,SWFC,,Juscimeira,BR,-16.167221,-54.842777,1191
+SWFD,Fazenda Tombador Airport,SWFD,,Brasnorte,BR,-11.716667,-58.048058,863
+SWFE,Fazenda Colen Airport,SWFE,,Lucas Do Rio Verde,BR,-13.314444,-56.112778,1345
+SWFF,Fazenda Figueira Branca Airport,SWFF,,Sinop,BR,-10.723611,-54.838333,1001
+SWFG,Fazenda Guanabara Airport,SWFG,,Barra Do Garças,BR,-12.030000,-51.677502,1116
+SWFH,Fazenda Manchete Airport,SWFH,,Araguacema,BR,-9.746944,-49.980831,640
+SWFJ,Feijó Airport,SWFJ,FEJ,Feijó,BR,-8.165580,-70.352997,394
+SWFK,Fazenda Juquei Agropecuária Airport,SWFK,,Padre Bernardo,BR,-15.074722,-48.238609,2297
+SWFL,Fazenda Peixe Bravo Airport,SWFL,,Santa Terezinha,BR,-10.116944,-50.417221,656
+SWFN,Flores Airport,SWFN,,Manaus,BR,-3.072778,-60.021111,203
+SWFO,Fazenda Bocaína Airport,SWFO,,Jangada,BR,-15.346389,-56.711109,1037
+SWFP,Fazenda Paraíso Airport,SWFP,,Porto Alegre Do Norte,BR,-10.638889,-52.032501,984
+SWFQ,Fazenda Alvorada Airport,SWFQ,,Porto Nacional,BR,-10.392000,-48.679199,943
+SWFR,Formosa Airport,SWFR,,Formosa,BR,-15.555100,-47.345699,3166
+SWFS,Fazenda Sucuri Airport,SWFS,,Sinop,BR,-13.531389,-54.933887,1575
+SWFT,Fazenda Santa Márcia Airport,SWFT,,Caiapônia,BR,-16.580833,-52.142502,2822
+SWFU,Fortuna Airport,SWFU,,Fortuna,BR,-16.166945,-59.500557,866
+SWFW,Fazenda Jangada Airport,SWFW,,Barra Do Garças,BR,-14.717222,-51.908890,919
+SWFX,São Félix do Araguaia Airport,SWFX,SXO,São Félix Do Araguaia,BR,-11.632400,-50.689602,650
+SWFY,Fazenda Ipê Airport,SWFY,,Vila Rica,BR,-9.966944,-50.950558,718
+SWFZ,Serafino Ferruzzi Airport,SWFZ,,Alta Floresta,BR,-9.975556,-56.673058,820
+SWGA,Fazenda Guará Airport,SWGA,,Vila Bela Da Santíssima Trindade,BR,-14.822500,-60.017223,1378
+SWGE,Fazenda Pirigara Airport,SWGE,,Barão De Melgaço,BR,-17.007221,-56.478058,344
+SWGF,Hidrelétrica de Jirau Airport,SWGF,,Porto Velho,BR,-9.288611,-64.623611,295
+SWGH,Fazenda Primavera Airport,SWGH,,Cáceres,BR,-16.238056,-57.619999,1299
+SWGI,Gurupi Airport,SWGI,GRP,Gurupi,BR,-11.739600,-49.132198,1148
+SWGK,Fazenda Sete Barras Airport,SWGK,,Ribeirão Cascalheira,BR,-12.559722,-51.688610,801
+SWGL,Goálcool Airport,SWGL,,Serranópolis,BR,-18.391390,-52.104443,2067
+SWGM,Ninho das Águias Airport,SWGM,,Cuiabá,BR,-15.490000,-55.814720,2464
+SWGN,Araguaína Airport,SWGN,AUX,Araguaína,BR,-7.227870,-48.240501,771
+SWGO,Goianésia Airport,SWGO,,Goianésia,BR,-15.340000,-49.136112,2303
+SWGP,Palmeiras de Goiás Airport,SWGP,,Palmeiras De Goiás,BR,-16.826900,-49.878899,1995
+SWGQ,Fazenda Monte Alegre Airport,SWGQ,,Nova Olímpia,BR,-14.780833,-57.354168,755
+SWGR,Alto Garças Airport,SWGR,,Alto Garças,BR,-16.920000,-53.540000,2707
+SWGS,Fazenda Divisa Airport,SWGS,,Santana Do Araguaia,BR,-9.791667,-50.820000,755
+SWGT,Fazenda Nova Airport,SWGT,,Jandaia,BR,-17.188056,-50.213333,1844
+SWGU,Fazenda Água Fria Airport,SWGU,,Sandolândia,BR,-12.398889,-50.054722,738
+SWGV,Fazenda Cocal Airport,SWGV,,Água Boa,BR,-12.801944,-52.607777,1004
+SWGW,Fazenda Santa Rita do Araguaia Airport,SWGW,,Jussara,BR,-15.437778,-51.598610,1047
+SWGX,Primavera Heliport,SWGX,,Aracaju,BR,-10.950278,-37.064167,128
+SWGZ,Fazenda Guanabara Airport,SWGZ,,Nova Olímpia,BR,-14.766945,-57.267223,988
+SWHA,Fazenda Boa Esperança Soberbinho Airport,SWHA,,Guarinos,BR,-14.644722,-49.816387,1553
+SWHB,Brasex I Heliport,SWHB,,Brasília,BR,-15.855000,-47.868057,3314
+SWHE,Agropecuária Cajabi Airport,SWHE,,Marvelândia,BR,-10.734444,-54.534443,1352
+SWHF,Fazenda Frigovale I Airport,SWHF,,Porto Nacional,BR,-10.485833,-48.333889,860
+SWHG,Santa Helena de Goiás Airport,SWHG,,Santa Helena De Goiás,BR,-17.883888,-50.567223,1591
+SWHI,Gold Meat Heliport,SWHI,,Cajuru,BR,-21.265000,-47.311667,2680
+SWHJ,Fazenda Bela Vista Airport,SWHJ,,Nova Monte Verde,BR,-10.055556,-56.991112,899
+SWHL,Fazenda Marabá Airport,SWHL,,Campo Verde,BR,-15.275000,-55.121666,2247
+SWHN,Fazenda Nossa Senhora de Fátima Airport,SWHN,,Nova Monte Verde,BR,-10.156389,-56.981110,853
+SWHO,Gleba Oscar Americano I Airport,SWHO,,Porto Dos Gaúchos,BR,-11.533611,-56.550556,1017
+SWHP,Fazenda Olhos D`água Airport,SWHP,,Água Boa,BR,-14.019444,-52.152222,1407
+SWHQ,Fazenda Santa Cruz Airport,SWHQ,,Vila Bela Da Santíssima Trindade,BR,-15.189167,-59.939167,1060
+SWHS,Fazenda São João Airport,SWHS,,Maurilândia,BR,-18.053333,-50.386944,1729
+SWHT,Humaitá Airport,SWHT,,Humaitá,BR,-7.532120,-63.072102,230
+SWHU,Fazenda Izaura - Usina Cocal Airport,SWHU,,Racharia,BR,-22.506667,-50.865278,1542
+SWHY,Fazenda Esperança I Airport,SWHY,,Rondon Do Pará,BR,-4.130000,-48.690000,285
+SWHZ,Fazenda Taquaruçu Retiro Airport,SWHZ,,Carlinda,BR,-10.338611,-55.965557,1010
+SWIB,Fazenda Santa Laura Airport,SWIB,,Nova Santa Helena,BR,-10.862778,-54.914165,1096
+SWID,Fazenda Indiara Airport,SWID,,São Miguel Do Araguaia,BR,-13.314900,-49.774899,909
+SWIE,Fazenda São Francisco Airport,SWIE,,Mundo Novo,BR,-13.919444,-50.009998,984
+SWIG,Fazenda São José Airport,SWIG,,Pontes E Lacerda,BR,-15.010833,-59.252220,879
+SWII,Ipiranga Airport,SWII,IPG,Santo Antônio Do Içá,BR,-2.939070,-69.694000,131
+SWIJ,Fazenda São Jorge Airport,SWIJ,,Itiquira,BR,-17.518057,-54.826389,1683
+SWIK,Fazenda Vanguarda Airport,SWIK,,Cocalinho,BR,-14.917222,-51.283890,935
+SWIL,Fazenda Tarumã Airport,SWIL,,Pedra Preta,BR,-17.015833,-54.349724,1499
+SWIM,Fazenda Três Ranchos Airport,SWIM,,Montes Claros De Goiás,BR,-16.126667,-51.669724,1142
+SWIN,Fazenda Itamarati Norte Airport,SWIN,,Campo Novo Do Parecis,BR,-14.243000,-57.995300,2188
+SWIO,Fazenda Triângulo Airport,SWIO,,Edéia,BR,-17.621389,-50.141666,1562
+SWIP,Ipameri Airport,SWIP,,Ipameri,BR,-17.687222,-48.161945,2729
+SWIR,CCN Torre Norte Heliport,SWIR,,Rio De Janeiro,BR,-22.911944,-43.208333,128
+SWIU,Madeirinha Airport,SWIU,,Aripuanã,BR,-9.846389,-61.417500,476
+SWIV,Águia Branca do Paru Airport,SWIV,,Almeirim,BR,-1.268056,-53.261391,479
+SWIW,Brigadeiro Eduardo Gomes Airport,SWIW,,Nova Mutum,BR,-13.817200,-56.036098,1398
+SWIX,Fazenda Michelin Airport,SWIX,,Itiquira,BR,-17.374166,-54.735001,1640
+SWIY,Santa Izabel do Morro Airport,SWIY,IDO,Cristalândia,BR,-11.572300,-50.666199,647
+SWJA,Fazenda Juína Airport,SWJA,,Juína,BR,-11.642778,-59.087502,1100
+SWJB,Fazenda Juba Airport,SWJB,,Tangará Da Serra,BR,-14.745000,-58.128334,1667
+SWJC,Jaciara Airport,SWJC,,Jaciara,BR,-15.971667,-54.968613,1198
+SWJD,Fazenda Genipapo Airport,SWJD,,São Domingos,BR,-13.452222,-46.679443,1279
+SWJE,Fazenda Ibia Airport,SWJE,,Baliza,BR,-16.396944,-52.328609,2634
+SWJF,Fazenda São Marcelo Airport,SWJF,,Juruena,BR,-10.233333,-58.494446,840
+SWJG,Fazenda Jaraguá Airport,SWJG,,Arenápolis,BR,-14.483611,-57.433887,1083
+SWJI,Ji-Paraná Airport,SWJI,JPR,Ji-Paraná,BR,-10.870800,-61.846500,598
+SWJJ,Fazenda Januarinho Airport,SWJJ,,Salto Do Céu,BR,-15.050278,-57.500557,755
+SWJK,Fazenda São Paulo Airport,SWJK,,Britânia,BR,-14.976389,-51.335556,984
+SWJL,Fazenda Invernada Airport,SWJL,,Itajá,BR,-19.041111,-51.259445,1345
+SWJM,Fazenda Bom Jesus Airport,SWJM,,Novo Alegre,BR,-12.966389,-46.565277,2067
+SWJN,Juína Airport,SWJN,JIA,Juína,BR,-11.419444,-58.701668,1083
+SWJO,Fazenda São Paulo - Retiro Santa Maria Airport,SWJO,,Britânia,BR,-15.140000,-51.254444,984
+SWJP,Bittencourt Airport,SWJP,,Japurá,BR,-1.403930,-69.423798,257
+SWJQ,Fazenda Colibri Airport,SWJQ,,Selvíria,BR,-20.226944,-51.845833,1391
+SWJR,Fazenda União Airport,SWJR,,Santa Carmen,BR,-11.948889,-54.515556,1180
+SWJS,Fazenda Samambaia Airport,SWJS,,Jussara,BR,-15.486111,-51.269444,692
+SWJT,Fazenda Joatão Airport,SWJT,,São Félix Do Araguaia,BR,-11.493987,-52.618073,1165
+SWJU,Juruena Airport,SWJU,JRN,Juruena,BR,-10.305833,-58.489445,525
+SWJV,Palmeiras do Javari Airport,SWJV,,Atalaia Do Norte,BR,-5.127240,-72.809998,394
+SWJW,Jataí Airport,SWJW,,Jataí,BR,-17.829901,-51.772999,2529
+SWJX,Fazenda das Perobas Airport,SWJX,,Prudente De Morais,BR,-19.502222,-44.157780,2762
+SWJY,Fazenda Campo Alegre III Airport,SWJY,,Alto Garças,BR,-16.844723,-53.734444,2625
+SWJZ,Fazenda Morro Vermelho Airport,SWJZ,,Juscimeira,BR,-15.981389,-54.533890,1654
+SWKA,Fazenda Canadá Airport,SWKA,,Jussara,BR,-15.595278,-51.257221,951
+SWKB,Fazenda Campina Airport,SWKB,,Boca Do Acre,BR,-9.142500,-67.445831,699
+SWKC,Cáceres Airport,SWKC,CCX,Cáceres,BR,-16.043600,-57.629902,492
+SWKE,Cobrape Airport,SWKE,,Formoso Do Araguaia,BR,-11.508610,-49.842220,656
+SWKG,Fazenda Água Limpa Airport,SWKG,,Nova Ubiratã,BR,-13.407222,-54.751945,1623
+SWKH,Fazenda Floresta Airport,SWKH,,Campo Verde,BR,-15.221111,-55.132778,2050
+SWKJ,Fazenda Mutum Airport,SWKJ,,Dom Aquino,BR,-15.398056,-54.608334,1821
+SWKK,Cacoal Airport,SWKK,,Cacoal,BR,-11.430000,-61.480000,640
+SWKL,Fazenda Primavera do Terebinto Airport,SWKL,,Alto Alegre Dos Parecis,BR,-12.557778,-61.996113,590
+SWKM,Aero Agrícola Rondon Airport,SWKM,,Tangará Da Serra,BR,-14.644167,-57.504166,1390
+SWKO,Coari Airport,SWKO,CIZ,Coari,BR,-4.134060,-63.132599,131
+SWKP,Chácara Veneza Airport,SWKP,,Pontes E Lacerda,BR,-15.242500,-59.285278,866
+SWKQ,Serra da Capivara Airport,SWKQ,,São Raimundo Nonato,BR,-9.082778,-42.644444,1362
+SWKR,Fazenda Mangue Che II Airport,SWKR,,Itarumã,BR,-18.670000,-51.585278,1752
+SWKT,Catalão Airport,SWKT,TLZ,Catalão,BR,-18.216801,-47.899700,2612
+SWKU,Cucuí Airport,SWKU,,São Gabriel Da Cachoeira,BR,1.120610,-66.841797,274
+SWKV,Fazenda Beira Rio Airport,SWKV,,Itaúba,BR,-10.900833,-55.858334,1096
+SWKY,Fazenda Recanto da Cachoeira Airport,SWKY,,Cristais Paulista,BR,-20.339722,-47.473057,3064
+SWKZ,Fazenda Cerejal Airport,SWKZ,,Brasnorte,BR,-11.717500,-58.259445,984
+SWLA,Fazenda Amália Airport,SWLA,,Juína,BR,-11.884722,-58.631668,1030
+SWLB,Lábrea Airport,SWLB,LBR,Lábrea,BR,-7.278970,-64.769501,190
+SWLC,General Leite de Castro Airport,SWLC,RVD,Rio Verde,BR,-17.834723,-50.956112,2464
+SWLD,Porto Cajueiro Airport,SWLD,,Januária,BR,-14.885833,-45.338612,2510
+SWLE,Pontes e Lacerda Airport,SWLE,,Pontes E Lacerda,BR,-15.231111,-59.341110,1148
+SWLF,Fazenda Dona Laura Airport,SWLF,,São José Dos Quatro Marcos,BR,-15.620278,-58.208889,725
+SWLG,Recanto Airport,SWLG,,Ribeirão Cascalheira,BR,-12.999444,-51.905556,1335
+SWLI,Fazenda Liberdade Airport,SWLI,,Barão De Melgaço,BR,-17.008057,-56.466110,361
+SWLK,Fazenda Conceição Airport,SWLK,,Juara,BR,-11.000278,-58.215279,1164
+SWLM,Fazenda Excalibur Airport,SWLM,,Vila Bela Da Santíssima Trindade,BR,-15.294444,-60.366390,971
+SWLN,Fazenda Franciosi Airport,SWLN,,Sapezal,BR,-13.432222,-58.472778,1837
+SWLO,Hospital São José Heliport,SWLO,,Jaraguá Do Sul,BR,-26.488056,-49.083889,197
+SWLP,Fazenda Rosa - Paralelo 10 Airport,SWLP,,Aripuanã,BR,-9.968611,-61.229721,535
+SWLR,Fazenda Miura Airport,SWLR,,Pontes E Lacerda,BR,-15.440556,-59.657223,820
+SWLT,Fazenda Tatiana Airport,SWLT,,Marcelândia,BR,-10.433889,-54.167221,1197
+SWLV,Santo Antônio do Lerverger Airport,SWLV,,Santo Antônio Do Leverger,BR,-15.853400,-56.087399,544
+SWLW,Grupo Tático Aéreo Heliport,SWLW,,São Luís,BR,-2.496389,-44.279444,89
+SWMA,Aero Agrícola Fulanete Airport,SWMA,,Barreiras,BR,-11.833611,-46.266666,2828
+SWMB,Fazenda Marimbondo Airport,SWMB,,Goiatuba,BR,-17.977222,-49.588333,2165
+SWMC,Capão da Cruz Airport,SWMC,,Luís Antônio,BR,-21.458332,-47.887779,1936
+SWMD,Francisca Mendes Heliport,SWMD,,Manaus,BR,-3.026111,-59.963890,331
+SWME,Mineiros Airport,SWME,,Mineiros,BR,-17.551399,-52.556702,2707
+SWMG,Fazenda Caraíbas Airport,SWMG,,Monte Alegre De Goiás,BR,-13.385556,-46.775002,1637
+SWMH,Fazenda Bom Pastor Airport,SWMH,,Itapirapuã,BR,-15.542222,-51.017776,895
+SWMJ,Pousada Xaraés Airport,SWMJ,,Corumbá,BR,-19.495832,-56.959999,318
+SWMK,Maturacá Airport,SWMK,,São Gabriel Da Cachoeira,BR,0.628269,-66.115097,354
+SWML,Monte Alegre de Goiás Airport,SWML,,Monte Alegre De Goiás,BR,-13.249722,-46.871387,1821
+SWMM,Buritizal Agropastoril Ltda Airport,SWMM,,Aripuanã,BR,-9.300278,-60.674999,432
+SWMN,Fazenda Forquilha Airport,SWMN,,Matrinchã,BR,-15.216389,-50.836666,1076
+SWMO,Fazenda Maria José Airport,SWMO,,Itiquira,BR,-17.452778,-54.742222,1716
+SWMQ,Fazenda Muiraquitã Airport,SWMQ,,Aripuanã,BR,-10.416944,-60.550556,367
+SWMR,Morro Redondo Airport,SWMR,,Morro Redondo,BR,-14.250556,-48.083889,2067
+SWMT,Fazenda Centro da Mata Airport,SWMT,,Nova Ubiratã,BR,-12.657778,-54.827778,1214
+SWMU,Sumuru Airport,SWMU,,Boa Vista,BR,4.316390,-60.700600,1640
+SWMV,Paa-Piu Airport,SWMV,,Mucajaí,BR,2.726940,-62.950600,984
+SWMW,Maués Airport,SWMW,MBZ,Maués,BR,-3.372170,-57.724800,69
+SWMX,Morrinhos Airport,SWMX,,Morrinhos,BR,-17.761499,-49.122101,2789
+SWMY,Porto Fluvial Suiá Missu Airport,SWMY,,Barra Do Garças,BR,-11.566944,-50.700558,623
+SWMZ,Estância Aeronaldo Airport,SWMZ,,Rondonópolis,BR,-16.442778,-54.701942,1000
+SWNA,Novo Aripuanã Airport,SWNA,NVP,Novo Aripuanã,BR,-5.118030,-60.364899,118
+SWNB,Nobres Airport,SWNB,,Nobres,BR,-14.707222,-56.338333,722
+SWNC,Fazenda Procomp Airport,SWNC,,Nova Bandeirantes,BR,-9.401111,-58.228611,673
+SWND,Tamboré S/A Heliport,SWND,,Barueri,BR,-23.509722,-46.825832,2444
+SWNF,Agropecuária Tratex Airport,SWNF,,Colider,BR,-10.891944,-55.564167,1033
+SWNG,Fazenda Nossa Senhora das Graças Airport,SWNG,,Sorriso,BR,-12.896667,-55.834442,1279
+SWNH,Aruanã Airport,SWNH,,Aruanã,BR,-14.932500,-51.048100,820
+SWNI,Nova Vida Airport,SWNI,AQM,Ariquemes,BR,-10.178056,-62.825558,410
+SWNJ,Fazenda Itaquerê Airport,SWNJ,,Novo São Joaquim,BR,-15.128333,-53.491669,1749
+SWNK,Novo Campo Airport,SWNK,BCR,Boca Do Acre,BR,-8.834560,-67.312401,394
+SWNL,Fazenda Araçatuba Airport,SWNL,,Lambari D`Oeste,BR,-15.190833,-57.707500,493
+SWNM,Normândia Airport,SWNM,,Normândia,BR,3.866390,-59.617199,282
+SWNN,Novo Intento Airport,SWNN,,Cantá,BR,2.780000,-60.616669,282
+SWNO,Nova Olinda do Norte Airport,SWNO,,Nova Olinda Do Norte,BR,-3.887778,-59.078335,121
+SWNP,Novo Paraiso Airport,SWNP,,Novo Paraiso,BR,1.238190,-60.486301,213
+SWNQ,Niquelândia Airport,SWNQ,NQL,Niquelândia,BR,-14.434900,-48.491501,2756
+SWNR,Nortelândia Airport,SWNR,,Nortelândia,BR,-14.483611,-56.767223,1460
+SWNT,Fazenda Santo Antônio Airport,SWNT,,Caçu,BR,-18.965000,-50.798611,1493
+SWNU,Nova Mutum Airport,SWNU,,Nova Mutum,BR,-13.820000,-56.100000,1519
+SWNV,Aeródromo Nacional de Aviação Airport,SWNV,,Goiânia,BR,-16.625401,-49.349300,2707
+SWNW,Fazenda Tuiuiu Airport,SWNW,,Nobres,BR,-13.799444,-55.455002,1525
+SWNX,Fazenda Independência Airport,SWNX,,Santo Antônio Do Leste,BR,-14.868056,-53.501110,1650
+SWNY,Fazenda Canaã Heliport,SWNY,,Luís Antônio,BR,-21.534721,-47.685833,1982
+SWNZ,Number One Heliport,SWNZ,,Brasília,BR,-15.789167,-47.887501,3753
+SWOA,Arnapar Airport,SWOA,,Goianira,BR,-16.539444,-49.398888,2625
+SWOB,Fonte Boa Airport,SWOB,FBA,Fonte Boa,BR,-2.532610,-66.083199,207
+SWOC,Fazenda São Bento do Bocajá Airport,SWOC,,Caracol,BR,-22.025278,-57.364723,443
+SWOE,Fazenda Duas Lagoas Airport,SWOE,,Cáceres,BR,-16.170834,-58.187222,688
+SWOF,Ouro Fino Airport,SWOF,,Boa Vista,BR,2.938060,-60.720001,282
+SWOG,Fazenda Itaipu Airport,SWOG,,São José Do Rio Claro,BR,-13.752500,-56.961110,1470
+SWOH,Hospital Municipal Dr. Fernando Pereira Da Silva Heliport,SWOH,,Macaé,BR,-22.356111,-41.805833,10
+SWOI,Fazenda Juara Airport,SWOI,,Juara,BR,-11.816944,-57.566113,1200
+SWOJ,Fazenda Nova Alvorada Airport,SWOJ,,Brasnorte,BR,-11.573333,-58.269722,1092
+SWOK,Fazenda Pontal Airport,SWOK,,Itiquira,BR,-17.305555,-53.935555,2164
+SWOL,Fazenda Roncador Airport,SWOL,,Barra Do Garças,BR,-15.096111,-52.400002,1351
+SWOM,Fazenda Salto Bello II Airport,SWOM,,Novo São Joaquim,BR,-14.961111,-53.488056,1889
+SWON,Júlio Simões Heliport,SWON,,Mogi Das Cruzes,BR,-23.541111,-46.231110,2503
+SWOO,Fazenda Três Marias do Água Limpa Airport,SWOO,,Britânia,BR,-15.071389,-51.392776,1050
+SWOP,Fazenda Agropecuária Embu Airport,SWOP,,Nova Monte Verde,BR,-9.787500,-57.624443,1188
+SWOQ,Fazenda Surucucu Airport,SWOQ,,Luziânia,BR,-16.743334,-47.991669,3148
+SWOR,Fazenda Colorado Airport,SWOR,,Britânia,BR,-15.450833,-51.223331,896
+SWOS,Fazenda Tapajós Airport,SWOS,,Goianésia,BR,-15.171944,-48.953056,2289
+SWOT,Fazenda Planorte Airport,SWOT,,Sapezal,BR,-13.943333,-58.895278,2106
+SWOU,Rede Globo 2 Heliport,SWOU,,São Paulo,BR,-23.615000,-46.698334,2576
+SWOV,Retiro Arrombadinho Airport,SWOV,,Itiquira,BR,-17.507500,-55.408054,423
+SWOW,Moura Airport,SWOW,,Moura,BR,-1.466944,-61.617222,43
+SWOX,Estância Barbosa Airport,SWOX,,Nossa Senhora Do Livramento,BR,-15.765556,-56.495556,619
+SWOY,Fazenda Duas Barras Airport,SWOY,,Pontal Do Araguaia,BR,-16.025278,-52.812222,1239
+SWOZ,Fazenda Santo Antônio Airport,SWOZ,,Campo Verde,BR,-15.310556,-54.899166,2164
+SWPA,Pedro Afonso Airport,SWPA,,Pedro Afonso,BR,-8.997618,-48.155375,630
+SWPB,Forte Príncipe da Beira Airport,SWPB,,Costa Marques,BR,-12.418611,-64.418892,591
+SWPC,Parí Cachoeira Airport,SWPC,,São Gabriel Da Cachoeira,BR,0.263056,-69.795555,377
+SWPD,Pouso da Águia Airport,SWPD,,Cantá,BR,2.783611,-60.587776,282
+SWPE,Fazenda Lagoa da Mata Airport,SWPE,,Carlinda,BR,-10.136389,-55.595001,866
+SWPG,Porto dos Gaúchos Airport,SWPG,,Porto Dos Gaúchos,BR,-11.516944,-57.333889,1312
+SWPH,Fazenda Paulo Abreu Airport,SWPH,,Barra Do Garças,BR,-15.226111,-52.130001,978
+SWPI,Parintins Airport,SWPI,PIN,Parintins,BR,-2.673020,-56.777199,87
+SWPJ,Fazenda São Caetano Airport,SWPJ,,Pontal Do Araguaia,BR,-16.034166,-53.034443,1587
+SWPK,Poconé Airport,SWPK,,Poconé,BR,-16.272778,-56.650833,591
+SWPL,Posto Leonardo Vilas Boas Airport,SWPL,,Chapada Dos Guimarães,BR,-12.198333,-53.381668,1083
+SWPM,Pimenta Bueno Airport,SWPM,PBQ,Pimenta Bueno,BR,-11.641600,-61.179100,682
+SWPN,Paranã Airport,SWPN,,Paranã,BR,-12.619722,-47.872501,886
+SWPO,Fazenda Porta do Amazônia Airport,SWPO,,Santa Terezinha,BR,-10.265278,-51.241390,787
+SWPP,Fazenda Pica-Pau Airport,SWPP,,Mozarlândia,BR,-14.753056,-50.665001,1001
+SWPQ,Fazenda Piraguassu Airport,SWPQ,,Porto Alegre Do Norte,BR,-10.861111,-51.685001,705
+SWPR,Pires do Rio Airport,SWPR,,Pires Do Rio,BR,-17.319099,-48.334801,2428
+SWPS,Porto São Sebastião Airport,SWPS,,Diamantino,BR,-12.966944,-56.183887,1106
+SWPT,Fazenda Piratinga Airport,SWPT,,Sinop,BR,-13.617222,-55.013332,1706
+SWPV,Planaltina Airport,SWPV,,Brasília,BR,-15.678889,-47.544167,3806
+SWPW,Pouso da Garça Airport,SWPW,,Barão De Melgaço,BR,-16.967222,-56.417221,377
+SWPY,Primavera do Leste Airport,SWPY,,Primavera Do Leste,BR,-15.565556,-54.337776,2149
+SWPZ,Oriçanga de Abreu Airport,SWPZ,,Posse,BR,-14.118100,-46.345402,2713
+SWQB,Hahn Heliport,SWQB,,Piracaia,BR,-22.977222,-46.391666,2838
+SWQD,Hospital Estadual Adão Pereira Nunes Heliport,SWQD,,Duque De Caxias,BR,-22.673056,-43.283890,52
+SWQE,Querari Airport,SWQE,,São Gabriel Da Cachoeira,BR,1.091390,-69.850601,492
+SWQG,Fazenda Sossego Airport,SWQG,,Maracaju,BR,-21.457222,-55.421112,1706
+SWQH,Agropecuária Nova Santana Airport,SWQH,,Aripuanã,BR,-10.147222,-60.538612,797
+SWQI,Caracaraí Airport,SWQI,,Caracaraí,BR,1.832874,-61.126896,180
+SWQJ,Campos de Júlio Airport,SWQJ,,Campos De Júlio,BR,-13.414722,-59.267502,2132
+SWQK,Pedra Airport,SWQK,,Pedra Lavrada,BR,-6.766667,-36.481110,1781
+SWQL,Fazenda Três Companheiros Airport,SWQL,,Doverlândia,BR,-16.682501,-52.252499,2070
+SWQM,Fazenda Boa Vista Airport,SWQM,,Acorizal,BR,-15.089444,-56.373333,688
+SWQN,Spa-Unicordis Heliport,SWQN,,Santo Antônio Do Descoberto,BR,-15.763611,-48.257500,3691
+SWQP,Rio Vermelho Açucar e Álcool Airport,SWQP,,Junqueirópolis,BR,-21.315277,-51.369999,1148
+SWQQ,Fazenda Fundão Alegre Airport,SWQQ,,Camapuã,BR,-18.628056,-54.103889,1391
+SWQR,Estância Norteagro Airport,SWQR,,Boa Vista,BR,2.675833,-60.778610,279
+SWQT,Fazenda Cotriguaçu Airport,SWQT,,Aripuanã,BR,-9.864444,-58.229168,738
+SWQU,Fazenda Guaporé Airport,SWQU,,Vila Bela Da Santíssima Trindade,BR,-14.587500,-60.126389,728
+SWQV,Fazenda Maristela Airport,SWQV,,Porto Esperidião,BR,-16.116667,-58.969166,833
+SWQW,Fazenda Bacaeri Airport,SWQW,,Alta Floresta,BR,-10.052778,-56.825558,1050
+SWQX,Fazenda Barro Preto Airport,SWQX,,Monte Alegre De Goiás,BR,-13.335278,-46.901111,1578
+SWQZ,Fazenda Quatro Irmãos Airport,SWQZ,,Ribas Do Rio Pardo,BR,-20.878332,-53.553333,1509
+SWRA,Arraias Airport,SWRA,AAI,Arraias,BR,-13.023889,-46.885555,1923
+SWRB,Fazenda Rio dos Bugres Airport,SWRB,,Barra Do Bugres,BR,-14.816944,-56.950558,1148
+SWRC,Fazenda Sevilha Airport,SWRC,,Ribeirão Cascalheira,BR,-12.626667,-51.934166,951
+SWRF,Fazenda Toloza Airport,SWRF,,Brasnorte,BR,-13.183611,-57.983891,1644
+SWRG,Fazenda Rancho Maria e Tereza Airport,SWRG,,Guajará-Mirim,BR,-10.825833,-65.228615,492
+SWRI,Fazenda Roncador I Airport,SWRI,,Querência,BR,-12.155400,-52.278999,993
+SWRJ,Fazenda Panflora Airport,SWRJ,,Rosário Oeste,BR,-15.083333,-56.552776,757
+SWRL,Fazenda Pouso Redondo Airport,SWRL,,Corumbiara,BR,-12.977222,-61.049168,1086
+SWRM,Santo Antônio do Descoberto Airport,SWRM,,Santo Antônio Do Descoberto,BR,-15.930556,-48.333611,3674
+SWRN,Estação Naval do Rio Negro Heliport,SWRN,,Manaus,BR,-3.142778,-59.950001,131
+SWRO,Aeroclube de Rondônia Airport,SWRO,,Porto Velho,BR,-8.793611,-63.858055,312
+SWRP,Aripuanã Airport,SWRP,AIR,Aripuanã,BR,-10.250278,-59.383888,623
+SWRR,Fazenda Serra Azul Airport,SWRR,,Planalto Da Serra,BR,-14.667778,-54.567501,1542
+SWRS,Fazenda Santa Mônica Airport,SWRS,,Rondonópolis,BR,-16.933332,-54.906944,1047
+SWRT,Fazenda Santa Rita Airport,SWRT,,Santa Rita Do Araguaia,BR,-17.347778,-53.193054,2346
+SWRV,Fazenda Vale do Rio Verde Airport,SWRV,,Diamantino,BR,-12.166944,-56.533890,1378
+SWRW,Fazenda Santa Alice Airport,SWRW,,Mirassol D`Oeste,BR,-15.587500,-58.044445,1115
+SWRX,Fazenda Santa Cruz do Pessoê Airport,SWRX,,Vila Bela Da Santíssima Trindade,BR,-15.165000,-60.445831,764
+SWRY,Fazenda Santa Maria Airport,SWRY,,Porto Estrela,BR,-15.737500,-57.470554,1853
+SWRZ,Fazenda Arrossensal Airport,SWRZ,,Nortelândia,BR,-14.353100,-56.713799,1306
+SWSA,Fazenda São João Airport,SWSA,,Diamantino,BR,-12.289167,-56.533890,1476
+SWSB,Fazenda Sabiá Airport,SWSB,,Araguaiana,BR,-15.233333,-51.977222,951
+SWSC,Fazenda Santa Cruz Airport,SWSC,,São Félix Do Araguaia,BR,-11.653611,-52.733334,1083
+SWSD,Fazenda Santo Antônio Airport,SWSD,,Araguaiana,BR,-15.623889,-51.813889,1079
+SWSF,Fazenda São Francisco Airport,SWSF,,Vila Bela Da Santíssima Trindade,BR,-15.224100,-60.217201,863
+SWSG,Fazenda Simarelli Airport,SWSG,,Campos De Júlio,BR,-13.606800,-59.316799,2136
+SWSH,São Raimundo II Airport,SWSH,,Alta Floresta,BR,-9.966389,-56.152779,932
+SWSK,Fazenda São Marco Airport,SWSK,,Boa Vista,BR,3.049720,-60.483898,295
+SWSL,Teuto Heliport,SWSL,,Anápolis,BR,-16.410833,-48.927223,3652
+SWSM,Fazenda Santa Maria Airport,SWSM,,Lambari D`Oeste,BR,-15.358330,-57.694440,525
+SWSP,Sopave Norte Airport,SWSP,,Paranatinga,BR,-13.725278,-54.738335,1690
+SWSQ,São Joaquim Airport,SWSQ,,São Gabriel Da Cachoeira,BR,1.733056,-69.383889,541
+SWSR,Sertânia Airport,SWSR,,Sertânia,BR,-13.750278,-55.633888,1772
+SWSS,Fazenda Silmar Airport,SWSS,,Vila Bela Da Santíssima Trindade,BR,-16.165001,-60.114445,863
+SWST,Santa Terezinha Airport,SWST,STZ,Santa Terezinha,BR,-10.464722,-50.518612,663
+SWSU,Fazenda Santa Juliana Airport,SWSU,,Ribeirão Cascalheira,BR,-12.852222,-52.020832,1230
+SWSV,Fazenda Santa Sílvia Airport,SWSV,,Cocalinho,BR,-14.388611,-51.380554,837
+SWSW,PCDF Heliport,SWSW,,Brasília,BR,-15.779722,-47.913055,3816
+SWSX,Seringal Nova Olinda Airport,SWSX,,Sena Mafureira,BR,-10.104444,-69.211945,673
+SWSY,São Simão Airport,SWSY,,Vila Bela Da Santíssima Trindade,BR,-15.908611,-60.154720,705
+SWSZ,Fazenda Santa Luzia Airport,SWSZ,,Nova Bandeirantes,BR,-9.773611,-58.062778,741
+SWTA,Fazenda Santa Márcia Airport,SWTA,,Araputanga,BR,-15.415278,-58.408890,938
+SWTB,Tabajara Airport,SWTB,,Ariquemes,BR,-8.916944,-62.117222,722
+SWTC,Tocantínia Airport,SWTC,,Tocantínia,BR,-9.583611,-48.450558,656
+SWTD,Fazenda Sete de Setembro Airport,SWTD,,Água Boa,BR,-13.881111,-52.400002,1066
+SWTE,Fazenda Trescinco Airport,SWTE,,Diamantino,BR,-13.916944,-56.658890,1132
+SWTF,Porto Moura Heliport,SWTF,,Tefé,BR,-4.550278,-65.567223,195
+SWTH,Fazenda Trescinco Juruena Airport,SWTH,,Alta Floresta,BR,-10.244722,-58.249443,883
+SWTI,São Vicente Airport,SWTI,,Nova Lacerda,BR,-14.520300,-59.779900,791
+SWTJ,Fazenda Cachoeira Airport,SWTJ,,Tangará Da Serra,BR,-14.603333,-57.797222,1070
+SWTK,Fazenda Santa Maria do Guaporé Airport,SWTK,,Vila Bela Da Santíssima Trindade,BR,-14.201944,-60.280834,797
+SWTL,Fazenda Corumbiara Airport,SWTL,,Pimenta Bueno,BR,-12.500556,-61.283611,1371
+SWTM,Fazenda Santos Reis Airport,SWTM,,Porto Esperidião,BR,-16.266666,-59.150002,879
+SWTN,Fazenda Arapucel Airport,SWTN,,Araputanga,BR,-15.041389,-58.729168,1345
+SWTO,ParaíSo do Tocantins Airport,SWTO,,Paraíso Do Tocantins,BR,-10.174200,-48.932800,1083
+SWTP,Tapuruquara Airport,SWTP,IRZ,Santa Isabel Do Rio Negro,BR,-0.378600,-64.992300,223
+SWTQ,Termas Pousada do Rio Quente Airport,SWTQ,,Rio Quente,BR,-17.768600,-48.761700,2247
+SWTR,Taraquá Airport,SWTR,,São Gabriel Da Cachoeira,BR,0.124722,-68.545601,246
+SWTS,Tangará da Serra Airport,SWTS,TGQ,Tangará Da Serra,BR,-14.662000,-57.443501,1460
+SWTU,Fazenda Tucunaré Airport,SWTU,AZL,Sapezal,BR,-13.465528,-58.866935,1814
+SWTV,Fazenda Rio Preto Airport,SWTV,,Salto Do Céu,BR,-15.062222,-57.968613,1354
+SWTW,Fazenda São Lucas Airport,SWTW,,Pontes E Lacerda,BR,-15.706389,-59.241669,833
+SWTX,Fazenda Olho D`Água Airport,SWTX,,Torixoreu,BR,-16.145279,-52.971390,1201
+SWTY,Taguatinga Airport,SWTY,QHN,Taguatinga,BR,-12.433889,-46.400555,1959
+SWUA,São Miguel do Araguaia Airport,SWUA,SQM,São Miguel Do Araguaia,BR,-13.331300,-50.197601,1249
+SWUB,Fazenda Serra Alegre Airport,SWUB,,Pontes E Lacerda,BR,-15.674167,-59.191666,1115
+SWUC,Luciara Airport,SWUC,,Luciara,BR,-11.200278,-50.683887,689
+SWUE,Fazenda Tapayuna Airport,SWUE,,Nova Canaã Do Norte,BR,-10.703333,-55.936668,1197
+SWUF,Cervejaria Petrópolis Heliport,SWUF,,Boituva,BR,-23.258057,-47.660557,2067
+SWUI,Pauini Airport,SWUI,,Pauini,BR,-7.722500,-67.028336,397
+SWUJ,Taguá Agropecuária Airport,SWUJ,,Vera,BR,-12.205000,-55.377777,1230
+SWUK,Uapuí Cachoeira Airport,SWUK,,São Gabriel Da Cachoeira,BR,1.216389,-69.200554,249
+SWUL,Fazenda Furna Azul Airport,SWUL,,Ananás,BR,-6.218056,-48.421391,407
+SWUM,Fazenda Rancho Novo Airport,SWUM,,Comodoro,BR,-13.442500,-60.272778,984
+SWUN,Fazenda Santa Eunice Airport,SWUN,,Nova Monte Verde,BR,-10.171944,-57.567780,886
+SWUO,Fazenda Santo André Airport,SWUO,,Nova Mutum,BR,-13.686389,-55.987221,1529
+SWUP,Uirapuru Airport,SWUP,,Uirapuru,BR,-14.016944,-59.367222,1575
+SWUQ,Surucucu Airport,SWUQ,,Alto Alegre,BR,2.835280,-63.646999,2854
+SWUR,Fazenda Vista Verde Airport,SWUR,,Palmeira Do Piauí,BR,-8.491667,-44.389442,1945
+SWUS,Sede Fazenda São Benedito Airport,SWUS,,Campo Novo Do Parecis,BR,-14.235000,-57.709167,1798
+SWUT,Lavoura Fazenda São Benedito Airport,SWUT,,Campo Novo Do Parecis,BR,-14.220000,-57.778889,2001
+SWUU,Fazenda Uirapuru Airport,SWUU,,Sinop,BR,-12.133611,-54.200558,1148
+SWUW,Fazenda Santa Bárbara II Airport,SWUW,,Alto Paraguai,BR,-15.113889,-56.836945,810
+SWUY,Urucu Airport,SWUY,,Coari,BR,-4.884220,-65.355400,210
+SWUZ,Brigadeiro Araripe Macedo Airport,SWUZ,,Luziânia,BR,-16.261700,-47.968700,3269
+SWVA,Valmir Amaral Heliport,SWVA,,Brasília,BR,-15.848333,-47.895832,3300
+SWVB,Vila Bela da Santíssima Trindade Airport,SWVB,,Vila Bela Da Santíssima Trindade,BR,-15.015278,-59.967220,886
+SWVC,Vila Rica Airport,SWVC,VLP,Vila Rica,BR,-9.979444,-51.142223,892
+SWVD,Fazenda Rio Verde Airport,SWVD,,Serranópolis,BR,-17.969168,-52.577778,2592
+SWVE,Fazenda Vista Alegre Airport,SWVE,,Bujari,BR,-9.788611,-68.007225,666
+SWVF,Fazenda Sto Antônio Guaporé - Sede Nova Airport,SWVF,,Vila Bela Da Santíssima Trindade,BR,-16.009443,-59.928055,709
+SWVH,Fazenda Vaca Branca Airport,SWVH,,Alta Floresta,BR,-9.524444,-56.239723,1149
+SWVI,Fazenda Pirassununga Airport,SWVI,,São Valério,BR,-11.517778,-48.311111,787
+SWVJ,Fazenda Uiapuru Airport,SWVJ,,Nova Mutum,BR,-13.663889,-56.002220,1519
+SWVK,Fazenda Vale do Rio Celeste Airport,SWVK,,Nova Ubiratã,BR,-13.036944,-55.326111,1411
+SWVL,Fazenda Vertente Airport,SWVL,,Santo Antônio Do Leverger,BR,-15.896667,-55.315556,2444
+SWVN,Valdir Masutti Airport,SWVN,,Comodoro,BR,-13.632778,-59.795834,2028
+SWVO,Panorama Airport,SWVO,,Cláudia,BR,-11.370278,-55.380554,1017
+SWVP,Fazenda Santa Isabel Airport,SWVP,,Cutias,BR,1.156667,-50.330276,33
+SWVQ,Uniban Morumbi Heliport,SWVQ,,São Paulo,BR,-23.631666,-46.694443,2569
+SWVR,Estância Rosália Airport,SWVR,,Sinop,BR,-11.900000,-55.459167,1460
+SWVS,Fazenda Sto Antônio do Guaporé - Baia do Padre Airport,SWVS,,Vila Bela Da Santíssima Trindade,BR,-15.859167,-60.044724,675
+SWVT,Fazenda Estrela D`Alva Airport,SWVT,,Querência,BR,-12.123333,-52.645832,1050
+SWVU,Fazenda Ramalhete Airport,SWVU,,Rio Brilhante,BR,-21.733299,-54.576698,1099
+SWVV,Fazenda Esperança Airport,SWVV,,Vila Bela Da Santíssima Trindade,BR,-15.751944,-60.104721,692
+SWVY,Fazenda Carvalho Airport,SWVY,,Corumbá,BR,-17.568056,-56.488056,361
+SWVZ,EMAL - Empresa de Mineração Aripuanã Ltda Airport,SWVZ,,Nobres,BR,-14.750000,-56.352779,2362
+SWWA,Porangatu Airport,SWWA,,Porangatu,BR,-13.404800,-49.158298,1201
+SWWB,Fazenda Rio Azul Airport,SWWB,,Cláudia,BR,-11.257778,-54.926945,1083
+SWWD,C.F. de Souza Bais Airport,SWWD,,Barcelos,BR,-1.691389,-63.785000,207
+SWWF,Hotel Baiazinha Airport,SWWF,,Cáceres,BR,-16.569721,-57.831390,676
+SWWG,Fazenda Canamari Airport,SWWG,,Quirinópolis,BR,-18.548060,-50.381110,1699
+SWWI,Fazenda Fortaleza Airport,SWWI,,General Carneiro,BR,-15.673333,-53.578335,1995
+SWWJ,Posto de Proteção Ambiental Nossa Senhora do Carmo Airport,SWWJ,,Barão De Melgaço,BR,-16.680834,-56.299168,348
+SWWK,Urucará Airport,SWWK,,Urucará,BR,-2.528890,-57.755798,98
+SWWL,Fazenda Agrocentro Airport,SWWL,,Barra Do Garças,BR,-15.696700,-52.263901,1119
+SWWM,Fazenda Pupila Airport,SWWM,,Mantena,BR,-18.771944,-40.949444,663
+SWWN,Fazenda Santa Amália Airport,SWWN,,Alta Floresta,BR,-10.313056,-56.578888,1201
+SWWP,Fazenda Taboca Heliport,SWWP,,Brasília,BR,-15.851111,-47.807777,3543
+SWWQ,UNB Autotrac Heliport,SWWQ,,Brasília,BR,-15.771667,-47.870556,3435
+SWWR,Autódromo Internacional de Brasília Heliport,SWWR,,Brasília,BR,-15.775833,-47.901112,3701
+SWWT,Sílvio Gonçalves de Mello Airport,SWWT,,Morada Nova De Minas,BR,-18.705557,-45.335556,1988
+SWWU,Uruaçu Airport,SWWU,,Uruaçu,BR,-14.525556,-49.137779,1706
+SWWV,Posto de Proteção Ambiental Santa Maria Airport,SWWV,,Barão De Melgaço,BR,-16.706388,-56.029167,381
+SWWW,Posto de Proteção Ambiental São Luiz Airport,SWWW,,Barão De Melgaço,BR,-16.688334,-56.176388,367
+SWWX,Posto de Proteção Ambiental São Joaquim Airport,SWWX,,Barão De Melgaço,BR,-16.746111,-56.369999,338
+SWWY,Posto de Proteção Ambiental Espírito Santo Airport,SWWY,,Barão De Melgaço,BR,-16.587221,-56.279999,354
+SWWZ,Darinha Airport,SWWZ,,Cascavel,BR,-4.116389,-38.250832,13
+SWXA,Fazenda Canadazinho Airport,SWXA,,Jussara,BR,-15.042222,-51.400555,889
+SWXC,Fazenda Tropical Airport,SWXC,,Cerejeiras,BR,-12.886100,-61.298302,981
+SWXD,Aerogardi Airport,SWXD,,Itápolis,BR,-21.561111,-48.798611,1762
+SWXF,Chácara Córrego Fundo Airport,SWXF,,Cuiabá,BR,-15.590000,-56.050000,630
+SWXG,Xingu Airport,SWXG,,Barra Do Garças,BR,-12.005556,-53.402222,1000
+SWXH,Fazenda São Sebastião Airport,SWXH,,São Desidério,BR,-13.063333,-46.257221,2999
+SWXI,Tocca do Mar-Kao Heliport,SWXI,,Anápolis,BR,-16.264168,-48.981388,3547
+SWXJ,Chácara São José Airport,SWXJ,,Cuiabá,BR,-15.541944,-55.983891,568
+SWXK,Fazenda Rio Alegre Airport,SWXK,,São José Do Rio Claro,BR,-13.274200,-56.892300,1240
+SWXL,Fazenda Lago Grande Airport,SWXL,,Sandolândia,BR,-12.101389,-49.951111,600
+SWXM,Regional Orlando Villas Boas Airport,SWXM,MBK,Matupá,BR,-10.170278,-54.952778,886
+SWXO,Fazenda Porto Seguro Airport,SWXO,,São Félix Do Xingu,BR,-7.131667,-52.727222,800
+SWXP,Fazenda Santa Luzia Airport,SWXP,,Sapezal,BR,-13.732778,-58.888058,1949
+SWXR,Faria Airport,SWXR,,Porto Esperidião,BR,-15.645833,-58.772778,787
+SWXS,Fazenda São João do Ibiporã Airport,SWXS,,Pontes E Lacerda,BR,-15.790000,-59.636391,951
+SWXT,Fazenda Medalha Milagrosa Airport,SWXT,,Vila Bela Da Santíssima Trindade,BR,-16.101667,-60.064999,853
+SWXU,Xapuri Airport,SWXU,,Xapuri,BR,-10.633611,-68.550552,492
+SWXV,Xavantina Airport,SWXV,NOK,Nova Xavantina,BR,-14.698300,-52.346401,1035
+SWXW,Fazenda São João do Guaporé Airport,SWXW,,Pontes E Lacerda,BR,-15.970833,-59.891109,722
+SWXY,Fazenda Transoeste Airport,SWXY,,Santa Terezinha,BR,-10.350833,-50.670834,869
+SWXZ,Fazenda Taquarussu Airport,SWXZ,,Comodoro,BR,-13.312500,-60.293331,899
+SWYA,Fazenda Nossa Senhora Aparecida Airport,SWYA,,Jaciara,BR,-16.044167,-54.951668,1082
+SWYB,Chácara Messias Heliport,SWYB,,Santa Isabel,BR,-23.275299,-46.251900,2270
+SWYC,Jair Feliciano de Deus Airport,SWYC,,Mirassol D`Oeste,BR,-15.687222,-58.111389,849
+SWYD,Cotia Foods S/A Heliport,SWYD,,Cotia,BR,-23.619167,-46.881943,2707
+SWYF,Minas Empreendimentos Heliport,SWYF,,Contagem,BR,-19.901388,-44.064720,2979
+SWYG,São José Airport,SWYG,,Aracruz,BR,-19.621668,-40.201111,187
+SWYH,Fazenda Aliança Airport,SWYH,,Araputanga,BR,-15.292500,-58.314445,984
+SWYI,Barragem Manoel Alves Airport,SWYI,,Dianópolis,BR,-11.551667,-46.983891,2067
+SWYJ,Fazenda Agropecuária FR Ltda. Airport,SWYJ,,Novo Progresso,BR,-7.622500,-56.068333,860
+SWYK,Fazenda Ilha Camargo Airport,SWYK,,Poconé,BR,-17.062599,-56.583698,358
+SWYL,Autódromo José Carlos Pace Heliport,SWYL,,São Paulo,BR,-23.702778,-46.699444,2595
+SWYM,Fazenda Anhanguera Airport,SWYM,,Pontes E Lacerda,BR,-14.642500,-59.449100,951
+SWYN,Prainha Airport,SWYN,,Apuí,BR,-7.172870,-59.839600,197
+SWYO,Usina Branco Peres Airport,SWYO,,Adamantina,BR,-21.486944,-51.025555,1335
+SWYP,Fazenda Ribeiro do Céu Airport,SWYP,,Nova Mutum,BR,-13.952778,-55.778332,1493
+SWYQ,Fazenda Nova Fronteira Airport,SWYQ,,Sinop,BR,-11.467800,-56.437599,1017
+SWYR,Fazenda Nossa Senhora do Pillar Airport,SWYR,,Jauru,BR,-15.345833,-58.795277,1001
+SWYT,Fazenda Formosa Airport,SWYT,,Novo Acordo,BR,-10.013056,-47.681667,1132
+SWYU,Fazenda Entre Rios Airport,SWYU,,Aruanã,BR,-14.443333,-50.866669,781
+SWYV,Clube de Marte Ibirá de Pará-Quedismo Airport,SWYV,,Ibirá,BR,-21.091389,-49.224167,1591
+SWYW,Fazenda Adriana Airport,SWYW,,Alto Garças,BR,-16.834444,-53.835278,2241
+SWYY,Fazenda Nova Viena Airport,SWYY,,Nova Xavantina,BR,-14.887778,-52.276943,994
+SWYZ,Residência Oficial Heliport,SWYZ,,Vila Velha,BR,-20.326944,-40.269169,59
+SWZA,Agrosan Airport,SWZA,,Juara,BR,-11.366944,-58.117222,984
+SWZB,Fazenda Arara Azul Airport,SWZB,,Barão De Melgaço,BR,-17.001944,-56.460278,459
+SWZC,Fazenda Corixo Airport,SWZC,,Porto Esperidião,BR,-16.245832,-58.894444,492
+SWZD,Fazenda Denusa Destilaria Nova União Airport,SWZD,,Jandaia,BR,-17.255833,-50.142223,1699
+SWZE,Fazenda Tamboril Airport,SWZE,,Pontes E Lacerda,BR,-15.062222,-59.374168,1099
+SWZF,Fazenda Araguari Airport,SWZF,,Araputanga,BR,-15.494722,-58.399445,902
+SWZG,Fazenda Lagoa Encantada Airport,SWZG,,Porto Esperidião,BR,-16.019167,-58.887501,800
+SWZH,Fazenda Caçapava Airport,SWZH,,Acreúna,BR,-17.575001,-50.174999,1918
+SWZJ,Fazenda São João Airport,SWZJ,,Crixás,BR,-14.547222,-50.653610,1033
+SWZK,CON-CN-Cidade Nova Heliport,SWZK,,Rio De Janeiro,BR,-22.911388,-43.203335,125
+SWZL,Fazenda Americana Airport,SWZL,,Itambacuri,BR,-18.146944,-41.714443,1106
+SWZM,Usina São Simão Airport,SWZM,,São Simão,BR,-18.986500,-50.563599,1716
+SWZN,Fazenda Francês Airport,SWZN,,Acreúna,BR,-17.322222,-50.425835,2210
+SWZO,Fazenda Lagoa Funda Airport,SWZO,,Campo Verde,BR,-15.342778,-55.136391,2165
+SWZP,Fazenda Vale Rico Airport,SWZP,,Guiratinga,BR,-16.385834,-54.202221,1050
+SWZQ,Fazenda Jussara Airport,SWZQ,,Jussara,BR,-15.845278,-50.071945,1344
+SWZR,Fazenda Santa Rita Airport,SWZR,,Itapirapuã,BR,-15.383889,-51.033890,965
+SWZS,Fazenda Nova Larga Airport,SWZS,,Cáceres,BR,-16.658333,-57.670834,787
+SWZT,Fazenda do Brejo Airport,SWZT,,Paraopeba,BR,-19.254999,-44.473331,2451
+SWZU,Fazenda Rodoserv I Airport,SWZU,,Ivinhema,BR,-22.472778,-52.595833,1001
+SWZV,Fazenda Rodoserv III Airport,SWZV,,Bela Vista,BR,-21.862223,-56.773888,1001
+SWZW,Fazenda Santa Fé do Xingu Airport,SWZW,,São José Do Xingu,BR,-10.321111,-52.210556,1036
+SWZX,Opto Heliport,SWZX,,São Carlos,BR,-22.000834,-47.916389,2695
+SWZY,Fazenda Sete Estrelas Airport,SWZY,,Brasnorte,BR,-11.577222,-58.234165,984
+SWZZ,Graer Heliport,SWZZ,,Joinville,BR,-26.262777,-48.858055,39

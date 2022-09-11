@@ -1,0 +1,26 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+DN54,Bajoga Northeast Airport,DN54,,Bajoga,NG,10.919900,11.501200,1000
+DN57,Katsina Airport,DN57,DKA,Katsina,NG,13.007800,7.660450,1660
+DNAA,Nnamdi Azikiwe International Airport,DNAA,ABV,Abuja,NG,9.006790,7.263170,1123
+DNAK,Akure Airport,DNAK,AKR,Akure,NG,7.246740,5.301010,1100
+DNAS,Asaba International Airport,DNAS,ABB,Asaba,NG,6.203333,6.658889,305
+DNBE,Benin Airport,DNBE,BNI,Benin,NG,6.316980,5.599500,258
+DNBI,Bida Airport,DNBI,,Bida,NG,9.100000,6.017000,450
+DNCA,Margaret Ekpo International Airport,DNCA,CBQ,Calabar,NG,4.976020,8.347200,210
+DNEN,Akanu Ibiam International Airport,DNEN,ENU,Enegu,NG,6.474270,7.561960,466
+DNGU,Gusau Airport,DNGU,QUS,Gusau,NG,12.171700,6.696110,1520
+DNIB,Ibadan Airport,DNIB,IBA,Ibadan,NG,7.362460,3.978330,725
+DNIL,Ilorin International Airport,DNIL,ILR,Ilorin,NG,8.440210,4.493920,1126
+DNIM,Sam Mbakwe International Airport,DNIM,QOW,Owerri,NG,5.427060,7.206030,373
+DNJO,Yakubu Gowon Airport,DNJO,JOS,Jos,NG,9.639830,8.869050,4232
+DNKA,Kaduna Airport,DNKA,KAD,Kaduna,NG,10.696000,7.320110,2073
+DNKN,Mallam Aminu International Airport,DNKN,KAN,Kano,NG,12.047600,8.524620,1562
+DNMA,Maiduguri International Airport,DNMA,MIU,Maiduguri,NG,11.855300,13.080900,1099
+DNMK,Makurdi Airport,DNMK,MDI,Makurdi,NG,7.703880,8.613940,371
+DNMM,Murtala Muhammed International Airport,DNMM,LOS,Lagos,NG,6.577370,3.321160,135
+DNMN,Minna Airport,DNMN,MXJ,Minna,NG,9.652170,6.462260,834
+DNOS,Oshogbo Airport,DNOS,,Oshogbo,NG,7.783000,4.483000,997
+DNPO,Port Harcourt International Airport,DNPO,PHC,Port Harcourt,NG,5.015490,6.949590,87
+DNSO,Sadiq Abubakar III International Airport,DNSO,SKO,Sokoto,NG,12.916300,5.207190,1010
+DNYO,Yola Airport,DNYO,YOL,Yola,NG,9.257550,12.430400,599
+DNZA,Zaria Airport,DNZA,ZAR,Zaria,NG,11.130200,7.685810,2170

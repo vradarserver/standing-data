@@ -1,0 +1,31 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+0PA0,Philadelphia Gliderport,0PA0,,Hilltown,US,40.328400,-75.241302,670
+0PA1,Phoenix Technologies Heliport,0PA1,,Norristown,US,40.118198,-75.401299,252
+0PA2,Haunstein Ultralightport,0PA2,,Shermans Dale,US,40.316799,-77.124702,600
+0PA3,Robbins Farm Airport,0PA3,,Troy,US,41.749500,-76.760201,1207
+0PA4,Ecko Field,0PA4,,Hummelstown,US,40.237598,-76.724701,380
+0PA5,Fisher Airport,0PA5,,Franklin,US,41.494499,-79.830902,1500
+0PA6,Hostetler Airport,0PA6,,Huntingdon,US,40.630901,-77.850304,760
+0PA7,Linvill Airport,0PA7,,Media,US,39.884800,-75.414902,180
+0PA8,Community Medical Center Nap Heliport,0PA8,,Scranton,US,41.400002,-75.635300,508
+0PA9,Carson Heliport,0PA9,,Perkasie,US,40.333401,-75.216301,415
+0PN0,Fletcher Airport,0PN0,,Sheakeyville,US,41.443600,-80.153900,1335
+0PN1,Pete's Water Landing Seaplane Base,0PN1,,Freeport,US,40.699402,-79.618896,757
+0PN2,Flying Acres Airport,0PN2,,Slippery Rock,US,41.073101,-80.070297,1247
+0PN3,Wyeth-Ayerst Nr Heliport,0PN3,,Collegeville,US,40.158699,-75.463402,186
+0PN4,Kitner Airport,0PN4,,New Bloomfield,US,40.412899,-77.241402,960
+0PN5,Nichols Airport,0PN5,,Spartansburg,US,41.779202,-79.598396,1761
+0PN6,Memmi Airport,0PN6,,Three Springs,US,40.168999,-77.992500,1138
+0PN7,Drillmore Acres Airport,0PN7,,Newburg,US,40.128300,-77.631401,680
+0PN8,Shriver Airport,0PN8,,Titusville,US,41.616699,-79.683098,1560
+0PN9,Paul Personal Use Airport,0PN9,,Titusville,US,41.719501,-79.677803,1645
+0PS0,Frederick Airpark,0PS0,,Tylersburg,US,41.370899,-79.341698,1560
+0PS1,Mc Crory Stores Heliport,0PS1,,York,US,39.981499,-76.671402,420
+0PS2,Marian Heliport,0PS2,,Weatherly,US,40.989498,-75.751297,1285
+0PS3,Carsonville Airport,0PS3,,Carsonville,US,40.490398,-76.766602,800
+0PS4,Old Orchard Airport,0PS4,,Curwensville,US,41.008400,-78.560898,1980
+0PS5,Used Parts Heliport,0PS5,,East Bangor,US,40.879299,-75.192703,660
+0PS6,Herbst Heliport,0PS6,,East Prospect,US,39.949501,-76.553299,485
+0PS7,Harman Airport,0PS7,,Elizabethville,US,40.522301,-76.845497,720
+0PS8,Bayfront Garage Heliport,0PS8,,Erie,US,42.132599,-80.086197,1130
+0PS9,Delaware Valley Medical Center Heliport,0PS9,,Fairless Hills,US,40.182899,-74.867897,141

@@ -1,0 +1,15 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+DT70,Medenine Airport,DT70,,Medenine,TN,33.350201,10.444000,427
+DTKA,Tabarka 7 Novembre Airport,DTKA,TBJ,Tabarka,TN,36.980000,8.876940,230
+DTMB,Monastir Habib Bourguiba International Airport,DTMB,MIR,Monastir,TN,35.758099,10.754700,9
+DTNH,Enfidha–Hammamet International Airport,DTNH,NBE,Enfidha,ES,10.413889,36.091944,21
+DTTA,Tunis Carthage International Airport,DTTA,TUN,Tunis,TN,36.851002,10.227200,22
+DTTB,Sidi Ahmed Air Base,DTTB,QIZ,Sidi Ahmed,TN,37.245399,9.791450,20
+DTTD,Remada Air Base,DTTD,,Remada,TN,32.306198,10.382100,1004
+DTTF,Gafsa Ksar International Airport,DTTF,GAF,Gafsa,TN,34.422001,8.822500,1060
+DTTG,Gabès Matmata International Airport,DTTG,GAE,Gabès,TN,33.876900,10.103300,26
+DTTI,Borj El Amri Airport,DTTI,,Borj El Amri,TN,36.721298,9.943150,110
+DTTJ,Djerba Zarzis International Airport,DTTJ,DJE,Djerba,TN,33.875000,10.775500,19
+DTTR,El Borma Airport,DTTR,EBM,El Borma,TN,31.704300,9.254620,827
+DTTX,Sfax Thyna International Airport,DTTX,SFA,Sfax,TN,34.717999,10.691000,85
+DTTZ,Tozeur Nefta International Airport,DTTZ,TOE,Tozeur,TN,33.939701,8.110560,287

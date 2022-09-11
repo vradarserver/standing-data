@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+HDAM,Djibouti-Ambouli Airport,HDAM,JIB,Djibouti City,DJ,11.547300,43.159500,49
+HDAS,Ali-Sabieh Airport,HDAS,AII,Ali-Sabieh,DJ,11.146889,42.720000,2320
+HDCH,Chabelley Airport,HDCH,,Chabelley,DJ,11.516800,43.061401,279
+HDOB,Obock Airport,HDOB,OBC,Obock,DJ,11.967000,43.266998,69
+HDTJ,Tadjoura Airport,HDTJ,TDJ,Tadjoura,DJ,11.783000,42.917000,246

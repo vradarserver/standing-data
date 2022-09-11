@@ -1,0 +1,25 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+RCAY,Gangshan Air Force Base,RCAY,,Gangshan,TW,22.782499,120.263000,34
+RCBS,Kinmen Airport,RCBS,KNH,Shang-I,TW,24.427900,118.359001,93
+RCDC,Pingtung South Airport,RCDC,,Pingtung,TW,22.672400,120.461998,78
+RCDI,Longtan Air Base,RCDI,,Longtan Township,TW,24.855101,121.237999,790
+RCFG,Matsu Nangan Airport,RCFG,LZN,Nangang Island,TW,26.159800,119.958000,232
+RCFN,Taitung Airport,RCFN,TTT,Taitung City,TW,22.754999,121.101997,143
+RCGI,Lyudao Airport,RCGI,GNI,Lyudao,TW,22.673901,121.466003,28
+RCGM,Taoyuan Air Base,RCGM,,Taoyuan City,TW,25.056601,121.244263,144
+RCKH,Kaohsiung International Airport,RCKH,KHH,Kaohsiung City,TW,22.577101,120.349998,31
+RCKU,Chiayi Airport,RCKU,CYI,Chiayi City,TW,23.461800,120.392998,85
+RCKW,Hengchun Airport,RCKW,HCN,Hengchung,TW,22.041100,120.730003,46
+RCLG,Taichung Airport,RCLG,TXG,Taichung City,TW,24.186300,120.653999,369
+RCLY,Lanyu Airport,RCLY,KYD,Orchid Island,TW,22.027000,121.535004,44
+RCMQ,Taichung Ching Chuang Kang Airport,RCMQ,RMQ,Taichung City,TW,24.264700,120.621002,663
+RCMT,Matsu Beigan Airport,RCMT,MFK,Beigan Island,TW,26.224199,120.002998,41
+RCNN,Tainan Airport,RCNN,TNN,Tainan City,TW,22.950399,120.206001,63
+RCPO,Hsinchu Air Base,RCPO,,Hsinchu City,TW,24.818001,120.939003,26
+RCQC,Makung Airport,RCQC,MZG,Makung City,TW,23.568701,119.627998,103
+RCQS,Chihhang Air Base,RCQS,,Taitung City,TW,22.793100,121.181999,121
+RCSQ,Pingtung North Airport,RCSQ,PIF,Pingtung,TW,22.700199,120.482002,97
+RCSS,Taipei Songshan Airport,RCSS,TSA,Taipei City,TW,25.069401,121.552002,18
+RCTP,Taiwan Taoyuan International Airport,RCTP,TPE,Taipei,TW,25.077700,121.233002,106
+RCWA,Wang-an Airport,RCWA,WOT,Wang-an,TW,23.367373,119.502777,115
+RCYU,Hualien Airport,RCYU,HUN,Hualien City,TW,24.023100,121.617996,52

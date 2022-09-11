@@ -1,0 +1,207 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SA01,Cachi Airport,SA01,,Cachi,AR,-25.105000,-66.157204,8232
+SA02,Cafayate Airport,SA02,,Cafayate,AR,-26.056101,-65.936897,5375
+SA03,Villa Minetti Airport,SA03,,Villa Minetti,AR,-28.620100,-61.603800,246
+SA04,Isla Martin Garcia Airport,SA04,,Isla Martin Garcia,AR,-34.182100,-58.246900,6
+SA05,Bell Ville Airport,SA05,,Bell Ville,AR,-32.659900,-62.702000,429
+SA06,Santa Rita Airport,SA06,,Saladillo,AR,-35.828300,-60.146700,177
+SA07,El Porton Airport,SA07,,Buta Ranquil,AR,-37.195000,-69.609497,2853
+SA10,Estancia Don Panos Airport,SA10,,Presidencia Roca,AR,-26.295900,-59.535300,262
+SA11,Campo Arenal Airport,SA11,,Campo Arenal,AR,-27.072300,-66.586098,7622
+SA12,Quemu Quemu Airport,SA12,,Quemu Quemu,AR,-36.058700,-63.631300,396
+SA13,Estancia La Estrella Airport,SA13,,Tandil,AR,-37.559399,-58.666000,456
+SA14,Miramar Airport,SA14,MJR,Miramar,AR,-38.227100,-57.869700,42
+SA15,Lago Fagnano North Airport,SA15,,Kaiken,AR,-54.499699,-67.173103,600
+SA16,La Puntilla Airport,SA16,,La Puntilla,AR,-32.962799,-68.873703,2952
+SA17,Rio Cuarto Aeroclub Airport,SA17,,Rio Cuarto,AR,-33.160599,-64.338203,1423
+SA19,Puerto Deseado West Airport,SA19,,Puerto Deseado,AR,-47.720100,-65.932404,271
+SA20,Loma La Lata Airport,SA20,,Neuquen,AR,-38.413799,-68.737297,1328
+SA21,Veinticinco De Mayo Airport,SA21,,Colonia Veinticinco de Mayo,AR,-37.809799,-67.659302,1138
+SA22,Santa Victoria Airport,SA22,,Salta,AR,-22.285700,-62.713699,918
+SA23,Apóstoles Airport,SA23,,Apóstoles,AR,-27.903200,-55.765499,581
+SA24,Calilegua Airport,SA24,,Calilegua,AR,-23.781900,-64.749496,1449
+SA25,Cañadon Seco Airport,SA25,,Cañadon Seco,AR,-46.539000,-67.563900,295
+SA26,Bella Vista Airport,SA26,,Bella Vista,AR,-28.526200,-59.038500,180
+SA27,Puerto Rosales Airport,SA27,,Puerto Rosales,AR,-38.897099,-62.010300,16
+SA29,Choele Choel Airport,SA29,,Choele Choel,AR,-39.286400,-65.610298,642
+SA30,Colonia Catriel Airport,SA30,CCT,Colonia Catriel,AR,-37.910198,-67.834999,1026
+SA31,San Nicolas De Los Arroyos Airport,SA31,,San Nicolas,AR,-33.390700,-60.195700,98
+SA32,Venado Tuerto Airport,SA32,,Venado Tuerto,AR,-33.681800,-61.956400,367
+SA33,Comandante Luis Piedrabuena Airport,SA33,,Comandante Luis Piedrabuena,AR,-49.995100,-68.953100,78
+SA34,Trelew Aeroclub Airport,SA34,,Trelew,AR,-43.235600,-65.324100,127
+SA35,Andalgalá Airport,SA35,,Andalgalá,AR,-27.631701,-66.350800,2952
+SA36,Saladillo Airport,SA36,,Saladillo,AR,-35.608100,-59.816400,147
+SA38,Las Lajas Airport,SA38,,Las Lajas,AR,-38.538898,-70.337097,2788
+SA39,Jujuy Aeroclub Airport,SA39,,San Salvador de Jujuy,AR,-24.236500,-65.269096,4047
+SA40,San Juan Aeroclub Airport,SA40,,San Juan,AR,-31.602800,-68.547302,2079
+SA41,El Colorado Airport,SA41,,El Colorado,AR,-26.316687,-59.339764,269
+SA42,Santa Maria Airport,SA42,,Santa Maria,AR,-26.673401,-66.024002,5904
+SA44,Londres/Belén Airport,SA44,,Londres/Belén,AR,-27.707899,-67.095100,3936
+SA45,Frias Airport,SA45,,Frias,AR,-28.634399,-65.109200,1082
+SA46,Fiambala Airport,SA46,,Fiambala,AR,-27.642200,-67.624702,5029
+SAAA,San Antonio De Areco Airport,SAAA,,San Antonio de Areco,AR,-34.221400,-59.442200,98
+SAAC,Comodoro Pierrestegui Airport,SAAC,COC,Concordia,AR,-31.296900,-57.996600,112
+SAAG,Gualeguaychu Airport,SAAG,GHU,Gualeguaychu,AR,-33.010300,-58.613100,75
+SAAI,Punta Indio Airport,SAAI,,Veronica,AR,-35.353298,-57.290001,49
+SAAJ,Junin Airport,SAAJ,JNI,Junin,AR,-34.545900,-60.930600,262
+SAAM,Mazaruca Airport,SAAM,,Puerto Ibicuy/Mazuraca,AR,-33.596001,-59.266998,20
+SAAN,Pergamino Airport,SAAN,,Pergamino,AR,-33.919000,-60.648000,236
+SAAP,General Urquiza Airport,SAAP,PRA,Parana,AR,-31.794800,-60.480400,242
+SAAR,Islas Malvinas Airport,SAAR,ROS,Rosario,AR,-32.903600,-60.785000,85
+SAAU,Villaguay Airport,SAAU,,Villaguay,AR,-31.855000,-59.075600,131
+SAAV,Sauce Viejo Airport,SAAV,SFN,Santa Fe,AR,-31.711700,-60.811700,55
+SABE,Jorge Newbery Airpark,SABE,AEP,Buenos Aires,AR,-34.559200,-58.415600,18
+SACA,Cap D. Omar Darío Gelardi Airport,SACA,,Santa Isabel - Córdoba,AR,-31.441900,-64.258202,1594
+SACC,La Cumbre Airport,SACC,LCM,La Cumbre,AR,-31.005800,-64.531898,3733
+SACD,Coronel Olmedo Airport,SACD,,Cordoba,AR,-31.487499,-64.141403,1416
+SACE,Escuela De Aviacion Militar Airport,SACE,,Santa Isabel - Córdoba,AR,-31.445000,-64.283897,1646
+SACI,Pilar Airport,SACI,,Pilar,AR,-31.681999,-63.863800,1072
+SACL,Laguna Larga Airport,SACL,,Laguna Larga,AR,-31.000000,-63.000000,1013
+SACM,Villa General Mitre Airport,SACM,,Villa General Mitre,AR,-30.700600,-64.043098,1760
+SACN,Ascochinga Airport,SACN,,Ascochinga,AR,-30.967920,-64.277740,677
+SACO,Ingeniero Ambrosio Taravella Airport,SACO,COR,Cordoba,AR,-31.323601,-64.208000,1604
+SACP,Chepes Airport,SACP,,Chepes,AR,-31.356142,-66.591888,714
+SACQ,Monte Quemado Airport,SACQ,,Monte Quemado,AR,-26.159800,-64.409103,1242
+SACS,Villa De Soto Airport,SACS,,Villa de Soto,AR,-30.865200,-64.978996,2013
+SACT,Chamical Airport,SACT,,Gobernador Gordillo,AR,-30.345301,-66.293602,1502
+SACV,Villa Maria Airport,SACV,,Villa Maria del Rio Seco,AR,-32.389400,-63.258598,672
+SADD,Don Torcuato Airport,SADD,,Don Torcuato,AR,-34.498100,-58.604198,20
+SADF,San Fernando Airport,SADF,FDO,San Fernando,AR,-34.453200,-58.589600,10
+SADG,Monte Grande Airport,SADG,,Monte Grande,AR,-34.805599,-58.492001,30
+SADJ,Mariano Moreno Airport,SADJ,,General Sarmiento,AR,-34.560600,-58.789600,105
+SADL,La Plata Airport,SADL,LPG,La Plata,AR,-34.972200,-57.894700,72
+SADM,Moron Airport,SADM,,Moron,AR,-34.676300,-58.642800,95
+SADO,Campo De Mayo Airport,SADO,,Campo de Mayo,AR,-34.534400,-58.671700,78
+SADP,El Palomar Airport,SADP,EPA,El Palomar,AR,-34.609900,-58.612600,59
+SADQ,Quilmes Airport,SADQ,,Quilmes,AR,-34.706400,-58.244400,6
+SADR,Merlo Airport,SADR,,Merlo,AR,-34.684800,-58.689100,49
+SADS,Aeroclub Argentino Airport,SADS,,San Justo,AR,-34.731100,-58.597500,62
+SADZ,Matanza Airport,SADZ,,La Matanza,AR,-34.726100,-58.501100,9
+SAEA,General Acha Airport,SAEA,,General Acha,AR,-37.400799,-64.612801,908
+SAEL,Las Flores Airport,SAEL,,Las Flores,AR,-36.067200,-59.104200,111
+SAET,Ñanco Lauquen Airport,SAET,,Trenque Lauquen,AR,-35.971500,-62.772400,301
+SAEZ,Ministro Pistarini International Airport,SAEZ,EZE,Buenos Aires,AR,-34.822200,-58.535800,67
+SAFR,Rafaela Airport,SAFR,,Rafaela,AR,-31.282500,-61.501700,325
+SAHC,Chos Malal Airport,SAHC,HOS,Chos Malal,AR,-37.444698,-70.222504,2788
+SAHE,Caviahue Airport,SAHE,CVH,Lafontaine,AR,-37.851398,-71.009201,5435
+SAHR,Dr. Arturo H. Illia Airport,SAHR,GNR,General Roca,AR,-39.000702,-67.620499,852
+SAHS,Rincon De Los Sauces Airport,SAHS,RDS,Rincon de los Sauces,AR,-37.390598,-68.904198,1968
+SAHZ,Zapala Airport,SAHZ,APZ,Zapala,AR,-38.975498,-70.113602,3330
+SAMA,General Alvear Airport,SAMA,,General Alvear,AR,-35.058899,-67.692802,1489
+SAMC,Cristo Redentor Airport,SAMC,,Cristo Redentor,AR,-32.807301,-70.068199,10477
+SAME,El Plumerillo Airport,SAME,MDZ,Mendoza,AR,-32.831699,-68.792900,2310
+SAMH,Valle Hermoso Airport,SAMH,,Valle Hermoso,AR,-35.146198,-70.205399,2500
+SAMJ,Jachal Airport,SAMJ,,Jachal,AR,-30.249500,-68.740196,3790
+SAML,Punta De Vacas Airport,SAML,,Punta de Vacas,AR,-32.854599,-69.760498,7906
+SAMM,Comodoro D.R. Salomón Airport,SAMM,LGS,Malargue,AR,-35.493599,-69.574303,4685
+SAMP,La Paz Airport,SAMP,,La Paz,AR,-30.783300,-59.600000,200
+SAMQ,Mendoza Airpark,SAMQ,,Mendoza,AR,-32.865299,-68.871902,2694
+SAMR,Suboficial Ay Santiago Germano Airport,SAMR,AFA,San Rafael,AR,-34.588299,-68.403900,2470
+SAMS,San Carlos Airport,SAMS,,San Carlos,AR,-33.775700,-69.053703,3050
+SAMU,Uspallata Airport,SAMU,,Uspallata,AR,-32.538898,-69.345802,6525
+SANC,Catamarca Airport,SANC,CTC,Catamarca,AR,-28.595600,-65.751701,1522
+SANE,Vicecomodoro Angel D. La Paz Aragonés Airport,SANE,SDE,Santiago del Estero,AR,-27.765556,-64.309998,656
+SANH,Las Termas Airport,SANH,RHD,Rio Hondo,AR,-27.473700,-64.905502,270
+SANI,Tinogasta Airport,SANI,,Tinogasta,AR,-28.037800,-67.580299,3968
+SANL,Capitan V A Almonacid Airport,SANL,IRJ,La Rioja,AR,-29.381599,-66.795799,1437
+SANO,Chilecito Airport,SANO,,Chilecito,AR,-29.223900,-67.438904,3099
+SANT,Teniente Benjamin Matienzo Airport,SANT,TUC,San Miguel de Tucuman,AR,-26.840900,-65.104897,1493
+SANU,Domingo Faustino Sarmiento Airport,SANU,UAQ,San Juan,AR,-31.571501,-68.418198,1958
+SANW,Ceres Airport,SANW,CRR,Ceres,AR,-29.863100,-61.872800,285
+SAOC,Las Higueras,SAOC,RCU,Rio Cuarto,AR,-33.085098,-64.261299,1380
+SAOD,Villa Dolores Airport,SAOD,VDR,Villa Dolores,AR,-31.945200,-65.146301,1847
+SAOE,Rio Tercero Airport,SAOE,,Rio Tercero,AR,-32.173302,-64.088303,1246
+SAOL,La Quiaca Airport,SAOL,,La Quiaca,AR,-22.150600,-65.577499,11414
+SAOM,Marcos Juarez Airport,SAOM,,Marcos Juarez,AR,-32.683600,-62.157800,360
+SAOR,Villa Reynolds Airport,SAOR,VME,Villa Reynolds,AR,-33.729900,-65.387398,1591
+SAOS,Valle Del Conlara International Airport,SAOS,RLO,Merlo,AR,-32.384701,-65.186501,2021
+SAOU,Brigadier Mayor D Cesar Raul Ojeda Airport,SAOU,LUQ,San Luis,AR,-33.273201,-66.356400,2328
+SARC,Corrientes Airport,SARC,CNQ,Corrientes,AR,-27.445500,-58.761900,202
+SARD,Resistencia (City) Airport,SARD,,Resistencia,AR,-27.465700,-58.979000,175
+SARE,Resistencia International Airport,SARE,RES,Resistencia,AR,-27.450000,-59.056100,173
+SARF,Formosa Airport,SARF,FMA,Formosa,AR,-26.212700,-58.228100,193
+SARG,Caa Cati Airport,SARG,,General Paz,AR,-27.755301,-57.632999,249
+SARI,Cataratas Del Iguazú International Airport,SARI,IGR,Puerto Iguazu,AR,-25.737301,-54.473400,916
+SARL,Paso De Los Libres Airport,SARL,AOL,Paso de los Libres,AR,-29.689400,-57.152100,230
+SARM,Monte Caseros Airport,SARM,MCS,Monte Caseros,AR,-30.271900,-57.640200,170
+SARO,Ituzaingo Airport,SARO,,Ituzaingo,AR,-27.526100,-56.633301,62
+SARP,Libertador Gral D Jose De San Martin Airport,SARP,PSS,Posadas,AR,-27.385800,-55.970700,430
+SARS,Rovere Airport,SARS,PSV,Presidencia Roque Sáenz Peña,AR,-26.783367,-60.487967,295
+SARV,Villa Angela Airport,SARV,,Villa Angela,AR,-27.591500,-60.686400,246
+SASA,Martin Miguel De Guemes International Airport,SASA,SLA,Salta,AR,-24.856001,-65.486198,4088
+SASJ,Gobernador Horacio Guzman International Airport,SASJ,JUJ,San Salvador de Jujuy,AR,-24.392799,-65.097801,3019
+SASL,Salar De Cauchari Airport,SASL,,Salar de Cauchari,AR,-24.019199,-66.797203,13000
+SASO,Orán Airport,SASO,ORA,Orán,AR,-23.152800,-64.329201,1171
+SASQ,Laboulaye Airport,SASQ,,Laboulaye,AR,-34.135399,-63.362301,449
+SASR,Rivadavia Airport,SASR,,Rivadavia,AR,-24.188601,-62.883400,679
+SAST,General Enrique Mosconi Airport,SAST,TTG,Tartagal,AR,-22.619600,-63.793701,1472
+SATC,Clorinda Airport,SATC,CLX,Clorinda,AR,-25.303600,-57.734400,206
+SATD,El Dorado Airport,SATD,ELO,El Dorado,AR,-26.397499,-54.574699,685
+SATG,Goya Airport,SATG,OYA,Goya,AR,-29.105800,-59.218900,128
+SATI,Bernardo De Irigoyen Airport,SATI,,Bernardo de Irigoyen,AR,-26.281389,-53.673332,2673
+SATK,Alferez Armando Rodriguez Airport,SATK,LLS,Las Lomitas,AR,-24.721399,-60.548801,426
+SATM,Mercedes Airport,SATM,MDX,Mercedes,AR,-29.221399,-58.087799,358
+SATO,Oberá Airport,SATO,,Oberá,AR,-27.518200,-55.124199,1125
+SATR,Reconquista Airport,SATR,RCQ,Reconquista,AR,-29.210300,-59.680000,160
+SATU,Curuzu Cuatia Airport,SATU,UZU,Curuzu Cuatia,AR,-29.770600,-57.978900,229
+SAVA,Piedra Del Aguila Airport,SAVA,,Piedra del Aguila,AR,-40.192200,-70.010002,2128
+SAVB,El Bolson Airport,SAVB,EHL,El Bolson,AR,-41.943199,-71.532303,1141
+SAVC,General E. Mosconi Airport,SAVC,CRD,Comodoro Rivadavia,AR,-45.785300,-67.465500,189
+SAVD,El Maiten Airport,SAVD,EMX,El Maiten,AR,-42.029202,-71.172501,2355
+SAVE,Brigadier Antonio Parodi Airport,SAVE,EQS,Esquel,AR,-42.908001,-71.139503,2621
+SAVH,Las Heras Airport,SAVH,LHS,Las Heras,AR,-46.538300,-68.965302,1082
+SAVJ,Cabo F.A.A. H. R. Bordón Airport,SAVJ,IGB,Ingeniero Jacobacci,AR,-41.320900,-69.574898,2925
+SAVM,Sarmiento Airport,SAVM,,Sarmiento,AR,-45.581900,-69.001400,88
+SAVN,Antoine De St Exupery Airport,SAVN,OES,San Antonio Oeste,AR,-40.751200,-65.034300,85
+SAVO,San Pedro Airport,SAVO,,San Pedro,AR,-33.698000,-59.726700,88
+SAVP,Paso De Los Indios Airport,SAVP,,Paso de los Indios,AR,-43.866699,-69.050003,575
+SAVQ,Maquinchao Airport,SAVQ,MQD,Maquinchao,AR,-41.243099,-68.707802,2912
+SAVR,D. Casimiro Szlapelis Airport,SAVR,ARR,Alto Rio Senguerr,AR,-45.013599,-70.812202,2286
+SAVS,Sierra Grande Airport,SAVS,SGV,Sierra Grande,AR,-41.591702,-65.339401,688
+SAVT,Almirante Marco Andres Zar Airport,SAVT,REL,Chubut,AR,-43.210500,-65.270300,141
+SAVV,Gobernador Castello Airport,SAVV,VDM,Viedma / Carmen de Patagones,AR,-40.869200,-63.000400,20
+SAVY,El Tehuelche Airport,SAVY,PMY,Puerto Madryn,AR,-42.759200,-65.102700,427
+SAWA,Lago Argentino Airport,SAWA,ING,El Calafate,AR,-50.336102,-72.248596,732
+SAWB,Marambio Base,SAWB,,Seymour Island,AQ,-64.238297,-56.630798,760
+SAWC,El Calafate Airport,SAWC,FTE,El Calafate,AR,-50.280300,-72.053101,669
+SAWD,Puerto Deseado Airport,SAWD,PUD,Puerto Deseado,AR,-47.735300,-65.904100,268
+SAWE,Hermes Quijada International Airport,SAWE,RGA,Rio Grande,AR,-53.777700,-67.749400,65
+SAWG,Piloto Civil N. Fernández Airport,SAWG,RGL,Rio Gallegos,AR,-51.608900,-69.312600,61
+SAWH,Malvinas Argentinas Airport,SAWH,USH,Ushuahia,AR,-54.843300,-68.295800,102
+SAWJ,Capitan D Daniel Vazquez Airport,SAWJ,ULA,San Julian,AR,-49.306800,-67.802600,203
+SAWL,Tolwin Observatory Airport,SAWL,,Tolwin (Lago Fagnano)/observatorio MET(TAIS),AR,-54.521900,-67.198997,90
+SAWM,Rio Mayo Airport,SAWM,ROY,Rio Mayo,AR,-45.703899,-70.245598,1784
+SAWO,Estación Aeronaval Airport,SAWO,,Ushuahia,AR,-54.822700,-68.304300,19
+SAWP,Perito Moreno Airport,SAWP,PMQ,Perito Moreno,AR,-46.537899,-70.978699,1410
+SAWR,Gobernador Gregores Airport,SAWR,GGS,Gobernador Gregores,AR,-48.783100,-70.150002,356
+SAWS,Jose De San Martin Airport,SAWS,JSM,Chubut,AR,-44.048599,-70.458900,2407
+SAWT,28 De Noviembre Airport,SAWT,RYO,El Turbio,AR,-51.609200,-72.221703,895
+SAWU,Santa Cruz Airport,SAWU,RZA,Santa Cruz,AR,-50.016500,-68.579200,364
+SAYE,Esperanza Base,SAYE,,Hope Bay,AQ,-63.400002,-56.983299,75
+SAYJ,Jubany Airbase,SAYJ,,South Shetland Archipielago- King George Island,AQ,-62.238300,-58.666599,12
+SAYO,Orcadas Base,SAYO,,Laurie Island,AQ,-60.740299,-44.742500,75
+SAZA,Azul Airport,SAZA,,Azul,AR,-36.836899,-59.880299,478
+SAZB,Comandante Espora Airport,SAZB,BHI,Bahia Blanca,AR,-38.725000,-62.169300,246
+SAZC,Brigadier D.H.E. Ruiz Airport,SAZC,CSZ,Coronel Suarez,AR,-37.446098,-61.889301,767
+SAZD,Dolores Airport,SAZD,,Dolores,AR,-36.322500,-57.721400,32
+SAZE,Pigüé Airport,SAZE,,Pigüé,AR,-37.601700,-62.378101,997
+SAZF,Olavarria Airport,SAZF,OVR,Olavarria,AR,-36.889999,-60.216599,551
+SAZG,General Pico Airport,SAZG,GPO,General Pico,AR,-35.696201,-63.758301,459
+SAZH,Tres Arroyos Airport,SAZH,OYO,Tres Arroyos,AR,-38.386900,-60.329700,400
+SAZI,Bolivar Airport,SAZI,,Bolivar,AR,-36.186600,-61.076400,308
+SAZJ,Benito Juarez Airport,SAZJ,,Benito Juarez,AR,-37.706100,-59.791901,682
+SAZK,Cerro Catedral Airport,SAZK,,Cerro Catedral,AR,-41.163300,-71.442703,3450
+SAZL,Santa Teresita Airport,SAZL,SST,Santa Teresita,AR,-36.542300,-56.721800,9
+SAZM,Ástor Piazzola International Airport,SAZM,MDQ,Mar del Plata,AR,-37.934200,-57.573300,72
+SAZN,Presidente Peron Airport,SAZN,NQN,Neuquen,AR,-38.949001,-68.155701,895
+SAZO,Necochea Airport,SAZO,NEC,Necochea,AR,-38.483100,-58.817200,72
+SAZP,Comodoro Pedro Zanni Airport,SAZP,PEH,Pehuajó,AR,-35.844600,-61.857600,278
+SAZQ,Rio Colorado Airport,SAZQ,,Rio Colorado,AR,-38.995000,-64.140800,275
+SAZR,Santa Rosa Airport,SAZR,RSA,Santa Rosa,AR,-36.588299,-64.275703,630
+SAZS,San Carlos De Bariloche Airport,SAZS,BRC,San Carlos de Bariloche,AR,-41.151199,-71.157501,2774
+SAZT,Héroes De Malvinas Airport,SAZT,TDL,Tandil,AR,-37.237400,-59.227901,574
+SAZU,Puelches Airport,SAZU,,Puelches,AR,-38.145103,-65.922943,180
+SAZV,Villa Gesell Airport,SAZV,VLG,Villa Gesell,AR,-37.235400,-57.029200,32
+SAZW,Cutral-Co Airport,SAZW,CUT,Cutral-Co,AR,-38.939701,-69.264603,2132
+SAZX,Nueve De Julio Airport,SAZX,,Nueve de Julio,AR,-35.399700,-60.935800,246
+SAZY,Aviador C. Campos Airport,SAZY,CPC,Chapelco/San Martin de los Andes,AR,-40.075401,-71.137299,2569

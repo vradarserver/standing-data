@@ -1,0 +1,75 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+VG00,Mears Field,VG00,,Eastville,US,37.369900,-75.946899,22
+VG01,Eureka Airport,VG01,,Keysville,US,37.062401,-78.561699,420
+VG02,Innsbrook Technical Center Heliport,VG02,,Richmond,US,37.654598,-77.582199,150
+VG03,Chesapeake Energy Center Heliport,VG03,,Chesapeake,US,36.770699,-76.301598,12
+VG04,Yorktown Power Station Heliport,VG04,,Newport News,US,37.214001,-76.453598,14
+VG05,Payne Airport,VG05,,Tabscott,US,37.879601,-78.057503,463
+VG06,Fulcher Family Farms Airport,VG06,,Amherst,US,37.725101,-79.083099,980
+VG07,Rular Airport,VG07,,Remington,US,38.538898,-77.828300,305
+VG08,Montgomery Regional Hospital Heliport,VG08,,Blacksburg,US,37.186501,-80.408997,2126
+VG09,Starbase Airport,VG09,,Cape Charles,US,37.227798,-75.983299,20
+VG10,Cathro Airport,VG10,,Charlottesville,US,37.927898,-78.551399,500
+VG11,Carrsville Vol Fire Dept Heliport,VG11,,Franklin,US,36.714401,-76.826698,25
+VG12,Simpsonville Airport,VG12,,Rhoadesville,US,38.333500,-77.866402,400
+VG13,White Stone Heliport,VG13,,White Stone,US,37.648701,-76.387604,50
+VG14,Philip M Grabill Jr Memorial Heliport,VG14,,Woodstock,US,38.871399,-78.513298,820
+VG15,White Stone Family Practice Heliport,VG15,,White Stone,US,37.644199,-76.395203,50
+VG16,Collins Airport,VG16,,Patrick Springs,US,36.625099,-80.170601,1100
+VG17,Defense Supply Center Richmond Heliport,VG17,,Richmond,US,37.423599,-77.450600,115
+VG18,Sky Bryce Airport,VG18,,Basye,US,38.815899,-78.770302,1263
+VG19,Sawyer STOLport,VG19,,New Church,US,37.990700,-75.591904,13
+VG20,Onley Airport,VG20,,Onley,US,37.675098,-75.709900,45
+VG22,Rockfish Airpark,VG22,,Wintergreen,US,37.879601,-78.893600,760
+VG23,Smith Airport,VG23,,Arcola,US,38.927898,-77.562798,365
+VG24,Mayers Airport,VG24,,Ashland,US,37.781799,-77.493896,215
+VG25,Robinson Airport,VG25,,Bedford,US,37.348499,-79.571999,850
+VG27,Windy Ridge Airport,VG27,,Bedford,US,37.269299,-79.435898,750
+VG28,Mann Airport,VG28,,Boykins,US,36.549000,-77.191399,35
+VG29,Branham Mill Airpark,VG29,,Warsaw,US,37.970798,-76.709702,100
+VG30,Scott Farm Strip,VG30,,Cape Charles,US,37.227100,-75.976898,33
+VG31,Sager Field,VG31,,Broadway,US,38.713402,-78.863899,1280
+VG32,Eastview Airport,VG32,,Buckingham,US,37.614300,-78.603600,500
+VG33,Bull Farm Airport,VG33,,Cape Charles,US,37.154598,-75.956902,18
+VG34,Merifield Airport,VG34,,Clarksville,US,36.584599,-78.500801,355
+VG35,Walker Army Heliport,VG35,,Fort Monroe,US,37.016701,-76.300003,7
+VG36,Keysville Airport,VG36,,Keysville,US,37.038200,-78.462799,627
+VG37,Umphlett Airstrip,VG37,,Whaleyville,US,36.589298,-76.638000,75
+VG38,Easter Field,VG38,,Amelia,US,37.369598,-78.083099,380
+VG39,Earth Airport,VG39,,Cape Charles,US,37.220798,-76.007500,9
+VG40,Woody Field Airport,VG40,,Rocky Mount,US,36.883598,-79.852303,1150
+VG41,Smyth County Community Hospital Heliport,VG41,,Marion,US,36.852501,-81.504997,2201
+VG42,Henshaw Airport,VG42,,Hopewell,US,37.252399,-77.152702,85
+VG43,Arrowpoint Airport,VG43,,Madison,US,38.306400,-78.098900,315
+VG44,Dickerson Port Heliport,VG44,,Gloucester,US,37.252499,-76.472298,15
+VG45,Medical College of Virginia Heliport,VG45,,Richmond,US,37.541698,-77.441704,343
+VG46,Franklin County Memorial Hospital Heliport,VG46,,Rocky Mount,US,36.992802,-79.890602,1153
+VG47,Carilion Patient Transportation Services Heliport,VG47,,Roanoke,US,37.252102,-79.949799,946
+VG48,Clear Moore Corp. Kenneth Moore Heliport,VG48,,Yorktown,US,37.173901,-76.474998,47
+VG49,Tappahannock Hospital Heliport,VG49,,Tappahannock,US,37.901100,-76.876900,42
+VG50,Lonesome Pine Hospital Heliport,VG50,,Big Stone Gap,US,36.877102,-82.753799,1596
+VG51,Sentara Obici Hospital Heliport,VG51,,Elephant Fork,US,36.773300,-76.582199,55
+VG52,Woodridge Field,VG52,,Lovingston,US,37.839199,-78.821701,663
+VG53,Venning's Landing Airport,VG53,,Rocky Mount,US,37.043598,-79.801399,1100
+VG55,Woodstock Airport,VG55,,Woodstock,US,38.882000,-78.557800,965
+VG56,Midway Airport,VG56,,Bloxom,US,37.808300,-75.602798,50
+VG57,Maples Field,VG57,,Manassas,US,38.605701,-77.584702,225
+VG58,Abbott Airport,VG58,,Rocky Mount,US,36.945333,-79.796667,981
+VG59,Cedar Point Landing Heliport,VG59,,Dublin,US,37.069444,-80.649444,1865
+VG62,Carilion Roanoke Memorial Hospital Heliport,VG62,,Roanoke,US,37.250000,-79.933333,1112
+VG63,Federal Reserve Heliport,VG63,,Richmond,US,37.611722,-77.646333,181
+VG64,Lee Field,VG64,,West Point,US,37.561500,-76.852528,20
+VGBR,Barisal Airport,VGBR,BZL,Barisal,BD,22.801001,90.301201,23
+VGCB,Cox's Bazar Airport,VGCB,CXB,Cox's Bazar,BD,21.452200,91.963898,12
+VGCM,Comilla Airport,VGCM,CLA,Comilla,BD,23.437201,91.189697,25
+VGEG,Shah Amanat International Airport,VGEG,CGP,Chittagong,BD,22.249599,91.813301,12
+VGHS,Dhaka / Hazrat Shahjalal International Airport,VGHS,DAC,Dhaka,BD,23.843347,90.397783,30
+VGIS,Ishurdi Airport,VGIS,IRD,Ishurdi,BD,24.152500,89.049400,45
+VGJR,Jessore Airport,VGJR,JSR,Jashahor,BD,23.183800,89.160797,20
+VGLM,Lalmonirhat Airport,VGLM,LLJ,Lalmonirhat,BD,25.887501,89.433098,106
+VGRJ,Shah Mokhdum Airport,VGRJ,RJH,Rajshahi,BD,24.437201,88.616501,64
+VGSD,Saidpur Airport,VGSD,SPD,Saidpur,BD,25.759199,88.908897,125
+VGSG,Thakurgaon Airport,VGSG,TKR,Thakurgaon,BD,26.016399,88.403603,176
+VGSH,Shamshernagar Airport,VGSH,ZHM,Shamshernagar,BD,24.417000,91.883003,56
+VGSY,Osmany International Airport,VGSY,ZYL,Sylhet,BD,24.963200,91.866798,50
+VGTJ,Tejgaon Airport,VGTJ,,Dhaka,BD,23.778799,90.382698,24

@@ -1,0 +1,85 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+PS00,Tallman West Airport,PS00,,Dauphin,US,40.405602,-76.940002,480
+PS01,Sterling Heliport,PS01,,Croydon,US,40.081299,-74.894203,24
+PS02,Heberlig Airport,PS02,,Newville,US,40.164299,-77.370499,560
+PS03,Elephant Path Airport,PS03,,Perkasie,US,40.410400,-75.229301,370
+PS04,Consol Heliport,PS04,,Pittsburgh,US,40.347801,-80.058098,1190
+PS05,G & N Airport,PS05,,Albion,US,41.875301,-80.374802,985
+PS06,Snook Airport,PS06,,Beaver Springs,US,40.733398,-77.266403,710
+PS07,Miners Memorial Medical Center Heliport,PS07,,Coaldale,US,40.820900,-75.913803,1000
+PS08,Lazy B Ranch Airport,PS08,,Dover,US,40.022598,-76.816597,450
+PS10,Ohioport Heliport,PS10,,Ohiopyle,US,39.885399,-79.507500,2018
+PS11,Mc Cardle Farm Airport,PS11,,Burnham,US,40.645302,-77.555298,600
+PS12,Grover Airport,PS12,,Weatherly,US,40.916801,-75.866302,1223
+PS13,Boeing Helicopters Center 3 South Heliport,PS13,,Ridley Park,US,39.859299,-75.319603,10
+PS14,Three Mile Island Heliport,PS14,,Middletown,US,40.144001,-76.723297,310
+PS15,Vicars Private Airport,PS15,,Altoona,US,40.547600,-78.391701,1370
+PS16,Holy Redeemer Hospital Heliport,PS16,,Philadelphia,US,40.110401,-75.082901,200
+PS17,Marlboro Corporate Park Heliport,PS17,,Kennett Square,US,39.857800,-75.696404,385
+PS18,Pecora Field,PS18,,Bradford,US,41.903702,-78.627502,1500
+PS19,Arco Newtown Heliport,PS19,,Newtown Square,US,39.992298,-75.410202,430
+PS20,Fairview Farm Airfield,PS20,,Pine Grove,US,40.533401,-76.462196,600
+PS21,Flying Eagle Airport,PS21,,Dalmatia,US,40.645901,-76.812202,660
+PS22,Hazleton General Hospital Heliport,PS22,,Hazleton,US,40.949402,-75.963600,1670
+PS23,Windy Hill Airport,PS23,,Curwensville,US,40.085098,-78.547501,1622
+PS24,Brownsville General Hospital Heliport,PS24,,Brownsville,US,40.003700,-79.875603,1199
+PS25,Captain's Folly Airport,PS25,,Gettysburg,US,39.843399,-77.164703,641
+PS26,Banning Heliport,PS26,,Natrona Heights,US,40.634800,-79.744202,1200
+PS27,Juergensen Airpark and Maritime Facility Airport,PS27,,Addison,US,39.731400,-79.375000,1890
+PS28,Penn Dda Inc Heliport,PS28,,Philadelphia,US,40.035702,-75.016296,25
+PS29,Sugan Pond Heliport,PS29,,Solebury,US,40.375099,-74.991302,320
+PS30,Mbb Heliport,PS30,,West Chester,US,39.987598,-75.580200,464
+PS31,Brubaker Heliport,PS31,,Bethel,US,40.460400,-76.347198,4501
+PS33,Agere Systems-Lehigh Valley Central Campus Heliport,PS33,,Allentown,US,40.633099,-75.458603,358
+PS34,North Penn Usarc Heliport,PS34,,Worcester,US,40.191799,-75.341301,450
+PS35,Dutch Country Egg Farms Airport,PS35,,Fredericksburg,US,40.458099,-76.458000,550
+PS38,Bert's Airport,PS38,,Birdsboro - Pottstown,US,40.285599,-75.748199,240
+PS39,Downes Airport,PS39,,Clymer,US,40.628300,-78.960297,1590
+PS40,Tri-County Heliport,PS40,,Eckley,US,40.986198,-75.834396,1700
+PS41,Shenango Valley Medical Center Heliport,PS41,,Farrell,US,41.210602,-80.469200,1100
+PS42,Northwest Medical Center Oil City Campus Heliport,PS42,,Oil City,US,41.428398,-79.696701,1263
+PS43,Barnes Farmland Airport,PS43,,Volant,US,41.068100,-80.255898,1280
+PS44,Operations Center Heliport,PS44,,Bellwood,US,40.611500,-78.325600,1035
+PS46,Graystrip Airport,PS46,,Dublin,US,40.362301,-75.180199,642
+PS47,Hamilton Hill Airport,PS47,,Ebensburg,US,40.427898,-78.741402,2245
+PS48,Larksville Borough Heliport,PS48,,Edwardsville Borough,US,41.264500,-75.924896,660
+PS49,Hartman Airport,PS49,,Garrett,US,39.860401,-78.988602,2350
+PS50,Huf Airport,PS50,,Harford,US,41.767899,-75.723198,1600
+PS51,Anzio Heliport,PS51,,Harrisburg,US,40.280602,-76.816399,500
+PS52,Alberter Farms Airport,PS52,,Johnstown,US,40.195099,-78.832802,2070
+PS53,7-H Skeet Club Inc. Field,PS53,,Patton,US,40.639000,-78.581398,1605
+PS54,Gunden Airport,PS54,,Perkasie,US,40.329300,-75.281601,530
+PS55,Core States - 1st Pa Heliport,PS55,,Philadelphia,US,39.958401,-75.191299,80
+PS56,Morris Heliport,PS56,,Gettysburg,US,39.779301,-77.251404,500
+PS57,C.C. Hospital Heliport,PS57,,State College,US,40.819000,-77.843300,1100
+PS60,Hafer Petroleum Equipment Heliport,PS60,,Reading,US,40.300098,-75.903801,250
+PS61,Tidioute Airport,PS61,,Tidioute,US,41.690899,-79.365898,1100
+PS62,Wind Drift Heliport,PS62,,Wind Gap,US,40.807899,-75.359299,760
+PS64,Morton's Airport,PS64,,Cambridge Springs,US,41.825100,-80.078903,1200
+PS65,Crozer-Chester Heliport,PS65,,Chester,US,39.856201,-75.367104,54
+PS66,Parker-Cramer Airport,PS66,,Clarion,US,41.211498,-79.360901,1480
+PS67,Uphill Airport,PS67,,Claysville,US,40.106201,-80.430901,1360
+PS68,Buckingham Airport,PS68,,Doylestown,US,40.332298,-75.030403,250
+PS69,Barnhart Airport,PS69,,Flinton,US,40.727001,-78.539497,1640
+PS70,Cider Field,PS70,,Friedensburg,US,40.605900,-76.282997,770
+PS71,St Mary Hospital Heliport,PS71,,Langhorne,US,40.202099,-74.922897,140
+PS72,Haig-K Heliport,PS72,,Lionville,US,40.064800,-75.611298,505
+PS73,Poverty Airport,PS73,,Mackeyville,US,41.063400,-77.433601,860
+PS74,Hahn Heliport,PS74,,Nazareth,US,40.802898,-75.339104,660
+PS75,Peco Oregon Shop Heliport,PS75,,Philadelphia,US,39.912601,-75.139900,12
+PS78,Pittsburgh City Center Heliport,PS78,,Pittsburgh,US,40.442299,-79.960098,1124
+PS80,Robbins Nest Heliport,PS80,,Quakertown,US,40.369301,-75.397102,450
+PS81,Robert Packer Hospital Heliport,PS81,,Sayre,US,41.979198,-76.520203,780
+PS82,Lazy J. Ranch Airport,PS82,,Springbrook,US,41.295898,-75.597702,1650
+PS83,Smithkline Beecham Heliport,PS83,,Swedeland,US,40.079800,-75.328499,200
+PS84,Warminster Hospital Heliport,PS84,,Warminster,US,40.184601,-75.078499,315
+PS85,River Hill Heliport,PS85,,Bloomsburg,US,40.986198,-76.429100,860
+PS87,Home Safe Airport,PS87,,Ellsworth/Bentleyville,US,40.105900,-80.033897,1140
+PS88,Kikkatuck Ii Seaplane Base,PS88,,Freeport,US,40.650101,-79.691399,745
+PS89,Press Enterprise Heliport,PS89,,Bloomsburg,US,41.012001,-76.405197,490
+PS90,Ramada Inn-Gettysburg Heliport,PS90,,Gettysburg,US,39.766800,-77.270500,510
+PS91,Conemaugh Valley Memorial Hospital Heliport,PS91,,Johnstown,US,40.304501,-78.920601,1302
+PS92,Va Medical Center Heliport,PS92,,Lebanon,US,40.315399,-76.403000,510
+PS95,Mazzuca Heliport,PS95,,Pottsville,US,40.686199,-76.210197,810
+PS98,Travis Airport,PS98,,Smicksburg,US,40.882801,-79.196503,1320
+PS99,West Penn Township Airport,PS99,,Tamaqua,US,40.747898,-75.932999,1200

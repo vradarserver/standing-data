@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+WPAT,Atauro Airport,WPAT,AUT,Atauro,TL,-8.210520,125.615997,29
+WPDB,Suai Airport,WPDB,UAI,Suai,TL,-9.303310,125.287003,96
+WPDL,Presidente Nicolau Lobato International Airport,WPDL,DIL,Dili,TL,-8.546400,125.526001,154
+WPEC,Cakung Airport,WPEC,BCH,Baucau,TL,-8.489030,126.401001,1771
+WPVQ,Viqueque Airport,WPVQ,VIQ,Viqueque,TL,-8.883800,126.373001,500

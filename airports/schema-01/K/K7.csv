@@ -1,0 +1,69 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K70A,Freddie Jones Field,K70A,,Linden,US,32.266800,-87.718102,161
+K70J,Cairo Grady County Airport,K70J,,Cairo,US,30.888000,-84.154701,265
+K71A,Pine Hill Municipal Airport,K71A,,Pine Hill,US,31.966801,-87.583298,123
+K71J,Blackwell Field,K71J,,Ozark,US,31.431101,-85.619202,356
+K71N,Sunbury Airport,K71N,,Sunbury,US,40.891800,-76.778900,450
+K72F,Throckmorton Municipal Airport,K72F,,Throckmorton,US,33.179298,-99.149803,1273
+K73C,Lancaster Municipal Airport,K73C,,Lancaster,US,42.780499,-90.681000,1008
+K74S,Anacortes Airport,K74S,,Anacortes,US,48.499001,-122.662003,241
+K74V,Roosevelt Municipal Airport,K74V,,Roosevelt,US,40.278301,-110.051003,5172
+K75J,Turner County Airport,K75J,,Ashburn,US,31.685499,-83.632103,389
+K76F,Van Zandt County Regional Airport,K76F,,Wills Point,US,32.681499,-95.984100,518
+K76G,Marine City Airport,K76G,,Marine City,US,42.720901,-82.595703,613
+K77F,Winters Municipal Airport,K77F,,Winters,US,31.947201,-99.985802,1871
+K77G,Marlette Airport,K77G,,Marlette,US,43.311798,-83.090897,895
+K77S,Hobby Field,K77S,,Creswell,US,43.930801,-123.007004,538
+K78R,San Augustine County Airport,K78R,,San Augustine,US,31.539600,-94.170502,443
+K78Y,Rankin Airport,K78Y,,Maryville,US,40.333302,-94.833603,976
+K79D,Philippi Barbour County Regional Airport,K79D,,Philippi,US,39.166199,-80.062599,1755
+K79J,South Alabama Regional At Bill Benton Field Airport,K79J,,Andalusia/Opp,US,31.308800,-86.393799,310
+K79S,Fort Benton Airport,K79S,,Fort Benton,US,47.845100,-110.636002,2869
+K7A0,Greensboro Municipal Airport,K7A0,,Greensboro,US,32.681499,-87.662102,180
+K7A3,Lanett Municipal Airport,K7A3,,Lanett,US,32.812000,-85.229599,624
+K7A4,Foster Field,K7A4,,Apple River,US,42.466400,-90.169403,990
+K7A5,Roanoke Municipal Airport,K7A5,,Roanoke,US,33.129299,-85.366600,907
+K7A6,Stevenson Airport,K7A6,,Stevenson,US,34.886299,-85.803299,644
+K7A8,Avery County Morrison Field,K7A8,,Spruce Pine,US,35.944599,-81.995697,2750
+K7B2,Northampton Airport,K7B2,,Northampton,US,42.328098,-72.611397,121
+K7B6,Skylark Airpark,K7B6,,Warehouse Point,US,41.929298,-72.574501,120
+K7D3,Baldwin Municipal Airport,K7D3,,Baldwin,US,43.875500,-85.842102,828
+K7D9,Germack Airport,K7D9,,Geneva,US,41.777802,-80.903999,820
+K7F3,Caddo Mills Municipal Airport,K7F3,,Caddo Mills,US,33.036201,-96.243103,542
+K7F5,Canton Hackney Airport,K7F5,,Canton,US,32.586201,-95.862701,500
+K7F7,Clifton Municipal Isenhower Field,K7F7,,Clifton,US,31.816799,-97.567001,760
+K7G0,Ledgedale Airpark,K7G0,,Brockport,US,43.181099,-77.915802,665
+K7G8,Geauga County Airport,K7G8,,Middlefield,US,41.449600,-81.062897,1174
+K7G9,Canton Municipal Airport,K7G9,,Canton,US,43.308899,-96.570999,1290
+K7I4,Orleans Airport,K7I4,,Orleans,US,38.658401,-86.443001,655
+K7K4,Ohio County Airport,K7K4,,Hartford,US,37.458302,-86.849998,535
+K7K5,Kenmare Municipal Airport,K7K5,,Kenmare,US,48.667599,-102.047997,1962
+K7K8,Martin Field,K7K8,,So Sioux City,US,42.454201,-96.472504,1100
+K7L2,Linton Municipal Airport,K7L2,,Linton,US,46.218300,-100.245003,1779
+K7L8,Post Air Airport,K7L8,,Indianapolis,US,39.750000,-86.013901,861
+K7M1,Mc Gehee Municipal Airport,K7M1,,Mc Gehee,US,33.620201,-91.364800,141
+K7M2,Mountain View Wilcox Memorial Field,K7M2,,Mountain View,US,35.864498,-92.090302,805
+K7M3,Bearce Airport,K7M3,,Mount Ida,US,34.529301,-93.527100,644
+K7M4,Osceola Municipal Airport,K7M4,,Osceola,US,35.691101,-90.010101,234
+K7M5,Ozark Franklin County Airport,K7M5,,Ozark,US,35.510700,-93.839302,648
+K7M8,Rector Airport,K7M8,,Rector,US,36.250099,-90.319504,281
+K7M9,Salem Airport,K7M9,,Salem,US,36.355900,-91.831001,787
+K7N1,Corning Painted Post Airport,K7N1,,Corning,US,42.175900,-77.112198,962
+K7S0,Ronan Airport,K7S0,,Ronan,US,47.567200,-114.100998,3086
+K7S1,Twin Bridges Airport,K7S1,,Twin Bridges,US,45.533798,-112.303001,4777
+K7S5,Independence State Airport,K7S5,,Independence,US,44.867001,-123.197998,180
+K7S6,White Sulphur Springs Airport,K7S6,,White Sulphur Springs,US,46.504101,-110.913002,5061
+K7S7,Valier Airport,K7S7,,Valier,US,48.299999,-112.250999,3820
+K7S9,Lenhardt Airpark,K7S9,,Hubbard,US,45.180401,-122.742996,165
+K7SP,Seven Springs Airport,K7SP,,Seven Springs Borough,US,40.009998,-79.321899,2907
+K7T7,Skywest Inc Airport,K7T7,,Midland,US,31.858500,-102.073997,2800
+K7V2,North Fork Valley Airport,K7V2,WPO,Paonia,US,38.831699,-107.646004,5798
+K7V3,Big Foot Airfield,K7V3,,Walworth,US,42.525700,-88.653000,951
+K7V5,Brush Municipal Airport,K7V5,,Brush,US,40.263901,-103.581001,4280
+K7V6,Camp Guernsey Airport,K7V6,,Guernsey,US,42.259602,-104.727997,4400
+K7V7,Red Cloud Municipal Airport,K7V7,,Red Cloud,US,40.084702,-98.540604,1744
+K7V8,Julesburg Municipal Airport,K7V8,,Julesburg,US,40.970798,-102.315002,3495
+K7V9,City of Las Animas Bent County Airport,K7V9,,Las Animas,US,38.052799,-103.237000,3915
+K7W5,Henry County Airport,K7W5,,Napoleon,US,41.374298,-84.067902,683
+K7W6,Hyde County Airport,K7W6,,Engelhard,US,35.562401,-75.955200,8
+K7Y4,Bagley Municipal Airport,K7Y4,,Bagley,US,47.525002,-95.360802,1500

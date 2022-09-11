@@ -1,0 +1,162 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+KL00,Rosamond Skypark Airport,KL00,,Rosamond,US,34.870800,-118.209000,2415
+KL04,Holtville Airport,KL04,,Holtville,US,32.840302,-115.266998,59
+KL05,Kern Valley Airport,KL05,,Kernville,US,35.728298,-118.419998,2614
+KL06,Furnace Creek Airport,KL06,,Death Valley National Park,US,36.463799,-116.880997,-210
+KL08,Borrego Valley Airport,KL08,BXS,Borrego Springs,US,33.258999,-116.320999,520
+KL09,Stovepipe Wells Airport,KL09,,Death Valley National Park,US,36.604099,-117.158997,25
+KL17,Taft Kern County Airport,KL17,,Taft,US,35.141102,-119.441002,875
+KL19,Wasco Kern County Airport,KL19,,Wasco,US,35.619701,-119.353996,313
+KL22,Yucca Valley Airport,KL22,,Yucca Valley,US,34.127800,-116.407997,3224
+KL23,Pahute Mesa Airstrip,KL23,,Mercury,US,37.102699,-116.313004,5068
+KL26,Hesperia Airport,KL26,,Hesperia,US,34.377201,-117.316002,3390
+KL31,St. Tammany Regional Airport,KL31,,Covington,US,30.445101,-89.988899,39
+KL32,Jonesville Airport,KL32,,Jonesville,US,31.625299,-91.829201,56
+KL33,Tensas Parish Airport,KL33,,St Joseph,US,31.997400,-91.247299,74
+KL35,Big Bear City Airport,KL35,,Big Bear City,US,34.263802,-116.856003,6752
+KL38,Louisiana Regional Airport,KL38,,Gonzales,US,30.172701,-90.940598,14
+KL39,Leesville Airport,KL39,,Leesville,US,31.168600,-93.342499,282
+KL41,Marble Canyon Airport,KL41,,Marble Canyon,US,36.812500,-111.647003,3603
+KL45,Bakersfield Municipal Airport,KL45,,Bakersfield,US,35.324799,-118.996002,378
+KL47,Olla Airport,KL47,,Olla,US,31.895399,-92.217903,130
+KL62,Elk Hills Buttonwillow Airport,KL62,,Buttonwillow,US,35.352699,-119.478996,326
+KL64,Desert Center Airport,KL64,,Desert Center,US,33.748600,-115.322998,559
+KL65,Perris Valley Airport,KL65,,Perris,US,33.760899,-117.218002,1413
+KL66,Pollock Municipal Airport,KL66,,Pollock,US,31.477501,-92.461098,203
+KL67,Rialto Municipal Miro Field,KL67,,Rialto,US,34.129299,-117.402000,1455
+KL70,Agua Dulce Airpark,KL70,,Agua Dulce,US,34.504200,-118.313004,2660
+KL71,California City Municipal Airport,KL71,,California City,US,35.151199,-118.016998,2454
+KL72,Trona Airport,KL72,,Trona,US,35.812500,-117.327003,1716
+KL73,Poso Kern County Airport,KL73,,Famoso,US,35.596600,-119.127998,635
+KL77,Chiriaco Summit Airport,KL77,,Chiriaco Summit,US,33.665298,-115.710999,1713
+KL83,Thibodaux Municipal Airport,KL83,,Thibodaux,US,29.747801,-90.832901,9
+KL84,Lost Hills Kern County Airport,KL84,,Lost Hills,US,35.623600,-119.685997,274
+KL88,New Cuyama Airport,KL88,,New Cuyama,US,34.937500,-119.688004,2203
+KL94,Mountain Valley Airport,KL94,,Tehachapi,US,35.101101,-118.422997,4220
+KLAA,Lamar Municipal Airport,KLAA,,Lamar,US,38.069698,-102.688004,3706
+KLAF,Purdue University Airport,KLAF,LAF,Lafayette,US,40.412300,-86.936897,606
+KLAL,Lakeland Linder Regional Airport,KLAL,LAL,Lakeland,US,27.988899,-82.018600,142
+KLAM,Los Alamos Airport,KLAM,,Los Alamos,US,35.879799,-106.268997,7171
+KLAN,Capital City Airport,KLAN,LAN,Lansing,US,42.778702,-84.587402,861
+KLAR,Laramie Regional Airport,KLAR,LAR,Laramie,US,41.312099,-105.675003,7284
+KLAS,McCarran International Airport,KLAS,LAS,Las Vegas,US,36.080101,-115.152000,2181
+KLAW,Lawton Fort Sill Regional Airport,KLAW,LAW,Lawton,US,34.567699,-98.416603,1110
+KLAX,Los Angeles International Airport,KLAX,LAX,Los Angeles,US,33.942501,-118.407997,125
+KLBB,Lubbock Preston Smith International Airport,KLBB,LBB,Lubbock,US,33.663601,-101.822998,3282
+KLBE,Arnold Palmer Regional Airport,KLBE,LBE,Latrobe,US,40.275902,-79.404800,1199
+KLBF,North Platte Regional Airport Lee Bird Field,KLBF,LBF,North Platte,US,41.126202,-100.683998,2777
+KLBL,Liberal Mid-America Regional Airport,KLBL,LBL,Liberal,US,37.044201,-100.959999,2885
+KLBO,Floyd W. Jones Lebanon Airport,KLBO,,Lebanon,US,37.648300,-92.652397,1321
+KLBR,Clarksville Red River City-J D Trissell Field,KLBR,,Clarksville,US,33.593201,-95.063599,440
+KLBT,Lumberton Municipal Airport,KLBT,,Lumberton,US,34.609901,-79.059402,126
+KLBX,Brazoria County Airport,KLBX,,Angleton/Lake Jackson,US,29.108601,-95.462097,25
+KLCG,Wayne Municipal Airport,KLCG,,Wayne,US,42.241901,-96.981400,1431
+KLCH,Lake Charles Regional Airport,KLCH,LCH,Lake Charles,US,30.126101,-93.223297,15
+KLCI,Laconia Municipal Airport,KLCI,,Laconia,US,43.572701,-71.418900,545
+KLCK,Rickenbacker International Airport,KLCK,LCK,Columbus,US,39.813801,-82.927803,744
+KLCQ,Lake City Municipal Airport,KLCQ,,Lake City,US,30.181999,-82.576897,201
+KLDJ,Linden Airport,KLDJ,,Linden,US,40.617401,-74.244598,23
+KLDM,Mason County Airport,KLDM,,Ludington,US,43.962502,-86.407898,646
+KLEB,Lebanon Municipal Airport,KLEB,LEB,Lebanon,US,43.626099,-72.304199,603
+KLEE,Leesburg International Airport,KLEE,,Leesburg,US,28.823099,-81.808701,76
+KLEM,Lemmon Municipal Airport,KLEM,,Lemmon,US,45.918701,-102.106003,2571
+KLEW,Auburn Lewiston Municipal Airport,KLEW,,Auburn/Lewiston,US,44.048500,-70.283501,288
+KLEX,Blue Grass Airport,KLEX,LEX,Lexington,US,38.036499,-84.605904,979
+KLFI,Langley Air Force Base,KLFI,,Hampton,US,37.082901,-76.360497,11
+KLFK,Angelina County Airport,KLFK,,Lufkin,US,31.233999,-94.750000,296
+KLFT,Lafayette Regional Airport,KLFT,LFT,Lafayette,US,30.205299,-91.987602,42
+KLGA,La Guardia Airport,KLGA,LGA,New York,US,40.777199,-73.872597,21
+KLGB,Long Beach /Daugherty Field/ Airport,KLGB,LGB,Long Beach,US,33.817699,-118.152000,60
+KLGC,Lagrange Callaway Airport,KLGC,,Lagrange,US,33.008900,-85.072601,693
+KLGD,La Grande Union County Airport,KLGD,,La Grande,US,45.290199,-118.007004,2717
+KLGF,Laguna AAF (Yuma Proving Ground) Airfield,KLGF,,Yuma Proving Ground(Yuma),US,32.860001,-114.397003,433
+KLGU,Logan Cache Airport,KLGU,,Logan,US,41.791199,-111.851997,4457
+KLHB,Hearne Municipal Airport,KLHB,,Hearne,US,30.871799,-96.622200,285
+KLHC,Arlington Municipal Airport,KLHC,LHC,Arlington,US,35.283100,-89.672501,308
+KLHM,Lincoln Regional Karl Harder Field,KLHM,,Lincoln,US,38.909199,-121.350998,121
+KLHQ,Fairfield County Airport,KLHQ,,Lancaster,US,39.755600,-82.657097,868
+KLHV,William T. Piper Memorial Airport,KLHV,,Lock Haven,US,41.135601,-77.422302,556
+KLHW,Wright Aaf (Fort Stewart)/Midcoast Regional Airport,KLHW,,Fort Stewart(Hinesville),US,31.889099,-81.562302,45
+KLHX,La Junta Municipal Airport,KLHX,,La Junta,US,38.049702,-103.509003,4229
+KLHZ,Franklin County Airport,KLHZ,,Louisburg,US,36.023300,-78.330299,369
+KLIC,Limon Municipal Airport,KLIC,,Limon,US,39.274799,-103.666000,5374
+KLIT,Adams Field,KLIT,LIT,Little Rock,US,34.729401,-92.224297,262
+KLIU,Littlefield Municipal Airport,KLIU,,Littlefield,US,33.923901,-102.387001,3616
+KLJF,Litchfield Municipal Airport,KLJF,,Litchfield,US,45.097099,-94.507301,1140
+KLKP,Lake Placid Airport,KLKP,,Lake Placid,US,44.264500,-73.961899,1747
+KLKR,Lancaster County-Mc Whirter Field,KLKR,,Lancaster,US,34.722900,-80.854599,486
+KLKU,Louisa County-Freeman field,KLKU,,Louisa,US,38.009800,-77.970100,493
+KLKV,Lake County Airport,KLKV,,Lakeview,US,42.161098,-120.399002,4733
+KLLJ,Challis Airport,KLLJ,,Challis,US,44.522999,-114.218002,5072
+KLLN,Levelland Municipal Airport,KLLN,,Levelland,US,33.552502,-102.372002,3514
+KLLQ,Monticello Municipal Ellis Field,KLLQ,,Monticello,US,33.638599,-91.750999,270
+KLLR,Little River Airport,KLLR,,Little River,US,39.262001,-123.753998,572
+KLLU,Lamar Municipal Airport,KLLU,,Lamar,US,37.489498,-94.311501,1009
+KLMO,Vance Brand Airport,KLMO,,Longmont,US,40.163700,-105.163002,5055
+KLMS,Louisville Winston County Airport,KLMS,LMS,Louisville,US,33.146198,-89.062500,575
+KLMT,Klamath Falls Airport,KLMT,LMT,Klamath Falls,US,42.156101,-121.733002,4095
+KLNA,Palm Beach County Park Airport,KLNA,LNA,West Palm Beach,US,26.593000,-80.085098,14
+KLNC,Lancaster Airport,KLNC,,Lancaster,US,32.579201,-96.719002,501
+KLND,Hunt Field,KLND,LND,Lander,US,42.815201,-108.730003,5586
+KLNK,Lincoln Airport,KLNK,LNK,Lincoln,US,40.851002,-96.759201,1219
+KLNL,Kings Land O' Lakes Airport,KLNL,,Land O' Lakes,US,46.153999,-89.212097,1704
+KLNN,Willoughby Lost Nation Municipal Airport,KLNN,LNN,Willoughby,US,41.683998,-81.389702,626
+KLNP,Lonesome Pine Airport,KLNP,LNP,Wise,US,36.987499,-82.529999,2684
+KLNR,Tri-County Regional Airport,KLNR,LNR,Lone Rock,US,43.211700,-90.181602,717
+KLNS,Lancaster Airport,KLNS,LNS,Lancaster,US,40.121700,-76.296097,403
+KLOL,Derby Field,KLOL,,Lovelock,US,40.066399,-118.565002,3904
+KLOM,Wings Field,KLOM,BBX,Philadelphia,US,40.137501,-75.265099,302
+KLOT,Lewis University Airport,KLOT,,Chicago/Romeoville,US,41.607300,-88.096199,679
+KLOU,Bowman Field,KLOU,,Louisville,US,38.228001,-85.663696,546
+KLOZ,London Corbin Airport Magee Field,KLOZ,,London,US,37.082199,-84.084900,1212
+KLPC,Lompoc Airport,KLPC,,Lompoc,US,34.665600,-120.468002,88
+KLPR,Lorain County Regional Airport,KLPR,,Lorain/Elyria,US,41.344299,-82.177597,793
+KLQK,Pickens County Airport,KLQK,,Pickens,US,34.810001,-82.702904,1013
+KLQR,Larned Pawnee County Airport,KLQR,,Larned,US,38.208599,-99.085999,2012
+KLRD,Laredo International Airport,KLRD,LRD,Laredo,US,27.543800,-99.461601,508
+KLRF,Little Rock Air Force Base,KLRF,,Jacksonville,US,34.916901,-92.149696,311
+KLRG,Lincoln Regional Airport,KLRG,,Lincoln,US,45.362202,-68.534698,208
+KLRJ,Le Mars Municipal Airport,KLRJ,,Le Mars,US,42.778000,-96.193703,1197
+KLRO,Mt Pleasant Regional-Faison field,KLRO,,Mount Pleasant,US,32.897800,-79.782898,12
+KLRU,Las Cruces International Airport,KLRU,LRU,Las Cruces,US,32.289398,-106.921997,4456
+KLRY,Lawrence Smith Memorial Airport,KLRY,,Harrisonville,US,38.611000,-94.342102,915
+KLSB,Lordsburg Municipal Airport,KLSB,,Lordsburg,US,32.333500,-108.692001,4289
+KLSE,La Crosse Municipal Airport,KLSE,LSE,La Crosse,US,43.879002,-91.256699,655
+KLSF,Lawson Army Air Field (Fort Benning),KLSF,,Fort Benning(Columbus),US,32.337299,-84.991302,232
+KLSK,Lusk Municipal Airport,KLSK,,Lusk,US,42.753799,-104.404999,4964
+KLSN,Los Banos Municipal Airport,KLSN,,Los Banos,US,37.062901,-120.869003,121
+KLSV,Nellis Air Force Base,KLSV,,Las Vegas,US,36.236198,-115.033997,1870
+KLTS,Altus Air Force Base,KLTS,,Altus,US,34.667099,-99.266701,1382
+KLTY,Liberty County Airport,KLTY,,Chester,US,48.510700,-110.990997,3160
+KLUD,Decatur Municipal Airport,KLUD,,Decatur,US,33.254601,-97.580597,1047
+KLUF,Luke Air Force Base,KLUF,,Glendale,US,33.535000,-112.383003,1085
+KLUG,Ellington Airport,KLUG,,Lewisburg,US,35.507000,-86.803902,717
+KLUK,Cincinnati Municipal Airport Lunken Field,KLUK,LUK,Cincinnati,US,39.103298,-84.418602,483
+KLUL,Hesler Noble Field,KLUL,,Laurel,US,31.672600,-89.172203,238
+KLUM,Menomonie Municipal Score Field,KLUM,,Menomonie,US,44.892300,-91.867897,895
+KLUX,Laurens County Airport,KLUX,,Laurens,US,34.507099,-81.947197,697
+KLVJ,Pearland Regional Airport,KLVJ,,Houston,US,29.521299,-95.242104,44
+KLVK,Livermore Municipal Airport,KLVK,,Livermore,US,37.693401,-121.820000,400
+KLVL,Lawrenceville Brunswick Municipal Airport,KLVL,,Lawrenceville,US,36.772800,-77.794296,329
+KLVM,Mission Field,KLVM,,Livingston,US,45.699402,-110.447998,4660
+KLVN,Airlake Airport,KLVN,,Minneapolis,US,44.627899,-93.228104,960
+KLVS,Las Vegas Municipal Airport,KLVS,,Las Vegas,US,35.654202,-105.141998,6877
+KLWA,South Haven Area Regional Airport,KLWA,,South Haven,US,42.351200,-86.255699,666
+KLWB,Greenbrier Valley Airport,KLWB,LWB,Lewisburg,US,37.858299,-80.399498,2302
+KLWC,Lawrence Municipal Airport,KLWC,,Lawrence,US,39.011200,-95.216599,833
+KLWL,Wells Municipal Harriet Field,KLWL,,Wells,US,41.117100,-114.921997,5772
+KLWM,Lawrence Municipal Airport,KLWM,,Lawrence,US,42.717201,-71.123398,148
+KLWS,Lewiston Nez Perce County Airport,KLWS,LWS,Lewiston,US,46.374500,-117.014999,1442
+KLWT,Lewistown Municipal Airport,KLWT,LWT,Lewistown,US,47.049301,-109.467003,4170
+KLWV,Lawrenceville Vincennes International Airport,KLWV,,Lawrenceville,US,38.764301,-87.605499,430
+KLXL,Little Falls-Morrison County-Lindbergh field,KLXL,,Little Falls,US,45.949699,-94.347397,1123
+KLXN,Jim Kelly Field,KLXN,,Lexington,US,40.791000,-99.777298,2413
+KLXT,Lee's Summit Municipal Airport,KLXT,,Lee's Summit,US,38.959702,-94.371399,1004
+KLXV,Lake County Airport,KLXV,,Leadville,US,39.220299,-106.317001,9927
+KLXY,Mexia Limestone County Airport,KLXY,,Mexia,US,31.639799,-96.514702,544
+KLYH,Lynchburg Regional Preston Glenn Field,KLYH,LYH,Lynchburg,US,37.326698,-79.200401,938
+KLYO,Lyons Rice County Municipal Airport,KLYO,,Lyons,US,38.342800,-98.226898,1691
+KLYV,Quentin Aanenson Field,KLYV,,Luverne,US,43.621201,-96.215797,1431
+KLZD,Danielson Airport,KLZD,,Danielson,US,41.819698,-71.901001,238
+KLZU,Gwinnett County Briscoe Field,KLZU,LZU,Lawrenceville,US,33.978100,-83.962402,1061
+KLZZ,Lampasas Airport,KLZZ,,Lampasas,US,31.106199,-98.195900,1215

@@ -1,0 +1,152 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+OI01,Lazy-W Airport,OI01,,Logan,US,39.513699,-82.448997,750
+OI05,Dana Heliport,OI05,,Toledo,US,41.655899,-83.646599,625
+OI06,Wagner International Airport,OI06,,West Milton,US,39.991402,-84.291603,935
+OI07,Varns Farms Airport,OI07,,Wooster,US,40.827999,-81.979698,1110
+OI08,Davies Air Field,OI08,,Wooster,US,40.738899,-81.871696,1200
+OI11,Hibbetts Airport,OI11,,Carrollton,US,40.637299,-81.112602,1060
+OI12,Fly-A-Way Farm Airport,OI12,,Delaware,US,40.250301,-82.994301,940
+OI22,Carroll's Airport,OI22,,Elyria,US,41.333900,-82.102600,755
+OI23,Emh Regional Medical Center Heliport,OI23,,Elyria,US,41.365002,-82.097603,867
+OI24,Kokosing Heliport,OI24,,Fredericktown,US,40.491172,-82.560722,1095
+OI25,Ross Field,OI25,,Greenfield,US,39.365299,-83.354401,960
+OI26,Hillcrest Airport,OI26,,Oxford,US,39.505600,-84.698799,890
+OI27,Checkpoint Charlie Airport,OI27,,Lowell,US,39.556702,-81.569603,640
+OI28,Lanker Airport,OI28,,Mount Gilead,US,40.583900,-82.679298,1440
+OI29,Yellowbird Farm Airport,OI29,,Otway,US,38.854198,-83.230499,610
+OI31,Pheasant Run Airport,OI31,,Leroy,US,41.709801,-81.124802,960
+OI32,Stoney's Airport,OI32,,Ravenna,US,41.168098,-81.287903,1105
+OI33,Ruhlin Heliport,OI33,,Sharon Center,US,41.086399,-81.729301,1035
+OI34,Fricke Airport,OI34,,Spring Valley,US,39.613098,-83.992401,905
+OI35,Scott Park Heliport,OI35,,Toledo,US,41.639801,-83.593300,620
+OI36,Farpoint Airfield,OI36,,Gratis,US,39.622501,-84.483101,990
+OI37,Rogers Heliport,OI37,,Dayton,US,39.800098,-84.120796,800
+OI38,Hillview Airstrip,OI38,,East Liberty,US,40.308701,-83.615196,1400
+OI39,Vensil Farms Airport,OI39,,Frazeysburg,US,40.106701,-82.132103,760
+OI40,Hallelujah Field,OI40,,Goshen,US,39.202599,-84.104698,890
+OI41,Far View Airport,OI41,,Hiram,US,41.295728,-81.158165,1300
+OI42,D. A. Chandler Airport,OI42,,New London,US,41.132801,-82.460701,950
+OI43,Back Achers Heliport,OI43,,North Olmsted,US,41.403400,-81.908203,760
+OI44,St Charles Hospital Heliport,OI44,,Oregon,US,41.634800,-83.483002,611
+OI45,Shootz Field,OI45,,Richfield,US,41.265099,-81.658699,1250
+OI46,Sharondale Field,OI46,,Sharon Center,US,41.115101,-81.715103,1180
+OI47,Channel 10/Wbns-Tv Heliport,OI47,,Columbus,US,39.971500,-83.027100,717
+OI48,Tesar Heliport,OI48,,Clyde,US,41.284199,-82.970299,725
+OI49,Flying Acres Airport,OI49,,Delaware,US,40.383900,-83.106903,975
+OI50,1st District Police Station Heliport,OI50,,Cleveland,US,41.448101,-81.778999,783
+OI51,4th Dist Police Station Heliport,OI51,,Cleveland,US,41.472000,-81.619598,825
+OI52,Lyons Field,OI52,,Jamestown,US,39.625099,-83.783302,1045
+OI53,St Vincent Hospital & Medical Center Heliport,OI53,,Toledo,US,41.667801,-83.542397,640
+OI54,Mercy Hospital Helistop,OI54,,Toledo,US,41.659500,-83.552696,610
+OI55,Scheibe Field,OI55,,Wooster,US,40.750900,-82.004303,1010
+OI56,Lee's Dogpatch Airport,OI56,,Kirkersville,US,39.953201,-82.640701,1055
+OI57,Mc Kinney Field,OI57,,Hamersville,US,38.926998,-83.988503,970
+OI58,Lockeridge Airport,OI58,,Canton,US,40.841702,-81.437897,1090
+OI59,Miller Airport,OI59,,Chester,US,39.131699,-81.931801,690
+OI60,Gorman Airport,OI60,,Mansfield,US,40.754799,-82.391602,1230
+OI61,Mount Carmel Health Heliport,OI61,,Columbus,US,39.957600,-83.022102,710
+OI62,Rataiczak Airport,OI62,,Russell,US,41.476398,-81.317101,1200
+OI63,Mildon Heliport,OI63,,Tarlton,US,39.559799,-82.775200,950
+OI64,Bush Field,OI64,,Thompson,US,41.680599,-81.030197,1145
+OI65,Aultman Hospital Heliport,OI65,,Canton,US,40.795799,-81.403900,191
+OI66,Eibling Circle E Airport,OI66,,Dola,US,40.740898,-83.670998,980
+OI67,Mc Clain Field,OI67,,Mechanicstown,US,40.608398,-80.933098,1250
+OI68,Hilty Field,OI68,,Rittman,US,40.941399,-81.797798,1000
+OI69,Blackacre Farm Airport,OI69,,Painesville,US,41.778400,-81.167000,640
+OI72,Marvin Thiel Field,OI72,,Blakeslee,US,41.522202,-84.720802,859
+OI73,Williamson Airport,OI73,,Cedarville,US,39.712601,-83.803802,1060
+OI75,Macks Heliport,OI75,,Columbus Grove,US,40.928101,-84.057701,763
+OI76,Bieber's Seaplane Base,OI76,,North Lima,US,40.984402,-80.691101,1020
+OI77,Mc Ardle Airport,OI77,,Fostoria,US,41.215900,-83.557999,715
+OI78,Diebleys Airport,OI78,,Fostoria,US,41.084801,-83.436302,823
+OI79,Memorial Hospital Heliport,OI79,,Fremont,US,41.339199,-83.135498,630
+OI80,T & A Land Development Heliport,OI80,,Broadview Heights,US,41.290600,-81.683899,1210
+OI81,Mollica Airport,OI81,,Austintown,US,41.071400,-80.758598,1170
+OI82,Russ Airport,OI82,,Jackson,US,38.912201,-82.724899,800
+OI83,Meridia Hillcrest Hospital Heliport,OI83,,Mayfield,US,41.518398,-81.434799,1093
+OI84,King Knoll Airport,OI84,,Okeana,US,39.387100,-84.797897,855
+OI85,Mill Creek Airport,OI85,,Ostrander,US,40.268398,-83.221603,960
+OI86,Robinson Memorial Hospital Heliport,OI86,,Ravenna,US,41.176399,-81.249298,1126
+OI87,Firelands Community Hospital Nr 2 Heliport,OI87,,Sandusky,US,41.445000,-82.711800,593
+OI88,Mindzak Airfield,OI88,,Greenwich,US,41.011200,-82.435997,1109
+OI89,Mite Airport,OI89,,Camden,US,39.649502,-84.629997,866
+OI90,Sheriff's Heliport,OI90,,Marion,US,40.614201,-83.108498,991
+OI91,Hammond Airport,OI91,,Yellow Springs,US,39.779701,-83.909203,990
+OI92,Conklin Airport,OI92,,Bowling Green,US,41.391701,-83.703300,675
+OI93,Alaimo's Heliport,OI93,,Brecksville,US,41.340099,-81.610100,760
+OI94,9 Newsport Heliport,OI94,,Cincinnati,US,39.083401,-84.512398,550
+OI95,Children's Hospital Heliport,OI95,,Columbus,US,39.953701,-82.981300,785
+OI96,National Heliport,OI96,,Columbus,US,39.935101,-82.831802,798
+OI97,St. Ann's Heliport,OI97,,Westerville,US,40.113400,-82.944099,806
+OI98,St. Luke's Solon Emergency Center Heliport,OI98,,Solon,US,41.390099,-81.445099,745
+OI99,Mulholland Airport,OI99,,Celina,US,40.573399,-84.489998,875
+OIAA,Abadan Airport,OIAA,ABD,Abadan,IR,30.371099,48.228298,10
+OIAD,Dezful Airport,OIAD,DEF,Dezful,IR,48.397639,32.434444,1640
+OIAH,Gachsaran Airport,OIAH,GCH,Gachsaran,IR,30.337601,50.827999,2414
+OIAJ,Omidiyeh Airport,OIAJ,OMI,Omidiyeh,IR,30.835199,49.534901,85
+OIAM,Mahshahr Airport,OIAM,MRX,Mahshahr,IR,30.556200,49.151901,8
+OIAW,Ahwaz Airport,OIAW,AWZ,Ahwaz,IR,31.337400,48.762001,66
+OIBA,Abu Musa Airport,OIBA,AEU,Abu Musa,IR,25.875556,55.032778,23
+OIBB,Bushehr Airport,OIBB,BUZ,Bushehr,IR,28.944799,50.834599,68
+OIBI,Asaloyeh Airport,OIBI,AOY,Asaloyeh,IR,27.481400,52.615501,15
+OIBJ,Jam Airport,OIBJ,KNR,Kangan,IR,27.820499,52.352200,2173
+OIBK,Kish International Airport,OIBK,KIH,Kish Island,IR,26.526199,53.980202,101
+OIBL,Bandar Lengeh Airport,OIBL,BDH,Bandar Lengeh,IR,26.532000,54.824799,67
+OIBN,Borazjan Airport,OIBN,,Borazjan,IR,29.266666,51.200001,265
+OIBP,Persian Gulf International Airport,OIBP,PGU,Assaluyeh,IR,27.379601,52.737701,27
+OIBQ,Kharg Airport,OIBQ,KHK,"Kharg, Bushehr Province",IR,29.259444,50.323333,17
+OIBS,Sirri Island Airport,OIBS,SXI,"Sirri, Hormozgan Province",IR,25.908899,54.539398,43
+OICB,Baneh Airport,OICB,,Baneh,IR,35.987701,45.847099,4911
+OICC,Shahid Ashrafi Esfahani Airport,OICC,KSH,Kermanshah,IR,34.345901,47.158100,4307
+OICD,Abdanan Airport,OICD,,Abdanan,IR,32.934502,47.483398,2600
+OICI,Ilam Airport,OICI,IIL,Ilam,IR,33.586601,46.404800,4404
+OIFE,Hesa Airport,OIFE,IFH,Hesa,IR,32.928902,51.561100,5256
+OIFM,Esfahan Shahid Beheshti International Airport,OIFM,IFN,Isfahan,IR,32.750801,51.861301,5059
+OIFP,Badr Air Base,OIFP,,Esfahan,IR,32.621101,51.696999,5242
+OIFS,Shahrekord Airport,OIFS,CQD,Shahrekord,IR,32.297199,50.842201,6723
+OIFV,Zarrinshahr Airport,OIFV,,Zarrinshahr,IR,32.327400,51.377300,5650
+OIGG,Sardar-e-Jangal Airport,OIGG,RAS,Rasht,IR,37.323333,49.617778,-40
+OIHH,Hamadan Airport,OIHH,HDM,Hamadan,IR,34.869202,48.552502,5755
+OIHM,Malayer Airport,OIHM,,Malayer,IR,34.283333,48.816666,5662
+OIHR,Arak Airport,OIHR,AJK,Araak,IR,34.138100,49.847301,5440
+OIHS,Hamadan Air Base,OIHS,,Hamadan,IR,35.211601,48.653400,5609
+OIIE,Imam Khomeini International Airport,OIIE,IKA,Tehran,IR,35.416100,51.152199,3305
+OIII,Mehrabad International Airport,OIII,THR,Tehran,IR,35.689201,51.313400,3962
+OIIK,Qazvin Airport,OIIK,,Qazvin,IR,36.240101,50.047100,4184
+OIIP,Payam International Airport,OIIP,PYK,Karaj,IR,35.776083,50.826694,4170
+OIIS,Semnan Airport,OIIS,,Semnan,IR,35.591099,53.495098,3665
+OIKB,Bandar Abbas International Airport,OIKB,BND,Bandar Abbas,IR,27.218300,56.377800,22
+OIKK,Kerman Airport,OIKK,KER,Kerman,IR,30.274401,56.951099,5741
+OIKP,Havadarya Airport,OIKP,HDR,Havadarya,IR,27.158300,56.172501,19
+OIKQ,Qeshm International Airport,OIKQ,GSM,Dayrestan,IR,26.754601,55.902401,45
+OIMB,Birjand Airport,OIMB,XBJ,Birjand,IR,32.898102,59.266102,4952
+OIMC,Sarakhs Airport,OIMC,CKT,Sarakhs,IR,36.501202,61.064899,945
+OIMH,Torbat-e Heydarieh Airport,OIMH,,Torbat-E-Heidarieh,IR,35.266701,59.216702,4363
+OIMM,Mashhad International Airport,OIMM,MHD,Mashhad,IR,36.235199,59.640999,3263
+OIMN,Bojnord Airport,OIMN,BJB,Bojnord,IR,37.493000,57.308201,3499
+OIMS,Sabzevar National Airport,OIMS,AFZ,Sabzevar,IR,36.168098,57.595200,3010
+OIMT,Tabas Airport,OIMT,TCX,Tabas,IR,33.667801,56.892700,2312
+OIMX,Soga Airport,OIMX,,Soga,IR,37.627899,56.173100,2460
+OINB,Babolsar Airport,OINB,,Babolsar,IR,36.720001,52.650002,-49
+OING,Gorgan Airport,OING,GBT,Gorgan,IR,36.909401,54.401299,-24
+OINJ,Bishe Kola Air Base,OINJ,BSM,Amol,IR,36.655102,52.349602,-79
+OINR,Ramsar International Airport,OINR,RZR,Ramsar,IR,36.909722,50.679444,-70
+OINZ,Dasht-e Naz Airport,OINZ,SRY,Sari,IR,36.635799,53.193600,35
+OISA,Abadeh Airport,OISA,,Abadeh,IR,31.166668,52.666668,5320
+OISD,Darab Airport,OISD,,Darab,IR,28.721600,54.441299,3600
+OISF,Fasa Airport,OISF,FAZ,Fasa,IR,28.891800,53.723301,4261
+OISL,Lar Airport,OISL,LRR,Lar,IR,27.674700,54.383301,2641
+OISO,Zargan Airport,OISO,,Zargan,IR,29.754200,52.694302,5500
+OISR,Lamerd Airport,OISR,LFM,Lamerd,IR,27.372700,53.188801,1337
+OISS,Shiraz Shahid Dastghaib International Airport,OISS,SYZ,Shiraz,IR,29.539200,52.589802,4920
+OITK,Khoy Airport,OITK,KHY,Khoy,IR,38.427502,44.973598,3981
+OITL,Ardabil Airport,OITL,ADU,Ardabil,IR,38.325699,48.424400,4315
+OITM,Sahand Airport,OITM,ACP,Maragheh,IR,37.348000,46.127899,4396
+OITP,Parsabade Moghan Airport,OITP,PFQ,Parsabad,IR,39.603600,47.881500,251
+OITR,Urmia Airport,OITR,OMH,Urmia,IR,37.668098,45.068699,4343
+OITS,Saghez Airport,OITS,,Saghez,IR,36.250000,46.266666,4880
+OITT,Tabriz International Airport,OITT,TBZ,Tabriz,IR,38.133900,46.235001,4459
+OIYY,Shahid Sadooghi Airport,OIYY,AZD,Yazd,IR,31.904900,54.276501,4054
+OIZC,Konarak Airport,OIZC,ZBR,Chabahar,IR,25.443300,60.382099,43
+OIZH,Zahedan International Airport,OIZH,ZAH,Zahedan,IR,29.475700,60.906200,4564
+OIZJ,Jask Airport,OIZJ,,Jask,IR,25.653601,57.799301,19

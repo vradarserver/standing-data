@@ -1,0 +1,91 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+AR01,Baker Flying Service Airport,AR01,,Eudora,US,33.108501,-91.250099,116
+AR02,Johnson County Regional Hospital Heliport,AR02,,Clarksville,US,35.444801,-93.444901,491
+AR03,Centerville Airstrip,AR03,,Centerville,US,35.118698,-93.201599,350
+AR04,Gunem Field,AR04,,Cave Springs,US,36.261700,-94.248299,1214
+AR05,John Harris Field,AR05,,Chickala,US,35.215900,-93.304901,1770
+AR06,Cantrell Farms Airport,AR06,,Conway,US,35.232498,-92.343300,325
+AR07,Ashley County Hospital Heliport,AR07,,Crossett,US,33.141800,-91.933502,164
+AR08,Flying Machines Airstrip,AR08,,Eureka Springs,US,36.315300,-93.666603,1150
+AR09,Bella Vista Field,AR09,,Gravette,US,36.413898,-94.438904,1200
+AR10,Greenwalt Company Airport,AR10,,Hazen,US,34.806702,-91.608299,232
+AR11,Ozark Aerodrome,AR11,,Rogers,US,36.288898,-94.090302,1270
+AR12,Mc Donald's Strip,AR12,,Rose Bud,US,35.320599,-92.018700,700
+AR13,Pearson Field,AR13,,Bigelow,US,34.986198,-92.633499,300
+AR17,Burns Aerodrome,AR17,,Palestine,US,34.983398,-90.915100,207
+AR18,Gerrard Airport,AR18,,Marianna,US,34.771500,-90.840401,205
+AR19,Wesson-Davis Field,AR19,,Paris,US,35.212898,-93.752098,570
+AR20,Lawrence Memorial Heliport,AR20,,Walnut Ridge,US,36.073700,-90.968498,265
+AR21,St Edward Mercy Medical Center Heliport,AR21,,Fort Smith,US,35.355598,-94.350197,454
+AR22,Tommy's Flying Service Inc Airport,AR22,,Sherrill,US,34.381500,-91.958504,215
+AR23,Cedar Creek Ranch Airport,AR23,,Belleville,US,35.133400,-93.475197,420
+AR24,White River Medical Center Heliport,AR24,,Batesville,US,35.768101,-91.634598,360
+AR25,Vilonia Airport,AR25,,Vilonia,US,35.118698,-92.189301,590
+AR27,Lollars Creek Farm Airport,AR27,,Wesley,US,35.938999,-93.845703,1430
+AR28,Odom Field,AR28,,Cabot,US,34.939301,-92.024597,280
+AR29,Uams Heliport,AR29,,Little Rock,US,34.747898,-92.339600,360
+AR30,Baptist Memorial Hospital-Blytheville Heliport,AR30,,Blytheville,US,35.943401,-89.916496,254
+AR31,C. Andrew Laird Heliport,AR31,,Sun City,US,33.613899,-112.273003,1140
+AR32,Dardanelle Hospital Heliport,AR32,,Dardanelle,US,35.220901,-93.152702,320
+AR33,Honey Hill Heliport,AR33,,Searcy,US,35.233398,-91.787399,340
+AR34,Pine Village Airport,AR34,,Mayflower,US,34.981998,-92.445198,610
+AR35,Henson Farm Airport,AR35,,Fayetteville,US,36.086700,-94.105202,1420
+AR36,Medi-Port Heliport,AR36,,Rogers,US,36.333401,-94.133499,1350
+AR37,St Michael Hospital Heliport,AR37,,Texarkana,US,33.427299,-94.042099,1100
+AR38,Arkansas National Guard Emergency Access Heliport,AR38,,Dardanelle,US,35.219501,-93.179901,399
+AR40,Sparks Regional Medical Center Heliport,AR40,,Fort Smith,US,35.376999,-94.420197,460
+AR41,Carroll General Hospital Heliport,AR41,,Berryville,US,36.359001,-93.552101,1280
+AR42,Ouachita County Medical Center Heliport,AR42,,Camden,US,33.576500,-92.835403,212
+AR43,Brickey Private Airport,AR43,,Morrilton,US,35.100101,-92.783501,320
+AR44,Flying W Airport,AR44,,Texarkana,US,33.512600,-94.013496,265
+AR45,St Vincent Infirmary Heliport,AR45,,Little Rock,US,34.750599,-92.340698,435
+AR46,Penrose Airport,AR46,,Mc Crory,US,35.189301,-91.048500,220
+AR47,Warner Brown Hospital Heliport,AR47,,El Dorado,US,33.213501,-92.667900,212
+AR48,Union Medical Center Heliport,AR48,,El Dorado,US,33.214600,-92.667900,265
+AR49,Veterans Administration Heliport,AR49,,Fayetteville,US,36.079201,-94.159103,1453
+AR50,Hess Strip,AR50,,Wynne,US,35.266800,-90.983498,180
+AR51,Smith Heliport,AR51,,Berryville,US,36.223999,-93.578201,1200
+AR52,Hazen Heliport,AR52,,Hazen,US,34.780399,-91.582603,230
+AR53,Randolph County Medical Center Heliport,AR53,,Pocahontas,US,36.289200,-90.995399,433
+AR54,Ralph Fulmer Field,AR54,,Cabot,US,34.918701,-91.915100,245
+AR55,R.V. Stewart Field,AR55,,North Little Rock,US,34.739799,-92.090103,251
+AR56,Amos Airport,AR56,,Oil Trough,US,35.600101,-91.433502,240
+AR59,De Witt City Hospital Heliport,AR59,,De Witt,US,34.279301,-91.338699,190
+AR60,Methodist Hospital of Jonesboro Heliport,AR60,,Jonesboro,US,35.808701,-90.666496,260
+AR61,Chicot Memorial Hospital Heliport,AR61,,Lake Village,US,33.305302,-91.289200,125
+AR62,Arkansas Children's Hospital Heliport,AR62,,Little Rock,US,34.742699,-92.293701,440
+AR63,Mc Gehee Desha County Hospital Heliport,AR63,,Mc Gehee,US,33.618401,-91.392303,140
+AR64,White River Airport,AR64,,Melbourne,US,35.921200,-92.005096,310
+AR65,St Anthony's Medical Center Heliport,AR65,,Morrilton,US,35.167599,-92.722099,400
+AR66,Pike County Hospital Heliport,AR66,,Murfreesboro,US,34.049801,-93.684097,335
+AR67,Grandview Street Heliport,AR67,,Osceola,US,35.700401,-89.975601,244
+AR68,Fulton County Hospital Heliport,AR68,,Salem,US,36.383099,-91.810204,700
+AR69,Siloam Springs Memorial Hospital Heliport,AR69,,Siloam Springs,US,36.181499,-94.541100,1140
+AR70,Bradley County Memorial Hospital Heliport,AR70,,Warren,US,33.610401,-92.059303,200
+AR71,Hospital Heliport,AR71,,Clarksville,US,35.467602,-93.419098,491
+AR72,Baptist Memorial Hospital-Fc Heliport,AR72,,Forrest City,US,35.039001,-90.773399,350
+AR73,Piggott Community Hospital Heliport,AR73,,Piggott,US,36.389801,-90.202003,272
+AR74,Cross County Hospital Heliport,AR74,,Wynne,US,35.220100,-90.786499,265
+AR75,Burns Funeral Home Parking Lot Heliport,AR75,,Yellville,US,36.232601,-92.688202,670
+AR76,Augusta Heliport,AR76,,Augusta,US,35.288700,-91.358498,212
+AR77,Helena Hospital Heliport,AR77,,Helena,US,34.509800,-90.626198,215
+AR78,White County Medical Center Heliport,AR78,,Searcy,US,35.233398,-91.732101,260
+AR79,Flying G Ranch Airport,AR79,,Tillar,US,33.693199,-91.379601,150
+AR80,North Arkansas Medical Center Heliport,AR80,,Harrison,US,36.236500,-93.109299,1150
+AR81,Katheryn's Landing Airport,AR81,,Leola,US,34.162300,-92.603798,250
+AR82,Gillespie Strip,AR82,,Leola,US,34.171200,-92.695999,492
+AR83,Heard Airport,AR83,,Leola,US,34.176201,-92.700996,500
+AR84,Bobwhite Hill Ranch Airport,AR84,,Mayflower,US,34.966499,-92.299301,350
+AR85,Drew Memorial Hospital Heliport,AR85,,Monticello,US,33.620098,-91.825996,296
+AR86,Ano Heliport,AR86,,Russellville,US,35.308102,-93.224297,350
+AR87,Crawford Memorial Hospital Heliport,AR87,,Van Buren,US,35.434502,-94.339897,467
+AR88,Poe's Airport,AR88,,Conway,US,35.054798,-92.353996,295
+AR89,Landers Loop Airport,AR89,,Dover,US,35.400101,-93.066002,730
+AR90,Stephens Heliport,AR90,,Little Rock,US,34.736500,-92.508797,550
+AR91,Circle S Farms Airport,AR91,,Lowell,US,36.225899,-94.032097,1200
+AR92,Harris Hospital and Clinic Heliport,AR92,,Newport,US,35.608700,-91.265099,225
+AR93,Ark-Mo Airport,AR93,,Pollard,US,36.485600,-90.280403,308
+AR94,Squirrel Run Airport,AR94,,Dyer,US,35.485401,-94.138298,415
+AR95,Arkansas Methodist Hospital Heliport,AR95,,Paragould,US,36.050900,-90.498199,326
+AR97,Chael Airport,AR97,,Wooster,US,35.220100,-92.496498,320
+AR98,Johnson Field,AR98,,Mc Crory,US,35.264500,-91.189003,208

@@ -1,0 +1,31 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+NTAA,Faa'a International Airport,NTAA,PPT,Papeete,PF,-17.553699,-149.606995,5
+NTAM,Rimatara Airport,NTAM,RMT,Rimatara Island,PF,-22.637250,-152.805900,60
+NTAR,Rurutu Airport,NTAR,RUR,Rurutu,PF,-22.431944,-151.366111,10
+NTGD,Apataki Airport,NTGD,APK,Apataki,PF,-15.573600,-146.414993,8
+NTGF,Fakarava,NTGF,FAV,Fakarava,PF,-16.054150,-145.656994,13
+NTGH,Hikueru Atoll Airport,NTGH,HHZ,Hikueru Atoll,PF,-17.544701,-142.613998,5
+NTGI,Manihi Airport,NTGI,XMH,Manihi,PF,-14.436764,-146.070056,14
+NTGN,Napuka Island Airport,NTGN,NAU,Napuka Island,PF,-14.176800,-141.266998,7
+NTGO,Tatakoto Airport,NTGO,TKV,Tatakoto,PF,-17.355301,-138.445007,12
+NTGQ,Pukarua Airport,NTGQ,PUK,Pukarua,PF,-18.295601,-137.016998,5
+NTGR,Aratika Airport,NTGR,,Aratika,PF,-15.633300,-145.500000,7
+NTGS,Marutea Airport,NTGS,,Auorotini,PF,-21.482195,-135.637054,10
+NTGW,Nukutavake Airport,NTGW,NUK,Nukutavake,PF,-19.285000,-138.772003,17
+NTHE,Ahe Airport,NTHE,AHE,Ahe Atoll,PF,-14.428100,-146.257004,11
+NTKA,Kauehi Airport,NTKA,KHZ,Kauehi,PF,-15.780800,-145.123993,13
+NTKH,Fakahina Airport,NTKH,FHZ,Fakahina,PF,-15.992200,-140.164993,3
+NTKM,Takume Airport,NTKM,,Takume,PF,-15.854700,-142.268005,7
+NTKR,Takaroa Airport,NTKR,TKX,Takaroa,PF,-14.456000,-145.024002,0
+NTKT,Katiu Airport,NTKT,,Katiu,PF,-16.339399,-144.403000,7
+NTMD,Nuku Hiva Airport,NTMD,NHV,Nuku Hiva,PF,-8.795111,-140.222306,220
+NTMN,Atuona Airport,NTMN,AUQ,Atuona,PF,-9.768611,-139.010972,1481
+NTMP,Ua Pou Airport,NTMP,UAP,Ua Pou,PF,-9.351670,-140.078003,16
+NTMU,Ua Huka Airport,NTMU,UAH,Ua Huka,PF,-8.936110,-139.552002,160
+NTTB,Bora Bora Airport,NTTB,BOB,Motu Mute,PF,-16.444401,-151.751007,10
+NTTE,Tetiaroa Airport,NTTE,TTI,Tetiaroa,PF,-17.013300,-149.587006,7
+NTTH,Huahine-Fare Airport,NTTH,HUH,Fare,PF,-16.687201,-151.022003,7
+NTTM,Moorea Airport,NTTM,MOZ,Moorea,PF,-17.666667,-149.416667,16
+NTTR,Raiatea Airport,NTTR,RFP,Uturoa,PF,-16.722900,-151.466003,3
+NTTX,Mururoa Atoll Airport,NTTX,,Mururoa Atoll,PF,-21.867001,-138.917007,7
+NTUV,Vahitahi Airport,NTUV,VHZ,Vahitahi,PF,-18.780001,-138.852997,9

@@ -1,0 +1,9 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+DGAA,Kotoka International Airport,DGAA,ACC,Accra,GH,5.605190,-0.166786,205
+DGLE,Tamale Airport,DGLE,TML,Tamale,GH,9.557190,-0.863214,553
+DGLN,Navrongo Airport,DGLN,,Navrongo,GH,10.900000,-1.100000,2221
+DGLW,Wa Airport,DGLW,,Wa,GH,10.082700,-2.507690,1060
+DGLY,Yendi Airport,DGLY,,Yendi,GH,9.425000,-0.004722,2408
+DGSI,Kumasi Airport,DGSI,KMS,Kumasi,GH,6.714560,-1.590820,942
+DGSN,Sunyani Airport,DGSN,NYI,Sunyani,GH,7.361830,-2.328760,1014
+DGTK,Takoradi Airport,DGTK,TKD,Sekondi-Takoradi,GH,4.896060,-1.774760,21

@@ -1,0 +1,39 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+USCC,Chelyabinsk Balandino Airport,USCC,CEK,Chelyabinsk,RU,55.305801,61.503300,769
+USCM,Magnitogorsk International Airport,USCM,MQF,Magnitogorsk,RU,53.393101,58.755699,1430
+USDA,Sabetta,USDA,SBT,"Sabetta, Yamalo-Nenets Autonomous Okrug",RU,71.236944,72.153056,14
+USDB,Bovanenkovo Airport,USDB,BVJ,Bovanenkovo,RU,70.302500,68.333333,23
+USDD,Salekhard Airport,USDD,SLY,Salekhard,RU,66.590797,66.611000,218
+USDK,Mys Kamenny Airport,USDK,YMK,Mys Kamennyi,RU,68.483002,73.567001,98
+USDO,Tolka Airport,USDO,,Tolka,RU,63.990002,82.050003,92
+USDS,Tarko-Sale Airport,USDS,TQL,Tarko-Sale,RU,64.930801,77.818100,82
+USDT,Tazovskiy Airport,USDT,,Tazovskiy,RU,67.484200,78.644402,92
+USDU,Urengoy Airport,USDU,UEN,Urengoy,RU,65.959999,78.436996,56
+USHH,Khanty Mansiysk Airport,USHH,HMA,Khanty-Mansiysk,RU,61.028500,69.086098,76
+USHK,Kondinskoye Airport,USHK,,Kondinskoye,RU,59.655083,67.430046,131
+USHN,Nyagan Airport,USHN,NYA,Nyagan,RU,62.110001,65.614998,361
+USHQ,Beloyarsky,USHQ,EYK,"Beloyarsk, Tyumen Oblast",RU,63.688333,66.698333,25
+USHS,Sovetskiy Airport,USHS,OVS,Sovetskiy,RU,61.326622,63.601913,351
+USHU,Uray Airport,USHU,URJ,Uray,RU,60.103298,64.826698,190
+USII,Izhevsk Airport,USII,IJK,Izhevsk,RU,56.828098,53.457500,531
+USKK,Pobedilovo Airport,USKK,KVX,Kirov,RU,58.503300,49.348301,479
+USMM,Nadym Airport,USMM,NYM,Nadym,RU,65.480904,72.698898,49
+USMQ,Yamburg Airport,USMQ,,Yamburg,RU,67.988611,75.098333,108
+USMU,Novy Urengoy Airport,USMU,NUX,Novy Urengoy,RU,66.069397,76.520302,210
+USNN,Nizhnevartovsk Airport,USNN,NJC,Nizhnevartovsk,RU,60.949299,76.483597,177
+USNR,Raduzhny Airport,USNR,RAT,Raduzhnyi,RU,62.158600,77.328903,250
+USPB,Bakharevka Airport,USPB,,Perm,RU,57.951698,56.195000,564
+USPP,Bolshoye Savino Airport,USPP,PEE,Perm,RU,57.914501,56.021198,404
+USPT,Berezniki Airport,USPT,,Solikamsk,RU,59.579548,56.857681,207
+USRK,Kogalym International Airport,USRK,KGP,Kogalym,RU,62.190399,74.533798,220
+USRN,Nefteyugansk Airport,USRN,NFG,Nefteyugansk,RU,61.108299,72.650002,115
+USRO,Noyabrsk Airport,USRO,NOJ,Noyabrsk,RU,63.183300,75.269997,446
+USRR,Surgut Airport,USRR,SGC,Surgut,RU,61.343700,73.401802,200
+USSE,Severouralsk Airport,USSE,,Severouralsk,RU,60.301666,60.075001,604
+USSK,Uktus Airport,USSK,,Yekaterinburg,RU,56.701698,60.790001,643
+USSS,Koltsovo Airport,USSS,SVX,Yekaterinburg,RU,56.743099,60.802700,764
+USTJ,Tobolsk Remezov Airport,USTJ,RMZ,Tobolsk,RU,58.058333,68.348611,157
+USTL,Plekhanovo Airport,USTL,,Tyumen,RU,57.143333,65.468330,308
+USTO,Tobolsk Airport,USTO,TOX,Tobolsk,RU,58.135799,68.231903,167
+USTR,Roshchino International Airport,USTR,TJM,Tyumen,RU,57.189602,65.324303,378
+USUU,Kurgan Airport,USUU,KRO,Kurgan,RU,55.475300,65.415604,240

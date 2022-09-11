@@ -1,0 +1,32 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+UNAA,Abakan Airport,UNAA,ABA,Abakan,RU,53.740002,91.385002,831
+UNBB,Barnaul Airport,UNBB,BAX,Barnaul,RU,53.363800,83.538498,837
+UNBG,Gorno-Altaysk Airport,UNBG,RGK,Gorno-Altaysk,RU,51.966702,85.833298,965
+UNBI,Biysk Airport,UNBI,,Biysk,RU,52.480000,85.339996,620
+UNBR,Rubtsovsk Airport,UNBR,,Rubtsovsk,RU,51.583332,81.199997,709
+UNCC,Novosibirsk North Airport,UNCC,,Novosibirsk,RU,55.091702,82.906700,558
+UNEE,Kemerovo Airport,UNEE,KEJ,Kemerovo,RU,55.270100,86.107201,863
+UNIB,Baykit Airport,UNIB,,Baykit,RU,61.676701,96.355003,853
+UNII,Yeniseysk Airport,UNII,EIE,Yeniseysk,RU,58.474201,92.112503,253
+UNIJ,Yartsevo Airport,UNIJ,,Yartsevo,RU,60.255001,90.195000,210
+UNIP,Podkamennaya Tunguska Airport,UNIP,,Bor,RU,61.589699,89.994003,213
+UNIS,Severo-Eniseysk Airport,UNIS,,Severo-Eniseysk,RU,60.373299,93.011703,1706
+UNIT,Tura Airport,UNIT,,Tura,RU,64.333511,100.432892,2044
+UNIW,Vanavara Airport,UNIW,,Vanavara,RU,60.359699,102.323997,892
+UNKB,Boguchany Airport,UNKB,,Boguchany,RU,58.380615,97.472336,446
+UNKK,Krasnoyarsk Severniy Airport,UNKK,,Krasnoyarsk,RU,56.041698,92.906700,676
+UNKL,Yemelyanovo Airport,UNKL,KJA,Krasnoyarsk,RU,56.172901,92.493301,942
+UNKO,Sharypovo Airport,UNKO,,Sharypovo,RU,55.454914,89.173882,1099
+UNKS,Achinsk Airport,UNKS,ACS,Achinsk,RU,56.268299,90.570801,1033
+UNKY,Kyzyl Airport,UNKY,KYZ,Kyzyl,RU,51.669399,94.400597,2123
+UNLL,Kolpashevo Airport,UNLL,,Kolpashevo,RU,58.325298,82.932503,243
+UNLW,Novy Vasyugan Airport,UNLW,,Novy Vasyugan,RU,58.586000,76.504000,246
+UNNE,Yeltsovka Airport,UNNE,,Novosibirsk,RU,55.092400,83.004501,617
+UNNT,Tolmachevo Airport,UNNT,OVB,Novosibirsk,RU,55.012600,82.650703,365
+UNOK,Kalachinsk Airport,UNOK,,Kalachinsk,RU,55.020000,74.610001,361
+UNOO,Omsk Central Airport,UNOO,OMS,Omsk,RU,54.966999,73.310501,311
+UNOT,Tara Airport,UNOT,,Tara,RU,56.900002,74.300003,253
+UNOW,Tevriz Airport,UNOW,,Tevriz,RU,57.504002,72.331001,217
+UNSS,Strezhevoy Airport,UNSS,SWT,Strezhevoy,RU,60.709400,77.660004,164
+UNTT,Bogashevo Airport,UNTT,TOF,Tomsk,RU,56.380299,85.208298,597
+UNWW,Spichenkovo Airport,UNWW,NOZ,Novokuznetsk,RU,53.811401,86.877197,1024

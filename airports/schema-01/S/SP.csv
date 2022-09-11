@@ -1,0 +1,148 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SPAA,Caraz Airport,SPAA,,Ancash,PE,-9.051429,-77.810143,7401
+SPAB,Huancabamba Airport,SPAB,,Huancabamba,PE,-5.256770,-79.442902,6312
+SPAC,Ciro Alegria Airport,SPAC,,Bagua,PE,-4.567000,-77.917000,547
+SPAG,Aguaytia Airport,SPAG,,Aguaytia,PE,-9.037410,-75.509201,5853
+SPAI,Urpay Airport,SPAI,,Pataz,PE,-7.783333,-78.099998,10400
+SPAL,Alao Airport,SPAL,,El Dorado,PE,-6.500000,-76.716698,1740
+SPAM,Camana Airport,SPAM,,Camana,PE,-16.632999,-72.682999,209
+SPAN,Sullana Airport,SPAN,,Sullana,PE,-4.903889,-80.685280,197
+SPAO,San Juan Aposento Airport,SPAO,APE,San Juan Aposento,PE,-15.353900,-75.167099,23
+SPAP,Picota Airport,SPAP,,Picota,PE,-6.900000,-76.383003,948
+SPAR,Alerta Airport,SPAR,ALD,Fortaleza,PE,-11.683000,-69.333000,797
+SPAS,Alferez FAP Alfredo Vladimir Sara Bauer Airport,SPAS,AOP,Andoas,PE,-2.796130,-76.466599,728
+SPAT,Aguas Calientes Airport,SPAT,,Aguas Calientes,PE,-8.833330,-74.683296,9840
+SPAY,Teniente General Gerardo Pérez Pinedo Airport,SPAY,ATG,Atalaya,PE,-10.729100,-73.766502,751
+SPBA,Barranca Airport,SPBA,,Barranca,PE,-10.750000,-77.766670,160
+SPBB,Moyobamba Airport,SPBB,MBP,Moyobamba,PE,-6.018889,-76.988327,2749
+SPBC,Caballococha Airport,SPBC,,Caballococha,PE,-3.916860,-70.508202,328
+SPBL,Huallaga Airport,SPBL,BLP,Bellavista,PE,-7.060560,-76.582199,980
+SPBQ,Nuevo Acari Airport,SPBQ,,La Bella Unión,PE,-15.483334,-74.683334,590
+SPBR,Iberia Airport,SPBR,IBP,Iberia,PE,-11.411600,-69.488701,750
+SPBS,Bellavista Airport,SPBS,,Jeberos,PE,-5.288390,-76.292099,675
+SPBT,Obenteni Airport,SPBT,,Obenteni,PE,-10.747778,-74.220558,3290
+SPBY,Bayovar,SPBY,,Bayovar,PE,-5.830750,-81.025803,88
+SPCC,Ciudad Constitución Airport,SPCC,,Ciudad Constitución,PE,-9.865278,-75.008888,775
+SPCG,Casa Grande Airport,SPCG,,Ascope,PE,-7.743889,-79.186386,475
+SPCH,Tocache Airport,SPCH,,Tocache,PE,-8.183000,-76.516998,1500
+SPCL,Cap FAP David Abenzur Rengifo International Airport,SPCL,PCL,Pucallpa,PE,-8.377940,-74.574303,513
+SPCM,Contamana Airport,SPCM,,Contamana,PE,-7.336670,-74.991402,480
+SPCN,Cunocuno Airport,SPCN,,Cunocuno,PE,-15.977222,-73.108330,5300
+SPCP,Pucacaca Airport,SPCP,,Pucacaca,PE,-6.833000,-76.333000,977
+SPCR,Acarí Airbase Airport,SPCR,,Acarí,PE,-15.500000,-74.666672,540
+SPCT,Chota Airport,SPCT,,Chota,PE,-6.550000,-78.650002,7800
+SPDO,Mollendo Airport,SPDO,,Mollendo,PE,-17.045401,-71.983704,9
+SPDR,Trompeteros Airport,SPDR,TDP,Corrientes,PE,-3.806010,-75.039299,427
+SPEB,Pebas Airport,SPEB,,Loreto,PE,-3.333300,-71.816704,383
+SPEN,Iscozasin Airport,SPEN,,Iscozasin,PE,-10.183000,-75.150002,898
+SPEO,Teniente FAP Jaime A De Montreuil Morales Airport,SPEO,CHM,Chimbote,PE,-9.149610,-78.523804,69
+SPEP,Puerto Esperanza Airport,SPEP,,Esperanza,PE,-9.768130,-70.706497,725
+SPEQ,Cesar Torke Podesta Airport,SPEQ,,Moquegua,PE,-17.179001,-70.930801,4480
+SPEZ,Puerto Bermudez Airport,SPEZ,,Oxapampa,PE,-10.299200,-74.937202,840
+SPFA,Fausa Airport,SPFA,,Fausa,PE,-14.709400,-71.731102,14809
+SPGM,Tingo Maria Airport,SPGM,TGI,Tingo Maria,PE,-9.133000,-75.949997,2010
+SPGS,Lagunas Airport,SPGS,,Cajamarca,PE,-6.900000,-78.633331,12675
+SPGT,Puerto Victoria Airport,SPGT,,Puerto Victoria,PE,-9.902610,-74.964104,782
+SPGU,Baguá Airport,SPGU,,Baguá,PE,-5.634722,-78.530556,1375
+SPHA,Chincha Airport,SPHA,,Chincha,PE,-13.370700,-76.112900,640
+SPHC,Chala Airport,SPHC,,Puerto Chala,PE,-15.870000,-74.247398,112
+SPHI,Capitan FAP Jose A Quinones Gonzales International Airport,SPHI,CIX,Chiclayo,PE,-6.787480,-79.828102,97
+SPHL,Olmos Airport,SPHL,,<Olmos,PE,-5.984722,-79.745277,585
+SPHO,Coronel FAP Alfredo Mendivil Duarte Airport,SPHO,AYP,Ayacucho,PE,-13.154800,-74.204399,8917
+SPHU,Huancayo Airport,SPHU,,Huancayo,PE,-12.069900,-75.198502,10800
+SPHV,Huánuco Viejo Airport,SPHV,,Huánuco Viejo,PE,-9.926320,-76.233902,6320
+SPHY,Andahuaylas Airport,SPHY,ANS,Andahuaylas,PE,-13.706400,-73.350403,11300
+SPHZ,Comandante FAP German Arias Graziani Airport,SPHZ,ATA,Anta,PE,-9.347440,-77.598396,9097
+SPIA,Ica Airport,SPIA,,Ica,PE,-14.200100,-75.573898,1500
+SPIL,Quince Air Base,SPIL,UMI,Quince Mil,PE,-13.233300,-70.753304,2047
+SPIN,Iñapari Airport,SPIN,,Iñapari,PE,-10.979000,-69.559402,917
+SPIR,Patria Airport,SPIR,,Pillcopata,PE,-13.033000,-71.266998,2224
+SPIS,Pias Airport,SPIS,,Pataz,PE,-7.871700,-77.547203,8500
+SPIT,Paita Airport,SPIT,,Paita Wesr,PE,-5.085950,-81.152802,230
+SPIY,Yauri Airport,SPIY,,Yauri,PE,-14.800000,-71.432999,12972
+SPIZ,Uchiza Airport,SPIZ,UCZ,Uchiza,PE,-8.467000,-76.349998,1965
+SPJA,Juan Simons Vela Airport,SPJA,RIJ,Rioja,PE,-6.067860,-77.160004,2707
+SPJB,Pampa Grande Airport,SPJB,,Pampa Grande,PE,-7.600000,-78.050003,8727
+SPJC,Jorge Chávez International Airport,SPJC,LIM,Lima,PE,-12.021900,-77.114304,113
+SPJE,Shumba Airport,SPJE,JAE,Jaén,PE,-5.592480,-78.774002,2477
+SPJI,Juanjui Airport,SPJI,JJI,Juanjuí,PE,-7.169100,-76.728600,1148
+SPJJ,Francisco Carle Airport,SPJJ,JAU,Jauja,PE,-11.783100,-75.473396,11034
+SPJL,Inca Manco Capac International Airport,SPJL,JUL,Juliaca,PE,-15.467100,-70.158203,12552
+SPJN,San Juan de Marcona Airport,SPJN,SJA,San Juan de Marcona,PE,-15.352500,-75.137199,144
+SPJR,Mayor General FAP Armando Revoredo Iglesias Airport,SPJR,CJA,Cajamarca,PE,-7.139180,-78.489403,8781
+SPLC,Mariano Melgar,SPLC,,La Joya,PE,-16.791500,-71.886597,3890
+SPLD,Celendín Airport,SPLD,,Celendín,PE,-6.867600,-78.149902,8600
+SPLG,Lagarto Nuevo Airport,SPLG,,Lagarto,PE,-12.641600,-69.837502,763
+SPLN,San Nicolas Airport,SPLN,RIM,Rodriguez de Mendoza,PE,-6.392310,-77.501198,5082
+SPLO,Ilo Airport,SPLO,ILQ,Ilo,PE,-17.695000,-71.344002,72
+SPLP,Las Palmas,SPLP,,Santiago de Surco,PE,-12.160684,-76.998906,200
+SPLS,Zorrillos Airport,SPLS,,Zorrillos,PE,-8.417000,-75.133003,711
+SPLT,Lobitos Airport,SPLT,,Lobitos,PE,-4.448611,-81.275558,45
+SPME,Capitan FAP Pedro Canga Rodriguez Airport,SPME,TBP,Tumbes,PE,-3.552530,-80.381401,115
+SPMF,Manuel Prado Ugarteche Airport,SPMF,,Mazamari,PE,-11.325400,-74.535599,2247
+SPMR,Santa Maria Airport,SPMR,SMG,Santa María,PE,-11.983334,-77.000000,769
+SPMS,Moises Benzaquen Rengifo Airport,SPMS,YMS,Yurimaguas,PE,-5.893770,-76.118202,587
+SPNC,Alferez Fap David Figueroa Fernandini Airport,SPNC,HUU,Huánuco,PE,-9.878810,-76.204803,6070
+SPNH,Laguna Choclococha Airport,SPNH,,Choclococha,PE,-13.165700,-75.071999,14965
+SPNM,Nuevo Mundo Airport,SPNM,,Nuevo Mundo,PE,-11.541500,-73.142197,1090
+SPNO,Ancón Airport,SPNO,,Ancón,PE,-11.794700,-77.180901,38
+SPNP,Ventilla Airport,SPNP,,Ventilla,PE,-15.800000,-70.050003,13123
+SPNR,Ricrán Airport,SPNR,,Ricrán,PE,-10.777950,-76.251312,13720
+SPNT,Intuto Airport,SPNT,,Intuto,PE,-3.583000,-74.750000,650
+SPNU,Manu Airport,SPNU,,Manu,PE,-12.283000,-70.883003,1010
+SPOA,Saposoa Airport,SPOA,SQU,Plaza Saposoa,PE,-6.960030,-76.768402,982
+SPOL,Collique Airport,SPOL,,Collique Bajo,PE,-11.928700,-77.061096,410
+SPON,Orellana Airport,SPON,,Orellana,PE,-6.896750,-75.152199,424
+SPOR,Orcopampa Airport,SPOR,,Orcopampa,PE,-15.317000,-72.349998,12200
+SPOS,Zorritos Airport,SPOS,,Contralmirante Villar,PE,-3.673740,-80.652397,95
+SPOV,Shiringayoc/Hacienda Hda Mejia Airport,SPOV,SYC,Leon Velarde,PE,-11.900000,-69.167000,748
+SPOY,Atico Airport,SPOY,,Atico,PE,-16.232222,-73.611946,9
+SPPA,Puerto Ocopa Airport,SPPA,,Puerto Ocopa,PE,-11.133000,-74.349998,1217
+SPPB,Tipishsa Airport,SPPB,,Puerto Breu,PE,-9.533060,-72.756897,783
+SPPG,Paramonga Airport,SPPG,,Paramonga,PE,-10.667000,-77.833000,16
+SPPH,Pampa Hermosa Airport,SPPH,,Pampa Hermosa,PE,-7.200000,-75.300003,510
+SPPL,Playa Airport,SPPL,,Trismaje,PE,-8.517820,-76.480499,2070
+SPPM,Pomacocha Airport,SPPM,,Pomacocha,PE,-15.179200,-73.274399,10524
+SPPN,Palmas del Espino Airport,SPPN,,Palmas del Espino,PE,-8.292590,-76.439598,1625
+SPPO,Pozuzo Airport,SPPO,,Pozuzo,PE,-10.070100,-75.550003,2420
+SPPP,Huanacopampa Airport,SPPP,,Huanacopampa,PE,-14.155900,-72.283798,13130
+SPPY,Chachapoyas Airport,SPPY,CHH,Chachapoyas,PE,-6.201810,-77.856102,8333
+SPPZ,Palcazú Airport,SPPZ,,Porvenir,PE,-9.895833,-75.117775,932
+SPQI,Kiteni Airport,SPQI,,La Convención,PE,-12.649100,-73.037804,2540
+SPQN,Requena Airport,SPQN,REQ,Requena,PE,-5.067000,-73.866997,393
+SPQR,Quiruvilca Airport,SPQR,,Qiruvilca,PE,-7.966667,-78.199997,13509
+SPQT,Coronel FAP Francisco Secada Vignetta International Airport,SPQT,IQT,Iquitos,PE,-3.784740,-73.308800,306
+SPQU,Rodríguez Ballón International Airport,SPQU,AQP,Arequipa,PE,-16.341101,-71.583099,8405
+SPRF,San Rafael Airport,SPRF,,San Rafael,PE,-14.267000,-70.467003,14422
+SPRG,San Regis Airport,SPRG,,Chincha,PE,-13.516666,-76.099998,294
+SPRM,Capitán FAP Leonardo Alvariño Herr Airport,SPRM,,San Ramón,PE,-11.128600,-75.350502,2600
+SPRU,Capitan FAP Carlos Martinez De Pinillos International Airport,SPRU,TRU,Trujillo,PE,-8.081410,-79.108803,106
+SPSA,Casma Airport,SPSA,,Casma,PE,-9.450000,-78.300003,248
+SPSE,Sepahua Airport,SPSE,,Sepahua,PE,-11.141800,-73.033501,886
+SPSF,San Francisco Airport,SPSF,,San Francisco de Yeso,PE,-6.616680,-77.766701,8202
+SPSI,Siguas Airport,SPSI,,Siguas,PE,-16.367001,-72.167000,4720
+SPSJ,San José de Sisa Airport,SPSJ,,El Dorado,PE,-6.616490,-76.688400,1200
+SPSL,Lamas Airport,SPSL,,Lamas,PE,-6.416667,-76.533333,2600
+SPSN,Shapaja Airport,SPSN,,Shapaja,PE,-6.579720,-76.262802,700
+SPSO,Capitán FAP Renán Elías Olivera International Airport,SPSO,PIO,Pisco,PE,-13.744900,-76.220299,39
+SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,SPST,TPP,Tarapoto,PE,-6.508740,-76.373199,869
+SPTA,Nauta Airport,SPTA,,Nauta,PE,-4.533300,-73.550003,370
+SPTE,San Francisco Airport,SPTE,,San Francisco,PE,-12.533000,-73.800003,2499
+SPTI,Puerto Inca Airport,SPTI,,Puerto Inca,PE,-9.383000,-74.967003,583
+SPTN,Coronel FAP Carlos Ciriani Santa Rosa International Airport,SPTN,TCQ,Tacna,PE,-18.053301,-70.275803,1538
+SPTP,El Pato Air Base,SPTP,,El Pato,PE,-4.549810,-81.224098,286
+SPTQ,Toquepala Airport,SPTQ,,Toquepala,PE,-17.299500,-70.652802,8536
+SPTR,Tournavista Airport,SPTR,,Tournavista,PE,-8.917000,-74.733002,649
+SPTU,Padre Aldamiz International Airport,SPTU,PEM,Puerto Maldonado,PE,-12.613600,-69.228600,659
+SPTY,Tintay Airport,SPTY,,Tintay,PE,-13.959167,-73.185837,8809
+SPUC,Huamachuco Airport,SPUC,,Huamachuco,PE,-7.821640,-78.041702,11224
+SPUR,Capitán FAP Guillermo Concha Iberico International Airport,SPUR,PIU,Piura,PE,-5.205750,-80.616402,120
+SPVI,Vicco Airport,SPVI,,Vicco,PE,-10.847844,-76.246956,13464
+SPVL,Caraveli Airport,SPVL,,Caraveli,PE,-15.767000,-73.366997,5675
+SPYA,Luya Airport,SPYA,,Luya,PE,-6.691700,-79.701698,298
+SPYL,Aeropuerto Internacional Capitán FAP Víctor Montes Arias,SPYL,TYL,"Talara, Piura",PE,-4.575889,-81.256583,282
+SPYO,Pacasmayo Airport,SPYO,,Pacasmayo,PE,-7.406940,-79.568901,95
+SPYU,Yauca Airport,SPYU,,Yauca,PE,-15.618900,-74.536102,488
+SPZH,Pachiza Airport,SPZH,,Pachiza,PE,-7.299280,-76.774597,1102
+SPZO,Alejandro Velasco Astete International Airport,SPZO,CUZ,Cusco,PE,-13.535700,-71.938797,10860
+SPZT,Chazuta Airport,SPZT,,Chazuta,PE,-6.574167,-76.136665,757

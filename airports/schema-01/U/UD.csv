@@ -1,0 +1,6 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+UD21,Yerevan Yegvard Airport,UD21,,Yerevan,AM,40.294102,44.564602,4416
+UDLS,Stepanavan Airport,UDLS,,Stepanavan,AM,41.048500,44.337200,4836
+UDSG,Gyumri Shirak Airport,UDSG,LWN,Gyumri,AM,40.750401,43.859299,5000
+UDYE,Erebuni Airport,UDYE,,Yerevan,AM,40.122101,44.465000,2948
+UDYZ,Zvartnots International Airport,UDYZ,EVN,Yerevan,AM,40.147301,44.395901,2838

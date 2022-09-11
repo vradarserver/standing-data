@@ -1,0 +1,14 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+UB12,Nasosnaya Air Base,UB12,,Nasosnaya,AZ,40.591599,49.557400,-13
+UB13,Stepanakert Air Base,UB13,,Stepanakert,AZ,39.901402,46.786999,2001
+UB14,Kyurdamir Air Base,UB14,,Kyurdamir,AZ,40.273602,48.163601,-35
+UB16,Belokany Airport,UB16,,Belokany,AZ,41.735001,46.355000,935
+UB18,Baku Kala Air Base,UB18,,Baku,AZ,40.406601,50.200199,40
+UBBA,Akstafa Airport,UBBA,,Akstafa,AZ,41.122398,45.424801,1085
+UBBB,Heydar Aliyev International Airport,UBBB,GYD,Baku,AZ,40.467499,50.046700,10
+UBBG,Ganja Airport,UBBG,GNJ,Ganja,AZ,40.737701,46.317600,1083
+UBBL,Lankaran International Airport,UBBL,LLK,Lankaran,AZ,38.746399,48.818001,30
+UBBN,Nakhchivan Airport,UBBN,NAJ,Nakhchivan,AZ,39.188801,45.458401,2863
+UBBQ,Gabala International Airport,UBBQ,GBB,Gabala,AZ,40.826667,47.712500,935
+UBBY,Zaqatala International Airport,UBBY,ZTU,Zaqatala,AZ,41.562222,46.667221,1279
+UBEE,Yevlakh Airport,UBEE,,Yevlakh,AZ,40.631901,47.141899,49

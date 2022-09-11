@@ -1,0 +1,116 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SV02,San Diego De Cabrutica Airport,SV02,,El Roble,VE,8.404430,-65.015503,492
+SVAC,Oswaldo Guevara Mujica Airport,SVAC,AGV,Acarigua,VE,9.553375,-69.237869,640
+SVAF,Medano Alto Airport,SVAF,,Médano Alto,VE,6.933333,-68.016670,459
+SVAH,Cachimbo Airport,SVAH,,Coco de Mono,VE,10.033333,-69.166664,1000
+SVAN,Anaco Airport,SVAN,AAO,Anaco,VE,9.430225,-64.470726,721
+SVAP,Apurito Airport,SVAP,,Apurito,VE,7.918850,-68.483002,295
+SVAS,Armando Schwarck Airport,SVAS,LPJ,Guayabal,VE,6.578050,-66.816902,266
+SVAT,San Fernando de Atabapo Airport,SVAT,,San Fernando de Atabapo,VE,4.051040,-67.699699,301
+SVBA,Boca Anaro Airport,SVBA,,Boca de Anaro,VE,7.833333,-70.266670,298
+SVBC,General Jose Antonio Anzoategui International Airport,SVBC,BLA,Barcelona,VE,10.107100,-64.689201,26
+SVBG,La Batalla Airport,SVBG,,La Cruz,VE,9.200000,-68.166664,273
+SVBI,Barinas Airport,SVBI,BNS,Barinas,VE,8.619570,-70.220802,615
+SVBK,Bocono Airport,SVBK,,Bocono,VE,9.267100,-70.230499,5084
+SVBM,Barquisimeto International Airport,SVBM,BRM,Barquisimeto,VE,10.042747,-69.358620,2042
+SVBS,Escuela Mariscal Sucre Airport,SVBS,MYC,Maracay,VE,10.249978,-67.649422,1338
+SVBU,Central Venezuela Airport,SVBU,,Bobures,VE,9.166667,-71.099998,33
+SVCB,Aeropuerto General Tomás de Heres,SVCB,CBL,Ciudad Bolívar,VE,8.122222,-63.536111,164
+SVCD,Aeropuerto Caicara del Orinoco,SVCD,CXA,Caicara del Orinoco,VE,7.616667,-66.166667,140
+SVCE,Apruna Airport,SVCE,,Cuenca de Unare,VE,9.350306,-65.280655,204
+SVCG,Casigua El Cubo Airport,SVCG,CUV,Casigua El Cubo,VE,8.758140,-72.536301,99
+SVCJ,San Carlos Airport,SVCJ,,San Carlos,VE,9.647720,-68.574699,512
+SVCK,Caño Lucas Airport,SVCK,,El Poblado,VE,9.416667,-68.883331,301
+SVCL,Calabozo Airport,SVCL,CLZ,Guarico,VE,8.924656,-67.417091,328
+SVCM,Cañita Mendera Airport,SVCM,,Tinaco,VE,9.683333,-68.416664,662
+SVCN,Canaima Airport,SVCN,CAJ,Canaima,VE,6.231989,-62.854431,1450
+SVCO,Carora Airport,SVCO,VCR,Carora,VE,10.175603,-70.065216,1437
+SVCP,General Francisco Bermúdez Airport,SVCP,CUP,Carúpano,VE,10.660014,-63.261681,33
+SVCR,José Leonardo Chirinos Airport,SVCR,CZE,Coro,VE,11.414944,-69.680901,52
+SVCS,Oscar Machado Zuluaga Airport,SVCS,,Caracas,VE,10.286111,-66.816109,2145
+SVCU,Aeropuerto Internacional Antonio José de Sucre,SVCU,CUM,Cumaná,VE,10.450000,-64.133333,30
+SVCV,Cunaviche Airport,SVCV,,Cunaviche,VE,7.400000,-67.433334,262
+SVCY,Cuartel Yaruro Airport,SVCY,,Las Campanas,VE,6.933333,-68.633331,442
+SVCZ,Capitán Manuel Ríos Airbase,SVCZ,,Carrizal,VE,9.372650,-66.922798,595
+SVDA,La Tortuga Punta Delgada Airport,SVDA,,Isla La Tortuga,VE,10.936667,-65.223335,26
+SVDM,Dos Mosquises Airport,SVDM,,Isla Los Roques,VE,11.796800,-66.892998,5
+SVDR,Cordereño Airport,SVDR,,Cordereño,VE,7.933333,-69.900002,268
+SVED,El Dorado Airport,SVED,EOR,Bolivar,VE,6.733333,-61.583332,318
+SVEE,El Esterero Airport,SVEE,,El Samán de Apure,VE,7.908333,-68.696671,590
+SVEM,El Paraiso Airport,SVEM,,El Paraiso,VE,8.333333,-70.375000,656
+SVES,El Samán de Apure Airport,SVES,,El Samán de Apure,VE,7.912350,-68.692703,361
+SVFK,La Fe de Cojedes Airport,SVFK,,La Mosca,VE,9.483333,-67.816666,412
+SVFM,Francisco de Miranda Airport,SVFM,,La Carlota,VE,10.485033,-66.843513,2739
+SVFR,El Frío Airport,SVFR,,Guarico,VE,7.823333,-68.898331,219
+SVFU,La Fortuna Airport,SVFU,,San Antonio de Caparo,VE,7.583333,-71.466667,417
+SVGU,Guanare Airport,SVGU,GUQ,Guanare,VE,9.026944,-69.755150,606
+SVHH,Churuguara Airport,SVHH,,Churuguara,VE,10.808100,-69.638397,2461
+SVHM,Hato Los Mamones Airport,SVHM,,Hato Los Mamomes,VE,9.333333,-67.916664,594
+SVHO,El Oasis Airport,SVHO,,La Palmita,VE,8.368220,-69.957100,396
+SVHP,Hacienda El Paso Airport,SVHP,,Las Vegas del Tuy,VE,10.713333,-69.208336,495
+SVHR,Hato El Carito Airport,SVHR,,Los Marimares,VE,9.500000,-67.949997,256
+SVIE,Andres Miguel Salazar Marcano Airport,SVIE,,Isla de Coche,VE,10.794406,-63.981590,10
+SVJC,Josefa Camejo International Airport,SVJC,LSP,Paraguaná,VE,11.780775,-70.151497,75
+SVJH,Juancho Airport,SVJH,,Soledad,VE,8.179720,-63.596001,197
+SVJJ,Curujujul Airport,SVJJ,,Anzoategui,VE,7.443333,-67.796669,321
+SVJM,San Juan de Los Morros Airport,SVJM,,San Juan de los Morros,VE,9.906953,-67.379639,1404
+SVKL,Las Clavellinas Airport,SVKL,,Las Clavellinasmer,VE,9.325000,-70.974998,66
+SVKV,Corral Viejo Airport,SVKV,,La Bombita,VE,9.666667,-70.966667,14
+SVLA,Las Adjuntas Airport,SVLA,,Las Colmenas,VE,9.016667,-63.750000,534
+SVLB,La Blanquilla Airport,SVLB,,La Blanquilla - Isla Margarita,VE,11.820579,-64.586212,59
+SVLC,El Lucero de Apure Airport,SVLC,,El Lucero,VE,6.983333,-68.066666,262
+SVLD,Las Brisas Airport,SVLD,,Mata de Vino,VE,7.203333,-69.536667,328
+SVLF,Aeropuerto Internacional Francisco García de Hevia,SVLF,LFR,La Fría,VE,8.242500,-72.273611,322
+SVLH,Las Delicias Airport,SVLH,,Banco del Medio,VE,7.166667,-69.383331,373
+SVLJ,La Vieja Airport,SVLJ,,La Ceiba,VE,9.683333,-64.183334,1262
+SVLL,Callejas Airport,SVLL,,Callejas,VE,8.008333,-69.626663,209
+SVLU,El Lechozo Airport,SVLU,,El Lechozo,VE,9.300000,-66.678329,529
+SVMC,La Chinita International Airport,SVMC,MAR,Maracaibo,VE,10.558208,-71.727859,239
+SVMD,Alberto Carnevalli Airport,SVMD,MRD,Mérida,VE,8.582078,-71.161041,5007
+SVMG,Del Caribe Santiago Mariño International Airport,SVMG,PMV,Isla Margarita,VE,10.912603,-63.966599,74
+SVMI,Maiquetía (Simón Bolívar Internacional) Airport,SVMI,CCS,Caracas,VE,10.603117,-66.990585,235
+SVMN,Mene Grande Airport,SVMN,,Mene Grande,VE,9.803160,-70.892197,90
+SVMT,Maturin,SVMT,MUN,Maturin,VE,9.749067,-63.153400,224
+SVMX,Mata Airport,SVMX,,Las Fernández,VE,9.200000,-64.050003,695
+SVMZ,Mantecal Airport,SVMZ,,Mantecal,VE,7.557580,-69.141602,295
+SVNF,Morichitos Airport,SVNF,,Morichito,VE,7.383333,-68.833336,210
+SVNT,Mata de Turagua Airport,SVNT,,La Guarandinga,VE,7.700000,-69.300003,354
+SVOE,Sabaneta Airport,SVOE,,Sabaneta,VE,8.744140,-69.913803,530
+SVOL,San Roque Airport,SVOL,,Santa Ana,VE,9.316667,-64.633331,590
+SVON,Oro Negro Airport,SVON,CBS,Cabimas,VE,10.330700,-71.322502,164
+SVPA,Aeropuerto Cacique Aramare,SVPA,PYH,Puerto Ayacucho,VE,5.620000,-67.606111,235
+SVPC,Aeropuerto Internacional General Bartolomé Salóm,SVPC,PBL,Puerto Cabello,VE,10.483333,-68.077222,32
+SVPF,Pariaguán Airport,SVPF,,Pariaguán,VE,8.819120,-64.739700,787
+SVPR,General Manuel Carlos Piar International Airport,SVPR,PZO,Puerto Ordaz-Ciudad Guayana,VE,8.288530,-62.760399,472
+SVPS,Hacienda La Pastora Airport,SVPS,,San Pedro,VE,9.890000,-70.121666,1084
+SVPT,Palmarito Airport,SVPT,PTM,Palmarito,VE,7.566670,-70.183296,347
+SVPV,Pedraza La Vieja Airport,SVPV,,Pedraza La Vieja,VE,7.916667,-71.033333,554
+SVQJ,La Trinidad De Apure Airport,SVQJ,,La Trinidad,VE,7.233333,-69.099998,267
+SVQL,Tocomita Airport,SVQL,,Gurí,VE,7.757760,-63.082298,590
+SVQR,Santa Rita Airport,SVQR,,El Diero,VE,7.516667,-68.683334,367
+SVQU,Santa Rosa de Guanare Airport,SVQU,,San Isidro,VE,8.749580,-69.722504,429
+SVQX,Tamayare Airport,SVQX,,El Paso,VE,10.566667,-70.133331,2100
+SVRG,Rancho Grande de Apure Airport,SVRG,,La Leona,VE,7.350000,-69.349998,918
+SVRI,Riecito Airport,SVRI,,Caño Riecito,VE,6.784060,-68.865097,442
+SVRS,Gran Roque Airport,SVRS,LRV,Los Roques,VE,11.950000,-66.669998,17
+SVSA,Aeropuerto Internacional General Juan Vicente Gómez,SVSA,SVZ,San Antonio del Táchira,VE,7.845278,-72.443889,1316
+SVSB,Santa Bárbara de Barinas Airport,SVSB,SBB,Santa Bárbara,VE,7.803514,-71.165718,590
+SVSG,San Antonio De Barinas Airport,SVSG,,Barinas,VE,8.566667,-70.050003,460
+SVSO,Mayor Buenaventura Vivas International Airport,SVSO,STD,Santo Domingo,VE,7.565380,-72.035103,1083
+SVSP,Sub Teniente Nestor Arias Airport,SVSP,SNF,San Felipe,VE,10.278700,-68.755203,761
+SVSR,San Fernando De Apure Airport,SVSR,SFD,Inglaterra,VE,7.883320,-67.444000,154
+SVSS,Hacienda San José Airport,SVSS,,San José de Trujillo,VE,9.466667,-71.033333,98
+SVST,Aeropuerto Don Edmundo Barrios,SVST,SOM,San Tomé,VE,8.950000,-64.151389,866
+SVTC,Tucupita Airport,SVTC,TUV,Tucupita,VE,9.088994,-62.094173,16
+SVTD,La Estacada Airport,SVTD,,La Estacada,VE,7.400000,-69.066666,360
+SVTJ,Central Matilde Airport,SVTJ,,central Matilde,VE,10.157900,-68.861603,866
+SVTK,La Trinidad de Orichuna Airport,SVTK,,L Trinidad de Orichuna,VE,7.138333,-69.775002,328
+SVTO,El Toco Airport,SVTO,,El Toco,VE,9.200000,-64.849998,392
+SVTU,Turagua Airport,SVTU,,Turagua,VE,7.783333,-69.233330,338
+SVTY,Toromacho Airport,SVTY,,Las Mercedes del Llano,VE,9.130826,-66.391153,450
+SVVA,Arturo Michelena International Airport,SVVA,VLN,Valencia,VE,10.149733,-67.928398,1411
+SVVG,Juan Pablo Pérez Alfonso Airport,SVVG,VIG,El Vigía,VE,8.624139,-71.672668,250
+SVVK,La Verdad Airport,SVVK,,Las Queseritas,VE,7.133333,-69.050003,236
+SVVL,Dr. Antonio Nicolás Briceño Airport,SVVL,VLV,Valera,VE,9.340478,-70.584061,2060
+SVVQ,Venelac  Airport,SVVQ,,Quebrada Arriba,VE,10.242800,-70.501801,1969
+SVWA,Mata de Agua Airport,SVWA,,Santa Bárbara,VE,7.316667,-67.908333,226

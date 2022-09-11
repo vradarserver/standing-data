@@ -1,0 +1,28 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+0LA0,West Hackberry Heliport,0LA0,,Hackberry,US,30.008499,-93.400200,10
+0LA1,Double H Ranch Airport,0LA1,,Gonzales,US,30.229401,-90.973396,15
+0LA2,Don Babin-Private Airport,0LA2,,Gonzales,US,30.278000,-90.963203,17
+0LA3,Belcher Airpatch Airport,0LA3,,Belcher,US,32.749298,-93.873497,280
+0LA4,North Caddo Medical Center Heliport,0LA4,,Vivian,US,32.864101,-93.988998,200
+0LA5,Conoco Inc Heliport,0LA5,,Grand Isle,US,29.257999,-89.963699,3
+0LA6,Freeport Sulphur Heliport,0LA6,,Grand Isle,US,29.258600,-89.959198,3
+0LA7,Exxon Heliport,0LA7,,Grand Isle,US,29.255800,-89.967598,6
+0LA8,Jackson Parish Hospital Heliport,0LA8,,Jonesboro,US,32.251701,-92.712799,183
+0LA9,Rebel Field,0LA9,,Watson,US,30.586300,-90.861504,74
+0LL0,Kaufield Airport,0LL0,,Belvidere,US,42.264702,-88.730003,783
+0LL1,Jerseyville Aviation Inc Airport,0LL1,,Jerseyville,US,39.094200,-90.313400,604
+0LL2,Murk's Strip,0LL2,,St. Augustine,US,40.738899,-90.380699,700
+0LL3,Koenig Airport,0LL3,,Jerseyville,US,39.055000,-90.342102,614
+0LL4,Flaherty Field,0LL4,,La Salle,US,41.419201,-89.123100,664
+0LL5,Busboom RLA Restricted Landing Area,0LL5,,St Joseph,US,40.110001,-88.078400,675
+0LL6,Gord Airport,0LL6,,Sandwich,US,41.698399,-88.607597,710
+0LL7,Hospital Heliport,0LL7,,Sandwich,US,41.650002,-88.616699,670
+0LL9,Savanna Army Depot Helipad,0LL9,,Savanna,US,42.183399,-90.255699,650
+0LS0,Theriot Field,0LS0,,Thibodaux,US,29.749701,-90.735802,13
+0LS2,Evergreen Fourchon Heliport,0LS2,,Golden Meadow,US,29.116400,-90.202202,6
+0LS4,Buller's Airstrip,0LS4,,Bunkie,US,30.808701,-92.188004,47
+0LS5,Trahan Ultralightport,0LS5,,Cankton,US,30.306900,-92.129799,40
+0LS6,Dufour Airport,0LS6,,Morrow,US,30.787701,-92.050400,42
+0LS7,Morgan Field,0LS7,,New Roads,US,30.612801,-91.484200,36
+0LS8,Lonesome Dove Airfield,0LS8,,Woodlawn,US,30.285801,-92.941299,34
+0LS9,Huenefeld Airport,0LS9,,Monroe,US,32.504299,-91.982101,72

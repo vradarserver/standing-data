@@ -1,0 +1,101 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+K20A,Robbins Field,K20A,,Oneonta,US,33.972301,-86.379402,1140
+K20M,Macon Municipal Airport,K20M,,Macon,US,33.133499,-88.535599,238
+K20N,Kingston-Ulster Airport,K20N,,Kingston,US,41.985298,-73.964104,149
+K20R,Crystal City Municipal Airport,K20R,,Crystal City,US,28.697800,-99.817802,608
+K20U,Beach Airport,K20U,,Beach,US,46.925201,-103.982002,2756
+K20V,Mc Elroy Airfield,K20V,,Kremmling,US,40.053699,-106.369003,7411
+K21D,Lake Elmo Airport,K21D,,St Paul,US,44.997501,-92.855698,933
+K21F,Jacksboro Municipal Airport,K21F,,Jacksboro,US,33.228699,-98.146698,1055
+K22F,Kent County Airport,K22F,,Jayton,US,33.229301,-100.569000,2006
+K22I,Vinton County Airport,K22I,,Mc Arthur,US,39.328098,-82.441803,958
+K22M,Pontotoc County Airport,K22M,,Pontotoc,US,34.275902,-89.038399,440
+K22N,Jake Arner Memorial Airport,K22N,,Lehighton,US,40.809502,-75.761497,534
+K22S,Paisley Airport,K22S,,Paisley,US,42.717899,-120.563004,4395
+K22W,Transylvania County Airport,K22W,,Brevard,US,35.270302,-82.644203,2110
+K23M,Clarke County Airport,K23M,,Quitman,US,32.084900,-88.738899,320
+K23R,Devine Municipal Airport,K23R,,Devine,US,29.138399,-98.941902,703
+K24A,Jackson County Airport,K24A,,Sylva,US,35.317402,-83.209900,2857
+K24F,Cypress River Airport,K24F,,Jefferson,US,32.745998,-94.304398,221
+K24J,Suwannee County Airport,K24J,,Live Oak,US,30.300100,-83.024696,104
+K24N,Jicarilla Apache Nation Airport,K24N,,Dulce,US,36.828499,-106.884003,7618
+K24R,Dilley Airpark,K24R,,Dilley,US,28.685499,-99.189201,542
+K25D,Forest Lake Airport,K25D,,Forest Lake,US,45.247700,-92.994400,925
+K25J,Cuthbert-Randolph Airport,K25J,,Cuthbert,US,31.700199,-84.824898,457
+K25M,Ripley Airport,K25M,,Ripley,US,34.722301,-89.015099,465
+K26A,Ashland/Lineville Airport,K26A,,Ashland/Lineville,US,33.287601,-85.804100,1065
+K26R,Jackson County Airport,K26R,,Edna,US,29.000999,-96.582001,61
+K26U,Mc Dermitt State Airport,K26U,,Mc Dermitt,US,42.002102,-117.723000,4478
+K27A,Elbert-County-Patz Field,K27A,,Elberton,US,34.095200,-82.815903,603
+K27K,Georgetown Scott County - Marshall Field,K27K,,Georgetown,US,38.234402,-84.434700,947
+K27R,Eldorado Airport,K27R,,Eldorado,US,30.862200,-100.611000,2448
+K28J,Palatka Municipal - Lt. Kay Larkin Field,K28J,,Palatka,US,29.658600,-81.688904,48
+K29D,Grove City Airport,K29D,,Grove City,US,41.146000,-80.167702,1371
+K29G,Portage County Airport,K29G,,Ravenna,US,41.210201,-81.251602,1197
+K29S,Gardiner Airport,K29S,,Gardiner,US,45.049900,-110.747002,5286
+K2A0,Mark Anton Airport,K2A0,,Dayton,US,35.486198,-84.931099,719
+K2A1,Jamestown Municipal Airport,K2A1,,Jamestown,US,36.349701,-84.946701,1694
+K2A2,Holley Mountain Airpark,K2A2,,Clinton,US,35.650700,-92.403801,1269
+K2A5,Causey Airport,K2A5,,Liberty,US,35.911800,-79.617599,723
+K2A6,Holly Grove Municipal Airport,K2A6,,Holly Grove,US,34.582401,-91.165199,176
+K2B3,Parlin Field,K2B3,,Newport,US,43.388100,-72.189301,784
+K2B7,Pittsfield Municipal Airport,K2B7,,Pittsfield,US,44.768501,-69.374397,198
+K2C8,Cavalier Municipal Airport,K2C8,,Cavalier,US,48.783798,-97.631897,892
+K2CB,Camp Blanding Army Air Field/NG Airfield,K2CB,,Camp Blanding Mil Res(Starke),US,29.952499,-81.979698,196
+K2D5,Oakes Municipal Airport,K2D5,,Oakes,US,46.173000,-98.079903,1335
+K2E3,Cluck Ranch Airport,K2E3,,Gruver,US,36.177200,-101.694000,3423
+K2E5,Dell City Municipal Airport,K2E5,,Dell City,US,31.947599,-105.192001,3701
+K2E7,Mc Lean Gray County Airport,K2E7,,Mc Lean,US,35.247002,-100.543999,2835
+K2F0,Iraan Municipal Airport,K2F0,,Iraan,US,30.905701,-101.891998,2200
+K2F1,Shamrock Municipal Airport,K2F1,,Shamrock,US,35.236198,-100.184998,2369
+K2F4,T Bar Airport,K2F4,,Tahoka,US,33.176998,-101.820000,3126
+K2F5,Lamesa Municipal Airport,K2F5,,Lamesa,US,32.756302,-101.919998,2999
+K2F7,Commerce Municipal Airport,K2F7,,Commerce,US,33.292900,-95.896400,515
+K2G1,Concord Airpark,K2G1,,Painesville,US,41.667000,-81.197197,999
+K2G2,Jefferson County Airpark,K2G2,,Steubenville,US,40.359402,-80.700104,1196
+K2G4,Garrett County Airport,K2G4,,Oakland,US,39.580299,-79.339401,2933
+K2G9,Somerset County Airport,K2G9,,Somerset,US,40.039101,-79.014603,2275
+K2GC,Grays Creek Airport,K2GC,,Fayetteville,US,34.893700,-78.843498,160
+K2H0,Shelby County Airport,K2H0,,Shelbyville,US,39.410400,-88.845398,618
+K2H2,Jerry Sumners Sr Aurora Municipal Airport,K2H2,,Aurora,US,36.962299,-93.695297,1434
+K2H9,Rolette Airport,K2H9,,Rolette,US,48.665298,-99.853203,1620
+K2I0,Madisonville Municipal Airport,K2I0,,Madisonville,US,37.355000,-87.399597,439
+K2I3,Rough River State Park Airport,K2I3,,Falls-Of-Rough,US,37.609798,-86.506897,577
+K2IS,Airglades Airport,K2IS,,Clewiston,US,26.742001,-81.049797,20
+K2J2,Liberty County Airport,K2J2,,Hinesville,US,31.784599,-81.641197,98
+K2J3,Louisville Municipal Airport,K2J3,,Louisville,US,32.986500,-82.385696,328
+K2J5,Millen Airport,K2J5,,Millen,US,32.893600,-81.965401,237
+K2K3,Stanton County Municipal Airport,K2K3,,Johnson,US,37.582699,-101.733002,3324
+K2K4,Scott Field,K2K4,,Mangum,US,34.892601,-99.528198,1643
+K2K7,Neodesha Municipal Airport,K2K7,,Neodesha,US,37.435398,-95.646103,841
+K2K9,Haskell Airport,K2K9,,Haskell,US,35.832901,-95.667397,588
+K2L0,Pineville Municipal Airport,K2L0,,Pineville,US,31.346100,-92.443604,100
+K2M0,Princeton Caldwell County Airport,K2M0,,Princeton,US,37.115101,-87.857101,584
+K2M2,Lawrenceburg Lawrence County Airport,K2M2,,Lawrenceburg,US,35.234299,-87.257896,936
+K2M4,G. V. Montgomery Airport,K2M4,,Forest,US,32.353500,-89.488701,517
+K2M8,Charles W. Baker Airport,K2M8,,Millington,US,35.278999,-89.931503,247
+K2MO,Mount Vernon Municipal Airport,K2MO,,Mount Vernon,US,37.068401,-93.884903,1244
+K2O1,Gansner Field,K2O1,GNF,Quincy,US,39.943901,-120.945000,3415
+K2O3,Angwin Parrett Field,K2O3,,Angwin,US,38.578499,-122.434998,1848
+K2O6,Chowchilla Airport,K2O6,,Chowchilla,US,37.112400,-120.247002,242
+K2O7,Independence Airport,K2O7,,Independence,US,36.813801,-118.205002,3908
+K2O8,Hinton Municipal Airport,K2O8,,Hinton,US,35.505901,-98.342400,1587
+K2R0,Waynesboro Municipal Airport,K2R0,,Waynesboro,US,31.646000,-88.634804,164
+K2R1,Le Maire Memorial Airport,K2R1,,Jeanerette,US,29.899099,-91.666000,14
+K2R2,Hendricks County Gordon Graham Field,K2R2,,Indianapolis,US,39.748100,-86.473801,897
+K2R4,Peter Prince Field,K2R4,,Milton,US,30.637600,-86.993698,82
+K2R5,St Elmo Airport,K2R5,,St Elmo,US,30.501900,-88.275101,132
+K2R6,Bunkie Municipal Airport,K2R6,,Bunkie,US,30.956699,-92.234100,62
+K2R7,Franklinton Airport,K2R7,,Franklinton,US,30.819401,-90.112503,175
+K2R9,Karnes County Airport,K2R9,,Kenedy,US,28.825001,-97.865601,289
+K2RR,River Ranch Resort Airport,K2RR,,River Ranch,US,27.782200,-81.205299,55
+K2S4,Warden Airport,K2S4,,Warden,US,46.965401,-119.066002,1276
+K2S7,Chiloquin State Airport,K2S7,,Chiloquin,US,42.579440,-121.879063,4217
+K2S8,Wilbur Airport,K2S8,,Wilbur,US,47.754200,-118.742996,2182
+K2S9,Willapa Harbor Airport,K2S9,,South Bend/Raymond/,US,46.697601,-123.822998,13
+K2T1,Muleshoe Municipal Airport,K2T1,,Muleshoe,US,34.185101,-102.640999,3779
+K2V5,Wray Municipal Airport,K2V5,,Wray,US,40.100300,-102.240997,3667
+K2V6,Yuma Municipal Airport,K2V6,,Yuma,US,40.104198,-102.712997,4136
+K2W5,Maryland Airport,K2W5,,Indian Head,US,38.600498,-77.072998,170
+K2W6,St. Mary's County Regional Airport,K2W6,,Leonardtown,US,38.315399,-76.550102,142
+K2Y4,Rockwell City Municipal Airport,K2Y4,,Rockwell City,US,42.387501,-94.617996,1217

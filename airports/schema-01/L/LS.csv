@@ -1,0 +1,123 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+LS00,Whitehead Ultralightport,LS00,,Zachary,US,30.675501,-91.114304,105
+LS01,Shell Pipe Line Gibson Heliport,LS01,,Gibson,US,29.629400,-90.945900,5
+LS02,North Oaks Medical Center Heliport,LS02,,Hammond,US,30.466299,-90.461998,38
+LS03,Stephen's Flying Service Airport,LS03,,Winnsboro,US,32.293301,-91.593300,89
+LS04,Bobby Jones Flying Service Inc Airport,LS04,,Mangham,US,32.316700,-91.839500,69
+LS05,Troop B Heliport,LS05,,New Orleans,US,29.998501,-90.116699,10
+LS06,Pointe Coupee General Hospital Heliport,LS06,,New Roads,US,30.683201,-91.461197,37
+LS07,Lsu Health Science Center Heliport,LS07,,Shreveport,US,32.480598,-93.762199,336
+LS08,Robert L Suggs Heliport,LS08,,Boothville,US,29.351400,-89.437202,2
+LS09,Sylvester's Airport,LS09,,Ville Platte,US,30.695801,-92.317596,70
+LS10,Reynolds Airport,LS10,,Westlake,US,30.272100,-93.311798,20
+LS11,Liddieville Airport,LS11,,Winnsboro,US,32.153500,-91.843697,73
+LS12,Bastian Bay Heliport,LS12,,Buras,US,29.314100,-89.614197,10
+LS13,Omni Heliport,LS13,,Carencro,US,30.347900,-92.041199,50
+LS14,Lyon Airport,LS14,,Thornwell,US,30.070999,-92.825104,6
+LS15,Diamond Shamrock Heliport,LS15,,Jeanerette,US,29.891899,-91.680397,20
+LS16,Circle G Airport,LS16,,Jigger,US,32.011299,-91.755096,75
+LS18,Ag Aviation Airport,LS18,,Welsh,US,30.223900,-92.778603,21
+LS19,Houma Terrebonne Heliport,LS19,,Chauvin,US,29.250500,-90.662300,3
+LS20,Riverview Medical Center Heliport,LS20,,Gonzales,US,30.204100,-90.931999,10
+LS21,Southland Strip Ultralightport,LS21,,Houma,US,29.670500,-90.770599,10
+LS22,St Helena Parish Hospital Heliport,LS22,,Greensburg,US,30.831800,-90.666199,180
+LS23,Womens's and Children's Hospital Heliport,LS23,,Lafayette,US,30.153799,-92.045998,30
+LS24,Touro Infirmary Heliport,LS24,,New Orleans,US,29.925200,-90.093399,50
+LS25,Annison Private Airport,LS25,,Slaughter,US,30.704599,-91.060699,120
+LS27,Rapides Rmc Hospital Heliport,LS27,,Alexandria,US,31.301701,-92.450302,125
+LS28,Barataria Bay Heliport,LS28,,Ecaille,US,29.378599,-89.854500,3
+LS29,South 40 Heliport,LS29,,Lake Charles,US,30.123501,-93.251801,16
+LS30,E A Conway Hospital Heliport,LS30,,Monroe,US,32.454300,-92.108498,79
+LS31,Fresh Water Bayou Heliport,LS31,,Intercoastal City,US,29.601500,-92.260101,4
+LS32,St Jude Heliport,LS32,,Kenner,US,30.024900,-90.268997,24
+LS33,Sun Drilling Products Heliport,LS33,,New Orleans,US,29.898500,-89.990601,3
+LS34,Bordelon Airpark,LS34,,Breaux Bridge,US,30.306700,-91.876404,22
+LS35,Nauga Field,LS35,,St Francisville,US,30.762501,-91.277298,38
+LS36,Light Plane Flyers Airfield,LS36,,Iowa,US,30.250200,-92.972000,25
+LS37,West Calcasieu Cameron Hospital Heliport,LS37,,Sulphur,US,30.229900,-93.368797,11
+LS38,Richard's Airport,LS38,,New Iberia,US,30.013100,-91.869202,15
+LS39,Country Bend Airport,LS39,,Watson,US,30.589399,-90.984596,49
+LS40,St Charles Airport,LS40,,Ama,US,29.951900,-90.286102,13
+LS41,Tater Patch Ultralightport,LS41,,Blanchard,US,32.567101,-93.878899,240
+LS42,American Legion Hospital Heliport,LS42,,Crowley,US,30.226900,-92.363701,24
+LS43,Southland Strip Nr 2 Ultralightport,LS43,,Gray,US,29.671900,-90.767601,10
+LS44,Ken Guidry No 3 Airport,LS44,,Kaplan,US,30.089899,-92.343697,15
+LS45,Waterford 3 Heliport,LS45,,Killona,US,29.985500,-90.467300,15
+LS46,Blount Airport,LS46,,Monterey,US,31.458500,-91.822899,50
+LS47,Marine Shale Processors Inc Heliport,LS47,,Morgan City,US,29.662701,-91.128403,20
+LS48,Assumption Comunity Hospital Heliport,LS48,,Napoleonville,US,29.957100,-91.033699,15
+LS49,Simpson Airport,LS49,,Plaquemine,US,30.302700,-91.271500,13
+LS50,Squires Heliport,LS50,,Rayville,US,32.429901,-91.724297,80
+LS51,Northshore Regional Medical Center Heliport,LS51,,Slidell,US,30.286900,-89.740601,14
+LS53,Ville Platte Medical Center Heliport,LS53,,Ville Platte,US,30.681900,-92.265999,75
+LS54,Brian's Ultralightport,LS54,,Zachary,US,30.691900,-91.187599,65
+LS55,William Olefins Llc,LS55,,Geismar,US,30.238800,-91.053703,13
+LS56,Medicant Island Heliport,LS56,,Grand Isle,US,29.336599,-89.984200,15
+LS57,River Parish Hospital Heliport,LS57,,La Place,US,30.071501,-90.515404,10
+LS58,Women & Children's Hospital Heliport,LS58,,Lake Charles,US,30.180201,-93.252098,16
+LS59,La Petite Airdrome Ultralightport,LS59,,Opelousas,US,30.629400,-92.187897,63
+LS60,East Field,LS60,,St Gabriel,US,30.251301,-91.086502,17
+LS61,Berwick Shore Base Heliport,LS61,,Berwick,US,29.663300,-91.240700,9
+LS62,Burns Point Plant Heliport,LS62,,Centerville,US,29.571600,-91.532097,2
+LS63,West Delta Receiving Station Heliport,LS63,,Venice,US,29.219101,-89.397003,2
+LS65,Moisart Heliport,LS65,,New Orleans,US,29.981600,-90.282600,5
+LS66,Petro Com Headquarters Heliport,LS66,,Harahan,US,29.970200,-90.203400,10
+LS67,Avoyelles Hospital Heliport,LS67,,Marksville,US,31.144100,-92.061501,75
+LS68,Ken Guidry Nr 1 Airport,LS68,,Abbeville,US,29.934700,-92.213501,10
+LS69,L J Earnest Airport,LS69,,Benton,US,32.643501,-93.662399,165
+LS71,Raceland Station Heliport,LS71,,Raceland,US,29.728001,-90.594299,10
+LS72,Aerolite Aero Park Ultralightport,LS72,,Welsh,US,30.202999,-92.812103,13
+LS73,Amax Metals Recovery Inc. Heliport,LS73,,Braithwaite,US,29.863300,-89.967796,7
+LS74,Utec Heliport,LS74,,Lake Charles,US,30.226900,-93.199898,10
+LS75,Cameron Shore Base Heliport,LS75,,Cameron,US,29.819401,-93.339897,4
+LS76,Hickham Field,LS76,,Covington,US,30.462700,-90.170097,25
+LS77,A & P Airpark,LS77,,Slaughter,US,30.727100,-91.148598,140
+LS78,Willis-Knighton Medical Center Temp Groundlevel Heliport,LS78,,Shreveport,US,32.486301,-93.778000,253
+LS79,Hardtner Medical Center Heliport,LS79,,Urania,US,31.861300,-92.276001,90
+LS80,Station 823 Heliport,LS80,,Kinder,US,30.434099,-92.875397,35
+LS81,Lake Charles Office Heliport,LS81,,Lake Charles,US,30.114401,-93.212097,15
+LS82,Air Logistics (Lake Charles) Heliport,LS82,,Lake Charles,US,30.137199,-93.182899,15
+LS83,Kifer Airport,LS83,,Newellton,US,32.062656,-91.254280,77
+LS84,Compressor Station 524 Heliport,LS84,,Leeville,US,29.216101,-90.215897,3
+LS85,East Jefferson General Hospital Heliport,LS85,,Metairie,US,30.012699,-90.180099,37
+LS86,Le Blanc Field,LS86,,Hammond,US,30.681900,-90.419296,158
+LS87,Compressor Station 527 Heliport,LS87,,Happy Jack,US,29.514900,-89.730598,3
+LS89,Sara Field,LS89,,St Francisville,US,30.946699,-91.474998,333
+LS90,Caddo Detention Center Airport,LS90,,Shreveport,US,32.262402,-93.935699,294
+LS91,Tim Bullard Memorial Airport,LS91,,Arnaudville,US,30.417200,-91.973602,32
+LS92,Koenig Airpark,LS92,,Robert,US,30.597401,-90.315903,100
+LS93,Greenwood Plantation Ultralightport,LS93,,Gibson,US,29.610800,-90.898399,6
+LS94,Alcon USA Heliport,LS94,,Krotz Springs,US,30.533056,-91.750114,36
+LS95,Mackie Memorial Heliport,LS95,,Glenmora,US,30.979401,-92.587097,135
+LS96,Ochsner Medical Institutions Heliport,LS96,,Jefferson,US,29.960199,-90.145897,7
+LS97,Myu Heliport,LS97,,Luling,US,29.929600,-90.353996,12
+LS98,Sabine Medical Center Heliport,LS98,,Many,US,31.560699,-93.472099,250
+LS99,Phi Fourchon Base Heliport,LS99,,Port Fourchon,US,29.116600,-90.204697,5
+LSGB,Bex Airport,LSGB,,Bex,CH,46.258301,6.986390,1312
+LSGC,Les Eplatures Airport,LSGC,,La Chaux-de-Fonds,CH,47.083900,6.792840,3368
+LSGG,Geneva Cointrin International Airport,LSGG,GVA,Geneva,CH,46.238098,6.108950,1411
+LSGK,Saanen Airport,LSGK,,Saanen,CH,46.487499,7.250830,3307
+LSGL,Lausanne-la Blecherette Airport,LSGL,QLS,Lausanne,CH,46.545300,6.616670,2041
+LSGP,La Côte Airport,LSGP,,La Côte,CH,46.406399,6.258060,1352
+LSGS,Sion Airport,LSGS,SIR,Sion,CH,46.219601,7.326760,1585
+LSGY,Yverdon-les-Bains Airport,LSGY,,Yverdon-les-Bains,CH,46.761902,6.613330,1421
+LSMA,Alpnach Air Base,LSMA,,Alpnach,CH,46.943901,8.284170,1460
+LSMD,Dubendorf Airport,LSMD,,Zurich,CH,47.398602,8.648230,1470
+LSPH,Winterthur Airport,LSPH,,Winterthur,CH,47.514999,8.771940,1506
+LSPM,Ambri Airport,LSPM,,Quinto,CH,46.512501,8.689780,3241
+LSTA,Raron Airport,LSTA,,Raron,CH,46.303600,7.823330,2029
+LSXB,Balzers Heliport,LSXB,,Balzers,LI,47.068100,9.481110,1585
+LSZA,Lugano Airport,LSZA,LUG,Lugano,CH,46.004299,8.910580,915
+LSZB,Bern Belp Airport,LSZB,BRN,Bern,CH,46.914101,7.497150,1674
+LSZC,Buochs Airport,LSZC,BXO,Buochs,CH,46.974444,8.396944,1475
+LSZD,Ascona Airport,LSZD,ACO,Ascona,CH,46.157799,8.781940,655
+LSZG,Flughafen Grenchen,LSZG,ZHI,Grenchen,CH,47.181944,7.411667,1411
+LSZH,Zürich Airport,LSZH,ZRH,Zürich,CH,47.464699,8.549170,1416
+LSZL,Locarno Airport,LSZL,ZJI,Locarno,CH,46.160801,8.878610,650
+LSZM,Mollis,LSZM,,Mollis,CH,47.079167,9.065000,1467
+LSZO,Luzern-Beromunster Airport,LSZO,,Lucerne,CH,47.189999,8.204720,2146
+LSZQ,Bressaucourt Airport,LSZQ,,Bressaucourt,CH,47.392677,7.028648,1866
+LSZR,St Gallen Altenrhein Airport,LSZR,ACH,Altenrhein,CH,47.485001,9.560770,1306
+LSZT,Lommis Airfield,LSZT,,Lommis,CH,47.524399,9.003060,1539
+LSZW,Thun Airport,LSZW,,Thun,CH,46.756401,7.600560,1837
+LSZY,Porrentruy Airport,LSZY,,Porrentruy,CH,47.410599,7.051670,1427

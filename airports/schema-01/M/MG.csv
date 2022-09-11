@@ -1,0 +1,23 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+MG13,Inta Northeast Airport,MG13,,El Achiotal,GT,15.804200,-89.850700,510
+MGBN,Bananera Airport,MGBN,,Morales,GT,15.473500,-88.837196,130
+MGCB,Coban Airport,MGCB,CBV,Coban,GT,15.469000,-90.406700,4339
+MGCR,Carmelita Airport,MGCR,CMM,Carmelita,GT,17.461201,-90.053703,753
+MGCT,Coatepeque Airport,MGCT,CTF,Coatepeque,GT,14.694200,-91.882500,1486
+MGES,Esquipulas Airport,MGES,,Esquipulas,GT,14.566670,-89.349998,3090
+MGGT,La Aurora Airport,MGGT,GUA,Guatemala City,GT,14.583300,-90.527496,4952
+MGHT,Huehuetenango Airport,MGHT,HUG,Huehuetenango,GT,15.327400,-91.462402,6375
+MGLL,La Libertad Airport,MGLL,,La Libertad,GT,16.750299,-90.139999,623
+MGML,Malacatán Airport,MGML,,San Marcos,GT,14.907464,-92.087921,1194
+MGMM,Melchor de Mencos Airport,MGMM,MCR,Melchor de Mencos,GT,17.068609,-89.152222,4670
+MGPB,Puerto Barrios Airport,MGPB,PBR,Puerto Barrios,GT,15.730900,-88.583801,33
+MGPP,Poptún Airport,MGPP,PON,Poptún,GT,16.325800,-89.416100,1801
+MGQC,Santa Cruz del Quiche Airport,MGQC,AQB,Santa Cruz del Quiche,GT,15.012200,-91.150597,6631
+MGQZ,Quezaltenango Airport,MGQZ,AAZ,Quezaltenango,GT,14.865600,-91.501999,7779
+MGRA,Rabinal Airport,MGRA,,Rabinal,GT,15.093500,-90.506389,3180
+MGRB,Rubelsanto Airport,MGRB,RUV,Rubelsanto,GT,15.992000,-90.445297,426
+MGRT,Retalhuleu Airport,MGRT,RER,Retalhuleu,GT,14.521000,-91.697304,656
+MGSJ,San José Airport,MGSJ,GSJ,Puerto San José,GT,13.936200,-90.835800,29
+MGSM,San Marcos Airport,MGSM,,San Marcos,GT,14.956300,-91.806297,7933
+MGTK,Mundo Maya International Airport,MGTK,FRS,San Benito,GT,16.913799,-89.866402,427
+MGZA,Zacapa Airport,MGZA,,Zacapa,GT,14.960300,-89.539200,626

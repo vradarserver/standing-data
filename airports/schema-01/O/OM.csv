@@ -1,0 +1,16 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+OM11,Abu Dhabi Northeast Airport,OM11,,Abu Dhabi,AE,24.518900,54.980099,88
+OMAA,Abu Dhabi International Airport,OMAA,AUH,Abu Dhabi,AE,24.433001,54.651100,88
+OMAD,Bateen,OMAD,AZI,Abu Dhabi,AE,24.428333,54.458084,16
+OMAL,Al Ain International Airport,OMAL,AAN,Al Ain,AE,24.261700,55.609200,869
+OMAR,Arzanah Airport,OMAR,,Arzanah Island,AE,24.780500,52.559898,15
+OMAS,Das Island Airport,OMAS,,Das Island,AE,25.146200,52.873699,12
+OMAZ,Zirku Airport,OMAZ,,Zirku Island,AE,24.862492,53.077141,14
+OMDB,Dubai International Airport,OMDB,DXB,Dubai,AE,25.252800,55.364399,62
+OMDL,Dalma Airport,OMDL,ZDY,Dalma Island,AE,24.503056,52.335833,16
+OMDM,Al Minhad Air Base,OMDM,NHD,Dubai,AE,25.026800,55.366199,165
+OMDW,Al Maktoum International Airport,OMDW,DWC,Jebel Ali,AE,24.896667,55.161389,114
+OMFJ,Fujairah International Airport,OMFJ,FJR,Fujeirah,AE,25.112225,56.323964,152
+OMRK,Ras Al Khaimah International Airport,OMRK,RKT,Ras Al Khaimah,AE,25.613501,55.938801,102
+OMSJ,Sharjah International Airport,OMSJ,SHJ,Sharjah,AE,25.328600,55.517200,111
+OMU9,Kollmeyer Airport,OMU9,,Pilot Grove,US,38.884201,-92.985497,810

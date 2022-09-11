@@ -1,0 +1,82 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ENAE,Æra Airfield,ENAE,,Åmot,NO,61.257401,11.668900,1621
+ENAL,Ålesund Airport,ENAL,AES,Ålesund,NO,62.562500,6.119700,69
+ENAN,Andøya Airport,ENAN,ANX,Andenes,NO,69.292503,16.144199,43
+ENAS,"Ny-Ålesund Airport, Hamnerabben",ENAS,,Ny-Ålesund,NO,78.927498,11.874300,50
+ENAT,Alta Airport,ENAT,ALF,Alta,NO,69.976097,23.371700,9
+ENBL,Bringeland Airport,ENBL,FDE,Førde,NO,61.391102,5.756940,1046
+ENBM,Bømoen Airport,ENBM,,Tjukkebygdi,NO,60.638901,6.501500,300
+ENBN,Brønnøysund Airport,ENBN,BNN,Brønnøy,NO,65.461098,12.217500,25
+ENBO,Bodø Airport,ENBO,BOO,Bodø,NO,67.269203,14.365300,42
+ENBR,"Bergen Airport, Flesland",ENBR,BGO,Bergen,NO,60.293400,5.218140,170
+ENBS,Båtsfjord Airport,ENBS,BJF,Båtsfjord,NO,70.600502,29.691401,490
+ENBV,Berlevåg Airport,ENBV,BVG,Berlevåg,NO,70.871399,29.034201,42
+ENCN,Kristiansand Airport,ENCN,KRS,Kjevik,NO,58.204201,8.085370,57
+ENDI,Geilo Airport Dagali,ENDI,DLD,Dagali,NO,60.417301,8.518350,2618
+ENDO,Dokka Thomlevold Airport,ENDO,,Dokka,NO,60.833302,9.916670,512
+ENDU,Bardufoss Airport,ENDU,BDU,Målselv,NO,69.055801,18.540400,252
+ENEG,Eggemoen Airport,ENEG,,Hønefoss,NO,60.217300,10.323900,656
+ENEK,Ekofisk Oil Platform Heliport,ENEK,,Ekofisk Oil Platform,NO,56.550000,3.250000,50
+ENEV,"Harstad/Narvik Airport, Evenes",ENEV,EVE,Evenes,NO,68.491302,16.678101,84
+ENFA,Flatval Airport,ENFA,,Frøya,NO,63.700600,8.760570,152
+ENFG,Leirin,ENFG,VDB,Fagernes,NO,61.015556,9.288056,2697
+ENFL,Florø Airport,ENFL,FRO,Florø,NO,61.583599,5.024720,37
+ENFY,Fyresdal Airfield,ENFY,,Fyresdal,NO,59.200001,8.086670,986
+ENGM,Oslo Gardermoen Airport,ENGM,OSL,Oslo,NO,60.193901,11.100400,681
+ENGN,Folldal Grimsmoe Airport,ENGN,,Folldal,NO,62.117500,10.110800,2260
+ENGS,"Snåsa Airfield, Grønøra",ENGS,,Snåsa,NO,64.183586,12.171478,89
+ENHA,Stafsberg Airport,ENHA,HMR,Hamar,NO,60.818100,11.068000,713
+ENHD,Haugesund Airport,ENHD,HAU,Karmøy,NO,59.345299,5.208360,86
+ENHF,Hammerfest Airport,ENHF,HFT,Hammerfest,NO,70.679703,23.668600,266
+ENHK,Hasvik Airport,ENHK,HAA,Hasvik,NO,70.486702,22.139700,21
+ENHT,Hattfjelldal Airport,ENHT,,Hattfjelldal,NO,65.594704,13.989200,689
+ENHV,Valan Airport,ENHV,HVG,Honningsvåg,NO,71.009697,25.983601,44
+ENI,El Nido,,ENI,El Nido,PH,11.202500,119.416111,12
+ENJB,Jarlsberg Airfield,ENJB,,Tønsberg,NO,59.299999,10.366700,92
+ENKB,"Kristiansund Airport, Kvernberget",ENKB,KSU,Kvernberget,NO,63.111801,7.824520,204
+ENKJ,Kjeller Airport,ENKJ,,Kjeller,NO,59.969299,11.036100,354
+ENKL,Gol Airport,ENKL,GLL,Klanten,NO,60.791401,9.050560,2720
+ENKR,"Kirkenes Airport, Høybuktmoen",ENKR,KKN,Kirkenes,NO,69.725800,29.891300,283
+ENLI,Lista Airport,ENLI,FAN,Farsund,NO,58.099499,6.626050,29
+ENLK,Leknes Airport,ENLK,LKN,Leknes,NO,68.152496,13.609400,78
+ENLU,Lunde Nome Airfield,ENLU,,Lunde Nome,NO,59.298100,9.132730,190
+ENMH,Mehamn Airport,ENMH,MEH,Mehamn,NO,71.029701,27.826700,39
+ENML,Molde Airport,ENML,MOL,Årø,NO,62.744701,7.262500,10
+ENMS,Mosjøen Airport (Kjærstad),ENMS,MJF,Mosjoen,NO,65.783997,13.214900,237
+ENNA,Banak Airport,ENNA,LKL,Lakselv,NO,70.068802,24.973499,25
+ENNK,Narvik Framnes Airport,ENNK,NVK,Narvik,NO,68.436897,17.386700,95
+ENNM,Namsos Høknesøra Airport,ENNM,OSY,Namsos,NO,64.472198,11.578600,7
+ENOL,Ørland Airport,ENOL,OLA,Ørland,NO,63.698898,9.604000,28
+ENOV,"Ørsta-Volda Airport, Hovden",ENOV,HOV,Ørsta,NO,62.180000,6.074100,243
+ENRA,"Mo i Rana Airport, Røssvoll",ENRA,MQN,Mo i Rana,NO,66.363899,14.301400,229
+ENRG,Rognan Airport,ENRG,,Saltdal,NO,67.098297,15.411100,20
+ENRI,"Ringebu Airfield, Frya",ENRI,,Frya,NO,61.545441,10.061588,571
+ENRM,"Rørvik Airport, Ryum",ENRM,RVK,Rørvik,NO,64.838303,11.146100,14
+ENRO,Røros Airport,ENRO,RRS,Røros,NO,62.578400,11.342300,2054
+ENRS,Røst Airport,ENRS,RET,Røst,NO,67.527778,12.103333,10
+ENRV,Reinsvoll Airport,ENRV,,Reinsvoll,NO,60.672199,10.567500,1381
+ENRY,"Moss Airport, Rygge",ENRY,RYG,Rygge,NO,59.378899,10.785600,174
+ENSA,Svea Airport,ENSA,,Svea,NO,77.900002,16.683300,29
+ENSB,"Svalbard Airport, Longyear",ENSB,LYR,Longyearbyen,NO,78.246101,15.465600,88
+ENSD,"Sandane Airport, Anda",ENSD,SDN,Sandane,NO,61.830002,6.105830,196
+ENSG,Sogndal Airport,ENSG,SOG,"Sogndal, Sogn og Fjordane",NO,61.156111,7.136614,1633
+ENSH,Svolvær Helle Airport,ENSH,SVJ,Svolvær,NO,68.243301,14.669200,27
+ENSI,Ski Airfield,ENSI,,Ski,NO,59.706390,10.881945,350
+ENSK,Stokmarknes Skagen Airport,ENSK,SKN,Hadsel,NO,68.578827,15.033417,11
+ENSL,Sleipner A Platform Heliport,ENSL,,Sleipner A Platform,NO,58.366699,1.906940,50
+ENSN,Skien Airport,ENSN,SKE,Geiteryggen,NO,59.185001,9.566940,463
+ENSO,Stord Airport,ENSO,SRP,Leirvik,NO,59.791901,5.340850,160
+ENSR,Sørkjosen Airport,ENSR,SOJ,Sørkjosen,NO,69.786797,20.959400,16
+ENSS,"Vardø Airport, Svartnes",ENSS,VAW,Vardø,NO,70.355400,31.044901,42
+ENST,"Sandnessjøen Airport, Stokka",ENST,SSJ,Alstahaug,NO,65.956802,12.468900,56
+ENSU,Vinnu Airport,ENSU,,Sunndalsøra,NO,62.658298,8.665000,249
+ENTC,Tromsø Airport,ENTC,TOS,Tromsø,NO,69.683296,18.918900,31
+ENTO,"Sandefjord Airport, Torp",ENTO,TRF,Torp,NO,59.186699,10.258600,286
+ENTY,Tynset Airport,ENTY,,Tynset,NO,62.256901,10.669400,1581
+ENUL,Os Vaksinen Ulve Airport,ENUL,,Ulven,NO,60.192200,5.422500,180
+ENVA,"Trondheim Airport, Værnes",ENVA,TRD,Trondheim,NO,63.457802,10.924000,56
+ENVD,Vadsø Airport,ENVD,VDS,Vadsø,NO,70.065300,29.844700,127
+ENVH,Valhall A Platform Heliport,ENVH,,Valhall A Platform,NO,56.278099,3.392780,50
+ENVR,Værøy Heliport,ENVR,VRY,Værøy,NO,67.655403,12.727000,12
+ENVY,Værøy STOLport,ENVY,,Værøy,NO,67.689201,12.680000,36
+ENZV,"Stavanger Airport, Sola",ENZV,SVG,Stavanger,NO,58.876701,5.637780,29

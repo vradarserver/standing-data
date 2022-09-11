@@ -1,0 +1,88 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+SE01,Alba Elena Airport,SE01,,Rocafuerte,EC,-2.166670,-79.283302,150
+SE02,Guabital Airport,SE02,,Soledad,EC,-2.773390,-79.702499,45
+SE03,Las Penas Airport,SE03,,Isla Puna,EC,-2.947160,-80.100700,3
+SE04,La Fabril Heliport,SE04,,Manta,EC,-0.995833,-80.688614,40
+SE05,Posorja Heliport,SE05,,Posorja,EC,-2.731667,-80.245834,18
+SE06,Palobamba Heliport,SE06,,Lérida,EC,-2.190278,-80.024170,22
+SE07,Aviandina Heliport,SE07,,Machala,EC,-3.263056,-79.961670,13
+SE08,San Carlos Costa Airport,SE08,,Lorenzo de Garaicoa,EC,-2.054720,-79.433098,21
+SE09,San Rafael Airport,SE09,,San Rafael,EC,-2.181670,-79.236702,190
+SE10,Vinces Airport,SE10,,Vinces,EC,-1.596110,-79.726097,32
+SE11,Km 60 Airport,SE11,,Consumulo,EC,-0.536667,-79.368896,1640
+SE12,Canal Uno Heliport,SE12,,Guayaquil,EC,-2.165556,-79.896942,12
+SE13,Babahoyo North Airport,SE13,,Babahoyo,EC,-1.703353,-79.538048,29
+SE14,San Carlos Airport,SE14,,José Real,EC,-2.166552,-79.433701,126
+SE15,Quevedo North Airport,SE15,,Quevedo,EC,-0.999826,-79.415359,314
+SE16,Loja Airport,SE16,,Loja,EC,-3.881424,-79.234749,7684
+SE17,Pepsicola Heliport,SE17,,Guayaquil,EC,-2.119167,-79.935280,15
+SE22,Celia Maria Airport,SE22,,Pasaje,EC,-3.279330,-79.800903,110
+SE58,Banasur Airport,SE58,,Buenavista,EC,-3.340940,-79.863800,30
+SE59,La Mina Airport,SE59,,El Guabo,EC,-3.202920,-79.798203,13
+SE60,La Puntilla Airport,SE60,,La Puntilla,EC,-2.442850,-79.398903,45
+SEAM,Chachoán Airport,SEAM,ATF,Ambato,EC,-1.212070,-78.574600,8502
+SEAP,Arapicos Airport,SEAP,,Sangay,EC,-1.857620,-77.941399,2920
+SEAR,Arajuno Airport,SEAR,,Arajuno,EC,-1.235730,-77.685402,1700
+SEAS,Ascazubi Airport,SEAS,,Ascazubi,EC,-0.083333,-78.283333,9517
+SEAY,Ayangue Airport,SEAY,,San Pedro,EC,-1.977778,-80.739441,18
+SEBF,Buena Fe Airport,SEBF,,Buena Fe,EC,-0.898138,-79.485542,320
+SECH,Chone Airport,SECH,,Chone,EC,-0.695101,-80.088600,51
+SECM,Hacienda Clementina Airport,SECM,,Pozuelos,EC,-1.706270,-79.378899,328
+SECO,Francisco De Orellana Airport,SECO,OCC,Coca,EC,-0.462886,-76.986801,834
+SECQ,Coaque Airport,SECQ,,Coaque,EC,0.000001,-80.099998,131
+SECR,Curaray Airport,SECR,,Curacay,EC,-1.378030,-76.939201,832
+SECU,Mariscal Lamar Airport,SECU,CUE,Cuenca,EC,-2.889470,-78.984398,8306
+SEGE,Guale Airport,SEGE,,Guale,EC,-1.616670,-80.233299,222
+SEGS,Seymour Airport,SEGS,GPS,Baltra,EC,-0.453758,-90.265900,207
+SEGU,Simon Bolivar International Airport,SEGU,GYE,Guayaquil,EC,-2.157420,-79.883598,19
+SEGZ,Gualaquiza Airport,SEGZ,,Santiago,EC,-3.423210,-78.567001,2640
+SEHI,Cotachachi Airport,SEHI,,Cotacachi,EC,-0.302940,-78.268303,7824
+SEIB,Atahualpa Airport,SEIB,,Ibarra,EC,0.338419,-78.136398,7304
+SEII,General Villamil Airport,SEII,IBB,Isabela,EC,-0.942628,-90.953003,35
+SEIS,Isabel Maria Airport,SEIS,,América,EC,-1.866670,-79.733299,20
+SEJI,Jipijapa Airport,SEJI,JIP,Jipijapa,EC,-1.000000,-80.666664,223
+SEJM,Jama Airport,SEJM,,Jama,EC,-0.201497,-80.265404,37
+SEKK,Km 192 Airport,SEKK,,Lagartera,EC,0.184203,-79.391998,1247
+SELI,Limoncocha Airport,SELI,,Limoncocha,EC,-0.406363,-76.623802,820
+SELJ,Hacienda La Julia Airport,SELJ,,Julia,EC,-1.704380,-79.552299,50
+SELM,Loma Larga Airport,SELM,,Loma Larga,EC,-1.501580,-79.480904,210
+SELT,Cotopaxi International Airport,SELT,LTX,Latacunga,EC,-0.906833,-78.615799,9205
+SEMA,Jose Maria Velasco Ibarra Airport,SEMA,MRR,Macará,EC,-4.378230,-79.941002,1508
+SEMC,Coronel E Carvajal Airport,SEMC,XMS,Macas,EC,-2.299170,-78.120796,3452
+SEMH,General Manuel Serrano Airport,SEMH,MCH,Machala,EC,-3.268900,-79.961601,11
+SEMO,El Carmen Airport,SEMO,,Montalvo,EC,-2.067010,-76.975700,960
+SEMT,Eloy Alfaro International Airport,SEMT,MEC,Manta,EC,-0.946078,-80.678802,48
+SEMX,Maragrosa Airport,SEMX,,Puerto Balao,EC,-2.851100,-79.803596,18
+SEMY,Martinica Airport,SEMY,,Martinica,EC,-1.739720,-79.621498,90
+SENL,Nueva Loja Airport,SENL,LGQ,Lago Agrio,EC,0.093056,-76.867500,980
+SEPB,Pedro Carbo Airport,SEPB,,Pecro Carbo,EC,-1.811593,-80.232460,321
+SEPC,Patuca Airport,SEPC,,Patuca,EC,-2.751720,-78.263603,1781
+SEPD,Pedernales Airport,SEPD,,Pedernales,EC,0.067619,-80.050499,60
+SEPO,Posorja Airport,SEPO,,Posorja,EC,-2.682030,-80.275597,30
+SEPS,Amable Calle Gutierrez Airport,SEPS,,Pasaje,EC,-3.319670,-79.769203,22
+SEPT,Putumayo Airport,SEPT,PYO,Puerto Putumayo,EC,0.083333,-75.900002,733
+SEPU,Puna Airport,SEPU,,Puna,EC,-2.733680,-79.915298,3
+SEPV,Reales Tamarindos Airport,SEPV,PVO,Portoviejo,EC,-1.041650,-80.472198,130
+SEPX,Payo Airport,SEPX,,Hacienda Payo,EC,-2.310000,-79.459999,101
+SEPZ,Los Perez Airport,SEPZ,,Los Perez,EC,-0.953722,-79.375198,75
+SEQE,Quevedo Airport,SEQE,,Quevedo,EC,-0.989400,-79.465103,350
+SEQM,Nuevo Aeropuerto Internacional Mariscal Sucre,SEQM,UIO,Quito,EC,-0.129167,-78.357500,9200
+SEQU,Mariscal Sucre International Airport,SEQU,,Quito,EC,-0.141144,-78.488197,9228
+SERB,Chimborazo Airport,SERB,,Riobamba,EC,-1.653430,-78.656097,9151
+SERO,Coronel Artilleria Victor Larrea Airport,SERO,ETR,Santa Rosa,EC,-3.435160,-79.977798,170
+SESA,General Ulpiano Paez Airport,SESA,SNC,Salinas,EC,-2.204990,-80.988899,18
+SESC,Sucua Airport,SESC,SUQ,Sucua,EC,-2.483000,-78.167000,3116
+SESD,Santo Domingo de Los Colorados Airport,SESD,,Santo Domingo de Los Colorades,EC,-0.248222,-79.214401,1714
+SESM,Rio Amazonas Airport,SESM,PTZ,Shell Mera,EC,-1.505240,-78.062698,3465
+SEST,San Cristóbal Airport,SEST,SCY,San Cristóbal,EC,-0.910206,-89.617401,62
+SESV,Los Perales Airport,SESV,BHA,Bahía de Caraquez,EC,-0.608111,-80.402702,10
+SETA,Taura Airport,SETA,,Taura,EC,-2.261040,-79.680199,56
+SETE,Mayor Galo Torres Airport,SETE,,Tena,EC,-0.986767,-77.819504,1708
+SETG,Tenguel Airport,SETG,,Boca de Tenguel,EC,-2.998600,-79.794701,33
+SETH,Taisha Airport,SETH,TSC,Taisha,EC,-2.381670,-77.502800,1669
+SETI,Tiputini Airport,SETI,TPN,Tiputini,EC,-0.776111,-75.526398,997
+SETM,Camilo Ponce Enriquez Airport,SETM,LOH,La Toma (Catamayo),EC,-3.995890,-79.371902,4056
+SETN,General Rivadeneira Airport,SETN,ESM,Tachina,EC,0.978519,-79.626602,32
+SETR,Tarapoa Airport,SETR,TPC,Tarapoa,EC,-0.122956,-76.337799,814
+SETU,Teniente Coronel Luis a Mantilla Airport,SETU,TUA,Tulcán,EC,0.809506,-77.708099,9649
+SEVR,El Vergel Airport,SEVR,,El Vergel,EC,-1.750000,-78.616669,9002

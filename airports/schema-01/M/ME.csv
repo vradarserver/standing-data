@@ -1,0 +1,74 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+ME00,Fort Fairfield Airport,ME00,,Fort Fairfield,US,46.765706,-67.847392,471
+ME01,Crescent Lake Seaplane Base,ME01,,East Raymond,US,43.957001,-70.462601,278
+ME02,Eastern Maine Medical Center Heliport,ME02,,Bangor,US,44.806999,-68.752296,60
+ME03,Webber Jones Airport,ME03,,Brownville,US,45.336201,-69.050903,400
+ME04,Ilco Landing Area Seaplane Base,ME04,,Clayton Lake,US,46.609501,-69.530602,1031
+ME05,Allen St Peter Memorial Airport,ME05,,Portage,US,46.750000,-68.471199,800
+ME06,Flying Ed Airport,ME06,,Charlotte,US,45.027901,-67.309402,440
+ME07,Acadian Seaplane Base,ME07,,Bar Harbor,US,44.398050,-68.219583,0
+ME08,Gadabout Gaddis Airport,ME08,,Bingham,US,45.040298,-69.868896,342
+ME09,Panther Pond Seaplane Base,ME09,,Raymond,US,43.930099,-70.453102,277
+ME11,Cooper Seaplane Base,ME11,,Hartford,US,44.342300,-70.287804,373
+ME12,Brettuns Pond Seaplane Base,ME12,,Livermore,US,44.387798,-70.254501,400
+ME14,Bald Mountain Airport,ME14,,Camden,US,44.230598,-69.123100,570
+ME16,Loring International Airport,ME16,,Limestone,US,46.950401,-67.885902,746
+ME17,Thomas Airport,ME17,,Roxbury,US,44.660198,-70.587997,670
+ME18,Chesuncook Forestry District Heliport,ME18,,Chesuncook,US,45.883400,-69.232803,960
+ME19,Clayton Lake Strip,ME19,,Clayton Lake,US,46.616100,-69.522301,1150
+ME20,Bob-Mar Airport,ME20,,Fairfield,US,44.599201,-69.623901,310
+ME22,Avery Field,ME22,,Rockwood,US,45.671200,-69.806801,1070
+ME24,Ben Hur Heliport,ME24,,Appleton,US,44.283298,-69.239197,240
+ME25,Sunrise Farms Airport,ME25,,Fort Kent,US,47.166100,-68.391998,640
+ME26,Super Cub Field,ME26,,Westbrook,US,43.668098,-70.363098,85
+ME27,Double A Seaplane Base,ME27,,Glenburn,US,44.900902,-68.802299,115
+ME28,Forest Lake Seaplane Base,ME28,,Cumberland,US,43.823700,-70.330101,274
+ME30,Greenville Forestry Seaplane Base,ME30,,Greenville,US,45.466801,-69.599503,1028
+ME32,Morrel Field,ME32,,Sangerville,US,45.090302,-69.258698,500
+ME33,Farr Field,ME33,,Harpswell,US,43.778702,-70.013100,70
+ME34,Robinson Ridge Field,ME34,,Jefferson,US,44.173698,-69.428703,250
+ME35,Terra B & B Airport,ME35,,Levant,US,44.931499,-69.007301,382
+ME36,Mount Vernon Airport,ME36,,Mount Vernon,US,44.509201,-69.952599,478
+ME38,Mars Hill Airport,ME38,,Mars Hill,US,46.527802,-67.874496,432
+ME39,Rocky Ridge Airport,ME39,,Greene,US,44.235401,-70.132599,480
+ME41,Witherspoons Airport,ME41,,North Haven,US,44.152599,-68.876404,80
+ME42,Mid Coast Hospital Heliport,ME42,,Brunswick,US,43.905102,-69.891197,29
+ME44,Cummings Airport,ME44,,Paris Hill,US,44.289001,-70.446198,960
+ME45,Goosefair Airport,ME45,,Kennebunkport,US,43.405602,-70.432297,40
+ME46,Back Acres Airport,ME46,,Kennebunkport,US,43.412300,-70.446701,60
+ME47,Payne Field,ME47,,Hartland,US,44.854500,-69.456398,350
+ME50,Cross Lake Seaplane Base,ME50,,Sinclair,US,47.133900,-68.334503,578
+ME51,Douglass Seaplane Base,ME51,,Standish,US,43.737000,-70.610603,270
+ME55,Vinalhaven Airport,ME55,,Vinalhaven,US,44.073700,-68.818901,72
+ME56,Kimberly Airport,ME56,,Waldoboro,US,44.069199,-69.305298,255
+ME57,Bauneg Beg Seaplane Base,ME57,,North Berwick,US,43.359001,-70.735298,305
+ME58,Milbridge Heliport,ME58,,Milbridge,US,44.539001,-67.884201,56
+ME59,Maine Helicopters Heliport,ME59,,North Whitefield,US,44.203098,-69.607498,150
+ME60,Sunny Hill Airport,ME60,,Belgrade,US,44.468399,-69.817802,390
+ME61,Salmon Falls Airport,ME61,,Berwick,US,43.294498,-70.899498,190
+ME62,Grignons Private Lndg Area Airport,ME62,,West Pittsfield,US,44.809799,-69.473099,390
+ME64,Skydive Lebanon Airport,ME64,,West Lebanon,US,43.375000,-70.929199,365
+ME65,Miara Heliport,ME65,,West Bath,US,43.858501,-69.884201,10
+ME66,Scottow Bog Flightpark Ultralightport,ME66,,Scarborough,US,43.612598,-70.357300,30
+ME67,Morrill Airpark,ME67,,Van Buren,US,47.127499,-67.965897,860
+ME68,Newport Sky Park Airport,ME68,,Newport,US,44.820099,-69.238403,300
+ME69,Cliffords Airport,ME69,,Sabattus,US,44.069000,-70.064499,280
+ME70,Greenfield Hill Airport,ME70,,Cambridge,US,45.037601,-69.479202,672
+ME72,Seboomook Forestry District Headquarters Heliport,ME72,,Pittston Farm,US,45.883400,-69.982803,1081
+ME74,Miller's Field,ME74,,Newburgh,US,44.749500,-68.981400,160
+ME75,Margerison Airport,ME75,,Lisbon Falls,US,43.953999,-70.141403,220
+ME76,Penobscot Bay Medical Center Heliport,ME76,,Rockland,US,44.142300,-69.082298,60
+ME79,Two Falls Airport,ME79,,Willimantic,US,45.305599,-69.346703,366
+ME80,Dry Pond Seaplane Base,ME80,,Gray,US,43.933899,-70.356400,309
+ME85,Riverside Seaplane Base,ME85,,Dover Foxcroft,US,45.183399,-69.235603,342
+ME86,Libby Camps Seaplane Base,ME86,,Ashland,US,46.308300,-68.843597,754
+ME87,Goodall Hospital Heliport,ME87,,Sanford,US,43.448700,-70.768898,375
+ME88,Morrison's Airport,ME88,,Perry,US,44.991699,-67.074402,200
+ME89,Buzzy's Field,ME89,,Acton,US,43.608398,-70.968102,650
+ME90,Little Ossipee Lake Seaplane Base,ME90,,Waterboro Center,US,43.613098,-70.696404,311
+ME91,Webster Field,ME91,,Gorham,US,43.675098,-70.495598,200
+ME92,Hilltop Airport,ME92,,Jay,US,44.516701,-70.222298,600
+ME94,Clark Field,ME94,,Union,US,44.216702,-69.291199,54
+ME95,Cmmc Air Ambulance Landing Site Heliport,ME95,,Lewiston,US,44.103100,-70.215302,241
+ME96,Clark Field,ME96,,Gorham,US,43.733601,-70.486397,250
+MECT,Catsa Airport,MECT,,Liberia,CR,10.516944,-85.565559,66

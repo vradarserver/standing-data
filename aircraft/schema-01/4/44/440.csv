@@ -1,0 +1,68 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+44001F,OE-ICN,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5319,2012
+440066,OE-DHU,P28A,Piper,PA-28-151 Cherokee Warrior,Piper PA-28-151 Cherokee Warrior,1,Private,,28-7415449,
+44013C,OE-ARB,E300,Extra,EA.300 L,Extra EA.300 L,0,The Flying Bulls,,1251,
+4401A7,OE-XLY,AS50,Aerospatiale,Squirrel AS.350 B2,Aerospatiale Squirrel AS.350 B2,0,LycoAir,,2506,1991
+4401D2,OE-IYY,F900,Dassault,Falcon 900DX,Dassault Falcon 900DX,0,Salzburg Jet Aviation,MOZ,603,2005
+4402F0,OE-INO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,05146,2012
+440378,OE-VDP,DA42,Diamond,DA 42 NG Twin Star,Diamond DA 42 NG Twin Star,1,Private,,42.N128,
+440382,OE-FMT,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Jet 24 GmbH,,50000348,2015
+4404A4,OE-ICL,A320,Airbus,A320-214,Airbus A320-214,0,EasyJet Europe,EJU,5318,2012
+4405AA,OE-HPG,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Sparfell Luftfahrt,LDX,20251,2008
+4405AC,OE-FJB,C501,Cessna,501 Citation I SP,Cessna 501 Citation I SP,0,LOFT Aviation GmbH,,501-0067,1987
+440614,OE-ISC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,easyJet Europe,EJU,9258,2019
+440645,OE-ASM,RV7,Vans,RV-7A,Vans RV-7A,1,Private,,73301,
+4406BC,OE-LDM,DC6,Douglas,DC-6 B,Douglas DC-6 B,0,The Flying Bulls,,45563,1958
+440841,OE-GDF,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Sparfell Luftfahrt,LDX,50500325,2015
+440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
+440B14,OE-HWJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Avcon Jet,AOJ,750-0259,
+440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
+440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
+440B6A,OE-FRJ,C525,Cessna,525 CitationJet CJ1+,Cessna 525 CitationJet CJ1+,0,Pink Sparrow,SOW,525-0673,2008
+440B87,OE-GLI,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Avcon Jet,AOJ,560-6134,
+440B90,OE-IXB,B738,Boeing,737-8AS(F),Boeing 737-8AS(F),0,ASL Airlines Belgium,TAY,33546,2003
+440B91,OE-IXC,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines Belgium,TAY,29940,2002
+440B93,OE-FLO,C25A,Cessna,525A Citation CJ2+,Cessna 525A Citation CJ2+,1,Private,,525A-0435,
+440B9C,OE-LAL,A332,Airbus,A330-243,Airbus A330-243,1,Private,,832,2007
+440BAC,OE-GWE,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Salzburg Jet Aviation,MOZ,560-5731,
+440BB1,OE-FNV,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,GlobeAir,GAC,510-0157,
+440BB6,OE-FAB,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,42.008,2021
+440BBE,OE-LNA,B752,Boeing,757-23APF,Boeing 757-23APF,0,DHL Air Austria,DHA,24971,1991
+440BC0,OE-LNC,B752,Boeing,757-200(F),Boeing 757-200(F),0,European Air Transport,BCS,26275,1995
+440BC1,OE-LND,B752,Boeing,757-23NPCF,Boeing 757-23NPCF,0,European Air Transport,BCS,27975,1997
+440BC2,OE-LNE,B752,Boeing,757-23N(PCF),Boeing 757-23N(PCF),0,DHL Air Austria,DHA,27976,1998
+440BC3,OE-LNF,B752,Boeing,757-236(PCF),Boeing 757-236(PCF),0,European Air Transport,BCS,29945,1999
+440BC4,OE-LNH,B752,Boeing,757-236(PCF),Boeing 757-236(PCF),0,DHL Air Austria,DHA,29946,1999
+440BC5,OE-LNI,B752,Boeing,757-28A(PCF),Boeing 757-28A(PCF),0,DHL Air Austria,DHA,32449,2001
+440BC6,OE-LNJ,B752,Boeing,757-256,Boeing 757-256,0,European Air Transport,BCS,29312,2000
+440BC7,OE-LNK,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,29426,1998
+440BC8,OE-LNL,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,29427,1998
+440BC9,OE-LNO,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,European Air Transport,BCS,29590,1999
+440BCA,OE-LNQ,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,European Air Transport,BCS,31308,2002
+440BCB,OE-LNR,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,32397,2002
+440BCC,OE-LNU,B752,Boeing,757-256,Boeing 757-256,0,European Air Transport,BCS,30052,2000
+440BCD,OE-LNW,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,29428,1998
+440BCE,OE-LNX,B752,Boeing,757-223PCF/W,Boeing 757-223PCF/W,0,European Air Transport,BCS,29589,1998
+440BCF,OE-LNZ,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,32398,2002
+440BDF,OE-HEC,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,IJM International Jet Management,IJM,20556,
+440BEE,OE-LDJ,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1098,2010
+440C13,OE-XVP,EC35,Eurocopter,EC135 T3H,Eurocopter EC135 T3H,0,Christophorus Flugrettungsverein (ÖAMTC),,2171,2022
+440C1B,OE-IXE,B738,Boeing,737-8AS,Boeing 737-8AS,0,ASL Airlines Belgium,TAY,38494,2009
+440C27,OE-EHA,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1744,2017
+440C31,OE-LKY,A319,Airbus,A319-111,Airbus A319-111,0,easyJet,EZY,04778,2011
+440C32,OE-LKV,A319,Airbus,A319-111,Airbus A319-111,0,easyJet Europe,EJU,4787,2011
+440C33,OE-LSK,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,09111,2019
+440C34,OE-LSI,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,9105,2019
+440C35,OE-LSA,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,8243,2018
+440C36,OE-LKX,A319,Airbus,A319-111,Airbus A319-111,0,easyJet Europe,EJU,4744,2011
+440C37,OE-LSL,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,9171,2019
+440C38,OE-LSJ,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,9110,2019
+440C42,OE-KIA,B36T,Beech,B36TC Bonanza,Beech B36TC Bonanza,1,Private,,E-2522,
+440C55,OE-LSE,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,International Jet Management,IJM,5508,2015
+440C5A,OE-LFD,B748,Boeing,747-87UF,Boeing 747-87UF,0,Air Belgium,ABB,37563,2013
+440C5C,M-ABOV,B748,Boeing,747-87UF,Boeing 747-87UF,0,Air Belgium,ABB,37562,2013
+440C5F,OE-LTD,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,MJet,MJF,6088,
+440C70,OE-LDP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Sparfell Luftfahrt,LDX,70089,
+440C83,OE-LSM,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10142,2022
+440C9B,OE-GTR,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Porsche Air Service,,560-6324,2022
+440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,

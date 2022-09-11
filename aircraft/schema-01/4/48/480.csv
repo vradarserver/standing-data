@@ -1,0 +1,10 @@
+﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+480442,D-481,H47,Boeing Vertol,CH-47 Chinook,Boeing Vertol CH-47 Chinook,0,Royal Netherlands Air Force,NAF,M7481,
+480444,D-483,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,Royal Netherlands Air Force,NAF,M.7483,
+480445,D-484,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,Royal Netherlands Air Force,NAF,M.7484,
+480849,D-472,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,Belgian Air Force,BAF,480849,
+480C41,T-055,A332,Airbus,KC-30M,Airbus KC-30M,0,NATO - Multinational MRTT Fleet,,1911,2018
+480C43,T-057,A332,Airbus,A330-243MRTT,Airbus A330-243MRTT,0,NATO,OAN,1945,2019
+480C44,T-058,A332,Airbus,A330-243 MRTT,Airbus A330-243 MRTT,0,NATO,OAN,1960,2020
+480C45,T-059,A332,Airbus,KC-30M,Airbus KC-30M,0,Royal Netherlands Air Force,NAF,1982,
+480C46,T-060,A332,Airbus,A330-243 MRTT,Airbus A330-243 MRTT,0,Multinational Multi-Role Tanker Transport Fleet,MMF,1989,2022

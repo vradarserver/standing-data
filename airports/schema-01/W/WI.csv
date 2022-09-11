@@ -1,0 +1,176 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+WI00,Norrie Brook Airport,WI00,,Eland,US,44.873901,-89.230698,1240
+WI01,Aurora Medical Center Kenosha Heliport,WI01,,Kenosha,US,42.570599,-87.936096,698
+WI02,Turtle Airport,WI02,,Beloit,US,42.507000,-88.914803,911
+WI03,Horner Farms Airport,WI03,,Union Grove,US,42.798100,-88.133400,770
+WI04,Lake Menomin Seaplane Base,WI04,,Menomonie,US,44.891602,-91.916901,800
+WI05,Stocktrade Airport,WI05,,Elk Mound,US,44.808300,-91.684402,882
+WI06,Aurora Medical Center Heliport,WI06,,Two Rivers,US,44.127201,-87.615601,596
+WI07,Waupun Airport,WI07,,Waupun,US,43.622200,-88.766800,940
+WI08,St. Mary's Hospital Ozaukee Heliport,WI08,,Mequon,US,43.256500,-87.925697,667
+WI09,Heitman Field Airport,WI09,,Dousman,US,42.977200,-88.475800,880
+WI10,Cedar Island Airport,WI10,,Brule,US,46.449902,-91.616898,1229
+WI11,Mumm Field,WI11,,Orfordville,US,42.591400,-89.240700,945
+WI12,Lilac Time Airport,WI12,,Birchwood,US,45.706600,-91.624901,1300
+WI13,Jennie'S Field,WI13,,Wisconsin Rapids,US,44.254833,-89.839500,993
+WI14,Baldwin Airport,WI14,,Baldwin,US,44.966599,-92.387703,1104
+WI15,Bloomer Memorial Medical Center Heliport,WI15,,Bloomer,US,45.102501,-91.501404,1055
+WI16,Jim Benson Field,WI16,,Mineral Point,US,42.853100,-90.129700,1100
+WI18,Gateway Airport,WI18,,Bloomer,US,45.133301,-91.450203,1021
+WI19,Cacic Airport,WI19,,Montello,US,43.799999,-89.433502,805
+WI1A,Nusawiru Airport,WI1A,,Pangandaran-Java Island,ID,-7.720390,108.489998,16
+WI1B,Batujajar Airport,WI1B,,Bandung-Java Island,ID,-6.903860,107.475998,2500
+WI1C,Rumpin Airport,WI1C,,Rumpin-Java Island,ID,-6.373220,106.622002,223
+WI1G,Gading Wonosari Airport,WI1G,,Wonosari-Java Island,ID,-7.916590,110.564003,702
+WI1S,Simpangtiga Redelong Airport,WI1S,,Tingkeum-Sumatra Island,ID,4.720880,96.851196,4636
+WI20,Larson Studio Airport,WI20,,Oconto Falls,US,44.882999,-88.092003,700
+WI21,Crane Field,WI21,,Cadott,US,44.909698,-91.241798,936
+WI22,Rocket City Airport,WI22,,Hortonville,US,44.323101,-88.600800,905
+WI23,Cornucopia Field,WI23,,Cornucopia,US,46.866600,-91.083504,760
+WI24,Cardinal Ridge Airport,WI24,,Mt Horeb,US,42.881100,-89.752197,1080
+WI25,Durand Municipal Airport,WI25,,Durand,US,44.538898,-92.014099,780
+WI26,Mertinkes Airport,WI26,,Eau Claire,US,44.705002,-91.465401,920
+WI27,Skyport Airport,WI27,,Menomonie,US,44.920200,-91.974899,878
+WI28,Walter's Agri-Center Airport,WI28,,Rio Creek,US,44.586102,-87.557602,717
+WI29,Rush River Airport,WI29,,Baldwin,US,44.905499,-92.483498,1078
+WI30,St Clare Hospital Heliport,WI30,,Baraboo,US,43.481400,-89.729599,965
+WI31,Minnesuing Airport,WI31,,Lake Nebagamon,US,46.414398,-91.651001,1207
+WI32,T-Bo Field Airport,WI32,,Chippewa Falls,US,44.987301,-91.330399,940
+WI33,Ben Sutherland Airport,WI33,,Minong,US,46.103600,-91.902397,1056
+WI34,Barron Hospital Heliport,WI34,,Barron,US,45.396900,-91.839897,1110
+WI35,Ceder Lake Seaplane Base,WI35,,New Richmond,US,45.215801,-92.572701,917
+WI36,Dolhun Field,WI36,,Lake Tomahawk,US,45.826599,-89.620102,1625
+WI37,Rainbow Airport,WI37,,Ojibwa,US,45.808300,-91.096298,1321
+WI38,Beloit Memorial Hospital Heliport,WI38,,Beloit,US,42.548302,-89.007599,810
+WI39,Clintonville Community Hospital Heliport,WI39,,Clintonville,US,44.624401,-88.757896,822
+WI40,Spiegel Field,WI40,,Oregon,US,42.913300,-89.352303,960
+WI41,Columbus Community Hospital Heliport,WI41,,Columbus,US,43.322498,-89.034203,860
+WI42,Pine Grove Airport,WI42,,Rhinelander,US,45.657200,-89.529900,1630
+WI43,Atkins Ridge Airport,WI43,,Daleyville,US,42.948898,-89.825302,1090
+WI44,Memorial Hospital Heliport,WI44,,Dodgeville,US,42.952202,-90.129601,1213
+WI45,Langlade Memorial Hospital Heliport,WI45,,Antigo,US,45.141499,-89.139297,1500
+WI46,Fun-Air Airport,WI46,,Van Dyne,US,43.882801,-88.539902,805
+WI47,Timberline Airport,WI47,,Scandinavia,US,44.433300,-89.150101,890
+WI48,Edinger Field,WI48,,Eureka,US,44.004700,-88.870903,770
+WI49,Blair Airport,WI49,,Blair,US,44.286098,-91.226501,864
+WI50,Albany Airport,WI50,,Albany,US,42.718102,-89.423698,815
+WI51,Del Monte Airport,WI51,,Arlington,US,43.321400,-89.320999,1064
+WI52,Schewe Airport,WI52,,Clintonville,US,44.617802,-88.666801,810
+WI53,Desmet Airport,WI53,,Barneveld,US,42.945301,-89.899002,1050
+WI54,Corinth Airport,WI54,,Athens,US,44.999401,-90.149597,1425
+WI55,Broken Prop Airport,WI55,,Berlin,US,43.986099,-88.983498,767
+WI56,C Jeidy Farms Airport,WI56,,Bloomington,US,42.881699,-90.860703,1010
+WI57,Chippewa Valley Hospital Heliport,WI57,,Durand,US,44.621101,-91.962700,852
+WI58,Winfield Airport,WI58,,Bristol,US,42.522202,-88.027901,770
+WI59,Burnett General Hospital Heliport,WI59,,Grantsburg,US,45.774399,-92.686600,950
+WI60,Deer Haven Ranch Airport,WI60,,Cecil,US,44.832802,-88.463203,811
+WI61,Ashenfelter Aerodrome,WI61,,Grafton,US,43.348900,-87.994301,860
+WI62,Sss Aerodrome,WI62,,Cedarburg,US,43.269501,-87.998100,800
+WI63,St Joseph's Memorial Hospital Heliport,WI63,,Hillsboro,US,43.648602,-90.345703,960
+WI64,Iola Emergency Heliport,WI64,,Iola,US,44.506901,-89.136200,995
+WI65,Dane Airport,WI65,,Dane,US,43.222198,-89.468201,1035
+WI66,Smilin' Sam's Airport,WI66,,Delavan,US,42.587200,-88.658203,980
+WI67,Bennet Field,WI67,,Ripon,US,43.876598,-88.900703,935
+WI68,Brinsmere Heliport,WI68,,Juneau,US,43.395500,-88.640900,890
+WI69,Air Troy Estates - Restricted Airport,WI69,,East Troy,US,42.799999,-88.333397,820
+WI70,Swan Airport,WI70,,Elkhorn,US,42.707001,-88.637604,930
+WI71,Weedhopper Meadow Airport,WI71,,Elkhorn,US,42.687500,-88.601997,1030
+WI72,Martin Fierro Airport,WI72,,Ellenboro,US,42.799999,-90.571800,1000
+WI73,Happy Jacks Air Strip,WI73,,Eureka,US,44.000000,-88.833397,800
+WI74,Pfaffenroth Private Airport,WI74,,Fisk,US,43.924999,-88.667603,872
+WI75,Bogus Creek Airport,WI75,,Stockholm,US,44.498901,-92.203102,950
+WI76,J Rock Airport,WI76,,Fort Atkinson,US,42.948601,-88.775902,836
+WI77,Willow Creek Airport,WI77,,Germantown,US,43.207001,-88.160400,860
+WI78,Martins Aerodrome,WI78,,Green Bay,US,44.425800,-87.934998,808
+WI79,Town Line Airport,WI79,,Greenwood,US,44.852699,-90.556503,1270
+WI80,Kaukauna Community Hospital Heliport,WI80,,Kaukauna,US,44.269199,-88.269798,705
+WI81,Rigdon Private Airport,WI81,,Hazel Green,US,42.524200,-90.591003,880
+WI82,Kenosha Hospital and Medical Center Heliport,WI82,,Kenosha,US,42.578602,-87.819504,610
+WI83,St Mary's Kewaunee Area Memorial Hospital Heliport,WI83,,Kewaunee,US,44.450001,-87.510902,700
+WI84,Johnstown Center Airport,WI84,,Janesville,US,42.688900,-88.840401,925
+WI85,Omniflight Helicopters Heliport,WI85,,Janesville,US,42.619999,-89.027901,808
+WI86,Flaglor Airport,WI86,,Kansasville,US,42.660900,-88.135902,800
+WI87,Pine River Airport,WI87,,Merrill,US,45.203300,-89.524399,1370
+WI88,Mount Fuji Airport,WI88,,Lake Geneva,US,42.625000,-88.450104,1000
+WI89,Lake Geneva Aire Estates Airport,WI89,,Lake Geneva,US,42.572201,-88.367302,880
+WI90,Speedwing Field,WI90,,Babcock,US,44.296101,-90.043701,970
+WI91,Larson Airport,WI91,,Larsen,US,44.202801,-88.639603,800
+WI92,Wag-Aero Airport,WI92,,Lyons,US,42.661098,-88.361198,905
+WI93,Meriter/Park Heliport,WI93,,Madison,US,43.065601,-89.401802,891
+WI94,Army Guard Heliport,WI94,,Madison,US,43.126701,-89.341003,862
+WI95,Chilcott Farms Airport,WI95,,Paddock Lake,US,42.577801,-88.015404,700
+WI96,Holy Family Memorial Medical Center Heliport,WI96,,Manitowoc,US,44.094898,-87.675102,615
+WI97,Mathaire Field,WI97,,Marshall,US,43.257801,-89.064796,960
+WI98,Blackburn Airport,WI98,,Cooksville,US,42.858299,-89.197304,888
+WI99,Meier Airport,WI99,,Milton,US,42.813599,-88.997101,880
+WIAG,Menggala Airport,WIAG,,Menggala-Sumatra Island,ID,-4.489440,105.217003,98
+WIAK,Margahayu Airport,WIAK,,Bandung-Java Island,ID,-6.982780,107.572998,2184
+WIAP,Banyumas Airport,WIAP,,Banyumas-Java Island,ID,-6.464850,105.969002,92
+WIBB,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,WIBB,PKU,Pekanbaru-Sumatra Island,ID,0.460786,101.445000,102
+WIBD,Pinang Kampai Airport,WIBD,DUM,Dumai-Sumatra Island,ID,1.609190,101.433998,55
+WIBR,Rokot Airport,WIBR,RKO,Sipora Island,ID,-2.099120,99.700699,1
+WIBS,Sungai Pakning Bengkalis Airport,WIBS,SEQ,Bengkalis-Sumatra Island,ID,1.370000,102.139999,3
+WIBT,Tanjung Balai Airport,WIBT,TJB,Karinmunbesar Island,ID,1.050000,103.383003,3
+WICA,Kertajati International Airport,WICA,KJT,Majalengka Regency,ID,-6.669167,108.191111,123
+WICB,Budiarto Airport,WICB,,Tangerang-Java Island,ID,-6.293170,106.570000,151
+WICC,Husein Sastranegara International Airport,WICC,BDO,Bandung-Java Island,ID,-6.900630,107.575996,2436
+WICD,Penggung Airport,WICD,CBN,Cirebon-Java Island,ID,-6.756140,108.540001,89
+WICM,Cibeureum Airport,WICM,TSY,Tasikmalaya-Java Island,ID,-7.346600,108.246002,1148
+WIDD,Hang Nadim Airport,WIDD,BTH,Batam Island,ID,1.121030,104.119003,126
+WIDE,Pasir Pangaraan Airport,WIDE,PPR,Pasir Pengarayan-Sumatra Island,ID,0.845431,100.370003,151
+WIDL,Letung Airport,WIDL,LMU,Bukit Padi,ID,2.964167,105.754444,33
+WIDN,Kijang Airport,WIDN,TNJ,Tanjung Pinang-Bintan Island,ID,0.922683,104.531998,52
+WIDO,Ranai Airport,WIDO,NTX,Ranai-Natuna Besar Island,ID,3.908710,108.388000,7
+WIDS,Dabo Airport,WIDS,SIQ,Pasirkuning-Singkep Island,ID,-0.479189,104.579002,95
+WIGG,Fatmawati Soekarno Airport,WIGG,BKS,Bengkulu-Sumatra Island,ID,-3.863700,102.338997,50
+WIHH,Halim Perdanakusuma International Airport,WIHH,HLP,Jakarta,ID,-6.266610,106.890999,84
+WIHL,Tunggul Wulung Airport,WIHL,CXP,Cilacap-Java Island,ID,-7.645060,109.033997,69
+WIHP,Pondok Cabe Air Base,WIHP,PCB,Jakarta,ID,-6.336960,106.764999,200
+WIII,Soekarno-Hatta International Airport,WIII,CGK,Jakarta,ID,-6.125570,106.655998,34
+WIIK,Kalijati Airport,WIIK,,Kalijati-Java Island,ID,-6.531390,107.658997,361
+WIIR,Pelabuhan Ratu Airport,WIIR,,Pelabuhan Ratu-Java Island,ID,-6.976667,106.532776,65
+WIKL,Silampari Airport,WIKL,,Lubuk Linggau-Sumatra Island,ID,-3.277750,102.901001,371
+WIKT,H.A.S. Hanandjoeddin International Airport,WIKT,TJQ,Tanjung Pandan-Belitung Island,ID,-2.745720,107.754997,164
+WILL,Radin Inten II International Airport,WILL,TKG,Bandar Lampung-Sumatra Island,ID,-5.240556,105.175556,282
+WIMA,Labuhan Bilik Airport,WIMA,,Labuhan Bilik-Sumatra Island,ID,2.512900,100.179001,18
+WIMB,Binaka Airport,WIMB,GNS,Gunung Sitoli-Nias Island,ID,1.166380,97.704697,20
+WIME,Aek Godang Airport,WIME,AEG,Padang Sidempuan-Sumatra Island,ID,1.400100,99.430496,922
+WIMG,Tabing Airport,WIMG,PDG,Padang-Sumatra Island,ID,-0.874989,100.351997,9
+WIMH,Helvetia Airport,WIMH,,Helvetia-Sumatra Island,ID,3.683060,98.644203,49
+WIMK,Polonia International Airport,WIMK,MES,Medan-Sumatra Island,ID,3.558060,98.671700,114
+WIML,Kisaran Airport,WIML,,Kisaran-Sumatra Island,ID,2.973790,99.600998,96
+WIMM,Kuala Namu International Airport,WIMM,KNO,Kuala Namu,ID,3.637833,98.870500,0
+WIMN,Silangit Airport,WIMN,DTB,Tingkeum-Sumatra Island,ID,2.259730,98.991898,4059
+WIMP,Parapat Airport,WIMP,,Parapat-Sumatra Island,ID,2.666667,98.933334,3081
+WIMR,Pematang Siantar,WIMR,,Pematang Siantar-Sumatra Island,ID,2.950000,99.050003,1361
+WIMS,Dr Ferdinand Lumban Tobing Airport,WIMS,FLZ,Sibolga-Sumatra Island,ID,1.555940,98.888901,43
+WIMT,Tebing Tinggi Airport,WIMT,,Tabbing Tinggi-Sumatra Island,ID,3.366667,99.116669,69
+WIOB,Bengkayang Airport,WIOB,,Bengkayang-Borneo Island,ID,0.833333,109.483330,294
+WIOG,Nanga Pinoh I Airport,WIOG,NPO,Nanga Pinoh-Borneo Island,ID,-0.348869,111.748001,123
+WIOI,Singkawang Airport,WIOI,,Sinkawang-Borneo Island,ID,1.075680,109.688004,276
+WIOK,Ketapang(Rahadi Usman) Airport,WIOK,KTG,Ketapang-Borneo Island,ID,-1.816640,109.962997,46
+WIOM,Tarempa Airport,WIOM,MWK,Matak Island,ID,3.348120,106.258003,10
+WIOO,Supadio Airport,WIOO,PNK,Pontianak-Borneo Island,ID,-0.150711,109.403999,10
+WIOP,Pangsuma Airport,WIOP,PSU,Putussibau-Borneo Island,ID,0.835578,112.936996,297
+WIOS,Sintang(Susilo) Airport,WIOS,SQG,Sintang-Borneo Island,ID,0.063619,111.473000,98
+WIPA,Sultan Thaha Airport,WIPA,DJB,Jambi-Sumatra Island,ID,-1.638020,103.643997,82
+WIPD,Banding Agung Airport,WIPD,,Pasar Bandingagung-Sumatra Island,ID,-4.787020,103.932999,2100
+WIPF,Kuala Tungkal Airport,WIPF,,Kuala Tungkal-Sumatra Island,ID,-0.816667,103.466667,12
+WIPI,Muara Bungo Airport,WIPI,BUU,Muara Bungo,ID,-1.127800,102.135002,195
+WIPK,Pangkal Pinang (Depati Amir) Airport,WIPK,PGK,Pangkal Pinang-Palaubangka Island,ID,-2.162200,106.139000,109
+WIPO,Gatot Subrato Airport,WIPO,,Batu Raja-Sumatra Island,ID,-4.391770,104.401001,450
+WIPP,Sultan Mahmud Badaruddin Ii Airport,WIPP,PLM,Palembang-Sumatra Island,ID,-2.898250,104.699997,49
+WIPQ,Pendopo Airport,WIPQ,PDO,Talang Gudang-Sumatra Island,ID,-3.286070,103.879997,184
+WIPR,Japura Airport,WIPR,RGT,Rengat-Sumatra Island,ID,-0.352808,102.334999,62
+WIPU,Muko Muko Airport,WIPU,MPC,Muko Muko-Sumatra Island,ID,-2.541860,101.087997,24
+WIPV,Keluang Airport,WIPV,KLQ,Keluang-Sumatra Island,ID,-2.623530,103.955002,76
+WIPY,Bentayan Airport,WIPY,,Bentayan-Sumatra Island,ID,-2.434430,104.092003,40
+WITA,Teuku Cut Ali Airport,WITA,TPK,Tapak Tuan-Sumatra Island,ID,3.263420,97.183800,103
+WITB,Maimun Saleh Airport,WITB,SBG,Sabang-We Island,ID,5.874130,95.339699,393
+WITC,Seunagan Airport,WITC,MEQ,Peureumeue-Sumatra Island,ID,4.250000,96.217003,10
+WITG,Lasikin Airport,WITG,,Lubang-Simeulue Island,ID,2.410280,96.325600,19
+WITK,Rembele Airport,WITK,TXE,Takengon,ID,4.720833,96.849444,4648
+WITL,Lhok Sukon Airport,WITL,LSX,Lhok Sukon-Sumatra Island,ID,5.069510,97.259201,28
+WITM,Malikus Saleh Airport,WITM,LSW,Lhok Seumawe-Sumatra Island,ID,5.226680,96.950302,90
+WITS,Seumayam Airport,WITS,,Seumayam-Sumatra Island,ID,3.750000,96.633331,53
+WITT,Sultan Iskandar Muda International Airport,WITT,BTJ,Banda Aceh,ID,5.522872,95.420637,65

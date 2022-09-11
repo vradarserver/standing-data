@@ -1,0 +1,15 @@
+﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
+VCBI,Bandaranaike International Colombo Airport,VCBI,CMB,Colombo,LK,7.180760,79.884102,30
+VCCA,Anuradhapura Air Force Base,VCCA,ACJ,Anuradhapura,LK,8.301490,80.427902,324
+VCCB,Batticaloa Airport,VCCB,BTC,Batticaloa,LK,7.705760,81.678802,20
+VCCC,Colombo Ratmalana Airport,VCCC,RML,Colombo,LK,6.821990,79.886200,22
+VCCG,Gal Oya Airport,VCCG,ADP,Ampara,LK,7.337760,81.625940,150
+VCCH,Hingurakgoda Air Force Base,VCCH,MNH,Polonnaruwa Town,LK,8.049810,80.981400,170
+VCCJ,Kankesanturai Airport,VCCJ,JAF,Jaffna,LK,9.792330,80.070099,33
+VCCK,Koggala Airport,VCCK,KCT,Galle,LK,5.993680,80.320297,10
+VCCN,Katukurunda Air Force Base,VCCN,,Kalutara,LK,6.552120,79.977501,10
+VCCS,Sigiriya Air Force Base,VCCS,GIU,Sigiriya,LK,7.956670,80.728500,630
+VCCT,China Bay Airport,VCCT,TRR,Trincomalee,LK,8.538510,81.181900,6
+VCCV,Vavuniya Airport,VCCV,,Vavuniya,LK,8.741390,80.497398,299
+VCCW,Weerawila International Airport,VCCW,WRZ,Weerawila,LK,6.254490,81.235199,50
+VCRI,Mattala Rajapaksa International Airport,VCRI,HRI,Hambantota,TH,6.284444,81.124167,157
