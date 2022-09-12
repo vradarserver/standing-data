@@ -7,7 +7,7 @@
 4402F0,OE-INO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,05146,2012
 440378,OE-VDP,DA42,Diamond,DA 42 NG Twin Star,Diamond DA 42 NG Twin Star,1,Private,,42.N128,
 440382,OE-FMT,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Jet 24 GmbH,,50000348,2015
-4404A4,OE-ICL,A320,Airbus,A320-214,Airbus A320-214,0,EasyJet Europe,EJU,5318,2012
+4404A4,OE-ICL,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5318,2012
 4405AA,OE-HPG,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Sparfell Luftfahrt,LDX,20251,2008
 4405AC,OE-FJB,C501,Cessna,501 Citation I SP,Cessna 501 Citation I SP,0,LOFT Aviation GmbH,,501-0067,1987
 440614,OE-ISC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,easyJet Europe,EJU,9258,2019
@@ -47,6 +47,7 @@
 440BDF,OE-HEC,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,IJM International Jet Management,IJM,20556,
 440BEE,OE-LDJ,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1098,2010
 440C13,OE-XVP,EC35,Eurocopter,EC135 T3H,Eurocopter EC135 T3H,0,Christophorus Flugrettungsverein (ÖAMTC),,2171,2022
+440C17,OE-LHA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sparfell Luftfahrt,LDX,161,
 440C1B,OE-IXE,B738,Boeing,737-8AS,Boeing 737-8AS,0,ASL Airlines Belgium,TAY,38494,2009
 440C27,OE-EHA,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1744,2017
 440C31,OE-LKY,A319,Airbus,A319-111,Airbus A319-111,0,easyJet,EZY,04778,2011

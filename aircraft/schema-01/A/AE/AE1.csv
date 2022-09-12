@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE1242,04-4137,C17,Boeing,C-17A Globemaster III,Boeing C-17A Globemaster III,0,United States Air Force,AIO,50145,2004
 AE1313,,ULAC,Airbus,Zephyr,Airbus Zephyr,0,Airbus Industrie,AIB,Z8-2,
+AE145D,06-6159,C17,Boeing,C-17A Globemaster III,Boeing C-17A Globemaster III,0,United States Air Force,,50168,
 AE17B1,96-0201,F15,McDonnell Douglas,F-15E Eagle,McDonnell Douglas F-15E Eagle,0,United States Air Force,,E211,

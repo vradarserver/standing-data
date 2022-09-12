@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE0237,61-0315,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18222,1962
+AE0264,60-0355,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,,18130,
+AE0390,63-7999,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,,18616,
 AE0424,60-0333,K35R,Boeing,KC-135R Stratotanker,Boeing KC-135R Stratotanker,0,United States Air Force,AIO,18108,1961
 AE0480,60-0324,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18099,
 AE04C1,58-0125,K35R,Boeing,KC-135T,Boeing KC-135T,0,United States Air Force,AIO,17870,
@@ -7,3 +9,4 @@ AE04C3,59-1470,K35R,Boeing,KC-135T,Boeing KC-135T,0,United States Air Force,AIO,
 AE0659,59-1464,K35R,Boeing,KC-135T,Boeing KC-135T,0,United States Air Force,AIO,17952,
 AE065E,60-0332,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18107,1961
 AE0811,00-0175,C17,Boeing,C-17A Globemaster III,Boeing C-17A Globemaster III,0,United States Air Force,RCH,50083,
+AE08E6,73-1217,BE20,Beech,C-12C Huron,Beech C-12C Huron,0,United States Air Force,,BD-13,
