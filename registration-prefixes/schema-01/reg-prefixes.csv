@@ -186,7 +186,7 @@ TT,TD,1,TT-(?<code>[A-Z]{3}),TT(?<code>[A-Z]{3}),TT-{code}
 TU,CI,1,TU-(?<code>[A-Z]{3}),TU(?<code>[A-Z]{3}),TU-{code}
 TY,BJ,1,TY-(?<code>[A-Z]{3}),TY(?<code>[A-Z]{3}),TY-{code}
 TZ,ML,1,TZ-(?<code>[A-Z]{3}),TZ(?<code>[A-Z]{3}),TZ-{code}
-UK,UZ,1,UK-(?<code>\d{5}),UK(?<code>\d{5}),UK-{code}
+UK,UZ,1,UK(?<code>\d{5}),UK(?<code>\d{5}),UK{code}
 UP,KZ,1,UP-(?<code>[\dA-Z]{5}),UP(?<code>[\dA-Z]{5}),UP-{code}
 UR,UA,1,"UR-(?<code>[A-Z]{3,4}|\d{5})","UR(?<code>[A-Z]{3,4}|\d{5})",UR-{code}
 V2,AG,1,V2-(?<code>[A-Z]{3}),V2(?<code>[A-Z]{3}),V2-{code}

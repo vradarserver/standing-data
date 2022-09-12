@@ -1,7 +1,7 @@
 # Standing Data
 
-This repository holds CSV files built from the aviation data stored by the
-SDM site and used by Virtual Radar Server.
+This repository holds CSV files built from the aviation data submitted by Virtual
+Radar Server users to the SDM site. 
 
 ## Pull Requests
 
