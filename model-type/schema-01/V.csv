@@ -1,0 +1,165 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+V1,Grumman,AO-1 Mohawk,2,T,,L,M,1
+V1,Grumman,G-134 Mohawk,2,T,,L,M,1
+V1,Grumman,Mohawk,2,T,,L,M,1
+V1,Grumman,OV-1 Mohawk,2,T,,L,M,1
+V1,Grumman,RV-1 Mohawk,2,T,,L,M,1
+V10,North American,Bronco,2,T,,L,L,1
+V10,North American,OV-10 Bronco,2,T,,L,L,1
+V10,North American Rockwell,Bronco,2,T,,L,L,1
+V10,North American Rockwell,OV-10 Bronco,2,T,,L,L,1
+V10,Rockwell,Bronco,2,T,,L,L,1
+V10,Rockwell,OV-10 Bronco,2,T,,L,L,1
+V22,Bell-Boeing,901 Osprey,2,T,,T,M,1
+V22,Bell-Boeing,CV-22 Osprey,2,T,,T,M,1
+V22,Bell-Boeing,MV-22 Osprey,2,T,,T,M,1
+V22,Bell-Boeing,Osprey,2,T,,T,M,1
+V22,Bell-Boeing,V-22 Osprey,2,T,,T,M,1
+V221,MSW,Votec 221,1,P,,L,L,1
+V252,MSW,Votec 252,1,P,,L,L,1
+V280,Bell,V-280 Valor,2,T,,T,M,1
+V280,Bell,Valor,2,T,,T,M,1
+V322,MSW,Votec 322,1,P,,L,L,1
+V351,MSW,Votec 351,1,P,,L,L,1
+V452,MSW,Votec 452,1,T,,L,L,1
+V500,Revolution,Voyager-500,1,P,,H,L,1
+V8SP,Beachner,Special,1,P,,L,L,1
+V8SP,Beachner,V-8 Special,1,P,,L,L,1
+VALI,Convair,BT-13 Valiant,1,P,,L,L,1
+VALI,Convair,V-54 Valiant,1,P,,L,L,1
+VALI,Convair,Valiant,1,P,,L,L,1
+VALI,Vultee,BT-13 Valiant,1,P,,L,L,1
+VALI,Vultee,BT-15 Valiant,1,P,,L,L,1
+VALI,Vultee,SNV Valiant,1,P,,L,L,1
+VALI,Vultee,V-54 Valiant,1,P,,L,L,1
+VALI,Vultee,V-74 Valiant,1,P,,L,L,1
+VALI,Vultee,Valiant,1,P,,L,L,1
+VAMP,De Havilland,DH-100 Vampire,1,J,,L,L,1
+VAMP,De Havilland,DH-115 Vampire,1,J,,L,L,1
+VAMP,De Havilland,Vampire,1,J,,L,L,1
+VAMP,F+W Emmen,DH-100 Vampire,1,J,,L,L,1
+VAMP,F+W Emmen,DH-115 Vampire,1,J,,L,L,1
+VAMP,F+W Emmen,Vampire,1,J,,L,L,1
+VANT,Visionaire,VA-10 Vantage,1,J,,L,L,1
+VANT,Visionaire,Vantage,1,J,,L,L,1
+VAUT,Sud,SO-4050 Vautour,2,J,,L,M,1
+VAUT,Sud,Vautour,2,J,,L,M,1
+VC10,BAC,VC-10,4,J,,L,H,0
+VC10,Vickers,VC-10,4,J,,L,H,0
+VELO,Velocity,Velocity 173,1,P,,L,L,1
+VELO,Velocity,Velocity LW,1,P,,L,L,1
+VELO,Velocity,Velocity SE,1,P,,L,L,1
+VELO,Velocity,Velocity TXL,1,P,,L,L,1
+VELO,Velocity,Velocity XL,1,P,,L,L,1
+VELO,Velocity,Velocity,1,P,,L,L,0
+VELT,Velocity,Velocity V-Twin,2,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 2CM,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 2CT,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 2CXM,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 2CXT,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 3M,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus 3T,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus BT,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus CM,1,P,,L,L,1
+VENT,Schempp-Hirth,Ventus CT,1,P,,L,L,1
+VEZE,Rutan,33 VariEze,1,P,,L,L,1
+VEZE,Rutan,VariEze,1,P,,L,L,1
+VF14,VFW-Fokker,VFW-614,2,J,,L,M,0
+VF2,Fry,Esprit,1,P,,L,L,1
+VF2,Fry,VF-2 Esprit,1,P,,L,L,1
+VF35,Lockheed Martin,F-35B Lightning 2,1,J,,L,M,1
+VF35,Lockheed Martin,Lightning 2 (F-35B),1,J,,L,M,1
+VF35,Lockheed Martin,F-35B Lightning II,1,J,,L,M,0
+VF35,Lockheed Martin,Lightning II (F-35B),1,J,,L,M,0
+VF60,VulcanAir,Mission,1,T,,L,L,1
+VF60,VulcanAir,VF-600 Mission,1,T,,L,L,1
+VG3T,Aviakit,Vega 3000,1,P,,L,L,1
+VGUL,Percival,K-1 Vega Gull,1,P,,L,L,1
+VGUL,Percival,P-10 Vega Gull,1,P,,L,L,1
+VGUL,Percival,Vega Gull,1,P,,L,L,1
+VIMA,Valtion,Viima,1,P,,L,L,1
+VIMY,Vickers,FB-27 Vimy Replica,2,P,,L,L,0
+VIMY,Vickers,Vimy Replica,2,P,,L,L,0
+VIPJ,Viper,ViperJet,1,J,,L,L,1
+VIPR,Paxman's,Viper,1,P,,L,L,1
+VISC,Vickers,Viscount,4,T,,L,M,0
+VISI,Pro-Composites,Vision,1,P,,L,L,1
+VIVA,Composit Airplanes,Viva,1,P,,L,L,1
+VIX,Skystar,Kitfox Vixen,1,P,,L,L,1
+VIX,Skystar,Kitfox Voyager,1,P,,L,L,1
+VIXN,Amax,Vixen,1,P,,L,L,1
+VJ22,Volmer,Sportsman,1,P,,A,L,1
+VJ22,Volmer,VJ-22 Sportsman,1,P,,A,L,1
+VK3P,Cirrus,Cirrus (piston),1,P,,L,L,1
+VK3P,Cirrus,VK-30 Cirrus (piston),1,P,,L,L,1
+VK3P,Cirrus,Cirrus,1,P,,L,L,0
+VK3P,Cirrus,VK-30 Cirrus,1,P,,L,L,0
+VK3T,Cirrus,Cirrus (turbine),1,T,,L,L,1
+VK3T,Cirrus,VK-30 Cirrus (turbine),1,T,,L,L,1
+VL3,Aveko,Flamingo,1,P,,L,L,1
+VL3,Aveko,Sprint,1,P,,L,L,1
+VL3,Aveko,VL-3,1,P,,L,L,1
+VL3,Aveko,VL-3 Flamingo,1,P,,L,L,1
+VL3,Aveko,VL-3 Sprint,1,P,,L,L,1
+VL3,Gobosh,G-800,1,P,,L,L,1
+VL3,JMB AIRCRAFT,Evolution,1,P,,L,L,1
+VL3,JMB AIRCRAFT,VL-3 Evolution,1,P,,L,L,1
+VL3,KLN,Flamingo,1,P,,L,L,1
+VL3,KLN,VL-3,1,P,,L,L,1
+VL3,KLN,VL-3 Flamingo,1,P,,L,L,1
+VL3,Vanessa Air,Flamingo,1,P,,L,L,1
+VL3,Vanessa Air,VL-3,1,P,,L,L,1
+VL3,Vanessa Air,VL-3 Flamingo,1,P,,L,L,1
+VM1,Vol Mediterrani,Esqual,1,P,,L,L,1
+VM1,Vol Mediterrani,VM-1 Esqual,1,P,,L,L,1
+VMT,Myasishchev,Atlant,4,J,,L,H,0
+VMT,Myasishchev,VM-T Atlant,4,J,,L,H,0
+VNOM,De Havilland,DH-112 Venom,1,J,,L,M,1
+VNOM,De Havilland,Venom,1,J,,L,M,1
+VNOM,F+W Emmen,DH-112 Venom,1,J,,L,M,1
+VNOM,F+W Emmen,Venom,1,J,,L,M,1
+VNTE,Schempp-Hirth,Ventus 3F,1,E,,L,L,1
+VNTR,ICP,Ventura,1,P,,L,L,1
+VO10,Aero Commander,100 Commander 100,1,P,,L,L,1
+VO10,Aero Commander,Commander 100,1,P,,L,L,1
+VO10,North American Rockwell,100 Commander 100,1,P,,L,L,1
+VO10,North American Rockwell,100 Darter Commander,1,P,,L,L,1
+VO10,North American Rockwell,Commander 100,1,P,,L,L,1
+VO10,North American Rockwell,Darter Commander,1,P,,L,L,1
+VO10,Volaircraft,Volaire 10,1,P,,L,L,1
+VO10,Volaircraft,Volaire 1035,1,P,,L,L,1
+VO10,Volaircraft,Volaire 1050,1,P,,L,L,1
+VOL2,Volante,Volante Two,1,P,,L,L,1
+VP2,Evans,Volksplane,1,P,,L,L,1
+VP2,Evans,VP-2 Volksplane,1,P,,L,L,1
+VR20,EGV Costruzioni,VR-202,1,P,,L,L,1
+VR20,EGV Costruzioni,VR-203,1,P,,L,L,1
+VR7,VASHON,Ranger R7,1,P,,L,L,1
+VSON,American Affordable,Vision,1,P,,L,L,1
+VTOR,Partenavia,AP-68TP-600 Viator,2,T,,L,L,1
+VTOR,Partenavia,Viator,2,T,,L,L,1
+VTOR,Taneja,AP-68TP-600 Viator,2,T,,L,L,1
+VTOR,Taneja,Viator,2,T,,L,L,1
+VTOR,VulcanAir,AP-68TP-600 A-Viator,2,T,,L,L,1
+VTOR,VulcanAir,AP-68TP-600 Viator,2,T,,L,L,1
+VTOR,VulcanAir,AP-68TP-601 Marlin,2,T,,L,L,1
+VTOR,VulcanAir,A-Viator,2,T,,L,L,1
+VTOR,VulcanAir,Marlin,2,T,,L,L,1
+VTOR,VulcanAir,Viator,2,T,,L,L,1
+VTRA,Rans,S-19 Venterra,1,P,,L,L,1
+VTRA,Rans,Venterra,1,P,,L,L,1
+VTUR,NuVenture,Venture,1,P,,L,L,1
+VTUR,Questair,M-20 Venture,1,P,,L,L,1
+VTUR,Questair,Venture,1,P,,L,L,1
+VULC,Avro,698 Vulcan,4,J,,L,M,0
+VULC,Avro,Vulcan,4,J,,L,M,0
+VUT1,Evektor,Cobra,1,P,,L,L,1
+VUT1,Evektor,VUT-100 Cobra,1,P,,L,L,1
+VVIG,Rutan,27 VariViggen,1,P,,L,L,1
+VVIG,Rutan,32 VariViggen,1,P,,L,L,1
+VVIG,Rutan,VariViggen,1,P,,L,L,1
+VW10,Airconcept,Airbuggy,1,P,,L,L,1
+VW10,Airconcept,VoWi-10 Airbuggy,1,P,,L,L,1
+VW10,Wilden,VoWi-10,1,P,,L,L,1
+VWIT,Aircraft Spruce,V-Witt,1,P,,L,L,1
+VWIT,Wittman,V-Witt,1,P,,L,L,1

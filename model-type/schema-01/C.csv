@@ -1,0 +1,1256 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+C02T,American Jet Industries,Turbo Star 402,2,T,,L,L,1
+C02T,Cessna,402 (turbine),2,T,,L,L,1
+C02T,Scenic,Turbo Star 402,2,T,,L,L,1
+C04T,Cessna,404 (turbine),2,T,,L,L,1
+C04T,Omni,404 Turbo Titan,2,T,,L,L,1
+C04T,Omni,Turbo Titan,2,T,,L,L,1
+C06T,Cessna,206 (turbine),1,T,,L,L,1
+C06T,Soloy,Turbine 206,1,T,,L,L,1
+C07T,Cessna,207 (turbine),1,T,,L,L,1
+C07T,Soloy,Turbine 207,1,T,,L,L,1
+C08T,Soloy,208 Dual-Pac Caravan,C,T,,L,L,1
+C08T,Soloy,208 Pathfinder 21,C,T,,L,L,1
+C08T,Soloy,Dual-Pac Caravan,C,T,,L,L,1
+C08T,Soloy,Pathfinder 21,C,T,,L,L,1
+C1,Kawasaki,C-1,2,J,,L,M,1
+C1,Kawasaki,EC-1,2,J,,L,M,1
+C101,CASA,A-36 Halcón,1,J,,L,L,1
+C101,CASA,Aviojet,1,J,,L,L,1
+C101,CASA,C-101 Aviojet,1,J,,L,L,1
+C101,CASA,C-101 Mirlo,1,J,,L,L,1
+C101,CASA,Halcón,1,J,,L,L,1
+C101,CASA,Mirlo,1,J,,L,L,1
+C101,CASA,T-36 Aviojet,1,J,,L,L,1
+C101,ENAER,A-36 Halcón,1,J,,L,L,1
+C101,ENAER,Aviojet,1,J,,L,L,1
+C101,ENAER,C-101 Aviojet,1,J,,L,L,1
+C101,ENAER,Halcón,1,J,,L,L,1
+C101,ENAER,T-36 Aviojet,1,J,,L,L,1
+C101,Indaer Chile,A-36 Halcón,1,J,,L,L,1
+C101,Indaer Chile,Aviojet,1,J,,L,L,1
+C101,Indaer Chile,C-101 Aviojet,1,J,,L,L,1
+C101,Indaer Chile,Halcón,1,J,,L,L,1
+C101,Indaer Chile,T-36 Aviojet,1,J,,L,L,1
+C10T,Advanced Aircraft,Spirit 750,1,T,,L,L,1
+C10T,Advanced Aircraft,Turbine P210,1,T,,L,L,1
+C10T,Cessna,P210 (turbine),1,T,,L,L,1
+C119,Fairchild,C-119 Flying Boxcar,2,P,,L,M,1
+C119,Fairchild,F-78 Flying Boxcar,2,P,,L,M,1
+C119,Fairchild,Flying Boxcar,2,P,,L,M,1
+C119,Fairchild,R4Q Flying Boxcar,2,P,,L,M,1
+C120,Cessna,120,1,P,,L,L,1
+C123,Fairchild,C-123 Provider,2,P,,L,M,1
+C123,Fairchild,Provider,2,P,,L,M,1
+C125,Northrop,C-125 Raider,3,P,,L,M,1
+C125,Northrop,Raider,3,P,,L,M,1
+C130,Lockheed,182 Hercules,4,T,,L,M,1
+C130,Lockheed,282 Hercules,4,T,,L,M,1
+C130,Lockheed,382 Hercules,4,T,,L,M,1
+C130,Lockheed,AC-130 Spectre,4,T,,L,M,1
+C130,Lockheed,Aya,4,T,,L,M,1
+C130,Lockheed,C-130 Karnaf,4,T,,L,M,1
+C130,Lockheed,C-130A Hercules,4,T,,L,M,1
+C130,Lockheed,C-130B Hercules,4,T,,L,M,1
+C130,Lockheed,C-130E Hercules,4,T,,L,M,1
+C130,Lockheed,C-130F Hercules,4,T,,L,M,1
+C130,Lockheed,C-130H Hercules,4,T,,L,M,1
+C130,Lockheed,C-130K Hercules,4,T,,L,M,1
+C130,Lockheed,CC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,DC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,EC-130 Aya,4,T,,L,M,1
+C130,Lockheed,EC-130 Sapeer,4,T,,L,M,1
+C130,Lockheed,EC-130E Hercules,4,T,,L,M,1
+C130,Lockheed,EC-130G Hercules,4,T,,L,M,1
+C130,Lockheed,EC-130H Hercules,4,T,,L,M,1
+C130,Lockheed,EC-130Q Hercules,4,T,,L,M,1
+C130,Lockheed,HC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,Hercules (T-56 engines),4,T,,L,M,1
+C130,Lockheed,JC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,Karnaf,4,T,,L,M,1
+C130,Lockheed,KC-130 Karnaf,4,T,,L,M,1
+C130,Lockheed,KC-130B Hercules,4,T,,L,M,1
+C130,Lockheed,KC-130F Hercules,4,T,,L,M,1
+C130,Lockheed,KC-130H Hercules,4,T,,L,M,1
+C130,Lockheed,KC-130R Hercules,4,T,,L,M,1
+C130,Lockheed,KC-130T Hercules,4,T,,L,M,1
+C130,Lockheed,L-100 Hercules,4,T,,L,M,1
+C130,Lockheed,LC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,MC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,NC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,RC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,Sapeer,4,T,,L,M,1
+C130,Lockheed,Spectre,4,T,,L,M,1
+C130,Lockheed,TC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,Tp84 Hercules,4,T,,L,M,1
+C130,Lockheed,VC-130 Hercules,4,T,,L,M,1
+C130,Lockheed,WC-130E Hercules,4,T,,L,M,1
+C130,Lockheed,WC-130H Hercules,4,T,,L,M,1
+C130,Lockheed Martin,382C Hercules,4,T,,L,M,1
+C130,Lockheed Martin,C-130H Hercules,4,T,,L,M,1
+C130,Lockheed Martin,Hercules,4,T,,L,M,1
+C130,Lockheed Martin,LC-130 Hercules,4,T,,L,M,1
+C130,Rockwell,AC-130 Spectre,4,T,,L,M,1
+C130,Rockwell,Spectre,4,T,,L,M,1
+C130,Lockheed,L-182 Hercules,4,T,,L,M,0
+C130,Lockheed,L-282 Hercules,4,T,,L,M,0
+C130,Lockheed,L-382 Hercules,4,T,,L,M,0
+C130,Lockheed Martin,Hercules (T-56 engines),4,T,,L,M,0
+C130,Lockheed Martin,L-100 Hercules,4,T,,L,M,0
+C130,Lockheed Martin,L-382 Hercules,4,T,,L,M,0
+C133,Douglas,C-133 Cargomaster,4,T,,L,M,0
+C133,Douglas,Cargomaster,4,T,,L,M,0
+C135,Boeing,NC-135,4,J,,L,H,1
+C135,Boeing,OC-135,4,J,,L,H,1
+C135,Boeing,WC-135,4,J,,L,H,1
+C135,Boeing,NC-135,2,J,,L,H,0
+C140,Cessna,140,1,P,,L,L,1
+C141,Lockheed,C-141 Starlifter,4,J,,L,H,1
+C141,Lockheed,L-300 Starlifter,4,J,,L,H,1
+C141,Lockheed,Starlifter,4,J,,L,H,1
+C14T,American Jet Industries,Turbo Star 414,2,T,,L,L,1
+C14T,Cessna,414 (turbine),2,T,,L,L,1
+C14T,Scenic,Turbo Star 414,2,T,,L,L,1
+C15,McDonnell Douglas,YC-15,4,J,,L,M,1
+C150,Aviones Colombia,150,1,P,,L,L,1
+C150,Cessna,150,1,P,,L,L,1
+C150,Cessna,150 Commuter,1,P,,L,L,1
+C150,Cessna,A150 Aerobat,1,P,,L,L,1
+C150,Cessna,Aerobat (A150),1,P,,L,L,1
+C150,Cessna,Commuter,1,P,,L,L,1
+C150,Cessna,T-51,1,P,,L,L,1
+C150,FMA,A-150,1,P,,L,L,1
+C150,FMA,A-A150 Aerobat,1,P,,L,L,1
+C150,FMA,Aerobat,1,P,,L,L,1
+C150,Reims,Aerobat (FA150/FRA150),1,P,,L,L,1
+C150,Reims,Commuter,1,P,,L,L,1
+C150,Reims,F150,1,P,,L,L,1
+C150,Reims,F150 Commuter,1,P,,L,L,1
+C150,Reims,FA150 Aerobat,1,P,,L,L,1
+C150,Reims,FRA150 Aerobat,1,P,,L,L,1
+C152,Aviones Colombia,152,1,P,,L,L,1
+C152,Cessna,152,1,P,,L,L,1
+C152,Cessna,A152 Aerobat,1,P,,L,L,1
+C152,Cessna,Aerobat (A152),1,P,,L,L,1
+C152,Reims,Aerobat (FA152),1,P,,L,L,1
+C152,Reims,F152,1,P,,L,L,1
+C152,Reims,FA152 Aerobat,1,P,,L,L,1
+C160,Transall,C-160,2,T,,L,M,1
+C162,Cessna,162 Skycatcher,1,P,,L,L,1
+C162,Cessna,Skycatcher,1,P,,L,L,1
+C162,Shenyang,162 Skycatcher,1,P,,L,L,1
+C162,Shenyang,Skycatcher,1,P,,L,L,1
+C17,Boeing,C-17 Globemaster 3,4,J,,L,H,1
+C17,Boeing,CC-177 Globemaster 3,4,J,,L,H,1
+C17,Boeing,Globemaster 3,4,J,,L,H,1
+C17,McDonnell Douglas,C-17 Globemaster 3,4,J,,L,H,1
+C17,McDonnell Douglas,Globemaster 3,4,J,,L,H,1
+C170,Cessna,170,1,P,,L,L,1
+C172,Aviones Colombia,172,1,P,,L,L,1
+C172,Cessna,172,1,P,,L,L,1
+C172,Cessna,172 Cutlass,1,P,,L,L,1
+C172,Cessna,172 Skyhawk,1,P,,L,L,1
+C172,Cessna,Cutlass,1,P,,L,L,1
+C172,Cessna,Hawk XP,1,P,,L,L,1
+C172,Cessna,Mescalero,1,P,,L,L,1
+C172,Cessna,P172 Skyhawk Powermatic,1,P,,L,L,1
+C172,Cessna,R172,1,P,,L,L,1
+C172,Cessna,R172 Hawk XP,1,P,,L,L,1
+C172,Cessna,Skyhawk,1,P,,L,L,1
+C172,Cessna,Skyhawk Powermatic,1,P,,L,L,1
+C172,Cessna,T-41 Mescalero,1,P,,L,L,1
+C172,FMA,P-172,1,P,,L,L,1
+C172,Reims,F172,1,P,,L,L,1
+C172,Reims,F172 Skyhawk,1,P,,L,L,1
+C172,Reims,FP172,1,P,,L,L,1
+C172,Reims,FR172 Hawk XP,1,P,,L,L,1
+C172,Reims,FR172 Reims Rocket,1,P,,L,L,1
+C172,Reims,Hawk XP,1,P,,L,L,1
+C172,Reims,Reims Rocket,1,P,,L,L,1
+C172,Reims,Skyhawk,1,P,,L,L,1
+C175,Cessna,175,1,P,,L,L,1
+C175,Cessna,175 Skylark,1,P,,L,L,1
+C175,Cessna,Skylark,1,P,,L,L,1
+C177,Cessna,177,1,P,,L,L,1
+C177,Cessna,177 Cardinal,1,P,,L,L,1
+C177,Cessna,Cardinal,1,P,,L,L,1
+C180,Cessna,180,1,P,,L,L,1
+C180,Cessna,180 Skywagon 180,1,P,,L,L,1
+C180,Cessna,Skywagon 180,1,P,,L,L,1
+C180,Cessna,U-17C,1,P,,L,L,1
+C182,Aviones Colombia,182,1,P,,L,L,1
+C182,Cessna,182,1,P,,L,L,1
+C182,Cessna,182 Skylane,1,P,,L,L,1
+C182,Cessna,Skylane,1,P,,L,L,1
+C182,DINFIA,A-182,1,P,,L,L,1
+C182,FMA,A-182,1,P,,L,L,1
+C182,Peterson,230,1,P,,L,L,1
+C182,Peterson,260,1,P,,L,L,1
+C182,Peterson,460,1,P,,L,L,1
+C182,Peterson,Katmai,1,P,,L,L,1
+C182,Reims,F182 Skylane,1,P,,L,L,1
+C182,Reims,Skylane,1,P,,L,L,1
+C182,Wren,460,1,P,,L,L,1
+C182,Cessna,T182 Turbo Skylane,1,P,,L,L,0
+C182,Cessna,Turbo Skylane,1,P,,L,L,0
+C185,Aviatech,Super Cyclone,1,P,,L,L,1
+C185,Aviones Colombia,185,1,P,,L,L,1
+C185,Cessna,185 Skywagon,1,P,,L,L,1
+C185,Cessna,A185 AgCarryall,1,P,,L,L,1
+C185,Cessna,A185 Skywagon 185,1,P,,L,L,1
+C185,Cessna,AgCarryall,1,P,,L,L,1
+C185,Cessna,Skywagon,1,P,,L,L,1
+C185,Cessna,Skywagon 185,1,P,,L,L,1
+C185,Cessna,U-17A,1,P,,L,L,1
+C185,Cessna,U-17B,1,P,,L,L,1
+C185,St. Just,Super Cyclone,1,P,,L,L,1
+C188,Aviones Colombia,188,1,P,,L,L,1
+C188,Aviones Colombia,AC-05 AgWagon,1,P,,L,L,1
+C188,Aviones Colombia,AgTrainer,1,P,,L,L,1
+C188,Aviones Colombia,Pijao,1,P,,L,L,1
+C188,Cessna,188 AgPickup,1,P,,L,L,1
+C188,Cessna,188 AgWagon,1,P,,L,L,1
+C188,Cessna,A188 AgTruck,1,P,,L,L,1
+C188,Cessna,A188 AgWagon,1,P,,L,L,1
+C188,Cessna,AgHusky,1,P,,L,L,1
+C188,Cessna,AgPickup,1,P,,L,L,1
+C188,Cessna,AgTruck,1,P,,L,L,1
+C188,Cessna,AgWagon,1,P,,L,L,1
+C188,Cessna,T188 AgHusky,1,P,,L,L,1
+C188,FMA,A-A188 AgTruck,1,P,,L,L,1
+C188,FMA,AgTruck,1,P,,L,L,1
+C190,Cessna,190,1,P,,L,L,1
+C195,Cessna,195,1,P,,L,L,1
+C195,Cessna,LC-126,1,P,,L,L,1
+C2,Grumman,C-2 Greyhound,2,T,,L,M,1
+C2,Grumman,Greyhound,2,T,,L,M,1
+C205,Cessna,205,1,P,,L,L,1
+C206,Aviones Colombia,206,1,P,,L,L,1
+C206,Cessna,206 Stationair,1,P,,L,L,1
+C206,Cessna,206 Super Skywagon,1,P,,L,L,1
+C206,Cessna,P206 Super Skylane,1,P,,L,L,1
+C206,Cessna,Skywagon 206,1,P,,L,L,1
+C206,Cessna,Stationair,1,P,,L,L,1
+C206,Cessna,Stationair 6,1,P,,L,L,1
+C206,Cessna,Super Skylane,1,P,,L,L,1
+C206,Cessna,Super Skywagon,1,P,,L,L,1
+C206,Cessna,U206 Skywagon 206,1,P,,L,L,1
+C206,Cessna,U206 Stationair,1,P,,L,L,1
+C206,Cessna,U206 Stationair 6,1,P,,L,L,1
+C206,Cessna,U206 Super Skywagon,1,P,,L,L,1
+C207,Cessna,207 Skywagon 207,1,P,,L,L,1
+C207,Cessna,207 Stationair 7,1,P,,L,L,1
+C207,Cessna,207 Stationair 8,1,P,,L,L,1
+C207,Cessna,Skywagon 207,1,P,,L,L,1
+C207,Cessna,Stationair 7,1,P,,L,L,1
+C207,Cessna,Stationair 8,1,P,,L,L,1
+C207,Cessna,T207 Turbo Skywagon 207,1,P,,L,L,1
+C207,Cessna,T207 Turbo Stationair 7,1,P,,L,L,1
+C207,Cessna,T207 Turbo Stationair 8,1,P,,L,L,1
+C207,Cessna,Turbo Skywagon 207,1,P,,L,L,1
+C207,Cessna,Turbo Stationair 7,1,P,,L,L,1
+C207,Cessna,Turbo Stationair 8,1,P,,L,L,1
+C207,Reims,F207,1,P,,L,L,1
+C208,Cessna,208 Caravan 1,1,T,,L,L,1
+C208,Cessna,208 Caravan 675,1,T,,L,L,1
+C208,Cessna,208 Cargomaster,1,T,,L,L,1
+C208,Cessna,208 Grand Caravan,1,T,,L,L,1
+C208,Cessna,208 Super Cargomaster,1,T,,L,L,1
+C208,Cessna,AC-208 Combat Caravan,1,T,,L,L,1
+C208,Cessna,C-98,1,T,,L,L,1
+C208,Cessna,Caravan 1,1,T,,L,L,1
+C208,Cessna,Caravan 675,1,T,,L,L,1
+C208,Cessna,Cargomaster,1,T,,L,L,1
+C208,Cessna,Combat Caravan,1,T,,L,L,1
+C208,Cessna,Grand Caravan,1,T,,L,L,1
+C208,Cessna,Super Cargomaster,1,T,,L,L,1
+C208,Cessna,U-27,1,T,,L,L,1
+C210,Aviones Colombia,210,1,P,,L,L,1
+C210,Cessna,210,1,P,,L,L,1
+C210,Cessna,210 Centurion,1,P,,L,L,1
+C210,Cessna,Centurion,1,P,,L,L,1
+C212,Airbus,C-212,2,T,,L,M,1
+C212,CASA,Aviocar,2,T,,L,M,1
+C212,CASA,C-212 Aviocar,2,T,,L,M,1
+C212,CASA,C-41 Aviocar,2,T,,L,M,1
+C212,CASA,Tp89 Aviocar,2,T,,L,M,1
+C212,Dirgantara,Aviocar,2,T,,L,M,1
+C212,Dirgantara,NC-212 Aviocar,2,T,,L,M,1
+C212,Nurtanio,Aviocar,2,T,,L,M,1
+C212,Nurtanio,NC-212 Aviocar,2,T,,L,M,1
+C212,Nusantara,Aviocar,2,T,,L,M,1
+C212,Nusantara,NC-212 Aviocar,2,T,,L,M,1
+C212,Airbus,Aviocar,2,T,,L,M,0
+C212,Airbus,C-212 Aviocar,2,T,,L,M,0
+C21T,Advanced Aircraft,Regent 1500,2,T,,L,L,1
+C21T,Cessna,421 (turbine),2,T,,L,L,1
+C21T,Riley,Turbine Eagle 421,2,T,,L,L,1
+C21T,Riley,Turbine Rocket 421,2,T,,L,L,1
+C22J,Caproni Vizzola,C-22J Ventura,2,J,,L,L,1
+C22J,Caproni Vizzola,Ventura,2,J,,L,L,1
+C240,Cessna,Corvalis TTx,1,P,,L,L,1
+C240,Cessna,T240 Corvalis TTx,1,P,,L,L,1
+C240,Cessna,T240 TTx,1,P,,L,L,1
+C240,Cessna,TTx,1,P,,L,L,1
+C25A,Cessna,525A Citation CJ2,2,J,,L,L,1
+C25A,Cessna,Citation CJ2,2,J,,L,L,1
+C25B,Cessna,525B Citation CJ3,2,J,,L,L,1
+C25B,Cessna,Citation CJ3,2,J,,L,L,1
+C25C,Cessna,525C Citation CJ4,2,J,A,L,M,1
+C25C,Cessna,Citation CJ4,2,J,A,L,M,1
+C25M,Cessna,525 Citation M2,2,J,,L,L,1
+C25M,Cessna,Citation M2,2,J,,L,L,1
+C270,Caudron,C-270 Luciole,1,P,,L,L,1
+C270,Caudron,C-272 Luciole,1,P,,L,L,1
+C270,Caudron,C-275 Luciole,1,P,,L,L,1
+C270,Caudron,Luciole,1,P,,L,L,1
+C27J,Alenia,C-27J Spartan,2,T,,L,M,1
+C27J,Alenia,HC-27J Spartan,2,T,,L,M,1
+C27J,Alenia,Spartan (C-27J),2,T,,L,M,1
+C27J,Alenia Aermacchi,C-27J Spartan,2,T,,L,M,1
+C27J,Alenia Aermacchi,HC-27J Spartan,2,T,,L,M,1
+C27J,Alenia Aermacchi,MC-27J Praetorian,2,T,,L,M,1
+C27J,Alenia Aermacchi,Praetorian,2,T,,L,M,1
+C27J,Alenia Aermacchi,Spartan,2,T,,L,M,1
+C27J,Alenia Aermacchi,MC-27J Spartan,2,T,,L,M,0
+C295,Airbus,Amazonas,2,T,,L,M,1
+C295,Airbus,C-295,2,T,,L,M,1
+C295,Airbus,C-295 Persuader,2,T,,L,M,1
+C295,Airbus,Persuader (C-295),2,T,,L,M,1
+C295,Airbus,SC-105 Amazonas,2,T,,L,M,1
+C295,CASA,Amazonas,2,T,,L,M,1
+C295,CASA,C-105 Amazonas,2,T,,L,M,1
+C295,CASA,C-295,2,T,,L,M,1
+C295,CASA,C-295 Persuader,2,T,,L,M,1
+C295,CASA,Persuader (C-295),2,T,,L,M,1
+C295,CASA,SC-105 Amazonas,2,T,,L,M,1
+C295,Airbus,C-105 Amazonas,2,T,,L,M,0
+C303,Aviones Colombia,T303,2,P,,L,L,1
+C303,Cessna,Crusader,2,P,,L,L,1
+C303,Cessna,T303 Crusader,2,P,,L,L,1
+C306,CEA-UFMG,CB-10 Triathlon,1,P,,L,L,1
+C306,CEA-UFMG,CEA-306 CB-10 Triathlon,1,P,,L,L,1
+C306,CEA-UFMG,Triathlon,1,P,,L,L,1
+C309,CEA-UFMG,CEA-309 Mehari,1,P,,L,L,1
+C309,CEA-UFMG,Mehari,1,P,,L,L,1
+C309,CEA,CEA-309 Mehari,1,P,,L,L,0
+C309,CEA,Mehari,1,P,,L,L,0
+C30J,Lockheed Martin,382J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,382U Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,382V Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,C-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,CC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,EC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,HC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,KC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,LM-100J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,MC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,WC-130J Super Hercules,4,T,,L,M,1
+C30J,Lockheed Martin,C-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,CC-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,EC-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,HC-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,Hercules (AE-2100 engines),4,T,,L,M,0
+C30J,Lockheed Martin,KC-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,MC-130J Hercules,4,T,,L,M,0
+C30J,Lockheed Martin,WC-130J Hercules,4,T,,L,M,0
+C310,Aviones Colombia,310,2,P,,L,L,1
+C310,Cessna,310,2,P,,L,L,1
+C310,Cessna,L-27,2,P,,L,L,1
+C310,Cessna,T310,2,P,,L,L,1
+C310,Cessna,U-3,2,P,,L,L,1
+C310,Colemill,Bearcat,2,P,,L,L,1
+C310,Colemill,Executive 600,2,P,,L,L,1
+C310,Riley,65,2,P,,L,L,1
+C310,Riley,Rocket,2,P,,L,L,1
+C310,Riley,Super 310,2,P,,L,L,1
+C310,Riley,Turbo-Rocket,2,P,,L,L,1
+C310,Riley,Turbostream,2,P,,L,L,1
+C311,CEA-UFMG,Anequim,1,P,,L,L,1
+C311,CEA-UFMG,CEA-311 Anequim,1,P,,L,L,1
+C311,CEA,Anequim,1,P,,L,L,0
+C311,CEA,CEA-311 Anequim,1,P,,L,L,0
+C320,Cessna,320 Executive Skyknight,2,P,,L,L,1
+C320,Cessna,320 Skyknight,2,P,,L,L,1
+C320,Cessna,Executive Skyknight,2,P,,L,L,1
+C320,Cessna,Skyknight,2,P,,L,L,1
+C320,Colemill,Century 600,2,P,,L,L,1
+C335,Cessna,335,2,P,,L,L,1
+C336,Cessna,336 Skymaster,2,P,,L,L,1
+C336,Cessna,Skymaster,2,P,,L,L,1
+C337,Aviones Colombia,337,2,P,,L,L,1
+C337,Cessna,337 Super Skymaster,2,P,,L,L,1
+C337,Cessna,M337 Super Skymaster,2,P,,L,L,1
+C337,Cessna,MC337 Super Skymaster,2,P,,L,L,1
+C337,Cessna,O-2 Super Skymaster,2,P,,L,L,1
+C337,Cessna,Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337B Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337C Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337D Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337E Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337F Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,T337H Turbo Super Skymaster,2,P,,L,L,1
+C337,Cessna,Turbo Super Skymaster,2,P,,L,L,1
+C337,Reims,F337 Super Skymaster,2,P,,L,L,1
+C337,Reims,FT337E Turbo Super Skymaster,2,P,,L,L,1
+C337,Reims,FT337F Turbo Super Skymaster,2,P,,L,L,1
+C337,Reims,FTB337 Milirole,2,P,,L,L,1
+C337,Reims,Milirole,2,P,,L,L,1
+C337,Reims,Super Skymaster,2,P,,L,L,1
+C337,Reims,Turbo Super Skymaster,2,P,,L,L,1
+C337,Summit,O2-337 Sentry,2,P,,L,L,1
+C337,Summit,Sentry,2,P,,L,L,1
+C340,Aviones Colombia,340,2,P,,L,L,1
+C340,Cessna,340,2,P,,L,L,1
+C340,Riley,Rocket 340,2,P,,L,L,1
+C340,Riley,Super 340,2,P,,L,L,1
+C365,EKW,C-3605,1,T,,L,L,1
+C402,Aviones Colombia,402,2,P,,L,L,1
+C402,Cessna,401,2,P,,L,L,1
+C402,Cessna,402,2,P,,L,L,1
+C402,Cessna,402 Businessliner,2,P,,L,L,1
+C402,Cessna,402 Utililiner,2,P,,L,L,1
+C402,Cessna,Businessliner,2,P,,L,L,1
+C402,Cessna,Utililiner,2,P,,L,L,1
+C404,Cessna,404 Titan,2,P,,L,L,1
+C404,Cessna,Titan,2,P,,L,L,1
+C408,Cessna,408 SkyCourier,2,T,,L,M,1
+C408,Cessna,SkyCourier,2,T,,L,M,1
+C408,Cessna,408 SkyCourier,2,T,,L,L,0
+C408,Cessna,SkyCourier,2,T,,L,L,0
+C411,Cessna,411,2,P,,L,L,1
+C414,Aviones Colombia,414,2,P,,L,L,1
+C414,Cessna,414,2,P,,L,L,1
+C414,Cessna,414 Chancellor,2,P,,L,L,1
+C414,Cessna,Chancellor,2,P,,L,L,1
+C414,Riley,Rocket Power 414,2,P,,L,L,1
+C42,Ikarus,Bison,1,P,,L,L,1
+C42,Ikarus,C-42,1,P,,L,L,1
+C42,Ikarus,C-42 Bison,1,P,,L,L,1
+C421,Cessna,421,2,P,,L,L,1
+C421,Cessna,421 Executive Commuter,2,P,,L,L,1
+C421,Cessna,421 Golden Eagle,2,P,,L,L,1
+C421,Cessna,Executive Commuter,2,P,,L,L,1
+C421,Cessna,Golden Eagle,2,P,,L,L,1
+C425,Cessna,425 Conquest 1,2,T,,L,L,1
+C425,Cessna,425 Corsair,2,T,,L,L,1
+C425,Cessna,Conquest 1,2,T,,L,L,1
+C425,Cessna,Corsair,2,T,,L,L,1
+C441,Cessna,441 Conquest,2,T,,L,L,1
+C441,Cessna,441 Conquest 2,2,T,,L,L,1
+C441,Cessna,Conquest,2,T,,L,L,1
+C441,Cessna,Conquest 2,2,T,,L,L,1
+C46,Curtiss,C-46 Commando,2,P,,L,M,1
+C46,Curtiss,Commando,2,P,,L,M,1
+C46,Curtiss,CW-20 Commando,2,P,,L,M,1
+C5,Lockheed,C-5 Galaxy,4,J,,L,H,0
+C5,Lockheed,C-5A/B Galaxy,4,J,,L,H,0
+C5,Lockheed,Galaxy,4,J,,L,H,0
+C5,Lockheed,L-500 Galaxy,4,J,,L,H,0
+C500,Cessna,500 Citation,2,J,,L,L,1
+C500,Cessna,500 Citation 1,2,J,,L,L,1
+C500,Cessna,Citation,2,J,,L,L,1
+C500,Cessna,Citation 1,2,J,,L,L,1
+C501,Cessna,501 Citation 1SP,2,J,A,L,L,1
+C501,Cessna,Citation 1SP,2,J,A,L,L,1
+C510,Cessna,510 Citation Mustang,2,J,,L,L,1
+C510,Cessna,Citation Mustang,2,J,,L,L,1
+C525,Cessna,525 Citation CJ1,2,J,,L,L,1
+C525,Cessna,525 CitationJet,2,J,,L,L,1
+C525,Cessna,Citation CJ1,2,J,,L,L,1
+C525,Cessna,CitationJet (525),2,J,,L,L,1
+C526,Cessna,526 CitationJet,2,J,,L,L,1
+C526,Cessna,CitationJet (526),2,J,,L,L,1
+C550,Cessna,550 Citation 2,2,J,,L,L,1
+C550,Cessna,Citation 2,2,J,,L,L,1
+C550,Cessna,Citation S2,2,J,,L,L,1
+C550,Cessna,S550 Citation S2,2,J,,L,L,1
+C550,Cessna,550 Citation Bravo,2,J,,L,L,0
+C550,Cessna,552 Citation 2,2,J,,L,L,0
+C550,Cessna,Citation Bravo,2,J,,L,L,0
+C550,Cessna,T-47 Citation 2,2,J,,L,L,0
+C551,Cessna,551 Citation 2SP,2,J,,L,L,1
+C551,Cessna,Citation 2SP,2,J,,L,L,1
+C55B,Cessna,550B Citation Bravo,2,J,,L,L,1
+C55B,Cessna,Citation Bravo,2,J,,L,L,1
+C560,Cessna,560 Citation 5,2,J,A,L,M,1
+C560,Cessna,560 Citation Encore,2,J,A,L,M,1
+C560,Cessna,560 Citation Ultra,2,J,A,L,M,1
+C560,Cessna,Citation 5,2,J,A,L,M,1
+C560,Cessna,Citation Encore,2,J,A,L,M,1
+C560,Cessna,Citation Ultra,2,J,A,L,M,1
+C560,Cessna,OT-47 Citation Ultra,2,J,A,L,M,1
+C560,Cessna,UC-35 Citation Encore,2,J,A,L,M,1
+C560,Cessna,UC-35 Citation Ultra,2,J,A,L,M,1
+C56X,Cessna,560XL Citation Excel,2,J,A,L,M,1
+C56X,Cessna,560XL Citation XLS,2,J,A,L,M,1
+C56X,Cessna,Citation Excel,2,J,A,L,M,1
+C56X,Cessna,Citation XLS,2,J,A,L,M,1
+C5M,Lockheed,C-5 Super Galaxy,4,J,,L,H,1
+C5M,Lockheed,Super Galaxy,4,J,,L,H,1
+C5M,Lockheed,C-5M Super Galaxy,4,J,,L,H,0
+C650,Cessna,650 Citation 3,2,J,A,L,M,1
+C650,Cessna,650 Citation 6,2,J,A,L,M,1
+C650,Cessna,650 Citation 7,2,J,A,L,M,1
+C650,Cessna,Citation 3,2,J,A,L,M,1
+C650,Cessna,Citation 6,2,J,A,L,M,1
+C650,Cessna,Citation 7,2,J,A,L,M,1
+C680,Cessna,680 Citation Sovereign,2,J,A,L,M,1
+C680,Cessna,Citation Sovereign,2,J,A,L,M,1
+C68A,Cessna,680A Citation Latitude,2,J,A,L,M,1
+C68A,Cessna,Citation Latitude,2,J,A,L,M,1
+C700,Cessna,700 Citation Longitude,2,J,,L,M,1
+C700,Cessna,Citation Longitude,2,J,,L,M,1
+C72R,Aviones Colombia,172RG,1,P,,L,L,1
+C72R,Cessna,172RG Cutlass RG,1,P,,L,L,1
+C72R,Cessna,Cutlass RG,1,P,,L,L,1
+C750,Cessna,750 Citation 10,2,J,A,L,M,1
+C750,Cessna,Citation 10,2,J,A,L,M,1
+C77R,Aviones Colombia,177RG,1,P,,L,L,1
+C77R,Cessna,177RG Cardinal RG,1,P,,L,L,1
+C77R,Cessna,Cardinal RG,1,P,,L,L,1
+C77R,Reims,Cardinal RG,1,P,,L,L,1
+C77R,Reims,F177RG Cardinal RG,1,P,,L,L,1
+C82,Fairchild,C-82 Packet,2,P,,L,M,1
+C82,Fairchild,F-78 Packet,2,P,,L,M,1
+C82,Fairchild,Packet,2,P,,L,M,1
+C82R,Aviones Colombia,R182,1,P,,L,L,1
+C82R,Cessna,R182 Skylane RG,1,P,,L,L,1
+C82R,Cessna,Skylane RG,1,P,,L,L,1
+C82R,Reims,FR182 Skylane RG,1,P,,L,L,1
+C82R,Reims,Skylane RG,1,P,,L,L,1
+C82R,Cessna,TR182 Turbo Skylane RG,1,P,,L,L,0
+C82R,Cessna,Turbo Skylane RG,1,P,,L,L,0
+C82S,Cessna,T182 Turbo Skylane,1,P,,L,L,1
+C82S,Cessna,Turbo Skylane,1,P,,L,L,1
+C82T,Cessna,TR182 Turbo Skylane RG,1,P,,L,L,1
+C82T,Cessna,Turbo Skylane RG,1,P,,L,L,1
+C919,Comac,C-919,2,J,,L,M,1
+C97,Boeing,C-97 Stratofreighter,4,P,,L,M,1
+C97,Boeing,Stratofreighter,4,P,,L,M,1
+CA12,Comp Air,CA-12 Comp Air 12,1,T,,L,L,1
+CA12,Comp Air,Comp Air 12,1,T,,L,L,1
+CA19,Commonwealth Aircraft (Aus),Boomerang,1,P,,L,L,1
+CA19,Commonwealth Aircraft (Aus),CA-13 Boomerang,1,P,,L,L,1
+CA19,Commonwealth Aircraft (Aus),CA-19 Boomerang,1,P,,L,L,1
+CA1P,Aerocomp,CA-10 Comp Air 10,1,P,,L,L,1
+CA1P,Aerocomp,Comp Air 10,1,P,,L,L,1
+CA1T,Aerocomp,CA-10T Comp Air 10T,1,T,,L,L,1
+CA1T,Aerocomp,CA-10XLT Comp Air 10XLT,1,T,,L,L,1
+CA1T,Aerocomp,Comp Air 10T,1,T,,L,L,1
+CA1T,Comp Air,CA-10XLT Comp Air 10XLT,1,T,,L,L,1
+CA1T,Comp Air,Comp Air 10XLT,1,T,,L,L,1
+CA1T,Aerocomp,CA-10T  Comp Air 10T,1,T,,L,L,0
+CA25,Commonwealth Aircraft (Aus),CA-25 Winjeel,1,P,,L,L,1
+CA25,Commonwealth Aircraft (Aus),Winjeel,1,P,,L,L,1
+CA3,Aerocomp,CA-3 Comp Air 3,1,P,,L,L,1
+CA3,Aerocomp,Comp Air 3,1,P,,L,L,1
+CA3,Comp Air,CA-3 Comp Air 3,1,P,,L,L,1
+CA3,Comp Air,Comp Air 3,1,P,,L,L,1
+CA4,Aerocomp,CA-4 Comp Air 4,1,P,,L,L,1
+CA4,Aerocomp,CA-4 Comp Monster,1,P,,L,L,1
+CA4,Aerocomp,Comp Air 4,1,P,,L,L,1
+CA4,Aerocomp,Comp Monster,1,P,,L,L,1
+CA4,Comp Air,CA-4 Comp Air 4,1,P,,L,L,1
+CA4,Comp Air,CA-4 Comp Monster,1,P,,L,L,1
+CA4,Comp Air,Comp Air 4,1,P,,L,L,1
+CA4,Comp Air,Comp Monster,1,P,,L,L,1
+CA41,Corvus,CA-41 Racer,1,P,,L,L,1
+CA41,Corvus,Racer,1,P,,L,L,1
+CA6,Aerocomp,CA-6 Comp Air 6,1,P,,L,L,1
+CA6,Aerocomp,Comp Air 6,1,P,,L,L,1
+CA6,Comp Air,CA-6 Comp Air 6,1,P,,L,L,1
+CA6,Comp Air,Comp Air 6,1,P,,L,L,1
+CA61,Cvjetkovic,CA-61 Mini Ace,1,P,,L,L,1
+CA61,Cvjetkovic,Mini Ace,1,P,,L,L,1
+CA65,Cvjetkovic,CA-65 Skyfly,1,P,,L,L,1
+CA65,Cvjetkovic,Skyfly,1,P,,L,L,1
+CA7P,Aerocomp,CA-7P Comp Air 7P,1,P,,L,L,1
+CA7P,Aerocomp,CA-7SL Comp Air 7SL,1,P,,L,L,1
+CA7P,Aerocomp,Comp Air 7P,1,P,,L,L,1
+CA7P,Aerocomp,Comp Air 7SL,1,P,,L,L,1
+CA7P,Comp Air,CA-7P Comp Air 7P,1,P,,L,L,1
+CA7P,Comp Air,Comp Air 7P,1,P,,L,L,1
+CA7T,Aerocomp,CA-7SLX Comp Air 7SLX,1,T,,L,L,1
+CA7T,Aerocomp,CA-7T Comp Air 7T,1,T,,L,L,1
+CA7T,Aerocomp,Comp Air 7SLX,1,T,,L,L,1
+CA7T,Aerocomp,Comp Air 7T,1,T,,L,L,1
+CA7T,Comp Air,CA-7SLX Comp Air 7SLX,1,T,,L,L,1
+CA7T,Comp Air,CA-7T Comp Air 7T,1,T,,L,L,1
+CA7T,Comp Air,Comp Air 7SLX,1,T,,L,L,1
+CA7T,Comp Air,Comp Air 7T,1,T,,L,L,1
+CA7T,Comp Air,CA-7SLX  Comp Air 7SLX,1,T,,L,L,0
+CA8,Aerocomp,CA-8 Comp Air 8,1,T,,L,L,1
+CA8,Aerocomp,Comp Air 8,1,T,,L,L,1
+CA8,Comp Air,CA-8 Comp Air 8,1,T,,L,L,1
+CA8,Comp Air,Comp Air 8,1,T,,L,L,1
+CA9,Comp Air,CA-9 Comp Air 9,1,T,,L,L,1
+CA9,Comp Air,Comp Air 9,1,T,,L,L,1
+CABI,Universal Composite,Carbon Bird,1,T,,L,L,1
+CABN,Paramount,Cabinaire,1,P,,L,L,1
+CAD2,Class,Bush Caddy R-120,1,P,,L,L,1
+CAD2,Class,Bush Caddy R-80,1,P,,L,L,1
+CAD2,Delisle,Cadi,1,P,,L,L,1
+CAD4,Class,Bush Caddy L-160,1,P,,L,L,1
+CAD4,Class,Bush Caddy L-162,1,P,,L,L,1
+CAD4,Class,Bush Caddy L-164,1,P,,L,L,1
+CAJ,Aerocomp,CA-J Comp Air Jet,1,J,,L,L,1
+CAJ,Aerocomp,Comp Air Jet,1,J,,L,L,1
+CAJ,Comp Air,CA-J Comp Air Jet,1,J,,L,L,1
+CAJ,Comp Air,Comp Air Jet,1,J,,L,L,1
+CAML,Sopwith,Camel,1,P,,L,L,1
+CAML,Sopwith,Camel Replica,1,P,,L,L,1
+CAMP,Grega,Aircamper,1,P,,L,L,1
+CAMP,Grega,GN-1 Aircamper,1,P,,L,L,1
+CAMP,Pietenpol,Aircamper,1,P,,L,L,1
+CAMP,Pietenpol,B-4 Aircamper,1,P,,L,L,1
+CAMP,St. Croix,Pietenpol Aircamper,1,P,,L,L,1
+CAN4,Campana,AN-4,1,P,,L,L,1
+CAPL,Capella,Capella,1,P,,L,L,1
+CAPL,Flightworks,Capella,1,P,,L,L,1
+CAR,Aerocar,Aerocar,1,P,,L,L,1
+CARV,Aviation Traders,ATL-98 Carvair,4,P,,L,M,1
+CARV,Aviation Traders,Carvair,4,P,,L,M,1
+CASS,Cassutt,Special,1,P,,L,L,1
+CASS,National Aeronautics,Cassutt 3M,1,P,,L,L,1
+CAT,Boeing Canada,Canso,2,P,,A,M,1
+CAT,Boeing Canada,Catalina,2,P,,A,M,1
+CAT,Boeing Canada,PBY Catalina,2,P,,A,M,1
+CAT,Canadair,A-10 Catalina,2,P,,A,M,1
+CAT,Canadair,Catalina,2,P,,A,M,1
+CAT,Canadair,CL-1 Catalina,2,P,,A,M,1
+CAT,Canadair,OA-10 Catalina,2,P,,A,M,1
+CAT,Canadian Vickers,A-10 Catalina,2,P,,A,M,1
+CAT,Canadian Vickers,Canso,2,P,,A,M,1
+CAT,Canadian Vickers,Catalina,2,P,,A,M,1
+CAT,Canadian Vickers,OA-10 Catalina,2,P,,A,M,1
+CAT,Canadian Vickers,PBV Catalina,2,P,,A,M,1
+CAT,Canadian Vickers,PBY Catalina,2,P,,A,M,1
+CAT,Consolidated,28 Catalina,2,P,,A,M,1
+CAT,Consolidated,A-10 Catalina,2,P,,A,M,1
+CAT,Consolidated,Canso,2,P,,A,M,1
+CAT,Consolidated,Catalina,2,P,,A,M,1
+CAT,Consolidated,OA-10 Catalina,2,P,,A,M,1
+CAT,Consolidated,PBY Catalina,2,P,,A,M,1
+CAT,Convair,28 Catalina,2,P,,A,M,1
+CAT,Convair,A-10 Catalina,2,P,,A,M,1
+CAT,Convair,Catalina,2,P,,A,M,1
+CAT,Convair,OA-10 Catalina,2,P,,A,M,1
+CAT,Convair,PBY Catalina,2,P,,A,M,1
+CAT1,Creative Flight,Aerocat SR,1,P,,L,L,1
+CAT1,Creative Flight,MPA Aerocat SR,1,P,,L,L,1
+CAT2,Creative Flight,Aerocat TR,2,P,,L,L,1
+CAT2,Creative Flight,MPA Aerocat TR,2,P,,L,L,1
+CAW,Cessna,AW,1,P,,L,L,1
+CB1,Hatz,Biplane,1,P,,L,L,1
+CB1,Hatz,CB-1 Biplane,1,P,,L,L,1
+CB1,Makelan,Hatz Classic,1,P,,L,L,1
+CC19,Cub Crafters,CC-19 NXCub,1,P,,L,L,1
+CC19,Cub Crafters,CC-19 XCub,1,P,,L,L,1
+CC19,Cub Crafters,NXCub,1,P,,L,L,1
+CC19,Cub Crafters,XCub,1,P,,L,L,1
+CD2,Claudius Dornier,CD-2 Seastar,2,T,,A,L,1
+CD2,Claudius Dornier,Seastar,2,T,,A,L,1
+CDC6,Cessna,DC-6,1,P,,L,L,1
+CDUS,AutoGyro,Calidus,1,P,,G,L,1
+CDUS,RotorSport,Calidus,1,P,,G,L,1
+CDW1,Chilton,DW-1,1,P,,L,L,1
+CE15,Chernov,Che-15,1,P,,S,L,1
+CE22,A-41,VNS-41,2,P,,A,L,1
+CE22,ARC-41,VNS-41,2,P,,A,L,1
+CE22,Chernov,Che-22 Corvette,2,P,,A,L,1
+CE22,Chernov,Corvette,2,P,,A,L,1
+CE22,Hydroplane,Che-22 Corvette,2,P,,A,L,1
+CE22,Hydroplane,Che-22 Pelican,2,P,,A,L,1
+CE22,Hydroplane,Corvette,2,P,,A,L,1
+CE22,Hydroplane,Pelican,2,P,,A,L,1
+CE23,Chernov,Che-23,1,P,,A,L,1
+CE25,Chernov,Che-25,2,P,,A,L,1
+CE25,Hydroplane,Che-25,2,P,,A,L,1
+CE27,Chernov,Che-27,2,P,,A,L,1
+CE27,Status Avia,SA-1 Status,2,P,,A,L,1
+CE27,Status Avia,Status,2,P,,A,L,1
+CE43,CERVA,CE-43 Guepard,1,P,,L,L,1
+CE43,CERVA,Guepard,1,P,,L,L,1
+CEGL,Celair,Eagle 300,1,P,,L,L,1
+CELR,Mirage,Celerity,1,P,,L,L,1
+CENT,Found,100 Centennial,1,P,,L,L,1
+CENT,Found,Centennial,1,P,,L,L,1
+CFRE,Colyaer,Freedom,1,P,,A,L,1
+CFRE,Colyaer,Mascato,1,P,,A,L,1
+CG3,Caudron,G-3,1,P,,L,L,1
+CG3,Caudron,G-3 Replica,1,P,,L,L,1
+CGAN,Colyaer,Gannet,1,P,,S,L,1
+CH1,AIDC,A-CH-1 Chung-Tsing,1,T,,L,L,1
+CH1,AIDC,Chung-Tsing,1,T,,L,L,1
+CH1,AIDC,R-CH-1 Chung-Tsing,1,T,,L,L,1
+CH1,AIDC,T-CH-1 Chung-Tsing,1,T,,L,L,1
+CH10,Zenair,CH-100 Mono-Z,1,P,,L,L,1
+CH10,Zenair,CH-100 Mono-Zénith,1,P,,L,L,1
+CH10,Zenair,Mono-Z,1,P,,L,L,1
+CH10,Zenair,Mono-Zénith,1,P,,L,L,1
+CH12,Cicare,CH-12,1,P,,H,L,1
+CH14,Cicare,Aguilucho,1,T,,H,L,1
+CH14,Cicare,CH-14 Aguilucho,1,T,,H,L,1
+CH15,Zenair,Acro-Z,1,P,,L,L,1
+CH15,Zenair,Acro-Zénith,1,P,,L,L,1
+CH15,Zenair,CH-150 Acro-Z,1,P,,L,L,1
+CH15,Zenair,CH-150 Acro-Zénith,1,P,,L,L,1
+CH18,Zenair,CH-180 Super Acro-Z,1,P,,L,L,1
+CH18,Zenair,CH-180 Super Acro-Zénith,1,P,,L,L,1
+CH18,Zenair,Super Acro-Z,1,P,,L,L,1
+CH18,Zenair,Super Acro-Zénith,1,P,,L,L,1
+CH20,Heintz,CH-200 Zénith,1,P,,L,L,1
+CH20,Heintz,Zénith,1,P,,L,L,1
+CH20,Zenair,CH-200 Zénith,1,P,,L,L,1
+CH20,Zenair,Zénith (CH-200),1,P,,L,L,1
+CH25,Zenair,CH-250 Zénith,1,P,,L,L,1
+CH25,Zenair,Zénith (CH-250),1,P,,L,L,1
+CH2T,AMD,Alarus,1,P,,L,L,1
+CH2T,AMD,CH-2000 Alarus,1,P,,L,L,1
+CH2T,AMD,CH-2000 Zénith,1,P,,L,L,1
+CH2T,AMD,Zénith,1,P,,L,L,1
+CH2T,Jordan Aerospace,CH-2000 Sama,1,P,,L,L,1
+CH2T,Jordan Aerospace,Sama,1,P,,L,L,1
+CH2T,Zenair,CH-2000 Zénith,1,P,,L,L,1
+CH2T,Zenair,Zénith (CH-2000),1,P,,L,L,1
+CH3,CHRISLEA,CH-3 Skyjeep,1,P,,L,L,1
+CH3,CHRISLEA,CH-3 Super Ace,1,P,,L,L,1
+CH3,CHRISLEA,Skyjeep,1,P,,L,L,1
+CH3,CHRISLEA,Super Ace,1,P,,L,L,1
+CH30,Zenair,CH-300 Tri-Z,1,P,,L,L,1
+CH30,Zenair,CH-300 Tri-Zénith,1,P,,L,L,1
+CH30,Zenair,Tri-Z,1,P,,L,L,1
+CH30,Zenair,Tri-Zénith,1,P,,L,L,1
+CH40,Champion,402 Lancer,2,P,,L,L,1
+CH40,Champion,Lancer,2,P,,L,L,1
+CH50,Zenair,CH-50 Mini Zénith,1,P,,L,L,1
+CH50,Zenair,CH-50 Mini-Z,1,P,,L,L,1
+CH50,Zenair,Mini Zénith,1,P,,L,L,1
+CH50,Zenair,Mini-Z,1,P,,L,L,1
+CH60,AMD,CH-601 Zodiac,1,P,,L,L,1
+CH60,AMD,Zodiac (CH-601),1,P,,L,L,1
+CH60,CZAW,CH-601 Zodiac,1,P,,L,L,1
+CH60,CZAW,Zodiac,1,P,,L,L,1
+CH60,Derazona,CH-601 Zodiac,1,P,,L,L,1
+CH60,Derazona,Zodiac,1,P,,L,L,1
+CH60,Roland,601 Zodiac,1,P,,L,L,1
+CH60,Roland,CH-602 Zodiac,1,P,,L,L,1
+CH60,Roland,Z-602,1,P,,L,L,1
+CH60,Roland,Z-602 Zodiac,1,P,,L,L,1
+CH60,Roland,Zodiac,1,P,,L,L,1
+CH60,Zenair,CH-600 Zodiac,1,P,,L,L,1
+CH60,Zenair,CH-601 Super Zodiac,1,P,,L,L,1
+CH60,Zenair,CH-601 Zodiac,1,P,,L,L,1
+CH60,Zenair,Super Zodiac,1,P,,L,L,1
+CH60,Zenair,Zodiac (CH-600/601),1,P,,L,L,1
+CH60,Zénith,CH-601 Super Zodiac,1,P,,L,L,1
+CH60,Zénith,CH-601 Zodiac,1,P,,L,L,1
+CH60,Zénith,Super Zodiac,1,P,,L,L,1
+CH60,Zénith,Zodiac (CH-601),1,P,,L,L,1
+CH62,Zenair,CH-620 Gemini,2,P,,L,L,1
+CH62,Zenair,Gemini,2,P,,L,L,1
+CH62,Zénith,CH-620 Gemini,2,P,,L,L,1
+CH62,Zénith,Gemini,2,P,,L,L,1
+CH64,Zenair,CH-640 Zodiac,1,P,,L,L,1
+CH64,Zenair,Zodiac (CH-640),1,P,,L,L,1
+CH64,Zénith,CH-640 Zodiac,1,P,,L,L,1
+CH64,Zénith,Zodiac (CH-640),1,P,,L,L,1
+CH65,AMD,CH-650 Zodiac,1,P,,L,L,1
+CH65,AMD,Zodiac (CH-650),1,P,,L,L,1
+CH7,Heli-Sport,CH-7 Kompress,1,P,,H,L,1
+CH7,Heli-Sport,Kompress,1,P,,H,L,1
+CH70,Aerobravo,Bravo,1,P,,L,L,1
+CH70,CZAW,CH-701 Stol,1,P,,L,L,1
+CH70,CZAW,Stol (CH-701),1,P,,L,L,1
+CH70,Roland,701 Stol,1,P,,L,L,1
+CH70,Roland,S-Stol,1,P,,L,L,1
+CH70,Roland,Stol,1,P,,L,L,1
+CH70,Zenair,CH-701 Stol,1,P,,L,L,1
+CH70,Zenair,Stol (CH-701),1,P,,L,L,1
+CH70,Zénith,CH-701 Stol,1,P,,L,L,1
+CH70,Zénith,Stol (CH-701),1,P,,L,L,1
+CH70,Roland,Zodiac,1,P,,L,L,0
+CH75,AMD,CH-750 Cruzer,1,P,,L,L,1
+CH75,AMD,CH-750 Stol,1,P,,L,L,1
+CH75,AMD,Cruzer,1,P,,L,L,1
+CH75,AMD,Stol,1,P,,L,L,1
+CH75,Zenair,CH-750 Cruzer,1,P,,L,L,1
+CH75,Zenair,CH-750 Stol,1,P,,L,L,1
+CH75,Zenair,Cruzer,1,P,,L,L,1
+CH75,Zenair,Stol,1,P,,L,L,1
+CH75,Zénith,CH-750 Cruzer,1,P,,L,L,1
+CH75,Zénith,CH-750 Stol,1,P,,L,L,1
+CH75,Zénith,Cruzer,1,P,,L,L,1
+CH75,Zénith,Stol,1,P,,L,L,1
+CH7A,Aeronca,7AC Champion,1,P,,L,L,1
+CH7A,Aeronca,7BCM,1,P,,L,L,1
+CH7A,Aeronca,7CC Champion,1,P,,L,L,1
+CH7A,Aeronca,7CCM,1,P,,L,L,1
+CH7A,Aeronca,7DC Champion,1,P,,L,L,1
+CH7A,Aeronca,7EC Traveler,1,P,,L,L,1
+CH7A,Aeronca,Champion,1,P,,L,L,1
+CH7A,Aeronca,L-16,1,P,,L,L,1
+CH7A,Aeronca,Traveler,1,P,,L,L,1
+CH7A,American Champion,7EC Champ,1,P,,L,L,1
+CH7A,American Champion,7ECA Citabria Aurora,1,P,,L,L,1
+CH7A,American Champion,Champ,1,P,,L,L,1
+CH7A,American Champion,Citabria Aurora,1,P,,L,L,1
+CH7A,Bellanca,7ACA Champ,1,P,,L,L,1
+CH7A,Bellanca,7ECA Citabria,1,P,,L,L,1
+CH7A,Bellanca,Champ,1,P,,L,L,1
+CH7A,Bellanca,Citabria (7ECA),1,P,,L,L,1
+CH7A,Champion,7EC Traveler,1,P,,L,L,1
+CH7A,Champion,7ECA Citabria,1,P,,L,L,1
+CH7A,Champion,7FC Tri-Traveler,1,P,,L,L,1
+CH7A,Champion,7JC Tri-Con,1,P,,L,L,1
+CH7A,Champion,Citabria (7ECA),1,P,,L,L,1
+CH7A,Champion,Traveler,1,P,,L,L,1
+CH7A,Champion,Tri-Con,1,P,,L,L,1
+CH7A,Champion,Tri-Traveler,1,P,,L,L,1
+CH7B,American Champion,7GCAA Citabria Adventure,1,P,,L,L,1
+CH7B,American Champion,7GCAA Citabria Ultimate Adventure,1,P,,L,L,1
+CH7B,American Champion,7GCBC Citabria Explorer,1,P,,L,L,1
+CH7B,American Champion,7GCBC Citabria High Country Explorer,1,P,,L,L,1
+CH7B,American Champion,Citabria Adventure,1,P,,L,L,1
+CH7B,American Champion,Citabria Explorer,1,P,,L,L,1
+CH7B,American Champion,Citabria High Country Explorer,1,P,,L,L,1
+CH7B,American Champion,Citabria Ultimate Adventure,1,P,,L,L,1
+CH7B,Bellanca,7GCBC Citabria,1,P,,L,L,1
+CH7B,Bellanca,7KCAB Citabria,1,P,,L,L,1
+CH7B,Bellanca,Citabria (7GCBC/7KCAB),1,P,,L,L,1
+CH7B,Champion,7GC Sky-Trac,1,P,,L,L,1
+CH7B,Champion,7GCA Sky-Trac,1,P,,L,L,1
+CH7B,Champion,7GCAA,1,P,,L,L,1
+CH7B,Champion,7GCB Challenger,1,P,,L,L,1
+CH7B,Champion,7GCBA Challenger,1,P,,L,L,1
+CH7B,Champion,7GCBC Citabria,1,P,,L,L,1
+CH7B,Champion,7HC DX'er,1,P,,L,L,1
+CH7B,Champion,7KC Olympia,1,P,,L,L,1
+CH7B,Champion,7KCAB Citabria,1,P,,L,L,1
+CH7B,Champion,Challenger,1,P,,L,L,1
+CH7B,Champion,Citabria (7GCBC/7KCAB),1,P,,L,L,1
+CH7B,Champion,DX'er,1,P,,L,L,1
+CH7B,Champion,Olympia,1,P,,L,L,1
+CH7B,Champion,Sky-Trac,1,P,,L,L,1
+CH7B,American Champion,Citabria  Ultimate Adventure,1,P,,L,L,0
+CH80,CZAW,CH-801 Stol,1,P,,L,L,1
+CH80,CZAW,Stol (CH-801),1,P,,L,L,1
+CH80,Jordan Aerospace,CH-8000 Hawk 1,1,P,,L,L,1
+CH80,Jordan Aerospace,CH-8000 Shark,1,P,,L,L,1
+CH80,Jordan Aerospace,Hawk 1,1,P,,L,L,1
+CH80,Jordan Aerospace,Shark,1,P,,L,L,1
+CH80,Zenair,CH-801 Stol,1,P,,L,L,1
+CH80,Zenair,Stol (CH-801),1,P,,L,L,1
+CH80,Zénith,CH-801 Stol,1,P,,L,L,1
+CH80,Zénith,Stol (CH-801),1,P,,L,L,1
+CHAN,Cadcor,Chanute,1,P,,L,L,1
+CHCS,Alpaero,Choucas,1,P,,L,L,1
+CHCS,Noin,Choucas,1,P,,L,L,1
+CHGO,Korean Air,Chang-Gong 91,1,P,,L,L,1
+CHGO,Korean Air,CHK-91 Chang-Gong 91,1,P,,L,L,1
+CHIC,Podesva,Chico,1,P,,L,L,1
+CHIF,Pawnee,Chief,1,P,,H,L,1
+CHIN,ASAP,Chinook,1,P,,L,L,1
+CHIP,Leger,Super-Chipmunk,1,P,,L,L,1
+CHIP,Super-Chipmunk,Super-Chipmunk,1,P,,L,L,1
+CHR1,Elmwood,CA-05 Christavia Mk1,1,P,,L,L,1
+CHR1,Elmwood,Christavia Mk1,1,P,,L,L,1
+CHR4,Elmwood,CH-8 Christavia Mk4,1,P,,L,L,1
+CHR4,Elmwood,Christavia Mk4,1,P,,L,L,1
+CHSY,Chayair,Sycamore,1,P,,G,L,1
+CICA,Hydroplane,Cicada,2,P,,L,L,1
+CICA,Hydroplane,SkyWind,2,P,,L,L,1
+CJ1,Corby,CJ-1 Starlet,1,P,,L,L,1
+CJ1,Corby,Starlet,1,P,,L,L,1
+CJ6,Hongdu,BT-6,1,P,,L,L,1
+CJ6,Hongdu,CJ-6,1,P,,L,L,1
+CJ6,Nanchang,CJ-6,1,P,,L,L,1
+CJ6,Nanchang,PT-6,1,P,,L,L,1
+CKUO,AIDC,Ching-Kuo,2,J,,L,M,1
+CKUO,AIDC,F-CK-1 Ching-Kuo,2,J,,L,M,1
+CL2P,Canadair,CL-215,2,P,,A,M,1
+CL2T,Canadair,CL-215T,2,T,,A,M,1
+CL2T,Canadair,CL-415,2,T,,A,M,1
+CL2T,Canadair,CL-415 SuperScooper,2,T,,A,M,1
+CL2T,Canadair,SuperScooper,2,T,,A,M,1
+CL30,Bombardier,BD-100 Challenger 300,2,J,A,L,M,1
+CL30,Bombardier,Challenger 300,2,J,A,L,M,1
+CL35,Bombardier,BD-100 Challenger 350,2,J,A,L,M,1
+CL35,Bombardier,Challenger 350,2,J,A,L,M,1
+CL41,Canadair,CL-41 Tutor,1,J,,L,L,1
+CL41,Canadair,CT-114 Tutor,1,J,,L,L,1
+CL41,Canadair,Tutor,1,J,,L,L,1
+CL44,Canadair,CL-44 Forty Four,4,T,,L,M,0
+CL44,Canadair,Forty Four,4,T,,L,M,0
+CL4G,Canadair,CL-44-O Guppy,4,T,,L,M,1
+CL4G,Canadair,Guppy,4,T,,L,M,1
+CL4G,Conroy,CL-44-O Guppy,4,T,,L,M,1
+CL4G,Conroy,Guppy,4,T,,L,M,1
+CL60,Bombardier,Challenger 650,2,J,A,L,M,1
+CL60,Bombardier,CL-600 Challenger 650,2,J,A,L,M,1
+CL60,Canadair,C-143 Challenger 604,2,J,A,L,M,1
+CL60,Canadair,CC-144 Challenger 600,2,J,A,L,M,1
+CL60,Canadair,CC-144B Challenger 601,2,J,A,L,M,1
+CL60,Canadair,CE-144A Challenger 600,2,J,A,L,M,1
+CL60,Canadair,Challenger 600,2,J,A,L,M,1
+CL60,Canadair,Challenger 601,2,J,A,L,M,1
+CL60,Canadair,Challenger 604,2,J,A,L,M,1
+CL60,Canadair,Challenger 605,2,J,A,L,M,1
+CL60,Canadair,CL-600 Challenger 600,2,J,A,L,M,1
+CL60,Canadair,CL-600 Challenger 601,2,J,A,L,M,1
+CL60,Canadair,CL-600 Challenger 604,2,J,A,L,M,1
+CL60,Canadair,CL-600 Challenger 605,2,J,A,L,M,1
+CL8,Carriou,CL-8 RSA Club,1,P,,L,L,1
+CL8,Carriou,RSA Club,1,P,,L,L,1
+CLA,Callair,A-2,1,P,,L,L,1
+CLA,Callair,A-3,1,P,,L,L,1
+CLA,Callair,A-4,1,P,,L,L,1
+CLB1,Aero Commander,Ag Commander (B-1),1,P,,L,L,1
+CLB1,Aero Commander,B-1 Ag Commander,1,P,,L,L,1
+CLB1,IMCO,Callair B-1,1,P,,L,L,1
+CLB1,North American Rockwell,B-1 Snipe Commander,1,P,,L,L,1
+CLB1,North American Rockwell,Snipe Commander,1,P,,L,L,1
+CLBR,Fisher,Celebrity,1,P,,L,L,1
+CLBR,Fisher Aero,Celebrity,1,P,,L,L,1
+CLD2,Rotortec,Cloud Dancer 2,1,P,,G,L,1
+CLDS,Rearwin,8090 Cloudster,1,P,,L,L,1
+CLDS,Rearwin,8125 Cloudster,1,P,,L,L,1
+CLDS,Rearwin,8135 Cloudster,1,P,,L,L,1
+CLDS,Rearwin,Cloudster,1,P,,L,L,1
+CLON,AutoGyro,Cavalon,1,P,,G,L,1
+CLON,RotorSport,Cavalon,1,P,,G,L,1
+CMA3,Colyaer,Martin 3,1,P,,L,L,1
+CMAS,Cessna,Airmaster,1,P,,L,L,1
+CMAS,Cessna,C-145 Airmaster,1,P,,L,L,1
+CMAS,Cessna,C-165 Airmaster,1,P,,L,L,1
+CMAS,Cessna,C-34,1,P,,L,L,1
+CMAS,Cessna,C-37,1,P,,L,L,1
+CMAS,Cessna,C-38 Airmaster,1,P,,L,L,1
+CMD1,Air Command,Commander 147,1,P,,G,L,1
+CMDE,Air Command,Commander Elite Side-by-Side,1,P,,G,L,1
+CMDT,Air Command,Commander Elite Tandem,1,P,,G,L,1
+CMDT,Air Command,Commander  Elite Tandem ,1,P,,G,L,0
+CN12,Circa,Nieuport 12-7/8,1,P,,L,L,1
+CN35,Airbus,CN-235,2,T,,L,M,1
+CN35,Airbus,CN-235 Persuader,2,T,,L,M,1
+CN35,Airbus,HC-144 Ocean Sentry,2,T,,L,M,1
+CN35,Airbus,Ocean Sentry,2,T,,L,M,1
+CN35,Airbus,Persuader (CN-235),2,T,,L,M,1
+CN35,Aircraft Technology Industries,CN-235,2,T,,L,M,1
+CN35,Aircraft Technology Industries,CN-235 Persuader,2,T,,L,M,1
+CN35,Aircraft Technology Industries,Persuader,2,T,,L,M,1
+CN35,CASA,CN-235,2,T,,L,M,1
+CN35,CASA,CN-235 Persuader,2,T,,L,M,1
+CN35,CASA,HC-144 Ocean Sentry,2,T,,L,M,1
+CN35,CASA,Ocean Sentry,2,T,,L,M,1
+CN35,CASA,Persuader (CN-235),2,T,,L,M,1
+CN35,Dirgantara,CN-235,2,T,,L,M,1
+CN35,Nurtanio,CN-235,2,T,,L,M,1
+CN35,Nusantara,CN-235,2,T,,L,M,1
+CN35,TAI,CN-235,2,T,,L,M,1
+CN35,TAI,CN-235 Persuader,2,T,,L,M,1
+CN35,TAI,Persuader,2,T,,L,M,1
+CNBR,BAC,Canberra,2,J,,L,M,1
+CNBR,English Electric,Canberra,2,J,,L,M,1
+CNBR,Short,Canberra,2,J,,L,M,1
+CNDR,General Avia,Condor,2,T,,L,L,1
+CNDR,General Avia,F-20TP Condor,2,T,,L,L,1
+CNGP,Cessna,NGP,1,P,,L,L,1
+CNUK,Fleet,80 Canuck,1,P,,L,L,1
+CNUK,Fleet,Canuck,1,P,,L,L,1
+CNUK,Leavens,80 Canuck,1,P,,L,L,1
+CNUK,Leavens,Canuck,1,P,,L,L,1
+CO50,COBALT,Co-50 Valkyrie,1,P,,L,L,1
+CO50,COBALT,Valkyrie,1,P,,L,L,1
+COAR,Cobra,Arrow,1,P,,L,L,1
+COBR,Deborde-Rolland,Cobra,1,P,,L,L,1
+COL3,Cessna,350,1,P,,L,L,1
+COL3,Cessna,350 Corvalis,1,P,,L,L,1
+COL3,Cessna,Corvalis,1,P,,L,L,1
+COL3,Cessna,LC-42,1,P,,L,L,1
+COL3,Cessna,LC-42 Corvalis,1,P,,L,L,1
+COL3,Columbia,Columbia 350,1,P,,L,L,1
+COL3,Columbia,LC-42 Columbia 350,1,P,,L,L,1
+COL3,Lancair,Columbia 300,1,P,,L,L,1
+COL3,Lancair,Columbia 350,1,P,,L,L,1
+COL3,Lancair,LC-40 Columbia 300,1,P,,L,L,1
+COL3,Lancair,LC-42 Columbia 350,1,P,,L,L,1
+COL4,Cessna,400,1,P,,L,L,1
+COL4,Cessna,400 Corvalis TT,1,P,,L,L,1
+COL4,Cessna,Corvalis TT,1,P,,L,L,1
+COL4,Cessna,LC-41,1,P,,L,L,1
+COL4,Cessna,LC-41 Corvalis TT,1,P,,L,L,1
+COL4,Columbia,Columbia 400,1,P,,L,L,1
+COL4,Columbia,LC-41 Columbia 400,1,P,,L,L,1
+COL4,Lancair,Columbia 400,1,P,,L,L,1
+COL4,Lancair,LC-41 Columbia 400,1,P,,L,L,1
+COLT,TEXAS AIRCRAFT,Colt,1,P,,L,L,1
+COLT,TEXAS AIRCRAFT,TA-01,1,P,,L,L,1
+COMU,Helicom,Commuter,1,P,,H,L,1
+COMU,Helicom,H-1 Commuter,1,P,,H,L,1
+COMU,International Helicopters,Commuter,1,P,,H,L,1
+COMU,International Helicopters,H-1 Commuter,1,P,,H,L,1
+COMU,Tamarind,Commuter,1,P,,H,L,1
+COMU,Tamarind,H-1 Commuter,1,P,,H,L,1
+CONC,Aerospatiale - British Aerospace,Concorde,4,J,W,L,H,0
+CONI,Lockheed,C-121 Constellation,4,P,,L,M,1
+CONI,Lockheed,Constellation,4,P,,L,M,1
+CONI,Lockheed,EC-121 Constellation,4,P,,L,M,1
+CONI,Lockheed,L-049 Constellation,4,P,,L,M,1
+CONI,Lockheed,L-1049 Super Constellation,4,P,,L,M,1
+CONI,Lockheed,L-749 Constellation,4,P,,L,M,1
+CONI,Lockheed,R7V Constellation,4,P,,L,M,1
+CONI,Lockheed,RC-121 Constellation,4,P,,L,M,1
+CONI,Lockheed,Super Constellation,4,P,,L,M,1
+CONI,Lockheed,VC-121 Constellation,4,P,,L,M,1
+CONI,Lockheed,Warning Star,4,P,,L,M,1
+CONI,Lockheed,WV Warning Star,4,P,,L,M,1
+COOT,Aerocar,Coot,1,P,,A,L,1
+COOT,Aerocar,Super Coot,1,P,,A,L,1
+COOT,Moulton B.Taylor,Coot,1,P,,A,L,1
+COOT,Moulton B.Taylor,Super Coot,1,P,,A,L,1
+CORO,Corvus,CA-21 Phantom,1,P,,L,L,1
+CORO,Corvus,Corone,1,P,,L,L,1
+CORO,Corvus,Crusader,1,P,,L,L,1
+CORO,Corvus,Phantom,1,P,,L,L,1
+CORO,T & T Aviation,Falcon,1,P,,L,L,1
+CORR,Sivel,Corriedale,1,P,,L,L,1
+CORR,Sivel,SD-27 Corriedale,1,P,,L,L,1
+CORS,Chance Vought,AU Corsair,1,P,,L,M,1
+CORS,Chance Vought,Corsair,1,P,,L,M,1
+CORS,Chance Vought,F4U Corsair,1,P,,L,M,1
+CORS,Chance Vought,V-166 Corsair,1,P,,L,M,1
+CORS,Goodyear,Corsair,1,P,,L,M,1
+CORS,Goodyear,FG Corsair,1,P,,L,M,1
+CORS,Vought-Sikorsky,Corsair,1,P,,L,M,1
+CORS,Vought-Sikorsky,F4U Corsair,1,P,,L,M,1
+CORS,Vought-Sikorsky,V-166 Corsair,1,P,,L,M,1
+CORV,Wolfsberg,Corvus,2,P,,L,L,1
+COUG,Acro Sport,Cougar,1,P,,L,L,1
+COUG,EAA,Cougar,1,P,,L,L,1
+COUG,Nesmith,Cougar,1,P,,L,L,1
+COUR,Helio,Courier,1,P,,L,L,1
+COUR,Helio,Courier 2,1,P,,L,L,1
+COUR,Helio,H-250 Courier 2,1,P,,L,L,1
+COUR,Helio,H-295 Super Courier,1,P,,L,L,1
+COUR,Helio,H-391 Courier,1,P,,L,L,1
+COUR,Helio,H-392 Strato-Courier,1,P,,L,L,1
+COUR,Helio,H-395 Courier,1,P,,L,L,1
+COUR,Helio,H-395 Super Courier,1,P,,L,L,1
+COUR,Helio,H-700 Courier,1,P,,L,L,1
+COUR,Helio,H-800 Courier,1,P,,L,L,1
+COUR,Helio,HT-295 Super Courier,1,P,,L,L,1
+COUR,Helio,Strato-Courier,1,P,,L,L,1
+COUR,Helio,Super Courier,1,P,,L,L,1
+COUR,Helio,U-10 Super Courier,1,P,,L,L,1
+COY2,Rans,Coyote 2,1,P,,L,L,1
+COY2,Rans,S-6 Coyote 2,1,P,,L,L,1
+COZJ,Co-Z,CozyJet,1,J,,L,L,1
+COZY,Aerocad,AeroCanard,1,P,,L,L,1
+COZY,Cosy,Cosy Classic,1,P,,L,L,1
+COZY,Co-Z,Cozy,1,P,,L,L,1
+COZY,Rutan,Cozy,1,P,,L,L,1
+CP10,Akrotech Europe,CAP-10,1,P,,L,L,1
+CP10,CAARP,CAP-10,1,P,,L,L,1
+CP10,Cap Aviation,CAP-10,1,P,,L,L,1
+CP10,IPE,IPE-04,1,P,,L,L,1
+CP10,Mudry,CAP-10,1,P,,L,L,1
+CP13,CAARP,CP-1310 Super Emeraude,1,P,,L,L,1
+CP13,CAARP,Super Emeraude,1,P,,L,L,1
+CP13,Piel,CP-1310 Super Emeraude,1,P,,L,L,1
+CP13,Piel,CP-1315 Super Emeraude,1,P,,L,L,1
+CP13,Piel,CP-1330 Super Emeraude,1,P,,L,L,1
+CP13,Piel,Super Emeraude (CP-1310/1315/1330),1,P,,L,L,1
+CP13,Scintex,CP-1310 Super Emeraude,1,P,,L,L,1
+CP13,Scintex,CP-1315 Super Emeraude,1,P,,L,L,1
+CP13,Scintex,CP-1330 Super Emeraude,1,P,,L,L,1
+CP13,Scintex,Super Emeraude,1,P,,L,L,1
+CP20,CAARP,CAP-20,1,P,,L,L,1
+CP20,Mudry,CAP-20,1,P,,L,L,1
+CP21,Mudry,CAP-21,1,P,,L,L,1
+CP22,Akrotech Europe,CAP-222,1,P,,L,L,1
+CP22,Cap Aviation,CAP-222,1,P,,L,L,1
+CP22,Giles,G-222,1,P,,L,L,1
+CP23,Akrotech Europe,CAP-232,1,P,,L,L,1
+CP23,Cap Aviation,CAP-232,1,P,,L,L,1
+CP23,Mudry,CAP-230,1,P,,L,L,1
+CP23,Mudry,CAP-231,1,P,,L,L,1
+CP23,Mudry,CAP-232,1,P,,L,L,1
+CP30,BINDER (1),CP-301 Smaragd,1,P,,L,L,1
+CP30,BINDER (1),Smaragd,1,P,,L,L,1
+CP30,Coopavia-Menavia,CP-301 Emeraude,1,P,,L,L,1
+CP30,Coopavia-Menavia,Emeraude,1,P,,L,L,1
+CP30,Fairtravel,Linnet,1,P,,L,L,1
+CP30,Garland,Linnet,1,P,,L,L,1
+CP30,Hainz,CP-301 Emeraude,1,P,,L,L,1
+CP30,Hainz,Emeraude,1,P,,L,L,1
+CP30,Piel,CP-30 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-301 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-302 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-304 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-305 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-309 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-311 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-315 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-316 Emeraude,1,P,,L,L,1
+CP30,Piel,CP-319 Emeraude,1,P,,L,L,1
+CP30,Piel,Emeraude,1,P,,L,L,1
+CP30,Renard,CP-301 Emeraude,1,P,,L,L,1
+CP30,Renard,Emeraude,1,P,,L,L,1
+CP30,Rouchaud,CP-301 Emeraude,1,P,,L,L,1
+CP30,Rouchaud,Emeraude,1,P,,L,L,1
+CP30,Rousseau,CP-301 Emeraude,1,P,,L,L,1
+CP30,Rousseau,Emeraude,1,P,,L,L,1
+CP30,Scanor,CP-301 Emeraude,1,P,,L,L,1
+CP30,Scanor,Emeraude,1,P,,L,L,1
+CP30,Scintex,CP-301 Emeraude,1,P,,L,L,1
+CP30,Scintex,CP-315 Emeraude,1,P,,L,L,1
+CP30,Scintex,Emeraude,1,P,,L,L,1
+CP30,SOCA,CP-301 Emeraude,1,P,,L,L,1
+CP30,SOCA,Emeraude,1,P,,L,L,1
+CP30,Stark,CP-301 Emeraude,1,P,,L,L,1
+CP30,Stark,Emeraude,1,P,,L,L,1
+CP30,Binder,CP-301 Smaragd,1,P,,L,L,0
+CP30,Binder,Smaragd,1,P,,L,L,0
+CP32,ERPALS,CP-320 Super Emeraude,1,P,,L,L,1
+CP32,ERPALS,CP-324 Super Emeraude,1,P,,L,L,1
+CP32,ERPALS,Super Emeraude,1,P,,L,L,1
+CP32,Piel,CP-320 Super Emeraude,1,P,,L,L,1
+CP32,Piel,CP-325 Super Emeraude,1,P,,L,L,1
+CP32,Piel,CP-328 Super Emeraude,1,P,,L,L,1
+CP32,Piel,Super Emeraude (CP-320/325/328),1,P,,L,L,1
+CP32,ERPALS,CP-320 SuperEmeraude,1,P,,L,L,0
+CP60,Piel,CP-60 Diamant,1,P,,L,L,1
+CP60,Piel,CP-601 Diamant,1,P,,L,L,1
+CP60,Piel,CP-604 Super Diamant,1,P,,L,L,1
+CP60,Piel,CP-605 Super Diamant,1,P,,L,L,1
+CP60,Piel,CP-607 Super Diamant,1,P,,L,L,1
+CP60,Piel,CP-615 Super Diamant,1,P,,L,L,1
+CP60,Piel,Diamant,1,P,,L,L,1
+CP60,Piel,Super Diamant,1,P,,L,L,1
+CP65,Porterfield,Collegiate,1,P,,L,L,1
+CP65,Porterfield,CP-65 Collegiate,1,P,,L,L,1
+CP75,Piel,Béryl,1,P,,L,L,1
+CP75,Piel,CP-70 Béryl,1,P,,L,L,1
+CP75,Piel,CP-701 Béryl,1,P,,L,L,1
+CP75,Piel,CP-750 Béryl,1,P,,L,L,1
+CP75,Piel,CP-751 Béryl,1,P,,L,L,1
+CP75,Piel,CP-760 Béryl,1,P,,L,L,1
+CP80,Piel,CP-80 Zéphir,1,P,,L,L,1
+CP80,Piel,CP-801 Zéphir,1,P,,L,L,1
+CP80,Piel,CP-802 Zéphir,1,P,,L,L,1
+CP80,Piel,Zéphir,1,P,,L,L,1
+CP90,Piel,CP-90 Pinocchio 2,1,P,,L,L,1
+CP90,Piel,Pinocchio 2,1,P,,L,L,1
+CP90,Piel,CP-90 Pinocchio,1,P,,L,L,0
+CP90,Piel,Pinocchio,1,P,,L,L,0
+CPNA,Pena,Capena,1,P,,L,L,1
+CPUP,Culp,Sopwith Pup,1,P,,L,L,1
+CR10,Dyn'Aero,CR-100,1,P,,L,L,1
+CR10,Dyn'Aero,CR-110,1,P,,L,L,1
+CR10,Dyn'Aero,CR-120,1,P,,L,L,1
+CRA1,Cranfield,A-1 Eagle,1,P,,L,L,1
+CRA1,Cranfield,Eagle,1,P,,L,L,1
+CRAC,Plumb,CJ-3 Cracker Jack,1,P,,L,L,1
+CRAC,Plumb,Cracker Jack,1,P,,L,L,1
+CRBN,Curtiss,50 Robin,1,P,,L,L,1
+CRBN,Curtiss,Robin,1,P,,L,L,1
+CRBN,CURTISS-ROBERTSON,50 Robin,1,P,,L,L,1
+CRBN,CURTISS-ROBERTSON,Robin,1,P,,L,L,1
+CRER,Rans,Courier,1,P,,L,L,1
+CRER,Rans,S-7 Courier,1,P,,L,L,1
+CRES,New Zealand,Cresco,1,T,,L,L,1
+CRES,Pacific Aerospace,Cresco,1,T,,L,L,1
+CRIO,Microleve,Corsario,1,P,,A,L,1
+CRJ1,Canadair,CL-600 Regional Jet CRJ-100,2,J,A,L,M,1
+CRJ1,Canadair,CL-600 Regional Jet RJ-100,2,J,A,L,M,1
+CRJ1,Canadair,Regional Jet CRJ-100,2,J,A,L,M,1
+CRJ1,Canadair,Regional Jet RJ-100,2,J,A,L,M,1
+CRJ2,Canadair,Challenger 800,2,J,A,L,M,1
+CRJ2,Canadair,Challenger 850,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Challenger 800,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Challenger 850,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Corporate Jetliner,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Regional Jet CRJ-200,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Regional Jet CRJ-440,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Regional Jet RJ-200,2,J,A,L,M,1
+CRJ2,Canadair,CL-600 Special Edition,2,J,A,L,M,1
+CRJ2,Canadair,Corporate Jetliner,2,J,A,L,M,1
+CRJ2,Canadair,Regional Jet CRJ-200,2,J,A,L,M,1
+CRJ2,Canadair,Regional Jet CRJ-440,2,J,A,L,M,1
+CRJ2,Canadair,Regional Jet RJ-200,2,J,A,L,M,1
+CRJ2,Canadair,Special Edition,2,J,A,L,M,1
+CRJ7,Bombardier,CL-600 Regional Jet CRJ-550,2,J,A,L,M,1
+CRJ7,Bombardier,Regional Jet CRJ-550,2,J,A,L,M,1
+CRJ7,Canadair,Challenger 870,2,J,A,L,M,1
+CRJ7,Canadair,CL-600 Challenger 870,2,J,A,L,M,1
+CRJ7,Canadair,CL-600 Regional Jet CRJ-700,2,J,A,L,M,1
+CRJ7,Canadair,CL-600 Regional Jet CRJ-701,2,J,A,L,M,1
+CRJ7,Canadair,Regional Jet CRJ-700,2,J,A,L,M,1
+CRJ7,Canadair,Regional Jet CRJ-701,2,J,A,L,M,1
+CRJ9,Canadair,Challenger 890,2,J,A,L,M,1
+CRJ9,Canadair,CL-600 Challenger 890,2,J,A,L,M,1
+CRJ9,Canadair,CL-600 Regional Jet CRJ-705,2,J,A,L,M,1
+CRJ9,Canadair,CL-600 Regional Jet CRJ-900,2,J,A,L,M,1
+CRJ9,Canadair,Regional Jet CRJ-705,2,J,A,L,M,1
+CRJ9,Canadair,Regional Jet CRJ-900,2,J,A,L,M,1
+CRJX,Bombardier,CL-600 Regional Jet CRJ-1000,2,J,A,L,M,1
+CRJX,Bombardier,Regional Jet CRJ-1000,2,J,A,L,M,1
+CRJX,Bombardier,CL-600 Regional Jet  CRJ-1000,2,J,A,L,M,0
+CRUZ,CAG (2),Cruiser,1,P,,L,L,1
+CRUZ,CAG (2),PS-28 Cruiser,1,P,,L,L,1
+CRUZ,CAG (2),SportsCruiser,1,P,,L,L,1
+CRUZ,CSA,Cruiser,1,P,,L,L,1
+CRUZ,CSA,PiperSport,1,P,,L,L,1
+CRUZ,CSA,PS-28 Cruiser,1,P,,L,L,1
+CRUZ,CSA,SportCruiser,1,P,,L,L,1
+CRUZ,CZAW,SportCruiser,1,P,,L,L,1
+CRUZ,Piper,PiperSport,1,P,,L,L,1
+CT4,AESL,Airtrainer,1,P,,L,L,1
+CT4,AESL,CT-4 Airtrainer,1,P,,L,L,1
+CT4,Pacific Aerospace,Airtrainer,1,P,,L,L,1
+CT4,Pacific Aerospace,Akala,1,P,,L,L,1
+CT4,Pacific Aerospace,CT-4 Airtrainer,1,P,,L,L,1
+CT4,Pacific Aerospace,CT-4 Akala,1,P,,L,L,1
+CTAH,Rainbow,Cheetah,1,P,,L,L,1
+CTAH,RAINBOW SKYREACH,Cheetah,1,P,,L,L,1
+CTLN,Fly Synthesis,Catalina,1,P,,A,L,1
+CUB2,Aces High,Cuby 2,1,P,,L,L,1
+CUCA,Culver,Cadet,1,P,,L,L,1
+CUCA,Culver,LAR Cadet,1,P,,L,L,1
+CUCA,Culver,LCA Cadet,1,P,,L,L,1
+CUCA,Culver,LFA Cadet,1,P,,L,L,1
+CUCA,Culver,PQ-14 Cadet,1,P,,L,L,1
+CUCA,Culver,PQ-8 Cadet,1,P,,L,L,1
+CUCA,La France,Cadet STF,1,P,,L,L,1
+CULP,Culp,Special,1,P,,L,L,1
+CULV,Culver,V,1,P,,L,L,1
+CULX,Fisher Aero,Culex,2,P,,L,L,1
+CVLP,Convair,C-131,2,P,,L,M,1
+CVLP,Convair,C-131 Samaritan,2,P,,L,M,1
+CVLP,Convair,Convairliner,2,P,,L,M,1
+CVLP,Convair,CV-240 Convairliner,2,P,,L,M,1
+CVLP,Convair,CV-340 Convairliner,2,P,,L,M,1
+CVLP,Convair,CV-440 Metropolitan,2,P,,L,M,1
+CVLP,Convair,ET-29,2,P,,L,M,1
+CVLP,Convair,HC-131,2,P,,L,M,1
+CVLP,Convair,Metropolitan,2,P,,L,M,1
+CVLP,Convair,Samaritan,2,P,,L,M,1
+CVLP,Convair,T-29,2,P,,L,M,1
+CVLP,Convair,VC-131G,2,P,,L,M,1
+CVLP,Convair,VT-29,2,P,,L,M,1
+CVLT,Canadair,CC-109 Cosmopolitan,2,T,,L,M,1
+CVLT,Canadair,CL-66,2,T,,L,M,1
+CVLT,Canadair,Cosmopolitan,2,T,,L,M,1
+CVLT,Canadair,CV-580,2,T,,L,M,1
+CVLT,Convair,C-131H,2,T,,L,M,1
+CVLT,Convair,CV-580,2,T,,L,M,1
+CVLT,Convair,CV-600,2,T,,L,M,1
+CVLT,Convair,CV-640,2,T,,L,M,1
+CVLT,Kelowna,CV-5800,2,T,,L,M,1
+CX5,Thatcher,CX-5,1,P,,L,L,1
+CYCL,Carlson,Skycycle,1,P,,L,L,1
+CYGT,Hawker,Cygnet,1,P,,L,L,1
+CYGT,Hawker,Cygnet Replica,1,P,,L,L,1

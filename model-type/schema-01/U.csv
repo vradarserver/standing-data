@@ -1,0 +1,140 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+U15,PHOENIX AIR,Phoenix,1,P,,L,L,1
+U15,PHOENIX AIR,U-15 Phoenix,1,P,,L,L,1
+U16,Grumman,Albatross,2,P,,A,M,1
+U16,Grumman,G-111 Albatross,2,P,,A,M,1
+U16,Grumman,G-64 Albatross,2,P,,A,M,1
+U16,Grumman,HU-16 Albatross,2,P,,A,M,1
+U16,Grumman,SA-16 Albatross,2,P,,A,M,1
+U16,Grumman,UF Albatross,2,P,,A,M,1
+U2,Lockheed,ER-2,1,J,,L,M,1
+U2,Lockheed,U-2,1,J,,L,M,1
+U21,Beech,90 (A90-1) Ute,2,T,,L,L,1
+U21,Beech,90 (A90-2) Ute,2,T,,L,L,1
+U21,Beech,90 (A90-3) Ute,2,T,,L,L,1
+U21,Beech,90 (A90-4) Ute,2,T,,L,L,1
+U21,Beech,EU-21 Ute,2,T,,L,L,1
+U21,Beech,JU-21 Ute,2,T,,L,L,1
+U21,Beech,RU-21 Ute,2,T,,L,L,1
+U21,Beech,U-21A Ute,2,T,,L,L,1
+U21,Beech,U-21G Ute,2,T,,L,L,1
+U21,Beech,Ute (U-21A/G),2,T,,L,L,1
+U22,Beech,1074,1,P,,L,L,1
+U22,Beech,1079,1,P,,L,L,1
+U22,Beech,QU-22,1,P,,L,L,1
+UBAT,Australite,Ultrabat,1,P,,L,L,1
+UF10,Airo,5,1,P,,L,L,1
+UF10,Distar,Samba,1,P,,L,L,1
+UF10,Distar,UFM-10 Samba,1,P,,L,L,1
+UF10,Urban,Samba,1,P,,L,L,1
+UF10,Urban,UFM-10 Samba,1,P,,L,L,1
+UF13,Distar,Lambada,1,P,,L,L,1
+UF13,Distar,UFM-13 Lambada,1,P,,L,L,1
+UF13,Urban,Lambada,1,P,,L,L,1
+UF13,Urban,UFM-11 Lambada,1,P,,L,L,1
+UF13,Urban,UFM-13 Lambada,1,P,,L,L,1
+UFHT,UFO,HeliThruster,1,P,,G,L,1
+UH1,Agusta,AB-204,1,T,,H,L,1
+UH1,Agusta,AB-205,1,T,,H,L,1
+UH1,Agusta,Hkp3,1,T,,H,L,1
+UH1,AIDC,UH-1,1,T,,H,L,1
+UH1,Bell,204,1,T,,H,L,1
+UH1,Bell,205,1,T,,H,L,1
+UH1,Bell,210,1,T,,H,L,1
+UH1,Bell,CH-118,1,T,,H,L,1
+UH1,Bell,CUH-1H,1,T,,H,L,1
+UH1,Bell,EH-1 Iroquois,1,T,,H,L,1
+UH1,Bell,HH-1 Iroquois,1,T,,H,L,1
+UH1,Bell,Huey,1,T,,H,L,1
+UH1,Bell,Iroquois,1,T,,H,L,1
+UH1,Bell,SH-1 Iroquois,1,T,,H,L,1
+UH1,Bell,TH-1E Iroquois,1,T,,H,L,1
+UH1,Bell,TH-1F Iroquois,1,T,,H,L,1
+UH1,Bell,TH-1H Iroquois,1,T,,H,L,1
+UH1,Bell,TH-1L Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1A Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1B Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1C Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1D Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1E Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1F Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1H Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1L Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1M Iroquois,1,T,,H,L,1
+UH1,Bell,UH-1V Iroquois,1,T,,H,L,1
+UH1,Dornier,UH-1,1,T,,H,L,1
+UH1,Fuji,204,1,T,,H,L,1
+UH1,Fuji,205,1,T,,H,L,1
+UH1,Fuji,UH-1,1,T,,H,L,1
+UH1,Global,Huey 800,1,T,,H,L,1
+UH1,Panha,Shabaviz 2-75,1,T,,H,L,1
+UH1,UNC,Ultra Huey,1,T,,H,L,1
+UH12,Fairchild Hiller,E4,1,P,,H,L,1
+UH12,Fairchild Hiller,L3,1,P,,H,L,1
+UH12,Fairchild Hiller,L4,1,P,,H,L,1
+UH12,Fairchild Hiller,OH-23 Raven,1,P,,H,L,1
+UH12,Fairchild Hiller,Raven,1,P,,H,L,1
+UH12,Fairchild Hiller,SL3,1,P,,H,L,1
+UH12,Fairchild Hiller,SL4,1,P,,H,L,1
+UH12,Fairchild Hiller,UH-12E,1,P,,H,L,1
+UH12,Hiller,H-23 Raven,1,P,,H,L,1
+UH12,Hiller,HTE Raven,1,P,,H,L,1
+UH12,Hiller,OH-23 Raven,1,P,,H,L,1
+UH12,Hiller,Raven,1,P,,H,L,1
+UH12,Hiller,UH-12B,1,P,,H,L,1
+UH12,Hiller,UH-12C,1,P,,H,L,1
+UH12,Hiller,UH-12E,1,P,,H,L,1
+UH12,Hiller,UH-12E3,1,P,,H,L,1
+UH12,Hiller,UH-12E4,1,P,,H,L,1
+UH12,Hiller,UH-12E5,1,P,,H,L,1
+UH12,Hiller,UH-12L3,1,P,,H,L,1
+UH12,Hiller,UH-12L4,1,P,,H,L,1
+UH12,Hiller,UH-12SL3,1,P,,H,L,1
+UH12,Hiller,UH-12SL4,1,P,,H,L,1
+UH12,Rogerson Hiller,Hauler,1,P,,H,L,1
+UH12,Rogerson Hiller,UH-12E Hauler,1,P,,H,L,1
+UH1Y,Bell,UH-1Y,2,T,,H,M,1
+UHEL,,Microlight helicopter,,,,,,0
+UHEL,,Ultralight helicopter,,,,,,0
+UL10,Streamline Welding,10 Ultimate Competitor,1,P,,L,L,1
+UL10,Streamline Welding,10 Ultimate Winner,1,P,,L,L,1
+UL10,Streamline Welding,Ultimate Competitor,1,P,,L,L,1
+UL10,Streamline Welding,Ultimate Winner,1,P,,L,L,1
+UL10,Ultimate,10 Albertan,1,P,,L,L,1
+UL10,Ultimate,Albertan,1,P,,L,L,1
+UL20,Streamline Welding,20 Ultimate Companion,1,P,,L,L,1
+UL20,Streamline Welding,Ultimate Companion,1,P,,L,L,1
+UL20,Ultimate,20,1,P,,L,L,1
+UL2F,Aeros,Flamingo,1,P,,L,L,1
+UL2F,Aeros,UL-2000 Flamingo,1,P,,L,L,1
+UL45,3Xtrim,3X-47 Ultra,1,P,,L,L,1
+UL45,3Xtrim,450 Ultra,1,P,,L,L,1
+UL45,3Xtrim,Ultra,1,P,,L,L,1
+ULAC,,Microlight aircraft,,,,,,0
+ULAC,,Ultralight aircraft,,,,,,0
+ULPA,Ullmann,Panther,1,P,,L,L,1
+ULTS,American Sportscopter,Ultrasport 496,1,P,,H,L,1
+UM18,Air & Space,18,1,P,,G,L,1
+UM18,Fairchild,F-18 Flymobil,1,P,,G,L,1
+UM18,Fairchild,Flymobil,1,P,,G,L,1
+UM18,Umbaugh,18,1,P,,G,L,1
+UNIV,Neiva,N-621 Universal,1,P,,L,L,1
+UNIV,Neiva,N-622 Universal,1,P,,L,L,1
+UNIV,Neiva,T-25 Universal,1,P,,L,L,1
+UNIV,Neiva,Universal,1,P,,L,L,1
+URRA,Ibis Aircraft,Arrow,1,P,,L,L,1
+URRA,Ibis Aircraft,Urraco,1,P,,L,L,1
+US1,Shin Meiwa,SS-2A,4,T,,A,M,0
+US1,Shin Meiwa,US-1,4,T,,A,M,0
+US1,Shinmaywa,SS-2A,4,T,,A,M,0
+US1,Shinmaywa,US-1,4,T,,A,M,0
+US2,Shinmaywa,US-2,4,T,,A,M,1
+UT60,UTVA,60,1,P,,L,L,1
+UT65,UTVA,65 Privrednik,1,P,,L,L,1
+UT65,UTVA,Privrednik,1,P,,L,L,1
+UT66,UTVA,66,1,P,,L,L,1
+UT75,Safat,03,1,P,,L,L,1
+UT75,UTVA,75,1,P,,L,L,1
+UT75,UTVA,V-53,1,P,,L,L,1
+UU12,Udet,Flamingo Replica,1,P,,L,L,1
+UU12,Udet,U-12 Flamingo Replica,1,P,,L,L,1

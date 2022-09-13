@@ -1,0 +1,434 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+E110,Embraer,Bandeirante,2,T,,L,L,1
+E110,Embraer,Bandeirulha,2,T,,L,L,1
+E110,Embraer,C-95 Bandeirante,2,T,,L,L,1
+E110,Embraer,EC-95 Bandeirante,2,T,,L,L,1
+E110,Embraer,EMB-110 Bandeirante,2,T,,L,L,1
+E110,Embraer,EMB-111 Bandeirulha,2,T,,L,L,1
+E110,Embraer,P-95 Bandeirulha,2,T,,L,L,1
+E110,Embraer,R-95 Bandeirante,2,T,,L,L,1
+E110,Embraer,SC-95 Bandeirante,2,T,,L,L,1
+E120,Embraer,Brasilia,2,T,,L,M,1
+E120,Embraer,EMB-120 Brasilia,2,T,,L,M,1
+E120,Embraer,VC-97 Brasilia,2,T,,L,M,1
+E120,Neiva,Brasilia,2,T,,L,M,1
+E120,Neiva,EMB-120 Brasilia,2,T,,L,M,1
+E121,Embraer,EC-9 Xingu,2,T,,L,L,1
+E121,Embraer,EMB-121 Xingu,2,T,,L,L,1
+E121,Embraer,VU-9 Xingu,2,T,,L,L,1
+E121,Embraer,Xingu,2,T,,L,L,1
+E135,Embraer,EMB-135ER,2,J,A,L,M,1
+E135,Embraer,EMB-135KE,2,J,A,L,M,1
+E135,Embraer,EMB-135KL,2,J,A,L,M,1
+E135,Embraer,EMB-135LR,2,J,A,L,M,1
+E135,Embraer,ERJ-135,2,J,A,L,M,1
+E135,Embraer,ERJ-140,2,J,A,L,M,1
+E135,Embraer,VC-99C,2,J,A,L,M,1
+E135,Embraer,EMB-135,2,J,A,L,M,0
+E135,Embraer,EMB-135 Legacy 600,2,J,A,L,M,0
+E135,Embraer,EMB-135 Legacy 650,2,J,A,L,M,0
+E135,Embraer,Legacy 600,2,J,A,L,M,0
+E135,Embraer,Legacy 650,2,J,A,L,M,0
+E135,Embraer,VC-99B,2,J,A,L,M,0
+E145,Embraer,C-99,2,J,A,L,M,1
+E145,Embraer,E-99,2,J,A,L,M,1
+E145,Embraer,EMB-145AEW&C,2,J,A,L,M,1
+E145,Embraer,EMB-145EP,2,J,A,L,M,1
+E145,Embraer,EMB-145ER,2,J,A,L,M,1
+E145,Embraer,EMB-145EU,2,J,A,L,M,1
+E145,Embraer,EMB-145LR,2,J,A,L,M,1
+E145,Embraer,EMB-145LU,2,J,A,L,M,1
+E145,Embraer,EMB-145MP,2,J,A,L,M,1
+E145,Embraer,EMB-145MP/ASW,2,J,A,L,M,1
+E145,Embraer,EMB-145RS,2,J,A,L,M,1
+E145,Embraer,EMB-145SA,2,J,A,L,M,1
+E145,Embraer,EMB-145SM,2,J,A,L,M,1
+E145,Embraer,ERJ-145EP,2,J,A,L,M,1
+E145,Embraer,ERJ-145ER,2,J,A,L,M,1
+E145,Embraer,ERJ-145EU,2,J,A,L,M,1
+E145,Embraer,ERJ-145LR,2,J,A,L,M,1
+E145,Embraer,ERJ-145LU,2,J,A,L,M,1
+E145,Embraer,ERJ-145MP,2,J,A,L,M,1
+E145,Embraer,R-99,2,J,A,L,M,1
+E145,Embraer,VC-99A,2,J,A,L,M,1
+E145,Harbin,EMB-145LI,2,J,A,L,M,1
+E145,Harbin,ERJ-145LI,2,J,A,L,M,1
+E170,Embraer,170,2,J,,L,M,1
+E170,Embraer,ERJ-170-100,2,J,,L,M,1
+E170,Embraer,175,2,J,,L,M,0
+E170,Embraer,ERJ-170,2,J,,L,M,0
+E190,Embraer,190,2,J,,L,M,1
+E190,Embraer,ERJ-190 Lineage 1000,2,J,,L,M,1
+E190,Embraer,ERJ-190-100,2,J,,L,M,1
+E190,Embraer,Lineage 1000,2,J,,L,M,1
+E190,Embraer,195,2,J,,L,M,0
+E190,Embraer,ERJ-190,2,J,,L,M,0
+E195,Embraer,195,2,J,,L,M,1
+E195,Embraer,ERJ-190-200,2,J,,L,M,1
+E2,Grumman,Daya,2,T,,L,M,1
+E2,Grumman,E-2 Daya,2,T,,L,M,1
+E2,Grumman,E-2 Hawkeye,2,T,,L,M,1
+E2,Grumman,Hawkeye,2,T,,L,M,1
+E2,Grumman,TE-2 Hawkeye,2,T,,L,M,1
+E2,Northrop Grumman,E-2 Hawkeye,2,T,,L,M,1
+E2,Northrop Grumman,Hawkeye,2,T,,L,M,1
+E2,Northrop Grumman,TE-2 Hawkeye,2,T,,L,M,1
+E200,Extra,EA-200,1,P,,L,L,1
+E230,Extra,EA-230,1,P,,L,L,1
+E275,Embraer,E175-E2,2,J,,L,M,1
+E275,Embraer,ERJ-190-500,2,J,,L,M,1
+E290,Embraer,E190-E2,2,J,,L,M,1
+E290,Embraer,ERJ-190-300,2,J,,L,M,1
+E295,Embraer,E195-E2,2,J,,L,M,1
+E295,Embraer,ERJ-190-400,2,J,,L,M,1
+E29E,BINDER (2),EB-29DE,1,E,,L,L,1
+E2CB,Taylor,Cub (E-2),1,P,,L,L,1
+E2CB,Taylor,E-2 Cub,1,P,,L,L,1
+E300,Extra,EA-300,1,P,,L,L,1
+E300,Extra,EA-330,1,P,,L,L,1
+E300,Extra,EA-350,1,P,,L,L,1
+E314,Embraer,A-29,1,T,,L,L,1
+E314,Embraer,ALX,1,T,,L,L,1
+E314,Embraer,AT-29,1,T,,L,L,1
+E314,Embraer,EMB-312H Super Tucano,1,T,,L,L,1
+E314,Embraer,EMB-314 ALX,1,T,,L,L,1
+E314,Embraer,EMB-314 Super Tucano,1,T,,L,L,1
+E314,Embraer,Super Tucano,1,T,,L,L,1
+E314,Embraer,YA-29 Super Tucano,1,T,,L,L,1
+E350,Cessna,E350,1,T,,L,L,1
+E35L,Embraer,EMB-135BJ Legacy,2,J,A,L,M,1
+E35L,Embraer,EMB-135BJ Legacy 600,2,J,A,L,M,1
+E35L,Embraer,EMB-135BJ Legacy 650,2,J,A,L,M,1
+E35L,Embraer,Legacy (EMB-135BJ),2,J,A,L,M,1
+E35L,Embraer,Legacy 600,2,J,A,L,M,1
+E35L,Embraer,Legacy 650,2,J,A,L,M,1
+E35L,Embraer,VC-99B Legacy,2,J,A,L,M,1
+E35L,Embraer,VC-99B Legacy 600,2,J,A,L,M,1
+E35L,Harbin,EMB-135BJ Legacy 650,2,J,A,L,M,1
+E35L,Harbin,Legacy 650,2,J,A,L,M,1
+E35L,Embraer,Legacy,2,J,A,L,M,0
+E390,Embraer,C-390 Millennium,2,J,,L,M,1
+E390,Embraer,EMB-390,2,J,,L,M,1
+E390,Embraer,KC-390,2,J,,L,M,1
+E390,Embraer,Millennium,2,J,,L,M,1
+E3CF,Boeing,E-3A (CFM56) Sentry,4,J,,L,H,1
+E3CF,Boeing,E-3D Sentry,4,J,,L,H,1
+E3CF,Boeing,E-3F Sentry,4,J,,L,H,1
+E3CF,Boeing,Sentry (CFM56),4,J,,L,H,1
+E3TF,Boeing,E-3A (TF33) Sentry,4,J,,L,H,1
+E3TF,Boeing,E-3B Sentry,4,J,,L,H,1
+E3TF,Boeing,E-3C Sentry,4,J,,L,H,1
+E3TF,Boeing,JE-3 Sentry,4,J,,L,H,1
+E3TF,Boeing,Sentry (TF33),4,J,,L,H,1
+E400,Extra,EA-400,1,P,,L,L,1
+E45X,Embraer,EMB-145XR,2,J,A,L,M,1
+E45X,Embraer,ERJ-145XR,2,J,A,L,M,1
+E500,Extra,EA-500,1,T,,L,L,1
+E50P,Embraer,EMB-500 Phenom 100,2,J,,L,L,1
+E50P,Embraer,Phenom 100,2,J,,L,L,1
+E530,Cessna,E530 Scorpion,2,J,,L,M,1
+E530,Cessna,Scorpion,2,J,,L,M,1
+E530,TEXTRON AIRLAND,E530 Scorpion,2,J,,L,M,1
+E530,TEXTRON AIRLAND,Scorpion,2,J,,L,M,1
+E545,Embraer,EMB-545 Legacy 450,2,J,A,L,M,1
+E545,Embraer,EMB-545 Praetor 500,2,J,A,L,M,1
+E545,Embraer,Legacy 450,2,J,A,L,M,1
+E545,Embraer,Praetor 500,2,J,A,L,M,1
+E550,Embraer,EMB-550 Legacy 500,2,J,A,L,M,1
+E550,Embraer,EMB-550 Praetor 600,2,J,A,L,M,1
+E550,Embraer,Legacy 500,2,J,A,L,M,1
+E550,Embraer,Praetor 600,2,J,A,L,M,1
+E55P,Embraer,EMB-505 Phenom 300,2,J,A,L,M,1
+E55P,Embraer,Phenom 300,2,J,A,L,M,1
+E6,Boeing,E-6 Mercury,4,J,,L,H,1
+E6,Boeing,Mercury,4,J,,L,H,1
+E737,Boeing,737-700 AEWC,2,J,,L,M,1
+E737,Boeing,737-700 Wedgetail,2,J,,L,M,1
+E737,Boeing,Wedgetail,2,J,,L,M,1
+E75L,Embraer,175 (long wing),2,J,,L,M,1
+E75L,Embraer,ERJ-170-200 (long wing),2,J,,L,M,1
+E75S,Embraer,175 (short wing),2,J,,L,M,1
+E75S,Embraer,ERJ-170-200 (short wing),2,J,,L,M,1
+E767,Boeing,E-767,2,J,,L,H,1
+E7BH,E-7 Group,Bush Hog,1,P,,L,L,1
+E7BH,E-7 Group,E-7 Bush Hog,1,P,,L,L,1
+EA40,Eclipse,Eclipse 400,1,J,,L,L,1
+EA50,Eclipse,Eclipse 500,2,J,,L,L,1
+EA50,Eclipse,Eclipse 550,2,J,,L,L,1
+EAEA,Grosso,Easy Eagle,1,P,,L,L,1
+EAGL,Aviat,Eagle,1,P,,L,L,1
+EAGL,Christen,Eagle,1,P,,L,L,1
+EAGT,AmEagle,American Eaglet,1,P,,L,L,1
+EAGX,CTRM,Eagle 150,1,P,,L,L,1
+EAGX,Eagle Aircraft,Eagle 100,1,P,,L,L,1
+EAGX,Eagle Aircraft,Eagle 150,1,P,,L,L,1
+EAGX,Eagle Aircraft,Eagle X-TS,1,P,,L,L,1
+EB29,BINDER (2),EB-29,1,P,,L,L,1
+EB29,BINDER (2),EB-29D,1,P,,L,L,1
+EBOY,FMA,20 El Boyero,1,P,,L,L,1
+EBOY,FMA,El Boyero,1,P,,L,L,1
+EBOY,PETROLINI,El Boyero,1,P,,L,L,1
+EBOY,PETROLINI,IAe-20 El Boyero,1,P,,L,L,1
+EC20,Airbus Helicopters,Colibri,1,T,,H,L,1
+EC20,Airbus Helicopters,EC-120 Colibri,1,T,,H,L,1
+EC20,Airbus Helicopters,H-120 Colibri,1,T,,H,L,1
+EC20,Eurocopter,Colibri,1,T,,H,L,1
+EC20,Eurocopter,EC-120 Colibri,1,T,,H,L,1
+EC20,Eurocopter,EC-120 Stylence,1,T,,H,L,1
+EC20,Eurocopter,Stylence (EC-120),1,T,,H,L,1
+EC20,Harbin,HC-120,1,T,,H,L,1
+EC25,Airbus Helicopters,Cougar Mk2+,2,T,,H,M,1
+EC25,Airbus Helicopters,EC-225 Super Puma Mk2+,2,T,,H,M,1
+EC25,Airbus Helicopters,EC-725 Cougar Mk2+,2,T,,H,M,1
+EC25,Airbus Helicopters,H-225 Cougar Mk2+,2,T,,H,M,1
+EC25,Airbus Helicopters,H-225 Super Puma Mk2+,2,T,,H,M,1
+EC25,Airbus Helicopters,Super Puma Mk2+,2,T,,H,M,1
+EC25,Eurocopter,Caracal,2,T,,H,M,1
+EC25,Eurocopter,Cougar Mk2+,2,T,,H,M,1
+EC25,Eurocopter,EC-225 Super Puma Mk2+,2,T,,H,M,1
+EC25,Eurocopter,EC-725 Caracal,2,T,,H,M,1
+EC25,Eurocopter,EC-725 Cougar Mk2+,2,T,,H,M,1
+EC25,Eurocopter,Super Puma Mk2+,2,T,,H,M,1
+EC30,Airbus Helicopters,EC-130,1,T,,H,L,1
+EC30,Airbus Helicopters,H-130,1,T,,H,L,1
+EC30,Eurocopter,EC-130,1,T,,H,L,1
+EC30,Eurocopter,EC-130 Stylence,1,T,,H,L,1
+EC30,Eurocopter,Stylence (EC-130),1,T,,H,L,1
+EC35,Airbus Helicopters,Bluecopter,2,T,,H,L,1
+EC35,Airbus Helicopters,EC-135,2,T,,H,L,1
+EC35,Airbus Helicopters,EC-135 Bluecopter,2,T,,H,L,1
+EC35,Airbus Helicopters,EC-635,2,T,,H,L,1
+EC35,Airbus Helicopters,H-135,2,T,,H,L,1
+EC35,Eurocopter,EC-135,2,T,,H,L,1
+EC35,Eurocopter,EC-635,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,BK-117C-2,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,BK-117D,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,BK-117D Jupiter,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,EC-145,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,EC-645,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,H-145,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,H-145 Jupiter,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,Jupiter,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,Lakota,2,T,,H,L,1
+EC45,Airbus Helicopters-Kawasaki,UH-72 Lakota,2,T,,H,L,1
+EC45,Eurocopter,Lakota,2,T,,H,L,1
+EC45,Eurocopter,UH-145,2,T,,H,L,1
+EC45,Eurocopter,UH-72 Lakota,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,BK-117C-2,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,EC-145,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,EC-145 Stylence,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,H-72 Lakota,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,Lakota,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,Stylence (EC-145),2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,UH-145,2,T,,H,L,1
+EC45,Eurocopter-Kawasaki,UH-72 Lakota,2,T,,H,L,1
+EC55,Airbus Helicopters,EC-155,2,T,,H,L,1
+EC55,Airbus Helicopters,H-155,2,T,,H,L,1
+EC55,Eurocopter,EC-155,2,T,,H,L,1
+EC6,Croses,Criquet,1,P,,L,L,1
+EC6,Croses,EC-6 Criquet,1,P,,L,L,1
+EC6,Croses,EC-8 Tourisme,1,P,,L,L,1
+EC6,Croses,Tourisme,1,P,,L,L,1
+EC75,Airbus Helicopters-Harbin,EC-175,2,T,,H,M,1
+EC75,Airbus Helicopters-Harbin,H-175,2,T,,H,M,1
+EC75,Airbus Helicopters-Harbin,Z-15,2,T,,H,M,1
+EC75,Eurocopter-Harbin,EC-175,2,T,,H,M,1
+EC75,Eurocopter-Harbin,Z-15,2,T,,H,M,1
+EC75,Airbus Helicopters-Harbin,EC-175,2,T,,H,L,0
+EC75,Airbus Helicopters-Harbin,H-175,2,T,,H,L,0
+EC75,Airbus Helicopters-Harbin,Z-15,2,T,,H,L,0
+EC75,Eurocopter-Harbin,EC-175,2,T,,H,L,0
+EC75,Eurocopter-Harbin,Z-15,2,T,,H,L,0
+ECHO,Tecnam,Eaglet,1,P,,L,L,1
+ECHO,Tecnam,Echo,1,P,,L,L,1
+ECHO,Tecnam,P-92 Eaglet,1,P,,L,L,1
+ECHO,Tecnam,P-92 Echo,1,P,,L,L,1
+ECHO,Tecnam,P-92 SeaSky,1,P,,L,L,1
+ECHO,Tecnam,SeaSky,1,P,,L,L,1
+EDGE,Zivko,Edge 540,1,P,,L,L,1
+EDGE,Zivko,Edge 540A,1,P,,L,L,1
+EDGT,Zivko,Edge 540 T,1,P,,L,L,1
+EF2,BYE AEROSPACE,eFlyer 2,1,E,,L,L,1
+EFAN,Airbus,E-Fan,2,E,,L,L,1
+EFOX,Aeropro,Eurofox,1,P,,L,L,1
+EFOX,Aerotrek,A-220,1,P,,L,L,1
+EFOX,Aerotrek,A-240,1,P,,L,L,1
+EFUS,MAGNUS,eFusion,1,E,,L,L,1
+EFUS,MAGNUS,MG-11 eFusion,1,E,,L,L,1
+EGL3,Rotorway,Eagle 300T,1,T,,H,L,1
+EGRT,Grob,D-500 Egrett 2,1,T,,L,L,1
+EGRT,Grob,Egrett 2,1,T,,L,L,1
+EGRT,Grob,G-520 Strato 1,1,T,,L,L,1
+EGRT,Grob,Strato 1,1,T,,L,L,1
+EH10,AgustaWestland,AW-101,3,T,,H,M,1
+EH10,AgustaWestland,AW-101 Merlin Joint Supporter,3,T,,H,M,1
+EH10,AgustaWestland,Caesar,3,T,,H,M,1
+EH10,AgustaWestland,EH-101,3,T,,H,M,1
+EH10,AgustaWestland,EH-101 Merlin,3,T,,H,M,1
+EH10,AgustaWestland,EH-101 Merlin Joint Supporter,3,T,,H,M,1
+EH10,AgustaWestland,HH-101 Caesar,3,T,,H,M,1
+EH10,AgustaWestland,MCH-101,3,T,,H,M,1
+EH10,AgustaWestland,Merlin,3,T,,H,M,1
+EH10,AgustaWestland,Merlin Joint Supporter,3,T,,H,M,1
+EH10,AgustaWestland,SH-101,3,T,,H,M,1
+EH10,AgustaWestland,UH-101,3,T,,H,M,1
+EH10,EHI,CH-149 Cormorant,3,T,,H,M,1
+EH10,EHI,Cormorant,3,T,,H,M,1
+EH10,EHI,EH-101,3,T,,H,M,1
+EH10,EHI,EH-101 Merlin,3,T,,H,M,1
+EH10,EHI,Merlin,3,T,,H,M,1
+EH10,EHI,SH-101,3,T,,H,M,1
+EH10,EHI,UH-101,3,T,,H,M,1
+EH10,FINMECCANICA,AW-101,3,T,,H,M,1
+EH10,FINMECCANICA,Caesar,3,T,,H,M,1
+EH10,FINMECCANICA,HH-101 Caesar,3,T,,H,M,1
+EH10,Kawasaki,CH-101,3,T,,H,M,1
+EH10,Kawasaki,KHI-01,3,T,,H,M,1
+EH10,Kawasaki,MCH-101,3,T,,H,M,1
+EH10,LEONARDO,AW-101,3,T,,H,M,1
+EH10,LEONARDO,Caesar,3,T,,H,M,1
+EH10,LEONARDO,HH-101 Caesar,3,T,,H,M,1
+EH10,AgustaWestland,AW-101  Merlin Joint Supporter,3,T,,H,M,0
+EH10,AgustaWestland,AW-101 Merlin,3,T,,H,M,0
+EH10,AgustaWestland,Kestrel,3,T,,H,M,0
+EH10,AgustaWestland,US-101,3,T,,H,M,0
+EH10,AgustaWestland,VH-71 Kestrel,3,T,,H,M,0
+EH10,EHI,EH-101 Heliliner,3,T,,H,M,0
+EH10,EHI,Heliliner,3,T,,H,M,0
+EL10,ELA Aviación,Eclipse,1,P,,G,L,1
+EL10,ELA Aviación,ELA-10 Eclipse,1,P,,G,L,1
+EL20,Elitar,IE-202,1,P,,L,L,1
+ELA7,ELA Aviación,Agro,1,P,,G,L,1
+ELA7,ELA Aviación,Cougar,1,P,,G,L,1
+ELA7,ELA Aviación,Cruser,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-07,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-07 Agro,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-07 Cougar,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-07 Scorpion,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-08,1,P,,G,L,1
+ELA7,ELA Aviación,ELA-G8 Cruser,1,P,,G,L,1
+ELA7,ELA Aviación,Scorpion,1,P,,G,L,1
+ELF,Parnall,Elf,1,P,,L,L,1
+ELIT,AIR,Epic Elite,2,J,,L,L,1
+ELIT,EPIC AIRCRAFT,Epic Elite,2,J,,L,L,1
+ELPS,Explorer Aviation,Ellipse,1,P,,L,L,1
+ELSP,A2 CZ,Ellipse Spirit,1,P,,L,L,1
+ELST,Putzer,Elster,1,P,,L,L,1
+ELTO,Continental Copters,El Tomcat,1,P,,H,L,1
+ELTR,Elitar,Elitar,1,P,,L,L,1
+ELTR,Elitar,IE-101 Elitar,1,P,,L,L,1
+EM10,Marganski,Bielik,1,J,,L,L,1
+EM10,Marganski,EM-10 Bielik,1,J,,L,L,1
+EM11,Marganski,EM-11 Orka,2,P,,L,L,1
+EM11,Marganski,Orka,2,P,,L,L,1
+EN28,Enstrom,280 Shark,1,P,,H,L,1
+EN28,Enstrom,F-28,1,P,,H,L,1
+EN28,Enstrom,F-28 Falcon,1,P,,H,L,1
+EN28,Enstrom,F-28 Sentinel,1,P,,H,L,1
+EN28,Enstrom,Falcon,1,P,,H,L,1
+EN28,Enstrom,Sentinel,1,P,,H,L,1
+EN28,Enstrom,Shark,1,P,,H,L,1
+EN28,Wuhan,280,1,P,,H,L,1
+EN48,Enstrom,480,1,T,,H,L,1
+EN48,Enstrom,TH-28,1,T,,H,L,1
+EN48,Wuhan,TH-28,1,T,,H,L,1
+EP9,Edgar Percival,EP-9,1,P,,L,L,1
+EP9,Lancashire,EP-9 Prospector,1,P,,L,L,1
+EP9,Lancashire,Prospector,1,P,,L,L,1
+EPER,Epervier (1),Epervier,1,P,,L,L,1
+EPIC,AIR,Epic Dynasty,1,T,,L,L,1
+EPIC,AIR,Epic LT,1,T,,L,L,1
+EPIC,EPIC AIRCRAFT,E1000,1,T,,L,L,1
+EPIC,EPIC AIRCRAFT,Epic LT,1,T,,L,L,1
+EPIC,EPIC AIRCRAFT,E-1000,1,T,,L,L,0
+EPIC,EPIC AIRCRAFT,Epic Dynasty,1,T,,L,L,0
+EPX1,Épervier,X-1,1,P,,L,L,1
+ERAC,Dickey,E-Racer,1,P,,L,L,1
+ERCO,Air Products,Aircoupe,1,P,,L,L,1
+ERCO,Air Products,F-1 Aircoupe,1,P,,L,L,1
+ERCO,Alon,A-2 Aircoupe,1,P,,L,L,1
+ERCO,Alon,Aircoupe,1,P,,L,L,1
+ERCO,ERCO,415 Ercoupe,1,P,,L,L,1
+ERCO,ERCO,Ercoupe,1,P,,L,L,1
+ERCO,Fornaire,Aircoupe,1,P,,L,L,1
+ERCO,Fornaire,F-1 Aircoupe,1,P,,L,L,1
+ERCO,Forney,Aircoupe,1,P,,L,L,1
+ERCO,Forney,F-1 Aircoupe,1,P,,L,L,1
+ERCO,Mooney,A-2 Aircoupe,1,P,,L,L,1
+ERCO,Mooney,Aircoupe,1,P,,L,L,1
+ES11,Alpi,AH-130 Syton,1,T,,H,L,1
+ES11,Alpi,Syton,1,T,,H,L,1
+ES11,AvioTecnica,ES-101 Exec,1,T,,H,L,1
+ES11,AvioTecnica,ES-101 Raven,1,T,,H,L,1
+ES11,AvioTecnica,Exec,1,T,,H,L,1
+ES11,AvioTecnica,Raven,1,T,,H,L,1
+ES13,Clifford Aeroworks,Spad 13 80%,1,P,,L,L,1
+ES13,Early Bird,Spad 13 80%,1,P,,L,L,1
+ESCA,AIR,Epic Escape,1,T,,L,L,1
+ESCA,EPIC AIRCRAFT,Epic Escape,1,T,,L,L,1
+ESCP,Just,Escapade,1,P,,L,L,1
+ESCP,Reality,Escapade,1,P,,L,L,1
+ESQL,Moura,Esqualo,1,P,,L,L,1
+ETA,BINDER (2),Eta,1,P,,L,L,1
+ETA,ETA AIRCRAFT,Eta,1,P,,L,L,1
+ETAR,Dassault,Etendard 4,1,J,,L,M,1
+ETAR,Dassault,Super Etendard,1,J,,L,M,1
+EUFI,Alenia,Eurofighter 2000,2,J,,L,M,1
+EUFI,Alenia,Typhoon,2,J,,L,M,1
+EUFI,BAE Systems,Eurofighter 2000,2,J,,L,M,1
+EUFI,BAE Systems,Typhoon,2,J,,L,M,1
+EUFI,British Aerospace,Eurofighter 2000,2,J,,L,M,1
+EUFI,British Aerospace,Typhoon,2,J,,L,M,1
+EUFI,CASA,Eurofighter 2000,2,J,,L,M,1
+EUFI,CASA,Typhoon,2,J,,L,M,1
+EUFI,Deutsche Aerospace,Eurofighter 2000,2,J,,L,M,1
+EUFI,Deutsche Aerospace,Typhoon,2,J,,L,M,1
+EUFI,Eurofighter,Eurofighter 2000,2,J,,L,M,1
+EUFI,Eurofighter,Typhoon,2,J,,L,M,1
+EUPA,Europa,Europa,1,P,,L,L,1
+EURT,FFT,Eurotrainer 2000,1,P,,L,L,1
+EV55,Evektor,EV-55 Outback,2,P,,L,L,1
+EV55,Evektor,Outback,2,P,,L,L,1
+EV97,Evektor,EuroStar,1,P,,L,L,1
+EV97,Evektor,EV-97 EuroStar,1,P,,L,L,1
+EV97,Evektor,EV-97 Harmony,1,P,,L,L,1
+EV97,Evektor,Harmony,1,P,,L,L,1
+EVAN,Evangel,4500 Evangel,2,P,,L,L,1
+EVAN,Evangel,Evangel,2,P,,L,L,1
+EVIC,AIR,Epic Victory,1,J,,L,L,1
+EVIC,EPIC AIRCRAFT,Epic Victory,1,J,,L,L,1
+EVOL,Lancair,Evolution,1,T,,L,L,0
+EVOP,Lancair,Evolution Piston,1,P,,L,L,1
+EVOT,Lancair,Evolution Turbine,1,T,,L,L,1
+EVOT,Lancair,Evolution Turbine,1,P,,L,L,0
+EVSS,Evektor,SportStar,1,P,,L,L,1
+EX5T,AEA,Explorer 500T,1,T,,L,L,1
+EX5T,Explorer Aircraft,Explorer 500T,1,T,,L,L,1
+EXEC,Huzhou Taixiang,Exec,1,P,,H,L,1
+EXEC,Rotorway,Exec,1,P,,H,L,1
+EXEJ,Rotorway,JetExec,1,T,,H,L,1
+EXNG,Extra,NG,1,P,,L,L,1
+EXPL,Boeing,Explorer,2,T,,H,L,1
+EXPL,Boeing,MD-902 Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,Combat Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,Enforcer,2,T,,H,L,1
+EXPL,McDonnell Douglas,Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,MD-900 Combat Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,MD-900 Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,MD-902 Explorer,2,T,,H,L,1
+EXPL,McDonnell Douglas,MH-90 Enforcer,2,T,,H,L,1
+EXPL,MD Helicopters,Explorer,2,T,,H,L,1
+EXPL,MD Helicopters,MD-902 Explorer,2,T,,H,L,1
+EXPR,Express,90,1,P,,L,L,1
+EXPR,Express,Express,1,P,,L,L,1
+EXPR,Express,Express 2000,1,P,,L,L,1
+EXPR,Express,Express 2000RG,1,P,,L,L,1
+EXPR,Express,Loadmaster,1,P,,L,L,1
+EXPR,Wheeler,Express,1,P,,L,L,1
+EZFL,Aerocomp,E-Z Flyer,1,P,,L,L,1
+EZFL,Blue Yonder,E-Z Flyer,1,P,,L,L,1
+EZFL,Merlin,E-Z Flyer,1,P,,L,L,1
+EZFT,Blue Yonder,Twin E-Z Flyer,2,P,,L,L,1
+EZHV,Blue Yonder,E-Z Harvard,1,P,,L,L,1
+EZIK,Istra,Ezhik,1,P,,L,L,1
+EZKC,Blue Yonder,E-Z King Cobra,1,P,,L,L,1

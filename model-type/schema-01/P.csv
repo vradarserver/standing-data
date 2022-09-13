@@ -1,0 +1,947 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+P06T,Tecnam,P-2006T,2,P,,L,L,1
+P1,Kawasaki,P-1,4,J,,L,M,1
+P1,Kawasaki,UP-1,4,J,,L,M,1
+P1,Kawasaki,XP-1,4,J,,L,M,0
+P100,Pottier,P-100,1,P,,L,L,1
+P130,Pottier,Bleu Citron,1,P,,L,L,1
+P130,Pottier,P-130 Bleu Citron,1,P,,L,L,1
+P136,Piaggio,P-136,2,P,,A,L,1
+P136,Trecker,Gull,2,P,,A,L,1
+P148,Piaggio,P-148,1,P,,L,L,1
+P149,Focke-Wulf,FWP-149,1,P,,L,L,1
+P149,Piaggio,P-149,1,P,,L,L,1
+P180,Piaggio,Avanti,2,T,,L,L,1
+P180,Piaggio,P-180 Avanti,2,T,,L,L,1
+P18T,Smith Aviation,PA-18T Super Cub,1,T,,L,L,1
+P18T,Smith Aviation,Super Cub (PA-18T),1,T,,L,L,1
+P19,Aviamilano,P-19 Scricciolo,1,P,,L,L,1
+P19,Aviamilano,Scricciolo,1,P,,L,L,1
+P1HH,Piaggio,Hammerhead,2,T,,L,L,1
+P1HH,Piaggio,P-1HH Hammerhead,2,T,,L,L,1
+P2,Lockheed,L-426 Neptune,2,P,,L,M,1
+P2,Lockheed,L-726 Neptune,2,P,,L,M,1
+P2,Lockheed,L-826 Neptune,2,P,,L,M,1
+P2,Lockheed,Neptune,2,P,,L,M,1
+P2,Lockheed,P-2 Neptune,2,P,,L,M,1
+P2,Lockheed,P2V Neptune,2,P,,L,M,1
+P2,Lockheed,SP-2 Neptune,2,P,,L,M,1
+P208,Tecnam,P-2008,1,P,,L,L,1
+P210,Aviones Colombia,P210,1,P,,L,L,1
+P210,Cessna,P210 Pressurized Centurion,1,P,,L,L,1
+P210,Cessna,Pressurized Centurion,1,P,,L,L,1
+P210,Riley,Rocket P210,1,P,,L,L,1
+P210,Riley,Super P210,1,P,,L,L,1
+P212,Tecnam,P-2012 Traveller,2,P,,L,L,1
+P212,Tecnam,Traveller,2,P,,L,L,1
+P220,Aero (Poland),P-220-AT1,1,P,,L,L,1
+P220,Aero (Poland),P-220-AT2,1,P,,L,L,1
+P220,Aerotechnik,Koala,1,P,,L,L,1
+P220,Aerotechnik,P-220 Koala,1,P,,L,L,1
+P220,Antoniewski,P-220S-AT1,1,P,,L,L,1
+P220,Antoniewski,P-220S-AT2,1,P,,L,L,1
+P220,Antoniewski,P-220S-AT3,1,P,,L,L,1
+P220,Pottier,Koala,1,P,,L,L,1
+P220,Pottier,P-220 Koala,1,P,,L,L,1
+P230,Pottier,P-230 Panda,1,P,,L,L,1
+P230,Pottier,Panda,1,P,,L,L,1
+P27,Gryf,P-27 Skyster,1,P,,L,L,1
+P27,Gryf,Skyster,1,P,,L,L,1
+P270,Pottier,Amster,1,P,,L,L,1
+P270,Pottier,P-270 Amster,1,P,,L,L,1
+P28A,AICSA,Archer 2,1,P,,L,L,1
+P28A,AICSA,Cherokee (PA-28-140/180),1,P,,L,L,1
+P28A,AICSA,Cherokee Archer,1,P,,L,L,1
+P28A,AICSA,Cherokee Archer 2,1,P,,L,L,1
+P28A,AICSA,Cherokee Cruiser,1,P,,L,L,1
+P28A,AICSA,Cherokee Warrior 2,1,P,,L,L,1
+P28A,AICSA,PA-28-140 Cherokee,1,P,,L,L,1
+P28A,AICSA,PA-28-140 Cherokee Cruiser,1,P,,L,L,1
+P28A,AICSA,PA-28-161 Cherokee Warrior 2,1,P,,L,L,1
+P28A,AICSA,PA-28-161 Warrior 2,1,P,,L,L,1
+P28A,AICSA,PA-28-180 Cherokee,1,P,,L,L,1
+P28A,AICSA,PA-28-180 Cherokee Archer,1,P,,L,L,1
+P28A,AICSA,PA-28-181 Archer 2,1,P,,L,L,1
+P28A,AICSA,PA-28-181 Cherokee Archer 2,1,P,,L,L,1
+P28A,AICSA,Warrior 2,1,P,,L,L,1
+P28A,Chincul,Archer 2,1,P,,L,L,1
+P28A,Chincul,Cherokee Archer,1,P,,L,L,1
+P28A,Chincul,Cherokee Archer 2,1,P,,L,L,1
+P28A,Chincul,Cherokee Challenger,1,P,,L,L,1
+P28A,Chincul,Cherokee Cruiser,1,P,,L,L,1
+P28A,Chincul,PA-A-28-140 Cherokee Cruiser,1,P,,L,L,1
+P28A,Chincul,PA-A-28-161 Warrior 2,1,P,,L,L,1
+P28A,Chincul,PA-A-28-180 Cherokee Archer,1,P,,L,L,1
+P28A,Chincul,PA-A-28-180 Cherokee Challenger,1,P,,L,L,1
+P28A,Chincul,PA-A-28-181 Archer 2,1,P,,L,L,1
+P28A,Chincul,PA-A-28-181 Cherokee Archer 2,1,P,,L,L,1
+P28A,Chincul,Warrior 2,1,P,,L,L,1
+P28A,Embraer,Carioquinha,1,P,,L,L,1
+P28A,Embraer,EMB-712 Carioquinha,1,P,,L,L,1
+P28A,Embraer,EMB-712 Tupi,1,P,,L,L,1
+P28A,Embraer,Tupi,1,P,,L,L,1
+P28A,Neiva,Carioquinha,1,P,,L,L,1
+P28A,Neiva,EMB-712 Carioquinha,1,P,,L,L,1
+P28A,Neiva,EMB-712 Tupi,1,P,,L,L,1
+P28A,Neiva,Tupi,1,P,,L,L,1
+P28A,Piper,Archer 2,1,P,,L,L,1
+P28A,Piper,Archer 3,1,P,,L,L,1
+P28A,Piper,Archer DLX,1,P,,L,L,1
+P28A,Piper,Archer DX,1,P,,L,L,1
+P28A,Piper,Archer LX,1,P,,L,L,1
+P28A,Piper,Archer TX,1,P,,L,L,1
+P28A,Piper,Cadet,1,P,,L,L,1
+P28A,Piper,Cherokee (PA-28-140/150/160/180),1,P,,L,L,1
+P28A,Piper,Cherokee 140-4,1,P,,L,L,1
+P28A,Piper,Cherokee Archer,1,P,,L,L,1
+P28A,Piper,Cherokee Archer 2,1,P,,L,L,1
+P28A,Piper,Cherokee Challenger,1,P,,L,L,1
+P28A,Piper,Cherokee Chief,1,P,,L,L,1
+P28A,Piper,Cherokee Cruiser,1,P,,L,L,1
+P28A,Piper,Cherokee Flite Liner,1,P,,L,L,1
+P28A,Piper,Cherokee Warrior,1,P,,L,L,1
+P28A,Piper,Cherokee Warrior 2,1,P,,L,L,1
+P28A,Piper,PA-28-140 Cherokee,1,P,,L,L,1
+P28A,Piper,PA-28-140 Cherokee 140-4,1,P,,L,L,1
+P28A,Piper,PA-28-140 Cherokee Cruiser,1,P,,L,L,1
+P28A,Piper,PA-28-140 Cherokee Flite Liner,1,P,,L,L,1
+P28A,Piper,PA-28-150 Cherokee,1,P,,L,L,1
+P28A,Piper,PA-28-151 Cherokee Warrior,1,P,,L,L,1
+P28A,Piper,PA-28-160 Cherokee,1,P,,L,L,1
+P28A,Piper,PA-28-161 Cadet,1,P,,L,L,1
+P28A,Piper,PA-28-161 Cherokee Warrior 2,1,P,,L,L,1
+P28A,Piper,PA-28-161 Warrior 2,1,P,,L,L,1
+P28A,Piper,PA-28-161 Warrior 3,1,P,,L,L,1
+P28A,Piper,PA-28-180 Cherokee,1,P,,L,L,1
+P28A,Piper,PA-28-180 Cherokee Archer,1,P,,L,L,1
+P28A,Piper,PA-28-180 Cherokee Challenger,1,P,,L,L,1
+P28A,Piper,PA-28-180TG Cherokee Chief,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer 2,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer 3,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer DLX,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer DX,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer LX,1,P,,L,L,1
+P28A,Piper,PA-28-181 Archer TX,1,P,,L,L,1
+P28A,Piper,PA-28-181 Cherokee Archer 2,1,P,,L,L,1
+P28A,Piper,PA-28-181 Pilot,1,P,,L,L,1
+P28A,Piper,Pilot,1,P,,L,L,1
+P28A,Piper,Warrior 2,1,P,,L,L,1
+P28A,Piper,Warrior 3,1,P,,L,L,1
+P28B,AICSA,Cherokee (PA-28-235),1,P,,L,L,1
+P28B,AICSA,Cherokee Charger,1,P,,L,L,1
+P28B,AICSA,Cherokee Pathfinder,1,P,,L,L,1
+P28B,AICSA,Dakota,1,P,,L,L,1
+P28B,AICSA,PA-28-201T Turbo Dakota,1,P,,L,L,1
+P28B,AICSA,PA-28-235 Cherokee,1,P,,L,L,1
+P28B,AICSA,PA-28-235 Cherokee Charger,1,P,,L,L,1
+P28B,AICSA,PA-28-235 Cherokee Pathfinder,1,P,,L,L,1
+P28B,AICSA,PA-28-236 Dakota,1,P,,L,L,1
+P28B,AICSA,Turbo Dakota,1,P,,L,L,1
+P28B,Chincul,Cherokee Charger,1,P,,L,L,1
+P28B,Chincul,Cherokee Pathfinder,1,P,,L,L,1
+P28B,Chincul,Dakota,1,P,,L,L,1
+P28B,Chincul,PA-A-28-235 Cherokee Charger,1,P,,L,L,1
+P28B,Chincul,PA-A-28-235 Cherokee Pathfinder,1,P,,L,L,1
+P28B,Chincul,PA-A-28-236 Dakota,1,P,,L,L,1
+P28B,Embraer,Carioca,1,P,,L,L,1
+P28B,Embraer,EMB-710 Carioca,1,P,,L,L,1
+P28B,Indaer Chile,Dakota,1,P,,L,L,1
+P28B,Indaer Chile,PA-28-236 Dakota,1,P,,L,L,1
+P28B,Neiva,Carioca,1,P,,L,L,1
+P28B,Neiva,EMB-710 Carioca,1,P,,L,L,1
+P28B,Piper,Cherokee (PA-28-235),1,P,,L,L,1
+P28B,Piper,Cherokee Charger,1,P,,L,L,1
+P28B,Piper,Cherokee Pathfinder,1,P,,L,L,1
+P28B,Piper,Dakota,1,P,,L,L,1
+P28B,Piper,PA-28-201T Turbo Dakota,1,P,,L,L,1
+P28B,Piper,PA-28-235 Cherokee,1,P,,L,L,1
+P28B,Piper,PA-28-235 Cherokee Charger,1,P,,L,L,1
+P28B,Piper,PA-28-235 Cherokee Pathfinder,1,P,,L,L,1
+P28B,Piper,PA-28-236 Dakota,1,P,,L,L,1
+P28B,Piper,Turbo Dakota,1,P,,L,L,1
+P28R,AICSA,Cherokee Arrow,1,P,,L,L,1
+P28R,AICSA,Cherokee Arrow 2,1,P,,L,L,1
+P28R,AICSA,PA-28R-180 Cherokee Arrow,1,P,,L,L,1
+P28R,AICSA,PA-28R-200 Cherokee Arrow 2,1,P,,L,L,1
+P28R,Chincul,Arrow 3,1,P,,L,L,1
+P28R,Chincul,Cherokee Arrow 2,1,P,,L,L,1
+P28R,Chincul,Cherokee Arrow 3,1,P,,L,L,1
+P28R,Chincul,PA-A-28R-200 Cherokee Arrow 2,1,P,,L,L,1
+P28R,Chincul,PA-A-28R-201 Arrow 3,1,P,,L,L,1
+P28R,Chincul,PA-A-28R-201 Cherokee Arrow 3,1,P,,L,L,1
+P28R,Embraer,Corisco,1,P,,L,L,1
+P28R,Embraer,EMB-711B Corisco,1,P,,L,L,1
+P28R,Embraer,EMB-711C Corisco,1,P,,L,L,1
+P28R,Neiva,Corisco,1,P,,L,L,1
+P28R,Neiva,EMB-711B Corisco,1,P,,L,L,1
+P28R,Neiva,EMB-711C Corisco,1,P,,L,L,1
+P28R,Piper,Arrow,1,P,,L,L,1
+P28R,Piper,Arrow 3,1,P,,L,L,1
+P28R,Piper,Cherokee Arrow,1,P,,L,L,1
+P28R,Piper,Cherokee Arrow 2,1,P,,L,L,1
+P28R,Piper,Cherokee Arrow 3,1,P,,L,L,1
+P28R,Piper,PA-28R-180 Cherokee Arrow,1,P,,L,L,1
+P28R,Piper,PA-28R-200 Cherokee Arrow,1,P,,L,L,1
+P28R,Piper,PA-28R-200 Cherokee Arrow 2,1,P,,L,L,1
+P28R,Piper,PA-28R-201 Arrow,1,P,,L,L,1
+P28R,Piper,PA-28R-201 Arrow 3,1,P,,L,L,1
+P28R,Piper,PA-28R-201 Cherokee Arrow 3,1,P,,L,L,1
+P28S,AICSA,PA-28R-201T Turbo Arrow 3,1,P,,L,L,1
+P28S,AICSA,PA-28R-201T Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,AICSA,Turbo Arrow 3,1,P,,L,L,1
+P28S,AICSA,Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,Chincul,PA-A-28R-201T Turbo Arrow 3,1,P,,L,L,1
+P28S,Chincul,PA-A-28R-201T Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,Chincul,Turbo Arrow 3,1,P,,L,L,1
+P28S,Chincul,Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,Piper,PA-28R-201T Turbo Arrow,1,P,,L,L,1
+P28S,Piper,PA-28R-201T Turbo Arrow 3,1,P,,L,L,1
+P28S,Piper,PA-28R-201T Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,Piper,Turbo Arrow,1,P,,L,L,1
+P28S,Piper,Turbo Arrow 3,1,P,,L,L,1
+P28S,Piper,Turbo Cherokee Arrow 3,1,P,,L,L,1
+P28S,Piper,PA-28R-201T  Turbo Cherokee Arrow 3,1,P,,L,L,0
+P28T,Chincul,Arrow 4,1,P,,L,L,1
+P28T,Chincul,PA-A-28RT-201 Arrow 4,1,P,,L,L,1
+P28T,Embraer,Corisco 2,1,P,,L,L,1
+P28T,Embraer,EMB-711T Corisco 2,1,P,,L,L,1
+P28T,Neiva,Corisco 2,1,P,,L,L,1
+P28T,Neiva,EMB-711T Corisco 2,1,P,,L,L,1
+P28T,Piper,Arrow 4,1,P,,L,L,1
+P28T,Piper,PA-28RT-201 Arrow 4,1,P,,L,L,1
+P28U,AICSA,PA-28RT-201T Turbo Arrow 4,1,P,,L,L,1
+P28U,AICSA,Turbo Arrow 4,1,P,,L,L,1
+P28U,Chincul,PA-A-28RT-201T Turbo Arrow 4,1,P,,L,L,1
+P28U,Chincul,Turbo Arrow 4,1,P,,L,L,1
+P28U,Embraer,Corisco 2 Turbo,1,P,,L,L,1
+P28U,Embraer,EMB-711ST Corisco 2 Turbo,1,P,,L,L,1
+P28U,Neiva,Corisco 2 Turbo,1,P,,L,L,1
+P28U,Neiva,EMB-711ST Corisco 2 Turbo,1,P,,L,L,1
+P28U,Piper,PA-28RT-201T Turbo Arrow 4,1,P,,L,L,1
+P28U,Piper,Turbo Arrow 4,1,P,,L,L,1
+P28U,Embraer,Corisco 2 Turbo,1,P,,L,,0
+P28U,Piper,PA-28RT-201T Turbo Arow 4,1,P,,L,L,0
+P3,Kawasaki,EP-3 Orion,4,T,,L,M,1
+P3,Kawasaki,Orion,4,T,,L,M,1
+P3,Kawasaki,P-3 Orion,4,T,,L,M,1
+P3,Kawasaki,UP-3 Orion,4,T,,L,M,1
+P3,Lockheed,AP-3 Orion,4,T,,L,M,1
+P3,Lockheed,Arcturus,4,T,,L,M,1
+P3,Lockheed,Aurora,4,T,,L,M,1
+P3,Lockheed,CP-140 Arcturus,4,T,,L,M,1
+P3,Lockheed,CP-140 Aurora,4,T,,L,M,1
+P3,Lockheed,EP-3 Orion,4,T,,L,M,1
+P3,Lockheed,L-185 Orion,4,T,,L,M,1
+P3,Lockheed,L-285 Orion,4,T,,L,M,1
+P3,Lockheed,L-685 Orion,4,T,,L,M,1
+P3,Lockheed,L-785 Orion,4,T,,L,M,1
+P3,Lockheed,NP-3 Orion,4,T,,L,M,1
+P3,Lockheed,Orion,4,T,,L,M,1
+P3,Lockheed,P-3 Orion,4,T,,L,M,1
+P3,Lockheed,RP-3 Orion,4,T,,L,M,1
+P3,Lockheed,TP-3 Orion,4,T,,L,M,1
+P3,Lockheed,UP-3 Orion,4,T,,L,M,1
+P3,Lockheed,VP-3 Orion,4,T,,L,M,1
+P3,Lockheed,WP-3 Orion,4,T,,L,M,1
+P3,Lockheed Martin,L-285 Orion,4,T,,L,M,1
+P3,Lockheed Martin,Orion,4,T,,L,M,1
+P3,Lockheed Martin,P-3 Orion,4,T,,L,M,1
+P32R,AICSA,Lance,1,P,,L,L,1
+P32R,AICSA,PA-32R-300 Lance,1,P,,L,L,1
+P32R,AICSA,PA-32R-301T Turbo Saratoga SP,1,P,,L,L,1
+P32R,AICSA,Turbo Saratoga SP,1,P,,L,L,1
+P32R,Chincul,Cherokee Lance,1,P,,L,L,1
+P32R,Chincul,Lance,1,P,,L,L,1
+P32R,Chincul,PA-A-32R-300 Cherokee Lance,1,P,,L,L,1
+P32R,Chincul,PA-A-32R-300 Lance,1,P,,L,L,1
+P32R,Embraer,EMB-721 Sertanejo,1,P,,L,L,1
+P32R,Embraer,Sertanejo,1,P,,L,L,1
+P32R,Neiva,EMB-721 Sertanejo,1,P,,L,L,1
+P32R,Neiva,Sertanejo,1,P,,L,L,1
+P32R,Piper,Cherokee Lance,1,P,,L,L,1
+P32R,Piper,Lance,1,P,,L,L,1
+P32R,Piper,PA-32R-300 Cherokee Lance,1,P,,L,L,1
+P32R,Piper,PA-32R-300 Lance,1,P,,L,L,1
+P32R,Piper,PA-32R-301 Saratoga 2 HP,1,P,,L,L,1
+P32R,Piper,PA-32R-301 Saratoga SP,1,P,,L,L,1
+P32R,Piper,PA-32R-301T Saratoga 2 TC,1,P,,L,L,1
+P32R,Piper,PA-32R-301T Turbo Saratoga SP,1,P,,L,L,1
+P32R,Piper,Saratoga 2 HP,1,P,,L,L,1
+P32R,Piper,Saratoga 2 TC,1,P,,L,L,1
+P32R,Piper,Saratoga SP,1,P,,L,L,1
+P32R,Piper,Turbo Saratoga SP,1,P,,L,L,1
+P32T,AICSA,PA-32RT Turbo Lance 2,1,P,,L,L,1
+P32T,Chincul,Lance 2,1,P,,L,L,1
+P32T,Chincul,PA-A-32RT-300 Lance 2,1,P,,L,L,1
+P32T,Chincul,PA-A-32RT-300T Turbo Lance 2,1,P,,L,L,1
+P32T,Chincul,Turbo Lance 2,1,P,,L,L,1
+P32T,Embraer,Lance 2,1,P,,L,L,1
+P32T,Embraer,PA-32RT-300 Lance 2,1,P,,L,L,1
+P32T,Piper,Lance 2,1,P,,L,L,1
+P32T,Piper,PA-32RT-300 Lance 2,1,P,,L,L,1
+P32T,Piper,PA-32RT-300T Turbo Lance 2,1,P,,L,L,1
+P32T,Piper,Turbo Lance 2,1,P,,L,L,1
+P337,Cessna,P337 Pressurized Skymaster,2,P,,L,L,1
+P337,Cessna,Pressurized Skymaster,2,P,,L,L,1
+P337,Cessna,T337G Pressurized Skymaster,2,P,,L,L,1
+P337,Reims,FP337 Pressurized Skymaster,2,P,,L,L,1
+P337,Reims,FT337G Pressurized Skymaster,2,P,,L,L,1
+P38,Lockheed,F-5 Lightning,2,P,,L,M,1
+P38,Lockheed,L-222 Lightning,2,P,,L,M,1
+P38,Lockheed,L-322 Lightning,2,P,,L,M,1
+P38,Lockheed,L-422 Lightning,2,P,,L,M,1
+P38,Lockheed,Lightning,2,P,,L,M,1
+P38,Lockheed,P-38 Lightning,2,P,,L,M,1
+P39,Bell,Airacobra,1,P,,L,L,1
+P39,Bell,P-39 Airacobra,1,P,,L,L,1
+P40,Curtiss,Kittyhawk,1,P,,L,L,1
+P40,Curtiss,P-40 Kittyhawk,1,P,,L,L,1
+P40,Curtiss,P-40 Tomahawk,1,P,,L,L,1
+P40,Curtiss,P-40 Warhawk,1,P,,L,L,1
+P40,Curtiss,Tomahawk,1,P,,L,L,1
+P40,Curtiss,TP-40 Warhawk,1,P,,L,L,1
+P40,Curtiss,Warhawk,1,P,,L,L,1
+P46T,Jetprop,DLX,1,T,,L,L,1
+P46T,Piper,M500,1,T,,L,L,1
+P46T,Piper,Malibu Meridian,1,T,,L,L,1
+P46T,Piper,Meridian M500,1,T,,L,L,1
+P46T,Piper,PA-46-500TP Malibu Meridian,1,T,,L,L,1
+P46T,Piper,PA-46-500TP Meridian M500,1,T,,L,L,1
+P47,Republic,F-47 Thunderbolt,1,P,,L,M,1
+P47,Republic,P-47 Thunderbolt,1,P,,L,M,1
+P47,Republic,Thunderbolt,1,P,,L,M,1
+P4Y,Convair,P4Y Privateer,4,P,,L,M,1
+P4Y,Convair,PB4Y Privateer,4,P,,L,M,1
+P4Y,Convair,Privateer,4,P,,L,M,1
+P50,Pottier,Bouvreuil,1,P,,L,L,1
+P50,Pottier,P-50 Bouvreuil,1,P,,L,L,1
+P51,Commonwealth Aircraft (Aus),CA-18 Mustang,1,P,,L,L,1
+P51,Commonwealth Aircraft (Aus),Mustang,1,P,,L,L,1
+P51,North American,A-36 Mustang,1,P,,L,L,1
+P51,North American,F-51 Mustang,1,P,,L,L,1
+P51,North American,Mustang,1,P,,L,L,1
+P51,North American,P-51 Mustang,1,P,,L,L,1
+P57,Partenavia,Fachiro 2,1,P,,L,L,1
+P57,Partenavia,P-57 Fachiro 2,1,P,,L,L,1
+P60,Pottier,Minacro,1,P,,L,L,1
+P60,Pottier,P-60 Minacro,1,P,,L,L,1
+P61,Northrop,Black Widow,2,P,,L,M,1
+P61,Northrop,P-61 Black Widow,2,P,,L,M,1
+P63,Bell,Kingcobra,1,P,,L,L,1
+P63,Bell,P-63 Kingcobra,1,P,,L,L,1
+P66P,Piaggio,Albatross,2,P,,L,L,1
+P66P,Piaggio,P-166,2,P,,L,L,1
+P66P,Piaggio,P-166A,2,P,,L,L,1
+P66P,Piaggio,P-166B Portofino,2,P,,L,L,1
+P66P,Piaggio,P-166C,2,P,,L,L,1
+P66P,Piaggio,P-166DL2,2,P,,L,L,1
+P66P,Piaggio,P-166M,2,P,,L,L,1
+P66P,Piaggio,P-166S Albatross,2,P,,L,L,1
+P66P,Piaggio,Portofino,2,P,,L,L,1
+P66P,Trecker,166,2,P,,L,L,1
+P66T,Piaggio,P-166DL3,2,T,,L,L,1
+P66T,Piaggio,P-166DP1,2,T,,L,L,1
+P68,Partenavia,Observer,2,P,,L,L,1
+P68,Partenavia,P-68,2,P,,L,L,1
+P68,Partenavia,P-68 Observer,2,P,,L,L,1
+P68,Partenavia,P-68 Victor,2,P,,L,L,1
+P68,Partenavia,Victor,2,P,,L,L,1
+P68,Taneja,Observer,2,P,,L,L,1
+P68,Taneja,P-68,2,P,,L,L,1
+P68,Taneja,P-68 Observer,2,P,,L,L,1
+P68,VulcanAir,Observer,2,P,,L,L,1
+P68,VulcanAir,P-68,2,P,,L,L,1
+P68,VulcanAir,P-68 Observer,2,P,,L,L,1
+P68,VulcanAir,P-68 VR,2,P,,L,L,1
+P68,VulcanAir,VR,2,P,,L,L,1
+P68T,Partenavia,AP-68TP-300 Spartacus,2,T,,L,L,1
+P68T,Partenavia,Spartacus,2,T,,L,L,1
+P70,Pottier,P-70,1,P,,L,L,1
+P750,Pacific Aerospace,750XL,1,T,,L,L,1
+P750,Pacific Aerospace,P-750 XStol,1,T,,L,L,1
+P750,Pacific Aerospace,XStol,1,T,,L,L,1
+P8,Boeing,737-800 Poseidon,2,J,,L,M,1
+P8,Boeing,P-8 Poseidon,2,J,,L,M,1
+P8,Boeing,Poseidon,2,J,,L,M,1
+P80,Pottier,P-80,1,P,,L,L,1
+P82,North American,F-82 Twin Mustang,2,P,,L,M,1
+P82,North American,P-82 Twin Mustang,2,P,,L,M,1
+P82,North American,Twin Mustang,2,P,,L,M,1
+PA11,American Legend,AL-11C Legend Cub Special,1,P,,L,L,1
+PA11,American Legend,Legend Cub Special,1,P,,L,L,1
+PA11,Cub Crafters,Carbon Cub,1,P,,L,L,1
+PA11,Cub Crafters,CC-11 Carbon Cub,1,P,,L,L,1
+PA11,Cub Crafters,CC-11 Sport Cub,1,P,,L,L,1
+PA11,Cub Crafters,Sport Cub,1,P,,L,L,1
+PA11,Piper,Cub Special,1,P,,L,L,1
+PA11,Piper,L-18B Cub Special,1,P,,L,L,1
+PA11,Piper,PA-11 Cub Special,1,P,,L,L,1
+PA11,Texas Sport,Texas Sport (TX-11),1,P,,L,L,1
+PA11,Texas Sport,TX-11 Texas Sport,1,P,,L,L,1
+PA12,Backcountry,PA-12 Super Cruiser,1,P,,L,L,1
+PA12,Backcountry,Super Cruiser,1,P,,L,L,1
+PA12,Piper,PA-12 Super Cruiser,1,P,,L,L,1
+PA12,Piper,Super Cruiser,1,P,,L,L,1
+PA14,Piper,Family Cruiser,1,P,,L,L,1
+PA14,Piper,PA-14 Family Cruiser,1,P,,L,L,1
+PA14,WagAero,2+2 Sportsman,1,P,,L,L,1
+PA15,Piper,PA-15 Vagabond,1,P,,L,L,1
+PA15,Piper,Vagabond (PA-15),1,P,,L,L,1
+PA15,WagAero,Wag-a-Bond,1,P,,L,L,1
+PA16,Piper,Clipper,1,P,,L,L,1
+PA16,Piper,PA-16 Clipper,1,P,,L,L,1
+PA17,Piper,PA-17 Vagabond,1,P,,L,L,1
+PA17,Piper,PA-17 Vagabond Trainer,1,P,,L,L,1
+PA17,Piper,Vagabond (PA-17),1,P,,L,L,1
+PA17,Piper,Vagabond Trainer,1,P,,L,L,1
+PA18,Airframes-Dakota Cub,S-18 Super 18,1,P,,L,L,1
+PA18,Airframes-Dakota Cub,Super 18,1,P,,L,L,1
+PA18,American Legend,AL-18 MOAC,1,P,,L,L,1
+PA18,American Legend,AL-18 Super Legend,1,P,,L,L,1
+PA18,American Legend,MOAC,1,P,,L,L,1
+PA18,American Legend,Super Legend,1,P,,L,L,1
+PA18,Backcountry,PA-18 Super Cub,1,P,,L,L,1
+PA18,Backcountry,Super Cub,1,P,,L,L,1
+PA18,Cub Crafters,CC-18 Top Cub,1,P,,L,L,1
+PA18,Cub Crafters,PA-18 Top Cub,1,P,,L,L,1
+PA18,Cub Crafters,Top Cub,1,P,,L,L,1
+PA18,Piper,L-18C Super Cub,1,P,,L,L,1
+PA18,Piper,L-21 Super Cub,1,P,,L,L,1
+PA18,Piper,PA-18 Super Cub,1,P,,L,L,1
+PA18,Piper,Super Cub,1,P,,L,L,1
+PA18,Piper,U-7 Super Cub,1,P,,L,L,1
+PA18,Safat,01,1,P,,L,L,1
+PA18,Smith Aviation,PA-18 Super Cub,1,P,,L,L,1
+PA18,Smith Aviation,Super Cub,1,P,,L,L,1
+PA18,Super 18,S-18 Super 18,1,P,,L,L,1
+PA18,Super 18,Super 18,1,P,,L,L,1
+PA18,Turbine Cubs,PA-18 Super Cub,1,P,,L,L,1
+PA18,Turbine Cubs,Super Cub,1,P,,L,L,1
+PA18,WagAero,Super Cuby,1,P,,L,L,1
+PA18,WagAero,Super Sport,1,P,,L,L,1
+PA18,Yakima Aerosport,Super 18 Turbo Cub,1,P,,L,L,1
+PA20,Piper,PA-20 Pacer,1,P,,L,L,1
+PA20,Piper,Pacer,1,P,,L,L,1
+PA22,Piper,Caribbean,1,P,,L,L,1
+PA22,Piper,Colt,1,P,,L,L,1
+PA22,Piper,PA-22 Caribbean,1,P,,L,L,1
+PA22,Piper,PA-22 Colt,1,P,,L,L,1
+PA22,Piper,PA-22 Tri-Pacer,1,P,,L,L,1
+PA22,Piper,Tri-Pacer,1,P,,L,L,1
+PA23,Miller,Jet Profile,2,P,,L,L,1
+PA23,Piper,Apache,2,P,,L,L,1
+PA23,Piper,PA-23-150 Apache,2,P,,L,L,1
+PA23,Piper,PA-23-160 Apache,2,P,,L,L,1
+PA23,Seguin,Geronimo,2,P,,L,L,1
+PA24,Piper,Comanche,1,P,,L,L,1
+PA24,Piper,PA-24 Comanche,1,P,,L,L,1
+PA25,Chincul,PA-A-25 Pawnee,1,P,,L,L,1
+PA25,Chincul,Pawnee,1,P,,L,L,1
+PA25,Embraer,PA-25 Pawnee,1,P,,L,L,1
+PA25,Embraer,Pawnee,1,P,,L,L,1
+PA25,Latinoamericana de Aviación,PA-25 Puelche,1,P,,L,L,1
+PA25,Latinoamericana de Aviación,Puelche,1,P,,L,L,1
+PA25,Piper,PA-25 Pawnee,1,P,,L,L,1
+PA25,Piper,Pawnee,1,P,,L,L,1
+PA27,Chincul,Aztec,2,P,,L,L,1
+PA27,Chincul,PA-A-23-250 Aztec,2,P,,L,L,1
+PA27,Piper,Aztec,2,P,,L,L,1
+PA27,Piper,PA-23-235 Aztec,2,P,,L,L,1
+PA27,Piper,PA-23-250 Aztec,2,P,,L,L,1
+PA27,Piper,PA-23-250 Turbo Aztec,2,P,,L,L,1
+PA27,Piper,Turbo Aztec,2,P,,L,L,1
+PA27,Piper,U-11 Aztec,2,P,,L,L,1
+PA27,Piper,UC-26 Aztec,2,P,,L,L,1
+PA30,AICSA,PA-30 Twin Comanche,2,P,,L,L,1
+PA30,AICSA,Twin Comanche,2,P,,L,L,1
+PA30,Miller,Twin Comanche 200,2,P,,L,L,1
+PA30,Piper,PA-30 Turbo Twin Comanche,2,P,,L,L,1
+PA30,Piper,PA-30 Twin Comanche,2,P,,L,L,1
+PA30,Piper,PA-39 Twin Comanche CR,2,P,,L,L,1
+PA30,Piper,Turbo Twin Comanche,2,P,,L,L,1
+PA30,Piper,Twin Comanche,2,P,,L,L,1
+PA30,Piper,Twin Comanche CR,2,P,,L,L,1
+PA31,AICSA,Chieftain,2,P,,L,L,1
+PA31,AICSA,Navajo,2,P,,L,L,1
+PA31,AICSA,Navajo Chieftain,2,P,,L,L,1
+PA31,AICSA,Navajo CR,2,P,,L,L,1
+PA31,AICSA,PA-31-310 Navajo,2,P,,L,L,1
+PA31,AICSA,PA-31-325 Navajo CR,2,P,,L,L,1
+PA31,AICSA,PA-31-350 Chieftain,2,P,,L,L,1
+PA31,AICSA,PA-31-350 Navajo Chieftain,2,P,,L,L,1
+PA31,Chincul,Chieftain,2,P,,L,L,1
+PA31,Chincul,Navajo,2,P,,L,L,1
+PA31,Chincul,Navajo Chieftain,2,P,,L,L,1
+PA31,Chincul,Navajo CR,2,P,,L,L,1
+PA31,Chincul,PA-A-31-310 Navajo,2,P,,L,L,1
+PA31,Chincul,PA-A-31-325 Navajo CR,2,P,,L,L,1
+PA31,Chincul,PA-A-31-350 Chieftain,2,P,,L,L,1
+PA31,Chincul,PA-A-31-350 Navajo Chieftain,2,P,,L,L,1
+PA31,Chincul,PA-A-31P-425 Pressurized Navajo,2,P,,L,L,1
+PA31,Chincul,Pressurized Navajo,2,P,,L,L,1
+PA31,Colemill,Panther 2,2,P,,L,L,1
+PA31,Colemill,Panther 3,2,P,,L,L,1
+PA31,Colemill,Panther Navajo,2,P,,L,L,1
+PA31,Embraer,EMB-820 Navajo,2,P,,L,L,1
+PA31,Embraer,Navajo,2,P,,L,L,1
+PA31,Neiva,EMB-820 Navajo,2,P,,L,L,1
+PA31,Neiva,Navajo,2,P,,L,L,1
+PA31,Piper,Chieftain,2,P,,L,L,1
+PA31,Piper,Mojave,2,P,,L,L,1
+PA31,Piper,Navajo,2,P,,L,L,1
+PA31,Piper,Navajo Chieftain,2,P,,L,L,1
+PA31,Piper,Navajo CR,2,P,,L,L,1
+PA31,Piper,PA-31-300 Navajo,2,P,,L,L,1
+PA31,Piper,PA-31-310 Navajo,2,P,,L,L,1
+PA31,Piper,PA-31-325 Navajo CR,2,P,,L,L,1
+PA31,Piper,PA-31-350 Chieftain,2,P,,L,L,1
+PA31,Piper,PA-31-350 Navajo Chieftain,2,P,,L,L,1
+PA31,Piper,PA-31-350 T-1020,2,P,,L,L,1
+PA31,Piper,PA-31P-350 Mojave,2,P,,L,L,1
+PA31,Piper,PA-31P-425 Pressurized Navajo,2,P,,L,L,1
+PA31,Piper,Pressurized Navajo,2,P,,L,L,1
+PA31,Piper,T-1020,2,P,,L,L,1
+PA32,AICSA,Cherokee Six,1,P,,L,L,1
+PA32,AICSA,PA-32 Cherokee Six,1,P,,L,L,1
+PA32,AICSA,PA-32 Saratoga,1,P,,L,L,1
+PA32,AICSA,PA-32 Six,1,P,,L,L,1
+PA32,AICSA,PA-32 Turbo Saratoga,1,P,,L,L,1
+PA32,AICSA,Saratoga,1,P,,L,L,1
+PA32,AICSA,Six,1,P,,L,L,1
+PA32,AICSA,Turbo Saratoga,1,P,,L,L,1
+PA32,Chincul,Cherokee Six,1,P,,L,L,1
+PA32,Chincul,PA-A-32 Cherokee Six,1,P,,L,L,1
+PA32,Embraer,EMB-720 Minuano,1,P,,L,L,1
+PA32,Embraer,Minuano,1,P,,L,L,1
+PA32,Neiva,EMB-720 Minuano,1,P,,L,L,1
+PA32,Neiva,Minuano,1,P,,L,L,1
+PA32,Piper,6X,1,P,,L,L,1
+PA32,Piper,6XT,1,P,,L,L,1
+PA32,Piper,Cherokee Six,1,P,,L,L,1
+PA32,Piper,PA-32 6X,1,P,,L,L,1
+PA32,Piper,PA-32 6XT,1,P,,L,L,1
+PA32,Piper,PA-32 Cherokee Six,1,P,,L,L,1
+PA32,Piper,PA-32 Saratoga,1,P,,L,L,1
+PA32,Piper,PA-32 Six,1,P,,L,L,1
+PA32,Piper,PA-32 Turbo Saratoga,1,P,,L,L,1
+PA32,Piper,Saratoga,1,P,,L,L,1
+PA32,Piper,Six,1,P,,L,L,1
+PA32,Piper,Turbo Saratoga,1,P,,L,L,1
+PA34,AICSA,PA-34 Seneca,2,P,,L,L,1
+PA34,AICSA,Seneca,2,P,,L,L,1
+PA34,Bengis,Flamingo 3,2,P,,L,L,1
+PA34,Bengis,TM-20 Flamingo 3,2,P,,L,L,1
+PA34,Chincul,PA-A-34 Seneca,2,P,,L,L,1
+PA34,Chincul,Seneca,2,P,,L,L,1
+PA34,Embraer,EMB-810 Seneca,2,P,,L,L,1
+PA34,Embraer,Seneca,2,P,,L,L,1
+PA34,Embraer,U-7 Seneca,2,P,,L,L,1
+PA34,Neiva,EMB-810 Seneca,2,P,,L,L,1
+PA34,Neiva,Seneca,2,P,,L,L,1
+PA34,Piper,PA-34 Seneca,2,P,,L,L,1
+PA34,Piper,Seneca,2,P,,L,L,1
+PA34,Pzl-Mielec,Gemini,2,P,,L,L,1
+PA34,Pzl-Mielec,M-20 Gemini,2,P,,L,L,1
+PA34,Pzl-Mielec,M-20 Mewa,2,P,,L,L,1
+PA34,Pzl-Mielec,Mewa,2,P,,L,L,1
+PA34,Seguin,Princess,2,P,,L,L,1
+PA36,AICSA,PA-36 Pawnee Brave,1,P,,L,L,1
+PA36,AICSA,Pawnee Brave,1,P,,L,L,1
+PA36,Chincul,PA-A-36 Pawnee Brave,1,P,,L,L,1
+PA36,Chincul,Pawnee Brave,1,P,,L,L,1
+PA36,Johnston,Super Brave,1,P,,L,L,1
+PA36,Piper,PA-36 Pawnee Brave,1,P,,L,L,1
+PA36,Piper,Pawnee Brave,1,P,,L,L,1
+PA38,AICSA,PA-38 Tomahawk,1,P,,L,L,1
+PA38,AICSA,Tomahawk,1,P,,L,L,1
+PA38,Chincul,PA-A-38 Tomahawk,1,P,,L,L,1
+PA38,Chincul,Tomahawk,1,P,,L,L,1
+PA38,Piper,PA-38 Tomahawk,1,P,,L,L,1
+PA38,Piper,Tomahawk,1,P,,L,L,1
+PA44,AICSA,PA-44 Seminole,2,P,,L,L,1
+PA44,AICSA,Seminole,2,P,,L,L,1
+PA44,Piper,PA-44 Seminole,2,P,,L,L,1
+PA44,Piper,PA-44 Turbo Seminole,2,P,,L,L,1
+PA44,Piper,Seminole,2,P,,L,L,1
+PA44,Piper,Turbo Seminole,2,P,,L,L,1
+PA46,Piper,M350,1,P,,L,L,1
+PA46,Piper,Malibu,1,P,,L,L,1
+PA46,Piper,Malibu Matrix,1,P,,L,L,1
+PA46,Piper,Malibu Mirage,1,P,,L,L,1
+PA46,Piper,PA-46-310P Malibu,1,P,,L,L,1
+PA46,Piper,PA-46-350P M350,1,P,,L,L,1
+PA46,Piper,PA-46-350P Malibu Mirage,1,P,,L,L,1
+PA46,Piper,PA-46R-350T Malibu Matrix,1,P,,L,L,1
+PA47,Piper,PA-47 Piper Jet,1,J,,L,L,1
+PA47,Piper,PA-47 Piper Jet Altaire,1,J,,L,L,1
+PA47,Piper,Piper Jet,1,J,,L,L,1
+PA47,Piper,Piper Jet Altaire,1,J,,L,L,1
+PACE,Bellanca,31 Senior Skyrocket,1,P,,L,L,1
+PACE,Bellanca,CH-300 Pacemaker,1,P,,L,L,1
+PACE,Bellanca,CH-400 Skyrocket,1,P,,L,L,1
+PACE,Bellanca,D Skyrocket,1,P,,L,L,1
+PACE,Bellanca,Pacemaker,1,P,,L,L,1
+PACE,Bellanca,Senior Skyrocket,1,P,,L,L,1
+PACE,Bellanca,Skyrocket (CH-400),1,P,,L,L,1
+PACE,Bellanca,Skyrocket (D),1,P,,L,L,1
+PAGO,Alms,ADV-01 Papango,1,P,,L,L,1
+PAGO,Alms,Papango,1,P,,L,L,1
+PAGO,Sauper,ADV-01 Papango,1,P,,L,L,1
+PAGO,Sauper,Papango,1,P,,L,L,1
+PANT,Rotec,Panther 2,1,P,,L,L,1
+PANT,Rotec,Panther Plus,1,P,,L,L,1
+PANT,Rotec,Sea Panther,1,P,,L,L,1
+PAR1,Paradise,P-1,1,P,,L,L,1
+PAR1,Paradise,P-2,1,P,,L,L,1
+PAR4,Paradise,P-4,1,P,,L,L,1
+PARL,Pietenpol,Aerial,1,P,,L,L,1
+PARL,St. Croix,Pietenpol Aerial,1,P,,L,L,1
+PAT2,ATAC,Patriot 2,1,P,,L,L,1
+PAT4,Neiva,Caraja,2,T,,L,L,1
+PAT4,Neiva,NE-821 Caraja,2,T,,L,L,1
+PAT4,Piper,PA-31T3-500 T-1040,2,T,,L,L,1
+PAT4,Piper,T-1040,2,T,,L,L,1
+PAT4,Schafer,Comanchero 500,2,T,,L,L,1
+PAUL,Neiva,56 Paulistinha,1,P,,L,L,1
+PAUL,Neiva,L-6 Paulistinha,1,P,,L,L,1
+PAUL,Neiva,Paulistinha,1,P,,L,L,1
+PAUL,Paulista,CAP-4 Paulistinha,1,P,,L,L,1
+PAUL,Paulista,Paulistinha,1,P,,L,L,1
+PAV4,Carter,PAV-4,1,P,,G,L,1
+PAY1,Chincul,Cheyenne 1,2,T,,L,L,1
+PAY1,Chincul,PA-A-31T1-500 Cheyenne 1,2,T,,L,L,1
+PAY1,Piper,Cheyenne 1,2,T,,L,L,1
+PAY1,Piper,PA-31T1-500 Cheyenne 1,2,T,,L,L,1
+PAY2,AICSA,Cheyenne 2,2,T,,L,L,1
+PAY2,AICSA,Cheyenne 2XL,2,T,,L,L,1
+PAY2,AICSA,PA-31T2-620 Cheyenne 2XL,2,T,,L,L,1
+PAY2,AICSA,PA-31T-620 Cheyenne 2,2,T,,L,L,1
+PAY2,Chincul,Cheyenne 2,2,T,,L,L,1
+PAY2,Chincul,PA-A-31T-620 Cheyenne 2,2,T,,L,L,1
+PAY2,Piper,Cheyenne,2,T,,L,L,1
+PAY2,Piper,Cheyenne 2,2,T,,L,L,1
+PAY2,Piper,Cheyenne 2XL,2,T,,L,L,1
+PAY2,Piper,PA-31T2-620 Cheyenne 2XL,2,T,,L,L,1
+PAY2,Piper,PA-31T-620 Cheyenne,2,T,,L,L,1
+PAY2,Piper,PA-31T-620 Cheyenne 2,2,T,,L,L,1
+PAY2,Schafer,Comanchero 620,2,T,,L,L,1
+PAY3,AICSA,Cheyenne 3,2,T,,L,L,1
+PAY3,AICSA,PA-42-720 Cheyenne 3,2,T,,L,L,1
+PAY3,Piper,Cheyenne 3,2,T,,L,L,1
+PAY3,Piper,PA-42-720 Cheyenne 3,2,T,,L,L,1
+PAY4,Piper,Cheyenne 400,2,T,,L,L,1
+PAY4,Piper,PA-42-1000 Cheyenne 400,2,T,,L,L,1
+PC12,Pilatus,Eagle,1,T,,L,L,1
+PC12,Pilatus,PC-12,1,T,,L,L,1
+PC12,Pilatus,PC-12 Eagle,1,T,,L,L,1
+PC12,Pilatus,PC-12 Spectre,1,T,,L,L,1
+PC12,Pilatus,Spectre,1,T,,L,L,1
+PC12,Pilatus,U-28,1,T,,L,L,1
+PC21,Pilatus,PC-21,1,T,,L,L,1
+PC24,Pilatus,PC-24,2,J,,L,M,1
+PC6P,Pilatus,PC-6 Porter,1,P,,L,L,1
+PC6P,Pilatus,Porter,1,P,,L,L,1
+PC6T,Fairchild,Heli-Porter,1,T,,L,L,1
+PC6T,Fairchild,PC-6 Heli-Porter,1,T,,L,L,1
+PC6T,Fairchild Hiller,AU-23 Peacemaker,1,T,,L,L,1
+PC6T,Fairchild Hiller,Heli-Porter,1,T,,L,L,1
+PC6T,Fairchild Hiller,PC-6 Heli-Porter,1,T,,L,L,1
+PC6T,Fairchild Hiller,Peacemaker,1,T,,L,L,1
+PC6T,Pilatus,Chiricahua,1,T,,L,L,1
+PC6T,Pilatus,PC-6A Turbo-Porter,1,T,,L,L,1
+PC6T,Pilatus,PC-6B Turbo-Porter,1,T,,L,L,1
+PC6T,Pilatus,PC-6C Turbo-Porter,1,T,,L,L,1
+PC6T,Pilatus,Turbo-Porter,1,T,,L,L,1
+PC6T,Pilatus,UV-20 Chiricahua,1,T,,L,L,1
+PC7,Atlas,Astra,1,T,,L,L,1
+PC7,Atlas,PC-7 Astra,1,T,,L,L,1
+PC7,Denel,Astra,1,T,,L,L,1
+PC7,Denel,PC-7 Astra,1,T,,L,L,1
+PC7,HESA,S-68,1,T,,L,L,1
+PC7,Pilatus,Astra,1,T,,L,L,1
+PC7,Pilatus,AT-92 Turbo Trainer,1,T,,L,L,1
+PC7,Pilatus,PC-7 Astra,1,T,,L,L,1
+PC7,Pilatus,PC-7 Turbo Trainer,1,T,,L,L,1
+PC7,Pilatus,Turbo Trainer,1,T,,L,L,1
+PC9,Hawker De Havilland,PC-9,1,T,,L,L,1
+PC9,Pilatus,Hudournik,1,T,,L,L,1
+PC9,Pilatus,PC-9,1,T,,L,L,1
+PC9,Pilatus,PC-9 Hudournik,1,T,,L,L,1
+PCA2,Pitcairn-Cierva,PCA-2,1,P,,G,L,1
+PDIG,VSTOL,Pairadigm,2,P,,L,L,1
+PDIG,VSTOL,SST-2000 Pairadigm,2,P,,L,L,1
+PECR,Pro-Composites,Personal Cruiser,1,P,,L,L,1
+PEGA,General Avia,F-20 Pegaso,2,P,,L,L,1
+PEGA,General Avia,Pegaso,2,P,,L,L,1
+PEGZ,Pegase Aero,Pegazair,1,P,,L,L,1
+PEGZ,Tapanee,Pegazair,1,P,,L,L,1
+PELI,Flyer,Pelican,1,P,,L,L,1
+PELI,Kolb,Pelican,1,P,,L,L,1
+PELI,Ultravia,Pelican,1,P,,L,L,1
+PEMB,Hunting,P-66 Pembroke,2,P,,L,L,1
+PEMB,Hunting,Pembroke,2,P,,L,L,1
+PEMB,Hunting Percival,P-66 Pembroke,2,P,,L,L,1
+PEMB,Hunting Percival,Pembroke,2,P,,L,L,1
+PEMB,Percival,P-66 Pembroke,2,P,,L,L,1
+PEMB,Percival,Pembroke,2,P,,L,L,1
+PETL,Aero ITBA,Petrel,1,P,,L,L,1
+PETR,AAC,SeaStar,1,P,,A,L,1
+PETR,Billie,Pétrel,1,P,,A,L,1
+PETR,EDRA,Paturi,1,P,,A,L,1
+PETR,EDRA,SeaStar,1,P,,A,L,1
+PETR,EDRA,Super Petrel,1,P,,A,L,1
+PETR,SCODA,Super Petrel,1,P,,A,L,1
+PETR,Sman,Pétrel,1,P,,A,L,1
+PGEE,Holcomb,Perigee,1,P,,L,L,1
+PGK1,Western,Hirondelle,1,P,,L,L,1
+PGK1,Western,PGK-1 Hirondelle,1,P,,L,L,1
+PHIL,VTOL Aircraft,Phillicopter,1,P,,H,L,1
+PHIX,Phenix,Phenix,1,P,,G,L,1
+PHNX,Freedom,Phoenix,1,P,,L,L,1
+PIAE,Pipistrel,Alpha Electro,1,E,,L,L,1
+PIAE,Pipistrel,WattsUp,1,E,,L,L,1
+PIAT,Pipistrel,Alpha Trainer,1,P,,L,L,1
+PICO,Eurospace,Excalibur,1,P,,L,L,1
+PICO,Eurospace,F-15 Excalibur,1,P,,L,L,1
+PICO,General Avia,Delfino,1,P,,L,L,1
+PICO,General Avia,F-15 Delfino,1,P,,L,L,1
+PICO,General Avia,F-15 Picchio,1,P,,L,L,1
+PICO,General Avia,Picchio,1,P,,L,L,1
+PICO,ODESSA,Delfin,1,P,,L,L,1
+PICO,ODESSA,Y-1 Delfin,1,P,,L,L,1
+PICO,Procaer,F-15 Picchio,1,P,,L,L,1
+PICO,Procaer,Picchio,1,P,,L,L,1
+PILL,CASA,Pillán,1,P,,L,L,1
+PILL,CASA,T-35 Pillán,1,P,,L,L,1
+PILL,CASA,T-35 Tamiz,1,P,,L,L,1
+PILL,CASA,Tamiz,1,P,,L,L,1
+PILL,ENAER,ECH-51 Pillán,1,P,,L,L,1
+PILL,ENAER,Pillán,1,P,,L,L,1
+PILL,ENAER,T-35A Pillán,1,P,,L,L,1
+PILL,ENAER,T-35B Pillán,1,P,,L,L,1
+PILL,ENAER,T-35C Pillán,1,P,,L,L,1
+PILL,ENAER,T-35D Pillán,1,P,,L,L,1
+PILL,ENAER,T-35S Pillán,1,P,,L,L,1
+PILL,Indaer Chile,Pillán,1,P,,L,L,1
+PILL,Indaer Chile,T-35 Pillán,1,P,,L,L,1
+PILL,Piper,PA-28R-300 Pillán,1,P,,L,L,1
+PILL,Piper,Pillán,1,P,,L,L,1
+PINO,General Avia,F-22 Pinguino,1,P,,L,L,1
+PINO,General Avia,F-22 Pinguino Sprint,1,P,,L,L,1
+PINO,General Avia,Pinguino,1,P,,L,L,1
+PINO,General Avia,Pinguino Sprint,1,P,,L,L,1
+PIPA,Pipistrel,Panthera,1,P,,L,L,1
+PISI,Pipistrel,Sinus,1,P,,L,L,1
+PIT4,Pipistrel,Taurus Electro G4,1,E,,L,L,1
+PITA,Pipistrel,Taurus 503,1,P,,L,L,1
+PITA,Pipistrel,Taurus,1,P,,L,L,0
+PITE,Pipistrel,Taurus Electro,1,E,,L,L,1
+PITE,Pipistrel,Taurus Electro G2,1,E,,L,L,1
+PIVE,Pipistrel,Velis Electro,1,E,,L,L,1
+PIVE,Pipistrel,Virus (electric),1,E,,L,L,1
+PIVI,Pipistrel,Surveyor,1,P,,L,L,1
+PIVI,Pipistrel,Virus (piston),1,P,,L,L,1
+PIVI,Pipistrel,Virus,1,P,,L,L,0
+PK11,PIK,PIK-11 Tumppu,1,P,,L,L,1
+PK11,PIK,Tumppu,1,P,,L,L,1
+PK15,PIK,Hinu,1,P,,L,L,1
+PK15,PIK,PIK-15 Hinu,1,P,,L,L,1
+PK18,PIK,PIK-18 Sytky,1,P,,L,L,1
+PK18,PIK,Sytky,1,P,,L,L,1
+PK19,PIK,Muhinu,1,P,,L,L,1
+PK19,PIK,PIK-19 Muhinu,1,P,,L,L,1
+PK20,Eiriavion,PIK-20E,1,P,,L,L,1
+PK20,Issoire,PIK-20E,1,P,,L,L,1
+PK20,Issoire,PIK-30,1,P,,L,L,1
+PK20,PIK,PIK-20E,1,P,,L,L,1
+PK21,PIK,PIK-21 Super Sytky,1,P,,L,L,1
+PK21,PIK,Super Sytky,1,P,,L,L,1
+PK23,PIK,PIK-23 Suhinu,1,P,,L,L,1
+PK23,PIK,PIK-23 Towmaster,1,P,,L,L,1
+PK23,PIK,Suhinu,1,P,,L,L,1
+PK23,PIK,Towmaster,1,P,,L,L,1
+PK23,Valmet,PIK-23 Suhinu,1,P,,L,L,1
+PK23,Valmet,PIK-23 Towmaster,1,P,,L,L,1
+PK23,Valmet,Suhinu,1,P,,L,L,1
+PK23,Valmet,Towmaster,1,P,,L,L,1
+PK25,PIK,PIK-25 Varttimarkka,1,P,,L,L,1
+PK25,PIK,Varttimarkka,1,P,,L,L,1
+PKAN,Uetz,Pelikan,1,P,,L,L,1
+PKAN,Uetz,U-3M Pelikan,1,P,,L,L,1
+PKAN,Uetz,U-4M Pelikan,1,P,,L,L,1
+PL1,Pazmany,Laminar,1,P,,L,L,1
+PL1,Pazmany,PL-1 Laminar,1,P,,L,L,1
+PL12,Flight Engineers,Airtruk,1,P,,L,L,1
+PL12,Flight Engineers,PL-12 Airtruk,1,P,,L,L,1
+PL12,Transavia,Airtruk,1,P,,L,L,1
+PL12,Transavia,PL-12 Airtruk,1,P,,L,L,1
+PL12,Transavia,PL-12 Skyfarmer,1,P,,L,L,1
+PL12,Transavia,Skyfarmer,1,P,,L,L,1
+PL2,Pazmany,PL-2,1,P,,L,L,1
+PL4,Pazmany,PL-4,1,P,,L,L,1
+PL9,Pazmany,PL-9 Stork,1,P,,L,L,1
+PL9,Pazmany,Stork,1,P,,L,L,1
+PLUS,Taylorcraft (UK),Auster 1,1,P,,L,L,1
+PLUS,Taylorcraft (UK),Plus C,1,P,,L,L,1
+PLUS,Taylorcraft (UK),Plus D,1,P,,L,L,1
+PNR2,Alpi,Pioneer 200,1,P,,L,L,1
+PNR2,Alpi,Pioneer 230,1,P,,L,L,1
+PNR3,Alpi,Pioneer 300,1,P,,L,L,1
+PNR3,Alpi,Pioneer 330,1,P,,L,L,1
+PNR4,Alpi,Pioneer 400,1,P,,L,L,1
+PNTH,SPORT PERFORMANCE,Panther,1,P,,L,L,1
+PO2,CSS,CSS-13,1,P,,L,L,1
+PO2,Polikarpov,Po-2,1,P,,L,L,1
+PO2,PZL Okecie,CSS-13,1,P,,L,L,1
+PO2,Pzl-Mielec,CSS-13,1,P,,L,L,1
+PO60,Potez,60 Sauterelle,1,P,,L,L,1
+PO60,Potez,600 Sauterelle,1,P,,L,L,1
+PO60,Potez,Sauterelle,1,P,,L,L,1
+POLI,Alvarez,Polliwagen,1,P,,L,L,1
+PONY,Reda,Pony,1,P,,A,L,1
+PP2,Pilatus,P-2,1,P,,L,L,1
+PP3,Pilatus,P-3,1,P,,L,L,1
+PPRO,Hunting,P-56 Provost,1,P,,L,L,1
+PPRO,Hunting,Provost,1,P,,L,L,1
+PPRO,Hunting Percival,P-56 Provost,1,P,,L,L,1
+PPRO,Hunting Percival,Provost,1,P,,L,L,1
+PPRO,Percival,P-56 Provost,1,P,,L,L,1
+PPRO,Percival,Provost,1,P,,L,L,1
+PRBP,Howard Hughes,Pocket Rocket PR-Bipe,1,P,,L,L,1
+PRBR,Howard Hughes,Pocket Rocket PR-Breeze,1,P,,L,L,1
+PRCE,Percival,P-57 Sea Prince,2,P,,L,L,1
+PRCE,Percival,Sea Prince,2,P,,L,L,1
+PREN,Percival,P-40 Prentice,1,P,,L,L,1
+PREN,Percival,Prentice,1,P,,L,L,1
+PRET,GM&T,GM&T Pretty Flight,1,P,,L,L,1
+PREX,Private Explorer,Private Explorer,1,P,,L,L,1
+PRIM,BLACKSHAPE,Bk-100 Prime,1,P,,L,L,1
+PRIM,BLACKSHAPE,Prime,1,P,,L,L,1
+PRM1,Hawker Beechcraft,390 Hawker 200,2,J,,L,L,1
+PRM1,Hawker Beechcraft,390 Premier 1,2,J,,L,L,1
+PRM1,Hawker Beechcraft,Hawker 200,2,J,,L,L,1
+PRM1,Hawker Beechcraft,Premier 1,2,J,,L,L,1
+PRM1,Raytheon,390 Premier 1,2,J,,L,L,1
+PRM1,Raytheon,Premier 1,2,J,,L,L,1
+PROC,Percival,P-28 Proctor,1,P,,L,L,1
+PROC,Percival,P-30 Proctor,1,P,,L,L,1
+PROC,Percival,P-31 Proctor,1,P,,L,L,1
+PROC,Percival,P-34 Proctor,1,P,,L,L,1
+PROC,Percival,P-44 Proctor,1,P,,L,L,1
+PROC,Percival,Proctor,1,P,,L,L,1
+PROT,CSA,Parrot,1,P,,L,L,1
+PROT,CZAW,Parrot,1,P,,L,L,1
+PROW,Morse,364 Prowler,1,P,,L,L,1
+PROW,Morse,Prowler,1,P,,L,L,1
+PROW,Prowler,Jaguar,1,P,,L,L,1
+PROW,Prowler,Prowler,1,P,,L,L,1
+PRPR,Howard Hughes,Pocket Rocket PR-582,1,P,,L,L,1
+PRPR,Howard Hughes,Pocket Rocket PR-XP,1,P,,L,L,1
+PRTS,Rutan,281 Proteus,2,J,,L,L,1
+PRTS,Rutan,Proteus,2,J,,L,L,1
+PRTS,Scaled,281 Proteus,2,J,,L,L,1
+PRTS,Scaled,Proteus,2,J,,L,L,1
+PRXT,Private Explorer,T-Explorer,1,T,,L,L,1
+PSTM,Podesva,Stearman,1,P,,L,L,1
+PSW4,Pzl-Swidnik,AW-009,1,T,,H,L,1
+PSW4,Pzl-Swidnik,Maluch,1,T,,H,L,1
+PSW4,Pzl-Swidnik,Puszczyk,1,T,,H,L,1
+PSW4,Pzl-Swidnik,SW-4,1,T,,H,L,1
+PSW4,Pzl-Swidnik,SW-4 Maluch,1,T,,H,L,1
+PSW4,Pzl-Swidnik,SW-4 Puszczyk,1,T,,H,L,1
+PT21,Pottier,Coati,1,P,,L,L,1
+PT21,Pottier,P-210 Coati,1,P,,L,L,1
+PT22,Ryan,PT-22 Recruit,1,P,,L,L,1
+PT22,Ryan,Recruit,1,P,,L,L,1
+PT22,Ryan,ST-3KR Recruit,1,P,,L,L,1
+PT70,Pottier,P-170,1,P,,L,L,1
+PT80,Pottier,P-180,1,P,,L,L,1
+PTMS,Kimball,Macho Stinker,1,P,,L,L,1
+PTMS,Kimball,Python,1,P,,L,L,1
+PTMS,Kimball,S-12 Macho Stinker,1,P,,L,L,1
+PTMS,Kimball,S-12 Python,1,P,,L,L,1
+PTMS,Kimball,S-12 Super Stinker,1,P,,L,L,1
+PTMS,Kimball,Super Stinker,1,P,,L,L,1
+PTMS,Kimball,Ti-12,1,P,,L,L,1
+PTMS,Pitts,Macho Stinker,1,P,,L,L,1
+PTMS,Pitts,S-12 Macho Stinker,1,P,,L,L,1
+PTMS,Pitts,S-12 Super Stinker,1,P,,L,L,1
+PTMS,Pitts,Super Stinker (S-12),1,P,,L,L,1
+PTRL,Nash,Petrel,1,P,,L,L,1
+PTS1,Aerotek (US),Pitts S-1 Special,1,P,,L,L,1
+PTS1,Aviat,Pitts S-1 Special,1,P,,L,L,1
+PTS1,Christen,Pitts S-1 Special,1,P,,L,L,1
+PTS1,Pitts,S-1 Special,1,P,,L,L,1
+PTS1,Pitts,Special (S-1),1,P,,L,L,1
+PTS2,Aerotek (US),Pitts S-2 Special,1,P,,L,L,1
+PTS2,Aviat,Pitts S-2 Special,1,P,,L,L,1
+PTS2,Christen,Pitts S-2 Special,1,P,,L,L,1
+PTS2,Pitts,S-2 Special,1,P,,L,L,1
+PTS2,Pitts,Special (S-2),1,P,,L,L,1
+PTSS,Aviat,S-1-11 Super Stinker,1,P,,L,L,1
+PTSS,Aviat,Super Stinker,1,P,,L,L,1
+PTSS,Pitts,S-1-11 Super Stinker,1,P,,L,L,1
+PTSS,Pitts,Super Stinker (S-1-11),1,P,,L,L,1
+PUL6,Pulsar,Super Pulsar 600,1,P,,L,L,1
+PULR,P&M AVIATION,PulsR,1,P,,L,L,1
+PULS,Aero Designs,Pulsar,1,P,,L,L,1
+PULS,HK,Wega,1,P,,L,L,1
+PULS,Pulsar,Pulsar,1,P,,L,L,1
+PULS,Pulsar,Super Pulsar 100,1,P,,L,L,1
+PULS,Skystar,Pulsar,1,P,,L,L,1
+PUMA,Aerospatiale,CH-33 Puma,2,T,,H,L,1
+PUMA,Aerospatiale,Puma,2,T,,H,L,1
+PUMA,Aerospatiale,SA-330 Puma,2,T,,H,L,1
+PUMA,IAR,IAR-330 Puma,2,T,,H,L,1
+PUMA,IAR,Puma,2,T,,H,L,1
+PUMA,ICA,IAR-330 Puma,2,T,,H,L,1
+PUMA,ICA,Puma,2,T,,H,L,1
+PUMA,Nurtanio,NSA-330 Puma,2,T,,H,L,1
+PUMA,Nurtanio,Puma,2,T,,H,L,1
+PUMA,Sud,Puma,2,T,,H,L,1
+PUMA,Sud,SA-330 Puma,2,T,,H,L,1
+PUMA,Westland,Puma,2,T,,H,L,1
+PUP,Beagle,B-121 Pup,1,P,,L,L,1
+PUP,Beagle,Pup,1,P,,L,L,1
+PURS,Rans,Pursuit,1,P,,L,L,1
+PURS,Rans,S-11 Pursuit,1,P,,L,L,1
+PUSH,Prescott,Pusher,1,P,,L,L,1
+PW4,Politechnika Warszawska,PW-4,1,P,,L,L,1
+PZ01,Lipnur,Gawron,1,P,,L,L,1
+PZ01,Lipnur,PZL-101 Gawron,1,P,,L,L,1
+PZ01,PZL Okecie,Gawron,1,P,,L,L,1
+PZ01,PZL Okecie,PZL-101 Gawron,1,P,,L,L,1
+PZ02,PZL Okecie,Kos,1,P,,L,L,1
+PZ02,PZL Okecie,PZL-102 Kos,1,P,,L,L,1
+PZ04,Lipnur,Gelatik,1,P,,L,L,1
+PZ04,PZL Okecie,PZL-104 Wilga 35,1,P,,L,L,1
+PZ04,PZL Okecie,PZL-104 Wilga 80,1,P,,L,L,1
+PZ04,PZL Okecie,Wilga 35,1,P,,L,L,1
+PZ04,PZL Okecie,Wilga 80,1,P,,L,L,1
+PZ05,PZL Okecie,Flaming,1,P,,L,L,1
+PZ05,PZL Okecie,PZL-105 Flaming,1,P,,L,L,1
+PZ06,PZL Okecie,Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106A Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106AR Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106AS Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106B Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106BR Kruk,1,P,,L,L,1
+PZ06,PZL Okecie,PZL-106BS Kruk,1,P,,L,L,1
+PZ12,PZL Okecie,Junior,1,P,,L,L,1
+PZ12,PZL Okecie,Koliber Junior,1,P,,L,L,1
+PZ12,PZL Okecie,PZL-112 Junior,1,P,,L,L,1
+PZ12,PZL Okecie,PZL-112 Koliber Junior,1,P,,L,L,1
+PZ26,Agrolot,Mrówka,1,P,,L,L,1
+PZ26,Agrolot,PZL-126 Mrówka,1,P,,L,L,1
+PZ26,PZL Okecie,Mrówka,1,P,,L,L,1
+PZ26,PZL Okecie,PZL-126 Mrówka,1,P,,L,L,1
+PZ3T,PZL Okecie,Orlik,1,T,,L,L,1
+PZ3T,PZL Okecie,PZL-130 Orlik,1,T,,L,L,1
+PZ4M,PZL Okecie,PZL-104M Wilga 2000,1,P,,L,L,1
+PZ4M,PZL Okecie,Wilga 2000,1,P,,L,L,1
+PZ6T,PZL Okecie,PZL-106AT Turbo Javelin,1,T,,L,L,1
+PZ6T,PZL Okecie,PZL-106AT Turbo Kruk,1,T,,L,L,1
+PZ6T,PZL Okecie,PZL-106BT Turbo Javelin,1,T,,L,L,1
+PZ6T,PZL Okecie,PZL-106BT Turbo Kruk,1,T,,L,L,1
+PZ6T,PZL Okecie,Turbo Javelin,1,T,,L,L,1
+PZ6T,PZL Okecie,Turbo Kruk,1,T,,L,L,1

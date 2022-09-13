@@ -1,0 +1,176 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+K126,ICA,Ka-126,1,T,,H,L,1
+K126,Kamov,Ka-126,1,T,,H,L,1
+K209,Fama,K-209 KISS,1,T,,H,L,1
+K209,Fama,KISS,1,T,,H,L,1
+K226,Kamov,Ka-226 Sergei,2,T,,H,L,1
+K226,Kamov,Sergei,2,T,,H,L,1
+K250,Kestrel Aircraft,K-250,1,P,,L,L,1
+K35E,Boeing,KC-135E Stratotanker,4,J,,L,H,1
+K35E,Boeing,Stratotanker (TF33 engines),4,J,,L,H,1
+K35R,Boeing,C-135FR Stratotanker,4,J,,L,H,1
+K35R,Boeing,KC-135R Stratotanker,4,J,,L,H,1
+K35R,Boeing,KC-135T Stratotanker,4,J,,L,H,1
+K35R,Boeing,Stratotanker (CFM56 engines),4,J,,L,H,1
+K50,Korea Aerospace,A-50 Golden Eagle,1,J,,L,M,1
+K50,Korea Aerospace,F/A-50 Golden Eagle,1,J,,L,M,1
+K50,Korea Aerospace,Golden Eagle,1,J,,L,M,1
+K50,Korea Aerospace,T/A-50 Golden Eagle,1,J,,L,M,1
+K50,Korea Aerospace,T-50 Golden Eagle,1,J,,L,M,1
+K51,Kovacs,K-51 Peregrino,1,P,,L,L,1
+K51,Kovacs,Peregrino,1,P,,L,L,1
+K8,Hongdu,JL-8,1,J,,L,L,1
+K8,Hongdu,K-8 Karakorum,1,J,,L,L,1
+K8,Hongdu,Karakorum,1,J,,L,L,1
+K8,Nanchang,JL-8 Karakorum,1,J,,L,L,1
+K8,Nanchang,K-8 Karakorum,1,J,,L,L,1
+K8,Nanchang,Karakorum,1,J,,L,L,1
+KA25,Kamov,Ka-25,2,T,,H,M,1
+KA26,Kamov,Ka-26,2,P,,H,L,1
+KA27,Kamov,HH-32,2,T,,H,M,1
+KA27,Kamov,Ka-252,2,T,,H,M,1
+KA27,Kamov,Ka-27,2,T,,H,M,1
+KA27,Kamov,Ka-28,2,T,,H,M,1
+KA27,Kamov,Ka-29,2,T,,H,M,1
+KA27,Kamov,Ka-31,2,T,,H,M,1
+KA27,Kamov,Ka-32,2,T,,H,M,1
+KA50,Kamov,Black Shark,2,T,,H,M,1
+KA50,Kamov,Chernaya Akula,2,T,,H,M,1
+KA50,Kamov,Ka-50 Black Shark,2,T,,H,M,1
+KA50,Kamov,Ka-50 Chernaya Akula,2,T,,H,M,1
+KA50,Kamov,Ka-50 Werewolf,2,T,,H,M,1
+KA50,Kamov,Werewolf,2,T,,H,M,1
+KA52,Kamov,Alligator,2,T,,H,M,1
+KA52,Kamov,Ka-52 Alligator,2,T,,H,M,1
+KA62,Kamov,Ka-60 Kasatka,2,T,,H,L,1
+KA62,Kamov,Ka-62,2,T,,H,L,1
+KA62,Kamov,Kasatka,2,T,,H,L,1
+KAFI,KARI,Firefly,1,P,,L,L,1
+KAK1,Kieger,AK-1,1,P,,L,L,1
+KAK3,Junkers Profly,Junka,1,P,,L,L,1
+KAK3,Kieger,AK-3,1,P,,L,L,1
+KAT3,Khrunichev,AT-3,1,T,,L,L,1
+KATB,KARI,Twinbee,2,P,,L,L,1
+KATR,Aerosamara,Katran,1,P,,L,L,1
+KC2,Kawasaki,C-2,2,J,,L,H,1
+KC2,Kawasaki,RC-2,2,J,,L,H,1
+KC2,Kawasaki,XC-2,2,J,,L,H,1
+KC2,Kawasaki,XC-2,2,J,,L,M,0
+KC39,Embraer,KC-390,2,J,,L,M,0
+KE3,Boeing,KE-3,4,J,,L,H,1
+KEHA,Kestrel Sport,Float Hawk,1,P,,L,L,1
+KEHA,Kestrel Sport,Sport Hawk,1,P,,L,L,1
+KELA,Keleher,Lark,1,P,,L,L,1
+KELD,Kelly,D,1,P,,L,L,1
+KERO,Rearwin,2000 Ken-Royce,1,P,,L,L,1
+KERO,Rearwin,Ken-Royce,1,P,,L,L,1
+KEST,Farnborough,F-1 Kestrel,1,T,,L,L,1
+KEST,Farnborough,Kestrel,1,T,,L,L,1
+KFAB,KITPLANES FOR AFRICA,Bushbaby,1,P,,L,L,1
+KFAB,KITPLANES FOR AFRICA,Explorer,1,P,,L,L,1
+KFAS,KITPLANES FOR AFRICA,Safari,1,P,,L,L,1
+KFIR,IAI,Kfir,1,J,,L,M,1
+KFIS,Anderson,EA-1 Kingfisher,1,P,,A,L,1
+KFIS,Anderson,Kingfisher,1,P,,A,L,1
+KFIS,Richard Warner Aviation,Super Kingfisher,1,P,,A,L,1
+KFIS,Richard Warner Aviation,W-1 Super Kingfisher,1,P,,A,L,1
+KH4,Kawasaki,KH-4,1,P,,H,L,1
+KIS2,Pulsar,Sport 150,1,P,,L,L,1
+KIS2,Tri-R,KIS TD,1,P,,L,L,1
+KIS2,Tri-R,KIS TR-1,1,P,,L,L,1
+KIS4,Pulsar,Super Cruiser,1,P,,L,L,1
+KIS4,Tri-R,Cruiser,1,P,,L,L,1
+KIS4,Tri-R,KIS TR-4 Cruiser,1,P,,L,L,1
+KITH,BOURDON,Kitty Hawk,1,P,,L,L,1
+KITH,VIKING (3),Kitty Hawk,1,P,,L,L,1
+KITI,Mitchell-Procter,Kittiwake,1,P,,L,L,1
+KIWI,TWI,Kiwi,1,P,,L,L,1
+KIWI,Valentin,Kiwi,1,P,,L,L,1
+KK60,Kari-Keen,60 Coupe,1,P,,L,L,1
+KK60,Kari-Keen,Coupe,1,P,,L,L,1
+KL07,Bolkow,BO-207,1,P,,L,L,1
+KL07,Bolkow,F-207,1,P,,L,L,1
+KL07,Bolkow,Kl-107,1,P,,L,L,1
+KL07,Klemm,Kl-107,1,P,,L,L,1
+KL07,Nabern,Kl-107,1,P,,L,L,1
+KL10,FLIGHT DESIGN-VESSEL,KLA-100,1,P,,L,L,1
+KL25,Klemm,L-25,1,P,,L,L,1
+KL35,Klemm,Kl-35,1,P,,L,L,1
+KLBR,Kolb,King Colbra,1,P,,L,L,1
+KM2,Fuji,KM-2,1,P,,L,L,1
+KM2,Fuji,LM-1 Nikko,1,P,,L,L,1
+KM2,Fuji,LM-2 Nikko,1,P,,L,L,1
+KM2,Fuji,Nikko,1,P,,L,L,1
+KM2,Fuji,TL-1,1,P,,L,L,0
+KMAX,Kaman,K-1200 K-Max,1,T,,H,L,1
+KMAX,Kaman,K-Max,1,T,,H,L,1
+KNTW,Payne,Knight Twister,1,P,,L,L,1
+KNTW,Payne,Sunday Knight Twister,1,P,,L,L,1
+KODI,DAHER,Kodiak,1,T,,L,L,1
+KODI,Quest,Kodiak,1,T,,L,L,1
+KOLL,Kolb,Laser,1,P,,L,L,1
+KP2,Jihlavan,KP-2 Rapid 200,1,P,,L,L,1
+KP2,Jihlavan,KP-2 Skyleader 150,1,P,,L,L,1
+KP2,Jihlavan,KP-2 Skyleader 200,1,P,,L,L,1
+KP2,Jihlavan,Rapid 200,1,P,,L,L,1
+KP2,Jihlavan,Skyleader 150,1,P,,L,L,1
+KP2,Jihlavan,Skyleader 200,1,P,,L,L,1
+KP2,Kappa,KP-2 Sova,1,P,,L,L,1
+KP2,Kappa,Sova,1,P,,L,L,1
+KP5,Jihlavan,KP-5 Rapid 500,1,P,,L,L,1
+KP5,Jihlavan,KP-5 Skyleader 500,1,P,,L,L,1
+KP5,Jihlavan,KP-5 Skyleader 600,1,P,,L,L,1
+KP5,Jihlavan,Rapid 500,1,P,,L,L,1
+KP5,Jihlavan,Skyleader 500,1,P,,L,L,1
+KP5,Jihlavan,Skyleader 600,1,P,,L,L,1
+KR1,Rand,KR-1,1,P,,L,L,1
+KR2,Rand,KR-2,1,P,,L,L,1
+KR21,Fairchild,KR-21,1,P,,L,L,1
+KR21,Kreider-Reisner,C-6 Challenger,1,P,,L,L,1
+KR21,Kreider-Reisner,Challenger (C-6),1,P,,L,L,1
+KR30,Ekolot,KR-030 Topaz,1,P,,L,L,1
+KR30,Ekolot,Topaz,1,P,,L,L,1
+KR31,Fairchild,KR-31,1,P,,L,L,1
+KR31,Kreider-Reisner,C-2 Challenger,1,P,,L,L,1
+KR31,Kreider-Reisner,Challenger (C-2),1,P,,L,L,1
+KR34,Fairchild,KR-34,1,P,,L,L,1
+KR34,Kreider-Reisner,C-4 Challenger,1,P,,L,L,1
+KR34,Kreider-Reisner,Challenger (C-4),1,P,,L,L,1
+KRAG,Soko,J-20 Kraguj,1,P,,L,L,1
+KRAG,Soko,Kraguj,1,P,,L,L,1
+KRAG,Soko,P-2 Kraguj,1,P,,L,L,1
+KRAH,Rock,Krähe,1,P,,L,L,1
+KRIC,Flight Level Six-Zero,Der Kricket,1,P,,L,L,1
+KRIC,Flight Level Six-Zero,DK-1 Der Kricket,1,P,,L,L,1
+KSTK,Phoenix-Aviacor,Kasatik,2,P,,L,L,1
+KSTK,Phoenix-Aviacor,M-12 Kasatik,2,P,,L,L,1
+KT1,Daewoo,KT-1 Woong-Bee,1,T,,L,L,1
+KT1,Daewoo,KTX-1 Woong-Bee,1,T,,L,L,1
+KT1,Daewoo,Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,KA-1 Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,KO-1 Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,KT-1 Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,KTX-1 Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,XKO-1 Woong-Bee,1,T,,L,L,1
+KT1,Korea Aerospace,XKT-1 Woong-Bee,1,T,,L,L,1
+KT1,TAI,KT-1,1,T,,L,L,1
+KTOO,Amax,J-6 Karatoo,1,P,,L,L,1
+KTOO,Amax,Karatoo,1,P,,L,L,1
+KTOO,Anglin,J-6 Karatoo,1,P,,L,L,1
+KTOO,Anglin,Karatoo,1,P,,L,L,1
+KTOO,Country Air,J-6 Karatoo,1,P,,L,L,1
+KTOO,Country Air,Karatoo,1,P,,L,L,1
+KTOO,Grover,J-6 Karatoo,1,P,,L,L,1
+KTOO,Grover,Karatoo,1,P,,L,L,1
+KTOO,Norman,J-6 Karatoo,1,P,,L,L,1
+KTOO,Norman,Karatoo,1,P,,L,L,1
+KZ2,SAI (Denmark),Kupe,1,P,,L,L,1
+KZ2,SAI (Denmark),KZ-2 Kupe,1,P,,L,L,1
+KZ2,SAI (Denmark),KZ-2 Traener,1,P,,L,L,1
+KZ2,SAI (Denmark),Traener,1,P,,L,L,1
+KZ3,SAI (Denmark),KZ-3,1,P,,L,L,1
+KZ4,SAI (Denmark),KZ-4,2,P,,L,L,1
+KZ7,SAI (Denmark),KZ-7 Laerke,1,P,,L,L,1
+KZ7,SAI (Denmark),Laerke,1,P,,L,L,1
+KZ8,SAI (Denmark),KZ-8,1,P,,L,L,1

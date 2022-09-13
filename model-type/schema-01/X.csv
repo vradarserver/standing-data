@@ -1,0 +1,35 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+X2,Sikorsky,X-2,1,T,,H,L,1
+X29,Grumman,712,1,J,,L,M,0
+X29,Grumman,X-29,1,J,,L,M,0
+X3,Eurocopter,X-3,2,T,,H,L,1
+X32,Boeing,X-32,1,J,,L,M,0
+X4,Robin,X-4,1,P,,L,L,1
+X47B,Northrop Grumman,X-47B,1,J,,L,M,1
+X49,Piasecki,SpeedHawk,2,T,,H,M,1
+X49,Piasecki,X-49 SpeedHawk,2,T,,H,M,1
+X49,Sikorsky,SpeedHawk,2,T,,H,M,1
+X49,Sikorsky,X-49 SpeedHawk,2,T,,H,M,1
+X55,Fairchild Dornier,X-55,2,J,,L,M,0
+X55,Lockheed Martin,X-55,2,J,,L,M,0
+XA41,Xtremeair,Sbach 300,1,P,,L,L,1
+XA41,Xtremeair,XA-41,1,P,,L,L,1
+XA41,Xtremeair,Xtreme 3000,1,P,,L,L,1
+XA42,Reinsdorf,325,1,P,,L,L,1
+XA42,Xtremeair,Sbach 342,1,P,,L,L,1
+XA42,Xtremeair,XA-42,1,P,,L,L,1
+XA85,Raj Hamsa,XA-85 X-Air LS,1,P,,L,L,1
+XA85,Raj Hamsa,X-AIR H Hanuman,1,P,,L,L,1
+XA85,Raj Hamsa,X-AIR Hawk,1,P,,L,L,1
+XA85,Raj Hamsa,X-Air LS,1,P,,L,L,1
+XAIR,Raj Hamsa,X-AIR F Gumnam,1,P,,L,L,1
+XAIR,Raj Hamsa,X-AIR Falcon,1,P,,L,L,1
+XAIR,Raj Hamsa,X-AIR S,1,P,,L,L,1
+XB1,BOOM,XB-1,3,J,,L,L,1
+XL2,DISCOVERY,XL-2,1,P,,L,L,1
+XL2,Liberty Aerospace,XL-2,1,P,,L,L,1
+XNON,Abs Aerolight,Xenon,1,P,,G,L,1
+XNON,Celier,Xenon,1,P,,G,L,1
+XNOS,Sonex,Xenos,1,P,,L,L,1
+XV15,Bell,301,2,T,,T,L,1
+XV15,Bell,XV-15,2,T,,T,L,1

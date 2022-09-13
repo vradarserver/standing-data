@@ -1,0 +1,3 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+-GND,,Ground Vehicle,,,,,,1
+-TWR,,Tower,,,,,,1

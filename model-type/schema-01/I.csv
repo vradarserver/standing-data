@@ -1,0 +1,121 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+I103,Ilyushin,Il-103,1,P,,L,L,1
+I114,Ilyushin,Il-114,2,T,,L,M,1
+I115,AISA,I-115,1,P,,L,L,1
+I11B,AISA,I-11B Peque,1,P,,L,L,1
+I11B,AISA,Peque,1,P,,L,L,1
+I153,Polikarpov,I-153,1,P,,L,L,1
+I15B,Polikarpov,I-15bis,1,P,,L,L,1
+I16,Polikarpov,I-16,1,P,,L,L,1
+I22,Instytut Lotnictwa,I-22 Iryda,1,J,,L,M,1
+I22,Instytut Lotnictwa,Iryda,1,J,,L,M,1
+I22,Pzl-Mielec,I-22 Iryda,1,J,,L,M,1
+I22,Pzl-Mielec,Iryda,1,J,,L,M,1
+I22,Pzl-Mielec,M-93 Iryda,1,J,,L,M,1
+I22,Pzl-Mielec,M-96 Iryda,1,J,,L,M,1
+I23,Instytut Lotnictwa,I-23 Manager,1,P,,L,L,1
+I23,Instytut Lotnictwa,Manager,1,P,,L,L,1
+I23,Pzl-Swidnik,I-23 Manager,1,P,,L,L,1
+I23,Pzl-Swidnik,Manager,1,P,,L,L,1
+I3,Interavia,I-3,1,P,,L,L,1
+I66,Iannotta,I-66 San Francisco,1,P,,L,L,1
+I66,Iannotta,San Francisco,1,P,,L,L,1
+I828,ICA,IAR-828,1,T,,L,L,1
+IA46,DINFIA,IA-46 Ranquel,1,P,,L,L,1
+IA46,DINFIA,IA-46 Super Ranquel,1,P,,L,L,1
+IA46,DINFIA,Ranquel,1,P,,L,L,1
+IA46,DINFIA,Super Ranquel,1,P,,L,L,1
+IA50,DINFIA,Guarani 2,2,T,,L,M,1
+IA50,DINFIA,IA-50 Guarani 2,2,T,,L,M,1
+IA50,FMA,Guarani 2,2,T,,L,M,1
+IA50,FMA,IA-50 Guarani 2,2,T,,L,M,1
+IA51,DINFIA,IA-51 Tehuelche,1,P,,L,L,1
+IA51,DINFIA,Tehuelche,1,P,,L,L,1
+IA51,FMA,IA-51 Tehuelche,1,P,,L,L,1
+IA51,FMA,Tehuelche,1,P,,L,L,1
+IA58,FMA,IA-58 Pucará,2,T,,L,L,1
+IA58,FMA,Pucará,2,T,,L,L,1
+IA63,FMA,AT-63 Pampa,1,J,,L,L,1
+IA63,FMA,IA-63 Pampa,1,J,,L,L,1
+IA63,FMA,Pampa,1,J,,L,L,1
+IA63,Lockheed Martin (Argentina),AT-63 Pampa,1,J,,L,L,1
+IA63,Lockheed Martin (Argentina),IA-63 Pampa,1,J,,L,L,1
+IA63,Lockheed Martin (Argentina),Pampa,1,J,,L,L,1
+IFUR,Isaacs,Fury,1,P,,L,L,1
+IL14,Avia-Zavody,Av-14,2,P,,L,M,1
+IL14,Ilyushin,Il-14,2,P,,L,M,1
+IL14,VEB,Il-14,2,P,,L,M,1
+IL18,Ilyushin,Bizon,4,T,,L,M,1
+IL18,Ilyushin,Il-18,4,T,,L,M,1
+IL18,Ilyushin,Il-18 Bizon,4,T,,L,M,1
+IL18,Ilyushin,Il-20,4,T,,L,M,1
+IL18,Ilyushin,Il-22 Zebra,4,T,,L,M,1
+IL18,Ilyushin,Il-24,4,T,,L,M,1
+IL18,Ilyushin,Zebra,4,T,,L,M,1
+IL28,Harbin,H-5,2,J,,L,M,1
+IL28,Harbin,HJ-5,2,J,,L,M,1
+IL28,Harbin,HZ-5,2,J,,L,M,1
+IL28,Ilyushin,Il-28,2,J,,L,M,1
+IL38,Ilyushin,Il-38,4,T,,L,M,1
+IL62,Ilyushin,Il-62,4,J,,L,H,1
+IL76,Ilyushin,Gajaraj,4,J,,L,H,1
+IL76,Ilyushin,Il-76,4,J,,L,H,1
+IL76,Ilyushin,Il-76 Gajaraj,4,J,,L,H,1
+IL76,Ilyushin,Il-78,4,J,,L,H,1
+IL76,Ilyushin,Il-82,4,J,,L,H,1
+IL86,Ilyushin,Il-86,4,J,,L,H,1
+IL86,Ilyushin,Il-87,4,J,,L,H,1
+IL96,Ilyushin,Il-96,4,J,,L,H,1
+IMPU,Impulse,Impulse,1,P,,L,L,1
+IMPU,Impulse,Xcite,1,P,,L,L,1
+IMPU,Impulse,Xturn,1,P,,L,L,1
+IMPX,Impulse,Impulse Xtreme 3000,1,P,,L,L,0
+INCQ,Inpaer,Conquest,1,P,,L,L,1
+INEC,Inpaer,Excel,1,P,,L,L,1
+INEX,Inpaer,Explorer,1,P,,L,L,1
+ION,Ion,Ion,1,P,,L,L,1
+IP06,IPE,Curucaca,1,P,,L,L,1
+IP06,IPE,IPE-06 Curucaca,1,P,,L,L,1
+IP10,IPE,IPE-010,1,P,,L,L,1
+IP26,IPAI,IPAI-26 Tuca,1,P,,L,L,1
+IP26,IPAI,Tuca,1,P,,L,L,1
+IP6A,IPE,IPE-06A,1,P,,L,L,1
+IPAN,Embraer,EMB-200 Ipanema,1,P,,L,L,1
+IPAN,Embraer,EMB-201 Ipanema,1,P,,L,L,1
+IPAN,Embraer,EMB-202 Ipanema,1,P,,L,L,1
+IPAN,Embraer,EMB-203 Ipanema,1,P,,L,L,1
+IPAN,Embraer,Ipanema,1,P,,L,L,1
+IPAN,Embraer,U-19 Ipanema,1,P,,L,L,1
+IPAN,Neiva,EMB-201 Ipanema,1,P,,L,L,1
+IPAN,Neiva,EMB-202 Ipanema,1,P,,L,L,1
+IPAN,Neiva,G-19 Ipanema,1,P,,L,L,1
+IPAN,Neiva,Ipanema,1,P,,L,L,1
+IR21,ICA,IAR-821,1,P,,L,L,1
+IR22,ICA,IAR-822,1,P,,L,L,1
+IR22,ICA,IAR-826,1,P,,L,L,1
+IR23,ICA,IAR-823,1,P,,L,L,1
+IR24,ICA,IAR-824,1,P,,L,L,1
+IR25,ICA,IAR-825TP Triumf,1,T,,L,L,1
+IR25,ICA,Triumf,1,T,,L,L,1
+IR27,Bucuresti,Dacic,1,P,,L,L,1
+IR27,Bucuresti,IAR-827 Dacic,1,P,,L,L,1
+IR27,ICA,Dacic,1,P,,L,L,1
+IR27,ICA,IAR-827 Dacic,1,P,,L,L,1
+IR28,ICA,IAR-28MA,1,P,,L,L,1
+IR28,ICA,IS-28MA,1,P,,L,L,1
+IR31,ICA,IAR-831 Pelican,1,P,,L,L,1
+IR31,ICA,Pelican,1,P,,L,L,1
+IR46,IAR,IAR-46 Katty,1,P,,L,L,1
+IR46,IAR,Katty,1,P,,L,L,1
+IR99,Avioane,IAR-109 Swift,1,J,,L,L,1
+IR99,Avioane,IAR-99 Soim,1,J,,L,L,1
+IR99,Avioane,Soim,1,J,,L,L,1
+IR99,Avioane,Swift,1,J,,L,L,1
+IR99,Craiova,IAR-99 Soim,1,J,,L,L,1
+IR99,Craiova,Soim,1,J,,L,L,1
+IS2,Instytut Lotnictwa,IS-2,1,P,,H,L,1
+IS28,IAR,IS-28M2,1,P,,L,L,1
+IS28,ICA,IS-28M2,1,P,,L,L,1
+ISAT,Aerojames,01 Isatis,1,P,,L,L,1
+ISAT,Aerojames,Isatis,1,P,,L,L,1
+ISPT,Isaacs,Spitfire,1,P,,L,L,1

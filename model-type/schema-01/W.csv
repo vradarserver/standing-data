@@ -1,0 +1,210 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+W11,Wolf,Boredom Fighter,1,P,,L,L,1
+W11,Wolf,W-11 Boredom Fighter,1,P,,L,L,1
+W201,Weatherly,201,1,P,,L,L,1
+W201,Weatherly,620,1,P,,L,L,1
+W201,Weatherly,620B,1,P,,L,L,1
+W3,Pzl-Swidnik,Anakonda,2,T,,H,L,1
+W3,Pzl-Swidnik,Erka,2,T,,H,L,1
+W3,Pzl-Swidnik,Gipsowka,2,T,,H,L,1
+W3,Pzl-Swidnik,Gluszec,2,T,,H,L,1
+W3,Pzl-Swidnik,Huzar,2,T,,H,L,1
+W3,Pzl-Swidnik,Procjon,2,T,,H,L,1
+W3,Pzl-Swidnik,S-1 Procjon,2,T,,H,L,1
+W3,Pzl-Swidnik,Sokól,2,T,,H,L,1
+W3,Pzl-Swidnik,SRR-10 Procjon,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Anakonda,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Erka,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Gipsowka,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Gluszec,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Huzar,2,T,,H,L,1
+W3,Pzl-Swidnik,W-3 Sokól,2,T,,H,L,1
+W5BC,LUCEAIR,Buttercup Replica,1,P,,L,L,1
+W5BC,LUCEAIR,W-5 Buttercup Replica,1,P,,L,L,1
+W5BC,Wittman,Buttercup,1,P,,L,L,1
+W5BC,Wittman,Buttercup Replica,1,P,,L,L,1
+W5BC,Wittman,W-5 Buttercup,1,P,,L,L,1
+W5BC,Wittman,W-5 Buttercup Replica,1,P,,L,L,1
+W62T,Weatherly,620BTG,1,T,,L,L,1
+W62T,Weatherly,620TP,1,T,,L,L,1
+WA40,Wassmer,Super 4,1,P,,L,L,1
+WA40,Wassmer,WA-40 Super 4,1,P,,L,L,1
+WA41,Wassmer,Baladou,1,P,,L,L,1
+WA41,Wassmer,WA-41 Baladou,1,P,,L,L,1
+WA42,Wassmer,Prestige,1,P,,L,L,1
+WA42,Wassmer,WA-421 Prestige,1,P,,L,L,1
+WA50,Wassmer,Atlantic,1,P,,L,L,1
+WA50,Wassmer,Europa,1,P,,L,L,1
+WA50,Wassmer,Pacific,1,P,,L,L,1
+WA50,Wassmer,WA-51 Pacific,1,P,,L,L,1
+WA50,Wassmer,WA-52 Europa,1,P,,L,L,1
+WA50,Wassmer,WA-54 Atlantic,1,P,,L,L,1
+WA80,Wassmer,Piranha,1,P,,L,L,1
+WA80,Wassmer,WA-80 Piranha,1,P,,L,L,1
+WA80,Wassmer,WA-81 Piranha,1,P,,L,L,1
+WAC9,Waco,9,1,P,,L,L,1
+WACA,Waco,IBA,1,P,,L,L,1
+WACA,Waco,PBA,1,P,,L,L,1
+WACA,Waco,PLA,1,P,,L,L,1
+WACA,Waco,RBA,1,P,,L,L,1
+WACA,Waco,UBA,1,P,,L,L,1
+WACA,Waco,ULA,1,P,,L,L,1
+WACC,Waco,AGC,1,P,,L,L,1
+WACC,Waco,AQC,1,P,,L,L,1
+WACC,Waco,C,1,P,,L,L,1
+WACC,Waco,CJC,1,P,,L,L,1
+WACC,Waco,CUC,1,P,,L,L,1
+WACC,Waco,DJC,1,P,,L,L,1
+WACC,Waco,DQC,1,P,,L,L,1
+WACC,Waco,EGC,1,P,,L,L,1
+WACC,Waco,EQC,1,P,,L,L,1
+WACC,Waco,QDC,1,P,,L,L,1
+WACC,Waco,S,1,P,,L,L,1
+WACC,Waco,UEC,1,P,,L,L,1
+WACC,Waco,UIC,1,P,,L,L,1
+WACC,Waco,UKC,1,P,,L,L,1
+WACC,Waco,UKS,1,P,,L,L,1
+WACC,Waco,VKS,1,P,,L,L,1
+WACC,Waco,YKC,1,P,,L,L,1
+WACC,Waco,YKS,1,P,,L,L,1
+WACC,Waco,YOC,1,P,,L,L,1
+WACC,Waco,YQC,1,P,,L,L,1
+WACC,Waco,ZGC,1,P,,L,L,1
+WACC,Waco,ZKS,1,P,,L,L,1
+WACC,Waco,ZQC,1,P,,L,L,1
+WACD,Waco,D,1,P,,L,L,1
+WACD,Waco,S3HD,1,P,,L,L,1
+WACE,Waco,ARE Aristocrat,1,P,,L,L,1
+WACE,Waco,Aristocrat,1,P,,L,L,1
+WACE,Waco,E (ARE/HRE/SRE) Aristocrat,1,P,,L,L,1
+WACE,Waco,HRE Aristocrat,1,P,,L,L,1
+WACE,Waco,SRE Aristocrat,1,P,,L,L,1
+WACF,Classic,Waco Classic,1,P,,L,L,1
+WACF,Waco,CPF,1,P,,L,L,1
+WACF,Waco,ENF,1,P,,L,L,1
+WACF,Waco,F,1,P,,L,L,1
+WACF,Waco,INF,1,P,,L,L,1
+WACF,Waco,KNF,1,P,,L,L,1
+WACF,Waco,PBF,1,P,,L,L,1
+WACF,Waco,PCF,1,P,,L,L,1
+WACF,Waco,QCF,1,P,,L,L,1
+WACF,Waco,RNF,1,P,,L,L,1
+WACF,Waco,UBF,1,P,,L,L,1
+WACF,Waco,UMF,1,P,,L,L,1
+WACF,Waco,UPF,1,P,,L,L,1
+WACF,Waco,VPF,1,P,,L,L,1
+WACF,Waco,YMF,1,P,,L,L,1
+WACF,Waco,YPF,1,P,,L,L,1
+WACF,Waco,ZPF,1,P,,L,L,1
+WACF,Waco Classic,YMF,1,P,,L,L,1
+WACF,Waco Ohio,UMF,1,P,,L,L,1
+WACF,Waco Ohio,YMF,1,P,,L,L,1
+WACG,Waco,CRG,1,P,,L,L,1
+WACG,Waco,G,1,P,,L,L,1
+WACM,Waco,JWM,1,P,,L,L,1
+WACM,Waco,JYM,1,P,,L,L,1
+WACN,Waco,AVN,1,P,,L,L,1
+WACN,Waco,ZVN,1,P,,L,L,1
+WACO,Waco,10,1,P,,L,L,1
+WACO,Waco,125,1,P,,L,L,1
+WACO,Waco,ASO,1,P,,L,L,1
+WACO,Waco,ATO,1,P,,L,L,1
+WACO,Waco,BSO,1,P,,L,L,1
+WACO,Waco,CSO,1,P,,L,L,1
+WACO,Waco,CTO,1,P,,L,L,1
+WACO,Waco,DSO,1,P,,L,L,1
+WACO,Waco,E (GXE),1,P,,L,L,1
+WACO,Waco,GXE,1,P,,L,L,1
+WACO,Waco,O,1,P,,L,L,1
+WACO,Waco,PSO,1,P,,L,L,1
+WACO,Waco,QSO,1,P,,L,L,1
+WACT,Waco,RPT,1,P,,L,L,1
+WAIX,Sonex,Waiex,1,P,,L,L,1
+WASP,Westland,Wasp,1,T,,H,L,1
+WB57,Martin,272,2,J,,L,M,1
+WB57,Martin,WB-57,2,J,,L,M,1
+WBOO,Dean-Wilson,DW-200 Whitney Boomerang,1,P,,L,L,1
+WBOO,Dean-Wilson,Whitney Boomerang,1,P,,L,L,1
+WCAT,General Motors,FM Wildcat,1,P,,L,L,1
+WCAT,General Motors,Wildcat,1,P,,L,L,1
+WCAT,Grumman,F4F Wildcat,1,P,,L,L,1
+WCAT,Grumman,G-36 Wildcat,1,P,,L,L,1
+WCAT,Grumman,Wildcat,1,P,,L,L,1
+WDEX,Radab,Windex,1,P,,L,L,1
+WDEX,Windexair,Windex,1,P,,L,L,1
+WESX,Westland,Wessex,2,T,,H,L,1
+WESX,Westland,WS-58 Wessex,2,T,,H,L,1
+WF4U,War,Vought F4U Corsair,1,P,,L,L,1
+WFOC,War,Focke-Wulf 190,1,P,,L,L,1
+WFUR,War,Hawker Sea Fury,1,P,,L,L,1
+WG30,Westland,30,2,T,,H,L,1
+WG30,Westland,WG-30,2,T,,H,L,1
+WH1,Wendt,Traveler,1,P,,L,L,1
+WH1,Wendt,WH-1 Traveler,1,P,,L,L,1
+WH4,BAYLES,Lightning,1,T,,L,L,1
+WH4,HALL,Harpoon,1,T,,L,L,1
+WH4,HALL,WH-4 Harpoon,1,T,,L,L,1
+WH4,HALL,WH-6 Harpoon,1,T,,L,L,1
+WHAT,Whatley,Special,1,P,,L,L,1
+WHIL,Reflex,White Lightning,1,P,,L,L,1
+WHIL,Reflex,WLAC-1 White Lightning,1,P,,L,L,1
+WHIL,White Lightning,White Lightning,1,P,,L,L,1
+WHIL,White Lightning,WLAC-1 White Lightning,1,P,,L,L,1
+WHIS,Grove,GR-2 Whisper,1,P,,L,L,1
+WHIS,Grove,Whisper,1,P,,L,L,1
+WHIT,Miles,M-11 Whitney Straight,1,P,,L,L,1
+WHIT,Miles,Whitney Straight,1,P,,L,L,1
+WHIT,Phillips & Powis,M-11 Whitney Straight,1,P,,L,L,1
+WHIT,Phillips & Powis,Whitney Straight,1,P,,L,L,1
+WHK2,Rutan,348 White Knight Two,4,J,,L,M,1
+WHK2,Rutan,White Knight Two,4,J,,L,M,1
+WHK2,Scaled,348 White Knight Two,4,J,,L,M,1
+WHK2,Scaled,White Knight Two,4,J,,L,M,1
+WHKN,Rutan,318 White Knight,2,J,,L,M,0
+WHKN,Rutan,White Knight,2,J,,L,M,0
+WHKN,Scaled,318 White Knight,2,J,,L,M,0
+WHKN,Scaled,White Knight,2,J,,L,M,0
+WICH,Javelin,Wichawk,1,P,,L,L,1
+WILT,Air-Light,Wild Thing,1,P,,L,L,1
+WILT,Air-Light,WT-01 Wild Thing,1,P,,L,L,1
+WILT,Air-Light,WT-02 Wild Thing,1,P,,L,L,1
+WILT,SC Aerostar,Wild Thing,1,P,,L,L,1
+WILT,SC Aerostar,WT-01 Wild Thing,1,P,,L,L,1
+WILT,SC Aerostar,WT-02 Wild Thing,1,P,,L,L,1
+WILT,Ultra-Leicht.Bau,Wild Thing,1,P,,L,L,1
+WILT,Ultra-Leicht.Bau,WT-01 Wild Thing,1,P,,L,L,1
+WILT,Ultra-Leicht.Bau,WT-02 Wild Thing,1,P,,L,L,1
+WIND,Watson,GW-1 Windwagon,1,P,,L,L,1
+WIND,Watson,Windwagon,1,P,,L,L,1
+WINE,Windecker,Eagle,1,P,,L,L,1
+WIRR,Commonwealth Aircraft (Aus),CA-16 Wirraway,1,P,,L,L,1
+WIRR,Commonwealth Aircraft (Aus),Wirraway,1,P,,L,L,1
+WISP,Whisper,Whisper,1,P,,L,L,1
+WLBY,Fly Synthesis,Wallaby,1,P,,L,L,1
+WM2,William Y.Miller,WM-2,1,P,,L,L,1
+WOPU,Aerosport,Woody Pusher,1,P,,L,L,1
+WOPU,Woods,Woody Pusher,1,P,,L,L,1
+WP40,War,Curtiss P-40 Kittyhawk,1,P,,L,L,1
+WP47,War,Republic P-47 Thunderbolt,1,P,,L,L,1
+WS22,Spring,Sprint,1,P,,L,L,1
+WS22,Spring,WS-202 Sprint,1,P,,L,L,1
+WSP,AAK,Wasp,1,P,,L,L,1
+WT9,Aerospool,Dynamic,1,P,,L,L,1
+WT9,Aerospool,WT-9 Dynamic,1,P,,L,L,1
+WUSH,Wüst,Seagle,1,P,,A,L,1
+WUSH,Wüst,Seahawk,1,P,,A,L,1
+WUSH,Wüst,Shark,1,P,,A,L,1
+WW1,White,Der Jäger D-9,1,P,,L,L,1
+WW1,White,WW-1 Der Jäger D-9,1,P,,L,L,1
+WW23,IAI,1123 Westwind,2,J,,L,M,1
+WW23,IAI,Westwind (1123),2,J,,L,M,1
+WW24,IAI,1124 Sea Scan,2,J,,L,M,1
+WW24,IAI,1124 Westwind,2,J,,L,M,1
+WW24,IAI,1124 Westwind 1,2,J,,L,M,1
+WW24,IAI,1124 Westwind 2,2,J,,L,M,1
+WW24,IAI,Sea Scan,2,J,,L,M,1
+WW24,IAI,Westwind (1124),2,J,,L,M,1
+WW24,IAI,Westwind 1,2,J,,L,M,1
+WW24,IAI,Westwind 2,2,J,,L,M,1
+WZ10,Changhe,WZ-10,2,T,,H,L,1
+WZER,War,Mitsubishi Zero,1,P,,L,L,1

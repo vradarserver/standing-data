@@ -1,0 +1,218 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+J1,Auster,Aiglet,1,P,,L,L,1
+J1,Auster,Alpha,1,P,,L,L,1
+J1,Auster,Autocrat,1,P,,L,L,1
+J1,Auster,J-1 Aiglet,1,P,,L,L,1
+J1,Auster,J-1 Alpha,1,P,,L,L,1
+J1,Auster,J-1 Autocrat,1,P,,L,L,1
+J1,Auster,J-1 Kingsland,1,P,,L,L,1
+J1,Auster,J-1 Workmaster,1,P,,L,L,1
+J1,Auster,Kingsland,1,P,,L,L,1
+J1,Auster,Workmaster,1,P,,L,L,1
+J1,Taylorcraft (UK),Autocrat,1,P,,L,L,1
+J1,Taylorcraft (UK),J-1 Autocrat,1,P,,L,L,1
+J10,Chengdu,F-10,1,J,,L,M,1
+J10,Chengdu,J-10,1,J,,L,M,1
+J177,Aerodynos,Evolution,1,P,,L,L,1
+J177,Aerodynos,JA-177 Evolution,1,P,,L,L,1
+J177,Aerodynos,JA-177 Pingouin,1,P,,L,L,1
+J177,Aerodynos,Pingouin,1,P,,L,L,1
+J177,Euro Pingouin,JA-177 Pingouin 152,1,P,,L,L,1
+J177,Euro Pingouin,Pingouin 152,1,P,,L,L,1
+J2,Piper,Cub (J-2),1,P,,L,L,1
+J2,Piper,J-2 Cub,1,P,,L,L,1
+J2,Taylor,Cub (J-2),1,P,,L,L,1
+J2,Taylor,J-2 Cub,1,P,,L,L,1
+J20,Chengdu,J-20,2,J,,L,M,1
+J3,American Legend,AL-3C Legend Cub,1,P,,L,L,1
+J3,American Legend,Legend Cub,1,P,,L,L,1
+J3,Cub,Cub,1,P,,L,L,1
+J3,Cub,J-3 Cub,1,P,,L,L,1
+J3,Cub,J-3 Prospector,1,P,,L,L,1
+J3,Cub,Prospector,1,P,,L,L,1
+J3,Henderson,Little Bear,1,P,,L,L,1
+J3,Piper,Cub (J-3/L-4/NE),1,P,,L,L,1
+J3,Piper,J-3 Cub,1,P,,L,L,1
+J3,Piper,L-4 Cub,1,P,,L,L,1
+J3,Piper,NE Cub,1,P,,L,L,1
+J3,Saturn-Avia,Cub,1,P,,L,L,1
+J3,Saturn-Avia,J-3 Cub,1,P,,L,L,1
+J3,Texas Sport,Texas Sport (TX-3),1,P,,L,L,1
+J3,Texas Sport,TX-3 Texas Sport,1,P,,L,L,1
+J3,WagAero,Cuby Acro Trainer,1,P,,L,L,1
+J3,WagAero,Cuby Observer,1,P,,L,L,1
+J3,WagAero,Cuby Sport Trainer,1,P,,L,L,1
+J300,Alms,J-300 Joker,1,P,,L,L,1
+J300,Alms,Joker,1,P,,L,L,1
+J300,Sauper,J-300 Joker,1,P,,L,L,1
+J300,Sauper,Joker,1,P,,L,L,1
+J328,328 Support Services,Dornier 328JET,2,J,,L,M,1
+J328,AvCraft,Dornier 328JET,2,J,,L,M,1
+J328,Fairchild Dornier,328JET,2,J,,L,M,1
+J328,Fairchild Dornier,328JET Envoy 3,2,J,,L,M,1
+J328,Fairchild Dornier,Envoy 3,2,J,,L,M,1
+J328,RUAG,Dornier 328 JET Envoy,2,J,,L,M,1
+J4,Piper,Cub Coupe,1,P,,L,L,1
+J4,Piper,J-4 Cub Coupe,1,P,,L,L,1
+J4B2,Barnett,J4B2,1,P,,G,L,1
+J5,Piper,AE Cub Cruiser,1,P,,L,L,1
+J5,Piper,Cub Cruiser,1,P,,L,L,1
+J5,Piper,J-5 Cub Cruiser,1,P,,L,L,1
+J5,Piper,L-14 Cub Cruiser,1,P,,L,L,1
+J728,Fairchild Dornier,728JET,2,J,,L,M,0
+J8A,Shenyang,J-8A,2,J,,L,M,1
+J8A,Shenyang,J-8E,2,J,,L,M,1
+J8A,Shenyang,JZ-8,2,J,,L,M,1
+J8B,Shenyang,F-8T,2,J,,L,M,1
+J8B,Shenyang,J-8B,2,J,,L,M,1
+J8B,Shenyang,J-8D,2,J,,L,M,1
+J8B,Shenyang,J-8F,2,J,,L,M,1
+J8B,Shenyang,J-8H,2,J,,L,M,1
+J8B,Shenyang,J-8T,2,J,,L,M,1
+J8B,Shenyang,JZ-8F,2,J,,L,M,1
+JAB2,Jabiru,Jabiru J160,1,P,,L,L,1
+JAB2,Jabiru,Jabiru J170,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J200,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J230,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J250,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J400,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J430,1,P,,L,L,1
+JAB4,Jabiru,Jabiru J450,1,P,,L,L,1
+JAB4,Seabird,Yamamah J430,1,P,,L,L,1
+JABI,Jabiru,Jabiru J120,1,P,,L,L,1
+JABI,Jabiru,Jabiru LSA,1,P,,L,L,1
+JABI,Jabiru,Jabiru SK,1,P,,L,L,1
+JABI,Jabiru,Jabiru SP,1,P,,L,L,1
+JABI,Jabiru,Jabiru SP-4,1,P,,L,L,1
+JABI,Jabiru,Jabiru SP-6,1,P,,L,L,1
+JABI,Jabiru,Jabiru SP-T,1,P,,L,L,1
+JABI,Jabiru,Jabiru ST,1,P,,L,L,1
+JABI,Jabiru,Jabiru ST-3,1,P,,L,L,1
+JACE,Ace,Junior Ace,1,P,,L,L,1
+JACE,Acro Sport,Junior Ace,1,P,,L,L,1
+JACE,Corben,Junior Ace,1,P,,L,L,1
+JACE,Pober,Junior Ace,1,P,,L,L,1
+JAG2,JAG Helicopter,JAG,1,T,,H,L,1
+JAGR,Hindustan,Jaguar,2,J,,L,M,1
+JAGR,Hindustan,Shamsher,2,J,,L,M,1
+JAGR,Sepecat,Jaguar,2,J,,L,M,1
+JAGR,Sepecat,Shamsher,2,J,,L,M,1
+JAJ5,Alpha,J-5 Marco,1,P,,L,L,1
+JAJ5,Alpha,Marco,1,P,,L,L,1
+JAJ5,Aviation Farm,J-5 Marco,1,P,,L,L,1
+JAJ5,Aviation Farm,Marco,1,P,,L,L,1
+JAJ5,Janowski,J-5 Marco,1,P,,L,L,1
+JAJ5,Janowski,Marco,1,P,,L,L,1
+JAJ5,Marco,J-5 Marco,1,P,,L,L,1
+JAJ5,Marco,Marco,1,P,,L,L,1
+JAJ6,J & AS,Fregata,1,P,,L,L,1
+JAJ6,J & AS,J-6 Fregata,1,P,,L,L,1
+JANU,Schempp-Hirth,Janus BM,1,P,,L,L,1
+JANU,Schempp-Hirth,Janus CM,1,P,,L,L,1
+JANU,Schempp-Hirth,Janus CT,1,P,,L,L,1
+JARO,Jackaroo,Thruxton Jackaroo,1,P,,L,L,1
+JAST,Soko,IJ-21 Jastreb,1,J,,L,L,1
+JAST,Soko,J-1 Jastreb,1,J,,L,L,1
+JAST,Soko,J-21 Jastreb,1,J,,L,L,1
+JAST,Soko,Jastreb,1,J,,L,L,1
+JAST,Soko,NJ-21 Jastreb,1,J,,L,L,1
+JAST,Soko,RJ-1 Jastreb,1,J,,L,L,1
+JAST,Soko,TJ-1 Jastreb,1,J,,L,L,1
+JAST,Soko,TJ-21 Jastreb,1,J,,L,L,1
+JB1,Independent,SeaDragon,1,P,,A,L,1
+JB1,Independent,X-JB-1 SeaDragon,1,P,,A,L,1
+JB15,Oberlerchner,JOB-15,1,P,,L,L,1
+JC01,Coupe,JC-01,1,P,,L,L,1
+JC02,Coupe,JC-02,1,P,,L,L,1
+JC02,Coupe,JC-200,1,P,,L,L,1
+JCOM,Aero Commander,1121 Jet Commander,2,J,,L,M,1
+JCOM,Aero Commander,Jet Commander,2,J,,L,M,1
+JCOM,IAI,1121 Commodore Jet,2,J,,L,M,1
+JCOM,IAI,Commodore Jet,2,J,,L,M,1
+JCRU,AASI,Jetcruzer,1,T,,L,L,1
+JD2,Dyke,Delta,1,P,,L,L,1
+JD2,Dyke,JD-2 Delta,1,P,,L,L,1
+JDOE,American Homebuilts,John Doe,1,P,,L,L,1
+JE2,Eich,Gyroplane,1,P,,G,L,1
+JE2,Eich,JE-2 Gyroplane,1,P,,G,L,1
+JFOX,Airo,1,1,P,,L,L,1
+JFOX,Euroala,Jet Fox,1,P,,L,L,1
+JH7,Xian,FBC-1 Flying Leopard,2,J,,L,M,1
+JH7,Xian,Flying Leopard,2,J,,L,M,1
+JH7,Xian,JH-7,2,J,,L,M,1
+JK05,Ekolot,Beetle,1,P,,L,L,1
+JK05,Ekolot,JK-05 Beetle,1,P,,L,L,1
+JK05,Ekolot,JK-05 Junior,1,P,,L,L,1
+JK05,Ekolot,JK-05 Pathmaker,1,P,,L,L,1
+JK05,Ekolot,Junior,1,P,,L,L,1
+JK05,Ekolot,Pathmaker,1,P,,L,L,1
+JL9,Guizhou,FTC-2000 Shanying,1,J,,L,M,1
+JL9,Guizhou,JL-9 Shanying,1,J,,L,M,1
+JL9,Guizhou,Shanying,1,J,,L,M,1
+JN76,Caudron,CR-760 Cyclone Replica,1,P,,L,L,1
+JN76,Caudron,Cyclone Replica,1,P,,L,L,1
+JN76,Caudron,JN-760 Cyclone Replica,1,P,,L,L,1
+JPM1,Marie,JPM-01 Medoc,1,P,,L,L,1
+JPM1,Marie,JPM-01 Tanagra,1,P,,L,L,1
+JPM1,Marie,Medoc,1,P,,L,L,1
+JPM1,Marie,Tanagra,1,P,,L,L,1
+JPRO,BAC,145 Jet Provost,1,J,,L,L,1
+JPRO,BAC,Jet Provost,1,J,,L,L,1
+JPRO,Hunting,Jet Provost,1,J,,L,L,1
+JPRO,Hunting,P-84 Jet Provost,1,J,,L,L,1
+JPRO,Hunting Percival,Jet Provost,1,J,,L,L,1
+JPRO,Hunting Percival,P-84 Jet Provost,1,J,,L,L,1
+JPRO,BAC,167 Strikemaster,1,J,,L,L,0
+JPRO,BAC,Strikemaster,1,J,,L,L,0
+JPRO,British Aerospace,BAC-167 Strikemaster,1,J,,L,L,0
+JPRO,British Aerospace,Strikemaster,1,J,,L,L,0
+JRC1,Chalard,JRC-01 Julcar,1,P,,L,L,1
+JRC1,Chalard,Julcar,1,P,,L,L,1
+JS1,Handley Page,HP-137 Jetstream 1,2,T,,L,L,1
+JS1,Handley Page,Jetstream 1,2,T,,L,L,1
+JS1,Jetstream,Jetstream 1,2,T,,L,L,1
+JS20,Handley Page,HP-137 Jetstream 200,2,T,,L,L,1
+JS20,Handley Page,Jetstream 200,2,T,,L,L,1
+JS20,Handley Page,Jetstream T.Mk.1,2,T,,L,L,1
+JS20,Handley Page,Jetstream T.Mk.2,2,T,,L,L,1
+JS20,Jetstream,Jetstream 200,2,T,,L,L,1
+JS20,Jetstream,Jetstream T.Mk.1,2,T,,L,L,1
+JS20,Jetstream,Jetstream T.Mk.2,2,T,,L,L,1
+JS20,Scottish Aviation,Jetstream T.Mk.1,2,T,,L,L,1
+JS20,Scottish Aviation,Jetstream T.Mk.2,2,T,,L,L,1
+JS3,Century,Jetstream 3,2,T,,L,L,1
+JS3,Volpar,Century Jetstream 3,2,T,,L,L,1
+JS31,British Aerospace,BAe-3100 Jetstream 31,2,T,,L,L/M,1
+JS31,British Aerospace,Jetstream 31,2,T,,L,L/M,1
+JS31,British Aerospace,Jetstream T.Mk.3,2,T,,L,L/M,1
+JS32,British Aerospace,BAe-3200 Jetstream Super 31,2,T,,L,M,1
+JS32,British Aerospace,Jetstream Super 31,2,T,,L,M,1
+JS32,Jetstream,BAe-3200 Jetstream Super 31,2,T,,L,M,1
+JS32,Jetstream,Jetstream Super 31,2,T,,L,M,1
+JS41,Aero International,BAe-4100 Jetstream 41,2,T,,L,M,1
+JS41,Aero International,Jetstream 41,2,T,,L,M,1
+JS41,British Aerospace,BAe-4100 Jetstream 41,2,T,,L,M,1
+JS41,British Aerospace,Jetstream 41,2,T,,L,M,1
+JS41,Jetstream,BAe-4100 Jetstream 41,2,T,,L,M,1
+JS41,Jetstream,Jetstream 41,2,T,,L,M,1
+JSQA,General Avia,F-1300 Jet Squalus,1,J,,L,L,1
+JSQA,General Avia,Jet Squalus,1,J,,L,L,1
+JSQA,Promavia,F-1300 Jet Squalus,1,J,,L,L,1
+JSQA,Promavia,Jet Squalus,1,J,,L,L,1
+JSX,Sonex,JSX SubSonex,1,J,,L,L,1
+JSX,Sonex,SubSonex,1,J,,L,L,1
+JT2,John F.Taylor (UK),JT-2 Titch,1,P,,L,L,1
+JT2,John F.Taylor (UK),Titch,1,P,,L,L,1
+JU52,CASA,352L,3,P,,L,M,1
+JU52,Junkers,Ju-52/3m,3,P,,L,M,1
+JUN1,Kaminskas,Jungster 1,1,P,,L,L,1
+JUN1,Kaminskas,RK-1 Jungster 1,1,P,,L,L,1
+JUN2,Kaminskas,Jungster 2,1,P,,L,L,1
+JUN2,Kaminskas,RK-2 Jungster 2,1,P,,L,L,1
+JUNR,Andreasson,BA-7,1,P,,L,L,1
+JUNR,Andreasson,MFI-9,1,P,,L,L,1
+JUNR,Bolkow,BO-208 Junior,1,P,,L,L,1
+JUNR,Bolkow,Junior,1,P,,L,L,1
+JUNR,Malmo,Junior,1,P,,L,L,1
+JUNR,Malmo,MFI-9 Junior,1,P,,L,L,1
+JUPI,Lammer Geyer,Jupiter,1,P,,L,L,1

@@ -1,0 +1,73 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+Y11,Harbin,Y-11,2,P,,L,L,1
+Y112,Yakovlev,Yak-112,1,P,,L,L,1
+Y12,Harbin,Harbinger,2,T,,L,L,1
+Y12,Harbin,Y-12-2,2,T,,L,L,1
+Y12,Harbin,Y-12-4,2,T,,L,L,1
+Y12,Harbin,Y-12C,2,T,,L,L,1
+Y12,Harbin,Y-12E Harbinger,2,T,,L,L,1
+Y12F,Harbin,Aircar,2,T,,L,M,1
+Y12F,Harbin,Y-12F Aircar,2,T,,L,M,1
+Y130,Yakovlev,Yak-130,2,J,,L,M,1
+Y141,Yakovlev,Yak-141,3,J,,L,M,0
+Y18T,Technoavia,SM-2000P,1,P,,L,L,1
+Y18T,Technoavia,SM-94,1,P,,L,L,1
+Y18T,Yakovlev,Yak-18T,1,P,,L,L,1
+Y20,Xian,Kunpeng,4,J,,L,H,1
+Y20,Xian,Y-20 Kunpeng,4,J,,L,H,1
+YA1,YEOMAN,Cropmaster,1,P,,L,L,1
+YA1,YEOMAN,YA-1 Cropmaster,1,P,,L,L,1
+YAK3,Yakovlev,Yak-3,1,P,,L,L,1
+YAK9,Yakovlev,Yak-9,1,P,,L,L,1
+YALE,North American,BT-14 Yale,1,P,,L,L,1
+YALE,North American,BT-9 Yale,1,P,,L,L,1
+YALE,North American,NJ Yale,1,P,,L,L,1
+YALE,North American,Yale,1,P,,L,L,1
+YARR,Arrow (Canada),Yarrow Arrow,1,P,,L,L,1
+YAST,SGAU,Yastreb,1,P,,L,L,1
+YC12,Chasle,Tourbillon,1,P,,L,L,1
+YC12,Chasle,YC-12 Tourbillon,1,P,,L,L,1
+YC12,Chasle,YC-121 Tourbillon,1,P,,L,L,1
+YC12,Chasle,YC-122 Tourbillon,1,P,,L,L,1
+YC12,Chasle,YC-123 Tourbillon,1,P,,L,L,1
+YK11,Let,C-11,1,P,,L,L,1
+YK11,Yakovlev,Yak-11,1,P,,L,L,1
+YK12,PZL Okecie,Yak-12,1,P,,L,L,1
+YK12,Yakovlev,Yak-12,1,P,,L,L,1
+YK18,Nanchang,CJ-5,1,P,,L,L,1
+YK18,Yakovlev,Yak-18,1,P,,L,L,1
+YK18,Yakovlev,Yak-18A,1,P,,L,L,1
+YK18,Yakovlev,Yak-18P,1,P,,L,L,1
+YK18,Yakovlev,Yak-18PM,1,P,,L,L,1
+YK18,Yakovlev,Yak-18PS,1,P,,L,L,1
+YK18,Yakovlev,Yak-18U,1,P,,L,L,1
+YK28,Yakovlev,Yak-28,2,J,,L,M,1
+YK30,Yakovlev,Yak-30,1,J,,L,L,1
+YK30,Yakovlev,Yak-32,1,J,,L,L,1
+YK38,Yakovlev,Yak-38,3,J,,L,M,1
+YK40,Yakovlev,Yak-40,3,J,,L,M,1
+YK42,Yakovlev,Yak-142,3,J,,L,M,1
+YK42,Yakovlev,Yak-42,3,J,,L,M,1
+YK50,Yakovlev,Yak-50,1,P,,L,L,1
+YK52,Bacau,Yak-52,1,P,,L,L,1
+YK52,SC Aerostar,Iak-52,1,P,,L,L,1
+YK52,SC Aerostar,Yak-52,1,P,,L,L,1
+YK52,SC Aerostar,Yak-54,1,P,,L,L,1
+YK52,Yakovlev,Yak-52,1,P,,L,L,1
+YK53,Yakovlev,Yak-53,1,P,,L,L,1
+YK54,Yakovlev,Yak-54,1,P,,L,L,1
+YK55,Yakovlev,Yak-55,1,P,,L,L,1
+YK58,Yakovlev,Yak-58,1,P,,L,L,1
+YL15,Boeing,451 Scout,1,P,,L,L,1
+YL15,Boeing,Scout,1,P,,L,L,1
+YL15,Boeing,YL-15 Scout,1,P,,L,L,1
+YNHL,Aviaimpex,KT-112 Yanhol,2,P,,H,L,1
+YNHL,Aviaimpex,Yanhol,2,P,,H,L,1
+YS11,Mitsubishi,YS-11,2,T,,L,M,1
+YS11,NAMC,YS-11,2,T,,L,M,1
+YS11,Nihon,YS-11,2,T,,L,M,0
+YUKN,Murphy,Yukon,1,P,,L,L,1
+YUNO,Shuya,Yunona,1,P,,L,L,1
+YURO,SOKO CNIAR,J-22 Orao,2,J,,L,M,1
+YURO,SOKO CNIAR,NJ-22 Orao,2,J,,L,M,1
+YURO,SOKO CNIAR,Orao,2,J,,L,M,1

@@ -1,0 +1,353 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+L10,Lockheed,Electra (L-10),2,P,,L,L,1
+L10,Lockheed,L-10 Electra,2,P,,L,L,1
+L10,Lockheed,XR2O Electra,2,P,,L,L,1
+L101,Lockheed,L-1011 TriStar,3,J,,L,H,1
+L101,Lockheed,TriStar,3,J,,L,H,1
+L11,Luscombe,11A Sedan,1,P,,L,L,1
+L11,Luscombe,Sedan,1,P,,L,L,1
+L11,Temco,11A Sedan,1,P,,L,L,1
+L11,Temco,Sedan,1,P,,L,L,1
+L11E,Luscombe,11E,1,P,,L,L,1
+L11E,Luscombe,11E Spartan 185,1,P,,L,L,1
+L11E,Luscombe,Spartan 185,1,P,,L,L,1
+L11E,Quartz Mountain,11E,1,P,,L,L,1
+L12,Lockheed,C-40 Electra Junior,2,P,,L,L,1
+L12,Lockheed,Electra Junior,2,P,,L,L,1
+L12,Lockheed,JO Electra Junior,2,P,,L,L,1
+L12,Lockheed,L-12 Electra Junior,2,P,,L,L,1
+L13,Convair,L-13,1,P,,L,L,1
+L13,Longren,Centaur,1,P,,L,L,1
+L13,Longren,L-13 Centaur,1,P,,L,L,1
+L13M,Let,Blanik (single-engine conversions),1,P,,L,L,1
+L13M,Let,L-13 Blanik (single-engine conversions),1,P,,L,L,1
+L13S,Aerotechnik,L-13S Super Vivat,1,P,,L,L,1
+L13S,Aerotechnik,L-13S Vivat,1,P,,L,L,1
+L13S,Aerotechnik,Super Vivat,1,P,,L,L,1
+L13S,Aerotechnik,Vivat,1,P,,L,L,1
+L14,Lockheed,Hudson,2,P,,L,M,1
+L14,Lockheed,L-14 Hudson,2,P,,L,M,1
+L14,Lockheed,L-14 Super Electra,2,P,,L,M,1
+L14,Lockheed,Super Electra,2,P,,L,M,1
+L15,Hongdu,L-15 Lieying,2,J,,L,M,1
+L15,Hongdu,Lieying,2,J,,L,M,1
+L159,Aero Vodochody (Czech),Albatros 2,1,J,,L,M,1
+L159,Aero Vodochody (Czech),L-159,1,J,,L,M,1
+L159,Aero Vodochody (Czech),L-159 Albatros 2,1,J,,L,M,1
+L159,Aero Vodochody (Czech),L-159  Albatros 2,1,J,,L,M,0
+L18,Howard Aero,250,2,P,,L,M,1
+L18,Howard Aero,350,2,P,,L,M,1
+L18,Lear,Learstar,2,P,,L,M,1
+L18,Lockheed,C-56 Lodestar,2,P,,L,M,1
+L18,Lockheed,C-57 Lodestar,2,P,,L,M,1
+L18,Lockheed,C-59 Lodestar,2,P,,L,M,1
+L18,Lockheed,C-60 Lodestar,2,P,,L,M,1
+L18,Lockheed,L-18 Lodestar,2,P,,L,M,1
+L18,Lockheed,Lodestar,2,P,,L,M,1
+L18,Lockheed,R5O Lodestar,2,P,,L,M,1
+L18,Lockheed,XR5O Lodestar,2,P,,L,M,1
+L18,PacAero,Learstar,2,P,,L,M,1
+L181,Associated Air,Liberty 181,1,P,,L,L,1
+L188,Lockheed,Electra (L-188),4,T,,L,M,1
+L188,Lockheed,L-188 Electra,4,T,,L,M,1
+L200,Let,L-200 Morava,2,P,,L,L,1
+L200,Let,Morava,2,P,,L,L,1
+L29,Aero Vodochody (Czech),Delfin,1,J,,L,L,1
+L29,Aero Vodochody (Czech),L-29 Delfin,1,J,,L,L,1
+L29A,Lockheed,Jetstar 6,4,J,,L,M,1
+L29A,Lockheed,Jetstar 8,4,J,,L,M,1
+L29A,Lockheed,L-1329 Jetstar 6,4,J,,L,M,1
+L29A,Lockheed,L-1329 Jetstar 8,4,J,,L,M,1
+L29B,Lockheed,Jetstar 2,4,J,,L,M,1
+L29B,Lockheed,Jetstar 731,4,J,,L,M,1
+L29B,Lockheed,L-1329 Jetstar 2,4,J,,L,M,1
+L29B,Lockheed,L-1329 Jetstar 731,4,J,,L,M,1
+L37,Howard Aero,500,2,P,,L,M,1
+L37,Lockheed,B-34 Lexington,2,P,,L,M,1
+L37,Lockheed,Harpoon,2,P,,L,M,1
+L37,Lockheed,L-137 Ventura,2,P,,L,M,1
+L37,Lockheed,L-15 Harpoon,2,P,,L,M,1
+L37,Lockheed,L-237 Ventura,2,P,,L,M,1
+L37,Lockheed,PV-1 Ventura,2,P,,L,M,1
+L37,Lockheed,PV-2 Harpoon,2,P,,L,M,1
+L37,Lockheed,Ventura,2,P,,L,M,1
+L37,Oakland,Centaurus,2,P,,L,M,1
+L380,Lederlin,380 Ladybug,1,P,,L,L,1
+L380,Lederlin,Ladybug,1,P,,L,L,1
+L39,Aero Vodochody (Czech),Albatros,1,J,,L,L,1
+L39,Aero Vodochody (Czech),L-139 Albatros,1,J,,L,L,1
+L39,Aero Vodochody (Czech),L-39 Albatros,1,J,,L,L,1
+L4,Chaika,L-4,2,P,,A,L,1
+L4,Chaika,L-42,2,P,,A,L,1
+L4,Chaika,L-44,2,P,,A,L,1
+L40,Orlican,L-40 Meta Sokol,1,P,,L,L,1
+L40,Orlican,Meta Sokol,1,P,,L,L,1
+L410,Aircraft Industries,L-410 Turbolet,2,T,,L,L,1
+L410,Aircraft Industries,Turbolet,2,T,,L,L,1
+L410,Let,L-410 Turbolet,2,T,,L,L,1
+L410,Let,L-420 Turbolet,2,T,,L,L,1
+L410,Let,Turbolet,2,T,,L,L,1
+L5,Stinson,L-5 Sentinel,1,P,,L,L,1
+L5,Stinson,OY Sentinel,1,P,,L,L,1
+L5,Stinson,Sentinel,1,P,,L,L,1
+L5,Stinson,U-19 Sentinel,1,P,,L,L,1
+L5,Stinson,V-76 Sentinel,1,P,,L,L,1
+L59,Aero Vodochody (Czech),L-59,1,J,,L,L,1
+L6,AeroVolga,L-6,2,P,,A,L,1
+L60,Aero Vodochody (Czech),Brigadyr,1,P,,L,L,1
+L60,Aero Vodochody (Czech),L-60 Brigadyr,1,P,,L,L,1
+L60,Orlican,Brigadyr,1,P,,L,L,1
+L60,Orlican,K-60 Brigadyr,1,P,,L,L,1
+L60,Orlican,L-60 Brigadyr,1,P,,L,L,1
+L610,Let,L-610,2,T,,L,M,1
+L70,Valmet,L-70 Miltrainer,1,P,,L,L,1
+L70,Valmet,L-70 Vinka,1,P,,L,L,1
+L70,Valmet,Miltrainer,1,P,,L,L,1
+L70,Valmet,Vinka,1,P,,L,L,1
+L8,Luscombe,50,1,P,,L,L,1
+L8,Luscombe,8,1,P,,L,L,1
+L8,Luscombe,8 Master,1,P,,L,L,1
+L8,Luscombe,8 Silvaire,1,P,,L,L,1
+L8,Luscombe,8 Trainer,1,P,,L,L,1
+L8,Luscombe,Master,1,P,,L,L,1
+L8,Luscombe,Observer,1,P,,L,L,1
+L8,Luscombe,Silvaire,1,P,,L,L,1
+L8,Luscombe,T8 Observer,1,P,,L,L,1
+L8,Luscombe,Trainer,1,P,,L,L,1
+L8,Luscombe-Silvaire,LSA-8 Renai,1,P,,L,L,1
+L8,Luscombe-Silvaire,Renai,1,P,,L,L,1
+L8,Renaissance Aircraft,8,1,P,,L,L,1
+L8,Silvaire,8 Silvaire,1,P,,L,L,1
+L8,Silvaire,Silvaire,1,P,,L,L,1
+L8,Temco,8 Silvaire,1,P,,L,L,1
+L8,Temco,Silvaire,1,P,,L,L,1
+L90,Aermacchi,M-290TP Redigo,1,T,,L,L,1
+L90,Aermacchi,Redigo,1,T,,L,L,1
+L90,Valmet,L-90TP Redigo,1,T,,L,L,1
+L90,Valmet,Redigo,1,T,,L,L,1
+LA25,Lake,LA-250 Renegade,1,P,,A,L,1
+LA25,Lake,LA-250 Seafury,1,P,,A,L,1
+LA25,Lake,LA-250 Seawolf,1,P,,A,L,1
+LA25,Lake,LA-250 Turbo Renegade,1,P,,A,L,1
+LA25,Lake,LA-270 Turbo Renegade,1,P,,A,L,1
+LA25,Lake,LA-270 Turbo Seafury,1,P,,A,L,1
+LA25,Lake,Renegade,1,P,,A,L,1
+LA25,Lake,Seafury,1,P,,A,L,1
+LA25,Lake,Seawolf,1,P,,A,L,1
+LA25,Lake,Turbo Renegade,1,P,,A,L,1
+LA25,Lake,Turbo Seafury,1,P,,A,L,1
+LA25,Lanshe,LA-250 Renegade 2,1,P,,A,L,1
+LA25,Lanshe,LA-250 Seafury,1,P,,A,L,1
+LA25,Lanshe,LA-250 Seawolf,1,P,,A,L,1
+LA25,Lanshe,Renegade 2,1,P,,A,L,1
+LA25,Lanshe,Seafury,1,P,,A,L,1
+LA25,Lanshe,Seawolf,1,P,,A,L,1
+LA4,Lake,Buccaneer,1,P,,A,L,1
+LA4,Lake,LA-200,1,P,,A,L,1
+LA4,Lake,LA-4,1,P,,A,L,1
+LA4,Lake,LA-4 Buccaneer,1,P,,A,L,1
+LA60,Aermacchi,AL-60,1,P,,L,L,1
+LA60,Aermacchi,AL-60 Conestoga,1,P,,L,L,1
+LA60,Aermacchi,AL-60 Loadmaster,1,P,,L,L,1
+LA60,Aermacchi,AL-60 Trojan,1,P,,L,L,1
+LA60,Aermacchi,Conestoga,1,P,,L,L,1
+LA60,Aermacchi,Loadmaster,1,P,,L,L,1
+LA60,Aermacchi,Trojan,1,P,,L,L,1
+LA60,Atlas,AL-60 Kudu,1,P,,L,L,1
+LA60,Atlas,Kudu,1,P,,L,L,1
+LA60,Lockheed,LASA-60,1,P,,L,L,1
+LA60,Lockheed-Azcarate,LASA-60 Santa Maria,1,P,,L,L,1
+LA60,Lockheed-Azcarate,Santa Maria,1,P,,L,L,1
+LA60,Macchi,AL-60,1,P,,L,L,1
+LA6T,Aermacchi,AL-60 Turbine Grizzly,1,T,,L,L,1
+LA6T,Aermacchi,Turbine Grizzly,1,T,,L,L,1
+LA8,AeroVolga,Flagman,2,P,,A,L,1
+LA8,AeroVolga,LA-8 Flagman,2,P,,A,L,1
+LACO,Laven,LACO-125,1,P,,L,L,1
+LACO,Laven,LACO-145,1,P,,L,L,1
+LAE1,Lange,Antares 20E,1,E,,L,L,1
+LAE1,Lange,E-1 Antares 20E,1,E,,L,L,1
+LAKR,Laser,Akro Z,1,P,,L,L,1
+LAKX,Aeroplastika,LAK-X,1,P,,L,L,1
+LAKX,Avia Baltika,LAK-X,1,P,,L,L,1
+LAMA,Aerospatiale,Lama,1,T,,H,L,1
+LAMA,Aerospatiale,SA-315 Lama,1,T,,H,L,1
+LAMA,Eurocopter,Lama,1,T,,H,L,1
+LAMA,Eurocopter,SA-315 Lama,1,T,,H,L,1
+LAMA,Helicópteros do Brasil,Gaviao,1,T,,H,L,1
+LAMA,Helicópteros do Brasil,HB-315 Gaviao,1,T,,H,L,1
+LAMA,Hindustan,Cheetah,1,T,,H,L,1
+LAMA,Hindustan,Cheetal,1,T,,H,L,1
+LAMA,Hindustan,Lancer,1,T,,H,L,1
+LAMA,Hindustan,SA-315 Cheetah,1,T,,H,L,1
+LAMA,Hindustan,SA-315 Cheetal,1,T,,H,L,1
+LAMA,Hindustan,SA-315 Lancer,1,T,,H,L,1
+LAMA,Sud,Lama,1,T,,H,L,1
+LAMA,Sud,SA-315 Lama,1,T,,H,L,1
+LANC,Avro,683 Lancaster,4,P,,L,M,1
+LANC,Avro,Lancaster,4,P,,L,M,1
+LAR1,FLARIS,LAR-1,1,J,,L,L,1
+LARK,North American Rockwell,100 Lark Commander,1,P,,L,L,1
+LARK,North American Rockwell,Lark Commander,1,P,,L,L,1
+LAST,UTVA,Lasta,1,P,,L,L,1
+LAST,UTVA,N-63 Lasta,1,P,,L,L,1
+LBUG,Lightning Bug,Lightning Bug,1,P,,L,L,1
+LBUG,Reflex,Lightning Bug,1,P,,L,L,1
+LCA,ADA,LCA Tejas,1,J,,L,M,1
+LCA,ADA,Tejas,1,J,,L,M,1
+LCA,Hindustan,LCA Tejas,1,J,,L,M,1
+LCA,Hindustan,Tejas,1,J,,L,M,1
+LCB,Laird,Commercial,1,P,,L,L,1
+LCB,Laird,LC-1B Commercial,1,P,,L,L,1
+LCB,Laird,LC-B Commercial,1,P,,L,L,1
+LCH,Hindustan,LCH,2,T,,H,L,1
+LCR,Laird,LC-R Speedwing,1,P,,L,L,1
+LCR,Laird,Speedwing,1,P,,L,L,1
+LEG2,Lancair,Legacy,1,P,,L,L,1
+LEGD,Performance,Legend,1,P,,L,L,1
+LEOP,Chichester-Miles,Leopard,2,J,,L,L,1
+LESP,Lancair,Lancair ES-P,1,P,,L,L,1
+LEVI,Tapanee,Levitation 4,1,P,,L,L,1
+LGEZ,Rutan,61 Long-EZ,1,P,,L,L,1
+LGEZ,Rutan,Long-EZ,1,P,,L,L,1
+LH10,LH Aviation,Ellipse,1,P,,L,L,1
+LH10,LH Aviation,LH-10 Ellipse,1,P,,L,L,1
+LIBE,Liberty Aeronautical,Bellaire,1,P,,L,L,1
+LION,Griffon,Lionheart,1,P,,L,L,1
+LJ23,Learjet,23,2,J,,L,L,1
+LJ24,Gates Learjet,24,2,J,,L,L,1
+LJ24,Learjet,24,2,J,,L,L,1
+LJ25,Gates Learjet,25,2,J,,L,L,1
+LJ25,Learjet,25,2,J,,L,L,1
+LJ28,Gates Learjet,28,2,J,,L,L,1
+LJ28,Gates Learjet,29,2,J,,L,L,1
+LJ31,Gates Learjet,31,2,J,A,L,M,1
+LJ31,Learjet,31,2,J,A,L,M,1
+LJ35,Gates Learjet,35,2,J,A,L,M,1
+LJ35,Gates Learjet,36,2,J,A,L,M,1
+LJ35,Gates Learjet,C-21,2,J,A,L,M,1
+LJ35,Gates Learjet,R-35,2,J,A,L,M,1
+LJ35,Gates Learjet,RC-35,2,J,A,L,M,1
+LJ35,Gates Learjet,RC-36,2,J,A,L,M,1
+LJ35,Gates Learjet,U-36,2,J,A,L,M,1
+LJ35,Gates Learjet,UC-35,2,J,A,L,M,1
+LJ35,Gates Learjet,UC-36,2,J,A,L,M,1
+LJ35,Learjet,35,2,J,A,L,M,1
+LJ35,Learjet,36,2,J,A,L,M,1
+LJ35,Learjet,C-21,2,J,A,L,M,1
+LJ35,Learjet,RC-35,2,J,A,L,M,1
+LJ35,Learjet,U-36,2,J,A,L,M,1
+LJ35,Learjet,UC-36,2,J,A,L,M,1
+LJ35,Learjet,VU-35,2,J,A,L,M,1
+LJ40,Learjet,40,2,J,A,L,M,1
+LJ45,Learjet,45,2,J,A,L,M,1
+LJ55,Gates Learjet,55,2,J,A,L,M,1
+LJ55,Learjet,55,2,J,A,L,M,1
+LJ55,Learjet,VU-55,2,J,A,L,M,1
+LJ60,Learjet,60,2,J,A,L,M,1
+LJ70,Learjet,70,2,J,A,L,M,1
+LJ75,Learjet,75,2,J,A,L,M,1
+LJ75,Learjet,75 Liberty,2,J,A,L,M,1
+LJ75,Learjet,Liberty,2,J,A,L,M,1
+LJ85,Learjet,85,2,J,A,L,M,1
+LK17,LAK,LAK-17AT,1,P,,L,L,1
+LK17,Sportine Aviacija,LAK-17AT,1,P,,L,L,1
+LK19,LAK,LAK-19T,1,P,,L,L,1
+LK19,Sportine Aviacija,LAK-19T,1,P,,L,L,1
+LK20,LAK,LAK-20M,1,P,,L,L,1
+LK20,Sportine Aviacija,LAK-20M,1,P,,L,L,1
+LM5,Lombardi,Aviastar,1,P,,L,L,1
+LM5,Lombardi,LM-5 Aviastar,1,P,,L,L,1
+LM5X,Light Miniature,LM-5 Super Cub,1,P,,L,L,1
+LM5X,Light Miniature,Super Cub,1,P,,L,L,1
+LM7,Lombardi,LM-7,1,P,,L,L,1
+LMK1,CATA,LMK-1 Oryx,1,P,,L,L,1
+LMK1,CATA,Oryx,1,P,,L,L,1
+LN27,Falcomposite,Furio,1,P,,L,L,1
+LN27,Falcomposite,LN-27 Furio,1,P,,L,L,1
+LN3,FLYGFABRIKEN,LN-3 Seagull,1,P,,A,L,1
+LN3,FLYGFABRIKEN,Seagull,1,P,,A,L,1
+LNC2,Lancair,Lancair 200,1,P,,L,L,1
+LNC2,Lancair,Lancair 235,1,P,,L,L,1
+LNC2,Lancair,Lancair 320,1,P,,L,L,1
+LNC2,Lancair,Lancair 360,1,P,,L,L,1
+LNC2,Neico,Lancair 200,1,P,,L,L,1
+LNC2,Neico,Lancair 235,1,P,,L,L,1
+LNC2,Neico,Lancair 320,1,P,,L,L,1
+LNC2,Neico,Lancair 360,1,P,,L,L,1
+LNC2,PAI,Lancair 320,1,P,,L,L,1
+LNC4,Lancair,Lancair 4,1,P,,L,L,1
+LNC4,Neico,Lancair 4,1,P,,L,L,1
+LNC4,PADC,Lancair 4,1,P,,L,L,1
+LNC4,PAI,Lancair 4,1,P,,L,L,1
+LNCE,Lancair,Lancair ES,1,P,,L,L,1
+LNCE,Lancair,Lancair Super ES,1,P,,L,L,1
+LNCE,PADC,Lancair ES,1,P,,L,L,1
+LNCE,PAI,Lancair ES,1,P,,L,L,1
+LNP4,Lancair,Lancair PropJet 4,1,T,,L,L,1
+LNT4,Lancair,Sentry 4T,1,T,,L,L,1
+LOCA,Aerolab,LoCamp,1,P,,L,L,1
+LOVE,Loving-Wayne,Love,1,P,,L,L,1
+LOVE,Loving-Wayne,WR-1 Love,1,P,,L,L,1
+LP1,LoPresti,Fury,1,P,,L,L,1
+LP1,LoPresti,LP-1 Fury,1,P,,L,L,1
+LR2T,Load Ranger,2000,1,T,,H,L,1
+LS10,DG Flugzeugbau,LS-10ST,1,P,,L,L,1
+LS2,HAT,LS-2,1,P,,L,L,1
+LS8,DG Flugzeugbau,LS-8ST,1,P,,L,L,1
+LS8,Rolladen-Schneider,LS-8T,1,P,,L,L,1
+LS9,Rolladen-Schneider,LS-9,1,P,,L,L,1
+LSTR,Custom Flight,Lite Star,1,P,,L,L,1
+LTNG,BAC,Lightning,2,J,,L,M,1
+LTNG,English Electric,Lightning,2,J,,L,M,1
+LUL5,Lucas,L-5,1,P,,L,L,1
+LUL6,Lucas,L-6,1,P,,L,L,1
+LUL7,Lucas,L-7,1,P,,L,L,1
+LUL8,Lucas,L-8,1,P,,L,L,1
+LV51,Latinoamericana de Aviación,LAV-51 Master,1,P,,L,L,1
+LV51,Latinoamericana de Aviación,LAV-51 Super Master,1,P,,L,L,1
+LV51,Latinoamericana de Aviación,Master,1,P,,L,L,1
+LV51,Latinoamericana de Aviación,Super Master,1,P,,L,L,1
+LW20,Howard Hughes,Australian LightWing Speed SP-2000,1,P,,L,L,1
+LW40,Howard Hughes,Australian LightWing Speed SP-4000,1,P,,L,L,1
+LWIN,Howard Hughes,Austalian LightWing Sport 2000,1,P,,L,L,1
+LWIN,Howard Hughes,Australian LightWing GA-912,1,P,,L,L,1
+LWIN,Howard Hughes,Australian LightWing GR-582,1,P,,L,L,1
+LWIN,Howard Hughes,Australian LightWing GR-912,1,P,,L,L,1
+LWIN,Howard Hughes,Australian LightWing   GR-912,1,P,,L,L,0
+LWIN,Howard Hughes,Australian LightWing  GA-912,1,P,,L,L,0
+LWIN,Howard Hughes,Australian LightWing  GR-912,1,P,,L,L,0
+LX32,Lilienthal,100,1,P,,L,L,1
+LX32,Lilienthal,Bekas (X-32),1,P,,L,L,1
+LX32,Lilienthal,S-2 Sintal,1,P,,L,L,1
+LX32,Lilienthal,Sintal,1,P,,L,L,1
+LX32,Lilienthal,X-32 Bekas,1,P,,L,L,1
+LX34,Lilienthal,Bekas (X-34),1,P,,L,L,1
+LX34,Lilienthal,X-34 Bekas,1,P,,L,L,1
+LXR,ELIXIR,Elixir,1,P,,L,L,1
+LYNX,AgustaWestland,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,AgustaWestland,AW-159 Wildcat,2,T,,H,L,1
+LYNX,AgustaWestland,Lynx Wildcat,2,T,,H,L,1
+LYNX,AgustaWestland,Super Lynx,2,T,,H,L,1
+LYNX,AgustaWestland,WG-13 Super Lynx,2,T,,H,L,1
+LYNX,AgustaWestland,Wildcat,2,T,,H,L,1
+LYNX,FINMECCANICA,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,FINMECCANICA,AW-159 Wildcat,2,T,,H,L,1
+LYNX,FINMECCANICA,Lynx Wildcat,2,T,,H,L,1
+LYNX,FINMECCANICA,Wildcat,2,T,,H,L,1
+LYNX,LEONARDO,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,LEONARDO,AW-159 Wildcat,2,T,,H,L,1
+LYNX,LEONARDO,Lynx Wildcat,2,T,,H,L,1
+LYNX,LEONARDO,Wildcat,2,T,,H,L,1
+LYNX,Westland,AH-11 Super Lynx,2,T,,H,L,1
+LYNX,Westland,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,Westland,Battlefield Lynx,2,T,,H,L,1
+LYNX,Westland,Lynx,2,T,,H,L,1
+LYNX,Westland,Lynx Wildcat,2,T,,H,L,1
+LYNX,Westland,Super Lynx,2,T,,H,L,1
+LYNX,Westland,WG-13 Battlefield Lynx,2,T,,H,L,1
+LYNX,Westland,WG-13 Lynx,2,T,,H,L,1
+LYNX,Westland,WG-13 Super Lynx,2,T,,H,L,1
+LYNX,Westland,SH-14 Lynx,2,T,,H,L,0
+LYSA,National Steel,Lysander,1,P,,L,L,1
+LYSA,Westland,Lysander,1,P,,L,L,1

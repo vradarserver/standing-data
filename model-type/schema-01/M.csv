@@ -1,0 +1,652 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+M10,Aerostar,90,1,P,,L,L,1
+M10,Mooney,Cadet,1,P,,L,L,1
+M10,Mooney,M-10 Cadet,1,P,,L,L,1
+M101,Myasishchev,Expedition,1,T,,L,L,1
+M101,Myasishchev,Gzhel,1,T,,L,L,1
+M101,Myasishchev,M-101 Expedition,1,T,,L,L,1
+M101,Myasishchev,M-101 Gzhel,1,T,,L,L,1
+M101,Myasishchev,M-101 Sokol,1,T,,L,L,1
+M101,Myasishchev,Sokol,1,T,,L,L,1
+M106,Lambert,M-106 Mission,1,P,,L,L,1
+M106,Lambert,Mission (M-106),1,P,,L,L,1
+M108,Lambert,M-108 Mission,1,P,,L,L,1
+M108,Lambert,Mission (M-108),1,P,,L,L,1
+M10F,Mooney,M-10T,1,P,,L,L,1
+M10R,Mooney,M-10J,1,P,,L,L,1
+M110,Aviat,110 Special,1,P,,L,L,1
+M110,Aviat,Special,1,P,,L,L,1
+M110,Monocoupe,110 Special,1,P,,L,L,1
+M110,Monocoupe,Special,1,P,,L,L,1
+M110,Aviat,110 Specal,1,P,,L,L,0
+M15,Pzl-Mielec,Belphegor,1,J,,L,L,1
+M15,Pzl-Mielec,M-15 Belphegor,1,J,,L,L,1
+M17,Myasishchev,M-17 Stratosfera,1,J,,L,M,1
+M17,Myasishchev,Stratosfera,1,J,,L,M,1
+M18,AII,AVA-303,1,P,,L,L,1
+M18,Pzl-Mielec,Dromader,1,P,,L,L,1
+M18,Pzl-Mielec,M-18 Dromader,1,P,,L,L,1
+M18T,Melex,T-45 Turbine Dromader,1,T,,L,L,1
+M18T,Melex,Turbine Dromader,1,T,,L,L,1
+M18T,Pzl-Mielec,M-18 Turbine Dromader,1,T,,L,L,1
+M18T,Pzl-Mielec,Turbine Dromader,1,T,,L,L,1
+M1SC,International High Performance Aircraft,M-1 SpeedCruiser,1,P,,L,L,0
+M1SC,International High Performance Aircraft,SpeedCruiser,1,P,,L,L,0
+M2,Kubicek,M-2 Scout,1,P,,L,L,1
+M2,Kubicek,Scout,1,P,,L,L,1
+M200,Aero Commander,200 Commander 200,1,P,,L,L,1
+M200,Aero Commander,Commander 200,1,P,,L,L,1
+M200,Meyers,200,1,P,,L,L,1
+M200,North American Rockwell,200 Commander 200,1,P,,L,L,1
+M200,North American Rockwell,Commander 200,1,P,,L,L,1
+M203,Myasishchev,Barsuk,1,P,,L,L,1
+M203,Myasishchev,M-203 Barsuk,1,P,,L,L,1
+M20P,Aerostar,200,1,P,,L,L,1
+M20P,Aerostar,201,1,P,,L,L,1
+M20P,Aerostar,202,1,P,,L,L,1
+M20P,Aerostar,220,1,P,,L,L,1
+M20P,Mooney,201,1,P,,L,L,1
+M20P,Mooney,205,1,P,,L,L,1
+M20P,Mooney,Allegro,1,P,,L,L,1
+M20P,Mooney,ATS,1,P,,L,L,1
+M20P,Mooney,Chaparral,1,P,,L,L,1
+M20P,Mooney,Eagle,1,P,,L,L,1
+M20P,Mooney,Executive,1,P,,L,L,1
+M20P,Mooney,M-20,1,P,,L,L,1
+M20P,Mooney,M-20A,1,P,,L,L,1
+M20P,Mooney,M-20B Mark 21,1,P,,L,L,1
+M20P,Mooney,M-20C Mark 21,1,P,,L,L,1
+M20P,Mooney,M-20C Ranger,1,P,,L,L,1
+M20P,Mooney,M-20D Master,1,P,,L,L,1
+M20P,Mooney,M-20E Chaparral,1,P,,L,L,1
+M20P,Mooney,M-20E Super 21,1,P,,L,L,1
+M20P,Mooney,M-20F Executive,1,P,,L,L,1
+M20P,Mooney,M-20G Statesman,1,P,,L,L,1
+M20P,Mooney,M-20J 201,1,P,,L,L,1
+M20P,Mooney,M-20J 205,1,P,,L,L,1
+M20P,Mooney,M-20J Allegro,1,P,,L,L,1
+M20P,Mooney,M-20J ATS,1,P,,L,L,1
+M20P,Mooney,M-20J MSE,1,P,,L,L,1
+M20P,Mooney,M-20L PFM,1,P,,L,L,1
+M20P,Mooney,M-20R Ovation,1,P,,L,L,1
+M20P,Mooney,M-20R Ovation 2,1,P,,L,L,1
+M20P,Mooney,M-20R Ovation 3,1,P,,L,L,1
+M20P,Mooney,M-20S Eagle,1,P,,L,L,1
+M20P,Mooney,M-20U Ovation Ultra,1,P,,L,L,1
+M20P,Mooney,Mark 21,1,P,,L,L,1
+M20P,Mooney,Master,1,P,,L,L,1
+M20P,Mooney,MSE,1,P,,L,L,1
+M20P,Mooney,Ovation,1,P,,L,L,1
+M20P,Mooney,Ovation 2,1,P,,L,L,1
+M20P,Mooney,Ovation 3,1,P,,L,L,1
+M20P,Mooney,Ovation Ultra,1,P,,L,L,1
+M20P,Mooney,PFM,1,P,,L,L,1
+M20P,Mooney,Ranger,1,P,,L,L,1
+M20P,Mooney,Statesman,1,P,,L,L,1
+M20P,Mooney,Super 21,1,P,,L,L,1
+M20T,Mooney,231,1,P,,L,L,1
+M20T,Mooney,252TSE,1,P,,L,L,1
+M20T,Mooney,Acclaim,1,P,,L,L,1
+M20T,Mooney,Acclaim Type S,1,P,,L,L,1
+M20T,Mooney,Acclaim Ultra,1,P,,L,L,1
+M20T,Mooney,Bravo,1,P,,L,L,1
+M20T,Mooney,Encore,1,P,,L,L,1
+M20T,Mooney,M-20K 231,1,P,,L,L,1
+M20T,Mooney,M-20K 252TSE,1,P,,L,L,1
+M20T,Mooney,M-20K Encore,1,P,,L,L,1
+M20T,Mooney,M-20M Bravo,1,P,,L,L,1
+M20T,Mooney,M-20M TLS,1,P,,L,L,1
+M20T,Mooney,M-20TN Acclaim,1,P,,L,L,1
+M20T,Mooney,M-20TN Acclaim Type S,1,P,,L,L,1
+M20T,Mooney,M-20V Acclaim Ultra,1,P,,L,L,1
+M20T,Mooney,TLS,1,P,,L,L,1
+M21,Pzl-Mielec,Dromader Mini,1,P,,L,L,1
+M21,Pzl-Mielec,M-21 Dromader Mini,1,P,,L,L,1
+M212,Lambert,M-212 Mission,1,P,,L,L,1
+M212,Lambert,Mission (M-212),1,P,,L,L,1
+M22,Mooney,M-22,1,P,,L,L,1
+M22,Mooney,M-22 Mustang,1,P,,L,L,1
+M22,Mooney,Mustang,1,P,,L,L,1
+M24,Pzl-Mielec,Dromader Super,1,P,,L,L,1
+M24,Pzl-Mielec,M-24 Dromader Super,1,P,,L,L,1
+M26,Pzl-Mielec,Air Wolf,1,P,,L,L,1
+M26,Pzl-Mielec,Iskierka,1,P,,L,L,1
+M26,Pzl-Mielec,M-26 Air Wolf,1,P,,L,L,1
+M26,Pzl-Mielec,M-26 Iskierka,1,P,,L,L,1
+M28,Pzl-Mielec,Bryza (PT6A engines),2,T,,L,L/M,1
+M28,Pzl-Mielec,C-145,2,T,,L,L/M,1
+M28,Pzl-Mielec,M-28 Bryza (PT6A engines),2,T,,L,L/M,1
+M28,Pzl-Mielec,M-28 Skytruck,2,T,,L,L/M,1
+M28,Pzl-Mielec,Skytruck,2,T,,L,L/M,1
+M2HK,Miles,Hawk Major,1,P,,L,L,1
+M2HK,Miles,Hawk Speed Six,1,P,,L,L,1
+M2HK,Miles,M-2 Hawk Major,1,P,,L,L,1
+M2HK,Miles,M-2 Hawk Speed Six,1,P,,L,L,1
+M2HK,Phillips & Powis,Hawk Major,1,P,,L,L,1
+M2HK,Phillips & Powis,Hawk Speed Six,1,P,,L,L,1
+M2HK,Phillips & Powis,M-2 Hawk Major,1,P,,L,L,1
+M2HK,Phillips & Powis,M-2 Hawk Speed Six,1,P,,L,L,1
+M308,German Bianco,MB-308,1,P,,L,L,1
+M308,Macchi,MB-308,1,P,,L,L,1
+M326,Aermacchi,MB-326,1,J,,L,L,1
+M326,Atlas,Impala,1,J,,L,L,1
+M326,Atlas,MB-326 Impala,1,J,,L,L,1
+M326,Commonwealth Aircraft (Aus),CA-30,1,J,,L,L,1
+M326,Commonwealth Aircraft (Aus),MB-326,1,J,,L,L,1
+M326,Embraer,AT-26 Xavante,1,J,,L,L,1
+M326,Embraer,EMB-326 Xavante,1,J,,L,L,1
+M326,Embraer,RT-26 Xavante,1,J,,L,L,1
+M326,Embraer,Xavante,1,J,,L,L,1
+M326,Macchi,MB-326,1,J,,L,L,1
+M339,Aermacchi,MB-339,1,J,,L,L,1
+M339,Alenia Aermacchi,MB-339,1,J,,L,L,1
+M345,LEONARDO,M-345,1,J,,L,L,1
+M345,LEONARDO,T-345,1,J,,L,L,1
+M345,SIAI-Marchetti,M-345,1,J,,L,L,1
+M346,Aermacchi,M-346 Master,2,J,,L,M,1
+M346,Aermacchi,Master,2,J,,L,M,1
+M346,Aermacchi,T-346 Master,2,J,,L,M,1
+M346,Alenia Aermacchi,M-346 Master,2,J,,L,M,1
+M346,Alenia Aermacchi,Master,2,J,,L,M,1
+M346,Alenia Aermacchi,T-346 Master,2,J,,L,M,1
+M360,Aircraft Technologies,Meyer-360,1,P,,L,L,1
+M36J,MATRA,Jupiter,2,P,,L,L,1
+M36J,MATRA,M-360 Jupiter,2,P,,L,L,1
+M4,Maule,Astro Rocket,1,P,,L,L,1
+M4,Maule,Bee Dee,1,P,,L,L,1
+M4,Maule,Jetasen,1,P,,L,L,1
+M4,Maule,M-4,1,P,,L,L,1
+M4,Maule,M-4 Astro Rocket,1,P,,L,L,1
+M4,Maule,M-4 Bee Dee,1,P,,L,L,1
+M4,Maule,M-4 Jetasen,1,P,,L,L,1
+M4,Maule,M-4 Rocket,1,P,,L,L,1
+M4,Maule,M-4 Sport 100,1,P,,L,L,1
+M4,Maule,M-4 Strata Rocket,1,P,,L,L,1
+M4,Maule,Rocket,1,P,,L,L,1
+M4,Maule,Sport 100,1,P,,L,L,1
+M4,Maule,Strata Rocket (M-4),1,P,,L,L,1
+M4,SAA,Cuauhtemoc,1,P,,L,L,1
+M4,SAA,M-1 Cuauhtemoc,1,P,,L,L,1
+M404,Martin,404,2,P,,L,M,1
+M5,Maule,Lunar Rocket,1,P,,L,L,1
+M5,Maule,M-5,1,P,,L,L,1
+M5,Maule,M-5 Lunar Rocket,1,P,,L,L,1
+M5,Maule,M-5 Patroller,1,P,,L,L,1
+M5,Maule,M-5 Strata Rocket,1,P,,L,L,1
+M5,Maule,Patroller,1,P,,L,L,1
+M5,Maule,Strata Rocket (M-5),1,P,,L,L,1
+M55,Myasishchev,Geophysica,2,J,,L,M,1
+M55,Myasishchev,M-55 Geophysica,2,J,,L,M,1
+M6,Maule,M-6 Super Rocket,1,P,,L,L,1
+M6,Maule,Super Rocket (M-6),1,P,,L,L,1
+M600,Piper,M600,1,T,,L,L,1
+M600,Piper,PA-46-600TP M600,1,T,,L,L,1
+M7,Maule,Comet,1,P,,L,L,1
+M7,Maule,M-7-235 Orion,1,P,,L,L,1
+M7,Maule,M-7-235 Super Rocket,1,P,,L,L,1
+M7,Maule,M-7-260 Orion,1,P,,L,L,1
+M7,Maule,M-7-260 Super Rocket,1,P,,L,L,1
+M7,Maule,Millenium,1,P,,L,L,1
+M7,Maule,MT-7-235 Super Rocket,1,P,,L,L,1
+M7,Maule,MT-7-260 Super Rocket,1,P,,L,L,1
+M7,Maule,MX-7-160 Sportplane,1,P,,L,L,1
+M7,Maule,MX-7-180,1,P,,L,L,1
+M7,Maule,MX-7-180 Millenium,1,P,,L,L,1
+M7,Maule,MX-7-180 Sportplane,1,P,,L,L,1
+M7,Maule,MX-7-180 Star Rocket,1,P,,L,L,1
+M7,Maule,MX-7-235 Star Rocket,1,P,,L,L,1
+M7,Maule,MXT-7-160 Comet,1,P,,L,L,1
+M7,Maule,MXT-7-180 Comet,1,P,,L,L,1
+M7,Maule,MXT-7-180 Star Craft,1,P,,L,L,1
+M7,Maule,MXT-7-180 Star Rocket,1,P,,L,L,1
+M7,Maule,Orion,1,P,,L,L,1
+M7,Maule,Sportplane,1,P,,L,L,1
+M7,Maule,Star Craft (piston),1,P,,L,L,1
+M7,Maule,Star Rocket,1,P,,L,L,1
+M7,Maule,Super Rocket (M-7/MT-7),1,P,,L,L,1
+M74,Texas Helicopter,M-74 Wasp,1,P,,H,L,1
+M74,Texas Helicopter,Wasp,1,P,,H,L,1
+M7T,Maule,M-7-420,1,T,,L,L,1
+M7T,Maule,M-7-420 Star Craft,1,T,,L,L,1
+M7T,Maule,MT-7-420,1,T,,L,L,1
+M7T,Maule,MX-7-420 Star Craft,1,T,,L,L,1
+M7T,Maule,MXT-7-420,1,T,,L,L,1
+M7T,Maule,Star Craft (turbine),1,T,,L,L,1
+M8,Maule,M-8,1,P,,L,L,1
+M9,Maule,M-9,1,P,,L,L,1
+MA1,Emair,MA-1 Paymaster,1,P,,L,L,1
+MA1,Emair,Paymaster,1,P,,L,L,1
+MA1,Emroth,Diablo,1,P,,L,L,1
+MA1,Emroth,MA-1 Diablo,1,P,,L,L,1
+MA1,Murrayair,MA-1 Paymaster,1,P,,L,L,1
+MA1,Murrayair,Paymaster,1,P,,L,L,1
+MA5,Marquart,Charger,1,P,,L,L,1
+MA5,Marquart,MA-5 Charger,1,P,,L,L,1
+MA60,Xian,MA-60,2,T,,L,M,1
+MA6H,Xian,MA-60H,2,T,,L,M,1
+MAGC,Eagle Aviation,EA-100,1,P,,L,L,1
+MAGC,Ibis Aircraft,Magic,1,P,,L,L,1
+MAGI,Miles,M-14 Magister,1,P,,L,L,1
+MAGI,Miles,Magister,1,P,,L,L,1
+MAGI,Phillips & Powis,M-14 Magister,1,P,,L,L,1
+MAGI,Phillips & Powis,Magister,1,P,,L,L,1
+MAGN,Airdale,Magnum,1,P,,L,L,1
+MAGN,Avid,Magnum,1,P,,L,L,1
+MAJR,Falconar,Cubmajor,1,P,,L,L,1
+MAJR,Luton,LA-5 Major,1,P,,L,L,1
+MAJR,Luton,Major,1,P,,L,L,1
+MAJR,Phoenix Aircraft (UK),LA-5 Major,1,P,,L,L,1
+MAJR,Phoenix Aircraft (UK),Major,1,P,,L,L,1
+MAKO,Lancair,Mako,1,P,,L,L,1
+MAMB,Melbourne,MA-2 Mamba,1,P,,L,L,1
+MAMB,Melbourne,Mamba,1,P,,L,L,1
+MAME,Aerocomp,Merlin,1,P,,L,L,1
+MAME,Blue Yonder,Merlin,1,P,,L,L,1
+MAME,Macair,Merlin,1,P,,L,L,1
+MAME,Merlin,Merlin,1,P,,L,L,1
+MARS,Martin,170 Mars,4,P,,S,M,1
+MARS,Martin,JRM Mars,4,P,,S,M,1
+MARS,Martin,Mars,4,P,,S,M,1
+MAVR,AEA,Maverick,1,P,,L,L,1
+MC01,MONTAER,MC-01,1,P,,L,L,1
+MC10,Colomban,Cricri,2,P,,L,L,1
+MC10,Colomban,MC-10 Cricri,2,P,,L,L,1
+MC10,Colomban,MC-12 Cricri,2,P,,L,L,1
+MC10,Colomban,MC-15 Cricri,2,P,,L,L,1
+MC10,Zenair,Cricri,2,P,,L,L,1
+MC10,Zenair,MC-12 Cricri,2,P,,L,L,1
+MC23,Irkut,MC-21-300,2,J,,L,M,1
+MC45,Meyers,MAC-145,1,P,,L,L,1
+MC90,Monocoupe,90,1,P,,L,L,1
+MCOU,Chris Tena,Mini Coupe,1,P,,L,L,1
+MCOY,Montana,Coyote,1,P,,L,L,1
+MCR1,Colomban,Ban-Bi,1,P,,L,L,1
+MCR1,Colomban,MC-100 Ban-Bi,1,P,,L,L,1
+MCR1,Dyn'Aero,Lafayette 1 Sportster,1,P,,L,L,1
+MCR1,Dyn'Aero,Lafayette 2 Touring,1,P,,L,L,1
+MCR1,Dyn'Aero,MCR-01,1,P,,L,L,1
+MCR4,Dyn'Aero,Lafayette 4 Revolution,1,P,,L,L,1
+MCR4,Dyn'Aero,MCR-2,1,P,,L,L,1
+MCR4,Dyn'Aero,MCR-4,1,P,,L,L,1
+MCRR,Dyn'Aero,MCR-R180,1,P,,L,L,1
+MCUL,Kimball,McCullocoupe,1,P,,L,L,1
+MD11,Boeing,MD-11,3,J,,L,H,1
+MD11,McDonnell Douglas,MD-11,3,J,,L,H,1
+MD3,Datwyler,MD-3 Swiss Trainer,1,P,,L,L,1
+MD3,Datwyler,Swiss Trainer,1,P,,L,L,1
+MD3,MDB,MD-3 Swiss Trainer,1,P,,L,L,1
+MD3,MDB,Swiss Trainer,1,P,,L,L,1
+MD3,SME,AeroTiga,1,P,,L,L,1
+MD3,SME,MD-3 AeroTiga,1,P,,L,L,1
+MD3,SME,MD-3 Tiga,1,P,,L,L,1
+MD3,SME,Tiga,1,P,,L,L,1
+MD3R,Flyitalia,MD-3 Rider,1,P,,L,L,1
+MD3R,Flyitalia,Rider,1,P,,L,L,1
+MD3R,Gryf,MD-3 Rider,1,P,,L,L,1
+MD3R,Gryf,MD-3 SportRider,1,P,,L,L,1
+MD3R,Gryf,Rider,1,P,,L,L,1
+MD3R,Gryf,SportRider,1,P,,L,L,1
+MD3R,NEXT AIRCRAFT,MD-3 Rider,1,P,,L,L,1
+MD3R,NEXT AIRCRAFT,Rider,1,P,,L,L,1
+MD52,Boeing,MD-520N,1,T,,H,L,1
+MD52,McDonnell Douglas,AH-6J,1,T,,H,L,1
+MD52,McDonnell Douglas,MD-520N,1,T,,H,L,1
+MD52,McDonnell Douglas,MD-530N,1,T,,H,L,1
+MD52,McDonnell Douglas,MH-6J,1,T,,H,L,1
+MD52,MD Helicopters,MD-520N,1,T,,H,L,1
+MD60,Boeing,MD-600N,1,T,,H,L,1
+MD60,Hongdu Md Helicopters,MD-600N,1,T,,H,L,1
+MD60,McDonnell Douglas,MD-600N,1,T,,H,L,1
+MD60,MD Helicopters,MD-600N,1,T,,H,L,1
+MD81,Boeing,MD-81,2,J,A,L,M,1
+MD81,McDonnell Douglas,MD-81,2,J,A,L,M,1
+MD82,Boeing,MD-82,2,J,A,L,M,1
+MD82,McDonnell Douglas,MD-82,2,J,A,L,M,1
+MD82,Shanghai,MD-82,2,J,A,L,M,1
+MD83,Boeing,MD-83,2,J,A,L,M,1
+MD83,McDonnell Douglas,MD-83,2,J,A,L,M,1
+MD83,Shanghai,MD-83,2,J,A,L,M,1
+MD87,Boeing,MD-87,2,J,A,L,M,1
+MD87,McDonnell Douglas,MD-87,2,J,A,L,M,1
+MD88,Boeing,MD-88,2,J,A,L,M,1
+MD88,McDonnell Douglas,MD-88,2,J,A,L,M,1
+MD90,Boeing,MD-90,2,J,A,L,M,1
+MD90,McDonnell Douglas,MD-90,2,J,A,L,M,1
+MD90,Shanghai,MD-90,2,J,A,L,M,1
+ME08,Messerschmitt,Bf-108 Taifun,1,P,,L,L,1
+ME08,Messerschmitt,Taifun,1,P,,L,L,1
+ME08,Nord,1000,1,P,,L,L,1
+ME08,Nord,1001 Pingouin 1,1,P,,L,L,1
+ME08,Nord,1002 Pingouin 2,1,P,,L,L,1
+ME08,Nord,Pingouin,1,P,,L,L,1
+ME09,Hispano,Buchon,1,P,,L,L,1
+ME09,Hispano,HA-1112 Buchon,1,P,,L,L,1
+ME09,Messerschmitt,Bf-109,1,P,,L,L,1
+ME62,Legend Flyers,Me-262,2,J,,L,L,1
+ME62,Messerschmitt,Me-262 Replica,2,J,,L,L,1
+MEAD,Mead,Adventure,1,P,,L,L,1
+MEL2,Garrison,Melmoth 2,1,P,,L,L,1
+MERK,Aviaton,Merkury,2,P,,L,L,1
+MESS,Miles,M-38 Messenger,1,P,,L,L,1
+MESS,Miles,Messenger,1,P,,L,L,1
+METR,Armstrong Whitworth,Meteor,2,J,,L,M,1
+METR,Gloster,Meteor,2,J,,L,M,1
+MEXP,Merlin,Explorer,1,P,,L,L,1
+MF10,Malmo,MFI-10 Vipan,1,P,,L,L,1
+MF10,Malmo,Vipan,1,P,,L,L,1
+MF17,Pakistan,Mushshak,1,P,,L,L,1
+MF17,Pakistan,Shahbaz,1,P,,L,L,1
+MF17,Pakistan,Super Mushshak,1,P,,L,L,1
+MF17,SAAB,MFI-15 Safari,1,P,,L,L,1
+MF17,SAAB,MFI-17 Supporter,1,P,,L,L,1
+MF17,SAAB,Safari,1,P,,L,L,1
+MF17,SAAB,Supporter,1,P,,L,L,1
+MF17,SAAB,T-17 Supporter,1,P,,L,L,1
+MG15,Aero Vodochody (Czech),CS-102,1,J,,L,L,1
+MG15,Aero Vodochody (Czech),S-102,1,J,,L,L,1
+MG15,Aero Vodochody (Czech),S-103,1,J,,L,L,1
+MG15,Mikoyan,MiG-15,1,J,,L,L,1
+MG15,Pzl-Mielec,LiM-1,1,J,,L,L,1
+MG15,Pzl-Mielec,LiM-2,1,J,,L,L,1
+MG15,Pzl-Mielec,SBLiM-1,1,J,,L,L,1
+MG15,Pzl-Mielec,SBLiM-2,1,J,,L,L,1
+MG17,Chengdu,FT-5,1,J,,L,L,1
+MG17,Chengdu,JJ-5,1,J,,L,L,1
+MG17,Mikoyan,MiG-17,1,J,,L,L,1
+MG17,Pzl-Mielec,LiM-5,1,J,,L,L,1
+MG17,Pzl-Mielec,LiM-6,1,J,,L,L,1
+MG17,Shenyang,F-5,1,J,,L,L,1
+MG17,Shenyang,FT-5,1,J,,L,L,1
+MG17,Shenyang,J-5,1,J,,L,L,1
+MG17,Shenyang,JJ-5,1,J,,L,L,1
+MG19,Guizhou,F-6,2,J,,L,M,1
+MG19,Guizhou,J-6,2,J,,L,M,1
+MG19,Mikoyan,MiG-19,2,J,,L,M,1
+MG19,Nanchang,F-6,2,J,,L,M,1
+MG19,Nanchang,J-6,2,J,,L,M,1
+MG19,Shenyang,F-6,2,J,,L,M,1
+MG19,Shenyang,J-6,2,J,,L,M,1
+MG19,Shenyang,JJ-6,2,J,,L,M,1
+MG19,Shenyang,JZ-6,2,J,,L,M,1
+MG21,Chengdu,Airguard,1,J,,L,M,1
+MG21,Chengdu,F-7,1,J,,L,M,1
+MG21,Chengdu,F-7 Airguard,1,J,,L,M,1
+MG21,Chengdu,F-7 Skybolt,1,J,,L,M,1
+MG21,Chengdu,J-7,1,J,,L,M,1
+MG21,Chengdu,Skybolt,1,J,,L,M,1
+MG21,Elbit,Lancer,1,J,,L,M,1
+MG21,Elbit,MiG-21 Lancer,1,J,,L,M,1
+MG21,Guizhou,FT-7,1,J,,L,M,1
+MG21,Guizhou,JJ-7,1,J,,L,M,1
+MG21,Hindustan,MiG-21,1,J,,L,M,1
+MG21,Mikoyan,MiG-21,1,J,,L,M,1
+MG21,SC Aerostar,Lancer,1,J,,L,M,1
+MG21,SC Aerostar,MiG-21 Lancer,1,J,,L,M,1
+MG23,Hindustan,Bahadur,1,J,,L,M,1
+MG23,Hindustan,MiG-27 Bahadur,1,J,,L,M,1
+MG23,Mikoyan,Bahadur,1,J,,L,M,1
+MG23,Mikoyan,MiG-23,1,J,,L,M,1
+MG23,Mikoyan,MiG-27,1,J,,L,M,1
+MG23,Mikoyan,MiG-27 Bahadur,1,J,,L,M,1
+MG25,Mikoyan,MiG-25,2,J,,L,M,1
+MG29,MAPO,MiG-29,2,J,,L,M,1
+MG29,MAPO,MiG-33,2,J,,L,M,1
+MG29,Mikoyan,Baaz,2,J,,L,M,1
+MG29,Mikoyan,MiG-29,2,J,,L,M,1
+MG29,Mikoyan,MiG-29 Baaz,2,J,,L,M,1
+MG29,Mikoyan,MiG-33,2,J,,L,M,1
+MG29,Mikoyan,MiG-35,2,J,,L,M,1
+MG31,MAPO,MiG-31,2,J,,L,M,1
+MG31,Mikoyan,MiG-31,2,J,,L,M,1
+MG44,Mikoyan,MiG 1-44,2,J,,L,M,1
+MGAT,MAPO,MiG-AT,1,J,,L,L,1
+MGAT,Mikoyan,MiG-AT,1,J,,L,L,1
+MGIC,Kaiser,Magic,1,P,,L,L,1
+MGIC,WZL 3,DEKO-9,1,P,,L,L,1
+MGNM,Aviation Enterprises,Magnum,1,P,,L,L,1
+MH02,Honda-Mississippi,MH-02,2,J,,L,L,1
+MH20,Mitsubishi,MH-2000,2,T,,H,L,1
+MH46,Aerosette,Eclipse,1,P,,L,L,1
+MH46,Aerosette,MH-46 Eclipse,1,P,,L,L,1
+MI10,Mil,Mi-10,2,T,,H,M,1
+MI14,Mil,Mi-14,2,T,,H,M,1
+MI2,Mil,Mi-2,2,T,,H,L,1
+MI2,Pzl-Swidnik,Bazant,2,T,,H,L,1
+MI2,Pzl-Swidnik,Kania,2,T,,H,L,1
+MI2,Pzl-Swidnik,Kitty Hawk,2,T,,H,L,1
+MI2,Pzl-Swidnik,Mi-2,2,T,,H,L,1
+MI2,Pzl-Swidnik,Mi-2 Bazant,2,T,,H,L,1
+MI2,Pzl-Swidnik,Mi-2 Kania,2,T,,H,L,1
+MI2,Pzl-Swidnik,Mi-2 Kitty Hawk,2,T,,H,L,1
+MI24,Mil,AH-2 Sabre,2,T,,H,M,1
+MI24,Mil,Caribe,2,T,,H,M,1
+MI24,Mil,Mi-24,2,T,,H,M,1
+MI24,Mil,Mi-25,2,T,,H,M,1
+MI24,Mil,Mi-35,2,T,,H,M,1
+MI24,Mil,Mi-35 Caribe,2,T,,H,M,1
+MI24,Mil,Sabre,2,T,,H,M,1
+MI26,Mil,Mi-26,2,T,,H,M,1
+MI28,Mil,Mi-28,2,T,,H,M,1
+MI34,Mil,Mi-34,1,P,,H,L,1
+MI38,Mil,Mi-38,2,T,,H,M,1
+MI4,Harbin,Xuanfeng,1,P,,H,L,1
+MI4,Harbin,Z-5,1,P,,H,L,1
+MI4,Harbin,Z-5 Xuanfeng,1,P,,H,L,1
+MI4,Mil,Mi-4,1,P,,H,L,1
+MI6,Mil,Mi-22,2,T,,H,M,1
+MI6,Mil,Mi-6,2,T,,H,M,1
+MI8,Mil,Mi-17,2,T,,H,M,1
+MI8,Mil,Mi-171,2,T,,H,M,1
+MI8,Mil,Mi-172,2,T,,H,M,1
+MI8,Mil,Mi-19,2,T,,H,M,1
+MI8,Mil,Mi-8,2,T,,H,M,1
+MI8,Mil,Mi-9,2,T,,H,M,1
+MI8,Sichuan Lantian,Mi-17,2,T,,H,M,1
+MI8,Sichuan Lantian,Mi-171,2,T,,H,M,1
+MICO,Marmande,Microjet 200,2,J,,L,L,0
+MICO,Microjet,Microjet 200,2,J,,L,L,0
+MICO,Microturbo,Microjet 200,2,J,,L,L,0
+MIDR,ACBA,ACBA-8 Midour 2,1,P,,L,L,1
+MIDR,ACBA,Midour 2,1,P,,L,L,1
+MIMP,Aerocar,Mini-Imp,1,P,,L,L,1
+MIMP,Mini-IMP,Mini-Imp,1,P,,L,L,1
+MIMP,Moulton B.Taylor,Mini-Imp,1,P,,L,L,1
+MIMU,Bushby,Midget Mustang,1,P,,L,L,1
+MIMU,Bushby,MM-1 Midget Mustang,1,P,,L,L,1
+MIMU,Long,Midget Mustang,1,P,,L,L,1
+MIMU,Long,MM-1 Midget Mustang,1,P,,L,L,1
+MIMU,Mustang,Midget Mustang,1,P,,L,L,1
+MIMU,Mustang,MM-1 Midget Mustang,1,P,,L,L,1
+MIR2,Dassault,Mirage 2000,1,J,,L,M,1
+MIR2,Dassault,Vajra,1,J,,L,M,1
+MIRA,Atlas,Cheetah,1,J,,L,M,1
+MIRA,Commonwealth Aircraft (Aus),CA-29 Mirage 3,1,J,,L,M,1
+MIRA,Commonwealth Aircraft (Aus),Mirage 3,1,J,,L,M,1
+MIRA,Dassault,F-103 Mirage 3,1,J,,L,M,1
+MIRA,Dassault,Mirage 3,1,J,,L,M,1
+MIRA,Dassault,Mirage 5,1,J,,L,M,1
+MIRA,Dassault,Mirage 50,1,J,,L,M,1
+MIRA,ENAER,50 Pantera,1,J,,L,M,1
+MIRA,ENAER,Pantera,1,J,,L,M,1
+MIRA,F+W Emmen,Mirage 3,1,J,,L,M,1
+MIRA,IAI,Dagger,1,J,,L,M,1
+MITE,Mooney,M-18 Mite,1,P,,L,L,1
+MITE,Mooney,M-18 Wee Scotsman,1,P,,L,L,1
+MITE,Mooney,Mite,1,P,,L,L,1
+MITE,Mooney,Wee Scotsman,1,P,,L,L,1
+MJ10,Jurca,MJ-10 Spit,1,P,,L,L,1
+MJ10,Jurca,Spit,1,P,,L,L,1
+MJ12,Jurca,MJ-12 P-40,1,P,,L,L,1
+MJ12,Jurca,P-40,1,P,,L,L,1
+MJ1H,Jurca,MJ-100 Spitfire Replica,1,P,,L,L,1
+MJ1H,Jurca,Spitfire Replica,1,P,,L,L,1
+MJ2,Jurca,MJ-2 Tempête,1,P,,L,L,1
+MJ2,Jurca,MJ-20 Tempête,1,P,,L,L,1
+MJ2,Jurca,MJ-22 Tempête,1,P,,L,L,1
+MJ2,Jurca,Tempête,1,P,,L,L,1
+MJ2,Siravia,MJ-22 Tempête,1,P,,L,L,1
+MJ2,Siravia,Tempête,1,P,,L,L,1
+MJ3,Jurca,Dart,1,P,,L,L,1
+MJ3,Jurca,MJ-3 Dart,1,P,,L,L,1
+MJ4,Jurca,MJ-4 Shadow,1,P,,L,L,1
+MJ4,Jurca,Shadow,1,P,,L,L,1
+MJ5,Jurca,MJ-5 Sirocco,1,P,,L,L,1
+MJ5,Jurca,Sirocco,1,P,,L,L,1
+MJ53,Jurca,Autan,1,P,,L,L,1
+MJ53,Jurca,MJ-53 Autan,1,P,,L,L,1
+MJ55,Jurca,Biso,1,P,,L,L,1
+MJ55,Jurca,MJ-55 Biso,1,P,,L,L,1
+MJ7,Boeve,P-51 Mustang,1,P,,L,L,1
+MJ7,Jurca,Gnatsum (MJ-7),1,P,,L,L,1
+MJ7,Jurca,MJ-7 Gnatsum,1,P,,L,L,1
+MJ77,Jurca,Gnatsum (MJ-77),1,P,,L,L,1
+MJ77,Jurca,MJ-77 Gnatsum,1,P,,L,L,1
+MJ8,Jurca,1-Nine-0,1,P,,L,L,1
+MJ8,Jurca,MJ-8 1-Nine-0,1,P,,L,L,1
+MJ80,Jurca,Focke-Wulf Fw-190 Replica,1,P,,L,L,1
+MJ80,Jurca,MJ-80 Focke-Wulf Fw-190 Replica,1,P,,L,L,1
+MJ9,Jurca,MJ-9,1,P,,L,L,1
+MJ90,Jurca,Messerschmitt Bf-109 Replica,1,P,,L,L,1
+MJ90,Jurca,MJ-90 Messerschmitt Bf-109 Replica,1,P,,L,L,1
+MLER,Alanne,Moottori-Lerche,1,P,,L,L,1
+MM14,Magni,M-14 Scout,1,P,,G,L,1
+MM14,Magni,Scout,1,P,,G,L,1
+MM16,Magni,M-16 Tandem Trainer,1,P,,G,L,1
+MM16,Magni,Tandem Trainer,1,P,,G,L,1
+MM19,Magni,M-19 Shark,1,P,,G,L,1
+MM19,Magni,Shark,1,P,,G,L,1
+MM21,Magni,M-21,1,P,,G,L,1
+MM22,Magni,M-22 Voyager,1,P,,G,L,1
+MM22,Magni,Voyager,1,P,,G,L,1
+MM24,Magni,M-24 Orion,1,P,,G,L,1
+MM24,Magni,Orion,1,P,,G,L,1
+MMAC,McCarley,Mini-Mac,1,P,,L,L,1
+MMAX,Mad Max Aero,Mad Max,1,P,,G,L,1
+MMUT,Mara Wing,1-L Malamut,1,P,,L,L,1
+MMUT,Mara Wing,L-1 Malamut,1,P,,L,L,1
+MMUT,Mara Wing,Malamut,1,P,,L,L,1
+MNEX,Norman,Nordic 8 Mini Explorer,1,P,,L,L,1
+MOCU,Culp,MonoCulp,1,P,,L,L,1
+MOGO,Kinetic,Mountain Goat,1,P,,L,L,1
+MOGO,Montagne,Mountain Goat,1,P,,L,L,1
+MOL1,Molniya,1,1,P,,L,L,1
+MONA,Miles,M-17 Monarch,1,P,,L,L,1
+MONA,Miles,Monarch,1,P,,L,L,1
+MONI,Monnett,Moni,1,P,,L,L,1
+MOR2,Morrisey,2000 Nifty,1,P,,L,L,1
+MOR2,Morrisey,2150,1,P,,L,L,1
+MOR2,Morrisey,Nifty,1,P,,L,L,1
+MOR2,Shinn,2150,1,P,,L,L,1
+MOR2,Varga,2150 Kachina,1,P,,L,L,1
+MOR2,Varga,Kachina,1,P,,L,L,1
+MOSP,Mong,Sport,1,P,,L,L,1
+MOSQ,De Havilland,DH-98 Mosquito,2,P,,L,M,1
+MOSQ,De Havilland,Mosquito,2,P,,L,M,1
+MOTO,Humbert,Moto Du Ciel,1,P,,L,L,1
+MP02,Aero-Kros,Czajka,1,P,,L,L,1
+MP02,Aero-Kros,MP-02 Czajka,1,P,,L,L,1
+MP20,Plan,Busard,1,P,,L,L,1
+MP20,Plan,MP-205 Busard,1,P,,L,L,1
+MP20,Plan,MP-207 Busard,1,P,,L,L,1
+MR25,Murphy,SR-2500 Super Rebel,1,P,,L,L,1
+MR25,Murphy,Super Rebel (SR-2500),1,P,,L,L,1
+MR35,Murphy,Moose,1,P,,L,L,1
+MR35,Murphy,SR-3500 Moose,1,P,,L,L,1
+MR35,Murphy,SR-3500 Super Rebel,1,P,,L,L,1
+MR35,Murphy,Super Rebel (SR-3500),1,P,,L,L,1
+MR3T,Murphy,SR-3500 T-Moose,1,T,,L,L,1
+MR3T,Murphy,T-Moose,1,T,,L,L,1
+MRAI,Monnett,Monerai P,1,P,,L,L,1
+MRAM,James B.Harmon,1-2 Mister America,1,P,,L,L,1
+MRAM,James B.Harmon,Mister America,1,P,,L,L,1
+MRF1,Dassault,Mirage F1,1,J,,L,M,1
+MRJ7,Mitsubishi,MRJ-70,2,J,,L,M,1
+MRJ9,Mitsubishi,MRJ-90,2,J,,L,M,1
+MRMD,CSA,Mermaid,1,P,,A,L,1
+MRMD,CZAW,Mermaid,1,P,,A,L,1
+MRMD,Wet Aero,M-6,1,P,,A,L,1
+MRTN,Mirage,Marathon,1,P,,L,L,1
+MS1,MySky,MS-1,1,P,,L,L,1
+MS18,SOCATA,MS-200FG Morane,1,P,,L,L,1
+MS23,Morane-Saulnier,MS-230,1,P,,L,L,1
+MS25,SOCATA,MS-200RG Morane,1,P,,L,L,1
+MS30,SOCATA,Epsilon 2,1,P,,L,L,1
+MS30,SOCATA,MS-300 Epsilon 2,1,P,,L,L,1
+MS31,Morane-Saulnier,MS-315,1,P,,L,L,1
+MS31,Morane-Saulnier,MS-317,1,P,,L,L,1
+MS73,Morane-Saulnier,Alcyon,1,P,,L,L,1
+MS73,Morane-Saulnier,MS-733 Alcyon,1,P,,L,L,1
+MS76,DINFIA,MS-760 Paris,2,J,,L,L,1
+MS76,DINFIA,Paris,2,J,,L,L,1
+MS76,Morane-Saulnier,MS-760 Paris,2,J,,L,L,1
+MS76,Morane-Saulnier,Paris,2,J,,L,L,1
+MSAI,Morane-Saulnier,AI,1,P,,L,L,1
+MSAI,Morane-Saulnier,MoS-27,1,P,,L,L,1
+MSAI,Morane-Saulnier,MoS-29,1,P,,L,L,1
+MSAI,Morane-Saulnier,MoS-30,1,P,,L,L,1
+MSQ2,Backcountry,Mackey SQ-2,1,P,,L,L,1
+MSQ2,Mackey,SQ-2,1,P,,L,L,1
+MT,AutoGyro,MT-03,1,P,,G,L,1
+MT,AutoGyro,MTOSport,1,P,,G,L,1
+MT,RotorSport,MT-03,1,P,,G,L,1
+MT,RotorSport,MTOSport,1,P,,G,L,1
+MT2,Mitsubishi,T-2,2,J,,L,M,1
+MU2,Mitsubishi,LR-1,2,T,,L,L,1
+MU2,Mitsubishi,Marquise,2,T,,L,L,1
+MU2,Mitsubishi,MU-2,2,T,,L,L,1
+MU2,Mitsubishi,MU-2 Marquise,2,T,,L,L,1
+MU2,Mitsubishi,MU-2 Solitaire,2,T,,L,L,1
+MU2,Mitsubishi,Solitaire,2,T,,L,L,1
+MU23,Akaflieg Munchen,Mü-23 Saurier,1,P,,L,L,1
+MU23,Akaflieg Munchen,Saurier,1,P,,L,L,1
+MU30,Mitsubishi,Diamond,2,J,,L,M,1
+MU30,Mitsubishi,MU-300 Diamond,2,J,,L,M,1
+MUS2,Bushby,M-2 Mustang 2,1,P,,L,L,1
+MUS2,Bushby,Mustang 2,1,P,,L,L,1
+MUS2,Mustang,M-2 Mustang 2,1,P,,L,L,1
+MUS2,Mustang,Mustang 2,1,P,,L,L,1
+MVN1,Mven,1 Fermer,1,P,,L,L,1
+MVN1,Mven,2 Fermer,1,P,,L,L,1
+MVN1,Mven,Fermer,1,P,,L,L,1
+MVN1,Mven,MV-500,1,P,,L,L,1
+MVN1,Mven,T-500,1,P,,L,L,1
+MVRK,Phoenix Aircraft (Germany),Maverick,1,P,,L,L,1
+MX10,Aerotec (Colombia),Aventura,1,P,,L,L,1
+MX10,Aerotec (Colombia),MXP-100 Aventura,1,P,,L,L,1
+MX10,Agro-Copteros,Aventura,1,P,,L,L,1
+MX10,Agro-Copteros,MXP-100 Aventura,1,P,,L,L,1
+MX1T,Aeroandina,Kimbaya,1,P,,L,L,1
+MX1T,Aeroandina,MXP-1000 Tayrona,1,P,,L,L,1
+MX1T,Aeroandina,MXP-150 Kimbaya,1,P,,L,L,1
+MX1T,Aeroandina,Tayrona,1,P,,L,L,1
+MX1T,AERO-EAST-EUROPE,MXP-155 Tayrona,1,P,,L,L,1
+MX1T,AERO-EAST-EUROPE,Tayrona,1,P,,L,L,1
+MX1T,AMD,MXP-150 Patriot,1,P,,L,L,1
+MX1T,AMD,Patriot,1,P,,L,L,1
+MX1T,WORLD AIRCRAFT,Sentinel,1,P,,L,L,1
+MX1T,WORLD AIRCRAFT,Spirit,1,P,,L,L,1
+MX1T,WORLD AIRCRAFT,Vision,1,P,,L,L,1
+MX1T,WORLD AIRCRAFT,WA-100 Spirit,1,P,,L,L,1
+MX1T,WORLD AIRCRAFT,WA-200 Vision,1,P,,L,L,1
+MX2,MXR,MX-2,1,P,,L,L,1
+MX58,Aeroandina,Embera,1,P,,L,L,1
+MX58,Aeroandina,MXP-158 Embera,1,P,,L,L,1
+MX58,AERO-EAST-EUROPE,Embera,1,P,,L,L,1
+MX58,AERO-EAST-EUROPE,MPX-158 Embera,1,P,,L,L,1
+MX65,Aerotec (Colombia),Amigo,1,P,,L,L,1
+MX65,Aerotec (Colombia),MXP-650 Amigo,1,P,,L,L,1
+MX65,Agro-Copteros,Amigo,1,P,,L,L,1
+MX65,Agro-Copteros,MXP-650 Amigo,1,P,,L,L,1
+MX80,Aeroandina,Fantasy,1,P,,L,L,1
+MX80,Aeroandina,MXP-800 Fantasy,1,P,,L,L,1
+MX80,Aerotec (Colombia),Fantasy,1,P,,L,L,1
+MX80,Aerotec (Colombia),MXP-800 Fantasy,1,P,,L,L,1
+MXS,MXR,MXS,1,P,,L,L,1
+MY12,Mylius,MY-102 Tornado,1,P,,L,L,1
+MY12,Mylius,Tornado,1,P,,L,L,1
+MY13,Mylius,Mistral,1,P,,L,L,1
+MY13,Mylius,MY-103 Mistral,1,P,,L,L,1
+MYA4,Myasishchev,3M,4,J,,L,H,1
+MYA4,Myasishchev,M-4,4,J,,L,H,1
+MYS4,Dassault,MD-454A Mystère 4A,1,J,A,L,M,1
+MYS4,Dassault,Mystère 4A,1,J,A,L,M,1

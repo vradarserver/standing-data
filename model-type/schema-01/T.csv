@@ -1,0 +1,474 @@
+﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+T1,Fuji,T-1,1,J,,L,L,1
+T1,Fuji,T1F,1,J,,L,L,1
+T10,TMM-Avia,Avia-Tor,1,P,,L,L,1
+T10,TMM-Avia,T-10 Avia-Tor,1,P,,L,L,1
+T101,Aeroprogress,Grach,1,T,,L,L,1
+T101,Aeroprogress,T-101 Grach,1,T,,L,L,1
+T134,Tupolev,Tu-134,2,J,,L,M,1
+T144,Tupolev,Tu-144,4,J,,L,H,0
+T154,Tupolev,Tu-154,3,J,,L,M,1
+T160,Tupolev,Tu-160,4,J,,L,H,1
+T18,Classic Sport,S-18,1,P,,L,L,1
+T18,Sunderland,S-18,1,P,,L,L,1
+T18,Thorp,T-18 Tiger,1,P,,L,L,1
+T18,Thorp,Tiger,1,P,,L,L,1
+T19,THK,Speedfire,1,P,,L,L,1
+T19,THK,T-19 Speedfire,1,P,,L,L,1
+T19,THK,T-19 Turkkusu,1,P,,L,L,1
+T19,THK,Turkkusu,1,P,,L,L,1
+T2,North American,Buckeye,2,J,,L,L,1
+T2,North American,T-2 Buckeye,2,J,,L,L,1
+T2,North American Rockwell,Buckeye,2,J,,L,L,1
+T2,North American Rockwell,T-2 Buckeye,2,J,,L,L,1
+T2,Rockwell,Buckeye,2,J,,L,L,1
+T2,Rockwell,T-2 Buckeye,2,J,,L,L,1
+T204,Tupolev,Tu-204,2,J,,L,M,1
+T204,Tupolev,Tu-214,2,J,,L,M,1
+T204,Tupolev,Tu-224,2,J,,L,M,1
+T204,Tupolev,Tu-234,2,J,,L,M,1
+T206,Cessna,Stationair TC,1,P,,L,L,1
+T206,Cessna,T206 Stationair TC,1,P,,L,L,1
+T206,Cessna,T206 Turbo Stationair,1,P,,L,L,1
+T206,Cessna,TP206 Turbo Super Skylane,1,P,,L,L,1
+T206,Cessna,TU206 Turbo Skywagon 206,1,P,,L,L,1
+T206,Cessna,TU206 Turbo Stationair,1,P,,L,L,1
+T206,Cessna,TU206 Turbo Stationair 6,1,P,,L,L,1
+T206,Cessna,TU206 Turbo Super Skywagon,1,P,,L,L,1
+T206,Cessna,Turbo Skywagon 206,1,P,,L,L,1
+T206,Cessna,Turbo Stationair,1,P,,L,L,1
+T206,Cessna,Turbo Stationair 6,1,P,,L,L,1
+T206,Cessna,Turbo Super Skylane,1,P,,L,L,1
+T206,Cessna,Turbo Super Skywagon,1,P,,L,L,1
+T206,Cessna,TU206 Turbo Staionair,1,P,,L,L,0
+T206,Cessna,TU206 Turbo Staionair 6,1,P,,L,L,0
+T206,Cessna,Turbo Staionair 6,1,P,,L,L,0
+T210,Cessna,T210 Turbo Centurion,1,P,,L,L,1
+T210,Cessna,Turbo Centurion,1,P,,L,L,1
+T211,AD Aerospace,T-211,1,P,,L,L,1
+T211,Adams,T-211,1,P,,L,L,1
+T211,DM Aerospace,T-211,1,P,,L,L,1
+T211,IndUS,Sky Skooter,1,P,,L,L,1
+T211,IndUS,Sport E,1,P,,L,L,1
+T211,IndUS,T-11 Sky Skooter,1,P,,L,L,1
+T211,IndUS,T-211 Sport E,1,P,,L,L,1
+T211,IndUS,T-211 Thorpedo,1,P,,L,L,1
+T211,IndUS,Thorpedo,1,P,,L,L,1
+T211,Starpac,Phoenix Flyer,1,P,,L,L,1
+T211,Taneja,T-211,1,P,,L,L,1
+T211,Thorp,T-211,1,P,,L,L,1
+T211,Venture,T-211,1,P,,L,L,1
+T22M,Tupolev,Tu-22M,2,J,,L,M,1
+T250,Anderson-Greenwood,51,1,P,,L,L,1
+T250,Anderson-Greenwood,Aries,1,P,,L,L,1
+T250,Anderson-Greenwood,T-250 Aries,1,P,,L,L,1
+T250,Bellanca,51,1,P,,L,L,1
+T250,Bellanca,Aries,1,P,,L,L,1
+T250,Bellanca,T-250 Aries,1,P,,L,L,1
+T28,Hamilton,Nomair,1,P,,L,L,1
+T28,Hamilton,T-28 Nomair,1,P,,L,L,1
+T28,North American,AT-28 Trojan,1,P,,L,L,1
+T28,North American,T-28 Trojan,1,P,,L,L,1
+T28,North American,Trojan,1,P,,L,L,1
+T28,PacAero,Nomad,1,P,,L,L,1
+T28,PacAero,T-28 Nomad,1,P,,L,L,1
+T28,Pacific Airmotive,Nomad,1,P,,L,L,1
+T28,Pacific Airmotive,T-28 Nomad,1,P,,L,L,1
+T28,Sud,Fennec,1,P,,L,L,1
+T28,Sud,T-28 Fennec,1,P,,L,L,1
+T30,Terzi,Katana,1,P,,L,L,1
+T30,Terzi,T-30 Katana,1,P,,L,L,1
+T33,Canadair,CL-30 Silver Star,1,J,,L,M,1
+T33,Canadair,CT-133 Silver Star,1,J,,L,M,1
+T33,Canadair,Silver Star,1,J,,L,M,1
+T33,Canadair,T-33 Silver Star,1,J,,L,M,1
+T33,Kawasaki,T-33,1,J,,L,M,1
+T33,Lockheed,AT-33,1,J,,L,M,1
+T33,Lockheed,L-580 Shooting Star,1,J,,L,M,1
+T33,Lockheed,L-580 T-Bird,1,J,,L,M,1
+T33,Lockheed,NT-33,1,J,,L,M,1
+T33,Lockheed,RT-33,1,J,,L,M,1
+T33,Lockheed,Shooting Star,1,J,,L,M,1
+T33,Lockheed,T-33 Shooting Star,1,J,,L,M,1
+T33,Lockheed,T-33 T-Bird,1,J,,L,M,1
+T33,Lockheed,T-Bird,1,J,,L,M,1
+T334,Tupolev,Tu-334,2,J,,L,M,1
+T34P,Beech,45 Mentor,1,P,,L,L,1
+T34P,Beech,Mentor,1,P,,L,L,1
+T34P,Beech,T-34A Mentor,1,P,,L,L,1
+T34P,Beech,T-34B Mentor,1,P,,L,L,1
+T34P,CCF,Mentor,1,P,,L,L,1
+T34P,CCF,T-34 Mentor,1,P,,L,L,1
+T34P,DINFIA,Mentor,1,P,,L,L,1
+T34P,DINFIA,T-34 Mentor,1,P,,L,L,1
+T34P,Fuji,KM-2B Mentor,1,P,,L,L,1
+T34P,Fuji,Mentor,1,P,,L,L,1
+T34P,Fuji,T-3 Mentor,1,P,,L,L,1
+T34P,Fuji,T-34 Mentor,1,P,,L,L,1
+T34T,Beech,T-34C Turbo Mentor,1,T,,L,L,1
+T34T,Beech,Turbo Mentor,1,T,,L,L,1
+T34T,Fuji,T-3Kai,1,T,,L,L,1
+T35,Temco,Buckaroo,1,P,,L,L,1
+T35,Temco,T-35 Buckaroo,1,P,,L,L,1
+T35,Temco,TE-1 Buckaroo,1,P,,L,L,1
+T37,Cessna,318A,2,J,,L,L,1
+T37,Cessna,318B,2,J,,L,L,1
+T37,Cessna,318C,2,J,,L,L,1
+T37,Cessna,T-37,2,J,,L,L,1
+T38,Northrop,AT-38 Talon,2,J,,L,L,1
+T38,Northrop,N-156T Talon,2,J,,L,L,1
+T38,Northrop,T-38 Talon,2,J,,L,L,1
+T38,Northrop,Talon,2,J,,L,L,1
+T4,Kawasaki,T-4,2,J,,L,M,1
+T40,Turner,T-40,1,P,,L,L,1
+T411,Aeroprogress,Aist-2,1,P,,L,L,1
+T411,Aeroprogress,T-411 Aist-2,1,P,,L,L,1
+T411,Khrunichev,Aist,1,P,,L,L,1
+T411,Khrunichev,T-411 Aist,1,P,,L,L,1
+T411,Khrunichev,T-411 Wolverine,1,P,,L,L,1
+T411,Khrunichev,Wolverine,1,P,,L,L,1
+T415,Khrunichev,Snegir,1,P,,L,L,1
+T415,Khrunichev,T-415 Snegir,1,P,,L,L,1
+T419,Khrunichev,AT-419 Strekoza,1,P,,L,L,1
+T419,Khrunichev,Strekoza,1,P,,L,L,1
+T5,Fuji,KM-2D,1,T,,L,L,1
+T5,Fuji,KM-2Kai,1,T,,L,L,1
+T5,Fuji,T-5,1,T,,L,L,1
+T50,Cessna,AT-17 Bobcat,2,P,,L,L,1
+T50,Cessna,AT-8 Bobcat,2,P,,L,L,1
+T50,Cessna,Bobcat,2,P,,L,L,1
+T50,Cessna,Crane,2,P,,L,L,1
+T50,Cessna,T-50 Bobcat,2,P,,L,L,1
+T50,Cessna,UC-78 Bobcat,2,P,,L,L,1
+T50S,Sukhoi,T-50,2,J,,L,M,0
+T51,Titan,Mustang,1,P,,L,L,1
+T51,Titan,T-51 Mustang,1,P,,L,L,1
+T6,CCF,Harvard,1,P,,L,L,1
+T6,CCF,T-6 Harvard,1,P,,L,L,1
+T6,Noorduyn,AT-16 Harvard,1,P,,L,L,1
+T6,Noorduyn,Harvard,1,P,,L,L,1
+T6,North American,AT-6 Texan,1,P,,L,L,1
+T6,North American,BC-1,1,P,,L,L,1
+T6,North American,Harvard,1,P,,L,L,1
+T6,North American,SNJ Texan,1,P,,L,L,1
+T6,North American,T-6 Texan,1,P,,L,L,1
+T6,North American,Texan,1,P,,L,L,1
+T7,Fuji,T-7,1,T,,L,L,1
+TA15,Taylorcraft (US),15 Foursome,1,P,,L,L,1
+TA15,Taylorcraft (US),15 Tourist,1,P,,L,L,1
+TA15,Taylorcraft (US),Foursome,1,P,,L,L,1
+TA15,Taylorcraft (US),Tourist,1,P,,L,L,1
+TA16,Thurston,Seafire,1,P,,A,L,1
+TA16,Thurston,TA-16 Seafire,1,P,,A,L,1
+TA16,Thurston,TA-16 Trojan,1,P,,A,L,1
+TA16,Thurston,Trojan,1,P,,A,L,1
+TA20,Taylorcraft (US),20 Ranchwagon,1,P,,L,L,1
+TA20,Taylorcraft (US),20 Seabird,1,P,,L,L,1
+TA20,Taylorcraft (US),20 Topper,1,P,,L,L,1
+TA20,Taylorcraft (US),20 Zephyr 400,1,P,,L,L,1
+TA20,Taylorcraft (US),Ranchwagon,1,P,,L,L,1
+TA20,Taylorcraft (US),Seabird,1,P,,L,L,1
+TA20,Taylorcraft (US),Topper,1,P,,L,L,1
+TA20,Taylorcraft (US),Zephyr 400,1,P,,L,L,1
+TAA1,Scaled,TAA-1,1,P,,L,L,1
+TAA1,Toyota,TAA-1,1,P,,L,L,1
+TAGO,Team Tango,Tango-2,1,P,,L,L,1
+TAIL,Aircraft Spruce,Tailwind,1,P,,L,L,1
+TAIL,Aircraft Spruce,W-10 Tailwind,1,P,,L,L,1
+TAIL,AJEP,Tailwind,1,P,,L,L,1
+TAIL,AJEP,W-8 Tailwind,1,P,,L,L,1
+TAIL,Wittman,Tailwind,1,P,,L,L,1
+TAIL,Wittman,W-10 Tailwind,1,P,,L,L,1
+TAIL,Wittman,W-8 Tailwind,1,P,,L,L,1
+TAIL,Wittman,W-9 Tailwind,1,P,,L,L,1
+TAMP,SOCATA,Tampico,1,P,,L,L,1
+TAMP,SOCATA,TB-9 Tampico,1,P,,L,L,1
+TARO,Anahuac,Tauro,1,P,,L,L,1
+TARR,PELEGRIN,Tarragon,1,P,,L,L,1
+TAYA,Taylorcraft (US),A,1,P,,L,L,1
+TAYA,Taylor-Young,A,1,P,,L,L,1
+TAYB,Swick,Swick-T,1,P,,L,L,1
+TAYB,Taylorcraft (US),Ace,1,P,,L,L,1
+TAYB,Taylorcraft (US),BC,1,P,,L,L,1
+TAYB,Taylorcraft (US),BC Ace,1,P,,L,L,1
+TAYB,Taylorcraft (US),BC Sportsman,1,P,,L,L,1
+TAYB,Taylorcraft (US),BC Traveller,1,P,,L,L,1
+TAYB,Taylorcraft (US),BC Twosome,1,P,,L,L,1
+TAYB,Taylorcraft (US),BF,1,P,,L,L,1
+TAYB,Taylorcraft (US),BL,1,P,,L,L,1
+TAYB,Taylorcraft (US),Sportsman (BC),1,P,,L,L,1
+TAYB,Taylorcraft (US),Traveller,1,P,,L,L,1
+TAYB,Taylorcraft (US),Twosome,1,P,,L,L,1
+TAYB,Taylor-Young,BC,1,P,,L,L,1
+TAYB,Taylor-Young,BF,1,P,,L,L,1
+TAYB,Taylor-Young,BL,1,P,,L,L,1
+TAYD,Taylorcraft (US),DC,1,P,,L,L,1
+TAYD,Taylorcraft (US),DCO,1,P,,L,L,1
+TAYD,Taylorcraft (US),DF,1,P,,L,L,1
+TAYD,Taylorcraft (US),DL,1,P,,L,L,1
+TAYD,Taylorcraft (US),L-2,1,P,,L,L,1
+TAYD,Taylorcraft (US),O-57,1,P,,L,L,1
+TB05,AMC,Texas Bullet 205,1,P,,L,L,1
+TB20,Shijiazhuang,LE-500 Little Eagle,1,P,,L,L,1
+TB20,Shijiazhuang,LE-500 Xiaoying,1,P,,L,L,1
+TB20,Shijiazhuang,Little Eagle,1,P,,L,L,1
+TB20,Shijiazhuang,Xiaoying,1,P,,L,L,1
+TB20,SOCATA,Pashosh,1,P,,L,L,1
+TB20,SOCATA,TB-20 Pashosh,1,P,,L,L,1
+TB20,SOCATA,TB-20 Trinidad,1,P,,L,L,1
+TB20,SOCATA,Trinidad,1,P,,L,L,1
+TB21,SOCATA,TB-21 Trinidad TC,1,P,,L,L,1
+TB21,SOCATA,Trinidad TC,1,P,,L,L,1
+TB30,Aerospatiale,Epsilon,1,P,,L,L,1
+TB30,Aerospatiale,TB-30 Epsilon,1,P,,L,L,1
+TB30,OGMA,Epsilon,1,P,,L,L,1
+TB30,OGMA,TB-30 Epsilon,1,P,,L,L,1
+TB30,SOCATA,Epsilon,1,P,,L,L,1
+TB30,SOCATA,TB-30 Epsilon,1,P,,L,L,1
+TB31,SOCATA,Omega,1,T,,L,L,1
+TB31,SOCATA,TB-31 Omega,1,T,,L,L,1
+TBEE,United Consultant,Twin Bee,2,P,,A,L,1
+TBEE,United Consultant,UC-1 Twin Bee,2,P,,A,L,1
+TBM,General Motors,Avenger,1,P,,L,M,1
+TBM,General Motors,TBM Avenger,1,P,,L,M,1
+TBM,Grumman,Avenger,1,P,,L,M,1
+TBM,Grumman,G-40 Avenger,1,P,,L,M,1
+TBM,Grumman,TBF Avenger,1,P,,L,M,1
+TBM7,SOCATA,TBM-700A,1,T,,L,L,1
+TBM7,SOCATA,TBM-700B,1,T,,L,L,1
+TBM7,SOCATA,TBM-700C,1,T,,L,L,1
+TBM7,TBM,TBM-700,1,T,,L,L,1
+TBM7,TBM,TBM-700A,1,T,,L,L,1
+TBM7,SOCATA,TBM-700,1,T,,L,L,0
+TBM8,SOCATA,TBM-700N (TBM-850),1,T,,L,L,1
+TBM8,SOCATA,TBM-850,1,T,,L,L,1
+TBM9,DAHER,TBM-700N (TBM-910),1,T,,L,L,1
+TBM9,DAHER,TBM-700N (TBM-930),1,T,,L,L,1
+TBM9,DAHER,TBM-700N (TBM-940),1,T,,L,L,1
+TBM9,DAHER,TBM-910,1,T,,L,L,1
+TBM9,DAHER,TBM-930,1,T,,L,L,1
+TBM9,DAHER,TBM-940,1,T,,L,L,1
+TBM9,SOCATA,TBM-700N (TBM-900),1,T,,L,L,1
+TBM9,SOCATA,TBM-700N (TBM-910),1,T,,L,L,1
+TBM9,SOCATA,TBM-700N (TBM-930),1,T,,L,L,1
+TBM9,SOCATA,TBM-900,1,T,,L,L,1
+TBM9,SOCATA,TBM-910,1,T,,L,L,1
+TBM9,SOCATA,TBM-930,1,T,,L,L,1
+TBR3,Golden Circle,T-Bird 2 Cargo,1,P,,L,L,1
+TBR3,Golden Circle,T-Bird 3,1,P,,L,L,1
+TC2,Aero Mirage,TC-2,1,P,,L,L,1
+TCAT,Grumman,F7F Tigercat,2,P,,L,M,1
+TCAT,Grumman,G-51 Tigercat,2,P,,L,M,1
+TCAT,Grumman,Tigercat,2,P,,L,M,1
+TCOU,Helio,H-500 Twin Courier,2,P,,L,L,1
+TCOU,Helio,Twin Courier,2,P,,L,L,1
+TCOU,Helio,U-5 Twin Courier,2,P,,L,L,1
+TD1,Taiwan Dancer,TD-1,1,P,,L,L,1
+TD2,Turbine Design,TD-2 Tempest,1,T,,L,L,1
+TD2,Turbine Design,Tempest,1,T,,L,L,1
+TD3,Taiwan Dancer,Alluvion Legend,1,P,,L,L,1
+TD3,Taiwan Dancer,TD-3 Alluvion Legend,1,P,,L,L,1
+TEAL,Schweizer,Teal,1,P,,A,L,1
+TEAL,Schweizer,TSC-1 Teal,1,P,,A,L,1
+TEAL,Teal,Teal,1,P,,A,L,1
+TEAL,Teal,TSC-1 Teal,1,P,,A,L,1
+TEAL,Thurston,Teal,1,P,,A,L,1
+TEAL,Thurston,TSC-1 Teal,1,P,,A,L,1
+TERM,Wilbur L.Smith,Termite,1,P,,L,L,1
+TERR,Foxcon,Terrier,1,P,,L,L,1
+TEX2,Beechcraft,3000 Texan 2,1,T,,L,L,1
+TEX2,Beechcraft,AT-6 Texan 2,1,T,,L,L,1
+TEX2,Beechcraft,AT-6 Wolverine,1,T,,L,L,1
+TEX2,Beechcraft,T-6 Texan 2,1,T,,L,L,1
+TEX2,Beechcraft,Texan 2,1,T,,L,L,1
+TEX2,Beechcraft,Wolverine,1,T,,L,L,1
+TEX2,Hawker Beechcraft,AT-6 Texan 2,1,T,,L,L,1
+TEX2,Hawker Beechcraft,Efroni,1,T,,L,L,1
+TEX2,Hawker Beechcraft,T-6 Efroni,1,T,,L,L,1
+TEX2,Hawker Beechcraft,T-6 Texan 2,1,T,,L,L,1
+TEX2,Hawker Beechcraft,Texan 2,1,T,,L,L,1
+TEX2,Raytheon,3000 Harvard 2,1,T,,L,L,1
+TEX2,Raytheon,3000 Texan 2,1,T,,L,L,1
+TEX2,Raytheon,CT-156 Harvard 2,1,T,,L,L,1
+TEX2,Raytheon,Harvard 2,1,T,,L,L,1
+TEX2,Raytheon,T-6 Texan 2,1,T,,L,L,1
+TEX2,Raytheon,Texan 2,1,T,,L,L,1
+TEXA,Fly Synthesis,Texan,1,P,,L,L,1
+TF19,Taylorcraft (US),19 Sportsman,1,P,,L,L,1
+TF19,Taylorcraft (US),F-19 Sportsman,1,P,,L,L,1
+TF19,Taylorcraft (US),Sportsman (F-19),1,P,,L,L,1
+TF21,Taylor Kits,T-Kraft,1,P,,L,L,1
+TF21,Taylorcraft (US),F-21,1,P,,L,L,1
+TF22,Taylorcraft (US),Classic,1,P,,L,L,1
+TF22,Taylorcraft (US),F-22 Classic,1,P,,L,L,1
+TF22,Taylorcraft (US),F-22 Ranger,1,P,,L,L,1
+TF22,Taylorcraft (US),F-22 Tracker,1,P,,L,L,1
+TF22,Taylorcraft (US),F-22 Tri-Classic,1,P,,L,L,1
+TF22,Taylorcraft (US),F-22 Trooper,1,P,,L,L,1
+TF22,Taylorcraft (US),Ranger,1,P,,L,L,1
+TF22,Taylorcraft (US),Tracker,1,P,,L,L,1
+TF22,Taylorcraft (US),Tri-Classic,1,P,,L,L,1
+TF22,Taylorcraft (US),Trooper,1,P,,L,L,1
+TFK2,Ams-Flight,Carat,1,P,,L,L,1
+TFK2,Technoflug,Carat,1,P,,L,L,1
+TFK2,Technoflug,TFK-2 Carat,1,P,,L,L,1
+TFOC,Thunder Wings,Focke-Wulf Fw-190,1,P,,L,L,1
+TFUN,TWI,Taifun,1,P,,L,L,1
+TFUN,Valentin,Taifun,1,P,,L,L,1
+TGRS,Lancair,Tigress,1,P,,L,L,1
+TIAD,TRIKE ICAROS,Adventure,1,P,,L,L,1
+TIGR,Airbus Helicopters,EC-665 Tiger,2,T,,H,L,1
+TIGR,Airbus Helicopters,EC-665 Tigre,2,T,,H,L,1
+TIGR,Airbus Helicopters,Tiger,2,T,,H,L,1
+TIGR,Airbus Helicopters,Tigre,2,T,,H,L,1
+TIGR,Australian Aerospace,EC-665 Tiger,2,T,,H,L,1
+TIGR,Australian Aerospace,Tiger,2,T,,H,L,1
+TIGR,Eurocopter,EC-665 Tiger,2,T,,H,L,1
+TIGR,Eurocopter,EC-665 Tigre,2,T,,H,L,1
+TIGR,Eurocopter,Tiger,2,T,,H,L,1
+TIGR,Eurocopter,Tigre,2,T,,H,L,1
+TIJU,Avions Fairey,Tipsy Junior,1,P,,L,L,1
+TIJU,Tipsy,Junior,1,P,,L,L,1
+TIPB,Avions Fairey,Tipsy B,1,P,,L,L,1
+TIPB,Avions Fairey,Tipsy BC,1,P,,L,L,1
+TIPB,Avions Fairey,Tipsy Belfair,1,P,,L,L,1
+TIPB,Avions Fairey,Tipsy Trainer,1,P,,L,L,1
+TIPB,Brian Allen,Tipsy B,1,P,,L,L,1
+TIPB,Brian Allen,Tipsy Trainer,1,P,,L,L,1
+TIPB,Tipsy,B,1,P,,L,L,1
+TIPB,Tipsy,BC,1,P,,L,L,1
+TIPB,Tipsy,Belfair,1,P,,L,L,1
+TIPB,Tipsy,Trainer,1,P,,L,L,1
+TJET,Maverick,Leader,2,J,,L,L,1
+TJET,Maverick,TJ-1500 Leader,2,J,,L,L,1
+TJET,Maverick,TJ-1500 TwinJet,2,J,,L,L,1
+TJET,Maverick,TwinJet,2,J,,L,L,1
+TJET,TAM,TAM-Jet,2,J,,L,L,1
+TL20,TL Ultralight,Star,1,P,,L,L,1
+TL20,TL Ultralight,StarSport,1,P,,L,L,1
+TL20,TL Ultralight,Sting,1,P,,L,L,1
+TL20,TL Ultralight,StingSport,1,P,,L,L,1
+TL20,TL Ultralight,TL-2000 Sting,1,P,,L,L,1
+TL20,TL Ultralight,TL-2000 StingSport,1,P,,L,L,1
+TL20,TL Ultralight,TL-96 Star,1,P,,L,L,1
+TL20,TL Ultralight,TL-96 StarSport,1,P,,L,L,1
+TL20,TL Ultralight,TL-96 Sting,1,P,,L,L,1
+TL20,TL Ultralight,TL-2000  Sting,1,P,,L,L,0
+TL30,TL Ultralight,Sirius,1,P,,L,L,1
+TL30,TL Ultralight,TL-3000 Sirius,1,P,,L,L,1
+TLEG,Legend,Turbine Legend,1,T,,L,L,1
+TLEG,Performance,Turbine Legend,1,T,,L,L,1
+TM5,TM Aircraft,TM-5,1,P,,L,L,1
+TMOT,Fisher,R-80 Tiger Moth,1,P,,L,L,1
+TMOT,Fisher,RS-80 Tiger Moth,1,P,,L,L,1
+TMOT,Fisher,Tiger Moth,1,P,,L,L,1
+TMUS,Papa 51,Thunder Mustang,1,P,,L,L,1
+TNAV,Camair,480 Twin Navion,2,P,,L,L,1
+TNAV,Camair,Twin Navion,2,P,,L,L,1
+TNAV,Riley,55 Twin Navion,2,P,,L,L,1
+TNAV,Riley,Twin Navion,2,P,,L,L,1
+TNAV,Temco,D-16 Twin Navion,2,P,,L,L,1
+TNAV,Temco,Twin Navion,2,P,,L,L,1
+TNDR,Dream,Tundra,1,P,,L,L,1
+TOBA,SOCATA,TB-10 Tobago,1,P,,L,L,1
+TOBA,SOCATA,TB-200 Tobago,1,P,,L,L,1
+TOBA,SOCATA,Tobago,1,P,,L,L,1
+TOOT,Meyer,Little Toot,1,P,,L,L,1
+TOR,Aeritalia,Tornado,2,J,,L,M,1
+TOR,BAC,Tornado,2,J,,L,M,1
+TOR,British Aerospace,Tornado,2,J,,L,M,1
+TOR,MBB,Tornado,2,J,,L,M,1
+TOR,Panavia,Tornado,2,J,,L,M,1
+TOUR,AESL,Airtourer,1,P,,L,L,1
+TOUR,GLOS AIR,Glos-Airtourer,1,P,,L,L,1
+TOUR,Millicer,AirTourer,1,P,,L,L,1
+TOUR,Millicer,M-10 AirTourer,1,P,,L,L,1
+TOUR,Victa,Airtourer,1,P,,L,L,1
+TOXO,CAG (1),Toxo,1,P,,L,L,1
+TOXO,CAG,Toxo,1,P,,L,L,0
+TP40,Thunder Wings,Curtiss P-40,1,P,,L,L,1
+TPIL,ENAER,Aucán,1,T,,L,L,1
+TPIL,ENAER,T-35DT Turbo Pillán,1,T,,L,L,1
+TPIL,ENAER,T-35TX Aucán,1,T,,L,L,1
+TPIL,ENAER,Turbo Pillán,1,T,,L,L,1
+TPIN,Scottish Aviation,Twin Pioneer,2,P,,L,L,1
+TR1,Trident,TR-1 Trigull,1,P,,A,L,1
+TR1,Trident,Trigull,1,P,,A,L,1
+TR20,Feugray,TR-200,1,P,,L,L,1
+TR20,Tech'Aero,TR-200,1,P,,L,L,1
+TR26,Feugray,Sirius,1,P,,L,L,1
+TR26,Feugray,TR-260 Sirius,1,P,,L,L,1
+TR55,3Xtrim,3X-55 Trener,1,P,,L,L,1
+TR55,3Xtrim,3X-LS Navigator 600,1,P,,L,L,1
+TR55,3Xtrim,550 Trener,1,P,,L,L,1
+TR55,3Xtrim,Navigator 600,1,P,,L,L,1
+TR55,3Xtrim,Trener,1,P,,L,L,1
+TRAL,Groppo,Trail,1,P,,L,L,1
+TRAL,Groppo,Trial,1,P,,L,L,0
+TRAP,Capella,T-Raptor,1,P,,L,L,1
+TRBA,Podesva,Trener Baby,1,P,,L,L,1
+TRDO,Titan,Tornado SS,1,P,,L,L,1
+TRF1,Team Rocket,F-1,1,P,,L,L,1
+TRIM,Ford,4-AT Tri-Motor,3,P,,L,L,1
+TRIM,Ford,5-AT Tri-Motor,3,P,,L,L,1
+TRIM,Ford,Tri-Motor,3,P,,L,L,1
+TRIN,Shijiazhuang,LE-500 Little Eagle,1,P,,L,L,0
+TRIS,Anglo Normandy,BN-2A Mk3 Trislander,3,P,,L,L,1
+TRIS,Anglo Normandy,Trislander,3,P,,L,L,1
+TRIS,Avions Fairey,BN-2A Mk3 Trislander,3,P,,L,L,1
+TRIS,Avions Fairey,Trislander,3,P,,L,L,1
+TRIS,Britten-Norman,BN-2A Mk3 Trislander,3,P,,L,L,1
+TRIS,Britten-Norman,Trislander,3,P,,L,L,1
+TRIS,Pilatus Britten-Norman,BN-2A Mk3 Trislander,3,P,,L,L,1
+TRIS,Pilatus Britten-Norman,Trislander,3,P,,L,L,1
+TRMA,Stinson,A Tri-Motor,3,P,,L,L,1
+TRMA,Stinson,Tri-Motor (A),3,P,,L,L,1
+TRWN,Pacific Airmotive,Tradewind,2,P,,L,L,1
+TS11,Pzl-Mielec,Iskra,1,J,,L,L,1
+TS11,Pzl-Mielec,TS-11 Iskra,1,J,,L,L,1
+TS14,Test,Bonus,1,P,,L,L,1
+TS14,Test,TST-14 Bonus,1,P,,L,L,1
+TS1J,Jonker,JS-1TJ Revelation,1,J,,L,L,1
+TS1J,Jonker,Revelation,1,J,,L,L,1
+TS8,Pzl-Mielec,Bies,1,P,,L,L,1
+TS8,Pzl-Mielec,TS-8 Bies,1,P,,L,L,1
+TSPT,Thunder Wings,Supermarine Spitfire,1,P,,L,L,1
+TSTN,Terrafugia,Transition,1,P,,L,L,1
+TSTR,Air & Space,Twinstar,1,P,,G,L,1
+TSTR,Farrington,Twinstar,1,P,,G,L,1
+TT62,High Performance Aircraft (Germany),Alekto,2,P,,L,L,0
+TT62,High Performance Aircraft (Germany),TT-62 Alekto,2,P,,L,L,0
+TTRS,Humbert,Tetras,1,P,,L,L,1
+TTWO,Parker,Teenie Two,1,P,,L,L,1
+TU16,Tupolev,Tu-16,2,J,,L,M,1
+TU16,Xian,H-6,2,J,,L,M,1
+TU22,Tupolev,Tu-22,2,J,,L,M,1
+TU4,Tupolev,Tu-4,4,T,,L,M,0
+TU95,Tupolev,Tu-142,4,T,,L,H,1
+TU95,Tupolev,Tu-20,4,T,,L,H,1
+TU95,Tupolev,Tu-95,4,T,,L,H,1
+TUCA,AOI,EMB-312 Tucano,1,T,,L,L,1
+TUCA,AOI,Tucano,1,T,,L,L,1
+TUCA,Embraer,A-27 Tucano,1,T,,L,L,1
+TUCA,Embraer,EMB-312 Tucano,1,T,,L,L,1
+TUCA,Embraer,EMB-312F Tucano,1,T,,L,L,1
+TUCA,Embraer,T-27 Tucano,1,T,,L,L,1
+TUCA,Embraer,Tucano,1,T,,L,L,1
+TUCA,Short,S-312 Tucano,1,T,,L,L,1
+TUCA,Short,Tucano,1,T,,L,L,1
+TUL3,Podesva,Amigo,1,P,,L,L,1
+TUL3,Podesva,TUL-03 Amigo,1,P,,L,L,1
+TUTR,Avro,621 Tutor,1,P,,L,L,1
+TUTR,Avro,Tutor,1,P,,L,L,1
+TVL4,Travel Air,4,1,P,,L,L,1
+TVL4,Travel Air,4000,1,P,,L,L,1
+TVLB,Bel-Aire,2000,1,P,,L,L,1
+TVLB,Travel Air,2000,1,P,,L,L,1
+TVLB,Travel Air,B,1,P,,L,L,1
+TWEN,Tecnam,P-2010 Twenty-Ten,1,P,,L,L,1
+TWEN,Tecnam,Twenty-Ten,1,P,,L,L,1
+TWIR,Dyn'Aero,Twin-R,2,P,,L,L,1
+TWSP,Time Warp,Spitfire,1,P,,L,L,1
+TWST,SILENCE,Twister,1,P,,L,L,1
+TZRV,IRIAF,JT-2-2 Tazarve,1,J,,L,L,1
+TZRV,IRIAF,Tazarve,1,J,,L,L,1
