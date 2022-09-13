@@ -1,4 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 758063,RP-C8600,A319,Airbus,A319-112,Airbus A319-112,0,Philippine Airlines,PAL,2878,2006
 758600,RP-C1079,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0202,
+75869F,RP-C4125,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Cebu Pacific,CEB,10224,2021
+7586B0,RP-C4126,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Cebu Pacific,CEB,10273,2021
+7586D7,RP-C4130,A20N,Airbus,A320-271N,Airbus A320-271N,0,Cebu Pacific,CEB,10663,2021
+7586FC,RP-C4127,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Cebu Pacific,CEB,10943,2022
+7586FF,RP-C4132,A20N,Airbus,A320-271N,Airbus A320-271N,0,Cebu Pacific,CEB,10794,2022
 758701,RP-C3778,B350,Beechcraft,B300 King Air 360,Beechcraft B300 King Air 360,1,Private,,FL-1280,
