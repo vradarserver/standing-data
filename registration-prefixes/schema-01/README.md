@@ -8,7 +8,7 @@ There is one file: `reg-prefixes.csv`
 
 The file is a comma-separated value file. Strings are optionally
 delimited with double-quotes. Commas within quoted strings are
-ignored. Double quotes within quotes strings are escaped with
+ignored. Double quotes within quoted strings are escaped with
 a second double quote.
 
 The first row contains column headings.
