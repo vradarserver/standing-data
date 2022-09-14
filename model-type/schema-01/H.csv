@@ -23,17 +23,17 @@ H207,HB-Flugtechnik,HB-207 Alfa,1,P,,L,L,1
 H21,Vertol,42 Work Horse,1,P,,H,L,1
 H21,Vertol,CH-21 Work horse,1,P,,H,L,1
 H21,Vertol,Work Horse,1,P,,H,L,1
-H25A,De Havilland,DH-125,2,J,A,L,M,1
-H25A,Hawker Siddeley,Dominie,2,J,A,L,M,1
-H25A,Hawker Siddeley,EC-93,2,J,A,L,M,1
-H25A,Hawker Siddeley,EU-93,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-1,2,J,A,L,M,1
-H25A,Hawker Siddeley,HS-125-2 Dominie,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-3,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-400,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-600,2,J,A,L,M,1
-H25A,Hawker Siddeley,VC-93,2,J,A,L,M,1
-H25A,Hawker Siddeley,VU-93,2,J,A,L,M,1
+H25A,De Havilland,DH-125,2,J,A,L,M,0
+H25A,Hawker Siddeley,Dominie,2,J,A,L,M,0
+H25A,Hawker Siddeley,EC-93,2,J,A,L,M,0
+H25A,Hawker Siddeley,EU-93,2,J,A,L,M,0
+H25A,Hawker Siddeley,HS-125-2 Dominie,2,J,A,L,M,0
+H25A,Hawker Siddeley,VC-93,2,J,A,L,M,0
+H25A,Hawker Siddeley,VU-93,2,J,A,L,M,0
 H25B,British Aerospace,BAe-125-700,2,J,A,L,M,1
 H25B,British Aerospace,BAe-125-800,2,J,A,L,M,1
 H25B,British Aerospace,C-29,2,J,A,L,M,1
@@ -45,6 +45,7 @@ H25B,Hawker Beechcraft,Hawker 900,2,J,A,L,M,1
 H25B,Hawker Siddeley,HS-125-700,2,J,A,L,M,1
 H25B,Raytheon,Hawker 800,2,J,A,L,M,1
 H25B,Raytheon,Hawker 850,2,J,A,L,M,1
+H25B,Raytheon,IU-93,2,J,A,L,M,1
 H25B,Raytheon,U-125,2,J,A,L,M,1
 H25B,Hawker Beechcraft,Hawker 800,2,J,A,L,L,0
 H25C,British Aerospace,BAe-125-1000,2,J,,L,M,1
@@ -116,12 +117,12 @@ H47,Boeing Vertol,CH-47 Chinook,2,T,,H,M,1
 H47,Boeing Vertol,Chinook,2,T,,H,M,1
 H47,Boeing Vertol,JCH-47 Chinook,2,T,,H,M,1
 H47,Boeing Vertol,MH-47 Chinook,2,T,,H,M,1
-H47,FINMECCANICA,Chinook,2,T,,H,M,1
-H47,FINMECCANICA,ICH-47 Chinook,2,T,,H,M,1
+H47,Finmeccanica,Chinook,2,T,,H,M,1
+H47,Finmeccanica,ICH-47 Chinook,2,T,,H,M,1
 H47,Kawasaki,CH-47 Chinook,2,T,,H,M,1
 H47,Kawasaki,Chinook,2,T,,H,M,1
-H47,LEONARDO,Chinook,2,T,,H,M,1
-H47,LEONARDO,ICH-47 Chinook,2,T,,H,M,1
+H47,Leonardo,Chinook,2,T,,H,M,1
+H47,Leonardo,ICH-47 Chinook,2,T,,H,M,1
 H47,Meridionali,CH-47 Chinook,2,T,,H,M,1
 H47,Meridionali,Chinook,2,T,,H,M,1
 H500,Agusta,NH-500,1,T,,H,L,1
@@ -360,6 +361,7 @@ HF20,MBB,HFB-320 Hansa,2,J,,L,M,1
 HI27,Hirth,Acrostar,1,P,,L,L,1
 HI27,Hirth,Hi-27 Acrostar,1,P,,L,L,1
 HIGH,Just,Highlander,1,P,,L,L,1
+HIGH,Just,JA20 Highlander,1,P,,L,L,1
 HIND,Hawker,Hind,1,P,,L,L,1
 HL2,Lambach,HL-2 Replica,1,P,,L,L,1
 HLD4,Halberstadt,D-4 Replica,1,P,,L,L,1
@@ -372,7 +374,7 @@ HORN,Wallerkowski,Hornisse,1,P,,L,L,1
 HORZ,Fisher,Horizon,1,P,,L,L,1
 HORZ,Fisher Aero,Horizon,1,P,,L,L,1
 HPTR,Idea,Hydropteron,1,P,,A,L,1
-HPZL,Historical Aircraft,PZL P-11C,1,P,,L,L,1
+HPZL,Historical Aircraft,PZL P-11C,1,P,,L,L,0
 HR10,Robin,HR-100 President,1,P,,L,L,1
 HR10,Robin,HR-100 Royal,1,P,,L,L,1
 HR10,Robin,HR-100 Safari,1,P,,L,L,1
@@ -391,8 +393,8 @@ HRNT,AAK,Hornet,1,P,,L,L,1
 HROC,D & J Harmon,Rocket,1,P,,L,L,1
 HRON,IAI,Harfang,1,P,,L,L,1
 HRON,IAI,Heron,1,P,,L,L,1
-HRYA,Historical Aircraft,Ryan Trainer,1,P,,L,L,1
-HSMT,ROTORSMART,HeliSmart,1,P,,H,L,1
+HRYA,Historical Aircraft,Ryan Trainer,1,P,,L,L,0
+HSMT,Rotorsmart,HeliSmart,1,P,,H,L,1
 HT16,Hindustan,HJT-16 Kiran,1,J,,L,L,1
 HT16,Hindustan,Kiran,1,J,,L,L,1
 HT2,Hindustan,HT-2,1,P,,L,L,1
@@ -433,4 +435,4 @@ HW4P,Groen,Hawk 4,1,P,,G,L,1
 HW4T,Groen,Jet Hawk 4T,1,T,,G,L,1
 HX2,Helowerks,HX-2 Wasp,1,T,,H,L,1
 HX2,Helowerks,Wasp,1,T,,H,L,1
-HYPR,P&M AVIATION,HypR,1,P,,L,L,1
+HYPR,P&M Aviation,HypR,1,P,,L,L,1

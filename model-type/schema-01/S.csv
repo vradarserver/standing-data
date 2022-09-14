@@ -35,9 +35,9 @@ S11,Fokker,Instructor,1,P,,L,L,1
 S11,Fokker,S-11 Instructor,1,P,,L,L,1
 S12,Spencer,Air Car,1,P,,A,L,1
 S12,Spencer,S-12 Air Car,1,P,,A,L,1
-S122,SKYLINE,Pchelka,2,P,,L,L,1
-S122,SKYLINE,SL-122 Pchelka,2,P,,L,L,1
-S122,SKYLINE,SL-122  Pchelka,2,P,,L,L,0
+S122,Skyline,Pchelka,2,P,,L,L,1
+S122,Skyline,SL-122 Pchelka,2,P,,L,L,1
+S122,Skyline,SL-122  Pchelka,2,P,,L,L,0
 S12S,Stemme,S-12 Twin Voyager,1,P,,L,L,1
 S12S,Stemme,Twin Voyager,1,P,,L,L,1
 S15S,Stemme,S-15,1,P,,L,L,1
@@ -127,7 +127,7 @@ S400,SGAU,S-400 Kapitan,2,P,,S,L,1
 S434,Sikorsky,S-434,1,T,,H,L,1
 S45,Partenair,Mystere,1,P,,L,L,1
 S45,Partenair,S-45 Mystere,1,P,,L,L,1
-S450,AERO-EAST-EUROPE,SILA-450,1,P,,L,L,1
+S450,Aero-East-Europe,SILA-450,1,P,,L,L,1
 S51,Sikorsky,H-5,1,P,,H,L,1
 S51,Sikorsky,HO3S,1,P,,H,L,1
 S51,Sikorsky,R-5,1,P,,H,L,1
@@ -195,6 +195,7 @@ S61,Sikorsky,SH-3 Sea King,2,T,,H,M,1
 S61,Sikorsky,UH-3 Sea King,2,T,,H,M,1
 S61,Sikorsky,VH-3 Sea King,2,T,,H,M,1
 S61,United Canada,CH-124 Sea King,2,T,,H,M,1
+S61,United Canada,Sea King,2,T,,H,M,1
 S61,Westland,Commando,2,T,,H,M,1
 S61,Westland,Sea King,2,T,,H,M,1
 S61,Westland,WS-61 Commando,2,T,,H,M,1
@@ -362,9 +363,6 @@ SBR1,North American,NA-265 Sabreliner 50,2,J,,L,M,1
 SBR1,North American,NA-265 Sabreliner 60,2,J,,L,M,1
 SBR1,North American,NT-39 Sabreliner,2,J,,L,M,1
 SBR1,North American,Sabreliner,2,J,,L,M,1
-SBR1,North American,Sabreliner 40,2,J,,L,M,1
-SBR1,North American,Sabreliner 50,2,J,,L,M,1
-SBR1,North American,Sabreliner 60,2,J,,L,M,1
 SBR1,North American,T-39 Sabreliner,2,J,,L,M,1
 SBR1,North American,Tp86 Sabreliner,2,J,,L,M,1
 SBR1,North American Rockwell,CT-39 Sabreliner,2,J,,L,M,1
@@ -373,8 +371,6 @@ SBR1,North American Rockwell,NA-265 Sabreliner 60,2,J,,L,M,1
 SBR1,North American Rockwell,Sabre 40,2,J,,L,M,1
 SBR1,North American Rockwell,Sabre 60,2,J,,L,M,1
 SBR1,North American Rockwell,Sabreliner,2,J,,L,M,1
-SBR1,North American Rockwell,Sabreliner 40,2,J,,L,M,1
-SBR1,North American Rockwell,Sabreliner 60,2,J,,L,M,1
 SBR1,North American Rockwell,T-39 Sabreliner,2,J,,L,M,1
 SBR1,North American Rockwell,Tp86 Sabreliner,2,J,,L,M,1
 SBR1,Rockwell,NA-265 Sabre 40,2,J,,L,M,1
@@ -383,6 +379,11 @@ SBR1,Rockwell,NA-265 Sabre 65,2,J,,L,M,1
 SBR1,Rockwell,Sabre 40,2,J,,L,M,1
 SBR1,Rockwell,Sabre 60,2,J,,L,M,1
 SBR1,Rockwell,Sabre 65,2,J,,L,M,1
+SBR1,North American,Sabreliner 40,2,J,,L,M,0
+SBR1,North American,Sabreliner 50,2,J,,L,M,0
+SBR1,North American,Sabreliner 60,2,J,,L,M,0
+SBR1,North American Rockwell,Sabreliner 40,2,J,,L,M,0
+SBR1,North American Rockwell,Sabreliner 60,2,J,,L,M,0
 SBR2,North American Rockwell,NA-265 Sabre 75,2,J,,L,M,1
 SBR2,North American Rockwell,Sabre 75,2,J,,L,M,1
 SBR2,Rockwell,NA-265 Sabre 75,2,J,,L,M,1
@@ -478,7 +479,7 @@ SGRA,SG Aviation,Rally,1,P,,L,L,1
 SGRA,Stormaircraft,Rally,1,P,,L,L,1
 SGUP,Aero Spacelines,377SGT Super Guppy,4,T,,L,M,1
 SGUP,Aero Spacelines,Super Guppy,4,T,,L,M,1
-SH09,KOPTER,SH-09,1,T,,H,L,1
+SH09,Kopter,SH-09,1,T,,H,L,1
 SH33,Short,330,2,T,,L,M,1
 SH33,Short,C-23 Sherpa,2,T,,L,M,1
 SH33,Short,SD3-30,2,T,,L,M,1
@@ -515,6 +516,7 @@ SILH,Silhouette,Silhouette,1,P,,L,L,1
 SIR2,Rhein,Sirius 2,1,P,,L,L,1
 SIRA,Tecnam,P-2002,1,P,,L,L,1
 SIRA,Tecnam,P-2002 Sierra,1,P,,L,L,1
+SIRA,Tecnam,P-Mentor,1,P,,L,L,1
 SIRA,Tecnam,Sierra,1,P,,L,L,1
 SJ30,Emivest,SJ-30,2,J,,L,L,1
 SJ30,Sino Swearingen,SJ-30,2,J,,L,L,1
@@ -549,17 +551,17 @@ SLCH,Scaled,351 Stratolaunch,6,J,,L,H,1
 SLCH,Scaled,Stratolaunch,6,J,,L,H,1
 SLG2,Airplane Factory,Sling 2,1,P,,L,L,1
 SLG2,Airplane Factory,Sling LSA,1,P,,L,L,1
-SLG2,SLING AIRCRAFT,Sling 2,1,P,,L,L,1
-SLG2,SLING AIRCRAFT,Sling LSA,1,P,,L,L,1
-SLG2,SONACA,S-2,1,P,,L,L,1
-SLG2,SONACA,S-200,1,P,,L,L,1
-SLG2,SONACA,S-201,1,P,,L,L,1
-SLG2,SONACA,200,1,P,,L,L,0
+SLG2,Sling Aircraft,Sling 2,1,P,,L,L,1
+SLG2,Sling Aircraft,Sling LSA,1,P,,L,L,1
+SLG2,Sonaca,S-2,1,P,,L,L,1
+SLG2,Sonaca,S-200,1,P,,L,L,1
+SLG2,Sonaca,S-201,1,P,,L,L,1
+SLG2,Sonaca,200,1,P,,L,L,0
 SLG4,Airplane Factory,Sling 4,1,P,,L,L,1
 SLG4,Airplane Factory,Sling 4 TSi,1,P,,L,L,1
-SLG4,SLING AIRCRAFT,Sling 4,1,P,,L,L,1
-SLG4,SLING AIRCRAFT,Sling 4 TSi,1,P,,L,L,1
-SLH4,SLING AIRCRAFT,Sling 4 High Wing,1,P,,L,L,1
+SLG4,Sling Aircraft,Sling 4,1,P,,L,L,1
+SLG4,Sling Aircraft,Sling 4 TSi,1,P,,L,L,1
+SLH4,Sling Aircraft,Sling 4 High Wing,1,P,,L,L,1
 SLK3,Slick,360,1,P,,L,L,1
 SLK5,Slick,540,1,P,,L,L,1
 SM01,Stern-Mallick,SM-01 Vega,1,P,,L,L,1
@@ -611,8 +613,10 @@ SOL2,Solar Impulse,2,4,E,,L,L,1
 SOLI,Rutan,77 Solitaire,1,P,,L,L,1
 SOLI,Rutan,Solitaire,1,P,,L,L,1
 SONX,Sonex,Sonex,1,P,,L,L,1
-SORA,ACS,ACS-100 Sora,1,P,,L,L,1
-SORA,ACS,Sora,1,P,,L,L,1
+SORA,ACS (1),ACS-100 Sora,1,P,,L,L,1
+SORA,ACS (1),Sora,1,P,,L,L,1
+SORA,ACS,ACS-100 Sora,1,P,,L,L,0
+SORA,ACS,Sora,1,P,,L,L,0
 SP20,Lanshe,SP-26,1,P,,L,L,1
 SP20,Micco,SP-20,1,P,,L,L,1
 SP20,Micco,SP-26,1,P,,L,L,1
@@ -649,7 +653,7 @@ SPST,Rearwin,8500 Sportster,1,P,,L,L,1
 SPST,Rearwin,9000 Sportster,1,P,,L,L,1
 SPST,Rearwin,Sportster,1,P,,L,L,1
 SPT1,Spitfire,Mark 1,1,P,,L,L,0
-SPUP,AIRDROME AEROPLANES,Sopwith Pup Replica,1,P,,L,L,1
+SPUP,Airdrome Aeroplanes,Sopwith Pup Replica,1,P,,L,L,1
 SPUP,Sopwith,Pup,1,P,,L,L,1
 SPUP,Sopwith,Pup Replica,1,P,,L,L,1
 SQ2T,Glassic,SQ-2000,1,P,,L,L,1
@@ -732,6 +736,10 @@ SS2T,Thrush,Turbo Thrush 550,1,T,,L,L,1
 SSAB,North American,F-100 Super Sabre,1,J,,L,M,1
 SSAB,North American,Super Sabre,1,J,,L,M,1
 SSC,Butterfly,Super Sky Cycle,1,P,,G,L,1
+SSTL,Just,JA30 SuperSTOL,1,P,,L,L,1
+SSTL,Just,JA35 SuperSTOL XL,1,P,,L,L,1
+SSTL,Just,SuperSTOL,1,P,,L,L,1
+SSTL,Just,SuperSTOL XL,1,P,,L,L,1
 SSTM,SG Aviation,Sea Storm,1,P,,A,L,1
 ST1,Phillips,Speedtwin,2,P,,L,L,1
 ST1,Phillips,ST-1 Speedtwin,2,P,,L,L,1
@@ -847,6 +855,9 @@ SUCO,Panha,2091,2,T,,H,M,1
 SUNB,Verilite,100 Sunbird,1,P,,L,L,1
 SUNB,Verilite,Sunbird,1,P,,L,L,1
 SUNV,Fokker,Super Universal,1,P,,L,L,1
+SURN,Korea Aerospace,KUH-1 Surion,2,T,,H,M,1
+SURN,Korea Aerospace,Marineon,2,T,,H,M,1
+SURN,Korea Aerospace,MUH-1 Marineon,2,T,,H,M,1
 SURN,Korea Aerospace,Surion,2,T,,H,M,1
 SURU,IPT,IPT-16 Surubim,1,P,,L,L,1
 SURU,IPT,Surubim,1,P,,L,L,1
@@ -879,7 +890,6 @@ SW3,Swearingen,SA-226T Merlin 3,2,T,,L,L,1
 SW3,Swearingen,SA-226TB Merlin 3,2,T,,L,L,1
 SW4,Fairchild,C-26 Metro,2,T,,L,L/M,1
 SW4,Fairchild,Expediter,2,T,,L,L/M,1
-SW4,Fairchild,Merlin 23,2,T,,L,L/M,1
 SW4,Fairchild,Merlin 4,2,T,,L,L/M,1
 SW4,Fairchild,Metro,2,T,,L,L/M,1
 SW4,Fairchild,RC-26 Metro,2,T,,L,L/M,1
@@ -906,6 +916,7 @@ SW4,Swearingen,Merlin 4,2,T,,L,L/M,1
 SW4,Swearingen,Metro,2,T,,L,L/M,1
 SW4,Swearingen,SA-226AT Merlin 4,2,T,,L,L/M,1
 SW4,Swearingen,SA-226TC Metro,2,T,,L,L/M,1
+SW4,Fairchild,Merlin 23,2,T,,L,L/M,0
 SWAK,Anglin,Space Walker 1,1,P,,L,L,1
 SWAK,Anglin,Space Walker 2,1,P,,L,L,1
 SWAK,Warner,Revolution 1,1,P,,L,L,1

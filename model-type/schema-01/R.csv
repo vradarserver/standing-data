@@ -8,7 +8,9 @@ R109,Kimball,Rhino,1,P,,L,L,1
 R109,Rihn,DR-109 Rhino,1,P,,L,L,1
 R109,Rihn,Rhino,1,P,,L,L,1
 R11,Rupert,R-11,1,P,,L,L,1
+R135,Boeing,Airseeker,4,J,,L,H,1
 R135,Boeing,RC-135,4,J,,L,H,1
+R135,Boeing,RC-135 Airseeker,4,J,,L,H,1
 R135,Boeing,TC-135,4,J,,L,H,1
 R185,Johnson,Rocket 185,1,P,,L,L,1
 R185,Rocket,Rocket 185,1,P,,L,L,1
@@ -95,6 +97,7 @@ RALL,SOCATA,Galopin,1,P,,L,L,1
 RALL,SOCATA,Garnement,1,P,,L,L,1
 RALL,SOCATA,Gaucho,1,P,,L,L,1
 RALL,SOCATA,Guerrier,1,P,,L,L,1
+RALL,SOCATA,Minerva,1,P,,L,L,1
 RALL,SOCATA,MS-880 Rallye 100,1,P,,L,L,1
 RALL,SOCATA,MS-880 Rallye Club,1,P,,L,L,1
 RALL,SOCATA,MS-883 Rallye 115,1,P,,L,L,1
@@ -181,9 +184,9 @@ RGNT,Neiva,L-42 Regente,1,P,,L,L,1
 RGNT,Neiva,N-591 Regente,1,P,,L,L,1
 RGNT,Neiva,N-592 Regente,1,P,,L,L,1
 RGNT,Neiva,Regente,1,P,,L,L,1
-RISN,PORTO,Risen,1,P,,L,L,1
-RISN,PORTO,Siren,1,P,,L,L,1
-RISN,SWISS EXCELLENCE,Risen,1,P,,L,L,1
+RISN,Porto,Risen,1,P,,L,L,1
+RISN,Porto,Siren,1,P,,L,L,1
+RISN,Swiss Excellence,Risen,1,P,,L,L,1
 RJ03,Junqua,Ibis,1,P,,L,L,1
 RJ03,Junqua,RJ-03 Ibis,1,P,,L,L,1
 RJ1H,Aero International,Avroliner (RJ-100),4,J,,L,M,1
@@ -274,7 +277,7 @@ RW3,Rhein,RW-3 Multoplane,1,P,,L,L,1
 RW3,Rhein,RW-3 Passat,1,P,,L,L,1
 RW3,Rhein-West-Flug,Multoplane,1,P,,L,L,1
 RW3,Rhein-West-Flug,RW-3 Multoplane,1,P,,L,L,1
-RYSA,PROGRESS,Rysachok,2,T,,L,L,1
+RYSA,Progress,Rysachok,2,T,,L,L,1
 RYSA,Technoavia,Rysachok,2,T,,L,L,1
 RYST,Ryan,PT-20,1,P,,L,L,1
 RYST,Ryan,ST-A,1,P,,L,L,1

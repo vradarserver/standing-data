@@ -1,5 +1,6 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
 I103,Ilyushin,Il-103,1,P,,L,L,1
+I112,Ilyushin,Il-112,2,T,,L,M,1
 I114,Ilyushin,Il-114,2,T,,L,M,1
 I115,AISA,I-115,1,P,,L,L,1
 I11B,AISA,I-11B Peque,1,P,,L,L,1
@@ -20,15 +21,15 @@ I23,Pzl-Swidnik,Manager,1,P,,L,L,1
 I3,Interavia,I-3,1,P,,L,L,1
 I66,Iannotta,I-66 San Francisco,1,P,,L,L,1
 I66,Iannotta,San Francisco,1,P,,L,L,1
-I828,ICA,IAR-828,1,T,,L,L,1
+I828,ICA,IAR-828,1,T,,L,L,0
 IA46,DINFIA,IA-46 Ranquel,1,P,,L,L,1
 IA46,DINFIA,IA-46 Super Ranquel,1,P,,L,L,1
 IA46,DINFIA,Ranquel,1,P,,L,L,1
 IA46,DINFIA,Super Ranquel,1,P,,L,L,1
-IA50,DINFIA,Guarani 2,2,T,,L,M,1
-IA50,DINFIA,IA-50 Guarani 2,2,T,,L,M,1
-IA50,FMA,Guarani 2,2,T,,L,M,1
-IA50,FMA,IA-50 Guarani 2,2,T,,L,M,1
+IA50,DINFIA,Guarani 2,2,T,,L,M,0
+IA50,DINFIA,IA-50 Guarani 2,2,T,,L,M,0
+IA50,FMA,Guarani 2,2,T,,L,M,0
+IA50,FMA,IA-50 Guarani 2,2,T,,L,M,0
 IA51,DINFIA,IA-51 Tehuelche,1,P,,L,L,1
 IA51,DINFIA,Tehuelche,1,P,,L,L,1
 IA51,FMA,IA-51 Tehuelche,1,P,,L,L,1

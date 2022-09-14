@@ -1,6 +1,7 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
 W11,Wolf,Boredom Fighter,1,P,,L,L,1
 W11,Wolf,W-11 Boredom Fighter,1,P,,L,L,1
+W135,Boeing,WC-135R,4,J,,L,H,1
 W201,Weatherly,201,1,P,,L,L,1
 W201,Weatherly,620,1,P,,L,L,1
 W201,Weatherly,620B,1,P,,L,L,1
@@ -19,8 +20,8 @@ W3,Pzl-Swidnik,W-3 Gipsowka,2,T,,H,L,1
 W3,Pzl-Swidnik,W-3 Gluszec,2,T,,H,L,1
 W3,Pzl-Swidnik,W-3 Huzar,2,T,,H,L,1
 W3,Pzl-Swidnik,W-3 Sokól,2,T,,H,L,1
-W5BC,LUCEAIR,Buttercup Replica,1,P,,L,L,1
-W5BC,LUCEAIR,W-5 Buttercup Replica,1,P,,L,L,1
+W5BC,Luceair,Buttercup Replica,1,P,,L,L,1
+W5BC,Luceair,W-5 Buttercup Replica,1,P,,L,L,1
 W5BC,Wittman,Buttercup,1,P,,L,L,1
 W5BC,Wittman,Buttercup Replica,1,P,,L,L,1
 W5BC,Wittman,W-5 Buttercup,1,P,,L,L,1
@@ -137,14 +138,14 @@ WESX,Westland,WS-58 Wessex,2,T,,H,L,1
 WF4U,War,Vought F4U Corsair,1,P,,L,L,1
 WFOC,War,Focke-Wulf 190,1,P,,L,L,1
 WFUR,War,Hawker Sea Fury,1,P,,L,L,1
-WG30,Westland,30,2,T,,H,L,1
-WG30,Westland,WG-30,2,T,,H,L,1
+WG30,Westland,30,2,T,,H,L,0
+WG30,Westland,WG-30,2,T,,H,L,0
 WH1,Wendt,Traveler,1,P,,L,L,1
 WH1,Wendt,WH-1 Traveler,1,P,,L,L,1
-WH4,BAYLES,Lightning,1,T,,L,L,1
-WH4,HALL,Harpoon,1,T,,L,L,1
-WH4,HALL,WH-4 Harpoon,1,T,,L,L,1
-WH4,HALL,WH-6 Harpoon,1,T,,L,L,1
+WH4,Bayles,Lightning,1,T,,L,L,1
+WH4,Hall,Harpoon,1,T,,L,L,1
+WH4,Hall,WH-4 Harpoon,1,T,,L,L,1
+WH4,Hall,WH-6 Harpoon,1,T,,L,L,1
 WHAT,Whatley,Special,1,P,,L,L,1
 WHIL,Reflex,White Lightning,1,P,,L,L,1
 WHIL,Reflex,WLAC-1 White Lightning,1,P,,L,L,1
@@ -189,6 +190,8 @@ WP47,War,Republic P-47 Thunderbolt,1,P,,L,L,1
 WS22,Spring,Sprint,1,P,,L,L,1
 WS22,Spring,WS-202 Sprint,1,P,,L,L,1
 WSP,AAK,Wasp,1,P,,L,L,1
+WT10,Aerospool,Advantic,1,P,,L,L,1
+WT10,Aerospool,WT-10 Advantic,1,P,,L,L,1
 WT9,Aerospool,Dynamic,1,P,,L,L,1
 WT9,Aerospool,WT-9 Dynamic,1,P,,L,L,1
 WUSH,Wüst,Seagle,1,P,,A,L,1

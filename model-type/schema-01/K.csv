@@ -1,4 +1,6 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+K100,Daher,Kodiak 100,1,T,,L,L,1
+K100,Quest,Kodiak 100,1,T,,L,L,1
 K126,ICA,Ka-126,1,T,,H,L,1
 K126,Kamov,Ka-126,1,T,,H,L,1
 K209,Fama,K-209 KISS,1,T,,H,L,1
@@ -66,9 +68,9 @@ KERO,Rearwin,2000 Ken-Royce,1,P,,L,L,1
 KERO,Rearwin,Ken-Royce,1,P,,L,L,1
 KEST,Farnborough,F-1 Kestrel,1,T,,L,L,1
 KEST,Farnborough,Kestrel,1,T,,L,L,1
-KFAB,KITPLANES FOR AFRICA,Bushbaby,1,P,,L,L,1
-KFAB,KITPLANES FOR AFRICA,Explorer,1,P,,L,L,1
-KFAS,KITPLANES FOR AFRICA,Safari,1,P,,L,L,1
+KFAB,Kitplanes For Africa,Bushbaby,1,P,,L,L,1
+KFAB,Kitplanes For Africa,Explorer,1,P,,L,L,1
+KFAS,Kitplanes For Africa,Safari,1,P,,L,L,1
 KFIR,IAI,Kfir,1,J,,L,M,1
 KFIS,Anderson,EA-1 Kingfisher,1,P,,A,L,1
 KFIS,Anderson,Kingfisher,1,P,,A,L,1
@@ -81,8 +83,8 @@ KIS2,Tri-R,KIS TR-1,1,P,,L,L,1
 KIS4,Pulsar,Super Cruiser,1,P,,L,L,1
 KIS4,Tri-R,Cruiser,1,P,,L,L,1
 KIS4,Tri-R,KIS TR-4 Cruiser,1,P,,L,L,1
-KITH,BOURDON,Kitty Hawk,1,P,,L,L,1
-KITH,VIKING (3),Kitty Hawk,1,P,,L,L,1
+KITH,Bourdon,Kitty Hawk,1,P,,L,L,1
+KITH,Viking (3),Kitty Hawk,1,P,,L,L,1
 KITI,Mitchell-Procter,Kittiwake,1,P,,L,L,1
 KIWI,TWI,Kiwi,1,P,,L,L,1
 KIWI,Valentin,Kiwi,1,P,,L,L,1
@@ -93,7 +95,7 @@ KL07,Bolkow,F-207,1,P,,L,L,1
 KL07,Bolkow,Kl-107,1,P,,L,L,1
 KL07,Klemm,Kl-107,1,P,,L,L,1
 KL07,Nabern,Kl-107,1,P,,L,L,1
-KL10,FLIGHT DESIGN-VESSEL,KLA-100,1,P,,L,L,1
+KL10,Flight Design-Vessel,KLA-100,1,P,,L,L,1
 KL25,Klemm,L-25,1,P,,L,L,1
 KL35,Klemm,Kl-35,1,P,,L,L,1
 KLBR,Kolb,King Colbra,1,P,,L,L,1
@@ -106,8 +108,8 @@ KMAX,Kaman,K-1200 K-Max,1,T,,H,L,1
 KMAX,Kaman,K-Max,1,T,,H,L,1
 KNTW,Payne,Knight Twister,1,P,,L,L,1
 KNTW,Payne,Sunday Knight Twister,1,P,,L,L,1
-KODI,DAHER,Kodiak,1,T,,L,L,1
-KODI,Quest,Kodiak,1,T,,L,L,1
+KODI,Daher,Kodiak,1,T,,L,L,0
+KODI,Quest,Kodiak,1,T,,L,L,0
 KOLL,Kolb,Laser,1,P,,L,L,1
 KP2,Jihlavan,KP-2 Rapid 200,1,P,,L,L,1
 KP2,Jihlavan,KP-2 Skyleader 150,1,P,,L,L,1
@@ -117,12 +119,16 @@ KP2,Jihlavan,Skyleader 150,1,P,,L,L,1
 KP2,Jihlavan,Skyleader 200,1,P,,L,L,1
 KP2,Kappa,KP-2 Sova,1,P,,L,L,1
 KP2,Kappa,Sova,1,P,,L,L,1
+KP2,Zall Jihlavan,KP-2 Skyleader 200,1,P,,L,L,1
+KP2,Zall Jihlavan,Skyleader 200,1,P,,L,L,1
 KP5,Jihlavan,KP-5 Rapid 500,1,P,,L,L,1
 KP5,Jihlavan,KP-5 Skyleader 500,1,P,,L,L,1
-KP5,Jihlavan,KP-5 Skyleader 600,1,P,,L,L,1
 KP5,Jihlavan,Rapid 500,1,P,,L,L,1
 KP5,Jihlavan,Skyleader 500,1,P,,L,L,1
-KP5,Jihlavan,Skyleader 600,1,P,,L,L,1
+KP5,Zall Jihlavan,KP-5 Skyleader 500,1,P,,L,L,1
+KP5,Zall Jihlavan,Skyleader 500,1,P,,L,L,1
+KP5,Jihlavan,KP-5 Skyleader 600,1,P,,L,L,0
+KP5,Jihlavan,Skyleader 600,1,P,,L,L,0
 KR1,Rand,KR-1,1,P,,L,L,1
 KR2,Rand,KR-2,1,P,,L,L,1
 KR21,Fairchild,KR-21,1,P,,L,L,1

@@ -1,12 +1,12 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
-Q01,REINER STEMME,Q-01,1,P,,L,L,1
-Q1,GENERAL ATOMICS,Grey Eagle,1,P,,L,L,1
-Q1,GENERAL ATOMICS,MQ-1 Gray Eagle,1,P,,L,L,1
-Q1,GENERAL ATOMICS,MQ-1 Predator,1,P,,L,L,1
-Q1,GENERAL ATOMICS,MQ-1 Warrior,1,P,,L,L,1
-Q1,GENERAL ATOMICS,Predator,1,P,,L,L,1
-Q1,GENERAL ATOMICS,RQ-1 Predator,1,P,,L,L,1
-Q1,GENERAL ATOMICS,Warrior,1,P,,L,L,1
+Q01,Reiner Stemme,Q-01,1,P,,L,L,1
+Q1,General Atomics,Grey Eagle,1,P,,L,L,1
+Q1,General Atomics,MQ-1 Gray Eagle,1,P,,L,L,1
+Q1,General Atomics,MQ-1 Predator,1,P,,L,L,1
+Q1,General Atomics,MQ-1 Warrior,1,P,,L,L,1
+Q1,General Atomics,Predator,1,P,,L,L,1
+Q1,General Atomics,RQ-1 Predator,1,P,,L,L,1
+Q1,General Atomics,Warrior,1,P,,L,L,1
 Q25,Boeing,MQ-25 Stingray,1,J,,L,M,1
 Q25,Boeing,Stingray,1,J,,L,M,1
 Q4,Northrop Grumman,EQ-4 Global Hawk,1,J,,L,M,1
@@ -20,14 +20,14 @@ Q5,Hongdu,A-5,2,J,,L,M,1
 Q5,Hongdu,Q-5,2,J,,L,M,1
 Q5,Nanchang,A-5,2,J,,L,M,1
 Q5,Nanchang,Q-5,2,J,,L,M,1
-Q9,GENERAL ATOMICS,Guardian,1,T,,L,L,1
-Q9,GENERAL ATOMICS,Ikhana,1,T,,L,L,1
-Q9,GENERAL ATOMICS,MQ-9 Guardian,1,T,,L,L,1
-Q9,GENERAL ATOMICS,MQ-9 Ikhana,1,T,,L,L,1
-Q9,GENERAL ATOMICS,MQ-9 Predator B,1,T,,L,L,1
-Q9,GENERAL ATOMICS,MQ-9 Reaper,1,T,,L,L,1
-Q9,GENERAL ATOMICS,Predator B,1,T,,L,L,1
-Q9,GENERAL ATOMICS,Reaper,1,T,,L,L,1
+Q9,General Atomics,Guardian,1,T,,L,L,1
+Q9,General Atomics,Ikhana,1,T,,L,L,1
+Q9,General Atomics,MQ-9 Guardian,1,T,,L,L,1
+Q9,General Atomics,MQ-9 Ikhana,1,T,,L,L,1
+Q9,General Atomics,MQ-9 Predator B,1,T,,L,L,1
+Q9,General Atomics,MQ-9 Reaper,1,T,,L,L,1
+Q9,General Atomics,Predator B,1,T,,L,L,1
+Q9,General Atomics,Reaper,1,T,,L,L,1
 QAIL,Aerosport,Quail,1,P,,L,L,1
 QALT,FMP,Qualt,1,P,,L,L,1
 QEST,Omni-Weld,Questor,1,P,,L,L,1
@@ -36,5 +36,5 @@ QIC2,Quickie,Quickie Q200,1,P,,L,L,1
 QINT,Schempp-Hirth,Quintus,1,P,,L,L,1
 QR01,Quercy,CQR-01,1,P,,L,L,1
 QUAS,Aeroalcool,Quasar Lite,1,P,,L,L,1
-QUAS,QUASAR,Quasar Lite,1,P,,L,L,1
+QUAS,Quasar,Quasar Lite,1,P,,L,L,1
 QUIC,Quickie,Quickie,1,P,,L,L,1

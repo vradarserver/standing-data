@@ -9,10 +9,10 @@ C06T,Cessna,206 (turbine),1,T,,L,L,1
 C06T,Soloy,Turbine 206,1,T,,L,L,1
 C07T,Cessna,207 (turbine),1,T,,L,L,1
 C07T,Soloy,Turbine 207,1,T,,L,L,1
-C08T,Soloy,208 Dual-Pac Caravan,C,T,,L,L,1
-C08T,Soloy,208 Pathfinder 21,C,T,,L,L,1
-C08T,Soloy,Dual-Pac Caravan,C,T,,L,L,1
-C08T,Soloy,Pathfinder 21,C,T,,L,L,1
+C08T,Soloy,208 Dual-Pac Caravan,C,T,,L,L,0
+C08T,Soloy,208 Pathfinder 21,C,T,,L,L,0
+C08T,Soloy,Dual-Pac Caravan,C,T,,L,L,0
+C08T,Soloy,Pathfinder 21,C,T,,L,L,0
 C1,Kawasaki,C-1,2,J,,L,M,1
 C1,Kawasaki,EC-1,2,J,,L,M,1
 C101,CASA,A-36 Halcón,1,J,,L,L,1
@@ -101,13 +101,14 @@ C130,Lockheed Martin,L-382 Hercules,4,T,,L,M,0
 C133,Douglas,C-133 Cargomaster,4,T,,L,M,0
 C133,Douglas,Cargomaster,4,T,,L,M,0
 C135,Boeing,NC-135,4,J,,L,H,1
-C135,Boeing,OC-135,4,J,,L,H,1
-C135,Boeing,WC-135,4,J,,L,H,1
+C135,Boeing,WC-135W,4,J,,L,H,1
 C135,Boeing,NC-135,2,J,,L,H,0
+C135,Boeing,OC-135,4,J,,L,H,0
+C135,Boeing,WC-135,4,J,,L,H,0
 C140,Cessna,140,1,P,,L,L,1
-C141,Lockheed,C-141 Starlifter,4,J,,L,H,1
-C141,Lockheed,L-300 Starlifter,4,J,,L,H,1
-C141,Lockheed,Starlifter,4,J,,L,H,1
+C141,Lockheed,C-141 Starlifter,4,J,,L,H,0
+C141,Lockheed,L-300 Starlifter,4,J,,L,H,0
+C141,Lockheed,Starlifter,4,J,,L,H,0
 C14T,American Jet Industries,Turbo Star 414,2,T,,L,L,1
 C14T,Cessna,414 (turbine),2,T,,L,L,1
 C14T,Scenic,Turbo Star 414,2,T,,L,L,1
@@ -207,6 +208,7 @@ C185,St. Just,Super Cyclone,1,P,,L,L,1
 C188,Aviones Colombia,188,1,P,,L,L,1
 C188,Aviones Colombia,AC-05 AgWagon,1,P,,L,L,1
 C188,Aviones Colombia,AgTrainer,1,P,,L,L,1
+C188,Aviones Colombia,AgWagon,1,P,,L,L,1
 C188,Aviones Colombia,Pijao,1,P,,L,L,1
 C188,Cessna,188 AgPickup,1,P,,L,L,1
 C188,Cessna,188 AgWagon,1,P,,L,L,1
@@ -460,8 +462,8 @@ C525,Cessna,525 Citation CJ1,2,J,,L,L,1
 C525,Cessna,525 CitationJet,2,J,,L,L,1
 C525,Cessna,Citation CJ1,2,J,,L,L,1
 C525,Cessna,CitationJet (525),2,J,,L,L,1
-C526,Cessna,526 CitationJet,2,J,,L,L,1
-C526,Cessna,CitationJet (526),2,J,,L,L,1
+C526,Cessna,526 CitationJet,2,J,,L,L,0
+C526,Cessna,CitationJet (526),2,J,,L,L,0
 C550,Cessna,550 Citation 2,2,J,,L,L,1
 C550,Cessna,Citation 2,2,J,,L,L,1
 C550,Cessna,Citation S2,2,J,,L,L,1
@@ -539,6 +541,7 @@ CA1P,Aerocomp,Comp Air 10,1,P,,L,L,1
 CA1T,Aerocomp,CA-10T Comp Air 10T,1,T,,L,L,1
 CA1T,Aerocomp,CA-10XLT Comp Air 10XLT,1,T,,L,L,1
 CA1T,Aerocomp,Comp Air 10T,1,T,,L,L,1
+CA1T,Aerocomp,Comp Air 10XLT,1,T,,L,L,1
 CA1T,Comp Air,CA-10XLT Comp Air 10XLT,1,T,,L,L,1
 CA1T,Comp Air,Comp Air 10XLT,1,T,,L,L,1
 CA1T,Aerocomp,CA-10T  Comp Air 10T,1,T,,L,L,0
@@ -595,10 +598,10 @@ CAD2,Delisle,Cadi,1,P,,L,L,1
 CAD4,Class,Bush Caddy L-160,1,P,,L,L,1
 CAD4,Class,Bush Caddy L-162,1,P,,L,L,1
 CAD4,Class,Bush Caddy L-164,1,P,,L,L,1
-CAJ,Aerocomp,CA-J Comp Air Jet,1,J,,L,L,1
-CAJ,Aerocomp,Comp Air Jet,1,J,,L,L,1
-CAJ,Comp Air,CA-J Comp Air Jet,1,J,,L,L,1
-CAJ,Comp Air,Comp Air Jet,1,J,,L,L,1
+CAJ,Aerocomp,CA-J Comp Air Jet,1,J,,L,L,0
+CAJ,Aerocomp,Comp Air Jet,1,J,,L,L,0
+CAJ,Comp Air,CA-J Comp Air Jet,1,J,,L,L,0
+CAJ,Comp Air,Comp Air Jet,1,J,,L,L,0
 CAML,Sopwith,Camel,1,P,,L,L,1
 CAML,Sopwith,Camel Replica,1,P,,L,L,1
 CAMP,Grega,Aircamper,1,P,,L,L,1
@@ -715,10 +718,10 @@ CH2T,Jordan Aerospace,CH-2000 Sama,1,P,,L,L,1
 CH2T,Jordan Aerospace,Sama,1,P,,L,L,1
 CH2T,Zenair,CH-2000 Zénith,1,P,,L,L,1
 CH2T,Zenair,Zénith (CH-2000),1,P,,L,L,1
-CH3,CHRISLEA,CH-3 Skyjeep,1,P,,L,L,1
-CH3,CHRISLEA,CH-3 Super Ace,1,P,,L,L,1
-CH3,CHRISLEA,Skyjeep,1,P,,L,L,1
-CH3,CHRISLEA,Super Ace,1,P,,L,L,1
+CH3,Chrislea,CH-3 Skyjeep,1,P,,L,L,1
+CH3,Chrislea,CH-3 Super Ace,1,P,,L,L,1
+CH3,Chrislea,Skyjeep,1,P,,L,L,1
+CH3,Chrislea,Super Ace,1,P,,L,L,1
 CH30,Zenair,CH-300 Tri-Z,1,P,,L,L,1
 CH30,Zenair,CH-300 Tri-Zénith,1,P,,L,L,1
 CH30,Zenair,Tri-Z,1,P,,L,L,1
@@ -962,8 +965,8 @@ CNUK,Fleet,80 Canuck,1,P,,L,L,1
 CNUK,Fleet,Canuck,1,P,,L,L,1
 CNUK,Leavens,80 Canuck,1,P,,L,L,1
 CNUK,Leavens,Canuck,1,P,,L,L,1
-CO50,COBALT,Co-50 Valkyrie,1,P,,L,L,1
-CO50,COBALT,Valkyrie,1,P,,L,L,1
+CO50,Cobalt,Co-50 Valkyrie,1,P,,L,L,1
+CO50,Cobalt,Valkyrie,1,P,,L,L,1
 COAR,Cobra,Arrow,1,P,,L,L,1
 COBR,Deborde-Rolland,Cobra,1,P,,L,L,1
 COL3,Cessna,350,1,P,,L,L,1
@@ -986,8 +989,8 @@ COL4,Columbia,Columbia 400,1,P,,L,L,1
 COL4,Columbia,LC-41 Columbia 400,1,P,,L,L,1
 COL4,Lancair,Columbia 400,1,P,,L,L,1
 COL4,Lancair,LC-41 Columbia 400,1,P,,L,L,1
-COLT,TEXAS AIRCRAFT,Colt,1,P,,L,L,1
-COLT,TEXAS AIRCRAFT,TA-01,1,P,,L,L,1
+COLT,Texas Aircraft,Colt,1,P,,L,L,1
+COLT,Texas Aircraft,TA-01,1,P,,L,L,1
 COMU,Helicom,Commuter,1,P,,H,L,1
 COMU,Helicom,H-1 Commuter,1,P,,H,L,1
 COMU,International Helicopters,Commuter,1,P,,H,L,1
@@ -997,16 +1000,16 @@ COMU,Tamarind,H-1 Commuter,1,P,,H,L,1
 CONC,Aerospatiale - British Aerospace,Concorde,4,J,W,L,H,0
 CONI,Lockheed,C-121 Constellation,4,P,,L,M,1
 CONI,Lockheed,Constellation,4,P,,L,M,1
-CONI,Lockheed,EC-121 Constellation,4,P,,L,M,1
-CONI,Lockheed,L-049 Constellation,4,P,,L,M,1
-CONI,Lockheed,L-1049 Super Constellation,4,P,,L,M,1
-CONI,Lockheed,L-749 Constellation,4,P,,L,M,1
-CONI,Lockheed,R7V Constellation,4,P,,L,M,1
-CONI,Lockheed,RC-121 Constellation,4,P,,L,M,1
-CONI,Lockheed,Super Constellation,4,P,,L,M,1
 CONI,Lockheed,VC-121 Constellation,4,P,,L,M,1
 CONI,Lockheed,Warning Star,4,P,,L,M,1
 CONI,Lockheed,WV Warning Star,4,P,,L,M,1
+CONI,Lockheed,EC-121 Constellation,4,P,,L,M,0
+CONI,Lockheed,L-049 Constellation,4,P,,L,M,0
+CONI,Lockheed,L-1049 Super Constellation,4,P,,L,M,0
+CONI,Lockheed,L-749 Constellation,4,P,,L,M,0
+CONI,Lockheed,R7V Constellation,4,P,,L,M,0
+CONI,Lockheed,RC-121 Constellation,4,P,,L,M,0
+CONI,Lockheed,Super Constellation,4,P,,L,M,0
 COOT,Aerocar,Coot,1,P,,A,L,1
 COOT,Aerocar,Super Coot,1,P,,A,L,1
 COOT,Moulton B.Taylor,Coot,1,P,,A,L,1
@@ -1078,8 +1081,8 @@ CP23,Cap Aviation,CAP-232,1,P,,L,L,1
 CP23,Mudry,CAP-230,1,P,,L,L,1
 CP23,Mudry,CAP-231,1,P,,L,L,1
 CP23,Mudry,CAP-232,1,P,,L,L,1
-CP30,BINDER (1),CP-301 Smaragd,1,P,,L,L,1
-CP30,BINDER (1),Smaragd,1,P,,L,L,1
+CP30,Binder (1),CP-301 Smaragd,1,P,,L,L,1
+CP30,Binder (1),Smaragd,1,P,,L,L,1
 CP30,Coopavia-Menavia,CP-301 Emeraude,1,P,,L,L,1
 CP30,Coopavia-Menavia,Emeraude,1,P,,L,L,1
 CP30,Fairtravel,Linnet,1,P,,L,L,1
@@ -1157,8 +1160,8 @@ CRAC,Plumb,CJ-3 Cracker Jack,1,P,,L,L,1
 CRAC,Plumb,Cracker Jack,1,P,,L,L,1
 CRBN,Curtiss,50 Robin,1,P,,L,L,1
 CRBN,Curtiss,Robin,1,P,,L,L,1
-CRBN,CURTISS-ROBERTSON,50 Robin,1,P,,L,L,1
-CRBN,CURTISS-ROBERTSON,Robin,1,P,,L,L,1
+CRBN,Curtiss-Robertson,50 Robin,1,P,,L,L,1
+CRBN,Curtiss-Robertson,Robin,1,P,,L,L,1
 CRER,Rans,Courier,1,P,,L,L,1
 CRER,Rans,S-7 Courier,1,P,,L,L,1
 CRES,New Zealand,Cresco,1,T,,L,L,1
@@ -1201,13 +1204,14 @@ CRJX,Bombardier,Regional Jet CRJ-1000,2,J,A,L,M,1
 CRJX,Bombardier,CL-600 Regional Jet  CRJ-1000,2,J,A,L,M,0
 CRUZ,CAG (2),Cruiser,1,P,,L,L,1
 CRUZ,CAG (2),PS-28 Cruiser,1,P,,L,L,1
-CRUZ,CAG (2),SportsCruiser,1,P,,L,L,1
+CRUZ,CAG (2),SportCruiser,1,P,,L,L,1
 CRUZ,CSA,Cruiser,1,P,,L,L,1
 CRUZ,CSA,PiperSport,1,P,,L,L,1
 CRUZ,CSA,PS-28 Cruiser,1,P,,L,L,1
 CRUZ,CSA,SportCruiser,1,P,,L,L,1
 CRUZ,CZAW,SportCruiser,1,P,,L,L,1
 CRUZ,Piper,PiperSport,1,P,,L,L,1
+CRUZ,CAG (2),SportsCruiser,1,P,,L,L,0
 CT4,AESL,Airtrainer,1,P,,L,L,1
 CT4,AESL,CT-4 Airtrainer,1,P,,L,L,1
 CT4,Pacific Aerospace,Airtrainer,1,P,,L,L,1
@@ -1215,7 +1219,7 @@ CT4,Pacific Aerospace,Akala,1,P,,L,L,1
 CT4,Pacific Aerospace,CT-4 Airtrainer,1,P,,L,L,1
 CT4,Pacific Aerospace,CT-4 Akala,1,P,,L,L,1
 CTAH,Rainbow,Cheetah,1,P,,L,L,1
-CTAH,RAINBOW SKYREACH,Cheetah,1,P,,L,L,1
+CTAH,Rainbow Skyreach,Cheetah,1,P,,L,L,1
 CTLN,Fly Synthesis,Catalina,1,P,,A,L,1
 CUB2,Aces High,Cuby 2,1,P,,L,L,1
 CUCA,Culver,Cadet,1,P,,L,L,1

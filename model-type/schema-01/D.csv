@@ -131,6 +131,7 @@ D7,Fokker,D-7 Replica,1,P,,L,L,1
 D8,Fokker,D-8 Replica,1,P,,L,L,1
 DA2,Davis,DA-2,1,P,,L,L,1
 DA36,Diamond,DA-36 E-Star,1,E,,L,L,1
+DA36,Diamond,E-Star,1,E,,L,L,1
 DA40,Diamond,Club Star,1,P,,L,L,1
 DA40,Diamond,DA-40 Club Star,1,P,,L,L,1
 DA40,Diamond,DA-40 Diamond Star,1,P,,L,L,1
@@ -176,12 +177,8 @@ DC3,Douglas,C-117A Skytrooper,2,P,,L,M,1
 DC3,Douglas,C-117B Skytrooper,2,P,,L,M,1
 DC3,Douglas,C-117C Skytrooper,2,P,,L,M,1
 DC3,Douglas,C-41,2,P,,L,M,1
+DC3,Douglas,C-47 Dakota,2,P,,L,M,1
 DC3,Douglas,C-47 Skytrain,2,P,,L,M,1
-DC3,Douglas,C-47A Skytrain,2,P,,L,M,1
-DC3,Douglas,C-47B Skytrain,2,P,,L,M,1
-DC3,Douglas,C-47D Skytrain,2,P,,L,M,1
-DC3,Douglas,C-47H Skytrain,2,P,,L,M,1
-DC3,Douglas,C-47J Skytrain,2,P,,L,M,1
 DC3,Douglas,C-53 Skytrooper,2,P,,L,M,1
 DC3,Douglas,Dakota,2,P,,L,M,1
 DC3,Douglas,DC-3,2,P,,L,M,1
@@ -200,6 +197,11 @@ DC3,Douglas,Skytrooper,2,P,,L,M,1
 DC3,Douglas,TC-47 Skytrain,2,P,,L,M,1
 DC3,Douglas,VC-47 Skytrain,2,P,,L,M,1
 DC3,Lisunov,Li-2,2,P,,L,M,1
+DC3,Douglas,C-47A Skytrain,2,P,,L,M,0
+DC3,Douglas,C-47B Skytrain,2,P,,L,M,0
+DC3,Douglas,C-47D Skytrain,2,P,,L,M,0
+DC3,Douglas,C-47H Skytrain,2,P,,L,M,0
+DC3,Douglas,C-47J Skytrain,2,P,,L,M,0
 DC3S,Douglas,C-117D,2,P,,L,M,1
 DC3S,Douglas,LC-117,2,P,,L,M,1
 DC3S,Douglas,R4D-8,2,P,,L,M,1
@@ -393,8 +395,8 @@ DIMO,HOAC,HK-36 Super Dimona,1,P,,L,L,1
 DIMO,HOAC,Super Dimona,1,P,,L,L,1
 DIMO,Hoffmann,Dimona,1,P,,L,L,1
 DIMO,Hoffmann,H-36 Dimona,1,P,,L,L,1
-DINO,Ganzavia,Dinó,1,P,,L,L,1
-DINO,Ganzavia,GAK-22 Dinó,1,P,,L,L,1
+DINO,Ganzavia,Dinó,1,P,,L,L,0
+DINO,Ganzavia,GAK-22 Dinó,1,P,,L,L,0
 DIPR,Collins,Dipper,1,P,,A,L,1
 DISC,Schempp-Hirth,Discus 2CT,1,P,,L,L,1
 DISC,Schempp-Hirth,Discus 2T,1,P,,L,L,1
@@ -421,7 +423,9 @@ DOCX,Kovach-Elmendorf,Doc's RX,1,P,,L,L,1
 DOCX,Kovach-Elmendorf,ES-3 Doc's RX,1,P,,L,L,1
 DON,Unikomtranso,Don,1,P,,L,L,1
 DOVE,De Havilland,Devon,2,P,,L,L,1
+DOVE,De Havilland,DH-104 Devon,2,P,,L,L,1
 DOVE,De Havilland,DH-104 Dove,2,P,,L,L,1
+DOVE,De Havilland,DH-104 Sea Devon,2,P,,L,L,1
 DOVE,De Havilland,Dove,2,P,,L,L,1
 DOVE,De Havilland,Sea Devon,2,P,,L,L,1
 DOVE,Hawker Siddeley,DH-104 Dove,2,P,,L,L,1

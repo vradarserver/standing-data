@@ -15,8 +15,10 @@ T18,Thorp,T-18 Tiger,1,P,,L,L,1
 T18,Thorp,Tiger,1,P,,L,L,1
 T19,THK,Speedfire,1,P,,L,L,1
 T19,THK,T-19 Speedfire,1,P,,L,L,1
-T19,THK,T-19 Turkkusu,1,P,,L,L,1
-T19,THK,Turkkusu,1,P,,L,L,1
+T19,THK,T-19 Türkkuşu,1,P,,L,L,1
+T19,THK,Türkkuşu,1,P,,L,L,1
+T19,THK,T-19 Turkkusu,1,P,,L,L,0
+T19,THK,Turkkusu,1,P,,L,L,0
 T2,North American,Buckeye,2,J,,L,L,1
 T2,North American,T-2 Buckeye,2,J,,L,L,1
 T2,North American Rockwell,Buckeye,2,J,,L,L,1
@@ -151,6 +153,7 @@ T6,North American,AT-6 Texan,1,P,,L,L,1
 T6,North American,BC-1,1,P,,L,L,1
 T6,North American,Harvard,1,P,,L,L,1
 T6,North American,SNJ Texan,1,P,,L,L,1
+T6,North American,T-6 Harvard,1,P,,L,L,1
 T6,North American,T-6 Texan,1,P,,L,L,1
 T6,North American,Texan,1,P,,L,L,1
 T7,Fuji,T-7,1,T,,L,L,1
@@ -184,7 +187,7 @@ TAIL,Wittman,W-9 Tailwind,1,P,,L,L,1
 TAMP,SOCATA,Tampico,1,P,,L,L,1
 TAMP,SOCATA,TB-9 Tampico,1,P,,L,L,1
 TARO,Anahuac,Tauro,1,P,,L,L,1
-TARR,PELEGRIN,Tarragon,1,P,,L,L,1
+TARR,Pelegrin,Tarragon,1,P,,L,L,1
 TAYA,Taylorcraft (US),A,1,P,,L,L,1
 TAYA,Taylor-Young,A,1,P,,L,L,1
 TAYB,Swick,Swick-T,1,P,,L,L,1
@@ -242,12 +245,12 @@ TBM7,TBM,TBM-700A,1,T,,L,L,1
 TBM7,SOCATA,TBM-700,1,T,,L,L,0
 TBM8,SOCATA,TBM-700N (TBM-850),1,T,,L,L,1
 TBM8,SOCATA,TBM-850,1,T,,L,L,1
-TBM9,DAHER,TBM-700N (TBM-910),1,T,,L,L,1
-TBM9,DAHER,TBM-700N (TBM-930),1,T,,L,L,1
-TBM9,DAHER,TBM-700N (TBM-940),1,T,,L,L,1
-TBM9,DAHER,TBM-910,1,T,,L,L,1
-TBM9,DAHER,TBM-930,1,T,,L,L,1
-TBM9,DAHER,TBM-940,1,T,,L,L,1
+TBM9,Daher,TBM-700N (TBM-910),1,T,,L,L,1
+TBM9,Daher,TBM-700N (TBM-930),1,T,,L,L,1
+TBM9,Daher,TBM-700N (TBM-940),1,T,,L,L,1
+TBM9,Daher,TBM-910,1,T,,L,L,1
+TBM9,Daher,TBM-930,1,T,,L,L,1
+TBM9,Daher,TBM-940,1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-900),1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-910),1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-930),1,T,,L,L,1
@@ -316,7 +319,7 @@ TFOC,Thunder Wings,Focke-Wulf Fw-190,1,P,,L,L,1
 TFUN,TWI,Taifun,1,P,,L,L,1
 TFUN,Valentin,Taifun,1,P,,L,L,1
 TGRS,Lancair,Tigress,1,P,,L,L,1
-TIAD,TRIKE ICAROS,Adventure,1,P,,L,L,1
+TIAD,Trike Icaros,Adventure,1,P,,L,L,1
 TIGR,Airbus Helicopters,EC-665 Tiger,2,T,,H,L,1
 TIGR,Airbus Helicopters,EC-665 Tigre,2,T,,H,L,1
 TIGR,Airbus Helicopters,Tiger,2,T,,H,L,1
@@ -380,7 +383,7 @@ TOR,British Aerospace,Tornado,2,J,,L,M,1
 TOR,MBB,Tornado,2,J,,L,M,1
 TOR,Panavia,Tornado,2,J,,L,M,1
 TOUR,AESL,Airtourer,1,P,,L,L,1
-TOUR,GLOS AIR,Glos-Airtourer,1,P,,L,L,1
+TOUR,Glos Air,Glos-Airtourer,1,P,,L,L,1
 TOUR,Millicer,AirTourer,1,P,,L,L,1
 TOUR,Millicer,M-10 AirTourer,1,P,,L,L,1
 TOUR,Victa,Airtourer,1,P,,L,L,1
@@ -428,8 +431,8 @@ TS11,Pzl-Mielec,Iskra,1,J,,L,L,1
 TS11,Pzl-Mielec,TS-11 Iskra,1,J,,L,L,1
 TS14,Test,Bonus,1,P,,L,L,1
 TS14,Test,TST-14 Bonus,1,P,,L,L,1
-TS1J,Jonker,JS-1TJ Revelation,1,J,,L,L,1
-TS1J,Jonker,Revelation,1,J,,L,L,1
+TS1J,Jonker,JS-1TJ Revelation,1,J,,L,L,0
+TS1J,Jonker,Revelation,1,J,,L,L,0
 TS8,Pzl-Mielec,Bies,1,P,,L,L,1
 TS8,Pzl-Mielec,TS-8 Bies,1,P,,L,L,1
 TSPT,Thunder Wings,Supermarine Spitfire,1,P,,L,L,1
@@ -469,6 +472,6 @@ TWEN,Tecnam,P-2010 Twenty-Ten,1,P,,L,L,1
 TWEN,Tecnam,Twenty-Ten,1,P,,L,L,1
 TWIR,Dyn'Aero,Twin-R,2,P,,L,L,1
 TWSP,Time Warp,Spitfire,1,P,,L,L,1
-TWST,SILENCE,Twister,1,P,,L,L,1
+TWST,Silence,Twister,1,P,,L,L,1
 TZRV,IRIAF,JT-2-2 Tazarve,1,J,,L,L,1
 TZRV,IRIAF,Tazarve,1,J,,L,L,1

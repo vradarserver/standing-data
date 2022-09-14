@@ -1,4 +1,5 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
+Z22,Moravan,Junak,1,P,,L,L,1
 Z22,Moravan,Zlin Z-22 Junak,1,P,,L,L,1
 Z22,Zlin,Junak,1,P,,L,L,1
 Z22,Zlin,Z-22 Junak,1,P,,L,L,1
@@ -85,6 +86,7 @@ ZA6,Aerokopter,AK-1,1,P,,H,L,1
 ZA6,Aerokopter,Sanka,1,P,,H,L,1
 ZA6,Aerokopter,ZA-6 Sanka,1,P,,H,L,1
 ZA6,Safat,02,1,P,,H,L,1
+ZEFR,Curti,Zefhir,1,T,,H,L,1
 ZEP2,Aero Adventure,Toucan,1,P,,L,L,1
 ZEP2,Arnet Pereyra,Toucan,1,P,,L,L,1
 ZEP2,Arnet Pereyra,Zephyr 2,1,P,,L,L,1

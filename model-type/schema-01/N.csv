@@ -9,6 +9,7 @@ N120,Nord,1201 Norecrin,1,P,,L,L,1
 N120,Nord,1202 Norecrin,1,P,,L,L,1
 N120,Nord,1203 Norecrin,1,P,,L,L,1
 N120,Nord,1204 Norecrin,1,P,,L,L,1
+N120,Nord,Norecrin,1,P,,L,L,1
 N250,Nusantara,N-250,2,T,,L,M,1
 N260,Max Holste,MH-260 Super Broussard,2,T,,L,M,1
 N260,Max Holste,Super Broussard,2,T,,L,M,1
@@ -38,6 +39,9 @@ NAL2,NAL,Hansa,1,P,,L,L,1
 NAL2,NAL,NALLA-2 Hansa,1,P,,L,L,1
 NAL2,Taneja,Hansa,1,P,,L,L,1
 NAL2,Taneja,NALLA-2 Hansa,1,P,,L,L,1
+NARN,Korea Aerospace,KC-100 Naraon,1,P,,L,L,1
+NARN,Korea Aerospace,KT-100 Naraon,1,P,,L,L,1
+NARN,Korea Aerospace,Naraon,1,P,,L,L,1
 NAVI,North American,L-17 Navion,1,P,,L,L,1
 NAVI,North American,NA-145 Navion,1,P,,L,L,1
 NAVI,North American,NA-154 Navion,1,P,,L,L,1
@@ -76,13 +80,15 @@ NG5,BRM Aero,Bristell XL8,1,P,,L,L,1
 NG5,BRM Aero,Bristell,1,P,,L,L,0
 NG5,BRM Aero,NG-5 Bristell,1,P,,L,L,0
 NH90,Australian Aerospace,MRH-90,2,T,,H,M,1
-NH90,NHI,Caiman,2,T,,H,M,1
+NH90,NHI,Caïman,2,T,,H,M,1
 NH90,NHI,Hkp 14,2,T,,H,M,1
 NH90,NHI,MRH-90,2,T,,H,M,1
 NH90,NHI,NH-90,2,T,,H,M,1
-NH90,NHI,NH-90 Caiman,2,T,,H,M,1
+NH90,NHI,NH-90 Caïman,2,T,,H,M,1
 NH90,Patria,Hkp 14,2,T,,H,M,1
 NH90,Patria,NH-90,2,T,,H,M,1
+NH90,NHI,Caiman,2,T,,H,M,0
+NH90,NHI,NH-90 Caiman,2,T,,H,M,0
 NHCO,New Horizons,01 Colibri,1,P,,L,L,1
 NHCO,New Horizons,Colibri,1,P,,L,L,1
 NI28,Nieuport,28 Replica,1,P,,L,L,1
@@ -139,4 +145,4 @@ NPOR,Redfern,Nieuport 24,1,P,,L,L,1
 NSTR,Custom Flight,North Star,1,P,,L,L,1
 NT10,NuWaco,T-10,1,P,,L,L,1
 NXT,Nemesis,NXT,1,P,,L,L,1
-NXTE,ELECTROFLIGHT,NXTE,1,E,,L,L,1
+NXTE,Electroflight,NXTE,1,E,,L,L,1

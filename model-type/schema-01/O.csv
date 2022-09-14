@@ -23,11 +23,13 @@ OM1,Morrisey,OM-1 Bravo,1,P,,L,L,1
 OMAG,O'Neill,Magnum,1,P,,L,L,1
 OMGA,ISAE,Omega 2,1,P,,L,L,1
 OMLA,OMAC,Laser 300,1,T,,L,L,1
-ONE,AIRNET,One,1,P,,L,L,1
+OMSD,ATEC,Omsider,1,P,,A,L,1
+OMSD,Nordic,Omsider,1,P,,A,L,1
+ONE,Airnet,One,1,P,,L,L,1
 ONE,C2P,One,1,P,,L,L,1
-ONE,GOGETAIR,G-600,1,P,,L,L,1
-ONE,GOGETAIR,G-750T,1,P,,L,L,1
-ONE,ONE PRO,One,1,P,,L,L,1
+ONE,Gogetair,G-600,1,P,,L,L,1
+ONE,Gogetair,G-750T,1,P,,L,L,1
+ONE,One Pro,One,1,P,,L,L,1
 ONEX,Sonex,Onex,1,P,,L,L,1
 OPCA,Brooklands,OA-7 Optica Scout,1,P,,L,L,1
 OPCA,Brooklands,Optica Scout,1,P,,L,L,1

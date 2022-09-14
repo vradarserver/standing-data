@@ -271,6 +271,7 @@ P32R,Piper,Saratoga 2 TC,1,P,,L,L,1
 P32R,Piper,Saratoga SP,1,P,,L,L,1
 P32R,Piper,Turbo Saratoga SP,1,P,,L,L,1
 P32T,AICSA,PA-32RT Turbo Lance 2,1,P,,L,L,1
+P32T,AICSA,Turbo Lance 2,1,P,,L,L,1
 P32T,Chincul,Lance 2,1,P,,L,L,1
 P32T,Chincul,PA-A-32RT-300 Lance 2,1,P,,L,L,1
 P32T,Chincul,PA-A-32RT-300T Turbo Lance 2,1,P,,L,L,1
@@ -286,6 +287,7 @@ P337,Cessna,Pressurized Skymaster,2,P,,L,L,1
 P337,Cessna,T337G Pressurized Skymaster,2,P,,L,L,1
 P337,Reims,FP337 Pressurized Skymaster,2,P,,L,L,1
 P337,Reims,FT337G Pressurized Skymaster,2,P,,L,L,1
+P337,Reims,Pressurized Skymaster,2,P,,L,L,1
 P38,Lockheed,F-5 Lightning,2,P,,L,M,1
 P38,Lockheed,L-222 Lightning,2,P,,L,M,1
 P38,Lockheed,L-322 Lightning,2,P,,L,M,1
@@ -412,7 +414,7 @@ PA18,Piper,Super Cub,1,P,,L,L,1
 PA18,Piper,U-7 Super Cub,1,P,,L,L,1
 PA18,Safat,01,1,P,,L,L,1
 PA18,Smith Aviation,PA-18 Super Cub,1,P,,L,L,1
-PA18,Smith Aviation,Super Cub,1,P,,L,L,1
+PA18,Smith Aviation,Super Cub (PA-18),1,P,,L,L,1
 PA18,Super 18,S-18 Super 18,1,P,,L,L,1
 PA18,Super 18,Super 18,1,P,,L,L,1
 PA18,Turbine Cubs,PA-18 Super Cub,1,P,,L,L,1
@@ -420,6 +422,7 @@ PA18,Turbine Cubs,Super Cub,1,P,,L,L,1
 PA18,WagAero,Super Cuby,1,P,,L,L,1
 PA18,WagAero,Super Sport,1,P,,L,L,1
 PA18,Yakima Aerosport,Super 18 Turbo Cub,1,P,,L,L,1
+PA18,Smith Aviation,Super Cub,1,P,,L,L,0
 PA20,Piper,PA-20 Pacer,1,P,,L,L,1
 PA20,Piper,Pacer,1,P,,L,L,1
 PA22,Piper,Caribbean,1,P,,L,L,1
@@ -572,10 +575,10 @@ PA46,Piper,PA-46-310P Malibu,1,P,,L,L,1
 PA46,Piper,PA-46-350P M350,1,P,,L,L,1
 PA46,Piper,PA-46-350P Malibu Mirage,1,P,,L,L,1
 PA46,Piper,PA-46R-350T Malibu Matrix,1,P,,L,L,1
-PA47,Piper,PA-47 Piper Jet,1,J,,L,L,1
-PA47,Piper,PA-47 Piper Jet Altaire,1,J,,L,L,1
-PA47,Piper,Piper Jet,1,J,,L,L,1
-PA47,Piper,Piper Jet Altaire,1,J,,L,L,1
+PA47,Piper,PA-47 Piper Jet,1,J,,L,L,0
+PA47,Piper,PA-47 Piper Jet Altaire,1,J,,L,L,0
+PA47,Piper,Piper Jet,1,J,,L,L,0
+PA47,Piper,Piper Jet Altaire,1,J,,L,L,0
 PACE,Bellanca,31 Senior Skyrocket,1,P,,L,L,1
 PACE,Bellanca,CH-300 Pacemaker,1,P,,L,L,1
 PACE,Bellanca,CH-400 Skyrocket,1,P,,L,L,1
@@ -690,7 +693,7 @@ PETR,Billie,Pétrel,1,P,,A,L,1
 PETR,EDRA,Paturi,1,P,,A,L,1
 PETR,EDRA,SeaStar,1,P,,A,L,1
 PETR,EDRA,Super Petrel,1,P,,A,L,1
-PETR,SCODA,Super Petrel,1,P,,A,L,1
+PETR,Scoda,Super Petrel,1,P,,A,L,1
 PETR,Sman,Pétrel,1,P,,A,L,1
 PGEE,Holcomb,Perigee,1,P,,L,L,1
 PGK1,Western,Hirondelle,1,P,,L,L,1
@@ -707,8 +710,8 @@ PICO,General Avia,Delfino,1,P,,L,L,1
 PICO,General Avia,F-15 Delfino,1,P,,L,L,1
 PICO,General Avia,F-15 Picchio,1,P,,L,L,1
 PICO,General Avia,Picchio,1,P,,L,L,1
-PICO,ODESSA,Delfin,1,P,,L,L,1
-PICO,ODESSA,Y-1 Delfin,1,P,,L,L,1
+PICO,Odessa,Delfin,1,P,,L,L,1
+PICO,Odessa,Y-1 Delfin,1,P,,L,L,1
 PICO,Procaer,F-15 Picchio,1,P,,L,L,1
 PICO,Procaer,Picchio,1,P,,L,L,1
 PILL,CASA,Pillán,1,P,,L,L,1
@@ -739,7 +742,9 @@ PITE,Pipistrel,Taurus Electro,1,E,,L,L,1
 PITE,Pipistrel,Taurus Electro G2,1,E,,L,L,1
 PIVE,Pipistrel,Velis Electro,1,E,,L,L,1
 PIVE,Pipistrel,Virus (electric),1,E,,L,L,1
+PIVI,Pipistrel,Explorer,1,P,,L,L,1
 PIVI,Pipistrel,Surveyor,1,P,,L,L,1
+PIVI,Pipistrel,Velis Club,1,P,,L,L,1
 PIVI,Pipistrel,Virus (piston),1,P,,L,L,1
 PIVI,Pipistrel,Virus,1,P,,L,L,0
 PK11,PIK,PIK-11 Tumppu,1,P,,L,L,1
@@ -789,7 +794,7 @@ PNR2,Alpi,Pioneer 230,1,P,,L,L,1
 PNR3,Alpi,Pioneer 300,1,P,,L,L,1
 PNR3,Alpi,Pioneer 330,1,P,,L,L,1
 PNR4,Alpi,Pioneer 400,1,P,,L,L,1
-PNTH,SPORT PERFORMANCE,Panther,1,P,,L,L,1
+PNTH,Sport Performance,Panther,1,P,,L,L,1
 PO2,CSS,CSS-13,1,P,,L,L,1
 PO2,Polikarpov,Po-2,1,P,,L,L,1
 PO2,PZL Okecie,CSS-13,1,P,,L,L,1
@@ -813,10 +818,11 @@ PRCE,Percival,P-57 Sea Prince,2,P,,L,L,1
 PRCE,Percival,Sea Prince,2,P,,L,L,1
 PREN,Percival,P-40 Prentice,1,P,,L,L,1
 PREN,Percival,Prentice,1,P,,L,L,1
-PRET,GM&T,GM&T Pretty Flight,1,P,,L,L,1
+PRET,GM&T,Pretty Flight,1,P,,L,L,1
+PRET,GM&T,GM&T Pretty Flight,1,P,,L,L,0
 PREX,Private Explorer,Private Explorer,1,P,,L,L,1
-PRIM,BLACKSHAPE,Bk-100 Prime,1,P,,L,L,1
-PRIM,BLACKSHAPE,Prime,1,P,,L,L,1
+PRIM,Blackshape,Bk-100 Prime,1,P,,L,L,1
+PRIM,Blackshape,Prime,1,P,,L,L,1
 PRM1,Hawker Beechcraft,390 Hawker 200,2,J,,L,L,1
 PRM1,Hawker Beechcraft,390 Premier 1,2,J,,L,L,1
 PRM1,Hawker Beechcraft,Hawker 200,2,J,,L,L,1
@@ -883,7 +889,7 @@ PTSS,Aviat,Super Stinker,1,P,,L,L,1
 PTSS,Pitts,S-1-11 Super Stinker,1,P,,L,L,1
 PTSS,Pitts,Super Stinker (S-1-11),1,P,,L,L,1
 PUL6,Pulsar,Super Pulsar 600,1,P,,L,L,1
-PULR,P&M AVIATION,PulsR,1,P,,L,L,1
+PULR,P&M Aviation,PulsR,1,P,,L,L,1
 PULS,Aero Designs,Pulsar,1,P,,L,L,1
 PULS,HK,Wega,1,P,,L,L,1
 PULS,Pulsar,Pulsar,1,P,,L,L,1

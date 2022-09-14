@@ -51,14 +51,32 @@ J328,AvCraft,Dornier 328JET,2,J,,L,M,1
 J328,Fairchild Dornier,328JET,2,J,,L,M,1
 J328,Fairchild Dornier,328JET Envoy 3,2,J,,L,M,1
 J328,Fairchild Dornier,Envoy 3,2,J,,L,M,1
-J328,RUAG,Dornier 328 JET Envoy,2,J,,L,M,1
+J328,RUAG,Dornier 328JET Envoy,2,J,,L,M,1
+J328,RUAG,Envoy,2,J,,L,M,1
+J328,RUAG,Dornier 328 JET Envoy,2,J,,L,M,0
 J4,Piper,Cub Coupe,1,P,,L,L,1
 J4,Piper,J-4 Cub Coupe,1,P,,L,L,1
+J400,Jihlavan,JA-400 Skyleader 400,1,P,,L,L,1
+J400,Jihlavan,Skyleader 400,1,P,,L,L,1
+J400,Zall Jihlavan,JA-400 Skyleader 400,1,P,,L,L,1
+J400,Zall Jihlavan,Skyleader 400,1,P,,L,L,1
+J40E,Zall Jihlavan,JA-400 Skyleader 400 Electric,1,E,,L,L,1
+J40E,Zall Jihlavan,Skyleader 400 Electric,1,E,,L,L,1
 J4B2,Barnett,J4B2,1,P,,G,L,1
 J5,Piper,AE Cub Cruiser,1,P,,L,L,1
 J5,Piper,Cub Cruiser,1,P,,L,L,1
 J5,Piper,J-5 Cub Cruiser,1,P,,L,L,1
 J5,Piper,L-14 Cub Cruiser,1,P,,L,L,1
+J600,ACS (2),JA-600 Skyleader 600,1,P,,L,L,1
+J600,ACS (2),Skyleader 600,1,P,,L,L,1
+J600,Jihlavan,JA-600 Rapid 600,1,P,,L,L,1
+J600,Jihlavan,JA-600 Skyleader 600,1,P,,L,L,1
+J600,Jihlavan,Rapid 600,1,P,,L,L,1
+J600,Jihlavan,Skyleader 600,1,P,,L,L,1
+J600,Zair,Skyleader 600,1,P,,L,L,1
+J600,Zall Jihlavan,JA-600 Skyleader 600,1,P,,L,L,1
+J600,Zall Jihlavan,Skyleader 600,1,P,,L,L,1
+J600,Zigong,Skyleader 600,1,P,,L,L,1
 J728,Fairchild Dornier,728JET,2,J,,L,M,0
 J8A,Shenyang,J-8A,2,J,,L,M,1
 J8A,Shenyang,J-8E,2,J,,L,M,1
@@ -168,37 +186,57 @@ JPRO,British Aerospace,BAC-167 Strikemaster,1,J,,L,L,0
 JPRO,British Aerospace,Strikemaster,1,J,,L,L,0
 JRC1,Chalard,JRC-01 Julcar,1,P,,L,L,1
 JRC1,Chalard,Julcar,1,P,,L,L,1
-JS1,Handley Page,HP-137 Jetstream 1,2,T,,L,L,1
-JS1,Handley Page,Jetstream 1,2,T,,L,L,1
-JS1,Jetstream,Jetstream 1,2,T,,L,L,1
-JS20,Handley Page,HP-137 Jetstream 200,2,T,,L,L,1
-JS20,Handley Page,Jetstream 200,2,T,,L,L,1
-JS20,Handley Page,Jetstream T.Mk.1,2,T,,L,L,1
-JS20,Handley Page,Jetstream T.Mk.2,2,T,,L,L,1
-JS20,Jetstream,Jetstream 200,2,T,,L,L,1
-JS20,Jetstream,Jetstream T.Mk.1,2,T,,L,L,1
-JS20,Jetstream,Jetstream T.Mk.2,2,T,,L,L,1
-JS20,Scottish Aviation,Jetstream T.Mk.1,2,T,,L,L,1
-JS20,Scottish Aviation,Jetstream T.Mk.2,2,T,,L,L,1
+JS1,Handley Page,HP-137 Jetstream 1,2,T,,L,L,0
+JS1,Handley Page,Jetstream 1,2,T,,L,L,0
+JS1,Jetstream,Jetstream 1,2,T,,L,L,0
+JS1J,Jonker,JS-1 Revelation (jet),1,J,,L,L,1
+JS1J,Jonker,Revelation (jet),1,J,,L,L,1
+JS1J,M&D Flugzeugbau,JS-MD-1 Single (jet),1,J,,L,L,1
+JS1J,M&D Flugzeugbau,Single (JS-MD-1) (jet),1,J,,L,L,1
+JS20,Handley Page,HP-137 Jetstream 200,2,T,,L,L,0
+JS20,Handley Page,Jetstream 200,2,T,,L,L,0
+JS20,Handley Page,Jetstream T.Mk.1,2,T,,L,L,0
+JS20,Handley Page,Jetstream T.Mk.2,2,T,,L,L,0
+JS20,Jetstream,Jetstream 200,2,T,,L,L,0
+JS20,Jetstream,Jetstream T.Mk.1,2,T,,L,L,0
+JS20,Jetstream,Jetstream T.Mk.2,2,T,,L,L,0
+JS20,Scottish Aviation,Jetstream T.Mk.1,2,T,,L,L,0
+JS20,Scottish Aviation,Jetstream T.Mk.2,2,T,,L,L,0
+JS2J,Jonker,JS-2 Revenant (jet),1,J,,L,L,1
+JS2J,Jonker,Revenant (jet),1,J,,L,L,1
+JS2J,M&D Flugzeugbau,JS-MD-2 Single (jet),1,J,,L,L,1
+JS2J,M&D Flugzeugbau,Single (JS-MD-2) (jet),1,J,,L,L,1
+JS2P,Jonker,JS-2 Revenant (piston),1,P,,L,L,1
+JS2P,Jonker,Revenant (piston),1,P,,L,L,1
+JS2P,M&D Flugzeugbau,JS-MD-2 Single (piston),1,P,,L,L,1
+JS2P,M&D Flugzeugbau,Single (JS-MD-2) (piston),1,P,,L,L,1
 JS3,Century,Jetstream 3,2,T,,L,L,1
 JS3,Volpar,Century Jetstream 3,2,T,,L,L,1
 JS31,British Aerospace,BAe-3100 Jetstream 31,2,T,,L,L/M,1
 JS31,British Aerospace,Jetstream 31,2,T,,L,L/M,1
-JS31,British Aerospace,Jetstream T.Mk.3,2,T,,L,L/M,1
+JS31,British Aerospace,Jetstream T.Mk.3,2,T,,L,L/M,0
 JS32,British Aerospace,BAe-3200 Jetstream Super 31,2,T,,L,M,1
 JS32,British Aerospace,Jetstream Super 31,2,T,,L,M,1
 JS32,Jetstream,BAe-3200 Jetstream Super 31,2,T,,L,M,1
 JS32,Jetstream,Jetstream Super 31,2,T,,L,M,1
+JS3E,Jonker,JS-3 Rapture (electric),1,E,,L,L,1
+JS3E,Jonker,Rapture (electric),1,E,,L,L,1
+JS3E,M&D Flugzeugbau,JS-MD-3 Single (electric),1,E,,L,L,1
+JS3E,M&D Flugzeugbau,Single (JS-MD-3) (electric),1,E,,L,L,1
+JS3J,Jonker,JS-3 Rapture (jet),1,J,,L,L,1
+JS3J,Jonker,Rapture (jet),1,J,,L,L,1
+JS3J,M&D Flugzeugbau,JS-MD-3 Single (jet),1,J,,L,L,1
+JS3J,M&D Flugzeugbau,Single (JS-MD-3) (jet),1,J,,L,L,1
 JS41,Aero International,BAe-4100 Jetstream 41,2,T,,L,M,1
 JS41,Aero International,Jetstream 41,2,T,,L,M,1
 JS41,British Aerospace,BAe-4100 Jetstream 41,2,T,,L,M,1
 JS41,British Aerospace,Jetstream 41,2,T,,L,M,1
 JS41,Jetstream,BAe-4100 Jetstream 41,2,T,,L,M,1
 JS41,Jetstream,Jetstream 41,2,T,,L,M,1
-JSQA,General Avia,F-1300 Jet Squalus,1,J,,L,L,1
-JSQA,General Avia,Jet Squalus,1,J,,L,L,1
-JSQA,Promavia,F-1300 Jet Squalus,1,J,,L,L,1
-JSQA,Promavia,Jet Squalus,1,J,,L,L,1
+JSQA,General Avia,F-1300 Jet Squalus,1,J,,L,L,0
+JSQA,General Avia,Jet Squalus,1,J,,L,L,0
+JSQA,Promavia,F-1300 Jet Squalus,1,J,,L,L,0
+JSQA,Promavia,Jet Squalus,1,J,,L,L,0
 JSX,Sonex,JSX SubSonex,1,J,,L,L,1
 JSX,Sonex,SubSonex,1,J,,L,L,1
 JT2,John F.Taylor (UK),JT-2 Titch,1,P,,L,L,1

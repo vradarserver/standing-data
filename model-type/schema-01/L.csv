@@ -68,6 +68,7 @@ L37,Lockheed,Harpoon,2,P,,L,M,1
 L37,Lockheed,L-137 Ventura,2,P,,L,M,1
 L37,Lockheed,L-15 Harpoon,2,P,,L,M,1
 L37,Lockheed,L-237 Ventura,2,P,,L,M,1
+L37,Lockheed,Lexington,2,P,,L,M,1
 L37,Lockheed,PV-1 Ventura,2,P,,L,M,1
 L37,Lockheed,PV-2 Harpoon,2,P,,L,M,1
 L37,Lockheed,Ventura,2,P,,L,M,1
@@ -186,7 +187,7 @@ LAMA,Sud,Lama,1,T,,H,L,1
 LAMA,Sud,SA-315 Lama,1,T,,H,L,1
 LANC,Avro,683 Lancaster,4,P,,L,M,1
 LANC,Avro,Lancaster,4,P,,L,M,1
-LAR1,FLARIS,LAR-1,1,J,,L,L,1
+LAR1,Flaris,LAR-1,1,J,,L,L,1
 LARK,North American Rockwell,100 Lark Commander,1,P,,L,L,1
 LARK,North American Rockwell,Lark Commander,1,P,,L,L,1
 LAST,UTVA,Lasta,1,P,,L,L,1
@@ -205,7 +206,7 @@ LCR,Laird,LC-R Speedwing,1,P,,L,L,1
 LCR,Laird,Speedwing,1,P,,L,L,1
 LEG2,Lancair,Legacy,1,P,,L,L,1
 LEGD,Performance,Legend,1,P,,L,L,1
-LEOP,Chichester-Miles,Leopard,2,J,,L,L,1
+LEOP,Chichester-Miles,Leopard,2,J,,L,L,0
 LESP,Lancair,Lancair ES-P,1,P,,L,L,1
 LEVI,Tapanee,Levitation 4,1,P,,L,L,1
 LGEZ,Rutan,61 Long-EZ,1,P,,L,L,1
@@ -249,7 +250,7 @@ LJ70,Learjet,70,2,J,A,L,M,1
 LJ75,Learjet,75,2,J,A,L,M,1
 LJ75,Learjet,75 Liberty,2,J,A,L,M,1
 LJ75,Learjet,Liberty,2,J,A,L,M,1
-LJ85,Learjet,85,2,J,A,L,M,1
+LJ85,Learjet,85,2,J,A,L,M,0
 LK17,LAK,LAK-17AT,1,P,,L,L,1
 LK17,Sportine Aviacija,LAK-17AT,1,P,,L,L,1
 LK19,LAK,LAK-19T,1,P,,L,L,1
@@ -265,8 +266,8 @@ LMK1,CATA,LMK-1 Oryx,1,P,,L,L,1
 LMK1,CATA,Oryx,1,P,,L,L,1
 LN27,Falcomposite,Furio,1,P,,L,L,1
 LN27,Falcomposite,LN-27 Furio,1,P,,L,L,1
-LN3,FLYGFABRIKEN,LN-3 Seagull,1,P,,A,L,1
-LN3,FLYGFABRIKEN,Seagull,1,P,,A,L,1
+LN3,Flygfabriken,LN-3 Seagull,1,P,,A,L,1
+LN3,Flygfabriken,Seagull,1,P,,A,L,1
 LNC2,Lancair,Lancair 200,1,P,,L,L,1
 LNC2,Lancair,Lancair 235,1,P,,L,L,1
 LNC2,Lancair,Lancair 320,1,P,,L,L,1
@@ -324,21 +325,21 @@ LX32,Lilienthal,Sintal,1,P,,L,L,1
 LX32,Lilienthal,X-32 Bekas,1,P,,L,L,1
 LX34,Lilienthal,Bekas (X-34),1,P,,L,L,1
 LX34,Lilienthal,X-34 Bekas,1,P,,L,L,1
-LXR,ELIXIR,Elixir,1,P,,L,L,1
+LXR,Elixir,Elixir,1,P,,L,L,1
 LYNX,AgustaWestland,AW-159 Lynx Wildcat,2,T,,H,L,1
 LYNX,AgustaWestland,AW-159 Wildcat,2,T,,H,L,1
 LYNX,AgustaWestland,Lynx Wildcat,2,T,,H,L,1
 LYNX,AgustaWestland,Super Lynx,2,T,,H,L,1
 LYNX,AgustaWestland,WG-13 Super Lynx,2,T,,H,L,1
 LYNX,AgustaWestland,Wildcat,2,T,,H,L,1
-LYNX,FINMECCANICA,AW-159 Lynx Wildcat,2,T,,H,L,1
-LYNX,FINMECCANICA,AW-159 Wildcat,2,T,,H,L,1
-LYNX,FINMECCANICA,Lynx Wildcat,2,T,,H,L,1
-LYNX,FINMECCANICA,Wildcat,2,T,,H,L,1
-LYNX,LEONARDO,AW-159 Lynx Wildcat,2,T,,H,L,1
-LYNX,LEONARDO,AW-159 Wildcat,2,T,,H,L,1
-LYNX,LEONARDO,Lynx Wildcat,2,T,,H,L,1
-LYNX,LEONARDO,Wildcat,2,T,,H,L,1
+LYNX,Finmeccanica,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,Finmeccanica,AW-159 Wildcat,2,T,,H,L,1
+LYNX,Finmeccanica,Lynx Wildcat,2,T,,H,L,1
+LYNX,Finmeccanica,Wildcat,2,T,,H,L,1
+LYNX,Leonardo,AW-159 Lynx Wildcat,2,T,,H,L,1
+LYNX,Leonardo,AW-159 Wildcat,2,T,,H,L,1
+LYNX,Leonardo,Lynx Wildcat,2,T,,H,L,1
+LYNX,Leonardo,Wildcat,2,T,,H,L,1
 LYNX,Westland,AH-11 Super Lynx,2,T,,H,L,1
 LYNX,Westland,AW-159 Lynx Wildcat,2,T,,H,L,1
 LYNX,Westland,Battlefield Lynx,2,T,,H,L,1

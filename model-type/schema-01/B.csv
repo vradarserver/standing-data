@@ -381,6 +381,7 @@ BAR6,Barr,BarrSix,1,P,,L,L,1
 BARC,Buethe,Barracuda,1,P,,L,L,1
 BARC,Jeffair,Barracuda,1,P,,L,L,1
 BASS,Beagle,B-206,2,P,,L,L,1
+BASS,Beagle,B-206 Basset,2,P,,L,L,1
 BASS,Beagle,Basset,2,P,,L,L,1
 BASS,Beagle-Auster,B-206,2,P,,L,L,1
 BBAT,Bradley,Aerobat,1,P,,L,L,1
@@ -491,6 +492,7 @@ BE20,Hawker Beechcraft,200 King Air 200,2,T,,L,L/M,1
 BE20,Hawker Beechcraft,King Air 200,2,T,,L,L/M,1
 BE20,Raytheon,200 Super King Air,2,T,,L,L/M,1
 BE20,Raytheon,C-12 Huron,2,T,,L,L/M,1
+BE20,Raytheon,Huron,2,T,,L,L/M,1
 BE20,Raytheon,Super King Air (200),2,T,,L,L/M,1
 BE20,Beech,1300 Commuter,2,T,,L,L,0
 BE20,Beech,200 Super King Air,2,T,,L,L,0
@@ -518,6 +520,10 @@ BE20,Hawker Beechcraft,King Air 200,2,T,,L,L,0
 BE20,Raytheon,200 Super King Air,2,T,,L,L,0
 BE20,Raytheon,C-12 Huron,2,T,,L,L,0
 BE20,Raytheon,Super King Air (200),2,T,,L,L,0
+BE22,Beechcraft,220 Denali,1,T,,L,L,1
+BE22,Beechcraft,Denali,1,T,,L,L,1
+BE22,Textron,220 Denali,1,T,,L,L,1
+BE22,Textron,Denali,1,T,,L,L,1
 BE23,Beech,23 Musketeer,1,P,,L,L,1
 BE23,Beech,23 Sundowner,1,P,,L,L,1
 BE23,Beech,Musketeer,1,P,,L,L,1
@@ -592,9 +598,9 @@ BE4W,Hawker Beechcraft,400XPR Beechjet,2,J,,L,M,1
 BE4W,Hawker Beechcraft,Beechjet (400XPR),2,J,,L,M,1
 BE4W,Hawker Beechcraft,Hawker 400XPR,2,J,,L,M,1
 BE4W,Hawker Beechcraft,Hawker 400XT,2,J,,L,M,1
-BE4W,NEXTANT,400XT Beechjet,2,J,,L,M,1
-BE4W,NEXTANT,Beechjet (400XT),2,J,,L,M,1
-BE4W,NEXTANT,Hawker 400XT,2,J,,L,M,1
+BE4W,Nextant,400XT Beechjet,2,J,,L,M,1
+BE4W,Nextant,Beechjet (400XT),2,J,,L,M,1
+BE4W,Nextant,Hawker 400XT,2,J,,L,M,1
 BE4W,Raytheon,400XPR Beechjet,2,J,,L,M,1
 BE4W,Raytheon,400XT Beechjet,2,J,,L,M,1
 BE4W,Raytheon,Beechjet (400XT/400XPR),2,J,,L,M,1
@@ -661,8 +667,8 @@ BE9L,Beech,90 (D90) King Air,2,T,,L,L,1
 BE9L,Beech,90 (E90) King Air,2,T,,L,L,1
 BE9L,Beech,90 King Air,2,T,,L,L,1
 BE9L,Beech,"King Air (90, A90 to E90)",2,T,,L,L,1
-BE9L,Beech,T-44 King Air,2,T,,L,L,1
-BE9L,Beech,VC-6 King Air,2,T,,L,L,1
+BE9L,Beech,Pegasus,2,T,,L,L,1
+BE9L,Beech,T-44 Pegasus,2,T,,L,L,1
 BE9L,Beechcraft,90 King Air 90,2,T,,L,L,1
 BE9L,Beechcraft,King Air 90,2,T,,L,L,1
 BE9L,Hawker Beechcraft,90 King Air 90,2,T,,L,L,1
@@ -671,6 +677,8 @@ BE9L,Jetcrafters,Taurus 90,2,T,,L,L,1
 BE9L,Raytheon,90 King Air,2,T,,L,L,1
 BE9L,Raytheon,King Air,2,T,,L,L,1
 BE9L,Swearingen,Taurus 90,2,T,,L,L,1
+BE9L,Beech,T-44 King Air,2,T,,L,L,0
+BE9L,Beech,VC-6 King Air,2,T,,L,L,0
 BE9T,Beech,90 (F90) King Air,2,T,,L,L,1
 BE9T,Beech,King Air (F90),2,T,,L,L,1
 BEAR,AviPro,Bearhawk,1,P,,L,L,1
@@ -802,10 +810,10 @@ BOLT,Steen,Skybolt,1,P,,L,L,1
 BOOM,Rutan,202 Boomerang,2,P,,L,L,1
 BOOM,Rutan,Boomerang,2,P,,L,L,1
 BPAT,R & B,Bearhawk Patrol,1,P,,L,L,1
-BPOD,Rutan,367 BiPod,4,E,,L,L,1
-BPOD,Rutan,BiPod,4,E,,L,L,1
-BPOD,Scaled,367 BiPod,4,E,,L,L,1
-BPOD,Scaled,BiPod,4,E,,L,L,1
+BPOD,Rutan,367 BiPod,4,E,,L,L,0
+BPOD,Rutan,BiPod,4,E,,L,L,0
+BPOD,Scaled,367 BiPod,4,E,,L,L,0
+BPOD,Scaled,BiPod,4,E,,L,L,0
 BR14,Breguet,14 Replica,1,P,,L,L,1
 BR23,BRM Aero,Bristell B23,1,P,,L,L,1
 BR54,Barnett,BRC-540,1,P,,G,L,1
@@ -891,8 +899,8 @@ BUCA,Arnet Pereyra,Buccaneer,1,P,,A,L,1
 BUCA,Keuthan,Buccaneer,1,P,,A,L,1
 BULT,Brokaw,BJ-520 Bullet,1,P,,L,L,1
 BULT,Brokaw,Bullet,1,P,,L,L,1
-BUSH,RAINBOW SKYREACH,BushCat,1,P,,L,L,1
-BW60,BLACKWING,BW-600,1,P,,L,L,1
-BW6T,BLACKWING,BW-635,1,P,,L,L,1
+BUSH,Rainbow Skyreach,BushCat,1,P,,L,L,1
+BW60,Blackwing,BW-600,1,P,,L,L,1
+BW6T,Blackwing,BW-635,1,P,,L,L,1
 BX2,Brandli,BX-2 Cherry,1,P,,L,L,1
 BX2,Brandli,Cherry,1,P,,L,L,1

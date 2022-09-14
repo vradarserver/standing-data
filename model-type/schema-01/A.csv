@@ -36,16 +36,18 @@ A109,AgustaWestland,Grand,2,T,,H,L,1
 A109,AgustaWestland,GrandNew,2,T,,H,L,1
 A109,AgustaWestland,Power,2,T,,H,L,1
 A109,Denel,A-109,2,T,,H,L,1
-A109,FINMECCANICA,AW-109 GrandNew,2,T,,H,L,1
-A109,FINMECCANICA,AW-109 Power,2,T,,H,L,1
-A109,FINMECCANICA,Grand,2,T,,H,L,1
-A109,FINMECCANICA,Power,2,T,,H,L,1
-A109,JIANGXI CHANGHE-AGUSTA,CA-109 Power,2,T,,H,L,1
-A109,JIANGXI CHANGHE-AGUSTA,Power,2,T,,H,L,1
-A109,LEONARDO,AW-109 GrandNew,2,T,,H,L,1
-A109,LEONARDO,AW-109 Trekker,2,T,,H,L,1
-A109,LEONARDO,Trekker,2,T,,H,L,1
+A109,Finmeccanica,AW-109 GrandNew,2,T,,H,L,1
+A109,Finmeccanica,AW-109 Power,2,T,,H,L,1
+A109,Finmeccanica,GrandNew,2,T,,H,L,1
+A109,Finmeccanica,Power,2,T,,H,L,1
+A109,Jiangxi Changhe-Agusta,CA-109 Power,2,T,,H,L,1
+A109,Jiangxi Changhe-Agusta,Power,2,T,,H,L,1
+A109,Leonardo,AW-109 GrandNew,2,T,,H,L,1
+A109,Leonardo,AW-109 Trekker,2,T,,H,L,1
+A109,Leonardo,GrandNew,2,T,,H,L,1
+A109,Leonardo,Trekker,2,T,,H,L,1
 A109,SABCA,A-109,2,T,,H,L,1
+A109,Finmeccanica,Grand,2,T,,H,L,0
 A119,Agusta,A-119 Koala,1,T,,H,L,1
 A119,Agusta,AW-119 Koala,1,T,,H,L,1
 A119,Agusta,Koala,1,T,,H,L,1
@@ -53,10 +55,10 @@ A119,AgustaWestland,AW-119 Koala,1,T,,H,L,1
 A119,AgustaWestland,Koala,1,T,,H,L,1
 A119,Denel,A-119 Koala,1,T,,H,L,1
 A119,Denel,Koala,1,T,,H,L,1
-A119,FINMECCANICA,AW-119 Koala,1,T,,H,L,1
-A119,FINMECCANICA,Koala,1,T,,H,L,1
-A119,LEONARDO,AW-119 Koala,1,T,,H,L,1
-A119,LEONARDO,Koala,1,T,,H,L,1
+A119,Finmeccanica,AW-119 Koala,1,T,,H,L,1
+A119,Finmeccanica,Koala,1,T,,H,L,1
+A119,Leonardo,AW-119 Koala,1,T,,H,L,1
+A119,Leonardo,Koala,1,T,,H,L,1
 A122,Aerotec (Brazil),A-122 Uirapuru,1,P,,L,L,1
 A122,Aerotec (Brazil),T-23 Uirapuru,1,P,,L,L,1
 A122,Aerotec (Brazil),Uirapuru,1,P,,L,L,1
@@ -75,13 +77,13 @@ A139,AgustaWestland,HH-139,2,T,,H,L,1
 A139,AgustaWestland,UH-139,2,T,,H,L,1
 A139,AgustaWestland,VH-139,2,T,,H,L,1
 A139,Bell-Agusta,AB-139,2,T,,H,L,1
-A139,BOEING-LEONARDO,Grey Wolf,2,T,,H,L,1
-A139,BOEING-LEONARDO,MH-139 Grey Wolf,2,T,,H,L,1
-A139,FINMECCANICA,AW-139,2,T,,H,L,1
-A139,HELIVERT,AW-139,2,T,,H,L,1
-A139,LEONARDO,AW-139,2,T,,H,L,1
-A139,LEONARDO,Grey Wolf,2,T,,H,L,1
-A139,LEONARDO,MH-139 Grey Wolf,2,T,,H,L,1
+A139,Boeing-Leonardo,Grey Wolf,2,T,,H,L,1
+A139,Boeing-Leonardo,MH-139 Grey Wolf,2,T,,H,L,1
+A139,Finmeccanica,AW-139,2,T,,H,L,1
+A139,Helivert,AW-139,2,T,,H,L,1
+A139,Leonardo,AW-139,2,T,,H,L,1
+A139,Leonardo,Grey Wolf,2,T,,H,L,1
+A139,Leonardo,MH-139 Grey Wolf,2,T,,H,L,1
 A139,Agusta,AB-139,2,T,,H,L,0
 A140,Antonov,An-140,2,T,,L,M,1
 A140,HESA,Faraz,2,T,,L,M,1
@@ -89,19 +91,21 @@ A140,HESA,IRAN-140 Faraz,2,T,,L,M,1
 A148,Antonov,An-148,2,J,,L,M,1
 A149,Agusta,AW-149,2,T,,H,M,1
 A149,AgustaWestland,AW-149,2,T,,H,M,1
-A149,LEONARDO,AW-149,2,T,,H,M,1
+A149,Leonardo,AW-149,2,T,,H,M,1
 A158,Antonov,An-158,2,J,,L,M,1
 A16,AviaDesign,A-16 Sport Falcon,1,P,,L,L,1
+A16,AviaDesign,Sport Falcon,1,P,,L,L,1
 A169,AgustaWestland,AW-169,2,T,,H,L,1
-A169,FINMECCANICA,AW-169,2,T,,H,L,1
-A169,LEONARDO,AW-169,2,T,,H,L,1
+A169,Finmeccanica,AW-169,2,T,,H,L,1
+A169,Leonardo,AW-169,2,T,,H,L,1
 A178,Antonov,An-178,2,J,,L,M,1
 A189,AgustaWestland,AW-189,2,T,,H,M,1
-A189,FINMECCANICA,AW-189,2,T,,H,M,1
-A189,LEONARDO,AW-189,2,T,,H,M,1
+A189,Finmeccanica,AW-189,2,T,,H,M,1
+A189,Leonardo,AW-189,2,T,,H,M,1
 A19,Aeropract,A-19,1,P,,L,L,1
 A19N,Airbus,A-319neo,2,J,,L,M,1
-A19N,Airbus,ACJ-319 neo,2,J,,L,M,1
+A19N,Airbus,ACJ-319neo,2,J,,L,M,1
+A19N,Airbus,ACJ-319 neo,2,J,,L,M,0
 A20,Douglas,A-20 Havoc,2,P,,L,M,1
 A20,Douglas,Havoc,2,P,,L,M,1
 A205,Oskbes-Mai,MAI-205,1,P,,G,L,1
@@ -270,6 +274,7 @@ A6,Grumman,Intruder,2,J,,L,M,1
 A6,Grumman,KA-6 Intruder,2,J,,L,M,1
 A6,Grumman,Prowler,2,J,,L,M,1
 A600,Rotorway,A-600 Talon,1,P,,H,L,1
+A600,Rotorway,Talon,1,P,,H,L,1
 A660,Ayres,S-2R-T660 Turbo Thrush,1,T,,L,L,1
 A660,Ayres,Turbo Thrush (S-2R-T660),1,T,,L,L,1
 A660,Thrush,S-2R-660 Turbo Thrush 660,1,T,,L,L,1
@@ -374,8 +379,8 @@ AC11,Rockwell,Alpine Commander,1,P,,L,L,1
 AC11,Rockwell,Commander 112,1,P,,L,L,1
 AC11,Rockwell,Commander 114,1,P,,L,L,1
 AC11,Rockwell,Gran Turismo Commander,1,P,,L,L,1
-AC31,AVICOPTER,AC-311,1,T,,H,L,1
-AC33,AVICOPTER,AC-313,3,T,,H,M,1
+AC31,Avicopter,AC-311,1,T,,H,L,1
+AC33,Avicopter,AC-313,3,T,,H,M,1
 AC4,Light Wing,AC-4,1,P,,L,L,1
 AC50,Aero (US),Commander 500,2,P,,L,L,1
 AC50,Aero Commander,500 Commander 500,2,P,,L,L,1
@@ -532,7 +537,7 @@ AKRO,Stephens,Akro,1,P,,L,L,1
 ALBU,Aviation Development,Alaskan Bushmaster,1,P,,L,L,1
 ALC1,Altair Coelho,AC-11,1,P,,L,L,1
 ALGR,Fantasy Air,Allegro,1,P,,L,L,1
-ALGR,LSA AMERICA,Allegro,1,P,,L,L,1
+ALGR,LSA America,Allegro,1,P,,L,L,1
 ALH,Hindustan,ALH Dhruv,2,T,,H,L,1
 ALH,Hindustan,Dhruv,2,T,,H,L,1
 ALIG,Arion,Lightning,1,P,,L,L,1
@@ -676,8 +681,10 @@ APM3,Issoire,APM-30 Lion,1,P,,L,L,1
 APM3,Issoire,Lion (APM-30),1,P,,L,L,1
 APM4,Issoire,APM-40 Simba,1,P,,L,L,1
 APM4,Issoire,Simba,1,P,,L,L,1
-APUP,AEROPUP,Aeropup,1,P,,L,L,1
+APUP,Aeropup,Aeropup,1,P,,L,L,1
 APUP,Supapup,Aeropup,1,P,,L,L,1
+AR1,Silverlight,American Ranger 1,1,P,,G,L,1
+AR1,Silverlight,AR-1 American Ranger 1,1,P,,G,L,1
 AR11,Aeronca,11 Chief,1,P,,L,L,1
 AR11,Aeronca,Chief (11),1,P,,L,L,1
 AR11,Hindustan,HUL-26 Pushpak,1,P,,L,L,1
@@ -748,8 +755,8 @@ AS22,Schleicher,ASW-22BLE,1,P,,L,L,1
 AS22,Schleicher,ASW-22M,1,P,,L,L,1
 AS24,Schleicher,ASW-24E,1,P,,L,L,1
 AS24,Schleicher,ASW-24TOP,1,P,,L,L,1
-AS25,BINDER (2),ASH-25EB,1,P,,L,L,1
-AS25,BINDER (2),EB-28,1,P,,L,L,1
+AS25,Binder (2),ASH-25EB,1,P,,L,L,1
+AS25,Binder (2),EB-28,1,P,,L,L,1
 AS25,Schleicher,ASH-25E,1,P,,L,L,1
 AS25,Schleicher,ASH-25M,1,P,,L,L,1
 AS25,Schleicher,ASH-25Mi,1,P,,L,L,1
@@ -784,10 +791,12 @@ AS32,Airbus Helicopters,AS-332C Super Puma,2,T,,H,M,1
 AS32,Airbus Helicopters,AS-332L1 Super Puma,2,T,,H,M,1
 AS32,Airbus Helicopters,AS-532AL Cougar,2,T,,H,M,1
 AS32,Airbus Helicopters,Cougar,2,T,,H,M,1
+AS32,Airbus Helicopters,H-215,2,T,,H,M,1
 AS32,Airbus Helicopters,Super Puma,2,T,,H,M,1
 AS32,Atlas,Oryx,2,T,,H,M,1
 AS32,Atlas,SA-330 Oryx,2,T,,H,M,1
 AS32,CASA,AS-332 Super Puma,2,T,,H,M,1
+AS32,CASA,AS-532 Cougar,2,T,,H,M,1
 AS32,CASA,Cougar,2,T,,H,M,1
 AS32,CASA,Super Puma,2,T,,H,M,1
 AS32,Dirgantara,NAS-332 Super Puma,2,T,,H,M,1
@@ -841,10 +850,11 @@ AS50,Airbus Helicopters,H-125 Ecureuil,1,T,,H,L,1
 AS50,Airbus Helicopters,H-125 Fennec,1,T,,H,L,1
 AS50,Airbus Helicopters,H-125 SuperStar,1,T,,H,L,1
 AS50,Airbus Helicopters,SuperStar,1,T,,H,L,1
-AS50,AVICOPTER,AC-301,1,T,,H,L,1
+AS50,Avicopter,AC-301,1,T,,H,L,1
 AS50,Changhe,Z-11,1,T,,H,L,1
 AS50,Eurocopter,AS-350 AStar,1,T,,H,L,1
 AS50,Eurocopter,AS-350 Ecureuil,1,T,,H,L,1
+AS50,Eurocopter,AS-350 Squirrel,1,T,,H,L,1
 AS50,Eurocopter,AS-350 Stylence,1,T,,H,L,1
 AS50,Eurocopter,AS-350 SuperStar,1,T,,H,L,1
 AS50,Eurocopter,AS-550 Fennec,1,T,,H,L,1
@@ -872,6 +882,7 @@ AS55,Airbus Helicopters,AS-355 Ecureuil 2,2,T,,H,L,1
 AS55,Airbus Helicopters,Ecureuil 2,2,T,,H,L,1
 AS55,Eurocopter,AS-355 Ecureuil 2,2,T,,H,L,1
 AS55,Eurocopter,AS-355 Stylence,2,T,,H,L,1
+AS55,Eurocopter,AS-355 Twin Squirrel,2,T,,H,L,1
 AS55,Eurocopter,AS-355 TwinStar,2,T,,H,L,1
 AS55,Eurocopter,AS-555 Fennec,2,T,,H,L,1
 AS55,Eurocopter,Ecureuil 2,2,T,,H,L,1
@@ -970,8 +981,8 @@ AT8T,Air Tractor,AT-802,1,T,,L,L/M,1
 AT8T,Air Tractor,AT-802 Fire Boss,1,T,,L,L/M,1
 AT8T,Air Tractor,Fire Boss,1,T,,L,L/M,1
 ATAC,Aircraft Technologies,Acro 1,1,P,,L,L,1
-ATG1,ATG,ATG-1 Javelin,2,J,,L,L,1
-ATG1,ATG,Javelin,2,J,,L,L,1
+ATG1,ATG,ATG-1 Javelin,2,J,,L,L,0
+ATG1,ATG,Javelin,2,J,,L,L,0
 ATIS,Aircraft Technologies,Atlantis,1,P,,L,L,1
 ATL,Robin,ATL,1,P,,L,L,1
 ATLA,Breguet,1150 Atlantic,2,T,,L,M,1
@@ -1019,10 +1030,12 @@ AUS9,Auster,Auster AOP9,1,P,,L,L,1
 AUS9,Auster,B5,1,P,,L,L,1
 AV68,Alpla,AVO-68 Samburo,1,P,,L,L,1
 AV68,Alpla,Samburo,1,P,,L,L,1
-AV68,M & D Flugzeugbau,AVO-68 Samburo,1,P,,L,L,1
-AV68,M & D Flugzeugbau,Samburo,1,P,,L,L,1
+AV68,M&D Flugzeugbau,AVO-68 Samburo,1,P,,L,L,1
+AV68,M&D Flugzeugbau,Samburo,1,P,,L,L,1
 AV68,Nitsche,AVO-68 Samburo,1,P,,L,L,1
 AV68,Nitsche,Samburo,1,P,,L,L,1
+AV68,M & D Flugzeugbau,AVO-68 Samburo,1,P,,L,L,0
+AV68,M & D Flugzeugbau,Samburo,1,P,,L,L,0
 AVAM,Avid,Avid Amphibian,1,P,,A,L,1
 AVAM,Avid,Catalina,1,P,,A,L,1
 AVAM,Light Aero,Avid Amphibian,1,P,,A,L,1
@@ -1039,7 +1052,7 @@ AVID,Yalo,Avid Flyer,1,P,,L,L,1
 AVIN,Avro,594 Avian,1,P,,L,L,1
 AVIN,Avro,616 Avian,1,P,,L,L,1
 AVIN,Avro,Avian,1,P,,L,L,1
-AVK4,Avtek,400,2,T,,L,L,1
-AVLN,Airmaster,Avalon 680,1,T,,A,L,1
+AVK4,Avtek,400,2,T,,L,L,0
+AVLN,Airmaster,Avalon 680,1,T,,A,L,0
 AVTR,Aero Adventure,Aventura 2,1,P,,A,L,1
 AVTR,Arnet Pereyra,Aventura 2,1,P,,A,L,1

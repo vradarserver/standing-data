@@ -140,8 +140,8 @@ M326,Embraer,Xavante,1,J,,L,L,1
 M326,Macchi,MB-326,1,J,,L,L,1
 M339,Aermacchi,MB-339,1,J,,L,L,1
 M339,Alenia Aermacchi,MB-339,1,J,,L,L,1
-M345,LEONARDO,M-345,1,J,,L,L,1
-M345,LEONARDO,T-345,1,J,,L,L,1
+M345,Leonardo,M-345,1,J,,L,L,1
+M345,Leonardo,T-345,1,J,,L,L,1
 M345,SIAI-Marchetti,M-345,1,J,,L,L,1
 M346,Aermacchi,M-346 Master,2,J,,L,M,1
 M346,Aermacchi,Master,2,J,,L,M,1
@@ -150,8 +150,8 @@ M346,Alenia Aermacchi,M-346 Master,2,J,,L,M,1
 M346,Alenia Aermacchi,Master,2,J,,L,M,1
 M346,Alenia Aermacchi,T-346 Master,2,J,,L,M,1
 M360,Aircraft Technologies,Meyer-360,1,P,,L,L,1
-M36J,MATRA,Jupiter,2,P,,L,L,1
-M36J,MATRA,M-360 Jupiter,2,P,,L,L,1
+M36J,Matra,Jupiter,2,P,,L,L,1
+M36J,Matra,M-360 Jupiter,2,P,,L,L,1
 M4,Maule,Astro Rocket,1,P,,L,L,1
 M4,Maule,Bee Dee,1,P,,L,L,1
 M4,Maule,Jetasen,1,P,,L,L,1
@@ -248,7 +248,7 @@ MARS,Martin,170 Mars,4,P,,S,M,1
 MARS,Martin,JRM Mars,4,P,,S,M,1
 MARS,Martin,Mars,4,P,,S,M,1
 MAVR,AEA,Maverick,1,P,,L,L,1
-MC01,MONTAER,MC-01,1,P,,L,L,1
+MC01,Montaer,MC-01,1,P,,L,L,1
 MC10,Colomban,Cricri,2,P,,L,L,1
 MC10,Colomban,MC-10 Cricri,2,P,,L,L,1
 MC10,Colomban,MC-12 Cricri,2,P,,L,L,1
@@ -286,8 +286,8 @@ MD3R,Gryf,MD-3 Rider,1,P,,L,L,1
 MD3R,Gryf,MD-3 SportRider,1,P,,L,L,1
 MD3R,Gryf,Rider,1,P,,L,L,1
 MD3R,Gryf,SportRider,1,P,,L,L,1
-MD3R,NEXT AIRCRAFT,MD-3 Rider,1,P,,L,L,1
-MD3R,NEXT AIRCRAFT,Rider,1,P,,L,L,1
+MD3R,Next Aircraft,MD-3 Rider,1,P,,L,L,1
+MD3R,Next Aircraft,Rider,1,P,,L,L,1
 MD52,Boeing,MD-520N,1,T,,H,L,1
 MD52,McDonnell Douglas,AH-6J,1,T,,H,L,1
 MD52,McDonnell Douglas,MD-520N,1,T,,H,L,1
@@ -496,6 +496,7 @@ MJ53,Jurca,Autan,1,P,,L,L,1
 MJ53,Jurca,MJ-53 Autan,1,P,,L,L,1
 MJ55,Jurca,Biso,1,P,,L,L,1
 MJ55,Jurca,MJ-55 Biso,1,P,,L,L,1
+MJ7,Boeve,Mustang,1,P,,L,L,1
 MJ7,Boeve,P-51 Mustang,1,P,,L,L,1
 MJ7,Jurca,Gnatsum (MJ-7),1,P,,L,L,1
 MJ7,Jurca,MJ-7 Gnatsum,1,P,,L,L,1
@@ -525,6 +526,7 @@ MMAX,Mad Max Aero,Mad Max,1,P,,G,L,1
 MMUT,Mara Wing,1-L Malamut,1,P,,L,L,1
 MMUT,Mara Wing,L-1 Malamut,1,P,,L,L,1
 MMUT,Mara Wing,Malamut,1,P,,L,L,1
+MNEX,Norman,Mini Explorer,1,P,,L,L,1
 MNEX,Norman,Nordic 8 Mini Explorer,1,P,,L,L,1
 MOCU,Culp,MonoCulp,1,P,,L,L,1
 MOGO,Kinetic,Mountain Goat,1,P,,L,L,1
@@ -567,11 +569,11 @@ MRMD,CZAW,Mermaid,1,P,,A,L,1
 MRMD,Wet Aero,M-6,1,P,,A,L,1
 MRTN,Mirage,Marathon,1,P,,L,L,1
 MS1,MySky,MS-1,1,P,,L,L,1
-MS18,SOCATA,MS-200FG Morane,1,P,,L,L,1
+MS18,SOCATA,MS-200FG Morane,1,P,,L,L,0
 MS23,Morane-Saulnier,MS-230,1,P,,L,L,1
-MS25,SOCATA,MS-200RG Morane,1,P,,L,L,1
-MS30,SOCATA,Epsilon 2,1,P,,L,L,1
-MS30,SOCATA,MS-300 Epsilon 2,1,P,,L,L,1
+MS25,SOCATA,MS-200RG Morane,1,P,,L,L,0
+MS30,SOCATA,Epsilon 2,1,P,,L,L,0
+MS30,SOCATA,MS-300 Epsilon 2,1,P,,L,L,0
 MS31,Morane-Saulnier,MS-315,1,P,,L,L,1
 MS31,Morane-Saulnier,MS-317,1,P,,L,L,1
 MS73,Morane-Saulnier,Alcyon,1,P,,L,L,1
@@ -619,20 +621,20 @@ MX1T,Aeroandina,Kimbaya,1,P,,L,L,1
 MX1T,Aeroandina,MXP-1000 Tayrona,1,P,,L,L,1
 MX1T,Aeroandina,MXP-150 Kimbaya,1,P,,L,L,1
 MX1T,Aeroandina,Tayrona,1,P,,L,L,1
-MX1T,AERO-EAST-EUROPE,MXP-155 Tayrona,1,P,,L,L,1
-MX1T,AERO-EAST-EUROPE,Tayrona,1,P,,L,L,1
+MX1T,Aero-East-Europe,MXP-155 Tayrona,1,P,,L,L,1
+MX1T,Aero-East-Europe,Tayrona,1,P,,L,L,1
 MX1T,AMD,MXP-150 Patriot,1,P,,L,L,1
 MX1T,AMD,Patriot,1,P,,L,L,1
-MX1T,WORLD AIRCRAFT,Sentinel,1,P,,L,L,1
-MX1T,WORLD AIRCRAFT,Spirit,1,P,,L,L,1
-MX1T,WORLD AIRCRAFT,Vision,1,P,,L,L,1
-MX1T,WORLD AIRCRAFT,WA-100 Spirit,1,P,,L,L,1
-MX1T,WORLD AIRCRAFT,WA-200 Vision,1,P,,L,L,1
+MX1T,World Aircraft,Sentinel,1,P,,L,L,1
+MX1T,World Aircraft,Spirit,1,P,,L,L,1
+MX1T,World Aircraft,Vision,1,P,,L,L,1
+MX1T,World Aircraft,WA-100 Spirit,1,P,,L,L,1
+MX1T,World Aircraft,WA-200 Vision,1,P,,L,L,1
 MX2,MXR,MX-2,1,P,,L,L,1
 MX58,Aeroandina,Embera,1,P,,L,L,1
 MX58,Aeroandina,MXP-158 Embera,1,P,,L,L,1
-MX58,AERO-EAST-EUROPE,Embera,1,P,,L,L,1
-MX58,AERO-EAST-EUROPE,MPX-158 Embera,1,P,,L,L,1
+MX58,Aero-East-Europe,Embera,1,P,,L,L,1
+MX58,Aero-East-Europe,MPX-158 Embera,1,P,,L,L,1
 MX65,Aerotec (Colombia),Amigo,1,P,,L,L,1
 MX65,Aerotec (Colombia),MXP-650 Amigo,1,P,,L,L,1
 MX65,Agro-Copteros,Amigo,1,P,,L,L,1

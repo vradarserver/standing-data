@@ -149,8 +149,9 @@ G800,Aerodis,Orion,1,P,,L,L,1
 G800,Grinvalds,G-801 Orion,1,P,,L,L,1
 G800,Grinvalds,G-802 Orion,1,P,,L,L,1
 G800,Grinvalds,Orion,1,P,,L,L,1
-G850,Grob,G-850 Strato 2C,2,P,,L,M,1
-G850,Grob,Strato 2C,2,P,,L,M,1
+G850,Grob,G-850 Strato 2C,2,P,,L,M,0
+G850,Grob,Strato 2C,2,P,,L,M,0
+G91,Fiat,G-91R,1,J,,L,L,1
 G96,Grumman,C-1 Trader,2,P,,L,M,1
 G96,Grumman,G-96 Trader,2,P,,L,M,1
 G96,Grumman,TF Trader,2,P,,L,M,1
@@ -160,6 +161,8 @@ G97,SAI (Italy),Spotter,1,P,,L,L,1
 GA10,GippsAero,GA-10,1,T,,L,L,1
 GA20,Gippsland,Fatman,1,P,,L,L,1
 GA20,Gippsland,GA-200 Fatman,1,P,,L,L,1
+GA4C,Gulfstream Aerospace,G-7 Gulfstream G400,2,J,,L,M,1
+GA4C,Gulfstream Aerospace,Gulfstream G400 (G-7),2,J,,L,M,1
 GA5C,Gulfstream Aerospace,G-7 Gulfstream G500,2,J,A,L,M,1
 GA5C,Gulfstream Aerospace,Gulfstream G500 (G-7),2,J,A,L,M,1
 GA6C,Gulfstream Aerospace,G-7 Gulfstream G600,2,J,A,L,M,1
@@ -176,9 +179,11 @@ GA8,GippsAero,Airvan,1,P,,L,L,1
 GA8,GippsAero,GA-8 Airvan,1,P,,L,L,1
 GA8,Gippsland,Airvan,1,P,,L,L,1
 GA8,Gippsland,GA-8 Airvan,1,P,,L,L,1
-GABR,BLACKSHAPE,Bk-160 Gabriel,1,P,,L,L,1
-GABR,BLACKSHAPE,BS-115 Gabriel,1,P,,L,L,1
-GABR,BLACKSHAPE,Gabriel,1,P,,L,L,1
+GA8C,Gulfstream Aerospace,G-8 Gulfstream G800,2,J,,L,M,1
+GA8C,Gulfstream Aerospace,Gulfstream G800,2,J,,L,M,1
+GABR,Blackshape,Bk-160 Gabriel,1,P,,L,L,1
+GABR,Blackshape,BS-115 Gabriel,1,P,,L,L,1
+GABR,Blackshape,Gabriel,1,P,,L,L,1
 GALX,Gulfstream Aerospace,Gulfstream G200,2,J,A,L,M,1
 GALX,IAI,1126 Galaxy,2,J,A,L,M,1
 GALX,IAI,1126 Gulfstream G200,2,J,A,L,M,1
@@ -208,8 +213,8 @@ GAZL,Sud,Gazelle,1,T,,H,L,1
 GAZL,Sud,SA-341 Gazelle,1,T,,H,L,1
 GAZL,Sud,SA-342 Gazelle,1,T,,H,L,1
 GAZL,Westland,Gazelle,1,T,,H,L,1
-GB1,GAME COMPOSITES,GameBird,1,P,,L,L,1
-GB1,GAME COMPOSITES,GB-1 GameBird,1,P,,L,L,1
+GB1,Game Composites,GameBird,1,P,,L,L,1
+GB1,Game Composites,GB-1 GameBird,1,P,,L,L,1
 GBSP,Beets,GB Special,1,P,,L,L,1
 GBSP,Beets,Special,1,P,,L,L,1
 GC1,Globe,GC-1 Swift,1,P,,L,L,1
@@ -222,8 +227,8 @@ GEMI,Miles,M-65 Gemini,2,P,,L,L,1
 GENI,IFB,E-Genius,1,E,,L,L,1
 GEPE,Aero Services,Guêpe,1,P,,L,L,1
 GF20,Grob,GF-200,1,P,,L,L,1
-GFLY,Scaled,311 Global Flyer,1,J,,L,M,1
-GFLY,Scaled,Global Flyer,1,J,,L,M,1
+GFLY,Scaled,311 Global Flyer,1,J,,L,M,0
+GFLY,Scaled,Global Flyer,1,J,,L,M,0
 GL5T,Bombardier,BD-700 Global 5000,2,J,A,L,M,1
 GL5T,Bombardier,BD-700 Global 5500,2,J,A,L,M,1
 GL5T,Bombardier,Global 5000,2,J,A,L,M,1
@@ -239,6 +244,7 @@ GLAS,Stoddard-Hamilton,Glasair,1,P,,L,L,1
 GLEX,Bombardier,BD-700 Global 6000,2,J,A,L,M,1
 GLEX,Bombardier,BD-700 Global 6500,2,J,A,L,M,1
 GLEX,Bombardier,BD-700 Global Express,2,J,A,L,M,1
+GLEX,Bombardier,BD-700 Sentinel,2,J,A,L,M,1
 GLEX,Bombardier,E-11,2,J,A,L,M,1
 GLEX,Bombardier,Global 6000,2,J,A,L,M,1
 GLEX,Bombardier,Global 6500,2,J,A,L,M,1
@@ -296,12 +302,13 @@ GLF4,Gulfstream Aerospace,Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Gulfstream 4SP,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Gulfstream G300,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Gulfstream G350,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream G400,2,J,A,L,M,1
+GLF4,Gulfstream Aerospace,Gulfstream G400 (G-4),2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Gulfstream G450,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Gulfstream SRA-4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,S102 Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Tp102 Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,U-4 Gulfstream 4,2,J,A,L,M,1
+GLF4,Gulfstream Aerospace,Gulfstream G400,2,J,A,L,M,0
 GLF5,Gulfstream Aerospace,C-37 Gulfstream 5,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,Eitam,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5 Gulfstream 5,2,J,A,L,M,1
@@ -316,6 +323,7 @@ GLF5,Gulfstream Aerospace,Gulfstream G500 (G-5SP),2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,Gulfstream G550,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,Shavit,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,Gulfstream G500,2,J,A,L,M,0
+GLF6,Gulfstream Aerospace,G-6 Gulfstream G650,2,J,A,L,M,1
 GLF6,Gulfstream Aerospace,Gulfstream G650,2,J,A,L,M,1
 GLID,,Glider,,,,,,0
 GLID,,Sailplane,,,,,,0
@@ -342,13 +350,14 @@ GOOS,Quikkit,Glass Goose,1,P,,A,L,1
 GOTR,Goair,GT-1 Trainer,1,P,,L,L,1
 GOTR,Goair,Trainer,1,P,,L,L,1
 GP1,Jihlavan,Skyleader GP One,1,P,,L,L,1
+GP1,Zall Jihlavan,Skyleader GP One,1,P,,L,L,1
 GP3,Osprey,GP-3 Osprey 2,1,P,,A,L,1
 GP3,Osprey,Osprey 2,1,P,,A,L,1
 GP3,Pereira,GP-3 Osprey 2,1,P,,A,L,1
 GP3,Pereira,Osprey 2,1,P,,A,L,1
 GP4,Osprey,GP-4,1,P,,L,L,1
 GP4,Pereira,GP-4,1,P,,L,L,1
-GPRO,GENEVATION,GenPro,1,P,,L,L,1
+GPRO,Genevation,GenPro,1,P,,L,L,1
 GR51,Cameron,Grand 51,1,T,,L,L,1
 GR51,Cameron,P-51G Grand 51,1,T,,L,L,1
 GR51,Exclusive,Grand 51,1,T,,L,L,1

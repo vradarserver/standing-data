@@ -25,11 +25,11 @@ XA85,Raj Hamsa,X-Air LS,1,P,,L,L,1
 XAIR,Raj Hamsa,X-AIR F Gumnam,1,P,,L,L,1
 XAIR,Raj Hamsa,X-AIR Falcon,1,P,,L,L,1
 XAIR,Raj Hamsa,X-AIR S,1,P,,L,L,1
-XB1,BOOM,XB-1,3,J,,L,L,1
-XL2,DISCOVERY,XL-2,1,P,,L,L,1
+XB1,Boom,XB-1,3,J,,L,L,1
+XL2,Discovery,XL-2,1,P,,L,L,1
 XL2,Liberty Aerospace,XL-2,1,P,,L,L,1
 XNON,Abs Aerolight,Xenon,1,P,,G,L,1
 XNON,Celier,Xenon,1,P,,G,L,1
 XNOS,Sonex,Xenos,1,P,,L,L,1
-XV15,Bell,301,2,T,,T,L,1
-XV15,Bell,XV-15,2,T,,T,L,1
+XV15,Bell,301,2,T,,T,L,0
+XV15,Bell,XV-15,2,T,,T,L,0

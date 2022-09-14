@@ -14,18 +14,20 @@ F104,Lockheed,Starfighter,1,J,,L,M,1
 F104,Lockheed,TF-104 Starfighter,1,J,,L,M,1
 F106,Convair,Delta Dart,1,J,,L,M,1
 F106,Convair,QF-106 Delta Dart,1,J,,L,M,1
-F111,General Dynamics,Aardvark,2,J,,L,M,1
-F111,General Dynamics,EF-111 Raven,2,J,,L,M,1
-F111,General Dynamics,F-111 Aardvark,2,J,,L,M,1
-F111,General Dynamics,Raven,2,J,,L,M,1
-F111,General Dynamics,RF-111 Aardvark,2,J,,L,M,1
-F111,Grumman,EF-111 Raven,2,J,,L,M,1
-F111,Grumman,Raven,2,J,,L,M,1
-F117,Lockheed,F-117 Nighthawk,2,J,,L,M,1
-F117,Lockheed,Nighthawk,2,J,,L,M,1
-F117,Lockheed,YF-117 Nighthawk,2,J,,L,M,1
+F111,General Dynamics,Aardvark,2,J,,L,M,0
+F111,General Dynamics,EF-111 Raven,2,J,,L,M,0
+F111,General Dynamics,F-111 Aardvark,2,J,,L,M,0
+F111,General Dynamics,Raven,2,J,,L,M,0
+F111,General Dynamics,RF-111 Aardvark,2,J,,L,M,0
+F111,Grumman,EF-111 Raven,2,J,,L,M,0
+F111,Grumman,Raven,2,J,,L,M,0
+F117,Lockheed,F-117 Night Hawk,2,J,,L,M,1
+F117,Lockheed,Night Hawk,2,J,,L,M,1
+F117,Lockheed,F-117 Nighthawk,2,J,,L,M,0
+F117,Lockheed,Nighthawk,2,J,,L,M,0
+F117,Lockheed,YF-117 Nighthawk,2,J,,L,M,0
 F13,Junkers,F-13 Replica,1,P,,L,L,1
-F13,RIMOWA,F-13 Replica,1,P,,L,L,1
+F13,Rimowa,F-13 Replica,1,P,,L,L,1
 F14,Grumman,F-14 Tomcat,2,J,,L,M,1
 F14,Grumman,Tomcat,2,J,,L,M,1
 F15,Boeing,Eagle,2,J,,L,M,1
@@ -234,7 +236,7 @@ F4,McDonnell Douglas,RF-4 Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,F-4 Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,RF-4 Phantom 2,2,J,,L,M,1
-F402,FALCON AIR,Falcon 402,1,T,,L,L,1
+F402,Falcon Air,Falcon 402,1,T,,L,L,1
 F406,Cessna,Caravan 2,2,T,,L,L,1
 F406,Cessna,F406 Caravan 2,2,T,,L,L,1
 F406,Cessna,F406 Vigilant,2,T,,L,L,1
@@ -245,7 +247,7 @@ F406,Reims,F406 Vigilant,2,T,,L,L,1
 F406,Reims,Vigilant,2,T,,L,L,1
 F41E,Aerosamara,El'brus,2,P,,L,L,1
 F41E,Aerosamara,F-41 El'brus,2,P,,L,L,1
-F421,FALCON AIR,Falcon 421,1,T,,L,L,1
+F421,Falcon Air,Falcon 421,1,T,,L,L,1
 F5,AIDC,Chung-Cheng,2,J,,L,M,1
 F5,AIDC,F-5 Chung-Cheng,2,J,,L,M,1
 F5,Canadair,CF-116,2,J,,L,M,1
@@ -392,6 +394,7 @@ FC1,Chengdu,Super 7,1,J,,L,M,1
 FC1,Chengdu,Thunder,1,J,,L,M,1
 FC1,Chengdu,Xiaolong,1,J,,L,M,1
 FC1,Pakistan,JF-17 Thunder,1,J,,L,M,1
+FC1,Pakistan,Thunder,1,J,,L,M,1
 FD2E,Flight Design,F-2e,1,E,,L,L,1
 FDCT,Flight Design,CT,1,P,,L,L,1
 FDF2,Flight Design,F-2,1,P,,L,L,1
@@ -435,13 +438,13 @@ FL55,Meteor,FL-55,1,P,,L,L,1
 FLAM,Dassault,Flamant,2,P,,L,L,1
 FLAM,Dassault,MD-311 Flamant,2,P,,L,L,1
 FLAM,Dassault,MD-312 Flamant,2,P,,L,L,1
-FLCO,FINMECCANICA,Falco,1,P,,L,L,1
-FLCO,GALILEO,Falco,1,P,,L,L,1
-FLCO,LEONARDO,Falco,1,P,,L,L,1
-FLCO,LEONARDO-FINMECCANICA,Falco,1,P,,L,L,1
+FLCO,Finmeccanica,Falco,1,P,,L,L,1
+FLCO,Galileo,Falco,1,P,,L,L,1
+FLCO,Leonardo,Falco,1,P,,L,L,1
+FLCO,Leonardo-Finmeccanica,Falco,1,P,,L,L,1
 FLCO,Pakistan,Falco,1,P,,L,L,1
-FLCO,SELEX ES,Falco,1,P,,L,L,1
-FLCO,SELEX GALILEO,Falco,1,P,,L,L,1
+FLCO,Selex ES,Falco,1,P,,L,L,1
+FLCO,Selex Galileo,Falco,1,P,,L,L,1
 FLE2,Fleet,2,1,P,,L,L,1
 FLE7,Fleet,7,1,P,,L,L,1
 FLE7,Fleet,7 Fawn,1,P,,L,L,1
@@ -530,10 +533,10 @@ FU24,Sargent-Fletcher,FU-24,1,P,,L,L,1
 FURY,Hawker,Fury,1,P,,L,L,1
 FURY,Hawker,Sea Fury,1,P,,L,L,1
 FUSI,Corvus,Fusion,1,P,,L,L,1
-FUSI,MAGNUS,Fusion,1,P,,L,L,1
-FUSI,MAGNUS,MG-11 Fusion,1,P,,L,L,1
-FW02,FLYWHALE,Flywhale,1,P,,A,L,1
-FW02,FLYWHALE,FW-02 Flywhale,1,P,,A,L,1
+FUSI,Magnus,Fusion,1,P,,L,L,1
+FUSI,Magnus,MG-11 Fusion,1,P,,L,L,1
+FW02,Flywhale,Flywhale,1,P,,A,L,1
+FW02,Flywhale,FW-02 Flywhale,1,P,,A,L,1
 FW19,Four Winds,192,1,P,,L,L,1
 FW21,Four Winds,FX-210,1,P,,L,L,1
 FW44,FMA,Fw-44 Stieglitz,1,P,,L,L,1
@@ -542,6 +545,6 @@ FW44,Focke-Wulf,Fw-44 Stieglitz,1,P,,L,L,1
 FW44,Focke-Wulf,Stieglitz,1,P,,L,L,1
 FW90,Flug Werk,Fw-190 Replica,1,P,,L,L,1
 FW90,Focke-Wulf,Fw-190 Replica,1,P,,L,L,1
-FWSB,FLEETWINGS,F-4 Sea Bird,1,P,,A,L,1
-FWSB,FLEETWINGS,Sea Bird,1,P,,A,L,1
-FX1,INNOVAVIATION,FX-1,1,P,,L,L,1
+FWSB,Fleetwings,F-4 Sea Bird,1,P,,A,L,1
+FWSB,Fleetwings,Sea Bird,1,P,,A,L,1
+FX1,Innovaviation,FX-1,1,P,,L,L,1

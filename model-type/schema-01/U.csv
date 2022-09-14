@@ -1,6 +1,6 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
-U15,PHOENIX AIR,Phoenix,1,P,,L,L,1
-U15,PHOENIX AIR,U-15 Phoenix,1,P,,L,L,1
+U15,Phoenix Air,Phoenix,1,P,,L,L,1
+U15,Phoenix Air,U-15 Phoenix,1,P,,L,L,1
 U16,Grumman,Albatross,2,P,,A,M,1
 U16,Grumman,G-111 Albatross,2,P,,A,M,1
 U16,Grumman,G-64 Albatross,2,P,,A,M,1
@@ -45,7 +45,6 @@ UH1,Bell,CH-118,1,T,,H,L,1
 UH1,Bell,CUH-1H,1,T,,H,L,1
 UH1,Bell,EH-1 Iroquois,1,T,,H,L,1
 UH1,Bell,HH-1 Iroquois,1,T,,H,L,1
-UH1,Bell,Huey,1,T,,H,L,1
 UH1,Bell,Iroquois,1,T,,H,L,1
 UH1,Bell,SH-1 Iroquois,1,T,,H,L,1
 UH1,Bell,TH-1E Iroquois,1,T,,H,L,1
@@ -69,6 +68,7 @@ UH1,Fuji,UH-1,1,T,,H,L,1
 UH1,Global,Huey 800,1,T,,H,L,1
 UH1,Panha,Shabaviz 2-75,1,T,,H,L,1
 UH1,UNC,Ultra Huey,1,T,,H,L,1
+UH1,Bell,Huey,1,T,,H,L,0
 UH12,Fairchild Hiller,E4,1,P,,H,L,1
 UH12,Fairchild Hiller,L3,1,P,,H,L,1
 UH12,Fairchild Hiller,L4,1,P,,H,L,1
@@ -107,6 +107,8 @@ UL20,Streamline Welding,Ultimate Companion,1,P,,L,L,1
 UL20,Ultimate,20,1,P,,L,L,1
 UL2F,Aeros,Flamingo,1,P,,L,L,1
 UL2F,Aeros,UL-2000 Flamingo,1,P,,L,L,1
+UL39,CVUT,Albi,1,P,,L,L,1
+UL39,CVUT,UL-39 Albi,1,P,,L,L,1
 UL45,3Xtrim,3X-47 Ultra,1,P,,L,L,1
 UL45,3Xtrim,450 Ultra,1,P,,L,L,1
 UL45,3Xtrim,Ultra,1,P,,L,L,1
