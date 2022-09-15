@@ -16,6 +16,7 @@
 440841,OE-GDF,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Sparfell Luftfahrt,LDX,50500325,2015
 440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
 440B14,OE-HWJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Avcon Jet,AOJ,750-0259,
+440B30,OE-IWF,B738,Boeing,737-8AS,Boeing 737-8AS,0,ASL Airlines Belgium,TAY,35553,2007
 440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
 440B6A,OE-FRJ,C525,Cessna,525 CitationJet CJ1+,Cessna 525 CitationJet CJ1+,0,Pink Sparrow,SOW,525-0673,2008
@@ -46,6 +47,7 @@
 440BCF,OE-LNZ,B752,Boeing,757-223(PCF),Boeing 757-223(PCF),0,DHL Air Austria,DHA,32398,2002
 440BDF,OE-HEC,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,IJM International Jet Management,IJM,20556,
 440BEE,OE-LDJ,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1098,2010
+440C04,OE-HZB,AT43,ATR,42-320(F),ATR 42-320(F),0,Zimex Aviation,IMX,333,1992
 440C13,OE-XVP,EC35,Eurocopter,EC135 T3H,Eurocopter EC135 T3H,0,Christophorus Flugrettungsverein (ÖAMTC),,2171,2022
 440C17,OE-LHA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sparfell Luftfahrt,LDX,161,
 440C1B,OE-IXE,B738,Boeing,737-8AS,Boeing 737-8AS,0,ASL Airlines Belgium,TAY,38494,2009

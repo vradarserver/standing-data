@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39A202,F-HIQC,B738,Boeing,737NG 8ASBCF/W,Boeing 737NG 8ASBCF/W,0,ASL Airlines France,FPO,34178,2006
+39A203,F-HIQD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,Federal Express,FDX,33603,2006
+39A204,F-HIQE,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Ireland,ABR,33612,2007
 39A535,F-HJJV,C25A,Cessna,525A CitationJet 2,Cessna 525A CitationJet 2,0,VallJet,VLJ,525A-0206,
 39AB12,F-HKYS,A339,Airbus,A330-941,Airbus A330-941,0,Corsair,CRL,1992,2021
 39ADEE,F-HLPO,M20P,Mooney,M-20F Executive,Mooney M-20F Executive,1,Private,,670327,
