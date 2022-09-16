@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39D300,F-HUYA,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia France,TVF,42271,2016
 39D301,F-HUYB,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,42274,2017
+39D303,F-HUYD,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,42087,2017
 39D304,F-HUYE,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,42278,2017
 39D305,F-HUYF,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,38881,2013
 39D306,F-HUYG,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,40544,2013
