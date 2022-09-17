@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 750338,9M-XXR,A333,Airbus,A330-343,Airbus A330-343,0,AirAsia X,XAX,654,2003
 7504E0,9M-WCA,B738,Boeing,737-81Q(BCF),Boeing 737-81Q(BCF),0,World Cargo Airlines,WCM,29052,2000
+7504E8,9M-KXA,B734,Boeing,737-4Q3(SF),Boeing 737-4Q3(SF),0,Kargo Xpress,KXP,26605,1995
 7504EB,9M-RAV,A320,Airbus,A320-216,Airbus A320-216,0,AirAsia,AXM,8746,2019
 7504F7,9M-RXC,B762,Boeing,767-232(BDSF),Boeing 767-232(BDSF),0,Raya Airways,RMY,22224,1983
 7504FE,9M-RCH,A320,Airbus,A320-216,Airbus A320-216,0,AirAsia,AXM,3679,2008
