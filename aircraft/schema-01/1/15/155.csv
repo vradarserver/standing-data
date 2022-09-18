@@ -1,8 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+155C39,RA-89145,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95205,2020
 155C3A,RA-89146,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95206,2020
 155C3B,RA-89147,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95207,2020
 155C3C,RA-89148,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95208,2020
 155C42,RA-89154,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95122,2017
+155C44,RA-89156,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95168,2018
+155C45,RA-89157,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95170,2018
 155C46,RA-89158,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95171,2018
 155C51,RA-89169,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95209,2021
 155C53,RA-89171,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95212,2021
@@ -14,4 +17,7 @@
 155C59,RA-89177,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95218,2021
 155C5A,RA-89178,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Rossiya,SDM,95219,2021
 155C5B,RA-89179,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Azimut,AZO,95182,2019
+155C5C,RA-89180,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Azimut,AZO,95184,2019
+155C60,RA-89184,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95220,2021
 155C6B,RA-89195,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95167,2018
+155C6C,RA-89196,SU95,Sukhoi,Superjet 100-95B,Sukhoi Superjet 100-95B,0,Red Wings Airlines,RWZ,95169,2018

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E49522,PR-XMX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,61586,2021
 E4962E,PR-YJD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Azul Linhas Aéreas Brasileiras,AZU,10173,2021
+E49686,PR-GEU,B737,Boeing,737-752 (W),Boeing 737-752 (W),0,Gol Transportes Aéreos,GLO,34295,2005
 E49699,PR-YSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10582,2021
 E49763,PR-TQC,A320,Airbus,A320-214,Airbus A320-214,0,LATAM Chile,LAN,4860,2011
 E4979E,PR-SLI,B733,Boeing,737-375(BDSF),Boeing 737-375(BDSF),0,Sideral Linhas Aéreas,SID,23708,1987
@@ -14,6 +15,7 @@ E49889,PS-GPN,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,G
 E4988B,PS-GPM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,65053,2019
 E4988D,PS-GPK,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,60202,2019
 E4988E,PS-GPJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,60220,2019
+E4988F,PS-GPI,B38M,Boeing,737-8 MAX,Boeing 737-8 MAX,0,Gol Transportes Aéreos,GLO,44348,2019
 E498B0,PR-AKN,AT76,ATR,72-600,ATR 72-600,0,Azul Linhas Aéreas Brasileiras,AZU,1596,2020
 E498B1,PR-AKM,AT76,ATR,72-600,ATR 72-600,0,Azul Linhas Aéreas Brasileiras,AZU,1594,2020
 E498B2,PR-AKO,AT76,ATR,72-600,ATR 72-600,0,Azul Linhas Aéreas Brasileiras,AZU,1556,2021

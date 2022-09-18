@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AE503D,09-0540,B737,Boeing,C-40C,Boeing C-40C,0,Priority Air Transport,PAT,40706,2010
 AE52D1,11-08090,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,US Army,,,
 AE587C,60-0023,B52,Boeing,B-52H Stratofortress,Boeing B-52H Stratofortress,0,United States Air Force,AIO,464388,1960
 AE599B,13-08134,H47,Boeing Vertol,CH-47 Chinook,Boeing Vertol CH-47 Chinook,0,US Army,,M-8134,
