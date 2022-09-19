@@ -325,8 +325,8 @@ GLF5,Gulfstream Aerospace,Shavit,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,Gulfstream G500,2,J,A,L,M,0
 GLF6,Gulfstream Aerospace,G-6 Gulfstream G650,2,J,A,L,M,1
 GLF6,Gulfstream Aerospace,Gulfstream G650,2,J,A,L,M,1
-GLID,,Glider,,,,,,0
-GLID,,Sailplane,,,,,,0
+GLID,,Glider,,,,,,1
+GLID,,Sailplane,,,,,,1
 GLSP,New GlaStar,Sportsman 2+2,1,P,,L,L,1
 GLST,Glasair,GlaStar,1,P,,L,L,1
 GLST,Glasair,Sportsman 2+2,1,P,,L,L,1
@@ -394,5 +394,5 @@ GY80,SOCATA,GY-80 Horizon,1,P,,L,L,1
 GY80,SOCATA,Horizon,1,P,,L,L,1
 GY80,Sud,GY-80 Horizon,1,P,,L,L,1
 GY80,Sud,Horizon,1,P,,L,L,1
-GYRO,,Microlight autogyro,,,,,,0
-GYRO,,Ultralight autogyro,,,,,,0
+GYRO,,Microlight autogyro,,,,,,1
+GYRO,,Ultralight autogyro,,,,,,1

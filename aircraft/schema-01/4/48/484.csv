@@ -1,7 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 484084,PJ-DVG,DHC6,De Havilland Canada,DHC-6-300 Twin Otter,De Havilland Canada DHC-6-300 Twin Otter,0,Divi Divi Air,DVR,347,1972
 48412A,P4-IFD,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Deer Jet,DER,5261,2012
-484221,BRW5,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,
+484221,,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,
 4844A3,P4-AAI,A321,Airbus,A321-231,Airbus A321-231,0,Aruba Airlines,ARU,2919,2006
 4848E1,PH-CYP,PC12,Pilatus,PC-12-47E,Pilatus PC-12-47E,0,SMT Shipping,,1687,2017
 484B91,PH-BGK,B737,Boeing,737-7K2,Boeing 737-7K2,0,KLM,KLM,38054,2010

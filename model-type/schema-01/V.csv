@@ -73,6 +73,7 @@ VF35,Lockheed Martin,F-35B Lightning II,1,J,,L,M,0
 VF35,Lockheed Martin,Lightning II (F-35B),1,J,,L,M,0
 VF60,VulcanAir,Mission,1,T,,L,L,1
 VF60,VulcanAir,VF-600 Mission,1,T,,L,L,1
+VFHC,,Unmanned aircraft (can hover),,,,,,1
 VG3T,Aviakit,Vega 3000,1,P,,L,L,1
 VGUL,Percival,K-1 Vega Gull,1,P,,L,L,1
 VGUL,Percival,P-10 Vega Gull,1,P,,L,L,1

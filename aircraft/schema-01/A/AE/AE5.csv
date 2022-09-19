@@ -5,8 +5,9 @@ AE587C,60-0023,B52,Boeing,B-52H Stratofortress,Boeing B-52H Stratofortress,0,Uni
 AE599B,13-08134,H47,Boeing Vertol,CH-47 Chinook,Boeing Vertol CH-47 Chinook,0,US Army,,M-8134,
 AE59A8,13-08139,H47,Boeing Vertol,CH-47 Chinook,Boeing Vertol CH-47 Chinook,0,US Army,,M-8139,
 AE59BD,14-08156,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,US Army,,M8156,
+AE5B85,07-0808,PC12,Pilatus,U-28A,Pilatus U-28A,0,US Army,,808,
 AE5CDE,90-26232,H60,Sikorsky,HH-60G Pave Hawk,Sikorsky HH-60G Pave Hawk,0,US Army,,70-1559,
 AE5CEB,92-26470,H60,Sikorsky,HH-60G Pave Hawk,Sikorsky HH-60G Pave Hawk,0,US Army,,,
 AE5D3C,16-20819,H60,Sikorsky,UH-60M Blackhawk,Sikorsky UH-60M Blackhawk,0,United States Army,,,
-AE5DFC,16-5840,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,,5840,2017
-AE5F0C,16-5856,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,,5856,2018
+AE5DFC,16-5840,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,AIO,5840,2017
+AE5F0C,16-5856,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,AIO,5856,2018

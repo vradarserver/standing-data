@@ -597,6 +597,8 @@ PANT,Rotec,Sea Panther,1,P,,L,L,1
 PAR1,Paradise,P-1,1,P,,L,L,1
 PAR1,Paradise,P-2,1,P,,L,L,1
 PAR4,Paradise,P-4,1,P,,L,L,1
+PARA,,Paraplane,,,,,,1
+PARA,,Powered parachute,,,,,,1
 PARL,Pietenpol,Aerial,1,P,,L,L,1
 PARL,St. Croix,Pietenpol Aerial,1,P,,L,L,1
 PAT2,ATAC,Patriot 2,1,P,,L,L,1

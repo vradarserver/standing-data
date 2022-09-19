@@ -94,8 +94,8 @@ UH12,Hiller,UH-12SL4,1,P,,H,L,1
 UH12,Rogerson Hiller,Hauler,1,P,,H,L,1
 UH12,Rogerson Hiller,UH-12E Hauler,1,P,,H,L,1
 UH1Y,Bell,UH-1Y,2,T,,H,M,1
-UHEL,,Microlight helicopter,,,,,,0
-UHEL,,Ultralight helicopter,,,,,,0
+UHEL,,Microlight helicopter,,,,,,1
+UHEL,,Ultralight helicopter,,,,,,1
 UL10,Streamline Welding,10 Ultimate Competitor,1,P,,L,L,1
 UL10,Streamline Welding,10 Ultimate Winner,1,P,,L,L,1
 UL10,Streamline Welding,Ultimate Competitor,1,P,,L,L,1
@@ -112,8 +112,8 @@ UL39,CVUT,UL-39 Albi,1,P,,L,L,1
 UL45,3Xtrim,3X-47 Ultra,1,P,,L,L,1
 UL45,3Xtrim,450 Ultra,1,P,,L,L,1
 UL45,3Xtrim,Ultra,1,P,,L,L,1
-ULAC,,Microlight aircraft,,,,,,0
-ULAC,,Ultralight aircraft,,,,,,0
+ULAC,,Microlight aircraft,,,,,,1
+ULAC,,Ultralight aircraft,,,,,,1
 ULPA,Ullmann,Panther,1,P,,L,L,1
 ULTS,American Sportscopter,Ultrasport 496,1,P,,H,L,1
 UM18,Air & Space,18,1,P,,G,L,1

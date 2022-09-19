@@ -1,16 +1,16 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-06A1C7,A7-CGB,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6167,2015
-06A1CA,A7-CGE,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6301,2017
-06A1CB,A7-CGF,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6366,2018
-06A1CC,A7-CGG,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6401,2019
-06A1CD,A7-CGH,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6465,
-06A1CF,A7-CGJ,GLF6,Gulfstream Aerospace,G650,Gulfstream G650,0,Qatar Executive,,6468,
-06A1D0,A7-CGL,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6469,
-06A1D1,A7-CGM,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Qatar Executive,,,
+06A1C7,A7-CGB,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6167,2015
+06A1CA,A7-CGE,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6301,2017
+06A1CB,A7-CGF,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6366,2018
+06A1CC,A7-CGG,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6401,2019
+06A1CD,A7-CGH,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6465,
+06A1CF,A7-CGJ,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Qatar Executive,QQE,6468,
+06A1D0,A7-CGL,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6469,
+06A1D1,A7-CGM,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6471,
 06A30D,A7-BFZ,B77L,Boeing,777-F,Boeing 777-F,0,Qatar Airways,QTR,66872,2021
 06A364,A7-ACS,A332,Airbus,A330-202,Airbus A330-202,0,Qatar Airways,QTR,760,2006
 06A36C,A7-ACT,A332,Airbus,A330-202,Airbus A330-202,0,Qatar Airways,QTR,820,2007
 06A372,A7-BOA,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36159,2009
 06A373,A7-BOB,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36161,2009
 06A374,A7-BOC,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36164,2010
-06A375,A7-BOD,B77W,Boeing,777-367ER,Boeing 777-367ER,0,Qatar Airways,QTR,36165,2009
+06A375,A7-BOD,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36165,2009

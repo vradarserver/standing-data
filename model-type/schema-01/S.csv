@@ -500,7 +500,7 @@ SHEK,Rans,S-16 Shekari,1,P,,L,L,1
 SHEK,Rans,Shekari,1,P,,L,L,1
 SHER,Sherpa,Sherpa,1,P,,L,L,1
 SHER,Sherpa,Sherpa C-400,1,P,,L,L,1
-SHIP,,Airship,,,,,,0
+SHIP,,Airship,,,,,,1
 SHOE,Mercury,Shoestring,1,P,,L,L,1
 SHOP,Salvay-Stark,Skyhopper,1,P,,L,L,1
 SHOR,Higher Class,Super Hornet,1,P,,L,L,1

@@ -1,14 +1,14 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-4AC8DA,SE-RFZ,B789,Boeing,787-9 BBJ,Boeing 787-9 BBJ,0,TUIfly Nordic,BLX,44579,2017
+4AC8DA,SE-RFZ,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,TUIfly Nordic,BLX,44579,2017
 4AC96E,SE-RKN,G280,Gulfstream,G280,Gulfstream G280,0,Biltema Nordic Services AB,,2223,2021
 4AC98A,SE-RLJ,B738,Boeing,737-8Q8(SF),Boeing 737-8Q8(SF),0,West Atlantic,NPT,30671,2003
 4AC99A,SE-RLZ,H25B,Hawker Beechcraft,900 XP,Hawker Beechcraft 900 XP,1,Private,,HA-0104,
 4AC9AC,SE-RML,C501,Cessna,501 Citation 1SP,Cessna 501 Citation 1SP,0,Jivair AB,JIV,501-0232,
 4AC9C5,SE-RNE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUIfly Nordic,BLX,44650,2019
-4AC9C6,SE-RNF,B38M,Boeing,737-8 MAX,Boeing 737-8 MAX,0,TUIfly Nordic,BLX,44620,2022
+4AC9C6,SE-RNF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUIfly Nordic,BLX,44620,2022
 4AC9D0,SE-RNP,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,EFS European Flight Service,EUW,525B-0646,2021
 4ACA6B,SE-RSK,E195,Embraer,E195LR,Embraer E195LR,0,SAS Link,SVS,19000120,2007
-4ACA6D,SE-RSM,E195,Embraer,195,Embraer 195,0,SAS Link,SVS,19000143,2008
+4ACA6D,SE-RSM,E195,Embraer,E195LR,Embraer E195LR,0,SAS Link,SVS,19000143,2008
 4ACA6F,SE-RSO,E195,Embraer,E195LR,Embraer E195LR,0,SAS Link,SVS,19000168,2008
-4ACB02,SE-RXB,B738,Boeing,737-84P(WL),Boeing 737-84P(WL),0,Norwegian Air Sweden,NSZ,36781,2010
+4ACB02,SE-RXB,B738,Boeing,737-84P,Boeing 737-84P,0,Norwegian Air Sweden,NSZ,36781,2010
 4ACB04,SE-RXD,B738,Boeing,737-86N,Boeing 737-86N,0,Norwegian Air Sweden,NSZ,38043,2013

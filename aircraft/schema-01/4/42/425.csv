@@ -1,6 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-42511C,,-GND,,Drone,Drone,1,Private,,,
-42511D,,-GND,,Drone,Drone,1,Private,,,
-42514B,,-GND,,Drone,Drone,1,Private,,,
+42511C,,VFHC,,Drone,Drone,1,Private,,,
+42511D,,VFHC,,Drone,Drone,1,Private,,,
+42514B,,VFHC,,Drone,Drone,1,Private,,,
 4251B0,,GLID,,Glider,Glider,1,Private,,,
-4251CA,,-GND,,Drone,Drone,1,Private,,,
+4251CA,,VFHC,,Drone,Drone,1,Private,,,

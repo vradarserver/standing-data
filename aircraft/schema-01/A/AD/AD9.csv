@@ -1,2 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AD9642,N975AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,64960,2019
+AD99F9,N976AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,64967,2019
 AD9AC8,N976JS,C750,Cessna,750 Citation X,Cessna 750 Citation X,0,flyExclusive,JRE,750-0243,2005
+AD9DB0,N977AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43391,2019

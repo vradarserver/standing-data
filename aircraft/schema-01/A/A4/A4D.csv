@@ -1,3 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A4D483,N410DZ,A339,Airbus,A330-941,Airbus A330-941,0,Delta Air Lines,DAL,1990,2021
 A4D5A1,N410RK,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,259,2022
+A4D5C7,N410SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000904,2022
+A4D97E,N411SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000907,2022
+A4DD35,N412SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000908,2022

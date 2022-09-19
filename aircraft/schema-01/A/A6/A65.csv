@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-A651E1,N506SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,Skywest Airlines,OZW,17000887,2021
-A6594F,N508SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,Skywest Airlines,OZW,17000889,2021
+A651E1,N506SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000887,2021
+A65598,N507SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000888,2021
+A6594F,N508SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000889,2021
 A65D06,N509SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000890,2021
