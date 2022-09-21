@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+0D0A7D,XA-UZC,MD82,McDonnell Douglas,MD-82,McDonnell Douglas MD-82,0,Aeronaves TSM,VTM,49990,1990
+0D0B30,XA-VCB,MD83,McDonnell Douglas,MD-83,McDonnell Douglas MD-83,0,Aeronaves TSM,VTM,53293,1992
 0D0BFF,XA-CCC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aeroméxico,AMX,43715,2021
 0D0C7C,XA-CCM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aeroméxico,AMX,43758,2021
 0D0C7D,XA-NNN,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Aeroméxico,AMX,43716,2021
@@ -12,6 +14,7 @@
 0D0D40,XA-VRV,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10454,2021
 0D0D41,XA-VRW,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10601,2021
 0D0D50,XA-VRZ,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10469,2021
+0D0D52,XA-UFO,MD83,McDonnell Douglas,MD-83,McDonnell Douglas MD-83,0,Aeronaves TSM,VTM,49941,1990
 0D0D61,XA-FTY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,266,
 0D0D66,XA-VBQ,A321,Airbus,A321-231,Airbus A321-231,0,VivaAerobús,VIV,6201,2014
 0D0D6F,XA-OCC,B738,Boeing,737-8JP,Boeing 737-8JP,0,Aeroméxico,AMX,39002,2010

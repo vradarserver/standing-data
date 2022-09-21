@@ -1,7 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ACF0D8,N933AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,44098,2022
+ACF48F,N934AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43374,2022
 ACF846,N935AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,44077,2022
+ACFBFD,N936AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43379,2022
 ACFC26,N936CA,B744,Boeing,747-446(BCF),Boeing 747-446(BCF),0,National Airlines,NCR,25308,1991
 ACFC8A,N936GA,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2236,
 ACFD29,N936NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10316,2021
 ACFFB4,N937AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,44100,2022
+ACFFBE,N937AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,10394,2021
