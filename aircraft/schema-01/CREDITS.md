@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name              | Contributions |
 | :--               | --: |
-| `OSN`             | 1,158 |
-| `Andrew`          | 944 |
+| `OSN`             | 1,284 |
+| `Andrew`          | 945 |
 | `SkyDiscovery`    | 337 |
 | `EDDN`            | 304 |
-| `科罗娜`             | 241 |
+| `科罗娜`             | 242 |
 | `spotterblog`     | 103 |
 | `Lanorge`         | 66 |
 | `flybull`         | 24 |
