@@ -1,5 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AD5273,N958AV,A320,Airbus,A320-214,Airbus A320-214,0,Avianca,AVA,6103,2014
 AD5395,N958NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10860,2022
+AD562A,N959AV,A320,Airbus,A320-214,Airbus A320-214,0,Avianca,AVA,6110,2014
+AD574C,N959NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10921,2022
 AD5AE7,N96MG,C30J,Lockheed,LM-100J Hercules,Lockheed LM-100J Hercules,0,Pallas Aviation,,5889,2018
+AD5C3A,N960AV,A320,Airbus,A320-214,Airbus A320-214,0,Avianca,AVA,6125,2014
 AD5CA3,N960F,TBM9,Daher,TBM-940,Daher TBM-940,1,Private,,1429,
