@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 8A0827,PK-LDJ,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air,BTK,40061,2014
 8A0855,PK-PJJ,RJ85,Avro,RJ-85 Avroliner,Avro RJ-85 Avroliner,0,Mountain Air Express,PKP,2239,1993
+8A088A,PK-SAJ,A320,Airbus,A320-232,Airbus A320-232,0,Super Air Jet,SJV,4488,2010
 8A088B,PK-SAK,A320,Airbus,A320-232,Airbus A320-232,0,Super Air Jet,SJV,4506,2010
 8A08A0,PK-SAV,A320,Airbus,A320-232,Airbus A320-232,0,Super Air Jet,SJV,4637,2011
 8A08A1,PK-SAT,A320,Airbus,A320-232,Airbus A320-232,0,Super Air Jet,SJV,6032,2014

@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4241E2,VP-CYW,A319,Airbus,A319-115(CJ),Airbus A319-115(CJ),0,Business Aviation Asia,UNA,4228,2010
+424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
+424502,VQ-BHE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39868,2015
 4245C6,VP-CUY,B738,Boeing,737-8HX,Boeing 737-8HX,1,Private,,29662,2010
 4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
 424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
@@ -7,6 +9,7 @@
 424667,VP-BBE,B752,Boeing,757-23N,Boeing 757-23N,1,Private,,30232,1999
 424683,VP-BLS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6477,
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
+424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
 424839,VP-CBN,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5197,
 424847,VP-CTC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70056,
 424852,VP-CMQ,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Instant Air Aviation,,6445,

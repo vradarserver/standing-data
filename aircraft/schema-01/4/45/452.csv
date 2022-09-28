@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 452090,LZ-CRI,B734,Boeing,737-446,Boeing 737-446,0,GP Aviation,GPX,28832,1997
+452091,LZ-EBB,B733,Boeing,737-3H4,Boeing 737-3H4,0,Electra Airways,EAF,27955,1995
 45209D,LZ-AWY,A332,Airbus,A330-223,Airbus A330-223,0,GullivAir,GBG,939,2008
 4520CE,LZ-FBK,A320,Airbus,A320-214,Airbus A320-214,0,Condor,CFG,7345,2016
 4520CF,LZ-FBH,A320,Airbus,A320-214,Airbus A320-214,0,Bulgaria Air,LZB,7238,2016
