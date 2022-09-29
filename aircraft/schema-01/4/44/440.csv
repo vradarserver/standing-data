@@ -7,6 +7,7 @@
 4402F0,OE-INO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,05146,2012
 440378,OE-VDP,DA42,Diamond,DA 42 NG Twin Star,Diamond DA 42 NG Twin Star,1,Private,,42.N128,
 440382,OE-FMT,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Jet 24 GmbH,,50000348,2015
+440393,OE-LTF,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Sparfell Luftfahrt,LDX,6327,2018
 4404A4,OE-ICL,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5318,2012
 4404BD,OE-LFE,B752,Boeing,757-200,Boeing 757-200,0,ASL Airlines Belgium,TAY,25622,1993
 4405AA,OE-HPG,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Sparfell Luftfahrt,LDX,20251,2008
@@ -17,6 +18,7 @@
 440841,OE-GDF,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Sparfell Luftfahrt,LDX,50500325,2015
 440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
 440B14,OE-HWJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Avcon Jet,AOJ,750-0259,
+440B2F,OE-IWE,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines Belgium,TAY,35552,2007
 440B30,OE-IWF,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35553,2007
 440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006

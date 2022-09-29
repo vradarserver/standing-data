@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4D209F,9H-GGG,B737,Boeing,737-7ZX(BBJ),Boeing 737-7ZX(BBJ),0,Jet Aviation Flight Services (Malta),,40119,2013
 4D2115,9H-MIR,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,HiFly Malta,HFM,5368,1998
+4D214B,9H-LGM,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Luxwing Ltd.,LWG,50000187,2010
 4D21C8,9H-TJC,B738,Boeing,737-86N,Boeing 737-86N,0,Corendon Air Europe,CXI,38012,2011
 4D21E0,9H-XFW,A319,Airbus,A319-112,Airbus A319-112,0,Hi Fly Malta,HFM,3689,2008
 4D228E,9H-EMU,A320,Airbus,A320-214,Airbus A320-214,0,Airhub Airlines,GJM,1087,1999
@@ -133,3 +134,4 @@
 4D23EA,9H-CXH,B738,Boeing,737-8ME,Boeing 737-8ME,0,Corendon Airlines Europe,CXI,60177,2018
 4D23EB,9H-MLL,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express Malta,MLH,5372,2012
 4D23F0,9H-GEF,B738,Boeing,737-86Q,Boeing 737-86Q,0,Aeroitalia,AEZ,30286,2003
+4D23FD,9H-QEU,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,36569,2008
