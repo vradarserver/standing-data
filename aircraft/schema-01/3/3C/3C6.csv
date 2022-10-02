@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+3C6433,D-AIAS,A321,Airbus,A321-211(WL),Airbus A321-211(WL),0,Condor,CFG,6122,2014
 3C644B,D-AIBK,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa CityLine,CLH,2131,2004
-3C644C,D-AIBL,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa,DLH,2174,2004
+3C644C,D-AIBL,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa CityLine,CLH,2174,2004
 3C644D,D-AIBM,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa CityLine,CLH,2262,2004
 3C644E,D-AIBN,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa CityLine,CLH,2416,2005
 3C6450,D-AIBP,A319,Airbus,A319-112,Airbus A319-112,0,Lufthansa CityLine,CLH,2547,2005
