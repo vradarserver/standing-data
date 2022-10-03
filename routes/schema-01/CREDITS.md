@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 63,972 |
-| `vand`                         | 28,056 |
+| `Piet Delagrense`              | 64,062 |
+| `vand`                         | 28,296 |
 | `EDDG`                         | 24,170 |
-| `Pascal Ensinck`               | 24,005 |
+| `Pascal Ensinck`               | 24,020 |
 | `Slavi`                        | 21,077 |
 | `Phillip Rohmberger`           | 14,293 |
 | `Jon Fear`                     | 13,207 |
-| `sib64`                        | 11,119 |
+| `sib64`                        | 11,147 |
 | `Lanorge`                      | 10,522 |
 | `bigrossco`                    | 10,306 |
-| `SteveF`                       | 8,363 |
+| `SteveF`                       | 8,542 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Neboknede`                    | 5,660 |
+| `Neboknede`                    | 5,665 |
 | `EDDT Manu`                    | 5,320 |
-| `McBridden`                    | 5,107 |
+| `McBridden`                    | 5,134 |
 | `AP100`                        | 4,634 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -50,8 +50,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Brian Leyton`                 | 1,422 |
 | `Cody E`                       | 1,388 |
 | `whho`                         | 1,378 |
+| `UA4WIY`                       | 1,377 |
 | `sesom`                        | 1,375 |
-| `UA4WIY`                       | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
@@ -61,8 +61,8 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
+| `Mark Taylor`                  | 1,000 |
 | `TEMU1086`                     | 998 |
-| `Mark Taylor`                  | 997 |
 | `Igor Chekhonin`               | 977 |
 | `Gavin-D`                      | 970 |
 | `Dauren`                       | 937 |
@@ -76,7 +76,7 @@ Please note that credit files are updated less frequently than the data files.
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 742 |
 | `delcomp`                      | 715 |
-| `Daniel.cornejo.campos`        | 707 |
+| `Daniel.cornejo.campos`        | 709 |
 | `foxhunter`                    | 707 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
@@ -84,7 +84,7 @@ Please note that credit files are updated less frequently than the data files.
 | `wogman`                       | 661 |
 | `Chriso`                       | 653 |
 | `D. M.`                        | 647 |
-| `科罗娜`                          | 646 |
+| `科罗娜`                          | 647 |
 | `Tomaz`                        | 644 |
 | `YKKHPPP`                      | 643 |
 | `Datamix`                      | 641 |
@@ -243,8 +243,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Chris Gault`                  | 61 |
 | `EDLM`                         | 61 |
 | `dramis`                       | 60 |
+| `ez_duce`                      | 60 |
 | `LU4CN`                        | 60 |
-| `ez_duce`                      | 58 |
 | `Samuel Rodriguez`             | 56 |
 | `wogggieee`                    | 54 |
 | `rdmazo`                       | 53 |
@@ -977,6 +977,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Paul Sekuh`                   | 1 |
 | `pavleto5`                     | 1 |
 | `perlguy9`                     | 1 |
+| `Peter Hutt`                   | 1 |
 | `plngeek`                      | 1 |
 | `plohse`                       | 1 |
 | `plurkmans`                    | 1 |
