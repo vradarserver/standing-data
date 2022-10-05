@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3FF106,D-MSSQ,EV97,Evektor,EuroStar,Evektor EuroStar,1,Private,,,
+3FF345,D-MRKF,COY2,Rans,S-6TD Coyote 2,Rans S-6TD Coyote 2,1,Private,,1294703,
 3FF34E,D-MHLE,MT,AutoGyro,MT-03,AutoGyro MT-03,1,Private,,,
 3FF3D8,D-MEDY,GLID,,Glider,Glider,1,Private,,,
 3FF79F,D-MCPF,FK9,B & F Technik,FK-9,B & F Technik FK-9,1,Private,,09-06-008,

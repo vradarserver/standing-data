@@ -16,6 +16,7 @@
 440645,OE-ASM,RV7,Vans,RV-7A,Vans RV-7A,1,Private,,73301,
 4406BC,OE-LDM,DC6,Douglas,DC-6B,Douglas DC-6B,0,The Flying Bulls,,45563,1958
 440841,OE-GDF,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Sparfell Luftfahrt,LDX,50500325,2015
+440A7B,OE-IPG,A320,Airbus,A320-232,Airbus A320-232,0,Crown Airlines,,4023,2009
 440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
 440B14,OE-HWJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Avcon Jet,AOJ,750-0259,
 440B2F,OE-IWE,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines Belgium,TAY,35552,2007
@@ -74,6 +75,7 @@
 440C70,OE-LDP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Sparfell Luftfahrt,LDX,70089,
 440C83,OE-LSM,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10142,2022
 440C9B,OE-GTR,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Porsche Air Service,,560-6324,2022
+440CBD,OE-GAF,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,Fly Tyrol,FTY,525B-0673,
 440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
