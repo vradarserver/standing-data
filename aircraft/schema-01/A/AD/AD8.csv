@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AD81DF,N97FX,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Flexjet,LXJ,9252,2008
 AD8766,N971AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43339,2018
 AD8B1D,N972AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43389,2019
 AD8ED4,N973AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43346,2019

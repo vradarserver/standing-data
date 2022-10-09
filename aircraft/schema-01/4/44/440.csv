@@ -31,6 +31,7 @@
 440B9C,OE-LAL,A332,Airbus,A330-243,Airbus A330-243,1,Private,,832,2007
 440BAC,OE-GWE,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Salzburg Jet Aviation,MOZ,560-5731,
 440BB1,OE-FNV,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,GlobeAir,GAC,510-0157,
+440BB2,OE-FHT,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,62.125,
 440BB6,OE-FAB,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,42.008,2021
 440BBE,OE-LNA,B752,Boeing,757-23APF,Boeing 757-23APF,0,DHL Air Austria,DHA,24971,1991
 440BBF,OE-LNB,B752,Boeing,757-236(PCF),Boeing 757-236(PCF),0,DHL Air Austria,DHA,25620,1992
@@ -75,7 +76,9 @@
 440C70,OE-LDP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Sparfell Luftfahrt,LDX,70089,
 440C83,OE-LSM,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10142,2022
 440C9B,OE-GTR,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Porsche Air Service,,560-6324,2022
+440CA1,OE-ECO,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1080,
 440CBD,OE-GAF,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,Fly Tyrol,FTY,525B-0673,
 440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
+440D01,OE-GJA,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,258810,

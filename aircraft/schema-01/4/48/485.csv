@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 485032,PH-DAS,C172,Reims,F172M Skyhawk,Reims F172M Skyhawk,1,Private,,F17200999,1973
 485228,,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,
+485564,PH-CBV,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,384,2022
 485644,PH-WIK,AS50,Eurocopter,Squirrel AS.350 B3,Eurocopter Squirrel AS.350 B3,0,HeliAir Helicopter Services,,3795,2004
 485A86,PH-TFU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI fly Netherlands,TFL,44652,2021
 485D34,PH-FRA,TBM9,Daher,TBM-900,Daher TBM-900,1,Private,,1058,2015
+485EC4,PH-ZDZ,BE20,Beech,B200 Super King Air,Beech B200 Super King Air,1,Private,,BB-1675,1999
 485EC6,PH-ZGZ,BE9L,Beech,C90A King Air,Beech C90A King Air,1,Private,,LJ-1236,1990

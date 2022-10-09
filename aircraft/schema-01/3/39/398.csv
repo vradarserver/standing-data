@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 398274,F-HATU,R44,Robinson,R44 Raven II,Robinson R44 Raven II,1,Private,,14354,
+39840D,F-HBAN,E35L,Embraer,EMB-135BJ Legacy 650,Embraer EMB-135BJ Legacy 650,0,Thalair,,14501141,2011
 398508,TC-FHC,A320,Airbus,A320-214,Airbus A320-214,0,Aigle Azur,AAF,3852,2009
 398571,F-HBLR,E190,Embraer,E190STD,Embraer E190STD,0,Hop!,HOP,19000322,2009
 398572,F-HBLS,E190,Embraer,E190STD,Embraer E190STD,0,Hop!,HOP,19000326,2009

@@ -17,6 +17,7 @@
 50023B,T7-CAPE,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,1,Private,,73010,
 500241,T7-MCV,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6059,
 50024B,,GL5T,Bombardier,BD-700-1A11 Global 5000,Bombardier BD-700-1A11 Global 5000,1,Private,,9569,
+500253,T7-WSS,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9159,
 500254,T7-LASER,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500590,
 500260,T7-FJA,F900,Dassault,Falcon 900X,Dassault Falcon 900X,1,Private,,616,
 500263,T7-ALX,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258536,
@@ -26,6 +27,7 @@
 500272,T7-BAT,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14500995,2007
 500273,T7-SERES,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,356,2000
 500274,T7-TANMG,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5523,
+50027D,T7-CLG,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9022,
 500280,T7-EAGLE,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9032,
 500284,T7-977,GLF4,Gulfstream,4SP,Gulfstream 4SP,1,Private,,500284,
 500289,T7-SKK,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,,
