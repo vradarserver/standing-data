@@ -36,7 +36,7 @@ Prefix,CountryISO2,HasHyphen,DecodeFullRegex,DecodeNoHyphenRegex,FormatTemplate
 8R,GY,1,8R-(?<code>[A-Z]{3}),8R(?<code>[A-Z]{3}),8R-{code}
 9A,HR,1,9A-(?<code>[A-Z]{3}),9A(?<code>[A-Z]{3}),9A-{code}
 9G,GH,1,9G-(?<code>[A-Z]{3}),9G(?<code>[A-Z]{3}),9G-{code}
-9H,MT,1,9H-(?<code>[A-Z]{3}),9H(?<code>[A-Z]{3}),9H-{code}
+9H,MT,1,9H-(?<code>[\dA-Z]{3,5}),9H(?<code>[\dA-Z]{3,5}),9H-{code}
 9J,ZM,1,9J-(?<code>[A-Z]{3}),9J(?<code>[A-Z]{3}),9J-{code}
 9K,KW,1,9K-(?<code>[A-Z]{3}),9K(?<code>[A-Z]{3}),9K-{code}
 9L,SL,1,9L-(?<code>[A-Z]{3}),9L(?<code>[A-Z]{3}),9L-{code}
