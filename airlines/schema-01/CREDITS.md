@@ -6,8 +6,8 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 318 |
-| `Piet Delagrense`       | 129 |
+| `Andrew`                | 322 |
+| `Piet Delagrense`       | 130 |
 | `科罗娜`                   | 37 |
 | `vand`                  | 35 |
 | `sib64`                 | 34 |
@@ -18,7 +18,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Pascal Ensinck`        | 14 |
 | `nik`                   | 11 |
 | `Soe Min Htet`          | 11 |
-| `OSN`                   | 9 |
+| `OSN`                   | 10 |
 | `Mickael H.`            | 8 |
 | `Slavi`                 | 8 |
 | `TEMU1086`              | 8 |
