@@ -159,6 +159,7 @@
 440B30,OE-IWF,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35553,2007
 440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
+440B66,OE-XMJ,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Wucher Helicopter,,57410,
 440B6A,OE-FRJ,C525,Cessna,525 CitationJet CJ1+,Cessna 525 CitationJet CJ1+,0,Pink Sparrow,SOW,525-0673,2008
 440B87,OE-GLI,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Avcon Jet,AOJ,560-6134,
 440B90,OE-IXB,B738,Boeing,737-8AS(F),Boeing 737-8AS(F),0,ASL Airlines Belgium,TAY,33546,2003
@@ -212,6 +213,7 @@
 440C5F,OE-LTD,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,MJet,MJF,6088,
 440C70,OE-LDP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Sparfell Luftfahrt,LDX,70089,
 440C83,OE-LSM,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10142,2022
+440C88,OE-IGP,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,0,Premium Jet,,9238,
 440C96,OE-ICJ,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6047,2014
 440C9B,OE-GTR,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Porsche Air Service,,560-6324,2022
 440CA1,OE-ECO,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1080,
@@ -219,6 +221,7 @@
 440CB1,OE-IZF,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6831,2015
 440CBD,OE-GAF,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,Fly Tyrol,FTY,525B-0673,
 440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,
+440CDC,OE-LTC,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5452,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
 440D01,OE-GJA,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,258810,
