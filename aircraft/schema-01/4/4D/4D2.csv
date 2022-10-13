@@ -78,7 +78,9 @@
 4D235A,9H-AMU,A320,Airbus,A320-232,Airbus A320-232,0,Eurowings,EWG,4174,2009
 4D235B,9H-VIG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70086,
 4D235D,9H-XOA,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Vistajet,VJT,560-5615,
+4D235F,9H-649FX,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Flexjet Operations Malta,FJO,6134,2014
 4D2360,9H-AXO,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,Vistajet,VJT,5396,
+4D2361,9H-XOC,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Vistajet,VJT,560-5640,2006
 4D2363,9H-POP,A333,Airbus,A330-343,Airbus A330-343,0,Hi Fly Malta,HFM,1445,2013
 4D2365,9H-ZFX,E550,Embraer,Legacy 500,Embraer Legacy 500,0,Flexjet Operations Malta,FJO,55000036,2015
 4D2367,9H-NFR,AT76,ATR,72-600,ATR 72-600,0,Air Nostrum,ANE,1145,2014
@@ -116,6 +118,7 @@
 4D2394,9H-MLA,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express,NVD,4820,2011
 4D2395,9H-AMM,A320,Airbus,A320-232,Airbus A320-232,1,Private,,3125,2007
 4D2397,9H-MSA,A320,Airbus,A320-214,Airbus A320-214,0,Malta MedAir,MMO,4349,2010
+4D2398,9H-MOON,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Skyfirst,KFE,104,
 4D2399,9H-HANSA,B738,Boeing,737-8K5,Boeing 737-8K5,0,AllianceJet,,37247,2010
 4D239A,9H-CXD,B738,Boeing,737-8GP,Boeing 737-8GP,0,Corendon Airlines Europe,CXI,38308,2014
 4D239B,9H-CXE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Corendon Airlines Europe,CXI,38316,2016
