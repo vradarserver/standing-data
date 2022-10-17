@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name              | Contributions |
 | :--               | --: |
-| `OSN`             | 1,646 |
+| `OSN`             | 1,670 |
 | `Andrew`          | 1,087 |
+| `EDDN`            | 369 |
 | `SkyDiscovery`    | 337 |
-| `EDDN`            | 332 |
-| `科罗娜`             | 244 |
+| `科罗娜`             | 249 |
 | `spotterblog`     | 103 |
 | `Lanorge`         | 66 |
+| `Peter Hutt`      | 36 |
 | `BudBundi`        | 25 |
 | `flybull`         | 24 |
 | `is0bzc`          | 23 |
 | `Thain Hunter`    | 21 |
-| `andrw`           | 19 |
+| `andrw`           | 20 |
 | `Gavin-D`         | 16 |
 | `bigrossco`       | 13 |
 | `Jonas`           | 11 |
 | `Nightwish`       | 6 |
-| `Peter Hutt`      | 5 |
 | `struart`         | 5 |
 | `thecowan`        | 4 |
 | `nerf`            | 3 |
@@ -33,5 +33,6 @@ Please note that credit files are updated less frequently than the data files.
 | `ryanthomp`       | 2 |
 | `RZH`             | 2 |
 | `nf003`           | 1 |
+| `Skiprat`         | 1 |
 | `UA4WIY`          | 1 |
 
