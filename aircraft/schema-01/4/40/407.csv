@@ -121,6 +121,7 @@
 407D09,G-FOXP,C208,Cessna,208 Caravan 1,Cessna 208 Caravan 1,0,British Parachute Schools,,20800303,1999
 407D10,G-TAWZ,B738,Boeing,737-86N,Boeing 737-86N,0,TUI Airways,TOM,32669,2006
 407D21,G-UZLN,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,10849,2022
+407D2E,G-ILFF,A109,Leonardo,AW109SP Grand,Leonardo AW109SP Grand,0,Flexjet,LXJ,22382,2018
 407D2F,G-OAHL,AS55,Eurocopter,AS355N,Eurocopter AS355N,0,Atlas Helicopters,TDT,5540,1993
 407D33,G-SRTW,SR22,Cirrus,SR22,Cirrus SR22,0,NRS Aviation,,3828,2012
 407D37,G-FROB,DA40,Diamond,DA 40 NG,Diamond DA 40 NG,1,Private,,40.N564,2022
@@ -161,11 +162,13 @@
 407DBF,G-DHLW,B77L,Boieng,777-F6N,Boieng 777-F6N,0,DHL Air UK,DHK,37714,2010
 407DC4,G-GDAB,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Edinburgh Air Charter,EDC,55020161,2022
 407DCD,G-ISLO,AT75,ATR,72-212 A,ATR 72-212 A,0,Blue Islands,BCI,778,2008
+407DCF,G-NPTH,B734,Boeing,737-43Q(SF),Boeing 737-43Q(SF),0,West Atlantic,NPT,28490,1996
 407DD2,G-SUEG,DA40,Diamond,DA-40NG Diamond Star,Diamond DA-40NG Diamond Star,0,SueAir,,40.N572,2022
 407DE2,G-FRWL,ULAC,Flylight Airsports,Adam,Flylight Airsports Adam,1,Private,,DA217,2021
 407DE4,G-LMRX,AT72,ATR,72-500(F) (72-212A),ATR 72-500(F) (72-212A),0,Loganair,LOG,577,1998
 407DED,G-LOGI,R66,Robinson,R66 Turbine,Robinson R66 Turbine,0,LA Helicopters,,1119,2021
 407E19,G-EXTB,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4411,2012
+407E2E,G-TOWY,B505,Bell,505 JetRanger X,Bell 505 JetRanger X,0,Jones Brothers (Henllan) Ltd.,,65407,2022
 407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1124,2022
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
 407E74,G-LMRV,AT75,ATR,72-500(F),ATR 72-500(F),0,Loganair,LOG,0782,2008

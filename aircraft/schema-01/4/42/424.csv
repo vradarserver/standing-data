@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4241E2,VP-CYW,A319,Airbus,A319-115(CJ),Airbus A319-115(CJ),0,Business Aviation Asia,UNA,4228,2010
+424500,VQ-BHK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,440,2018
 424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
 424502,VQ-BHE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39868,2015
 4245C6,VP-CUY,B738,Boeing,737-8HX,Boeing 737-8HX,1,Private,,29662,2010
@@ -7,6 +8,7 @@
 4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
 424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
 424660,VP-BTW,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,324,
+424665,VP-BGT,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Sirius-Aero,CIG,14501048,2008
 424667,VP-BBE,B752,Boeing,757-23N,Boeing 757-23N,1,Private,,30232,1999
 424683,VP-BLS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6477,
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
@@ -26,9 +28,11 @@
 424BBC,M-ATRJ,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,199,
 424BBF,M-ABON,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9603,
 424BC5,M-DUBS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,255,
+424BC9,M-MBLY,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6456,2021
 424BCF,M-TOMY,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000371,2016
 424BD6,M-ARKS,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.173,
 424BD7,M-JCBB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,J C Bamford (Excavators),JCB,0107,
+424BD8,M-RAFI,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70084,2021
 424BD9,M-LOVE,E550,Embraer,Legacy 500,Embraer Legacy 500,1,Private,,55000069,2017
 424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
