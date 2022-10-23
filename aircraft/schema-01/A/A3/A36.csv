@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A360EA,N317AZ,B763,Boeing,767-323,Boeing 767-323,0,Air Transport International,ATN,25445,1992
+A364C0,N318CE,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Executive Jet Management,EJM,444,2018
 A364F4,N318EG,GLF5,Gulfstream Aerospace,5,Gulfstream 5,1,Private,,536,1997
 A36588,N318LE,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73052,2021
 A36E3B,N32ZE,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5259,2009

@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+44C061,OO-PCA,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2082,2021
 44CCA1,OO-SEA,A332,Airbus,A330-243F,Airbus A330-243F,0,Air Belgium,ABB,1594,2015
 44CD75,OO-SKU,DR40,Robin,DR 401-155 CDI,Robin DR 401-155 CDI,0,Skywings Flight Training,,2675,2022
 44CDCF,OO-SNO,A320,Airbus,A320-214,Airbus A320-214,0,Brussels Airlines,BEL,3831,2009

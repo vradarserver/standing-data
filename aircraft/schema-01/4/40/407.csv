@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+40712B,G-SRBM,B350,Textron Aviation,B300 Super King Air 350,Textron Aviation B300 Super King Air 350,0,The Little Jet Company,LJC,FL-1072,2016
 407152,G-DSAA,A169,Leonardo,AW169,Leonardo AW169,0,Specialist Aviation Services,PLC,69027,2016
 4076B0,G-TAWY,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUI Airways,TOM,37246,2012
 40775C,G-RUKA,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,44687,2014
@@ -16,7 +17,9 @@
 407A3F,G-GBNI,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Titan Airways,AWC,10238,2020
 407A68,G-CMGU,G109,Grob,G109B,Grob G109B,0,Aerobility,,6525,1990
 407AA6,G-LDMC,A33P,Schleicher,AS 33 ES,Schleicher AS 33 ES,1,Private,,33008,2021
+407AAF,G-NJAB,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Netjets UK,NJU,560-5789,2008
 407AC3,G-TUMP,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI Airways,TOM,44616,2021
+407AE1,G-FHFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Europe,FLJ,55020121,2019
 407AE4,G-CLXX,EFOX,Ascent Industries,Eurofox 2K,Ascent Industries Eurofox 2K,1,Private,,60821,2020
 407AF1,G-ZBLF,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,British Airways,BAW,60642,2021
 407AF3,G-XWBI,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,473,2021
@@ -164,6 +167,7 @@
 407DCD,G-ISLO,AT75,ATR,72-212 A,ATR 72-212 A,0,Blue Islands,BCI,778,2008
 407DCF,G-NPTH,B734,Boeing,737-43Q(SF),Boeing 737-43Q(SF),0,West Atlantic,NPT,28490,1996
 407DD2,G-SUEG,DA40,Diamond,DA-40NG Diamond Star,Diamond DA-40NG Diamond Star,0,SueAir,,40.N572,2022
+407DD9,G-YNWA,DA50,Diamond,DA50 RG,Diamond DA50 RG,1,Private,,50.C.A.A.020,2022
 407DE2,G-FRWL,ULAC,Flylight Airsports,Adam,Flylight Airsports Adam,1,Private,,DA217,2021
 407DE4,G-LMRX,AT72,ATR,72-500(F) (72-212A),ATR 72-500(F) (72-212A),0,Loganair,LOG,577,1998
 407DED,G-LOGI,R66,Robinson,R66 Turbine,Robinson R66 Turbine,0,LA Helicopters,,1119,2021
