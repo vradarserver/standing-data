@@ -8,9 +8,9 @@ Please note that credit files are updated less frequently than the data files.
 | :--                            | --: |
 | `Piet Delagrense`              | 178 |
 | `EDDG`                         | 60 |
-| `vand`                         | 39 |
+| `vand`                         | 40 |
 | `DennyCrane`                   | 35 |
-| `Andrew`                       | 25 |
+| `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |
 | `viista`                       | 13 |
 | `sib64`                        | 12 |
@@ -69,6 +69,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Lucas`                        | 1 |
 | `Mark Taylor`                  | 1 |
 | `Per Haakan Dahlback`          | 1 |
+| `Peter Hutt`                   | 1 |
+| `Phillip Rohmberger`           | 1 |
 | `RCN_BC`                       | 1 |
 | `sergpan2008`                  | 1 |
 | `smartcoda`                    | 1 |

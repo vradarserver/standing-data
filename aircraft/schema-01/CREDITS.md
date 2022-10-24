@@ -7,22 +7,22 @@ Please note that credit files are updated less frequently than the data files.
 | Name              | Contributions |
 | :--               | --: |
 | `OSN`             | 1,670 |
-| `Andrew`          | 1,087 |
+| `Andrew`          | 1,091 |
 | `EDDN`            | 369 |
 | `SkyDiscovery`    | 337 |
-| `科罗娜`             | 249 |
+| `科罗娜`             | 255 |
+| `Peter Hutt`      | 144 |
 | `spotterblog`     | 103 |
 | `Lanorge`         | 66 |
-| `Peter Hutt`      | 36 |
-| `BudBundi`        | 25 |
+| `andrw`           | 32 |
+| `BudBundi`        | 30 |
 | `flybull`         | 24 |
 | `is0bzc`          | 23 |
 | `Thain Hunter`    | 21 |
-| `andrw`           | 20 |
 | `Gavin-D`         | 16 |
 | `bigrossco`       | 13 |
 | `Jonas`           | 11 |
-| `Nightwish`       | 6 |
+| `Nightwish`       | 7 |
 | `struart`         | 5 |
 | `thecowan`        | 4 |
 | `nerf`            | 3 |

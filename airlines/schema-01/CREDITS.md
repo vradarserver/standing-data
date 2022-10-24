@@ -6,10 +6,10 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 325 |
+| `Andrew`                | 328 |
 | `Piet Delagrense`       | 130 |
-| `vand`                  | 37 |
-| `科罗娜`                   | 37 |
+| `vand`                  | 39 |
+| `科罗娜`                   | 39 |
 | `sib64`                 | 34 |
 | `Lanorge`               | 28 |
 | `CX6BX`                 | 20 |
@@ -19,6 +19,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                   | 11 |
 | `Soe Min Htet`          | 11 |
 | `OSN`                   | 10 |
+| `Peter Hutt`            | 10 |
 | `Mickael H.`            | 8 |
 | `Slavi`                 | 8 |
 | `TEMU1086`              | 8 |
@@ -28,13 +29,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Rosen85`               | 6 |
 | `Skibox`                | 6 |
 | `BPfH`                  | 5 |
+| `BudBundi`              | 5 |
 | `kma371`                | 5 |
 | `UA4WIY`                | 5 |
 | `Forssi`                | 4 |
 | `Neboknede`             | 4 |
 | `shun`                  | 4 |
 | `viista`                | 4 |
-| `BudBundi`              | 3 |
 | `Dauren`                | 3 |
 | `EGPD1701`              | 3 |
 | `flygfantast`           | 3 |
