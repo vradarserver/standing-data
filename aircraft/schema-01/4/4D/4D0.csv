@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4D0262,LX-AND,PC24,Pilatus,PC-24,Pilatus PC-24,0,Flying Group Luxembourg,,155,
 4D028F,LX-RHC,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Luxembourg Air Rescue,,5784,
+4D02D8,LX-RUM,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Jetfly Aviation,JFA,2145,2021
 4D02E0,LX-PCG,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,237,
 4D03C6,LX-N90448,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22843,1982
 4D03C8,LX-N90450,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22845,1983

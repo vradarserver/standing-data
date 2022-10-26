@@ -1,5 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 GMAD,Al Massira Airport,GMAD,AGA,Agadir,MA,30.325001,-9.413070,250
+GMAG,Guelmim Airport,GMAG,GLN,Guelmim,MA,29.016667,-10.067778,1119
 GMAT,Tan Tan Airport,GMAT,TTA,Tan Tan,MA,28.448200,-11.161300,653
 GMAZ,Zagora Airport,GMAZ,OZG,Zagora,MA,30.320299,-5.866670,2631
 GMFA,Ouezzane Airport,GMFA,,Beni Malek,MA,34.783298,-5.633330,571
