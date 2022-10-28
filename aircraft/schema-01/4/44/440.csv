@@ -152,6 +152,7 @@
 4408C9,OE-IJU,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7460,2016
 44093E,OE-IJW,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7580,2017
 4409C0,OE-IVA,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6970,2015
+440A56,OE-IOC,A320,Airbus,A320-200,Airbus A320-200,0,DVB Bank,,3581,2008
 440A7B,OE-IPG,A320,Airbus,A320-232,Airbus A320-232,0,Crown Airlines,,4023,2009
 440A8F,OE-IZB,A320,Airbus,A320 214,Airbus A320 214,0,easyJet Europe,EJU,4316,2010
 440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
@@ -229,4 +230,5 @@
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
 440D01,OE-GJA,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,258810,
+440D0A,OE-HAG,G280,Gulfstream,G280,Gulfstream G280,0,Sparfell Luftfahrt,LDX,2039,2013
 440D0C,OE-GPM,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Euro Flight Aviation Services,,525B-0220,2008

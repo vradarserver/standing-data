@@ -24,6 +24,7 @@
 4D2303,9H-VUE,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,65876,2021
 4D2304,9H-VUF,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,65082,2021
 4D2306,9H-PRO,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60029,
+4D2308,9H-IBI,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Elitavia Malta,EAU,70061,2022
 4D230A,9H-MSK,B744,Boeing,747-4H6(BDSF),Boeing 747-4H6(BDSF),0,Elitavia Malta,EAU,27044,1994
 4D230B,9H-CGA,A321,Airbus,A321-211(PCF),Airbus A321-211(PCF),0,SmartLynx Malta,LYX,891,1998
 4D230C,9H-KIM,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Skyfirst,KFE,404,
@@ -144,6 +145,7 @@
 4D23C8,9H-PARTS,BE20,Beechcraft,200GT King Air,Beechcraft 200GT King Air,0,Vistajet,VJT,BY-46,
 4D23CF,9H-RFX,E550,Embraer,EMB-550 Legacy 500,Embraer EMB-550 Legacy 500,0,Flexjet Operations Malta,FJO,55000025,
 4D23D1,9H-KAX,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Luxaviation,LXA,525-1115,2022
+4D23D8,9H-ELO,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.195,
 4D23D9,9H-MLD,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express Malta,MLH,3601,2008
 4D23DB,9H-VIL,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70109,
 4D23DC,9H-VCQ,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Vistajet,VJT,20910,
