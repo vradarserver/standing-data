@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4CA0C2,EI-JRD,B734,Boeing,737-4Y0(SF),Boeing 737-4Y0(SF),0,ASL Airlines Ireland,ABR,24917,1991
+4CA2BD,EI-GDL,GLF5,Gulfstream,G550,Gulfstream G550,0,Westair Aviation,WAA,5068,2005
 4CA383,EI-STI,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,ASL Airlines Ireland,ABR,24435,1990
 4CA394,,-GND,,Ground Vehicle,Ground Vehicle,0,Dublin Airport,,,
 4CA3A3,,-GND,,Ground Vehicle,Ground Vehicle,0,Dublin Airport,,,
@@ -133,6 +134,7 @@
 4CAD71,EI-MCF,C172,Cessna,172R,Cessna 172R,0,National Flight Centre,,17280799,
 4CAD7A,EI-NSA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Aer Lingus,EIN,10712,2022
 4CAD7B,EI-NSB,A320,Airbus,A320-251N,Airbus A320-251N,0,Aer Lingus,EIN,10786,2022
+4CAD87,EI-SIS,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,10941,2022
 4CAD8D,EI-HGD,B739,Boeing,737-96N(ER),Boeing 737-96N(ER),0,SkyUp Airlines,SQP,36539,2008
 4CAD9F,EI-HDI,AT72,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1087,2013
 4CAE8E,EI-SID,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8031,2017

@@ -13,8 +13,10 @@
 424683,VP-BLS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6477,
 42468A,VP-BKV,B773,Boeing,777-312,Boeing 777-312,0,Sky One FZE,,33374,2005
 42468E,VP-BTV,B737,Boeing,737-700 BBJ,Boeing 737-700 BBJ,1,Private,,29274,1999
+424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
 424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
+4247E1,VP-CLW,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Sino Jet (Beijing) Company,JBE,6433,2019
 424839,VP-CBN,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5197,
 424840,VP-CSU,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1423,2013
 424847,VP-CTC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70056,
@@ -43,6 +45,7 @@
 424BD9,M-LOVE,E550,Embraer,Legacy 500,Embraer Legacy 500,1,Private,,55000069,2017
 424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
+424BFE,M-ARDN,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,290,2022
 424BFF,M-KGKG,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020157,2022
 424C02,M-UATG,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6179,2022
 424C06,M-IMIC,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2003,
