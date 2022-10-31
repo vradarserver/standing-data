@@ -17,9 +17,9 @@ Please note that credit files are updated less frequently than the data files.
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
 | `nik`                   | 11 |
+| `Peter Hutt`            | 11 |
 | `Soe Min Htet`          | 11 |
 | `OSN`                   | 10 |
-| `Peter Hutt`            | 10 |
 | `Mickael H.`            | 8 |
 | `Slavi`                 | 8 |
 | `TEMU1086`              | 8 |
