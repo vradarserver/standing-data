@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A671F2,N514SY,E75L,Embraer,ERJ-170-200 LR,Embraer ERJ-170-200 LR,0,SkyWest Airlines,SKW,17000895,2021
 A6740D,N515AL,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,8723,
+A6750E,N515LT,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5467,
 A675A9,N515SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000896,2021
 A67811,N516DN,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,530,2021
 A67960,N516SY,E75L,Embraer,ERJ-170-200 LR,Embraer ERJ-170-200 LR,0,SkyWest Airlines,SKW,17000897,2021
