@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 780108,B-9876,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,1,Private,,40-DS030,
+780362,B-3008,CRJ2,Bombardier,CRJ-200ER,Bombardier CRJ-200ER,0,Jiangsu Jet,JSU,7512,2001
 7803C8,B-8027,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Deer Jet,DER,63,2009
 780646,B-8029,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,45,2008
 7806F4,B-5576,B738,Boeing,737-86N(BCF)(WL),Boeing 737-86N(BCF)(WL),0,China Postal Airlines,CYZ,38011,2011
