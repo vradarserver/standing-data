@@ -10,11 +10,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Andrew`             | 1,092 |
 | `EDDN`               | 369 |
 | `SkyDiscovery`       | 337 |
-| `科罗娜`                | 267 |
-| `Peter Hutt`         | 256 |
+| `Peter Hutt`         | 289 |
+| `科罗娜`                | 276 |
 | `spotterblog`        | 103 |
 | `Lanorge`            | 68 |
-| `andrw`              | 45 |
+| `andrw`              | 46 |
 | `BudBundi`           | 30 |
 | `flybull`            | 24 |
 | `is0bzc`             | 23 |
