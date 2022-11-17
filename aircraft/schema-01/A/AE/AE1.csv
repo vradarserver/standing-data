@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AE109A,02,GLF5,Gulfstream Aerospace,C-37B (G-V-SP G550),Gulfstream Aerospace C-37B (G-V-SP G550),0,United States Coast Guard Auxiliary,CGX,5416,2022
 AE1242,04-4137,C17,Boeing,C-17A Globemaster III,Boeing C-17A Globemaster III,0,United States Air Force,AIO,50145,2004
 AE1313,N469TN,FFLO,Airbus,Zephyr,Airbus Zephyr,0,Airbus Industrie,AIB,Z8-2,2018
 AE145D,06-6159,C17,Boeing,C-17A Globemaster III,Boeing C-17A Globemaster III,0,United States Air Force,AIO,50168,

@@ -143,6 +143,7 @@
 440732,OE-LQE,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,4451,2010
 440735,OE-LQS,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,4040,2009
 440762,OE-IVK,A320,Airbus,A320 214,Airbus A320 214,0,easyJet Europe,EJU,4591,2010
+44079A,OE-ISG,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,easyJet Europe,EJU,10048,2022
 440833,OE-IJN,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6834,2015
 44083B,OE-IJA,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7660,2017
 44083C,OE-IJQ,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,5757,2013
@@ -232,7 +233,9 @@
 440CDC,OE-LTC,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5452,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
+440CFF,OE-LVG,A319,Airbus,A319-111,Airbus A319-111,0,easyJet Europe,EJU,02744,2006
 440D01,OE-GJA,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,258810,
 440D0A,OE-HAG,G280,Gulfstream,G280,Gulfstream G280,0,Sparfell Luftfahrt,LDX,2039,2013
 440D0C,OE-GPM,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Euro Flight Aviation Services,,525B-0220,2008
+440D35,OE-LCS,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,9747,
 440D36,OE-HER,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,227,

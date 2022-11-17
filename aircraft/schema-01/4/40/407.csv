@@ -13,6 +13,7 @@
 4079CD,G-VEVE,A35K,Airbus,A350-1041,Airbus A350-1041,0,Virgin Atlantic,VIR,492,2021
 4079D2,G-LCAG,E190,Embraer,ERJ 190-100 SR,Embraer ERJ 190-100 SR,0,BA CityFlyer,CFE,19000560,2012
 4079D3,G-LCAH,E190,Embraer,ERJ 190-100 SR,Embraer ERJ 190-100 SR,0,BA CityFlyer,CFE,19000564,2012
+4079E6,G-GPOT,A109,AgustaWestland,AW109SP Grand New,AgustaWestland AW109SP Grand New,0,Castle Air,,22259,2012
 4079F7,G-TTNN,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,10344,2020
 407A3F,G-GBNI,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Titan Airways,AWC,10238,2020
 407A68,G-CMGU,G109,Grob,G109B,Grob G109B,0,Aerobility,,6525,1990
@@ -78,6 +79,7 @@
 407C68,G-MCSP,EC75,Airbus Helicopters,EC175 B,Airbus Helicopters EC175 B,0,Bond Offshore Helicopters,BND,5052,2021
 407C6D,G-DRTJ,B738,Boeing,737-86N,Boeing 737-86N,0,Jet2.com,EXS,35647,2009
 407C6E,G-RBHB,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,1,Private,,2108-7659,2021
+407C70,G-CMEE,C42,Ikarus,C-42,Ikarus C-42,1,Private,,2107-7654,2021
 407C72,G-FEMC,LJ45,Learjet,45,Learjet 45,0,Zenith Aviation,BZE,45-097,2000
 407C74,G-MOFO,C172,Reims Cessna,F172M,Reims Cessna F172M,0,Northumbria Aerospace,,1192,1974
 407C77,G-IMPT,EFOX,Ascent Industries,EuroFOX 2K,Ascent Industries EuroFOX 2K,1,Private,,63221,2021
@@ -173,8 +175,10 @@
 407DE2,G-FRWL,ULAC,Flylight Airsports,Adam,Flylight Airsports Adam,1,Private,,DA217,2021
 407DE4,G-LMRX,AT72,ATR,72-500(F) (72-212A),ATR 72-500(F) (72-212A),0,Loganair,LOG,577,1998
 407DED,G-LOGI,R66,Robinson,R66 Turbine,Robinson R66 Turbine,0,LA Helicopters,,1119,2021
+407DFC,G-POWT,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Titan Airways,AWC,08830,2019
 407E19,G-EXTB,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4411,2012
 407E2E,G-TOWY,B505,Bell,505 JetRanger X,Bell 505 JetRanger X,0,Jones Brothers (Henllan) Ltd.,,65407,2022
+407E33,G-CMJN,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1471,2017
 407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1124,2022
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
 407E4C,G-NHHG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Catreus,VCG,50500314,2015
