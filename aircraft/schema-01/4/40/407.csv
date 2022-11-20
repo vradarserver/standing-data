@@ -70,6 +70,7 @@
 407C2A,G-HAYZ,AS50,Airbus Helicopters,AS350B3 Ecureuil,Airbus Helicopters AS350B3 Ecureuil,0,350 Air,,8835,2021
 407C2C,G-MCLE,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,0177,2011
 407C2D,G-LDGG,DA42,Diamond,DA 42 NG,Diamond DA 42 NG,0,TwinStar4Hire,,42.N436,2021
+407C37,G-NNJA,NNJA,Skyranger,Ninja 912S,Skyranger Ninja 912S,1,Private,,315-8,2021
 407C4C,G-PKUP,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,1,Private,,2104-7644,2021
 407C53,G-CMAW,C42,Ikarus,C42 FB80 Bravo,Ikarus C42 FB80 Bravo,1,Private,,2012-7637,2021
 407C59,G-CMCB,EFOX,Ascent Industries,EuroFox 3K,Ascent Industries EuroFox 3K,1,Private,,63121,2021
@@ -120,6 +121,7 @@
 407CF5,G-HJDP,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65361,
 407CF6,G-IFMI,GLEX,Bombardier,BD-700-1A10,Bombardier BD-700-1A10,0,London Executive Aviation,LNX,60048,2022
 407CF7,G-DHLX,B77L,Boeing,777F,Boeing 777F,0,DHL Air UK,DHK,67139,2022
+407CFF,G-DAAW,B209,Messerschmitt-Bolkow,Bo 209 Monsun 160RV,Messerschmitt-Bolkow Bo 209 Monsun 160RV,1,Private,,181,1971
 407D00,G-WUKR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10871,2022
 407D02,G-ICER,A169,AgustaWestland,AW169,AgustaWestland AW169,0,Iceland International,,69131,2021
 407D06,G-GSCD,D140,Jodel,D-140C Mousquetaire III,Jodel D-140C Mousquetaire III,1,Private,,143,1966
@@ -129,6 +131,7 @@
 407D2E,G-ILFF,A109,Leonardo,AW109SP Grand,Leonardo AW109SP Grand,0,Flexjet,LXJ,22382,2018
 407D2F,G-OAHL,AS55,Eurocopter,AS355N,Eurocopter AS355N,0,Atlas Helicopters,TDT,5540,1993
 407D33,G-SRTW,SR22,Cirrus,SR22,Cirrus SR22,0,NRS Aviation,,3828,2012
+407D36,G-NICU,A169,Leonardo,AW169,Leonardo AW169,0,Sloane Helicopters,,69147,2021
 407D37,G-FROB,DA40,Diamond,DA 40 NG,Diamond DA 40 NG,1,Private,,40.N564,2022
 407D3D,G-EOSM,ULAC,Exodus Airsports,DeltaJet 500 StingRay,Exodus Airsports DeltaJet 500 StingRay,1,Private,,EA 003,2022
 407D44,G-WUKS,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10891,2022
@@ -168,6 +171,8 @@
 407DB8,G-SOVH,C525,Cessna,525 Citation CJ1+,Cessna 525 Citation CJ1+,0,SaxonAir,SXN,525-0675,2009
 407DBF,G-DHLW,B77L,Boieng,777-F6N,Boieng 777-F6N,0,DHL Air UK,DHK,37714,2010
 407DC4,G-GDAB,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Edinburgh Air Charter,EDC,55020161,2022
+407DC5,G-VTOM,A339,Airbus,A330-941,Airbus A330-941,0,Virgin Atlantic,VIR,2019,2022
+407DCA,G-HMGC,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BB-655,1980
 407DCD,G-ISLO,AT75,ATR,72-212 A,ATR 72-212 A,0,Blue Islands,BCI,778,2008
 407DCF,G-NPTH,B734,Boeing,737-43Q(SF),Boeing 737-43Q(SF),0,West Atlantic,NPT,28490,1996
 407DD2,G-SUEG,DA40,Diamond,DA-40NG Diamond Star,Diamond DA-40NG Diamond Star,0,SueAir,,40.N572,2022
@@ -181,6 +186,8 @@
 407E33,G-CMJN,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1471,2017
 407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1124,2022
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
+407E3F,G-ECLH,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,744,2006
 407E4C,G-NHHG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Catreus,VCG,50500314,2015
+407E6F,G-RNDX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Voluxis,VXS,55020165,2022
 407E74,G-LMRV,AT75,ATR,72-500(F),ATR 72-500(F),0,Loganair,LOG,0782,2008
 407EB3,G-ETGA,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2212,2022
