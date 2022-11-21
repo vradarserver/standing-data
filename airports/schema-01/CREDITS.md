@@ -18,9 +18,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
 | `Mickael H.`                   | 7 |
+| `科罗娜`                          | 7 |
 | `argz`                         | 6 |
 | `squawk7000`                   | 6 |
-| `科罗娜`                          | 6 |
 | `gandym`                       | 4 |
 | `Lanorge`                      | 4 |
 | `Glock_09`                     | 3 |
