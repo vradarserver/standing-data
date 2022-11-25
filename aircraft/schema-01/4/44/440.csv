@@ -165,6 +165,7 @@
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
 440B66,OE-XMJ,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Wucher Helicopter,,57410,
 440B6A,OE-FRJ,C525,Cessna,525 CitationJet CJ1+,Cessna 525 CitationJet CJ1+,0,Pink Sparrow,SOW,525-0673,2008
+440B6B,OE-GRM,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Pink Sparrow,SOW,560-6126,2012
 440B87,OE-GLI,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Avcon Jet,AOJ,560-6134,
 440B90,OE-IXB,B738,Boeing,737-8AS(F),Boeing 737-8AS(F),0,ASL Airlines Belgium,TAY,33546,2003
 440B91,OE-IXC,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines Belgium,TAY,29940,2002
@@ -229,6 +230,7 @@
 440CA9,OE-IZN,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6966,2015
 440CB1,OE-IZF,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6831,2015
 440CBD,OE-GAF,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,Fly Tyrol,FTY,525B-0673,
+440CBE,OE-LSN,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10701,2022
 440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,
 440CDC,OE-LTC,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5452,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
