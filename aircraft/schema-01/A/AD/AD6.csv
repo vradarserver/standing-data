@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AD63A8,N962AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,10781,2022
+AD63E1,N962DB,TBM9,Socata,TBM 960,Socata TBM 960,1,Private,,1408,
 AD675F,N963AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,10802,2022
 AD677E,N963CA,B752,Boeing,757-223,Boeing 757-223,0,National Airlines,NCR,32381,2001
 AD6881,N963NK,A21N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,11088,2022
