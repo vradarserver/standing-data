@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 66,065 |
-| `vand`                         | 33,056 |
-| `Pascal Ensinck`               | 24,856 |
+| `Piet Delagrense`              | 66,395 |
+| `vand`                         | 34,606 |
+| `Pascal Ensinck`               | 24,877 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,492 |
 | `Jon Fear`                     | 13,207 |
-| `sib64`                        | 12,169 |
-| `Lanorge`                      | 11,019 |
+| `sib64`                        | 12,191 |
+| `Lanorge`                      | 11,125 |
 | `bigrossco`                    | 10,318 |
-| `SteveF`                       | 8,962 |
+| `SteveF`                       | 9,054 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Neboknede`                    | 6,375 |
-| `McBridden`                    | 5,332 |
+| `Neboknede`                    | 6,381 |
+| `McBridden`                    | 5,354 |
 | `EDDT Manu`                    | 5,320 |
 | `AP100`                        | 4,634 |
 | `elljay`                       | 4,631 |
@@ -50,19 +50,19 @@ Please note that credit files are updated less frequently than the data files.
 | `whho`                         | 1,424 |
 | `Brian Leyton`                 | 1,422 |
 | `Cody E`                       | 1,388 |
-| `UA4WIY`                       | 1,380 |
+| `UA4WIY`                       | 1,381 |
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
+| `Gavin-D`                      | 1,229 |
 | `Andrew`                       | 1,220 |
-| `Gavin-D`                      | 1,194 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
 | `laurent`                      | 1,125 |
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Mark Taylor`                  | 1,022 |
+| `Mark Taylor`                  | 1,023 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
 | `Dauren`                       | 949 |
@@ -70,14 +70,14 @@ Please note that credit files are updated less frequently than the data files.
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
 | `Boelebroer`                   | 911 |
+| `科罗娜`                          | 889 |
 | `jcott`                        | 877 |
-| `科罗娜`                          | 864 |
+| `Peter Hutt`                   | 876 |
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
-| `Daniel.cornejo.campos`        | 788 |
+| `Daniel.cornejo.campos`        | 793 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 742 |
-| `Peter Hutt`                   | 740 |
 | `delcomp`                      | 715 |
 | `foxhunter`                    | 707 |
 | `eastons`                      | 701 |
@@ -120,7 +120,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
-| `Joaquin`                      | 315 |
+| `Joaquin`                      | 316 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
@@ -168,11 +168,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Boiniche`                     | 170 |
 | `danielaregay`                 | 168 |
 | `fidaeextra`                   | 164 |
+| `kirkmayers`                   | 158 |
 | `Alexey`                       | 157 |
 | `prptua`                       | 156 |
 | `Thomas G.`                    | 154 |
 | `MGooden`                      | 153 |
-| `kirkmayers`                   | 150 |
 | `URKK`                         | 148 |
 | `CYOW-b`                       | 145 |
 | `jose fernandes`               | 145 |
@@ -223,6 +223,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
+| `Markus`                       | 73 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
@@ -267,7 +268,6 @@ Please note that credit files are updated less frequently than the data files.
 | `patrice`                      | 49 |
 | `Sgtpanda`                     | 49 |
 | `john mathieson`               | 48 |
-| `Markus`                       | 48 |
 | `BC92`                         | 47 |
 | `kabooz`                       | 46 |
 | `philipgm`                     | 46 |
@@ -336,6 +336,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bourne`                       | 25 |
 | `Dan Haas`                     | 25 |
 | `LunarShadow`                  | 25 |
+| `zhoujinshi`                   | 25 |
 | `acselman`                     | 24 |
 | `40mkDM`                       | 23 |
 | `ahernandez`                   | 23 |
@@ -438,7 +439,6 @@ Please note that credit files are updated less frequently than the data files.
 | `NZ-Kiwi`                      | 12 |
 | `TNDan`                        | 12 |
 | `TomKot`                       | 12 |
-| `zhoujinshi`                   | 12 |
 | `BAW756`                       | 11 |
 | `BenMK`                        | 11 |
 | `BMcQueen`                     | 11 |
@@ -477,6 +477,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Gigi75`                       | 9 |
 | `gm1`                          | 9 |
 | `ifbn2`                        | 9 |
+| `Jafo`                         | 9 |
 | `jwouters`                     | 9 |
 | `Kesha`                        | 9 |
 | `kidshare`                     | 9 |

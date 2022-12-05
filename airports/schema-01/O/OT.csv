@@ -1,5 +1,5 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-OTBD,Doha International Airport,OTBD,,Doha,QA,25.261101,51.565102,35
+OTBD,Doha International Airport,OTBD,DIA,Doha,QA,25.261101,51.565102,35
 OTBH,Al Udeid Air Base,OTBH,XJD,Ar Rayyan,QA,25.117300,51.314999,130
 OTBK,Al Khawr Airport,OTBK,,Al Khawr,QA,25.629601,51.506699,10
 OTHH,Hamad International Airport,OTHH,DOH,Doha,QA,25.273056,51.608056,13

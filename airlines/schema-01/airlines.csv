@@ -29,7 +29,7 @@
 AAB,Luxaviation Belgium,AAB,W9,,.*
 AAC,Army Air Corps,AAC,,,
 AAD,Mann Air Ltd,AAD,,,
-AAE,Express Air,AAE,,,
+AAE,Air Atlanta Europe,AAE,CT,,.*
 AAF,Aigle Azur,AAF,ZI,,
 AAG,Air Atlantique,AAG,KI,,
 AAH,Aloha Air Cargo,AAH,AQ,,
@@ -731,6 +731,7 @@ BNC,Sundance Air,BNC,,,
 BND,Bond Offshore Helicopters,BND,,,
 BNE,Benina Air,BNE,,,
 BNG,BN Group Limited,BNG,,,
+BNH,Baoneng Business Aviation,BNH,,,.*
 BNI,Alberni Airways,BNI,,,
 BNL,Berniq Airways,BNL,NB,,
 BNR,Bonair Aviation,BNR,,,
@@ -3334,7 +3335,7 @@ MRX,Herman's Markair Express,MRX,,,
 MRZ,Medical Air Rescue Services,MRZ,,,
 MSA,Mistral Air,MSA,7M,,
 MSC,Air Cairo,MSC,,,
-MSF,Max Sea Food,MSF,,,
+MSF,Minsheng International Jet,MSF,,,.*
 MSG,Servico Aéreo Regional,MSG,,,
 MSH,US Marshals Service,MSH,,,
 MSI,Motor Sich,MSI,M9,,.*
@@ -5150,6 +5151,7 @@ TPZ,Transportes La Paz,TPZ,,,
 TQF,United Kingdom Royal VIP Flights,TQF,,,
 TQM,JM Family Aviation,TQM,,,
 TQN,Taquan Air Services,TQN,,,
+TQQ,Tarco Aviation,TQQ,3T,,
 TQR,Transportación Aérea De Querétaro,TQR,,,
 TQS,Aeroturquesa,TQS,,,
 TRA,Transavia Holland,TRA,HV,,
