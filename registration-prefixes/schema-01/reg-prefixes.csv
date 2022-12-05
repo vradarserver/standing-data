@@ -70,6 +70,7 @@ CN,MA,1,CN-(?<code>[A-Z]{3}),CN(?<code>[A-Z]{3}),CN-{code}
 CNA,MA,1,CNA-(?<code>[\dA-Z]{3}),CNA(?<code>[\dA-Z]{3}),CNA-{code}
 CP,BO,1,CP-(?<code>\d{4}),CP(?<code>\d{4}),CP-{code}
 CR,PT,1,CR-(?<code>[A-Z]{3}),CR(?<code>[A-Z]{3}),CR-{code}
+CS,PT,1,CS-(?<code>[A-Z]{3}),CS(?<code>[A-Z]{3}),CS-{code}
 CU,CU,1,CU-(?<code>[A-Z]\d{4}),CU(?<code>[A-Z]\d{4}),CU-{code}
 CX,UY,1,CX-(?<code>[A-Z]{3}),CX(?<code>[A-Z]{3}),CX-{code}
 D,DE,1,D-(?<code>[A-Z]{4}|\d{4}),D(?<code>[A-Z]{4}|\d{4}),D-{code}
