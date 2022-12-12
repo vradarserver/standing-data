@@ -7,10 +7,10 @@ Please note that credit files are updated less frequently than the data files.
 | Name                 | Contributions |
 | :--                  | --: |
 | `OSN`                | 1,670 |
-| `Andrew`             | 1,092 |
-| `Peter Hutt`         | 391 |
+| `Andrew`             | 1,093 |
+| `Peter Hutt`         | 476 |
 | `EDDN`               | 369 |
-| `科罗娜`                | 340 |
+| `科罗娜`                | 347 |
 | `SkyDiscovery`       | 337 |
 | `spotterblog`        | 103 |
 | `Lanorge`            | 68 |
@@ -23,6 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`          | 13 |
 | `Jonas`              | 11 |
 | `Nightwish`          | 7 |
+| `Rebelvenice2`       | 7 |
 | `Luis Cova`          | 5 |
 | `struart`            | 5 |
 | `thecowan`           | 4 |
@@ -41,7 +42,6 @@ Please note that credit files are updated less frequently than the data files.
 | `darjes`             | 1 |
 | `nf003`              | 1 |
 | `Phillip Rohmberger` | 1 |
-| `Rebelvenice2`       | 1 |
 | `Skiprat`            | 1 |
 | `UA4WIY`             | 1 |
 

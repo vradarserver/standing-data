@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A2C129,N277GX,A321,Airbus,A321-231,Airbus A321-231,0,Global X,GXA,2480,2005
+A2C39F,N27752,B3XM,Boeing,737 MAX 10,Boeing 737 MAX 10,0,Boeing Company,BOE,66123,2021
 A2C4B6,N278FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66247,2021
 A2C4E0,N278GX,A320,Airbus,A320-214,Airbus A320-214,0,Global X,GXA,1954,2003
 A2C86D,N279FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66252,2021

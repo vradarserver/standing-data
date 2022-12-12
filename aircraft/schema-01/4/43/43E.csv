@@ -4,6 +4,8 @@
 43EAA3,M-GAGA,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Brilliant Jet,TXJ,6173,2015
 43ED05,2-NGUS,DA42,Diamond Aircraft,DA42 NG Twin Star,Diamond Aircraft DA42 NG Twin Star,0,Naljets,APX,42.N116,2013
 43ED83,2-JETS,E135,Embraer,ERJ-135,Embraer ERJ-135,0,Aero Guernsey,AEO,145715,2003
+43EDC6,2-RLBV,E75S,Embraer,ERJ-175STD,Embraer ERJ-175STD,0,Regional One,,17000327,2011
+43EDC8,2-RLBX,E170,Embraer,ERJ-175,Embraer ERJ-175,0,Regional One,,17000329,2011
 43EDD1,2-DAVE,EA50,Eclipse,EA500,Eclipse EA500,1,Private,,000210,2008
 43EDDA,2-LISS,EA50,Eclipse,500,Eclipse 500,0,Channel Jets,,000092,
 43EDEA,2-NICE,CL60,Canadair,CL-600-2B16 Challenger 601-3A,Canadair CL-600-2B16 Challenger 601-3A,0,Volare Aviation (Guernsey),VLZ,5067,
@@ -21,6 +23,7 @@
 43EE41,2-PAPA,CL60,Canadair,Challenger 601-3A,Canadair Challenger 601-3A,0,Volare Aviation (Guernsey),VLZ,5125,
 43EE43,2-COOK,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1077,2021
 43EE47,2-SHEE,EA50,Eclipse,500,Eclipse 500,0,Channel Islands Jet Services,,000020,
+43EE4C,2-JDEJ,A109,AgustaWestland,AW109E Power,AgustaWestland AW109E Power,0,Volare Aviation (Guernsey),VLZ,11675,2006
 43EE4E,2-SIVA,B738,Boeing,737-86N(WL),Boeing 737-86N(WL),0,Merx Aviation,,29884,2002
 43EE4F,2-GGGG,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Volare Aviation (Guernsey),VLZ,5748,2008
 43EE55,2-WKTK,BE20,Beech,200T Super King Air,Beech 200T Super King Air,0,Diamond Executive Aviation,,BT-15,

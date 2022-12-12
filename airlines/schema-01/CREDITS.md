@@ -8,7 +8,7 @@ Please note that credit files are updated less frequently than the data files.
 | :--                     | --: |
 | `Andrew`                | 331 |
 | `Piet Delagrense`       | 133 |
-| `科罗娜`                   | 46 |
+| `科罗娜`                   | 47 |
 | `vand`                  | 39 |
 | `sib64`                 | 34 |
 | `Lanorge`               | 28 |

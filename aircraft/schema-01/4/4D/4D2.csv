@@ -153,6 +153,7 @@
 4D23CE,9H-CGG,A321,Airbus,A321-211,Airbus A321-211,0,SmartLynx Malta,LYX,0961,1999
 4D23CF,9H-RFX,E550,Embraer,EMB-550 Legacy 500,Embraer EMB-550 Legacy 500,0,Flexjet Operations Malta,FJO,55000025,
 4D23D1,9H-KAX,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Luxaviation,LXA,525-1115,2022
+4D23D4,9H-ALE,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Luxwing Ltd.,LWG,4326,2010
 4D23D8,9H-ELO,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.195,
 4D23D9,9H-MLD,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express Malta,MLH,3601,2008
 4D23DB,9H-VIL,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70109,
@@ -195,10 +196,12 @@
 4D243A,9H-JIVA,F2TH,Dassault,Falcon 2000S,Dassault Falcon 2000S,0,Albinati Aeronautics,LUC,707,
 4D243B,9H-VCR,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20920,
 4D243D,9H-VIO,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70115,2022
+4D243E,9H-AKA,B744,Boeing,747-45E(BDSF),Boeing 747-45E(BDSF),0,Saudia Cargo,SVA,27899,1995
 4D2448,9H-WBZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,10985,2022
 4D244E,9H-SPEDD,E550,Embraer,Praetor 600,Embraer Praetor 600,0,ComLux Malta,MLM,,2022
 4D2453,9H-WBI,A321,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,10907,2022
 4D245F,9H-WBU,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,10050,2020
 4D2463,9H-VIQ,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Vistajet,VJT,70120,
+4D2469,9H-FAY,E190,Embraer,Lineage 1000,Embraer Lineage 1000,0,Air X Charter,AXY,19000438,2011
 4D246D,9H-VDL,A320,Airbus,A320-214,Airbus A320-214,0,Galistair,GTR,00876,1998
 4D2470,9H-AKF,B744,Boeing,747-45E(BDSF),Boeing 747-45E(BDSF),0,Saudia Cargo,SVA,27898,1994
