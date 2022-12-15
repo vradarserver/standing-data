@@ -2,15 +2,19 @@
 78005C,B-8303,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Deer Jet,DER,2025,2013
 780108,B-9876,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,1,Private,,40-DS030,
 780362,B-3008,CRJ2,Bombardier,CRJ-200ER,Bombardier CRJ-200ER,0,Jiangsu Jet,JSU,7512,2001
-7803C8,B-8027,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Deer Jet,DER,63,2009
+7803C8,B-8027,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,063,2009
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
+780620,B-7697,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,ZYB Lily Jet,MZT,8089,
 780645,B-7696,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,ZYB Lily Jet,MZT,5442,2000
 780646,B-8029,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,45,2008
+7806BA,B-8157,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Brilliant Jet,TXJ,5342,2011
 7806DD,B-8133,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Business Aviation Asia,UNA,4196,2009
 7806F4,B-5576,B738,Boeing,737-86N(BCF)(WL),Boeing 737-86N(BCF)(WL),0,China Postal Airlines,CYZ,38011,2011
+780704,B-8132,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5291,2010
 780705,B-8131,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Sino Jet (Beijing) Company,JBE,5289,2010
 78073C,B-7795,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,ZYB Lily Jet,MZT,8098,2008
 780813,B-7797,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Business Aviation Asia,UNA,8096,
+780881,B-8023,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Brilliant Jet,TXJ,133,2011
 78089D,B-8136,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet,DER,5082,2005
 7808B1,B-8159,GALX,Gulfstream Aerospace,G200 Galaxy,Gulfstream Aerospace G200 Galaxy,0,Sino Jet (Beijing) Company,JBE,243,2010
 7808B9,B-7186,EC35,Airbus Helicopters,EC-135,Airbus Helicopters EC-135,0,Capital Helicopter,,1028,2013
@@ -18,9 +22,12 @@
 7808F5,B-6936,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,4732,2011
 7808F6,B-8160,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5358,2011
 7808FA,B-8252,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Business Aviation Asia,UNA,4184,2009
+78091E,B-5692,B738,Boeing,737-89P,Boeing 737-89P,0,Suparna Airlines,YZR,41301,2012
 780926,B-8255,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5352,2011
+78092D,B-8257,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Shanghai Deer Jet Company,DER,4251,2011
 78094E,B-8250,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4234,2010
 780979,B-8259,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5357,2011
+7809CD,B-7765,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,ZYB Lily Jet,MZT,9713,2015
 7809DA,B-2525,B734,Boeing,737-4Q8(SF),Boeing 737-4Q8(SF),0,China Postal Airlines,CYZ,24918,1991
 7809FE,B-8263,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Shanghai Deer Jet Company,DER,4276,2012
 780AF9,B-8203,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sino Jet (Beijing) Company,JBE,193,2012
@@ -28,16 +35,20 @@
 780B27,B-8105,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Business Aviation Asia,UNA,9510,2012
 780B2A,B-8271,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4271,2011
 780B3F,B-5790,B738,Boeing,737-85C,Boeing 737-85C,0,Hebei Airlines,HBH,38402,2013
+780B58,B-8290,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Brilliant Jet,TXJ,4264,2011
 780BC0,B-8205,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,209,2013
 780BC1,B-8292,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5422,2013
 780C12,B-8298,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Beijing Airlines,BJN,5447,2013
+780C13,B-8280,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Shanghai Deer Jet Company,DER,2030,2013
 780C1A,B-8301,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Sino Jet (Beijing) Company,JBE,4297,2012
 780C30,B-8215,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,157,2011
-780C5A,B-8302,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet,DER,5437,2013
+780C5A,B-8302,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5437,2013
 780C63,B-8211,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,212,2013
 780D3C,B-8309,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5475,2014
+780D44,B-8373,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5483,2014
 780DB8,B-1791,B738,Boeing,737NG 89P/W,Boeing 737NG 89P/W,0,China Eastern Airlines,CES,41474,2015
 780E0C,B-3282,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Sino Jet (Beijing) Company,JBE,14501228,2017
 780F10,B-3112,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,ZYB Lily Jet,MZT,2131,2017
 780F2A,B-3321,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Chengdu Airlines,UEA,106,2014
 780F4C,B-8415,A320,Airbus,A320-232(CJ) Prestige,Airbus A320-232(CJ) Prestige,0,Deer Jet Beijing,BDJ,4388,2010
+780F98,B-3322,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,COMAC Shanghai Aircraft Customer Service,CCS,105,2013
