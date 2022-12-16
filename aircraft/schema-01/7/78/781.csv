@@ -9,7 +9,7 @@
 7811E8,B-3288,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Sino Jet (Beijing) Company,JBE,6261,2016
 7811E9,B-3270,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,279,2016
 781210,B-3276,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Shanghai Deer Jet Company,DER,6266,2016
-781224,B-001R,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Southern Airlines,CSN,,
+781224,B-001R,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Southern Airlines,CSN,198,2022
 78128E,B-3869,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,109,2010
 7812A9,B-001T,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,,,110,2017
 7812BC,B-3271,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Business Aviation Asia,UNA,6280,2017
@@ -19,7 +19,7 @@
 781381,B-001W,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Chengdu Airlines,UEA,127,2019
 78142B,B-3358,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5566,2017
 781495,B-001Y,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
-781517,B-001H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,,,,
+781517,B-001H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,163,2021
 781518,B-001J,C919,Comac,C919,Comac C919,0,OTT Airlines,OTT,107,2022
 78152E,B-602L,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Business Aviation Asia,UNA,9528,2012
 78153E,B-602N,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Business Aviation Asia,UNA,6325,2017
@@ -285,6 +285,7 @@
 781E34,B-222K,B77L,Boeing,777-F,Boeing 777-F,0,China Cargo Airlines,CKK,67771,2022
 781E3D,B-32C2,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,10918,2022
 781E3E,B-32C3,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,10984,2022
+781E40,B-32C6,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,10997,2022
 781E41,B-32C7,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11020,2022
 781E42,B-32C8,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11021,2022
 781E4B,B-32CC,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Air China,CCA,10862,2022
@@ -306,5 +307,6 @@
 781ECD,B-653N,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,OTT Airlines,OTT,198,2022
 781ECE,B-653R,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,OTT Airlines,OTT,204,
 781EE4,B-653S,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,OTT Airlines,OTT,205,2022
+781EEB,B-653H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,182,2022
 781EEE,B-32DC,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11142,2022
-781EF0,B-919A,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,107,2022
+781EF0,B-919A,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00007,2022
