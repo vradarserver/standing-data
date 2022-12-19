@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 66,874 |
-| `vand`                         | 35,637 |
+| `Piet Delagrense`              | 67,112 |
+| `vand`                         | 36,479 |
 | `Pascal Ensinck`               | 24,907 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,492 |
 | `Jon Fear`                     | 13,207 |
-| `sib64`                        | 12,262 |
-| `Lanorge`                      | 11,207 |
+| `sib64`                        | 12,324 |
+| `Lanorge`                      | 11,235 |
 | `bigrossco`                    | 10,318 |
-| `SteveF`                       | 9,261 |
+| `SteveF`                       | 9,346 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Neboknede`                    | 6,385 |
-| `McBridden`                    | 5,378 |
+| `Neboknede`                    | 6,397 |
+| `McBridden`                    | 5,419 |
 | `EDDT Manu`                    | 5,320 |
 | `AP100`                        | 4,634 |
 | `elljay`                       | 4,631 |
@@ -54,7 +54,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Gavin-D`                      | 1,231 |
+| `Gavin-D`                      | 1,238 |
 | `Andrew`                       | 1,220 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -65,8 +65,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Mark Taylor`                  | 1,026 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Dauren`                       | 954 |
-| `科罗娜`                          | 938 |
+| `科罗娜`                          | 971 |
+| `Dauren`                       | 958 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -74,8 +74,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Peter Hutt`                   | 911 |
 | `jcott`                        | 877 |
 | `mmcgee`                       | 860 |
+| `Daniel.cornejo.campos`        | 814 |
 | `jmd64`                        | 805 |
-| `Daniel.cornejo.campos`        | 799 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 742 |
 | `delcomp`                      | 715 |
@@ -112,15 +112,16 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Cristian Amaya`               | 385 |
+| `Markus`                       | 374 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `topoguido`                    | 347 |
+| `topoguido`                    | 350 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
+| `Joaquin`                      | 321 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
-| `Joaquin`                      | 317 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
@@ -155,6 +156,7 @@ Please note that credit files are updated less frequently than the data files.
 | `frdosdane`                    | 187 |
 | `Skibox`                       | 185 |
 | `aviatic`                      | 182 |
+| `kirkmayers`                   | 179 |
 | `stuartroy`                    | 179 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |
@@ -168,7 +170,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Boiniche`                     | 170 |
 | `danielaregay`                 | 168 |
 | `fidaeextra`                   | 164 |
-| `kirkmayers`                   | 162 |
 | `Alexey`                       | 157 |
 | `prptua`                       | 156 |
 | `Thomas G.`                    | 154 |
@@ -223,7 +224,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
-| `Markus`                       | 73 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
@@ -325,6 +325,7 @@ Please note that credit files are updated less frequently than the data files.
 | `backtobo`                     | 29 |
 | `ifuley`                       | 29 |
 | `Ivan Luís`                    | 29 |
+| `Jafo`                         | 29 |
 | `lion`                         | 29 |
 | `Mike Usher`                   | 29 |
 | `Ulrich Zeller`                | 29 |
@@ -346,7 +347,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Bungalow`                     | 23 |
 | `Daniel Crow`                  | 23 |
 | `FrankR`                       | 23 |
-| `Jafo`                         | 23 |
 | `nqypics`                      | 23 |
 | `OA4BQK`                       | 23 |
 | `Sarah S`                      | 23 |
@@ -647,6 +647,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Julien VANHECKE`              | 4 |
 | `K. Robbins`                   | 4 |
 | `kl-pictures`                  | 4 |
+| `Luo Tianyi`                   | 4 |
 | `MaciekA380`                   | 4 |
 | `miro`                         | 4 |
 | `niranjan`                     | 4 |
@@ -689,7 +690,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                        | 3 |
 | `JunPritsker`                  | 3 |
 | `LFBD-3`                       | 3 |
-| `Luo Tianyi`                   | 3 |
 | `mario`                        | 3 |
 | `Mercator`                     | 3 |
 | `michael f`                    | 3 |
@@ -948,6 +948,7 @@ Please note that credit files are updated less frequently than the data files.
 | `lukas125p`                    | 1 |
 | `m31`                          | 1 |
 | `Magicskid`                    | 1 |
+| `Marc A. Mapplebeck`           | 1 |
 | `Marika`                       | 1 |
 | `Mark DS`                      | 1 |
 | `Mark Turner`                  | 1 |

@@ -8,14 +8,14 @@ Please note that credit files are updated less frequently than the data files.
 | :--                  | --: |
 | `OSN`                | 1,670 |
 | `Andrew`             | 1,093 |
-| `Peter Hutt`         | 476 |
+| `Peter Hutt`         | 493 |
+| `科罗娜`                | 398 |
 | `EDDN`               | 369 |
-| `科罗娜`                | 347 |
 | `SkyDiscovery`       | 337 |
 | `spotterblog`        | 103 |
 | `Lanorge`            | 68 |
 | `andrw`              | 57 |
-| `BudBundi`           | 30 |
+| `BudBundi`           | 31 |
 | `flybull`            | 24 |
 | `is0bzc`             | 24 |
 | `Thain Hunter`       | 21 |
@@ -40,6 +40,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sizamonit`          | 2 |
 | `xv2b`               | 2 |
 | `darjes`             | 1 |
+| `Marc A. Mapplebeck` | 1 |
 | `nf003`              | 1 |
 | `Phillip Rohmberger` | 1 |
 | `Skiprat`            | 1 |

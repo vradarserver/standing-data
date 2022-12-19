@@ -17,8 +17,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
+| `科罗娜`                          | 8 |
 | `Mickael H.`                   | 7 |
-| `科罗娜`                          | 7 |
 | `argz`                         | 6 |
 | `squawk7000`                   | 6 |
 | `gandym`                       | 4 |
