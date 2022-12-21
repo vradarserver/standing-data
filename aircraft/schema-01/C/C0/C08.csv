@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C080D0,C-GWUH,DH8D,De Havilland Canada,DHC-8-Q402 Dash 8,De Havilland Canada DHC-8-Q402 Dash 8,1,Private,,4480,2014
+C08154,C-GWZJ,GLEX,Bombardier,BD-700-1A10 Global 6500,Bombardier BD-700-1A10 Global 6500,0,Bombardier,BFO,60074,2022
 C0823B,C-GXIG,CRJ9,Bombardier,CRJ-900ER (CL-600-2D24),Bombardier CRJ-900ER (CL-600-2D24),0,Avmax Group,,15059,2005
 C082C2,C-GXNL,DH8D,De Havilland Canada,DHC-8-400 Dash 8,De Havilland Canada DHC-8-400 Dash 8,0,PAL Airlines (Canada),PVL,4014,2000
 C0848D,C-GYFC,E170,Embraer,ERJ-175,Embraer ERJ-175,1,Private,,17000355,2012

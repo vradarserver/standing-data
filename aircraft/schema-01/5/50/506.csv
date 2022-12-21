@@ -1,6 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+506C40,S5-APB,E145,Embraer,ERJ-145EP,Embraer ERJ-145EP,0,AlpAvia,,145118,1999
 506C42,S5-ASM,E145,Embraer,ERJ-145EP,Embraer ERJ-145EP,0,AlpAvia,,145012,1997
 506CA3,S5-BBC,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,1,Private,,560-6173,
+506CA4,S5-SCE,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,306,2001
+506CA5,S5-BBV,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,1,Private,,560-6335,
 506D8E,S5-CES,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,1,Private,,525B-0633,
 506D8F,S5-CET,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,1,Private,,560-6270,
 506F21,L4-01,L410,Let,L-410 UVP-E,Let L-410 UVP-E,0,Slovenian Armed Forces,SIV,912606,

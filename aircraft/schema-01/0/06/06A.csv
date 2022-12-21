@@ -1,5 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+06A1C6,A7-CGA,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6153,2014
 06A1C7,A7-CGB,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6167,2015
+06A1C8,A7-CGC,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6179,2015
+06A1C9,A7-CGD,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6271,2016
 06A1CA,A7-CGE,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6301,2017
 06A1CB,A7-CGF,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6366,2018
 06A1CC,A7-CGG,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6401,2019
@@ -10,7 +13,12 @@
 06A1D1,A7-CGM,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6471,
 06A1D2,A7-CGN,GLF6,Gulfstream Aerospace,G650ER,Gulfstream G650ER,0,Qatar Executive,QQE,6490,
 06A1D3,A7-CGO,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6497,
-06A1D9,A7-CGU,GLF6,Gulfstream,G650,Gulfstream G650,0,Qatar Executive,QQE,,
+06A1D4,A7-CGP,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72011,2017
+06A1D5,A7-CGQ,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72015,2017
+06A1D6,A7-CGR,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72021,2017
+06A1D7,A7-CGS,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72029,2018
+06A1D8,A7-CGT,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72037,2018
+06A1D9,A7-CGU,GLF6,Gulfstream,G650,Gulfstream G650,0,Qatar Executive,QQE,6511,
 06A209,ZR501,EUFI,Eurofighter,Typhoon T,Eurofighter Typhoon T,0,Qatar Emiri Air Force,,MT007,2022
 06A20A,QA401,EUFI,Eurofighter,2000,Eurofighter 2000,0,Qatar Emiri Air Force,,MT002,2022
 06A211,ZR509,EUFI,Eurofighter,Typhoon EF2000,Eurofighter Typhoon EF2000,0,Qatar Emiri Air Force,,MS005,2022

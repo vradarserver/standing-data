@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 70606B,9K-APH,A338,Airbus,A330-841,Airbus A330-841,0,Kuwait Airways,KAC,2005,2021
 70606C,9K-AKR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Kuwait Airways,KAC,11014,2022
+70606D,9K-API,A338,Airbus,A330-841,Airbus A330-841,0,Kuwait Airways,KAC,2016,2022
 70612C,9K-CBE,A20N,Airbus,A320-251N,Airbus A320-251N,0,Jazeera Airways,JZR,9528,2020
 70612E,9K-CBF,A20N,Airbus,A320-251N,Airbus A320-251N,0,Jazeera Airways,JZR,10201,2020
 70612F,9K-CBH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Jazeera Airways,JZR,10488,2021

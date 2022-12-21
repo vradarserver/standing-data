@@ -16,6 +16,7 @@
 42468E,VP-BTV,B737,Boeing,737-700 BBJ,Boeing 737-700 BBJ,1,Private,,29274,1999
 424692,VP-BGA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11019,2022
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
+424709,VP-CJK,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9611,
 42470B,VP-CTW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6509,
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
 424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
@@ -57,3 +58,4 @@
 424C11,M-OEWD,PRM1,Beech,Premier I,Beech Premier I,1,Private,,RB-126,2005
 424C15,M-ENON,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72104,
 424C18,M-AHAA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
+424C1A,M-WHIZ,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6459,
