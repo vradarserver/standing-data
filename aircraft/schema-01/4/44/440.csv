@@ -197,6 +197,7 @@
 440BD0,OE-IZC,A320,Airbus,A320 214,Airbus A320 214,0,easyJet Europe,EJU,4033,2009
 440BD6,OE-GMJ,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Pink Sparrow,SOW,560-6039,
 440BDF,OE-HEC,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,International Jet Management,IJM,20556,
+440BE6,OE-LCD,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,International Jet Management,IJM,9250,2007
 440BEE,OE-LDJ,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1098,2010
 440C04,OE-HZB,AT43,ATR,42-320(F),ATR 42-320(F),0,Zimex Aviation,IMX,333,1992
 440C0F,OE-IEC,B738,Boeing,737-82R,Boeing 737-82R,0,ASL Airlines Belgium,TAY,35701,2008
@@ -218,6 +219,7 @@
 440C5A,OE-LFD,B748,Boeing,747-87UF,Boeing 747-87UF,0,Air Belgium,ABB,37563,2013
 440C5C,M-ABOV,B748,Boeing,747-87UF,Boeing 747-87UF,0,Air Belgium,ABB,37562,2013
 440C5F,OE-LTD,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,MJet,MJF,6088,
+440C60,OE-LAC,A332,Airbus,A330-243,Airbus A330-243,0,Air Belgium,ABB,1486,2013
 440C69,OE-LCL,A332,Airbus,A330-243,Airbus A330-243,0,Air Belgium,ABB,1521,2014
 440C70,OE-LDP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Sparfell Luftfahrt,LDX,70089,
 440C75,OE-LZM,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sparfell Luftfahrt,LDX,148,2011

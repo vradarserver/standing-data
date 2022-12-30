@@ -1,6 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE63B1,15-46069,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,United States Air Force,AIO,41986,2022
 AE640B,11-0059,V22,Bell Boeing,CV-22B Osprey,Bell Boeing CV-22B Osprey,0,United States Air Force,AIO,D1039,
+AE67D2,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,,,
+AE6811,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,,,
+AE6834,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,,,
 AE6895,169332,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,,62698,
 AE6BA8,169455,V22,Bell-Boeing,CMV-22B Osprey,Bell-Boeing CMV-22B Osprey,0,US Navy,,,
 AE6CF2,20-1949,GLF5,Gulfstream,Aerospace C-37B,Gulfstream Aerospace C-37B,0,United States Air Force,AIO,5614,2022
