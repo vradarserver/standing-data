@@ -7,9 +7,9 @@ Please note that credit files are updated less frequently than the data files.
 | Name                 | Contributions |
 | :--                  | --: |
 | `OSN`                | 1,670 |
-| `Andrew`             | 1,093 |
-| `Peter Hutt`         | 493 |
-| `科罗娜`                | 398 |
+| `Andrew`             | 1,094 |
+| `Peter Hutt`         | 590 |
+| `科罗娜`                | 522 |
 | `EDDN`               | 369 |
 | `SkyDiscovery`       | 337 |
 | `spotterblog`        | 103 |
@@ -22,25 +22,26 @@ Please note that credit files are updated less frequently than the data files.
 | `Gavin-D`            | 18 |
 | `bigrossco`          | 13 |
 | `Jonas`              | 11 |
+| `Luis Cova`          | 8 |
 | `Nightwish`          | 7 |
 | `Rebelvenice2`       | 7 |
-| `Luis Cova`          | 5 |
+| `RZH`                | 7 |
 | `struart`            | 5 |
 | `thecowan`           | 4 |
 | `ews997881`          | 3 |
+| `Matt Coughran`      | 3 |
 | `nerf`               | 3 |
 | `rikgale`            | 3 |
 | `Sevetamryn`         | 3 |
 | `GTR8000`            | 2 |
 | `Manny`              | 2 |
+| `Marc A. Mapplebeck` | 2 |
 | `nik`                | 2 |
 | `Planespotterben`    | 2 |
 | `ryanthomp`          | 2 |
-| `RZH`                | 2 |
 | `Sizamonit`          | 2 |
 | `xv2b`               | 2 |
 | `darjes`             | 1 |
-| `Marc A. Mapplebeck` | 1 |
 | `nf003`              | 1 |
 | `Phillip Rohmberger` | 1 |
 | `Skiprat`            | 1 |
