@@ -12,11 +12,11 @@ Please note that credit files are updated less frequently than the data files.
 | `vand`                  | 43 |
 | `sib64`                 | 34 |
 | `Lanorge`               | 28 |
+| `EDDG`                  | 21 |
 | `CX6BX`                 | 20 |
-| `EDDG`                  | 16 |
+| `Peter Hutt`            | 16 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
-| `Peter Hutt`            | 14 |
 | `nik`                   | 11 |
 | `Soe Min Htet`          | 11 |
 | `OSN`                   | 10 |
@@ -49,6 +49,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Glock_09`              | 2 |
 | `jcott`                 | 2 |
 | `Kenneth`               | 2 |
+| `Kjella0226`            | 2 |
 | `Mark Taylor`           | 2 |
 | `RCN_BC`                | 2 |
 | `spotterblog`           | 2 |
@@ -79,6 +80,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`      | 1 |
 | `Planespotter6`         | 1 |
 | `RBBrasil`              | 1 |
+| `RZH`                   | 1 |
 | `Saizen`                | 1 |
 | `soeminhtett45181`      | 1 |
 | `struart`               | 1 |

@@ -8,7 +8,7 @@ Please note that credit files are updated less frequently than the data files.
 | :--                  | --: |
 | `OSN`                | 1,670 |
 | `Andrew`             | 1,094 |
-| `Peter Hutt`         | 590 |
+| `Peter Hutt`         | 629 |
 | `科罗娜`                | 522 |
 | `EDDN`               | 369 |
 | `SkyDiscovery`       | 337 |
@@ -18,6 +18,7 @@ Please note that credit files are updated less frequently than the data files.
 | `BudBundi`           | 31 |
 | `flybull`            | 24 |
 | `is0bzc`             | 24 |
+| `RZH`                | 22 |
 | `Thain Hunter`       | 21 |
 | `Gavin-D`            | 18 |
 | `bigrossco`          | 13 |
@@ -25,7 +26,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Luis Cova`          | 8 |
 | `Nightwish`          | 7 |
 | `Rebelvenice2`       | 7 |
-| `RZH`                | 7 |
+| `Kjella0226`         | 6 |
 | `struart`            | 5 |
 | `thecowan`           | 4 |
 | `ews997881`          | 3 |
