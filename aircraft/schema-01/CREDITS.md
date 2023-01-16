@@ -8,16 +8,16 @@ Please note that credit files are updated less frequently than the data files.
 | :--                  | --: |
 | `OSN`                | 1,670 |
 | `Andrew`             | 1,094 |
-| `Peter Hutt`         | 629 |
-| `科罗娜`                | 522 |
+| `Peter Hutt`         | 659 |
+| `科罗娜`                | 533 |
 | `EDDN`               | 369 |
 | `SkyDiscovery`       | 337 |
 | `spotterblog`        | 103 |
 | `Lanorge`            | 68 |
 | `andrw`              | 57 |
 | `BudBundi`           | 31 |
+| `is0bzc`             | 25 |
 | `flybull`            | 24 |
-| `is0bzc`             | 24 |
 | `RZH`                | 22 |
 | `Thain Hunter`       | 21 |
 | `Gavin-D`            | 18 |

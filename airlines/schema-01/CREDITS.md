@@ -14,7 +14,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Lanorge`               | 28 |
 | `EDDG`                  | 21 |
 | `CX6BX`                 | 20 |
-| `Peter Hutt`            | 16 |
+| `Peter Hutt`            | 17 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
 | `nik`                   | 11 |
