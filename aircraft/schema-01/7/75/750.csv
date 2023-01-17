@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+7502C4,9M-LRM,B738,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Batik Air Malaysia,MXD,43010,2019
+7502D5,9M-LRT,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Batik Air Malaysia,MXD,42996,2017
 750338,9M-XXR,A333,Airbus,A330-343,Airbus A330-343,0,AirAsia X,XAX,654,2003
 750424,9M-LRK,B38M,Boeing,737-8MAX,Boeing 737-8MAX,0,Batik Air Malaysia,MXD,43005,2019
 750425,9M-LRL,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Batik Air Malaysia,MXD,43012,2019

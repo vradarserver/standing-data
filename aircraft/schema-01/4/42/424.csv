@@ -14,13 +14,18 @@
 424683,VP-BLS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6477,
 42468A,VP-BKV,B773,Boeing,777-312,Boeing 777-312,0,Sky One FZE,,33374,2005
 42468E,VP-BTV,B737,Boeing,737-700 BBJ,Boeing 737-700 BBJ,1,Private,,29274,1999
+424690,VP-BXV,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,0,ZYB Lily Jet,MZT,9507,
 424692,VP-BGA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11019,2022
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424709,VP-CJK,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9611,
 42470B,VP-CTW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6509,
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
+424772,VP-CLJ,A318,Airbus,ACJ318 112 Elite,Airbus ACJ318 112 Elite,0,HK Bellawings,BWJ,3985,2009
 424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
+4247C7,VP-CHX,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,HK Bellawings,BWJ,418,2016
 4247E1,VP-CLW,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Sino Jet (Beijing) Company,JBE,6433,2019
+4247E6,VP-CSS,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Vistra (Cayman) Ltd,,6385,2018
+4247E9,VP-CRH,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,HK Bellawings,BWJ,5335,2011
 424839,VP-CBN,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5197,
 424840,VP-CSU,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1423,2013
 424847,VP-CTC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70056,
@@ -58,6 +63,7 @@
 424C06,M-IMIC,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2003,
 424C07,M-ABRB,LJ45,Learjet,45,Learjet 45,0,Ryanair,RYR,45-235,
 424C0C,M-AMBR,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9658,
+424C0E,M-MCBE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1134,
 424C11,M-OEWD,PRM1,Beech,Premier I,Beech Premier I,1,Private,,RB-126,2005
 424C15,M-ENON,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72104,
 424C18,M-AHAA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
