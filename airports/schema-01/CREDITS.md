@@ -8,7 +8,7 @@ Please note that credit files are updated less frequently than the data files.
 | :--                            | --: |
 | `Piet Delagrense`              | 183 |
 | `EDDG`                         | 61 |
-| `vand`                         | 43 |
+| `vand`                         | 45 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |
@@ -63,6 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `intelsky`                     | 1 |
 | `JohnL`                        | 1 |
 | `Jon Fear`                     | 1 |
+| `jonwarner`                    | 1 |
 | `K219`                         | 1 |
 | `Kenneth`                      | 1 |
 | `kma371`                       | 1 |
@@ -72,6 +73,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Peter Hutt`                   | 1 |
 | `Phillip Rohmberger`           | 1 |
 | `RCN_BC`                       | 1 |
+| `RZH`                          | 1 |
 | `sergpan2008`                  | 1 |
 | `smartcoda`                    | 1 |
 | `Spotter65`                    | 1 |

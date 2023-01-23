@@ -6,13 +6,13 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 332 |
-| `Piet Delagrense`       | 139 |
-| `科罗娜`                   | 55 |
+| `Andrew`                | 334 |
+| `Piet Delagrense`       | 140 |
+| `科罗娜`                   | 56 |
 | `vand`                  | 43 |
+| `EDDG`                  | 34 |
 | `sib64`                 | 34 |
 | `Lanorge`               | 28 |
-| `EDDG`                  | 21 |
 | `CX6BX`                 | 20 |
 | `Peter Hutt`            | 17 |
 | `smartcoda`             | 15 |
@@ -68,6 +68,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ghe_n_ghe`             | 1 |
 | `Gregory G Harding`     | 1 |
 | `Halo/S`                | 1 |
+| `Hector Cruz`           | 1 |
 | `henrian`               | 1 |
 | `huebi77`               | 1 |
 | `Jon Fear`              | 1 |
