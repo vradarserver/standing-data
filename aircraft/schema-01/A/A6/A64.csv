@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A641BF,N502DX,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,10467,2022
 A64305,N502SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000883,2021
+A64363,N502WS,SF50,Cirrus,Vision SF50,Cirrus Vision SF50,1,Private,,0262,
 A64578,N503DZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,10974,2022
 A646BC,N503SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000884,2021
 A6492F,N504DZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,10884,2022

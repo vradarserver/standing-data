@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 68,487 |
-| `vand`                         | 38,235 |
+| `Piet Delagrense`              | 68,784 |
+| `vand`                         | 38,913 |
 | `Pascal Ensinck`               | 25,009 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,492 |
 | `Jon Fear`                     | 13,207 |
-| `sib64`                        | 12,502 |
+| `sib64`                        | 12,515 |
 | `Lanorge`                      | 11,272 |
 | `bigrossco`                    | 10,324 |
 | `SteveF`                       | 9,821 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Neboknede`                    | 6,550 |
+| `Neboknede`                    | 6,556 |
 | `McBridden`                    | 5,586 |
 | `EDDT Manu`                    | 5,320 |
 | `AP100`                        | 4,655 |
@@ -54,7 +54,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Gavin-D`                      | 1,306 |
+| `Gavin-D`                      | 1,307 |
 | `Andrew`                       | 1,220 |
 | `科罗娜`                          | 1,147 |
 | `rwinterhoff`                  | 1,130 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Mark Taylor`                  | 1,030 |
+| `Mark Taylor`                  | 1,033 |
 | `Dauren`                       | 1,000 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
@@ -72,18 +72,18 @@ Please note that credit files are updated less frequently than the data files.
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
 | `Boelebroer`                   | 911 |
+| `Daniel.cornejo.campos`        | 880 |
 | `jcott`                        | 877 |
-| `Daniel.cornejo.campos`        | 873 |
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
+| `Markus`                       | 788 |
 | `argz`                         | 780 |
-| `Markus`                       | 774 |
 | `SQ5IRZ`                       | 742 |
 | `delcomp`                      | 715 |
 | `foxhunter`                    | 707 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
-| `wogman`                       | 679 |
+| `wogman`                       | 689 |
 | `Korni`                        | 678 |
 | `Chriso`                       | 653 |
 | `D. M.`                        | 647 |
@@ -152,10 +152,10 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 199 |
 | `Alex Bodle`                   | 195 |
+| `kirkmayers`                   | 193 |
+| `Skibox`                       | 192 |
 | `IndoSpotter`                  | 190 |
 | `frdosdane`                    | 189 |
-| `kirkmayers`                   | 188 |
-| `Skibox`                       | 187 |
 | `aviatic`                      | 182 |
 | `stuartroy`                    | 179 |
 | `Ich3003`                      | 177 |
@@ -166,10 +166,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Steven G`                     | 173 |
 | `C Cook`                       | 172 |
 | `AlexH`                        | 171 |
+| `Alexey`                       | 170 |
 | `Amlink`                       | 170 |
 | `Boiniche`                     | 170 |
 | `danielaregay`                 | 168 |
-| `Alexey`                       | 166 |
 | `fidaeextra`                   | 164 |
 | `prptua`                       | 156 |
 | `Thomas G.`                    | 154 |
@@ -204,6 +204,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mekkawi`                      | 106 |
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
+| `KWB`                          | 101 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
 | `esir`                         | 97 |
@@ -229,7 +230,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
 | `Forssi`                       | 71 |
-| `KWB`                          | 71 |
 | `Edward Gaudion`               | 70 |
 | `Joel Harris`                  | 69 |
 | `Nightwish`                    | 69 |
