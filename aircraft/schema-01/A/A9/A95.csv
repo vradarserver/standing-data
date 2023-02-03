@@ -1,5 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A95C70,N702ER,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9432,2012
-A95D2E,N702NF,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,1,Private,,20127,2006
+A95D2E,N702NF,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,ACE Logistics LLC,,20127,2006
 A95D6E,N702QV,GLF5,Gulfstream,V,Gulfstream V,0,Naqvi Law,,685,2002
 A95DE2,N702VL,B737,Boeing,737-7H4,Boeing 737-7H4,0,Avelo Airlines,VXP,36623,2008

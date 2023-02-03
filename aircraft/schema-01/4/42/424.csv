@@ -38,6 +38,7 @@
 4248A7,VP-CIZ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Cayman Airways,CAY,43336,2021
 4248BF,VP-CSH,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,60046,
 4248CA,VP-CMY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,296,
+4248D0,VP-COI,B738,Boeing,737-8MA,Boeing 737-8MA,0,Avolon Aviation,,40945,2014
 424A7B,,-GND,,Ground Vehicle,Ground Vehicle,1,Private,,,
 424A7C,,-GND,,Ground Vehicle,Ground Vehicle,0,Dublin Airport,,,
 424A7F,,-GND,,Ground Vehicle,Ground Vehicle,0,Birmingham Airport,,,
@@ -68,6 +69,7 @@
 424C07,M-ABRB,LJ45,Learjet,45,Learjet 45,0,Ryanair,RYR,45-235,
 424C0C,M-AMBR,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9658,
 424C0E,M-MCBE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1134,
+424C10,M-BLUE,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Telvor Aviation,,60062,2022
 424C11,M-OEWD,PRM1,Beech,Premier I,Beech Premier I,1,Private,,RB-126,2005
 424C15,M-ENON,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72104,
 424C18,M-AHAA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
