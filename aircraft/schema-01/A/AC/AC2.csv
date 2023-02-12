@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC238C,N881WM,DH8D,De Havilland Canada,DHC-8-402,De Havilland Canada DHC-8-402,0,Waltzing Matilda Aviation,,4216,2008
 AC2567,N882BL,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,American Airlines,AAL,66002,2021
+AC290A,N883AR,B738,Boeing,737-8K5,Boeing 737-8K5,1,Private,,30883,2001
 AC2CB2,N884AA,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,American Airlines,AAL,66004,2022

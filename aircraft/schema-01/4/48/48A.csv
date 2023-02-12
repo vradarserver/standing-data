@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 48A2A8,SP-IZI,E50P,Embraer,EMB 500 Phenom 100,Embraer EMB 500 Phenom 100,1,Private,,50000329,
 48AD06,SP-LIG,E75S,Embraer,E175LR,Embraer E175LR,0,Polish Government,,17000283,2009
+48AD0F,SP-LIP,E75L,Embraer,170-200LR-175LR,Embraer 170-200LR-175LR,0,LOT Polish Airlines,LOT,17000334,2012
+48AD10,SP-LIR,E75S,Embraer,170-200LR-175LR,Embraer 170-200LR-175LR,0,LOT Polish Airlines,LOT,17000340,2012
 48AD19,SP-LIQ,E75S,Embraer,170-200STD,Embraer 170-200STD,0,LOT Polish Airlines,LOT,17000335,2022
 48AD84,SP-LME,E190,Embraer,E190AR,Embraer E190AR,0,LOT Polish Airlines,LOT,19000271,2009
 48AD85,SP-LMF,E190,Embraer,E190AR,Embraer E190AR,0,LOT Polish Airlines,LOT,19000330,2009

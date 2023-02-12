@@ -18,6 +18,7 @@
 424690,VP-BXV,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,0,ZYB Lily Jet,MZT,9507,
 424692,VP-BGA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11019,2022
 424693,VP-BGM,A20N,Airbus,A320-251N,Airbus A320-251N,0,ElitAvia,,11041,2022
+42469B,VP-BTN,A20N,Airbus,A320-271N,Airbus A320-271N,0,Azerbaijan Airlines,AHY,11265,2022
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424709,VP-CJK,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9611,
 42470B,VP-CTW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6509,
@@ -65,6 +66,7 @@
 424BF2,M-DMMR,A333,Airbus,A330-343,Airbus A330-343,0,DHL Air UK,DHK,1453,2013
 424BFE,M-ARDN,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,290,2022
 424BFF,M-KGKG,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020157,2022
+424C00,M-SSML,GALX,Gulfstream Aerospace,G200 Galaxy,Gulfstream Aerospace G200 Galaxy,1,Private,,245,2011
 424C02,M-UATG,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6179,2022
 424C06,M-IMIC,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2003,
 424C07,M-ABRB,LJ45,Learjet,45,Learjet 45,0,Ryanair,RYR,45-235,
