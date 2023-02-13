@@ -80,6 +80,7 @@
 4CAC66,EI-AZE,B738,Boeing,737-86Q(F),Boeing 737-86Q(F),0,ASL Airlines Ireland,ABR,30291,2004
 4CAC6D,EI-STW,B734,Boeing,737-4M0(SF),Boeing 737-4M0(SF),0,ASL Airlines Ireland,ABR,29201,1998
 4CAC75,EI-BMN,C152,Reims,F152,Reims F152,1,Private,,F15201912,
+4CAC77,EI-GZP,A320,Airbus,A320-232,Airbus A320-232,1,Private,,2804,2006
 4CAC79,EI-SIJ,A20N,Airbus,A320-251N,Airbus A320-251N,0,SAS Connect,SAS,10752,2022
 4CAC7A,EI-SIK,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,10716,2022
 4CAC7B,EI-SIL,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,10764,2022
@@ -173,6 +174,7 @@
 4CAE8E,EI-SID,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8031,2017
 4CAF7E,EI-SIE,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8058,2017
 4CAF82,EI-SIF,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8109,2017
+4CAFA0,EI-AER,GLF6,Gulfstream,GVI,Gulfstream GVI,1,Private,,6515,2022
 4CAFCC,EI-SIG,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8333,2018
 4CAFCD,EI-SIH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8551,2018
 4CAFCE,EI-SII,A20N,Airbus,A320-251N,Airbus A320-251N,0,Scandinavian Airlines Connect,SZS,8566,2018

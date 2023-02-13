@@ -6,10 +6,10 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                 | Contributions |
 | :--                  | --: |
-| `OSN`                | 1,717 |
-| `Andrew`             | 1,096 |
-| `Peter Hutt`         | 784 |
-| `科罗娜`                | 591 |
+| `OSN`                | 1,756 |
+| `Andrew`             | 1,097 |
+| `Peter Hutt`         | 832 |
+| `科罗娜`                | 601 |
 | `EDDN`               | 398 |
 | `SkyDiscovery`       | 337 |
 | `spotterblog`        | 103 |
