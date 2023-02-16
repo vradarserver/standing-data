@@ -1,4 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+C060BA,C-GKQJ,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020069,2022
+C060BB,C-GKQK,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020070,2022
+C060BC,C-GKQL,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020071,2022
+C060BD,C-GKQM,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020072,2022
+C060BE,C-GKQN,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020074,2022
+C060BF,C-GKQO,E295,Embraer,E195-E2,Embraer E195-E2,0,Porter Airlines,POE,19020075,2023
 C064D8,C-GMEX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Air Canada,ACA,61243,2021
 C06539,C-GMIQ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Air Canada,ACA,61244,2021
 C0653D,C-GMIU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Air Canada,ACA,61260,2021
