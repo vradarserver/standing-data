@@ -174,6 +174,7 @@
 440B9B,OE-LAJ,A332,Airbus,A330-243,Airbus A330-243,0,Air Belgium,ABB,717,2006
 440B9C,OE-LAL,A332,Airbus,A330-243,Airbus A330-243,1,Private,,832,2007
 440BA9,OE-LCO,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,ORIX Aviation,,63316,2018
+440BAB,OE-LCA,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,0,Avcon Jet,AOJ,9202,
 440BAC,OE-GWE,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Salzburg Jet Aviation,MOZ,560-5731,
 440BB1,OE-FNV,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,GlobeAir,GAC,510-0157,
 440BB2,OE-FHT,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,62.125,
@@ -240,6 +241,7 @@
 440CBE,OE-LSN,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10701,2022
 440CBF,OE-LSO,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,11234,2022
 440CC1,OE-LSP,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,11244,2022
+440CC6,OE-IBV,A359,Airbus,A350-941,Airbus A350-941,0,Avolon,,355,2019
 440CDB,OE-GPP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jetfly Airlines,JFL,560-6326,
 440CDC,OE-LTC,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5452,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
@@ -261,3 +263,4 @@
 440D35,OE-LCS,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,9747,
 440D36,OE-HER,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,227,
 440D41,OE-LHU,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet,AOJ,9534,2012
+440D5D,OE-FRH,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,0,International Jet Management,IJM,525A-0158,

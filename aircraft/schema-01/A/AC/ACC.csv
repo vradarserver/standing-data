@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ACC1EB,N921AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43337,2021
+ACC33B,N921PW,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1550,2015
 ACC5F0,N922DN,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72079,2021
+ACC676,N922JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JetSuiteX,JSX,145202,1999
 ACC9BE,N923EL,GLF5,Gulfstream,Aerospace GV-SP (G550),Gulfstream Aerospace GV-SP (G550),1,Private,,5401,
 ACCD10,N924AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43333,2021
 ACCFBB,N9242Y,B738,Boeing,737-8AS,Boeing 737-8AS,0,Garuda Indonesia,GIA,29931,
