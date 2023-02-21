@@ -1,3 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A19AB1,N202NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,5440,2012
+A19B2F,N202TW,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,2202,2022
 A19E68,N203NV,A320,Airbus,A320-214,Airbus A320-214,0,Asian Air,AAZ,5384,2012

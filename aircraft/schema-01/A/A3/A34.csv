@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A34268,N309SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000912,2022
 A3427C,N309TT,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6012,2012
+A34498,N31BG,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4243,2011
 A34878,N310SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000913,2022
 A34C2F,N311SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000914,2022
+A34D98,N3115J,BCS3,Bombardier,CS300,Bombardier CS300,0,JetBlue Airways,JBU,55181,2022
 A34E01,N3118J,BCS3,Bombardier,CS300,Bombardier CS300,0,JetBlue Airways,JBU,55186,2022

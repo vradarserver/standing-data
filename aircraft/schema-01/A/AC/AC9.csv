@@ -1,3 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC9166,N909JC,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5298,2010
 AC9975,N9103J,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9103,2002
+AC9B1C,N911HL,B407,Bell,407,Bell 407,0,Jefferson Parish Sheriff's Office,,53692,2006
+AC9B35,N911JL,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Jefferson Parish Sheriff's Office,,57096,2012
+AC9BF1,N911RZ,EC35,Eurocopter,EC135 T2+,Eurocopter EC135 T2+,0,Acadian Air Med,,0834,2009
+AC9F88,N912QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,Netjets,,680A0333,2022

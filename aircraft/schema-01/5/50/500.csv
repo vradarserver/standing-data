@@ -9,6 +9,7 @@
 50021D,T7-FEE,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4261,2012
 500222,T7-GER,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2071,
 500223,T7-CNC,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6286,
+50022B,T7-ROC,GLEX,Bombardier,BD-700 Global 7500,Bombardier BD-700 Global 7500,0,TAG Aviation San Marino,TAG,9761,
 500230,T7-OWN,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6083,
 500232,T7-AAAA,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60016,
 500234,T7-ULS,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,349,2000
@@ -52,6 +53,7 @@
 5002BD,T7-PYR,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70128,
 5002C6,T7-JUE,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,ZYB Lily Jet,MZT,70111,
 5002C7,T7-L517,A332,Airbus,A330-243,Airbus A330-243,0,Air Lease Corporation,,1138,2010
+5002CA,T7-CBW,E55P,Embraer,EMB-505 Phenom 300,Embraer EMB-505 Phenom 300,1,Private,,50500684,
 5002D2,T7-850,TBM8,Socata,TBM 850,Socata TBM 850,1,Private,,615,
 5002D4,T7-777,B737,Boeing,737-7EG BBJ,Boeing 737-7EG BBJ,0,Asian Corporate Aviation Management,,35990,2006
 5002D8,T7-DFC,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70131,
