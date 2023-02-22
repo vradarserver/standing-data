@@ -27,6 +27,10 @@ K8,Hongdu,Karakorum,1,J,,L,L,1
 K8,Nanchang,JL-8 Karakorum,1,J,,L,L,1
 K8,Nanchang,K-8 Karakorum,1,J,,L,L,1
 K8,Nanchang,Karakorum,1,J,,L,L,1
+K900,Daher,Kodiak 200,1,T,,L,L,1
+K900,Daher,Kodiak 900,1,T,,L,L,1
+K900,Quest,Kodiak 200,1,T,,L,L,1
+K900,Quest,Kodiak 900,1,T,,L,L,1
 KA25,Kamov,Ka-25,2,T,,H,M,1
 KA26,Kamov,Ka-26,2,P,,H,L,1
 KA27,Kamov,HH-32,2,T,,H,M,1
@@ -68,6 +72,8 @@ KERO,Rearwin,2000 Ken-Royce,1,P,,L,L,1
 KERO,Rearwin,Ken-Royce,1,P,,L,L,1
 KEST,Farnborough,F-1 Kestrel,1,T,,L,L,1
 KEST,Farnborough,Kestrel,1,T,,L,L,1
+KF21,Korea Aerospace,Boramae,2,J,,L,M,1
+KF21,Korea Aerospace,KF-21 Boramae,2,J,,L,M,1
 KFAB,Kitplanes For Africa,Bushbaby,1,P,,L,L,1
 KFAB,Kitplanes For Africa,Explorer,1,P,,L,L,1
 KFAS,Kitplanes For Africa,Safari,1,P,,L,L,1
@@ -98,7 +104,8 @@ KL07,Nabern,Kl-107,1,P,,L,L,1
 KL10,Flight Design-Vessel,KLA-100,1,P,,L,L,1
 KL25,Klemm,L-25,1,P,,L,L,1
 KL35,Klemm,Kl-35,1,P,,L,L,1
-KLBR,Kolb,King Colbra,1,P,,L,L,1
+KLBR,Kolb,King Kolbra,1,P,,L,L,1
+KLBR,Kolb,King Colbra,1,P,,L,L,0
 KM2,Fuji,KM-2,1,P,,L,L,1
 KM2,Fuji,LM-1 Nikko,1,P,,L,L,1
 KM2,Fuji,LM-2 Nikko,1,P,,L,L,1

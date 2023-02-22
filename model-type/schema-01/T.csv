@@ -248,9 +248,11 @@ TBM8,SOCATA,TBM-850,1,T,,L,L,1
 TBM9,Daher,TBM-700N (TBM-910),1,T,,L,L,1
 TBM9,Daher,TBM-700N (TBM-930),1,T,,L,L,1
 TBM9,Daher,TBM-700N (TBM-940),1,T,,L,L,1
+TBM9,Daher,TBM-700N (TBM-960),1,T,,L,L,1
 TBM9,Daher,TBM-910,1,T,,L,L,1
 TBM9,Daher,TBM-930,1,T,,L,L,1
 TBM9,Daher,TBM-940,1,T,,L,L,1
+TBM9,Daher,TBM-960,1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-900),1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-910),1,T,,L,L,1
 TBM9,SOCATA,TBM-700N (TBM-930),1,T,,L,L,1
@@ -410,6 +412,7 @@ TRAL,Groppo,Trail,1,P,,L,L,1
 TRAL,Groppo,Trial,1,P,,L,L,0
 TRAP,Capella,T-Raptor,1,P,,L,L,1
 TRBA,Podesva,Trener Baby,1,P,,L,L,1
+TRDO,Titan,Tornado S,1,P,,L,L,1
 TRDO,Titan,Tornado SS,1,P,,L,L,1
 TRF1,Team Rocket,F-1,1,P,,L,L,1
 TRIM,Ford,4-AT Tri-Motor,3,P,,L,L,1
@@ -459,6 +462,8 @@ TUCA,Embraer,T-27 Tucano,1,T,,L,L,1
 TUCA,Embraer,Tucano,1,T,,L,L,1
 TUCA,Short,S-312 Tucano,1,T,,L,L,1
 TUCA,Short,Tucano,1,T,,L,L,1
+TUCR,FLYING LEGEND,Tucano Replica,1,P,,L,L,1
+TUCT,FLYING LEGEND,Turbine Tucano Replica,1,T,,L,L,1
 TUL3,Podesva,Amigo,1,P,,L,L,1
 TUL3,Podesva,TUL-03 Amigo,1,P,,L,L,1
 TUTR,Avro,621 Tutor,1,P,,L,L,1
@@ -468,6 +473,8 @@ TVL4,Travel Air,4000,1,P,,L,L,1
 TVLB,Bel-Aire,2000,1,P,,L,L,1
 TVLB,Travel Air,2000,1,P,,L,L,1
 TVLB,Travel Air,B,1,P,,L,L,1
+TWEN,Tecnam,Gran Lusso,1,P,,L,L,1
+TWEN,Tecnam,P-2010 Gran Lusso,1,P,,L,L,1
 TWEN,Tecnam,P-2010 Twenty-Ten,1,P,,L,L,1
 TWEN,Tecnam,Twenty-Ten,1,P,,L,L,1
 TWIR,Dyn'Aero,Twin-R,2,P,,L,L,1

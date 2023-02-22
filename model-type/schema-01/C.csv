@@ -881,7 +881,9 @@ CL2T,Canadair,SuperScooper,2,T,,A,M,1
 CL30,Bombardier,BD-100 Challenger 300,2,J,A,L,M,1
 CL30,Bombardier,Challenger 300,2,J,A,L,M,1
 CL35,Bombardier,BD-100 Challenger 350,2,J,A,L,M,1
+CL35,Bombardier,BD-100 Challenger 3500,2,J,A,L,M,1
 CL35,Bombardier,Challenger 350,2,J,A,L,M,1
+CL35,Bombardier,Challenger 3500,2,J,A,L,M,1
 CL41,Canadair,CL-41 Tutor,1,J,,L,L,1
 CL41,Canadair,CT-114 Tutor,1,J,,L,L,1
 CL41,Canadair,Tutor,1,J,,L,L,1
@@ -905,8 +907,8 @@ CL60,Canadair,CL-600 Challenger 600,2,J,A,L,M,1
 CL60,Canadair,CL-600 Challenger 601,2,J,A,L,M,1
 CL60,Canadair,CL-600 Challenger 604,2,J,A,L,M,1
 CL60,Canadair,CL-600 Challenger 605,2,J,A,L,M,1
-CL8,Carriou,CL-8 RSA Club,1,P,,L,L,1
-CL8,Carriou,RSA Club,1,P,,L,L,1
+CL8,Carriou,CL-8 RSA Club,1,P,,L,L,0
+CL8,Carriou,RSA Club,1,P,,L,L,0
 CLA,Callair,A-2,1,P,,L,L,1
 CLA,Callair,A-3,1,P,,L,L,1
 CLA,Callair,A-4,1,P,,L,L,1
@@ -1154,8 +1156,8 @@ CPUP,Culp,Sopwith Pup,1,P,,L,L,1
 CR10,Dyn'Aero,CR-100,1,P,,L,L,1
 CR10,Dyn'Aero,CR-110,1,P,,L,L,1
 CR10,Dyn'Aero,CR-120,1,P,,L,L,1
-CRA1,Cranfield,A-1 Eagle,1,P,,L,L,1
-CRA1,Cranfield,Eagle,1,P,,L,L,1
+CRA1,Cranfield,A-1 Eagle,1,P,,L,L,0
+CRA1,Cranfield,Eagle,1,P,,L,L,0
 CRAC,Plumb,CJ-3 Cracker Jack,1,P,,L,L,1
 CRAC,Plumb,Cracker Jack,1,P,,L,L,1
 CRBN,Curtiss,50 Robin,1,P,,L,L,1

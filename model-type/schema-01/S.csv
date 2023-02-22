@@ -45,6 +45,7 @@ S15U,SAFRAN,Patroller,1,P,,L,L,1
 S15U,SAFRAN,S-15 Patroller,1,P,,L,L,1
 S15U,Stemme,Patroller,1,P,,L,L,1
 S15U,Stemme,S-15 Patroller,1,P,,L,L,1
+S160,SUNWARD,SA160,1,P,,L,L,1
 S200,SIPA,Minijet,1,J,,L,L,1
 S200,SIPA,S-200 Minijet,1,J,,L,L,1
 S202,SGAU,S-202,2,P,,A,L,1
@@ -124,6 +125,8 @@ S4,Arctic,Privateer,1,P,,L,L,1
 S4,Arctic,S-4 Privateer,1,P,,L,L,1
 S400,SGAU,Kapitan,2,P,,S,L,1
 S400,SGAU,S-400 Kapitan,2,P,,S,L,1
+S401,Scaled,401 Sierra,1,J,,L,L,1
+S401,Scaled,Sierra,1,J,,L,L,1
 S434,Sikorsky,S-434,1,T,,H,L,1
 S45,Partenair,Mystere,1,P,,L,L,1
 S45,Partenair,S-45 Mystere,1,P,,L,L,1
@@ -280,6 +283,7 @@ SA8T,Schweizer,Twin Condor (turbine),2,T,,L,L,1
 SAB2,Arnet Pereyra,Sabre 2,1,P,,L,L,1
 SAB2,Keuthan,Sabre 2,1,P,,L,L,1
 SABA,Paravar Pars,Saba,1,P,,L,L,1
+SABW,AZALEA,Saberwing,1,P,,L,L,1
 SACE,Ace,Super Ace,1,P,,L,L,1
 SACE,Acro Sport,Super Ace,1,P,,L,L,1
 SACE,Corben,Super Ace,1,P,,L,L,1
@@ -316,6 +320,10 @@ SAVG,Russo,Savage,1,P,,L,L,1
 SAVG,Zlin Aviation,Savage,1,P,,L,L,1
 SB05,SAAB,105,2,J,,L,L,1
 SB05,SAAB,Sk60,2,J,,L,L,1
+SB1,Sikorsky,Defiant,2,T,,H,M,1
+SB1,Sikorsky,S-100 Defiant,2,T,,H,M,1
+SB1,SIKORSKY-BOEING,Defiant,2,T,,H,M,1
+SB1,SIKORSKY-BOEING,SB-1 Defiant,2,T,,H,M,1
 SB20,SAAB,2000,2,T,,L,M,1
 SB29,SAAB,29,1,J,,L,M,1
 SB29,SAAB,J29,1,J,,L,M,1
@@ -411,6 +419,8 @@ SCRO,Akaflieg Munchen,Schlacro,1,P,,L,L,1
 SCTR,Flaglor,Scooter,1,P,,L,L,1
 SCUB,Aero Kuhlmann,Scub,1,P,,L,L,1
 SCW1,SCWAL,101,1,P,,L,L,1
+SD2,SPACEK,SD-2 SportMaster,1,P,,L,L,1
+SD2,SPACEK,SportMaster,1,P,,L,L,1
 SD26,SkyDancer,SD-260,1,P,,L,L,1
 SD4,Tomark,SD-4 Viper,1,P,,L,L,1
 SD4,Tomark,Viper,1,P,,L,L,1
@@ -500,7 +510,7 @@ SHEK,Rans,S-16 Shekari,1,P,,L,L,1
 SHEK,Rans,Shekari,1,P,,L,L,1
 SHER,Sherpa,Sherpa,1,P,,L,L,1
 SHER,Sherpa,Sherpa C-400,1,P,,L,L,1
-SHIP,,Airship,,,,,,1
+SHIP,,Airship,,,,,,0
 SHOE,Mercury,Shoestring,1,P,,L,L,1
 SHOP,Salvay-Stark,Skyhopper,1,P,,L,L,1
 SHOR,Higher Class,Super Hornet,1,P,,L,L,1
@@ -787,6 +797,8 @@ STAR,Raytheon,Starship,2,T,,L,L,1
 STAT,Aircraft Designs,Turbine Stallion,1,T,,L,L,1
 STCH,Fly Synthesis,Storch,1,P,,L,L,1
 STFF,Statler,Firefly,1,P,,L,L,1
+STG2,Rans,S-18 Stinger 2,1,P,,L,L,1
+STG2,Rans,Stinger 2,1,P,,L,L,1
 STIL,Terzi,Stiletto,1,P,,L,L,1
 STIL,Terzi,T-9 Stiletto,1,P,,L,L,1
 STLN,Helio,AU-24 Stallion,1,T,,L,L,1
@@ -925,7 +937,9 @@ SWAK,Warner,Sportster,1,P,,L,L,1
 SWAT,Bharat,LT-1 Swati,1,P,,L,L,1
 SWAT,Bharat,LT-2 Swati,1,P,,L,L,1
 SWAT,Bharat,Swati,1,P,,L,L,1
-SWIF,Supermarine,Swift,1,J,,L,M,1
+SWFT,Scaled,400 Swift,1,J,,L,L,1
+SWFT,Scaled,Swift,1,J,,L,L,1
+SWIF,Supermarine,Swift,1,J,,L,M,0
 SWIN,S-Wing,S-Wing,1,P,,L,L,1
 SWOR,Blackburn,Swordfish,1,P,,L,L,1
 SWOR,Fairey,Swordfish,1,P,,L,L,1

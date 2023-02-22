@@ -376,7 +376,7 @@ BA11,Bucuresti,One-Eleven,2,J,,L,M,1
 BA11,Bucuresti,Rombac 1-11 One-Eleven,2,J,,L,M,1
 BABY,Canadian Home Rotors,Baby Belle,1,P,,H,L,1
 BABY,Canadian Home Rotors,Safari,1,P,,H,L,1
-BALL,,Balloon,,,,,,1
+BALL,,Balloon,,,,,,0
 BAR6,Barr,BarrSix,1,P,,L,L,1
 BARC,Buethe,Barracuda,1,P,,L,L,1
 BARC,Jeffair,Barracuda,1,P,,L,L,1
@@ -392,21 +392,24 @@ BCA3,Buhl,Sport Airsedan,1,P,,L,L,1
 BCAT,Grumman,Bearcat,1,P,,L,L,1
 BCAT,Grumman,F8F Bearcat,1,P,,L,L,1
 BCAT,Grumman,G-58 Bearcat,1,P,,L,L,1
-BCS1,Airbus,A220-100,2,J,,L,M,1
-BCS1,Airbus,A220-100 ACJ TwoTwenty,2,J,,L,M,1
+BCS1,Airbus,A-220-100,2,J,,L,M,1
+BCS1,Airbus,A-220-100 ACJ TwoTwenty,2,J,,L,M,1
 BCS1,Airbus,ACJ TwoTwenty,2,J,,L,M,1
 BCS1,Bombardier,BD-500 CSeries CS100,2,J,,L,M,1
 BCS1,Bombardier,CS100,2,J,,L,M,1
 BCS1,Bombardier,CSeries CS100,2,J,,L,M,1
-BCS3,Airbus,A220-300,2,J,,L,M,1
+BCS1,Airbus,A220-100,2,J,,L,M,0
+BCS1,Airbus,A220-100 ACJ TwoTwenty,2,J,,L,M,0
+BCS3,Airbus,A-220-300,2,J,,L,M,1
 BCS3,Bombardier,BD-500 CSeries CS300,2,J,,L,M,1
 BCS3,Bombardier,CS300,2,J,,L,M,1
 BCS3,Bombardier,CSeries CS300,2,J,,L,M,1
+BCS3,Airbus,A220-300,2,J,,L,M,0
 BD10,Bede,BD-10,1,J,,L,L,1
 BD10,Peregrine,Falcon,1,J,,L,L,1
 BD10,Peregrine,PJ-2 Falcon,1,J,,L,L,1
 BD10,Peregrine,PJ-3 Falcon,1,J,,L,L,1
-BD12,Bede,BD-12,1,P,,L,L,1
+BD12,Bede,BD-12,1,P,,L,L,0
 BD17,Bede,BD-17 Nuggett,1,P,,L,L,1
 BD17,Bede,Nuggett,1,P,,L,L,1
 BD4,Bede,BD-4,1,P,,L,L,1

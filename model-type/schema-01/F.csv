@@ -203,6 +203,8 @@ F27,Fokker,Troopship,2,T,,L,M,1
 F28,Fokker,F-28 Fellowship,2,J,A,L,M,1
 F28,Fokker,Fellowship,2,J,A,L,M,1
 F2TH,Dassault,Falcon 2000,2,J,A,L,M,1
+F30,GOLDEN AVIO,Brio,1,P,,L,L,1
+F30,GOLDEN AVIO,F-30 Brio,1,P,,L,L,1
 F30,Golden Car,Brio,1,P,,L,L,1
 F30,Golden Car,F-30 Brio,1,P,,L,L,1
 F35,Lockheed Martin,F-35A Lightning 2,1,J,,L,M,1
@@ -386,7 +388,7 @@ FBA2,Found,FBA-2 Bush Hawk,1,P,,L,L,1
 FBA2,Found,FBA-2 Expedition E350,1,P,,L,L,1
 FBA2,Pacific Aerospace,Expedition E350,1,P,,L,L,1
 FBA2,Pacific Aerospace,FBA-2 Expedition E350,1,P,,L,L,1
-FBIR,Freewing,Freebird Mk5,1,P,,L,L,1
+FBIR,Freewing,Freebird Mk5,1,P,,L,L,0
 FC1,Chengdu,FC-1 Super 7,1,J,,L,M,1
 FC1,Chengdu,FC-1 Xiaolong,1,J,,L,M,1
 FC1,Chengdu,JF-17 Thunder,1,J,,L,M,1
@@ -403,7 +405,7 @@ FE51,Fighter Escort Wings,P-51,1,P,,L,L,1
 FEST,SC Aerostar,01 Festival,1,P,,L,L,1
 FEST,SC Aerostar,Festival,1,P,,L,L,1
 FEST,SC Aerostar,R40S Festival,1,P,,L,L,1
-FFLO,,Unmanned aircraft (cannot hover),,,,,,1
+FFLO,,Unmanned aircraft (cannot hover),,,,,,0
 FFLY,Fairey,Firefly,1,P,,L,L,1
 FG01,Farigoux,FG-01 Origan,1,P,,L,L,1
 FG01,Farigoux,Origan,1,P,,L,L,1
@@ -538,7 +540,7 @@ FUSI,Magnus,Fusion,1,P,,L,L,1
 FUSI,Magnus,MG-11 Fusion,1,P,,L,L,1
 FW02,Flywhale,Flywhale,1,P,,A,L,1
 FW02,Flywhale,FW-02 Flywhale,1,P,,A,L,1
-FW19,Four Winds,192,1,P,,L,L,1
+FW19,Four Winds,192,1,P,,L,L,0
 FW21,Four Winds,FX-210,1,P,,L,L,1
 FW44,FMA,Fw-44 Stieglitz,1,P,,L,L,1
 FW44,FMA,Stieglitz,1,P,,L,L,1

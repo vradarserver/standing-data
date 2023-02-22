@@ -316,15 +316,27 @@ DH88,De Havilland,Comet Replica,2,P,,L,L,1
 DH88,De Havilland,DH-88 Comet Replica,2,P,,L,L,1
 DH89,De Havilland,DH-89 Dragon Rapide,2,P,,L,L,1
 DH89,De Havilland,Dragon Rapide,2,P,,L,L,1
-DH8A,De Havilland Canada,CC-142 Dash 8,2,T,,L,M,1
+DH8A,Bombardier,Dash 8 (100),2,T,,L,M,1
+DH8A,Bombardier,DHC-8-100 Dash 8,2,T,,L,M,1
 DH8A,De Havilland Canada,CT-142 Dash 8,2,T,,L,M,1
 DH8A,De Havilland Canada,Dash 8 (100),2,T,,L,M,1
 DH8A,De Havilland Canada,DHC-8-100 Dash 8,2,T,,L,M,1
 DH8A,De Havilland Canada,E-9 Dash 8,2,T,,L,M,1
+DH8A,De Havilland Canada,CC-142 Dash 8,2,T,,L,M,0
+DH8B,Bombardier,Dash 8 (200),2,T,,L,M,1
+DH8B,Bombardier,DHC-8-200 Dash 8,2,T,,L,M,1
 DH8B,De Havilland Canada,Dash 8 (200),2,T,,L,M,1
 DH8B,De Havilland Canada,DHC-8-200 Dash 8,2,T,,L,M,1
+DH8B,De Havilland Canada,P-9,2,T,,L,M,1
+DH8C,Bombardier,Dash 8 (300),2,T,,L,M,1
+DH8C,Bombardier,DHC-8-300 Dash 8,2,T,,L,M,1
+DH8C,Bombardier,RO-6,2,T,,L,M,1
+DH8C,De Havilland Canada,C-147,2,T,,L,M,1
 DH8C,De Havilland Canada,Dash 8 (300),2,T,,L,M,1
 DH8C,De Havilland Canada,DHC-8-300 Dash 8,2,T,,L,M,1
+DH8C,De Havilland Canada,RO-6,2,T,,L,M,1
+DH8D,Bombardier,Dash 8 (400),2,T,,L,M,1
+DH8D,Bombardier,DHC-8-400 Dash 8,2,T,,L,M,1
 DH8D,De Havilland Canada,Dash 8 (400),2,T,,L,M,1
 DH8D,De Havilland Canada,DHC-8-400 Dash 8,2,T,,L,M,1
 DH90,De Havilland,DH-90 Dragonfly,2,P,,L,L,1

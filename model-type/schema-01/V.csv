@@ -23,8 +23,8 @@ V322,MSW,Votec 322,1,P,,L,L,1
 V351,MSW,Votec 351,1,P,,L,L,1
 V452,MSW,Votec 452,1,T,,L,L,1
 V500,Revolution,Voyager-500,1,P,,H,L,1
-V8SP,Beachner,Special,1,P,,L,L,1
-V8SP,Beachner,V-8 Special,1,P,,L,L,1
+V8SP,Beachner,Special,1,P,,L,L,0
+V8SP,Beachner,V-8 Special,1,P,,L,L,0
 VALI,Convair,BT-13 Valiant,1,P,,L,L,1
 VALI,Convair,V-54 Valiant,1,P,,L,L,1
 VALI,Convair,Valiant,1,P,,L,L,1
@@ -73,7 +73,7 @@ VF35,Lockheed Martin,F-35B Lightning II,1,J,,L,M,0
 VF35,Lockheed Martin,Lightning II (F-35B),1,J,,L,M,0
 VF60,VulcanAir,Mission,1,T,,L,L,1
 VF60,VulcanAir,VF-600 Mission,1,T,,L,L,1
-VFHC,,Unmanned aircraft (can hover),,,,,,1
+VFHC,,Unmanned aircraft (can hover),,,,,,0
 VG3T,Aviakit,Vega 3000,1,P,,L,L,1
 VGUL,Percival,K-1 Vega Gull,1,P,,L,L,1
 VGUL,Percival,P-10 Vega Gull,1,P,,L,L,1
@@ -111,6 +111,8 @@ VL3,KLN,VL-3 Flamingo,1,P,,L,L,1
 VL3,Vanessa Air,Flamingo,1,P,,L,L,1
 VL3,Vanessa Air,VL-3,1,P,,L,L,1
 VL3,Vanessa Air,VL-3 Flamingo,1,P,,L,L,1
+VLOT,Velocity,Velocity XL (turbine),1,T,,L,L,1
+VLTT,Velocity,Velocity V-Twin (turbine),2,T,,L,L,1
 VM1,Vol Mediterrani,Esqual,1,P,,L,L,1
 VM1,Vol Mediterrani,VM-1 Esqual,1,P,,L,L,1
 VMT,Myasishchev,Atlant,4,J,,L,H,0

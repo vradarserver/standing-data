@@ -404,7 +404,7 @@ MGAT,Mikoyan,MiG-AT,1,J,,L,L,1
 MGIC,Kaiser,Magic,1,P,,L,L,1
 MGIC,WZL 3,DEKO-9,1,P,,L,L,1
 MGNM,Aviation Enterprises,Magnum,1,P,,L,L,1
-MH02,Honda-Mississippi,MH-02,2,J,,L,L,1
+MH02,Honda-Mississippi,MH-02,2,J,,L,L,0
 MH20,Mitsubishi,MH-2000,2,T,,H,L,1
 MH46,Aerosette,Eclipse,1,P,,L,L,1
 MH46,Aerosette,MH-46 Eclipse,1,P,,L,L,1
@@ -535,12 +535,13 @@ MOL1,Molniya,1,1,P,,L,L,1
 MONA,Miles,M-17 Monarch,1,P,,L,L,1
 MONA,Miles,Monarch,1,P,,L,L,1
 MONI,Monnett,Moni,1,P,,L,L,1
-MOR2,Morrisey,2000 Nifty,1,P,,L,L,1
 MOR2,Morrisey,2150,1,P,,L,L,1
-MOR2,Morrisey,Nifty,1,P,,L,L,1
 MOR2,Shinn,2150,1,P,,L,L,1
 MOR2,Varga,2150 Kachina,1,P,,L,L,1
+MOR2,Varga,2180 Kachina,1,P,,L,L,1
 MOR2,Varga,Kachina,1,P,,L,L,1
+MOR2,Morrisey,2000 Nifty,1,P,,L,L,0
+MOR2,Morrisey,Nifty,1,P,,L,L,0
 MOSP,Mong,Sport,1,P,,L,L,1
 MOSQ,De Havilland,DH-98 Mosquito,2,P,,L,M,1
 MOSQ,De Havilland,Mosquito,2,P,,L,M,1
@@ -630,6 +631,7 @@ MX1T,World Aircraft,Spirit,1,P,,L,L,1
 MX1T,World Aircraft,Vision,1,P,,L,L,1
 MX1T,World Aircraft,WA-100 Spirit,1,P,,L,L,1
 MX1T,World Aircraft,WA-200 Vision,1,P,,L,L,1
+MX2,MX AIRCRAFT,MX-2,1,P,,L,L,1
 MX2,MXR,MX-2,1,P,,L,L,1
 MX58,Aeroandina,Embera,1,P,,L,L,1
 MX58,Aeroandina,MXP-158 Embera,1,P,,L,L,1
@@ -643,6 +645,7 @@ MX80,Aeroandina,Fantasy,1,P,,L,L,1
 MX80,Aeroandina,MXP-800 Fantasy,1,P,,L,L,1
 MX80,Aerotec (Colombia),Fantasy,1,P,,L,L,1
 MX80,Aerotec (Colombia),MXP-800 Fantasy,1,P,,L,L,1
+MXS,MX AIRCRAFT,MXS,1,P,,L,L,1
 MXS,MXR,MXS,1,P,,L,L,1
 MY12,Mylius,MY-102 Tornado,1,P,,L,L,1
 MY12,Mylius,Tornado,1,P,,L,L,1
