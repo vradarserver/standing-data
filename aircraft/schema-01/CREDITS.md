@@ -7,19 +7,21 @@ Please note that credit files are updated less frequently than the data files.
 | Name                   | Contributions |
 | :--                    | --: |
 | `OSN`                  | 1,756 |
-| `Andrew`               | 1,099 |
-| `Peter Hutt`           | 862 |
-| `科罗娜`                  | 614 |
+| `Andrew`               | 1,100 |
+| `Peter Hutt`           | 903 |
+| `科罗娜`                  | 632 |
 | `EDDN`                 | 398 |
 | `SkyDiscovery`         | 337 |
-| `aircraftenthusiast20` | 120 |
+| `aircraftenthusiast20` | 219 |
 | `spotterblog`          | 103 |
 | `Lanorge`              | 70 |
 | `andrw`                | 63 |
-| `RZH`                  | 45 |
+| `RZH`                  | 46 |
+| `EDDT Manu`            | 43 |
 | `BudBundi`             | 31 |
 | `is0bzc`               | 25 |
 | `flybull`              | 24 |
+| `dziban molniya`       | 22 |
 | `Thain Hunter`         | 21 |
 | `Gavin-D`              | 18 |
 | `bigrossco`            | 13 |
@@ -29,11 +31,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`            | 7 |
 | `Rebelvenice2`         | 7 |
 | `struart`              | 5 |
+| `rikgale`              | 4 |
 | `thecowan`             | 4 |
 | `ews997881`            | 3 |
 | `Matt Coughran`        | 3 |
 | `nerf`                 | 3 |
-| `rikgale`              | 3 |
 | `Sevetamryn`           | 3 |
 | `GTR8000`              | 2 |
 | `Manny`                | 2 |
@@ -48,6 +50,8 @@ Please note that credit files are updated less frequently than the data files.
 | `flyboy101`            | 1 |
 | `nf003`                | 1 |
 | `Phillip Rohmberger`   | 1 |
+| `Seb Gray`             | 1 |
 | `Skiprat`              | 1 |
+| `Tomek113`             | 1 |
 | `UA4WIY`               | 1 |
 
