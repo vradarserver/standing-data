@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 7810A8,B-3233,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4335,2014
+7810C5,B-3246,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,ZYB Lily Jet,MZT,9712,2015
 7810E4,B-3355,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500363,2016
 7810E5,B-3356,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500392,2016
 781167,B-3253,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4301,2013
@@ -31,13 +32,14 @@
 78142B,B-3358,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5566,2017
 78142D,B-3389,GLEX,Bombardier,BD-700- 1A10,Bombardier BD-700- 1A10,0,Amber Aviation,TCI,9422,2010
 781495,B-001Y,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
-781517,B-001H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,163,2021
+781517,B-001H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 781518,B-001J,C919,Comac,C919,Comac C919,0,Comac,,,
 78151A,B-001L,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 78152E,B-602L,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Business Aviation Asia,UNA,9528,2012
 78153E,B-602N,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Business Aviation Asia,UNA,6325,2017
 7815B0,B-602T,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,Genghis Khan Airlines,NMG,117,2018
 7815B1,B-602S,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,Genghis Khan Airlines,NMG,116,2018
+7815B3,B-602V,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,ZYB Lily Jet,MZT,9827,2018
 7815B5,B-602W,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,Genghis Khan Airlines,NMG,118,2018
 781605,B-208U,B738,Boeing,737NG 800/W,Boeing 737NG 800/W,0,China United Airlines,CUA,63080,2019
 78160A,B-208Y,B738,Boeing,737NG 800/W,Boeing 737NG 800/W,0,China United Airlines,CUA,63082,2019
@@ -75,6 +77,7 @@
 7819DE,B-320J,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Beijing Capital Airlines,CBJ,9498,2020
 7819F1,B-120D,FM25,Flying Machines,FM-250 Vampire,Flying Machines FM-250 Vampire,0,Wanfeng General Aviation,WFH,CD-FM250V55,
 781A02,B-099C,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,COMAC,,,
+781A03,B-099D,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 781A05,B-099F,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 781A07,B-099H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 781A09,B-099K,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
@@ -413,6 +416,7 @@
 781EEA,B-223C,B752,Boeing,757-28ASF,Boeing 757-28ASF,0,SF Airlines,CSS,32447,2000
 781EEB,B-653H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,182,2022
 781EEE,B-32DC,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11142,2022
+781EEF,B-223D,B763,Boeing,767-33AER(BCF)(WL),Boeing 767-33AER(BCF)(WL),0,SF Airlines,CSS,33421,2002
 781EF0,B-919A,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00007,2022
 781EFC,B-32CV,A320,Airbus,A320-214(WL),Airbus A320-214(WL),0,Longjiang Airlines,SNG,7404,2016
 781F06,B-223E,B738,Boeing,737-8Q8(WL),Boeing 737-8Q8(WL),0,Ruili Airlines,RLH,30733,2007
