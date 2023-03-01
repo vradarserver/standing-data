@@ -23,6 +23,9 @@
 7804C6,B-2071,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Cargo,CSN,37309,2009
 7804CF,B-7695,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,ZYB Lily Jet,MZT,7268,
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
+780581,B-5443,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36746,2009
+7805C5,B-5485,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36747,2009
+7805C6,B-5486,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36748,2009
 7805DE,B-8100,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5024,2003
 780610,B-5266,B737,Boeing,737-7AK(BBJ),Boeing 737-7AK(BBJ),0,Deer Jet Beijing,BDJ,29866,1999
 78061E,B-8108,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5120,2006
@@ -75,6 +78,7 @@
 780955,B-6435,A319,Airbus,ACJ319 133,Airbus ACJ319 133,0,Deer Jet Beijing,BDJ,4428,2010
 780956,B-8258,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5360,2011
 78095B,B-8256,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Happy Jet Co Ltd,HYJ,5348,2011
+780968,B-8319,A319,Airbus,ACJ319 115,Airbus ACJ319 115,0,Beijing Airlines,BJN,4956,2011
 780974,B-8208,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,0,Amber Aviation,TCI,267,2012
 780979,B-8259,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5357,2011
 7809C5,B-8261,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5364,2012
@@ -90,6 +94,7 @@
 780B2A,B-8271,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4271,2011
 780B3F,B-5790,B738,Boeing,737-85C,Boeing 737-85C,0,Hebei Airlines,HBH,38402,2013
 780B58,B-8290,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Brilliant Jet,TXJ,4264,2011
+780BAF,B-8218,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Beijing Airlines,BJN,189,2012
 780BBA,B-8306,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Sino Jet (Beijing) Company,JBE,5445,2013
 780BC0,B-8205,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,209,2013
 780BC1,B-8292,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5422,2013
@@ -117,3 +122,4 @@
 780F4D,B-3226,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Nanshan Jet,NSJ,5472,2014
 780F4E,B-3196,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Happy Jet Co Ltd,HYJ,5469,2014
 780F98,B-3322,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,COMAC Express,CCS,105,2013
+780FBE,B-3988,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Beijing Airlines,BJN,5532,2014
