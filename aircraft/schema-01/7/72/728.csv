@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 728640,YI-ASE,B738,Boeing,737-81Z,Boeing 737-81Z,0,Iraqi Airways,IAW,40104,
+72866C,YI-ASL,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Iraqi Airways,IAW,65405,2023
 728833,YI-BAS,B738,Boeing,737-8GJ,Boeing 737-8GJ,0,Fly Baghdad,FBA,39427,2012
 728834,YI-BAT,B739,Boeing,737-9GPER,Boeing 737-9GPER,0,Fly Baghdad,FBA,35711,2007
 728835,YI-BAU,B733,Boeing,737-319,Boeing 737-319,0,UR Airlines,UBD,25608,1999
