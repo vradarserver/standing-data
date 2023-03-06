@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A560F4,N446AN,A21N,Airbus,A321/253NX,Airbus A321/253NX,0,American Airlines,AAL,10770,2022
 A564AB,N447AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10705,2022
+A56531,N447FX,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Flexjet,LXJ,55010097,2022
 A56862,N448AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10738,2022
 A56A91,N448YX,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,American Eagle Airlines,EGF,17000851,2020
 A56C19,N449AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10747,2022
