@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A7C08F,N599TR,GLF5,Gulfstream,V,Gulfstream V,1,Private,,668,2002
+A7C2E2,N6DK,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500711,2022
 A7C30F,N6FE,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Federal Express,FDX,60060,2022
 A7C62C,N60PA,GLF5,Gulfstream Aerospace,V,Gulfstream Aerospace V,1,Private,,N24A-96,1998
 A7C7D2,N600FX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet,LXJ,55020159,2022
