@@ -1114,7 +1114,7 @@ CPD,Capital Airlines,CPD,,,
 CPG,Corporacion Aeroangeles,CPG,,,
 CPH,Champagne Airlines,CPH,,,
 CPI,Compagnia Aerea Italiana,CPI,,,
-CPJ,Baltimore Air Transport,CPJ,,,
+CPJ,Phenix Jet,CPJ,,,.*
 CPL,Chaparral Airlines,CPL,,,
 CPM,Compagnie Mauritanienne Des Transports,CPM,,,
 CPN,Caspian Airlines,CPN,RV,,
@@ -1781,6 +1781,7 @@ FJM,Fly Jamaica Airways,FJM,OJ,,
 FJO,Flexjet Operations Malta,FJO,,,.*
 FJR,Fly Jordan,FJR,F0,,
 FJS,Florida Jet Service,FJS,,,
+FJT,Future Air,FJT,,,.*
 FJW,Fastjet Zimbabwe,FJW,FN,,
 FJX,Jet Sky Cargo and Air Charter,FJX,,,
 FKI,FLM Aviation Mohrdieck,FKI,,,
