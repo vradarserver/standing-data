@@ -10,7 +10,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Piet Delagrense`       | 145 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 70 |
-| `科罗娜`                   | 62 |
+| `科罗娜`                   | 66 |
 | `vand`                  | 43 |
 | `sib64`                 | 34 |
 | `CX6BX`                 | 20 |
@@ -63,6 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`             | 1 |
 | `chenhao253`            | 1 |
 | `EDDN`                  | 1 |
+| `EDDT Manu`             | 1 |
 | `elljay`                | 1 |
 | `gandym`                | 1 |
 | `ghe_n_ghe`             | 1 |

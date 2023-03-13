@@ -1,5 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 ZWAK,Aksu Airport,ZWAK,AKU,Aksu,CN,41.262500,80.291700,0
+ZWAL,Alaer Talimu Airport,ZWAL,ACF,Alaer,CN,40.464167,81.246944,3323
 ZWAT,Altay Airport,ZWAT,AAT,"Altay City, Ili Kazakh Autonomous Prefecture, Xinjiang",CN,47.750361,88.084444,2461
 ZWBL,Bole Alashankou Airport,ZWBL,BPL,Bole,CN,44.895000,82.300000,1253
 ZWCM,Qiemo Airport,ZWCM,IQM,Qiemo,CN,38.149399,85.532799,4108
@@ -16,6 +17,7 @@ ZWSC,Shache Airport,ZWSC,QSZ,Yarkant,CN,38.245000,77.060000,4232
 ZWSH,Kashgar Airport,ZWSH,KHG,Kashgar,CN,39.542900,76.019997,4529
 ZWTC,Tacheng Airport,ZWTC,TCG,Tacheng,CN,46.672500,83.340833,1982
 ZWTN,Hotan Airport,ZWTN,HTN,Hotan,CN,37.038502,79.864899,4672
+ZWTS,Tumxuk Tangwangcheng Airport,ZWTS,TWC,"Tumxuk, Xinjiang Uyghur Region",CN,39.880556,78.990000,3570
 ZWWW,Ürümqi Diwopu International Airport,ZWWW,URC,Ürümqi,CN,43.907101,87.474197,2125
 ZWYN,Yining Airport,ZWYN,YIN,Yining,CN,43.955800,81.330300,0
 ZWYT,Yutian Wanfang Airport,ZWYT,YTW,"Yutian, Xinjiang",CN,36.810833,81.780833,3281

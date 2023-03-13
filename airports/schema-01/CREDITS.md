@@ -14,10 +14,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Serge F4IPO`                  | 14 |
 | `viista`                       | 13 |
 | `sib64`                        | 12 |
+| `科罗娜`                          | 12 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
-| `科罗娜`                          | 8 |
 | `Mickael H.`                   | 7 |
 | `argz`                         | 6 |
 | `squawk7000`                   | 6 |

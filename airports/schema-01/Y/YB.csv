@@ -1,6 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 YBAB,Baralaba,YBAB,,Baralaba,AU,-24.186667,149.845000,340
-YBAF,Brisbane Archerfield Airport,YBAF,ACF,Brisbane,AU,-27.570299,153.007996,63
+YBAF,Brisbane Archerfield Airport,YBAF,,Brisbane,AU,-27.570299,153.007996,63
 YBAR,Barcaldine Airport,YBAR,BCI,Barcaldine,AU,-23.565300,145.307007,878
 YBAS,Alice Springs Airport,YBAS,ASP,Alice Springs,AU,-23.806700,133.901993,1789
 YBBN,Brisbane International Airport,YBBN,BNE,Brisbane,AU,-27.384199,153.117004,13
