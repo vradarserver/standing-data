@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A47221,N386FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10642,2021
+A475B1,N387EB,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,1,Private,,73101,2022
 A475D1,N387FJ,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,1,Private,,387,
 A475D8,N387FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10708,2021
 A47988,N388FJ,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Dassault Falcon Jet Corporation,CVF,388,2021

@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AAF477,N805AG,GA5C,Gulfstream,G500,Gulfstream G500,0,Altria Client Services LLC,,72081,2021
+AAF4A5,N805CC,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,297,2021
 AAF5F2,N805RL,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0094,
 AAF619,N805T,GA6C,Gulfstream,GVII-G600,Gulfstream GVII-G600,1,Private,,73071,2022
 AAF82E,N806AG,GA6C,Gulfstream,Aerospace GVII-G600,Gulfstream Aerospace GVII-G600,0,Altria Client Services,,73086,2022
 AAFCD9,N807LA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,XO,XOJ,70065,2020
+AAFDC4,N807VL,B738,Boeing,737-8EH,Boeing 737-8EH,0,Avelo Airlines,VXP,35830,2009
 AAFDEC,N807XA,B738,Boeing,737-8KV,Boeing 737-8KV,0,Saudi Aramco,,63406,2018
