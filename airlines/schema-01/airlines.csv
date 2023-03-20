@@ -927,7 +927,7 @@ CEL,Ceiba Intercontinental,CEL,C2,,
 CEM,Central Mongolia Airways,CEM,,,
 CEP,Chipola Aviation,CEP,,,
 CER,Cetraca Aviation Service,CER,,,
-CES,China Eastern Airlines,CES,MU,(911\d|713\d|710\d|790\d|2999|200[0-4]|800),
+CES,China Eastern Airlines,CES,MU,(911\d|713\d|790\d|2999|200[0-4]|800|200|799),71[01]\d
 CET,Centrafrican Airlines,CET,,,
 CEV,Cente D'Essais En Vol,CEV,,,
 CEX,Capitol Air Express,CEX,,,

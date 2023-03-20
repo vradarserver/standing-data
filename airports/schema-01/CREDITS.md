@@ -8,13 +8,13 @@ Please note that credit files are updated less frequently than the data files.
 | :--                            | --: |
 | `Piet Delagrense`              | 184 |
 | `EDDG`                         | 61 |
-| `vand`                         | 46 |
+| `vand`                         | 48 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |
+| `科罗娜`                          | 14 |
 | `viista`                       | 13 |
 | `sib64`                        | 12 |
-| `科罗娜`                          | 12 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
@@ -68,6 +68,7 @@ Please note that credit files are updated less frequently than the data files.
 | `K219`                         | 1 |
 | `Kenneth`                      | 1 |
 | `kma371`                       | 1 |
+| `laurent`                      | 1 |
 | `Lucas`                        | 1 |
 | `Mark Taylor`                  | 1 |
 | `Per Haakan Dahlback`          | 1 |
