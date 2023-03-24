@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AB007D,N808KG,BE20,Beech,King Air 250C,Beech King Air 250C,1,Private,,BZ-8,2022
+AB00AB,N808MC,H25B,Hawker Beechcraft,800,Hawker 800,1,Private,,258614,2003
 AB00DE,N808PD,E545,Embraer,Legacy 500,Embraer Legacy 500,0,Summit Aviation,,55010035,2018
 AB017B,N808VL,B738,Boeing,737-8EH,Boeing 737-8EH,0,Avelo Airlines,VXP,37597,2009
+AB0532,N809VL,B738,Boeing,737-8EH,Boeing 737-8EH,0,Avelo Airlines,VXP,37599,2010
 AB07AD,N81GV,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,1,Private,,4053,2006
 AB0E30,N811MK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6453,2021
 AB0EC0,N811TD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5227,2009

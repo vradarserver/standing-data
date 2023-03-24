@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+04016B,ET-AWH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ethiopian Airlines,ETH,62453,2021
+04016C,ET-AWI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ethiopian Airlines,ETH,62454,2021
 040184,ET-AXG,B37M,Boeing,737-8MAX,Boeing 737-8MAX,0,Ethiopian Airlines,ETH,43928,2020
 040196,ET-AXZ,DH8D,De Havilland Canada,DHC-8-400 Dash 8,De Havilland Canada DHC-8-400 Dash 8,0,Ethiopian Airlines,ETH,4618,2020
 04019D,ET-AYG,DH8D,De Havilland Canada,DHC-8-400 Dash 8,De Havilland Canada DHC-8-400 Dash 8,0,Ethiopian Airlines,ETH,4626,2021
