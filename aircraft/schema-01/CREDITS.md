@@ -8,14 +8,14 @@ Please note that credit files are updated less frequently than the data files.
 | :--                    | --: |
 | `OSN`                  | 1,756 |
 | `Andrew`               | 1,100 |
-| `Peter Hutt`           | 990 |
-| `科罗娜`                  | 667 |
+| `Peter Hutt`           | 1,029 |
+| `科罗娜`                  | 679 |
 | `EDDN`                 | 398 |
+| `aircraftenthusiast20` | 340 |
 | `SkyDiscovery`         | 337 |
-| `aircraftenthusiast20` | 317 |
 | `spotterblog`          | 103 |
+| `EDDT Manu`            | 72 |
 | `Lanorge`              | 70 |
-| `EDDT Manu`            | 69 |
 | `andrw`                | 64 |
 | `RZH`                  | 46 |
 | `BudBundi`             | 33 |
@@ -37,6 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ews997881`            | 3 |
 | `Matt Coughran`        | 3 |
 | `nerf`                 | 3 |
+| `Seb Gray`             | 3 |
 | `Sevetamryn`           | 3 |
 | `GTR8000`              | 2 |
 | `Manny`                | 2 |
@@ -46,13 +47,14 @@ Please note that credit files are updated less frequently than the data files.
 | `ryanthomp`            | 2 |
 | `Sizamonit`            | 2 |
 | `xv2b`                 | 2 |
+| `Avioradar`            | 1 |
 | `darjes`               | 1 |
 | `Datamix`              | 1 |
+| `deedeecee`            | 1 |
 | `Derek Bertram`        | 1 |
 | `flyboy101`            | 1 |
 | `nf003`                | 1 |
 | `Phillip Rohmberger`   | 1 |
-| `Seb Gray`             | 1 |
 | `Skiprat`              | 1 |
 | `Tomek113`             | 1 |
 | `UA4WIY`               | 1 |

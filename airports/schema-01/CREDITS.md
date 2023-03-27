@@ -11,8 +11,8 @@ Please note that credit files are updated less frequently than the data files.
 | `vand`                         | 48 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
+| `科罗娜`                          | 18 |
 | `Serge F4IPO`                  | 14 |
-| `科罗娜`                          | 14 |
 | `viista`                       | 13 |
 | `sib64`                        | 12 |
 | `Pascal Ensinck`               | 10 |
