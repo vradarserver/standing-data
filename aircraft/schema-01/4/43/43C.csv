@@ -39,6 +39,7 @@
 43C926,ZR285,EH10,AgustaWestland,EH-101 Merlin,AgustaWestland EH-101 Merlin,0,Polish Navy,PNY,50285,2021
 43C92F,ZM701,H64,Boeing,AH-64E Apache,Boeing AH-64E Apache,0,Army Air Corps,AAC,1600102,
 43C930,ZM702,H64,Boeing,AH-64E Apache AH.2,Boeing AH-64E Apache AH.2,0,Army Air Corps,AAC,UD003,2022
+43C935,ZM707,H64,Boeing,AH-64E Apache,Boeing AH-64E Apache,0,Army Air Corps,AAC,UD008,
 43C936,ZM708,H64,Boeing,AH-64E Apache Guardian v6,Boeing AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD009,2021
 43C937,ZM709,H64,Boeing,AH-64E Apache Guardian v6,Boeing AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD010,2023
 43C938,ZM710,H64,Boeing-Westland,AH-64E Apache Guardian v6,Boeing-Westland AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD.011,
@@ -51,6 +52,7 @@
 43C943,ZM721,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.022,
 43C944,ZM722,H46,Boeing,AH-64E Apache AH.2,Boeing AH-64E Apache AH.2,0,Army Air Corps,AAC,UD023,
 43C962,ZB133,HAWK,BAE,Hawk Mk 167,BAE Hawk Mk 167,0,Qatar Emiri Air Force,,QA003,2021
+43C963,ZB134,HAWK,British Aerospace,Hawk Mk167,British Aerospace Hawk Mk167,0,Qatar - Air Force,,QA004,
 43CB58,ZZ511,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,515,
 43CF2F,ZZ390,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,487,2013
 43CF32,ZZ393,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,490,2013

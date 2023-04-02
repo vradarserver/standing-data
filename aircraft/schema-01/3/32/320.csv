@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 320049,MM82000,A169,Leonardo,AW169,Leonardo AW169,0,Guardia di Finanza,,69105,
+32004D,MM82009,A139,AgustaWestland,AW-139,AgustaWestland AW-139,0,Guardia di Finanza,,,
 32004E,MM82010,A139,Leonardo,AW139,Leonardo AW139,0,Guardia di Finanza,,31902,
 320050,VF-149,A139,Leonardo,AW139,Leonardo AW139,0,Vigili del Fuoco,,31939,
 320052,MM62321,AT76,ATR,72-600,ATR 72-600,0,Guardia di Finanza,,1585,2019

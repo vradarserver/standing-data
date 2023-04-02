@@ -8,6 +8,7 @@
 4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
 4245D8,VP-CRM,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9045,2000
 4245DD,VP-CWM,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0252,2017
+424649,VP-BDU,B738,Boeing,737-8KV,Boeing 737-8KV,0,Nordwind Airlines,,60175,2018
 424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
 424660,VP-BTW,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,324,
 424665,VP-BGT,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Sirius-Aero,CIG,14501048,2008
@@ -59,6 +60,7 @@
 424BBC,M-ATRJ,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,199,
 424BBF,M-ABON,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9603,
 424BC5,M-DUBS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,255,
+424BC6,M-XJET,H25B,Hawker,800XP,Hawker 800XP,1,Private,,258390,1998
 424BC9,M-MBLY,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6456,2021
 424BCC,M-SFPL,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9692,2014
 424BCF,M-TOMY,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000371,2016
@@ -70,6 +72,7 @@
 424BD9,M-LOVE,E550,Embraer,Legacy 500,Embraer Legacy 500,1,Private,,55000069,2017
 424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
+424BE8,M-ABOT,RJ1H,Avro,RJ100,Avro RJ100,0,BAE Systems,BAE,E3245,1994
 424BF2,M-DMMR,A333,Airbus,A330-343,Airbus A330-343,0,DHL Air UK,DHK,1453,2013
 424BFA,M-AWOL,A119,Agusta,A119 Koala,Agusta A119 Koala,0,Saxon Logistics,,14037,2003
 424BFE,M-ARDN,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,290,2022
