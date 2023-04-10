@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                   | Contributions |
 | :--                    | --: |
-| `OSN`                  | 1,756 |
+| `OSN`                  | 1,763 |
+| `Peter Hutt`           | 1,107 |
 | `Andrew`               | 1,101 |
-| `Peter Hutt`           | 1,053 |
-| `科罗娜`                  | 684 |
+| `科罗娜`                  | 691 |
 | `EDDN`                 | 398 |
 | `aircraftenthusiast20` | 340 |
 | `SkyDiscovery`         | 337 |
 | `spotterblog`          | 103 |
-| `EDDT Manu`            | 81 |
-| `andrw`                | 75 |
+| `EDDT Manu`            | 84 |
+| `andrw`                | 82 |
 | `Lanorge`              | 70 |
 | `RZH`                  | 46 |
 | `BudBundi`             | 35 |
@@ -31,12 +31,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`            | 7 |
 | `Pascal Ensinck`       | 7 |
 | `Rebelvenice2`         | 7 |
+| `Seb Gray`             | 5 |
 | `struart`              | 5 |
 | `rikgale`              | 4 |
-| `Seb Gray`             | 4 |
 | `thecowan`             | 4 |
 | `ews997881`            | 3 |
 | `Matt Coughran`        | 3 |
+| `msperrin`             | 3 |
 | `nerf`                 | 3 |
 | `Sevetamryn`           | 3 |
 | `GTR8000`              | 2 |
@@ -55,7 +56,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Derek Bertram`        | 1 |
 | `flyboy101`            | 1 |
 | `Gary_S`               | 1 |
-| `msperrin`             | 1 |
 | `nf003`                | 1 |
 | `Phillip Rohmberger`   | 1 |
 | `Skiprat`              | 1 |

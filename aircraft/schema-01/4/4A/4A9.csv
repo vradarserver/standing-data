@@ -1,5 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-4A91B2,SE-DMR,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Scandinavian Airlines,SAS,10408,2021
-4A91B3,SE-DMS,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Scandinavian Airlines,SAS,10500,2021
+4A91B2,SE-DMR,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,SAS,SAS,10408,2021
+4A91B3,SE-DMS,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,SAS,SAS,10500,2021
 4A9350,SE-DZP,PC24,Pilatus,PC-24,Pilatus PC-24,0,Wind Jet,JET,241,2021
 4A9662,SE-ESB,C150,Cessna,150E,Cessna 150E,1,Private,,15061007,

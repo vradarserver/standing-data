@@ -3,6 +3,7 @@
 4851AA,PH-TRE,BALL,Cameron,Z-150,Cameron Z-150,1,Private,,11909,2015
 485228,,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,
 4854C7,PH-HBJ,B738,Boeing,737-82R,Boeing 737-82R,0,Transavia Holland,TRA,40696,2010
+4854CA,PH-HBK,B738,Boeing,737-82R,Boeing 737-82R,0,Transavia Holland,TRA,40876,2010
 4854CB,PH-HBL,B738,Boeing,737-82R(WL),Boeing 737-82R(WL),0,Transavia Holland,TRA,40697,2010
 4854CD,PH-HBM,B738,Boeing,737-800,Boeing 737-800,0,Transavia Holland,TRA,40871,2010
 485564,PH-CBV,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,384,2022
@@ -13,5 +14,6 @@
 485D34,PH-FRA,TBM9,Daher,TBM-900,Daher TBM-900,1,Private,,1058,2015
 485EC4,PH-ZDZ,BE20,Beech,B200 Super King Air,Beech B200 Super King Air,1,Private,,BB-1675,1999
 485EC6,PH-ZGZ,BE9L,Beech,C90A King Air,Beech C90A King Air,1,Private,,LJ-1236,1990
+485EC7,PH-ZHZ,BE20,Beech,200 Super King Air,Beech 200 Super King Air,0,Zeusch Aviation,,BB-402,1978
 485EEF,PH-RRW,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60075,2022
 485FB3,PH-DRG,M600,Piper,M600,Piper M600,1,Private,,4698218,

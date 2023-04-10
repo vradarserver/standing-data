@@ -119,6 +119,7 @@
 407CBA,G-DOUN,A109,Agusta,A109S Grand,Agusta A109S Grand,0,Eagle Moon,,22162,2010
 407CBB,G-ZOLA,DA42,Diamond,DA 42 NG,Diamond DA 42 NG,0,Plane Rentals Ltd,,42N105,
 407CBF,G-LNCC,A169,AgustaWestland,AW-169,AgustaWestland AW-169,0,Heli Service International,,69139,2021
+407CC0,G-CMDD,NNJA,Skyranger,Nynja 912S(1),Skyranger Nynja 912S(1),1,Private,,BMAA/HB/739,2021
 407CC4,G-LDGH,DA40,Diamond,DA40 NG,Diamond DA40 NG,0,Plane Rentals Ltd.,,40.N559,2021
 407CCB,G-UXLA,LJ40,Learjet,45,Learjet 45,0,SaxonAir,SXN,45-2018,2004
 407CCD,G-DDAD,R44,Robinson,R44,Robinson R44,0,Andrew's Whirlybirds,,30079,2021
@@ -137,6 +138,7 @@
 407CF5,G-HJDP,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65361,
 407CF6,G-IFMI,GLEX,Bombardier,BD-700-1A10,Bombardier BD-700-1A10,0,London Executive Aviation,LNX,60048,2022
 407CF7,G-DHLX,B77L,Boeing,777F,Boeing 777F,0,DHL Air UK,DHK,67139,2022
+407CFC,G-RJAP,C42,Ikarus,C42 FB 100 Charlie,Ikarus C42 FB 100 Charlie,1,Private,,2202-7676,
 407CFF,G-DAAW,B209,Messerschmitt-Bolkow,Bo 209 Monsun 160RV,Messerschmitt-Bolkow Bo 209 Monsun 160RV,1,Private,,181,1971
 407D00,G-WUKR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10871,2022
 407D02,G-ICER,A169,AgustaWestland,AW169,AgustaWestland AW169,0,Iceland International,,69131,2021
@@ -210,6 +212,7 @@
 407DF3,G-ISLR,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,1846,2019
 407DFC,G-POWT,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Titan Airways,AWC,08830,2019
 407DFD,G-CPTZ,A169,Leonardo,AW169,Leonardo AW169,0,Sloane Aviation,SLN,69043,2017
+407DFE,G-TEMU,S22T,Cirrus,SR-22T Turbo,Cirrus SR-22T Turbo,1,Private,,8708,2022
 407E05,G-DKDK,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Catreus,VCG,525-1117,2022
 407E0B,G-KMTE,SR22,Cirrrus,SR22,Cirrrus SR22,0,KEYMT Installation,,4754,2019
 407E19,G-EXTB,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4411,2012
@@ -238,6 +241,7 @@
 407E8E,G-SBNM,GLEX,Bombardier,G6500,Bombardier G6500,0,Jet Concierge Club,,60078,2022
 407E9C,G-GNEE,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,0,Genius Aviation Syndicate,,2202-7678,2022
 407E9E,G-ESRC,M600,Piper,PA-46-M600,Piper PA-46-M600,0,Rockford Aviation,,4698221,2022
+407EA1,G-DHLO,B763,Boeing,767-316ER(BCF)(WL),Boeing 767-316ER(BCF)(WL),0,DHL Air UK,DHK,40592,2012
 407EA8,G-CMLX,NNJA,Flylight Airsports,Skyranger Nynja,Flylight Airsports Skyranger Nynja,1,Private,,258-17,2022
 407EAD,G-EXTA,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4424,2012
 407EB3,G-ETGA,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2212,2022
@@ -254,5 +258,6 @@
 407F1E,G-RUKL,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,33572,2005
 407F1F,G-RUKM,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,37527,2009
 407F41,G-CMMK,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1297,2015
+407F50,G-TTCK,C25B,Cessna,525B CitationJet CJ3+,Cessna 525B CitationJet CJ3+,0,NALjets,,525B-0534,2018
 407F60,G-EJCG,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,04033,2009
 407F62,G-EJCV,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,06651,2015
