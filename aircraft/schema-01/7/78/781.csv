@@ -4,7 +4,7 @@
 7810E4,B-3355,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500363,2016
 7810E5,B-3356,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500392,2016
 781167,B-3253,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4301,2013
-781168,B-3239,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5553,2015
+781168,B-3239,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Star Jet,CHJ,5553,2015
 781184,B-3255,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6181,2015
 78118B,B-2571,B733,Boeing,737-39P(SF),Boeing 737-39P(SF),0,Longhao Airlines,LHA,29410,1998
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
@@ -148,6 +148,7 @@
 781B7F,B-220U,B738,Boeing,737-8H0,Boeing 737-8H0,0,Joy Air,JOY,37935,2011
 781B80,B-220T,B763,Boeing,767-316ER(BCF)(WL),Boeing 767-316ER(BCF)(WL),0,SF Airlines,CSS,26329,1996
 781B87,B-323Q,A21N,Airbus,A321-272NX,Airbus A321-272NX,0,Air China,CCA,10347,2021
+781B88,B-129X,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Civil Aviation Administration of China,CFI,560-6302,
 781B8B,B-323R,A20N,Airbus,A320-271N,Airbus A320-271N,0,Juneyao Airlines,DKH,10326,2021
 781B8D,B-323S,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,China Southern Airlines,CSN,10358,2021
 781B94,B-323T,A20N,Airbus,A320-271N,Airbus A320-271N,0,Shenzhen Airlines,CSZ,10292,2021
@@ -302,7 +303,7 @@
 781D6D,B-221S,B77L,Boeing,777-F,Boeing 777-F,0,China Cargo Airlines,CKK,67453,2022
 781D6E,B-328S,A20N,Airbus,A320-271N,Airbus A320-271N,0,China Express Airlines,HXA,10670,2022
 781D77,B-328W,A20N,Airbus,A320-271N,Airbus A320-271N,0,Sichuan Airlines,CSC,10703,
-781D79,B-652L,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sino Jet (Beijing) Company,JBE,,
+781D79,B-652L,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Spring Jet,,97,
 781D7A,B-328X,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Loong Air,CDC,10796,2022
 781D86,B-221V,B738,Boeing,737-8Z9(BCF)(WL),Boeing 737-8Z9(BCF)(WL),0,Central Airlines,HLF,30420,2002
 781D8D,B-221W,B77L,Boeing,777-F,Boeing 777-F,0,China Cargo Airlines,CKK,67464,2022
@@ -434,6 +435,7 @@
 781EE8,B-653V,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,OTT Airlines,OTT,208,2022
 781EEA,B-223C,B752,Boeing,757-28ASF,Boeing 757-28ASF,0,SF Airlines,CSS,32447,2000
 781EEB,B-653H,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,182,2022
+781EED,B-222Y,B738,Boeing,737-800F,Boeing 737-800F,0,Tianjin Air Cargo,CTJ,,
 781EEE,B-32DC,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11142,2022
 781EEF,B-223D,B763,Boeing,767-33AER(BCF)(WL),Boeing 767-33AER(BCF)(WL),0,SF Airlines,CSS,33421,2002
 781EF0,B-919A,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00007,2022
@@ -442,5 +444,6 @@
 781F05,B-91A1,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Southern Airlines,CSN,201,2021
 781F06,B-223E,B738,Boeing,737-8Q8(WL),Boeing 737-8Q8(WL),0,Ruili Airlines,RLH,30733,2007
 781F0B,B-222T,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,Central Airlines,HLF,36545,2010
+781F0C,B-223J,B738,Boeing,737-800F,Boeing 737-800F,0,Central Airlines,HLF,,
 781F16,B-32DF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Juneyao Airlines,DKH,11158,2023
 781F2A,B-32DK,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11177,2023
