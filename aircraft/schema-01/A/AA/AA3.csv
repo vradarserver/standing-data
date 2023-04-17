@@ -1,5 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA328F,N756YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000928,2022
+AA3435,N757BT,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1247,2010
+AA3646,N757YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000935,2023
 AA3784,N7578K,PA18,PIPER,PA-18-105 SPECIAL,PIPER PA-18-105 SPECIAL,1,Private,,,
 AA395F,N758SP,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,1,Private,,680-0015,2005
+AA39FD,N758YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000936,2023
 AA3F8F,N76DW,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9005,2022
