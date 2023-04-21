@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AD4102,N953NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10686,2022
+AD438D,N954AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,44104,2022
 AD4397,N954AV,A320,Airbus,A320-214,Airbus A320-214,0,Avianca,AVA,3699,2008
 AD4454,N954JJ,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9055,
 AD44B9,N954NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10697,2022

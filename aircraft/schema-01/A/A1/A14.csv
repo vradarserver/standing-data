@@ -1,3 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A1433A,N1801U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,60223,2019
 A14452,N1809U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,60188,2019
+A145A8,N181P,A139,Agusta,AW-139,Agusta AW-139,1,Private,,41544,2022
