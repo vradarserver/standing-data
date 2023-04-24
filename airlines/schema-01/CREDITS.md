@@ -6,9 +6,9 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 351 |
+| `Andrew`                | 352 |
 | `Piet Delagrense`       | 150 |
-| `科罗娜`                   | 83 |
+| `科罗娜`                   | 85 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 70 |
 | `vand`                  | 43 |
@@ -47,6 +47,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Daniel.cornejo.campos` | 2 |
 | `Datamix`               | 2 |
 | `DennyCrane`            | 2 |
+| `EDDT Manu`             | 2 |
 | `Glock_09`              | 2 |
 | `jcott`                 | 2 |
 | `Kenneth`               | 2 |
@@ -63,7 +64,6 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`             | 1 |
 | `chenhao253`            | 1 |
 | `EDDN`                  | 1 |
-| `EDDT Manu`             | 1 |
 | `elljay`                | 1 |
 | `gandym`                | 1 |
 | `ghe_n_ghe`             | 1 |

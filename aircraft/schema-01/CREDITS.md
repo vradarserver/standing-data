@@ -7,20 +7,20 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `OSN`                    | 1,763 |
-| `Peter Hutt`             | 1,122 |
-| `Andrew`                 | 1,102 |
-| `科罗娜`                    | 710 |
+| `Peter Hutt`             | 1,153 |
+| `Andrew`                 | 1,103 |
+| `科罗娜`                    | 722 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
 | `SkyDiscovery`           | 337 |
 | `spotterblog`            | 103 |
-| `andrw`                  | 84 |
+| `andrw`                  | 85 |
 | `EDDT Manu`              | 84 |
+| `aircraftenthusiast2000` | 82 |
 | `Lanorge`                | 70 |
-| `aircraftenthusiast2000` | 55 |
 | `RZH`                    | 46 |
 | `BudBundi`               | 35 |
-| `dziban molniya`         | 28 |
+| `dziban molniya`         | 29 |
 | `is0bzc`                 | 25 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
@@ -44,6 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `GTR8000`                | 2 |
 | `Manny`                  | 2 |
 | `Marc A. Mapplebeck`     | 2 |
+| `neslin`                 | 2 |
 | `nik`                    | 2 |
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
@@ -58,7 +59,6 @@ Please note that credit files are updated less frequently than the data files.
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |
 | `jasoveen`               | 1 |
-| `neslin`                 | 1 |
 | `nf003`                  | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `Skiprat`                | 1 |
