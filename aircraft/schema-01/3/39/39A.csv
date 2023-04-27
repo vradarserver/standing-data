@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39A178,F-HILY,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,AstonJet,ASJ,510-0034,
+39A1EF,F-HIPP,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1003,
 39A202,F-HIQC,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines France,FPO,34178,2006
 39A203,F-HIQD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,Federal Express,FDX,33603,2006
 39A204,F-HIQE,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Ireland,ABR,33612,2007
 39A205,F-HIQF,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines France,FPO,35022,2009
+39A207,F-HIQH,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,ASL Airlines France,FPO,30231,2000
 39A277,F-HITX,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,487,
 39A535,F-HJJV,C25A,Cessna,525A CitationJet 2,Cessna 525A CitationJet 2,0,VallJet,VLJ,525A-0206,
 39AA48,F-HKSI,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Arkea Credit Bail,,2092,2021
