@@ -197,7 +197,7 @@ V5,NA,1,V5-(?<code>[A-Z]{3}),V5(?<code>[A-Z]{3}),V5-{code}
 V6,FM,1,V6-(?<code>[A-Z]{3}),V6(?<code>[A-Z]{3}),V6-{code}
 V7,MH,1,V7-(?<code>\d{4}),V7(?<code>\d{4}),V7-{code}
 V8,BN,1,V8-(?<code>[\dA-Z]{3}),V8(?<code>[\dA-Z]{3}),V8-{code}
-VH,AU,1,VH-(?<code>[A-Z]{3}),VH(?<code>[A-Z]{3}),VH-{code}
+VH,AU,1,VH-(?<code>[\dA-Z]{3}),VH(?<code>[\dA-Z]{3}),VH-{code}
 VN,VN,1,VN-(?<code>[\dA-Z]{4}),VN(?<code>[\dA-Z]{4}),VN-{code}
 VP,AI,1,VP-A(?<code>[A-Z]{2}),VPA(?<code>[A-Z]{2}),VP-A{code}
 VP,BM,1,VP-B(?<code>[A-Z]{2}),VPB(?<code>[A-Z]{2}),VP-B{code}
