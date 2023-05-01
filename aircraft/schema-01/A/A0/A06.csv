@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A06046,N123QS,GL5T,Bombardier,BD-700 Global 5500,Bombardier BD-700 Global 5500,0,NetJets,EJA,60076,2022
 A062EF,N124DX,A321,Airbus,A321-211,Airbus A321-211,0,Delta Air Lines,DAL,10251,2021
+A063FD,N124QS,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,NetJets,EJA,60080,2023
 A06430,N124ST,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9800,2017
 A0669D,N125DN,A321,Airbus,A321-211,Airbus A321-211,0,Delta Air Lines,DAL,10252,2021
 A06909,N1253C,TBM7,Socata,TBM-700,Socata TBM-700,1,Private,,1444,

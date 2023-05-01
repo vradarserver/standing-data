@@ -23,6 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `squawk7000`                   | 6 |
 | `gandym`                       | 4 |
 | `Lanorge`                      | 4 |
+| `Mark Taylor`                  | 4 |
 | `Glock_09`                     | 3 |
 | `nik`                          | 3 |
 | `Rosen85`                      | 3 |
@@ -70,7 +71,6 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1 |
 | `laurent`                      | 1 |
 | `Lucas`                        | 1 |
-| `Mark Taylor`                  | 1 |
 | `Neboknede`                    | 1 |
 | `Per Haakan Dahlback`          | 1 |
 | `Peter Hutt`                   | 1 |

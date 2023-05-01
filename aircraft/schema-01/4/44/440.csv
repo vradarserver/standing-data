@@ -243,6 +243,7 @@
 440CB0,OE-LVD,B738,Boeing,737-86N,Boeing 737-86N,0,ASL Airlines Ireland,ABR,30231,2000
 440CB1,OE-IZF,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6831,2015
 440CB2,OE-IHG,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1297,2015
+440CB5,OE-IHE,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1069,2013
 440CB9,OE-IXI,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Global Jet Austria,GLJ,70098,
 440CBD,OE-GAF,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,0,Fly Tyrol,FTY,525B-0673,
 440CBE,OE-LSN,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,10701,2022
@@ -275,6 +276,8 @@
 440D36,OE-HER,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,227,
 440D39,OE-GSF,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0224,2008
 440D41,OE-LHU,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet,AOJ,9534,2012
+440D4B,OE-ELR,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697108,2001
 440D51,OE-GED,LJ45,Learjet,45,Learjet 45,0,Jetcom,,45-036,
 440D5D,OE-FRH,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,0,International Jet Management,IJM,525A-0158,
 440D73,OE-LLS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Skyemotion,,70138,2022
+440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,

@@ -10,7 +10,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Piet Delagrense`       | 150 |
 | `科罗娜`                   | 85 |
 | `EDDG`                  | 76 |
-| `Lanorge`               | 70 |
+| `Lanorge`               | 71 |
 | `vand`                  | 43 |
 | `sib64`                 | 34 |
 | `Peter Hutt`            | 21 |
