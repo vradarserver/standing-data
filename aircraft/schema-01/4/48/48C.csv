@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 48C136,SP-RKX,B738,Boeing,737-8AS,Boeing 737-8AS,0,Buzz,RYS,33633,2008
+48C137,SP-RKY,B738,Boeing,737-8AS(WL),Boeing 737-8AS(WL),0,Buzz,RYS,33824,2005
+48C1A0,SP-RNA,B738,Boeing,737-8AS,Boeing 737-8AS,0,Buzz,RYS,37515,2008
 48C210,SP-RRR,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,1,Private,,0351,2022
 48C26C,SP-RUM,B737,Boeing,737-73S,Boeing 737-73S,0,Buzz,RYS,29078,1999
 48C2A0,SP-RZA,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Buzz,RYS,62314,2021

@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 72,416 |
-| `vand`                         | 42,470 |
+| `Piet Delagrense`              | 72,806 |
+| `vand`                         | 43,049 |
 | `Pascal Ensinck`               | 25,677 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
-| `sib64`                        | 13,516 |
+| `sib64`                        | 13,663 |
 | `Jon Fear`                     | 13,207 |
-| `Lanorge`                      | 12,133 |
-| `bigrossco`                    | 10,595 |
+| `Lanorge`                      | 12,255 |
+| `bigrossco`                    | 10,603 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,650 |
+| `Neboknede`                    | 7,660 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `科罗娜`                          | 6,665 |
-| `McBridden`                    | 5,892 |
-| `EDDT Manu`                    | 5,610 |
-| `AP100`                        | 4,821 |
+| `科罗娜`                          | 6,928 |
+| `McBridden`                    | 5,894 |
+| `EDDT Manu`                    | 5,650 |
+| `AP100`                        | 4,835 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
@@ -31,9 +31,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
+| `Spotter-Markus`               | 2,711 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
-| `Markus`                       | 2,561 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `untt`                         | 2,248 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,160 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,850 |
+| `Gavin-D`                      | 1,855 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `verbatim`                     | 1,689 |
@@ -66,8 +66,8 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Mark Taylor`                  | 1,067 |
-| `Dauren`                       | 1,014 |
+| `Mark Taylor`                  | 1,091 |
+| `Dauren`                       | 1,018 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
 | `Daniel.cornejo.campos`        | 940 |
@@ -106,6 +106,7 @@ Please note that credit files are updated less frequently than the data files.
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
+| `aircraftenthusiast2000`       | 431 |
 | `squawk7000`                   | 431 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
@@ -116,11 +117,10 @@ Please note that credit files are updated less frequently than the data files.
 | `trabin`                       | 393 |
 | `topoguido`                    | 389 |
 | `Cristian Amaya`               | 385 |
+| `britiger`                     | 369 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `britiger`                     | 351 |
-| `aircraftenthusiast2000`       | 346 |
 | `Joaquin`                      | 345 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
@@ -137,7 +137,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
 | `usaimi`                       | 254 |
-| `kirkmayers`                   | 250 |
+| `kirkmayers`                   | 252 |
 | `clipsnotebook`                | 249 |
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
@@ -303,6 +303,7 @@ Please note that credit files are updated less frequently than the data files.
 | `DHJ`                          | 37 |
 | `nf003`                        | 37 |
 | `redeshazer`                   | 37 |
+| `Jimmy Ng`                     | 36 |
 | `SkyView`                      | 35 |
 | `Mike_n5pwp`                   | 34 |
 | `Zacki`                        | 34 |
@@ -326,7 +327,6 @@ Please note that credit files are updated less frequently than the data files.
 | `caro-ed`                      | 30 |
 | `chenhao253`                   | 30 |
 | `Geoff G`                      | 30 |
-| `Jimmy Ng`                     | 30 |
 | `jolll`                        | 30 |
 | `Manny`                        | 30 |
 | `pykman`                       | 30 |
@@ -558,6 +558,7 @@ Please note that credit files are updated less frequently than the data files.
 | `adis4x`                       | 6 |
 | `Alex Buie`                    | 6 |
 | `Andy Hill`                    | 6 |
+| `arapon2006`                   | 6 |
 | `bem13`                        | 6 |
 | `brianyyz`                     | 6 |
 | `Captain Soares`               | 6 |
@@ -673,6 +674,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sudipto Ghosh`                | 4 |
 | `TheRealCapb1`                 | 4 |
 | `Tucker Sizemore`              | 4 |
+| `tuiman84`                     | 4 |
 | `William`                      | 4 |
 | `xristostra86`                 | 4 |
 | `youri2b`                      | 4 |
@@ -725,7 +727,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Thorsten Zoerner`             | 3 |
 | `T-KOSH1`                      | 3 |
 | `tony_zhang99`                 | 3 |
-| `tuiman84`                     | 3 |
 | `veky`                         | 3 |
 | `vicosh`                       | 3 |
 | `Vivi`                         | 3 |

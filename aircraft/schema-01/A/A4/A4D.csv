@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A4D2AA,N41KB,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,8813,2022
 A4D483,N410DZ,A339,Airbus,A330-941,Airbus A330-941,0,Delta Air Lines,DAL,1990,2021
+A4D4CC,N410GX,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Global X,GXA,1199,2000
 A4D5A1,N410RK,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,259,2022
 A4D5C7,N410SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000904,2022
 A4D7E2,N411AL,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6320,2018
 A4D979,N411ST,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Benson Football LLC,,20509,2014
 A4D97E,N411SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000907,2022
+A4DC60,N412JK,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,1,Private,,72111,2023
 A4DD35,N412SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000908,2022

@@ -8,12 +8,12 @@ Please note that credit files are updated less frequently than the data files.
 | :--                     | --: |
 | `Andrew`                | 352 |
 | `Piet Delagrense`       | 150 |
-| `科罗娜`                   | 85 |
+| `科罗娜`                   | 86 |
 | `EDDG`                  | 76 |
-| `Lanorge`               | 71 |
+| `Lanorge`               | 73 |
 | `vand`                  | 43 |
-| `sib64`                 | 34 |
-| `Peter Hutt`            | 21 |
+| `sib64`                 | 35 |
+| `Peter Hutt`            | 22 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
@@ -62,6 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `André Baamonde`        | 1 |
 | `BAXTAir`               | 1 |
 | `bigrossco`             | 1 |
+| `britiger`              | 1 |
 | `chenhao253`            | 1 |
 | `EDDN`                  | 1 |
 | `elljay`                | 1 |

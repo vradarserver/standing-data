@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ADA167,N978AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43348,2020
+ADA293,N978NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,11356,2023
 ADA51E,N979AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43393,2019
 ADA64A,N979NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,11394,2023
 ADAC5A,N980NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,11331,2023

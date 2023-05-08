@@ -160,10 +160,12 @@
 440A99,OE-FGR,C551,Cessna,Citation II,Cessna Citation II,0,GG Rent GmbH,,551-0021,1979
 440B02,OE-ITB,A333,Airbus,A330-343,Airbus A330-343,1,Private,,1609,2015
 440B14,OE-HWJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Avcon Jet,AOJ,750-0259,
+440B27,OE-IWM,B738,Boeing,737-86N,Boeing 737-86N,0,ASL Airlines Ireland,ABR,30806,2001
 440B2F,OE-IWE,B738,Boeing,737-8AS(BCF)(WL),Boeing 737-8AS(BCF)(WL),0,ASL Airlines Belgium,TAY,35552,2007
 440B30,OE-IWF,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35553,2007
 440B49,OE-HCU,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Sparfell Luftfahrt,LDX,20878,2021
 440B53,OE-IIC,B738,Boeing,737-8AS(W),Boeing 737-8AS(W),1,Private,,35005,2009
+440B5E,OE-LGY,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Jetology,,9554,2014
 440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
 440B66,OE-XMJ,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Wucher Helicopter,,57410,
@@ -221,6 +223,7 @@
 440C37,OE-LSL,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,9171,2019
 440C38,OE-LSJ,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,9110,2019
 440C42,OE-KIA,B36T,Beech,B36TC Bonanza,Beech B36TC Bonanza,1,Private,,E-2522,
+440C44,OE-XCL,B407,Bell,407GXi,Bell 407GXi,1,Private,,54953,
 440C55,OE-LSE,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,International Jet Management,IJM,5508,2015
 440C58,OE-HCY,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,96,
 440C5A,OE-LFD,B748,Boeing,747-87UF,Boeing 747-87UF,0,Air Belgium,ABB,37563,2013
@@ -280,4 +283,5 @@
 440D51,OE-GED,LJ45,Learjet,45,Learjet 45,0,Jetcom,,45-036,
 440D5D,OE-FRH,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,0,International Jet Management,IJM,525A-0158,
 440D73,OE-LLS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Skyemotion,,70138,2022
+440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
