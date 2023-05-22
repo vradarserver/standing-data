@@ -1,13 +1,18 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC300D,N8847Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42600,2023
+AC3053,N8849Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67826,2023
 AC308F,N885BP,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,American Airlines,AAL,66005,2023
 AC32CF,N8850Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67498,2023
 AC32F2,N8851Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67825,2023
 AC3315,N8852Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67497,2023
 AC335B,N8854Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67494,2023
 AC337E,N8855Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67495,2023
+AC33C4,N8857Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67471,2023
 AC33E2,N8858K,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42591,2023
+AC3688,N8860S,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42671,2023
 AC36A9,N8861Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67865,2023
+AC36CC,N8862Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67863,2023
+AC370B,N8864H,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67858,2023
 AC38D3,N887LC,CL30,Bombardier,BD-100-1A10 Challenger 300,Bombardier BD-100-1A10 Challenger 300,1,Private,,20198,2008
 AC3BE7,N888DQ,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72048,2019
 AC3C49,N888HN,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,198,2020

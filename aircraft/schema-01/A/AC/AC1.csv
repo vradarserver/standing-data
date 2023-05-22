@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AC1042,N8769Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67519,2022
 AC12D6,N8771D,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67516,2022
 AC1301,N8772M,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67515,2022
 AC1327,N8773Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67514,2022
@@ -15,6 +16,7 @@ AC1765,N8787K,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67
 AC1789,N8788L,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67777,2022
 AC17B0,N8789Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67776,2022
 AC1A2C,N8790Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67773,2022
+AC1A44,N8791D,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67779,2022
 AC1A72,N8792Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67774,2022
 AC1A95,N8793Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67781,2022
 AC1AB8,N8794Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67784,2022

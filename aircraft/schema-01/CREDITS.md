@@ -8,16 +8,16 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `OSN`                    | 1,763 |
 | `Peter Hutt`             | 1,252 |
-| `Andrew`                 | 1,103 |
-| `科罗娜`                    | 760 |
+| `Andrew`                 | 1,104 |
+| `科罗娜`                    | 777 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
-| `SkyDiscovery`           | 337 |
-| `aircraftenthusiast2000` | 210 |
+| `SkyDiscovery`           | 338 |
+| `aircraftenthusiast2000` | 297 |
 | `spotterblog`            | 103 |
 | `EDDT Manu`              | 89 |
 | `andrw`                  | 85 |
-| `Lanorge`                | 72 |
+| `Lanorge`                | 73 |
 | `RZH`                    | 46 |
 | `BudBundi`               | 35 |
 | `dziban molniya`         | 30 |
@@ -27,11 +27,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Gavin-D`                | 19 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
+| `Rebelvenice2`           | 11 |
 | `Luis Cova`              | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
-| `Rebelvenice2`           | 7 |
 | `Seb Gray`               | 5 |
 | `struart`                | 5 |
 | `rikgale`                | 4 |
@@ -61,6 +61,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jasoveen`               | 1 |
 | `nf003`                  | 1 |
 | `Phillip Rohmberger`     | 1 |
+| `sib64`                  | 1 |
 | `Skiprat`                | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |

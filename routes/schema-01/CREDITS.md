@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 77,155 |
-| `vand`                         | 43,049 |
+| `Piet Delagrense`              | 78,998 |
+| `vand`                         | 43,109 |
 | `Pascal Ensinck`               | 25,772 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
-| `sib64`                        | 13,736 |
+| `Lanorge`                      | 13,912 |
+| `sib64`                        | 13,861 |
 | `Jon Fear`                     | 13,207 |
-| `Lanorge`                      | 13,057 |
-| `bigrossco`                    | 10,635 |
+| `bigrossco`                    | 10,659 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,698 |
+| `Neboknede`                    | 7,706 |
 | `huebi77`                      | 7,401 |
+| `科罗娜`                          | 7,066 |
 | `Bernie`                       | 7,002 |
-| `科罗娜`                          | 6,951 |
 | `McBridden`                    | 5,898 |
 | `EDDT Manu`                    | 5,653 |
 | `AP100`                        | 4,835 |
@@ -30,8 +30,9 @@ Please note that credit files are updated less frequently than the data files.
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
+| `Markus`                       | 3,093 |
 | `Thomas S.`                    | 3,040 |
-| `Markus`                       | 2,839 |
+| `dirkhh`                       | 2,818 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
@@ -43,11 +44,10 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,160 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,864 |
-| `dirkhh`                       | 1,832 |
+| `Gavin-D`                      | 1,869 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
-| `verbatim`                     | 1,689 |
+| `verbatim`                     | 1,690 |
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
@@ -86,6 +86,7 @@ Please note that credit files are updated less frequently than the data files.
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `wogman`                       | 700 |
+| `aircraftenthusiast2000`       | 690 |
 | `Korni`                        | 678 |
 | `Chriso`                       | 653 |
 | `D. M.`                        | 647 |
@@ -94,7 +95,6 @@ Please note that credit files are updated less frequently than the data files.
 | `YKKHPPP`                      | 643 |
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
-| `aircraftenthusiast2000`       | 604 |
 | `Peter Za, PhD`                | 581 |
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
@@ -137,7 +137,7 @@ Please note that credit files are updated less frequently than the data files.
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
-| `kirkmayers`                   | 255 |
+| `kirkmayers`                   | 256 |
 | `usaimi`                       | 254 |
 | `clipsnotebook`                | 249 |
 | `janne`                        | 247 |
