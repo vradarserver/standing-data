@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE2208,08-8601,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,AIO,5609,
 AE26D0,87-0355,F16,General Dynamics,F-16C Fighting Falcon,General Dynamics F-16C Fighting Falcon,0,United States Air Force,AIO,1C-006,
+AE26E2,90-0773,F16,General Dynamics,F-16C Fighting Falcon,General Dynamics F-16C Fighting Falcon,0,United States Air Force,AIO,1C-381,
 AE26ED,90-0772,F16,Lockheed Martin,F-16C Fighting Falcon,Lockheed Martin F-16C Fighting Falcon,0,United States Air Force,AIO,1C-380,
+AE26EE,88-0532,F16,General Dynamics,F-16C Fighting Falcon,General Dynamics F-16C Fighting Falcon,0,United States Air Force,AIO,1C-134,
 AE26F1,89-2044,F16,General Dynamics,F-16,General Dynamics F-16,1,Private,,1C-197,
