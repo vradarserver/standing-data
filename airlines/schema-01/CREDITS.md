@@ -6,9 +6,9 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 356 |
+| `Andrew`                | 357 |
 | `Piet Delagrense`       | 152 |
-| `科罗娜`                   | 88 |
+| `科罗娜`                   | 89 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 74 |
 | `vand`                  | 47 |
@@ -44,6 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Paul C`                | 3 |
 | `SuperAkari`            | 3 |
 | `BC`                    | 2 |
+| `britiger`              | 2 |
 | `Daniel.cornejo.campos` | 2 |
 | `Datamix`               | 2 |
 | `DennyCrane`            | 2 |
@@ -62,7 +63,6 @@ Please note that credit files are updated less frequently than the data files.
 | `André Baamonde`        | 1 |
 | `BAXTAir`               | 1 |
 | `bigrossco`             | 1 |
-| `britiger`              | 1 |
 | `chenhao253`            | 1 |
 | `EDDN`                  | 1 |
 | `elljay`                | 1 |

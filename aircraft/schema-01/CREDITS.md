@@ -8,16 +8,16 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `OSN`                    | 1,763 |
 | `Peter Hutt`             | 1,252 |
-| `Andrew`                 | 1,104 |
-| `科罗娜`                    | 777 |
+| `Andrew`                 | 1,105 |
+| `科罗娜`                    | 789 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
 | `SkyDiscovery`           | 338 |
 | `aircraftenthusiast2000` | 297 |
 | `spotterblog`            | 103 |
-| `EDDT Manu`              | 89 |
+| `EDDT Manu`              | 92 |
 | `andrw`                  | 85 |
-| `Lanorge`                | 73 |
+| `Lanorge`                | 74 |
 | `RZH`                    | 46 |
 | `BudBundi`               | 35 |
 | `dziban molniya`         | 30 |
@@ -25,9 +25,9 @@ Please note that credit files are updated less frequently than the data files.
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 19 |
+| `Rebelvenice2`           | 16 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
-| `Rebelvenice2`           | 11 |
 | `Luis Cova`              | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
