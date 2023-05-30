@@ -54,7 +54,7 @@ A5,BT,1,A5-(?<code>[A-Z]{3}),A5(?<code>[A-Z]{3}),A5-{code}
 A6,AE,1,A6-(?<code>[\dA-Z]{3}),A6(?<code>[\dA-Z]{3}),A6-{code}
 A7,QA,1,A7-(?<code>[A-Z]{3}),A7(?<code>[A-Z]{3}),A7-{code}
 A8,LR,1,A8-(?<code>[A-Z]{3}),A8(?<code>[A-Z]{3}),A8-{code}
-A9C,BH,1,"A9C-(?<code>[A-Z]{2,3})","A9C(?<code>[A-Z]{2,3})",A9C-{code}
+A9C,BH,1,"A9C-(?<code>[A-Z]{2,4})","A9C(?<code>[A-Z]{2,4})",A9C-{code}
 AP,PK,1,AP-(?<code>[A-Z]{3}),AP(?<code>[A-Z]{3}),AP-{code}
 B,CN,1,"B-(?<code>[^HKLM][\dA-Z]{3,4})","B(?<code>[^HKLM][\dA-Z]{3,4})",B-{code}
 B,HK,1,B-(?<code>[H|K|L][\dA-Z]{2}),B(?<code>[H|K|L][\dA-Z]{2}),B-{code}
