@@ -3,6 +3,7 @@
 424500,VQ-BHK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,440,2018
 424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
 424502,VQ-BHE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39868,2015
+424508,VQ-BLW,E75S,Embraer,E175STD,Embraer E175STD,0,BermudAir,,17000351,2012
 4245C6,VP-CUY,B738,Boeing,737-8HX,Boeing 737-8HX,1,Private,,29662,2010
 4245CB,VP-CMV,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,240,
 4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
@@ -45,6 +46,7 @@
 424865,VP-CFJ,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,1,Private,,6464,
 424866,VP-COP,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,1,Private,,9706,
 42486A,VP-CWL,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0309,
+424872,VP-CLT,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70072,2020
 4248A2,VP-CEM,B77W,Boeing,777-3ZGER,Boeing 777-3ZGER,0,Castlelake,,37939,2009
 4248A7,VP-CIZ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Cayman Airways,CAY,43336,2021
 4248AD,VP-CJL,GLEX,Bombardier,BD-700-1A10 Global 6500,Bombardier BD-700-1A10 Global 6500,1,Private,,60034,
@@ -93,4 +95,5 @@
 424C1A,M-WHIZ,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6459,
 424C1E,M-ZENG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Centreline,CLF,50500409,
 424C20,M-SEAO,C750,Cessna,750 Citation X,Cessna 750 Citation X,1,Private,,750-0232,
+424C31,M-EADE,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,1,Private,,5023,
 424C33,M-ICKY,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Hampshire Aviation,,2255,

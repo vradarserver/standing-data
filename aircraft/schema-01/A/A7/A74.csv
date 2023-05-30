@@ -1,2 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A74871,N569AZ,B763,Boeing,767-338ER,Boeing 767-338ER,0,Air Transport International,ATN,25246,1991
+A74C5E,N57DC,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9202,2023
+A74ECC,N570DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,048,2016

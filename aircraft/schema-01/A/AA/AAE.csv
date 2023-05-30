@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AAE09F,N80MH,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,108,
+AAE273,N800G,GA8C,Gulfstream,G800,Gulfstream G800,0,Gulfstream Aerospace,,88001,2022
 AAE2CA,N800KM,F900,Dassault,Falcon 900B,Dassault Falcon 900B,1,Private,,120,1993
 AAE70E,N801RC,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0405,
 AAE747,N801TK,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,2195,2022
