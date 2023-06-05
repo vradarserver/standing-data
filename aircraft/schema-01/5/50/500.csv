@@ -55,6 +55,7 @@
 5002B7,T7-DAT,P180,Piaggio,P-180 Avanti II,Piaggio P-180 Avanti II,1,Private,,1194,
 5002B8,T7-688NJ,GLF6,Gulfstream Aerospace,G650,Gulfstream G650,0,,,6502,
 5002BD,T7-PYR,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70128,
+5002C1,T7-ADAM,COL4,Cessna,400 Corvalis TT,Cessna 400 Corvalis TT,1,Private,,411108,
 5002C6,T7-JUE,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,ZYB Lily Jet,MZT,70111,
 5002C7,T7-L517,A332,Airbus,A330-243,Airbus A330-243,0,Air Lease Corporation,,1138,2010
 5002CA,T7-CBW,E55P,Embraer,EMB-505 Phenom 300,Embraer EMB-505 Phenom 300,1,Private,,50500684,
@@ -71,4 +72,6 @@
 5002F2,T7-IUB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6353,
 5002FC,T7-RIC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9546,2013
 500307,T7-BCP,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6343,2018
+500315,T7-TJ184,HA4T,Hawker Beechcraft,4000,Hawker Beechcraft 4000,1,Private,,RC-72,
 500318,T7-187,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501075,2008
+50031A,T7-9889,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5644,

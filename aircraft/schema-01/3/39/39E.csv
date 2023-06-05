@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+39E144,F-HYKE,PC12,Pilatus,PC-12/45,Pilatus PC-12/45,1,Private,,574,2004
 39E1BC,F-JBZE,NG5,BRM Aero,Bristell XL8,BRM Aero Bristell XL8,0,Aeroclub Gaston Caudron,,,
 39E1C6,F-HYOG,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Amelia International,AEH,145526,2001
 39E1DC,F-JCBK,VL3,Aveko,VL-3,Aveko VL-3,1,Private,,,
@@ -25,3 +26,4 @@
 39E694,F-HZUU,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55213,2023
 39E695,F-HZUV,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55216,2023
 39E697,F-HZUX,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55218,2023
+39E698,F-HZUY,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55221,2023

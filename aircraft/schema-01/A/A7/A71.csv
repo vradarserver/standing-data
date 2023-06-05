@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A7124F,N555DF,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,0,King Leo Management,,5125,
 A7125B,N555DT,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9559,
+A71291,N555FX,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Flexjet,LXJ,20222,2008
 A71329,N555MZ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70066,2020
 A715C9,N556AV,GA6C,Gulfstream,G600,Gulfstream G600,0,AbbVie US,,73089,2022
 A71648,N556FX,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Flexjet,LXJ,20132,2006

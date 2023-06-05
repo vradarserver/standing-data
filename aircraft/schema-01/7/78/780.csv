@@ -6,7 +6,7 @@
 78005C,B-8303,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Sino Jet (Beijing) Company,JBE,2025,2013
 780061,B-8265,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4258,2011
 780077,B-8291,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4272,2011
-780079,B-5113,B738,Boeing,737NG 81B,Boeing 737NG 81B,0,JD Airlines,JDL,34250,2005
+780079,B-5113,B738,Boeing,737-81B(BCF),Boeing 737-81B(BCF),0,JD Airlines,JDL,34250,2005
 7800A8,B-8279,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Baoneng Business Aviation,BNH,4285,2012
 7800CB,B-001A,C919,Comac,C-919,Comac C-919,0,Comac,,101,
 780104,B-8155,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4154,2009
@@ -31,6 +31,7 @@
 7804C6,B-2071,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Cargo,CSN,37309,2009
 7804CF,B-7695,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,ZYB Lily Jet,MZT,7268,
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
+780541,B-000G,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 780581,B-5443,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36746,2009
 7805C5,B-5485,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36747,2009
 7805C6,B-5486,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36748,2009

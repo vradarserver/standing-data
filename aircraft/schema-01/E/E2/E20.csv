@@ -1,2 +1,3 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E200AE,T-99,B737,Boeing,737-76N,Boeing 737-76N,0,Argentine Air Force,FAG,33420,2004
+E200DD,ARG-01,B752,Boeing,757-256,Boeing 757-256,0,Argentina Government,,29306,2000

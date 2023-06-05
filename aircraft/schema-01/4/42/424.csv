@@ -25,6 +25,7 @@
 42469B,VP-BTN,A20N,Airbus,A320-271N,Airbus A320-271N,0,Azerbaijan Airlines,AHY,11265,2022
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
+424702,VP-CUO,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8575,2018
 424709,VP-CJK,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9611,
 42470B,VP-CTW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6509,
 424716,VP-CII,B738,Boeing,737-86J/W,Boeing 737-86J/W,1,Private,,30879,2001
@@ -33,6 +34,7 @@
 42474F,VP-CAF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9686,2015
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
 424772,VP-CLJ,A318,Airbus,ACJ318 112 Elite,Airbus ACJ318 112 Elite,0,HK Bellawings,BWJ,3985,2009
+42477F,VP-CAE,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,TAG Aviation Asia,TBJ,5051,2004
 424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
 4247C7,VP-CHX,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,HK Bellawings,BWJ,418,2016
 4247E1,VP-CLW,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Sino Jet (Beijing) Company,JBE,6433,2019

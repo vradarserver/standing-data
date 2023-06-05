@@ -3,6 +3,7 @@
 407152,G-DSAA,A169,Leonardo,AW169,Leonardo AW169,0,Specialist Aviation Services,PLC,69027,2016
 4071AA,G-WENU,EC45,Airbus Helicopters,MBB-BK 117 D-2 (H145),Airbus Helicopters MBB-BK 117 D-2 (H145),0,Wales Air Ambulance,HLE,20112,2016
 4073FF,G-VNAM,O1,Cessna,O-1A Bird Dog,Cessna O-1A Bird Dog,0,O-1 Aviation Ltd,,21666,1951
+4075C3,G-CKWS,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Norse Atlantic Airways UK,UBT,63319,2019
 4076B0,G-TAWY,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUI Airways,TOM,37246,2012
 40775C,G-RUKA,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,44687,2014
 40784F,G-LUSO,PC12,Pilatus,PC-XII 47E,Pilatus PC-XII 47E,0,Raven Air,RVR,1880,2019
@@ -162,6 +163,7 @@
 407D36,G-NICU,A169,Leonardo,AW169,Leonardo AW169,0,Sloane Helicopters,,69147,2021
 407D37,G-FROB,DA40,Diamond,DA 40 NG,Diamond DA 40 NG,1,Private,,40.N564,2022
 407D3D,G-EOSM,ULAC,Exodus Airsports,DeltaJet 500 StingRay,Exodus Airsports DeltaJet 500 StingRay,1,Private,,EA 003,2022
+407D3E,G-OWEE,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65394,2022
 407D44,G-WUKS,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10891,2022
 407D45,G-LMTD,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1237,2015
 407D46,G-LMTE,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1283,2015
@@ -180,6 +182,7 @@
 407D5D,G-CMEP,P28A,Piper,PA-28-161 Warrior III,Piper PA-28-161 Warrior III,1,Private,,2816115,1995
 407D5F,G-ISJE,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,0,Raven Air,RVR,2176,2022
 407D60,G-OJFA,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,0,Ravenair,RVN,1148,2009
+407D61,G-HTSI,SLG4,Sling Aircraft,4 TSI,Sling 4 TSI,1,Private,,LAA 400A-15682,2022
 407D6C,G-EMLG,GLEX,Bombardier,BD-700-1A10,Bombardier BD-700-1A10,0,Harrods Aviation,,9433,2011
 407D71,G-OHII,RV7,Van's Aircraft,RV7,Van's Aircraft RV7,0,Green Earth Ltd,,70150,2004
 407D74,G-TTNT,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,11092,2022
@@ -213,11 +216,13 @@
 407DD8,G-KFCN,NNJA,Skyranger,Nynja,Skyranger Nynja,0,Kemble Flying Centre,,344-14,2022
 407DD9,G-YNWA,DA50,Diamond,DA50 RG,Diamond DA50 RG,1,Private,,50.C.A.A.020,2022
 407DDA,G-MCEN,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Edinburgh Air Charter,EDC,55020162,2022
+407DDE,G-CMLY,EFOX,Aeropro,Eurofox 2K,Aeropro Eurofox 2K,0,Bath Wilts & North Dorset Gliding Club,,65422,2022
 407DE1,G-VVMC,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,8702,2022
 407DE2,G-FRWL,ULAC,Flylight Airsports,Adam,Flylight Airsports Adam,1,Private,,DA217,2021
 407DE4,G-LMRX,AT72,ATR,72-500(F) (72-212A),ATR 72-500(F) (72-212A),0,Loganair,LOG,577,1998
 407DE5,G-ZYDA,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,1,Private,,40N575,2022
 407DED,G-LOGI,R66,Robinson,R66 Turbine,Robinson R66 Turbine,0,LA Helicopters,,1119,2021
+407DF0,G-PODZ,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,0,Mapperley Glamping,,22SI218,2022
 407DF3,G-ISLR,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,1846,2019
 407DFC,G-POWT,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Titan Airways,AWC,08830,2019
 407DFD,G-CPTZ,A169,Leonardo,AW169,Leonardo AW169,0,Sloane Aviation,SLN,69043,2017
@@ -254,6 +259,8 @@
 407E86,G-CMKI,C152,Cessna,152,Cessna 152,1,Private,,15280900,1977
 407E87,G-CMKJ,P28A,Piper,PA-28-161 Warrior II,Piper PA-28-161 Warrior II,1,Private,,28-8416086,
 407E8A,G-LKDM,SLG2,Sonaca,S200,Sonaca S200,1,Private,,056,2022
+407E8B,G-JJSN,R44,Robinson,R44 Raven II,Robinson R44 Raven II,0,Heatherway Taverns,,11799,2007
+407E8C,G-MLML,S22T,Cirrus,SR22T,Cirrus SR22T,0,Bayes Aviation,,8876,2022
 407E8E,G-SBNM,GLEX,Bombardier,G6500,Bombardier G6500,0,Jet Concierge Club,,60078,2022
 407E9C,G-GNEE,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,0,Genius Aviation Syndicate,,2202-7678,2022
 407E9E,G-ESRC,M600,Piper,PA-46-M600,Piper PA-46-M600,0,Rockford Aviation,,4698221,2022
@@ -289,3 +296,5 @@
 407F66,G-EJCI,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,04581,2011
 407F67,G-EJCJ,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,04594,2011
 407F79,G-UJEA,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11230,2023
+407F7A,G-UJEB,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11242,2023
+407F99,G-CMNS,PIVI,Pipistrel,Virus SW-128,Pipistrel Virus SW-128,0,Fly About Aviation,,VSW1270021,2023

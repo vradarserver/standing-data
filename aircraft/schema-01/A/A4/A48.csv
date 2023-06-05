@@ -1,10 +1,12 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A48307,N390CM,B763,Boeing,767-381(ER)(BDSF),Boeing 767-381(ER)(BDSF),0,ABX Air,ABX,32973,2002
 A48356,N390FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10790,2022
+A4835C,N390FX,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Flexjet,LXJ,50500703,2022
 A486BE,N391CM,B763,Boeing,767-381(ER)(BDSF),Boeing 767-381(ER)(BDSF),0,ABX Air,ABX,32975,2002
 A4870D,N391FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10838,2022
 A48713,N391FX,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Flexjet,LXJ,50500706,2022
 A48AC4,N392FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10833,2021
 A48ACA,N392FX,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Flexjet,LXJ,50500707,2022
+A48E1A,N393BU,E545,Embraer,Legacy 450,Embraer Legacy 450,1,Private,,55010026,2017
 A48E35,N393CW,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73048,2020
 A48E90,N393GM,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,4474,2017
