@@ -7,15 +7,15 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `OSN`                    | 1,763 |
-| `Peter Hutt`             | 1,390 |
+| `Peter Hutt`             | 1,420 |
 | `Andrew`                 | 1,106 |
-| `科罗娜`                    | 809 |
-| `aircraftenthusiast2000` | 398 |
+| `科罗娜`                    | 821 |
+| `aircraftenthusiast2000` | 418 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
 | `SkyDiscovery`           | 338 |
 | `spotterblog`            | 103 |
-| `EDDT Manu`              | 93 |
+| `EDDT Manu`              | 94 |
 | `andrw`                  | 85 |
 | `Lanorge`                | 75 |
 | `RZH`                    | 46 |
@@ -23,10 +23,11 @@ Please note that credit files are updated less frequently than the data files.
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
-| `Rebelvenice2`           | 21 |
+| `Rebelvenice2`           | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `bigrossco`              | 13 |
+| `deedeecee`              | 12 |
 | `Jonas`                  | 11 |
 | `Luis Cova`              | 8 |
 | `Kjella0226`             | 7 |
@@ -36,6 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `struart`                | 5 |
 | `rikgale`                | 4 |
 | `thecowan`               | 4 |
+| `britiger`               | 3 |
 | `ews997881`              | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
@@ -54,7 +56,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Blackeye`               | 1 |
 | `darjes`                 | 1 |
 | `Datamix`                | 1 |
-| `deedeecee`              | 1 |
 | `Derek Bertram`          | 1 |
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |

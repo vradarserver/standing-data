@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+7C66AF,VH-UKH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Bonza Airlines,BNZ,61864,2019
 7C66E2,VH-ULW,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Express Freighters Australia,QFA,1195,2000
 7C66E4,VH-ULY,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Qantas Freight,QFA,1408,2001
 7C6751,VH-UOZ,C208,Cessna,208 Caravan,Cessna 208 Caravan,0,Swan River Seaplanes,,20800418,2008
@@ -13,6 +14,7 @@
 7C68B4,VH-UYU,E190,Embraer,E190AR,Embraer E190AR,0,Alliance Airlines,UTY,19000126,2007
 7C68C7,VH-UZD,E190,Embraer,E190AR,Embraer E190AR,0,Qantas,QFA,19000152,2008
 7C68D4,VH-UZQ,E190,Embraer,E190AR,Embraer E190AR,0,Alliance Airlines,UTY,19000211,2008
+7C6AE0,VH-VEA,SF34,Saab,340B+,Saab 340B+,0,Link Airways,,340B-406,1996
 7C6AF0,VH-VEQ,SF34,SAAB,340B+,SAAB 340B+,0,Virgin Australia,VOZ,340B-424,1997
 7C6C9D,VH-VQN,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9791,2017
 7C6CE2,VH-VSK,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Execujet Australia,,9248,2007

@@ -275,6 +275,7 @@
 440D06,OE-EPS,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2205,2022
 440D0A,OE-HAG,G280,Gulfstream,G280,Gulfstream G280,0,Sparfell Luftfahrt,LDX,2039,2013
 440D0C,OE-GPM,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Euro Flight Aviation Services,,525B-0220,2008
+440D14,OE-XXY,R44,Robinson,R44 Raven 1,Robinson R44 Raven 1,1,Private,,2073,
 440D30,OE-LFI,B748,Boeing,747-83QF,Boeing 747-83QF,0,Air Belgium,ABB,60118,2014
 440D33,OE-HSX,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,,
 440D35,OE-LCS,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,9747,
@@ -288,3 +289,4 @@
 440D73,OE-LLS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Skyemotion,,70138,2022
 440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
+440DA4,OE-GIP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jet Pool Network,,560-6137,2013

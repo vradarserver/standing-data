@@ -6,6 +6,7 @@
 4075C3,G-CKWS,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Norse Atlantic Airways UK,UBT,63319,2019
 4076B0,G-TAWY,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUI Airways,TOM,37246,2012
 40775C,G-RUKA,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,44687,2014
+407812,G-KION,C525,Cessna,Citation CJ1,Cessna Citation CJ1,0,Naljets,APX,525-0292,
 40784F,G-LUSO,PC12,Pilatus,PC-XII 47E,Pilatus PC-XII 47E,0,Raven Air,RVR,1880,2019
 407886,G-RGAL,DA40,Diamond,DA40 Diamond Star,Diamond DA40 Diamond Star,0,Romeo Golf Aviation,,407886,2007
 4078FE,G-DRTP,B738,Boeing,737-8AL,Boeing 737-8AL,0,Jet2.com,EXS,39067,2013
@@ -150,12 +151,14 @@
 407CFF,G-DAAW,B209,Messerschmitt-Bolkow,Bo 209 Monsun 160RV,Messerschmitt-Bolkow Bo 209 Monsun 160RV,1,Private,,181,1971
 407D00,G-WUKR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10871,2022
 407D02,G-ICER,A169,AgustaWestland,AW169,AgustaWestland AW169,0,Iceland International,,69131,2021
+407D05,G-CMCY,P212,Tecnam,P-2012 Traveller,Tecnam P-2012 Traveller,0,Oriens Aviation,,046,2021
 407D06,G-GSCD,D140,Jodel,D-140C Mousquetaire III,Jodel D-140C Mousquetaire III,1,Private,,143,1966
 407D09,G-FOXP,C208,Cessna,208 Caravan 1,Cessna 208 Caravan 1,0,British Parachute Schools,,20800303,1999
 407D0D,G-CMCZ,P28A,Piper,PA-28-181 Archer III,Piper PA-28-181 Archer III,1,Private,,2843205,1999
 407D10,G-TAWZ,B738,Boeing,737-86N,Boeing 737-86N,0,TUI Airways,TOM,32669,2006
 407D14,G-PTSI,SLG4,Amateur Sling,4TSI,Amateur Sling 4TSI,1,Private,,LAA-400A-15790,2022
 407D21,G-UZLN,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,10849,2022
+407D22,G-UZLO,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11530,2023
 407D2A,G-CMEZ,EFOX,Aeropro,Eurofox 2K,Aeropro Eurofox 2K,0,Ascent Industries Ltd,,64622,2022
 407D2E,G-ILFF,A109,Leonardo,AW109SP Grand,Leonardo AW109SP Grand,0,Flexjet,LXJ,22382,2018
 407D2F,G-OAHL,AS55,Eurocopter,AS355N,Eurocopter AS355N,0,Atlas Helicopters,TDT,5540,1993
