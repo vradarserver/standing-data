@@ -7,15 +7,15 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `OSN`                    | 1,763 |
-| `Peter Hutt`             | 1,420 |
+| `Peter Hutt`             | 1,468 |
 | `Andrew`                 | 1,106 |
-| `科罗娜`                    | 821 |
-| `aircraftenthusiast2000` | 418 |
+| `科罗娜`                    | 840 |
+| `aircraftenthusiast2000` | 445 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
 | `SkyDiscovery`           | 338 |
 | `spotterblog`            | 103 |
-| `EDDT Manu`              | 94 |
+| `EDDT Manu`              | 98 |
 | `andrw`                  | 85 |
 | `Lanorge`                | 75 |
 | `RZH`                    | 46 |
@@ -27,22 +27,22 @@ Please note that credit files are updated less frequently than the data files.
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `bigrossco`              | 13 |
-| `deedeecee`              | 12 |
+| `deedeecee`              | 13 |
 | `Jonas`                  | 11 |
 | `Luis Cova`              | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
-| `Seb Gray`               | 6 |
+| `Seb Gray`               | 7 |
+| `britiger`               | 5 |
 | `struart`                | 5 |
+| `neslin`                 | 4 |
 | `rikgale`                | 4 |
 | `thecowan`               | 4 |
-| `britiger`               | 3 |
 | `ews997881`              | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
-| `neslin`                 | 3 |
 | `Sevetamryn`             | 3 |
 | `GTR8000`                | 2 |
 | `Manny`                  | 2 |

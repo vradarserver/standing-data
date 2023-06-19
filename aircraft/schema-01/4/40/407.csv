@@ -25,6 +25,7 @@
 4079FA,G-BMGC,SWOR,Fairey,Swordfish Mk 1,Fairey Swordfish Mk 1,0,Fly Navy Heritage Trust,,W5856,1941
 407A3F,G-GBNI,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Titan Airways,AWC,10238,2020
 407A68,G-CMGU,G109,Grob,G109B,Grob G109B,0,Aerobility,,6525,1990
+407A9A,G-CLVG,VENT,Schempp-Hirth,Ventus 3T,Schempp-Hirth Ventus 3T,1,Private,,122TP,
 407AA6,G-LDMC,A33P,Schleicher,AS 33 ES,Schleicher AS 33 ES,1,Private,,33008,2021
 407AAF,G-NJAB,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Netjets UK,NJU,560-5789,2008
 407ABF,G-VIDA,EFOX,Aeropro,Eurofox 3K,Aeropro Eurofox 3K,1,Private,,60921,2021
@@ -172,6 +173,7 @@
 407D46,G-LMTE,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1283,2015
 407D47,G-SNDZ,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,2371,2021
 407D49,G-CMEI,AT76,ATR,72-212 A,ATR 72-212 A,0,Eastern Airways,EZE,1231,2015
+407D4B,G-VIXI,AP32,Aeroprakt,A-32 Vixxen,Aeroprakt A-32 Vixxen,1,Private,,A32194,
 407D4C,G-TUMW,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI Airways,TOM,44615,2022
 407D4D,G-NULL,AS50,Airbus Helicopters,AS350B3,Airbus Helicopters AS350B3,1,Private,,8546,2018
 407D52,G-UNET,B744,Boeing,747-433,Boeing 747-433,0,One Air,HGO,25075,1991
@@ -270,6 +272,7 @@
 407EA1,G-DHLO,B763,Boeing,767-316ER(BCF)(WL),Boeing 767-316ER(BCF)(WL),0,DHL Air UK,DHK,40592,2012
 407EA8,G-CMLX,NNJA,Flylight Airsports,Skyranger Nynja,Flylight Airsports Skyranger Nynja,1,Private,,258-17,2022
 407EAD,G-EXTA,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4424,2012
+407EB0,G-IIGB,GB1,Game Composites,GB1 Gamebird,Game Composites GB1 Gamebird,0,Airtime Aerobatics,,0056,2022
 407EB2,G-TTNU,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,11403,2023
 407EB3,G-ETGA,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2212,2022
 407EB5,G-DHLV,B77L,Boeing,777-F,Boeing 777-F,0,DHL Air UK,DHK,67142,2023
@@ -288,6 +291,7 @@
 407F1D,G-OUTY,DA50,Diamond,DA50C,Diamond DA50C,1,Private,,50.C.A.A.036,2023
 407F1E,G-RUKL,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,33572,2005
 407F1F,G-RUKM,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,37527,2009
+407F2B,G-XWBN,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,609,2023
 407F31,G-NEEV,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,23 SI 229,2023
 407F41,G-CMMK,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1297,2015
 407F42,G-CMMN,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1069,2013

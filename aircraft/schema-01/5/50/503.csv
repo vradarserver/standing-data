@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+503CBF,LY-BUS,B738,Boeing,737-82R,Boeing 737-82R,0,KlasJet,KLJ,38175,2011
 503CF8,LY-JUP,AT75,ATR,72-500,ATR 72-500,0,Air Alsie,MMD,747,2007
 503CFB,LY-NVN,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express,NVD,4448,2010
 503D3D,LY-UNO,B738,Boeing,737-8FE,Boeing 737-8FE,0,GetJet Airlines,GJT,33801,2004
@@ -30,4 +31,6 @@
 503E82,LY-GYM,A320,Airbus,A320-214,Airbus A320-214,0,GetJet Airlines,GJT,2584,2005
 503E97,LY-BMG,A319,Airbus,A319-112,Airbus A319-112,1,Private,,2849,2006
 503E99,LY-CIN,B738,Boeing,737-83N,Boeing 737-83N,0,GetJet Airlines,GJT,28247,2002
+503E9A,LY-WIZ,A320,Airbus,A320-232,Airbus A320-232,0,GetJet Airlines,GJT,3430,2008
+503E9B,LY-WIL,A320,Airbus,A320-214,Airbus A320-214,0,GetJet Airlines,GJT,3138,2007
 503FD2,07 BLUE,C27J,Alenia,C-27J,Alenia C-27J,0,Lithuanian Air Force,LYF,4139,

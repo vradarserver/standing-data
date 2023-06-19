@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A37385,N321RG,SR20,Cirrus,SR-20,Cirrus SR-20,1,Private,,8820,2022
 A375CC,N322AP,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Jet Linx Aviation,JTL,5754,2008
+A37605,N322CW,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,1098,2004
 A37765,N322SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000922,2022
 A37B1C,N323SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000923,2022
 A37ED3,N324SY,E75L,Embraer,E175LR,Embraer E175LR,0,Delta Connection,SKW,17000925,2022

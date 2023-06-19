@@ -24,6 +24,7 @@
 780362,B-3008,CRJ2,Bombardier,CRJ-200ER,Bombardier CRJ-200ER,0,Jiangsu Jet,JSU,7512,2001
 780363,B-3009,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,Jiangsu Jet,JSU,7522,2001
 780364,B-5335,B738,Boeing,737-8FH(BCF),Boeing 737-8FH(BCF),0,JD Airlines,JDL,35097,2007
+780366,B-5333,B738,Boeing,737NG 8FH/W,Boeing 737NG 8FH/W,0,JD Airlines,JDL,35096,2007
 780394,B-3098,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Future Air,FJT,14501155,2012
 7803B3,B-8091,GLF4,Gulfstream Aerospace,GIV,Gulfstream Aerospace GIV,0,Deer Jet Beijing,BDJ,1144,1990
 7803C8,B-8027,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,063,2009
@@ -33,6 +34,7 @@
 7804CF,B-7695,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,ZYB Lily Jet,MZT,7268,
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
 780541,B-000G,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
+780544,B-000K,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 780581,B-5443,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36746,2009
 7805C5,B-5485,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36747,2009
 7805C6,B-5486,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36748,2009

@@ -6,13 +6,13 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 361 |
-| `Piet Delagrense`       | 155 |
-| `科罗娜`                   | 91 |
+| `Andrew`                | 363 |
+| `Piet Delagrense`       | 157 |
+| `科罗娜`                   | 93 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 74 |
 | `vand`                  | 48 |
-| `sib64`                 | 36 |
+| `sib64`                 | 37 |
 | `Peter Hutt`            | 22 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
@@ -32,6 +32,7 @@ Please note that credit files are updated less frequently than the data files.
 | `BudBundi`              | 5 |
 | `kma371`                | 5 |
 | `UA4WIY`                | 5 |
+| `britiger`              | 4 |
 | `Forssi`                | 4 |
 | `Mark Taylor`           | 4 |
 | `Neboknede`             | 4 |
@@ -44,7 +45,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Paul C`                | 3 |
 | `SuperAkari`            | 3 |
 | `BC`                    | 2 |
-| `britiger`              | 2 |
 | `Daniel.cornejo.campos` | 2 |
 | `Datamix`               | 2 |
 | `DennyCrane`            | 2 |

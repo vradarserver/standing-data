@@ -40,6 +40,7 @@
 43EE76,2-WOWS,SF50,Cirrus,SF50 Vision Jet,Cirrus SF50 Vision Jet,1,Private,,0262,
 43EE89,2-SWIS,CL60,Canadair,C-143 Challenger 604,Canadair C-143 Challenger 604,0,Volare Aviation (Guernsey),VLZ,5463,
 43EE8C,2-SMSN,CL60,Bombardier,Challenger 601-3A,Bombardier Challenger 601-3A,1,Private,,5030,1988
+43EED1,2-AMKH,AT76,Aerospatiale,ATR 72-600,Aerospatiale ATR 72-600,0,Loganair,LOG,1096,2013
 43EED2,2-WKTN,BE20,Beech,200 Super King Air,Beech 200 Super King Air,0,DEA Aviation,WKT,BB-1528,1996
 43EED3,2-HELX,EC35,Airbus,Eurocopter EC135 P2,Airbus Eurocopter EC135 P2,1,Private,,2176,2022
 43EED9,2-PHIL,PRM1,Beechcraft,Premier 1,Beechcraft Premier 1,1,Private,,RB-220,
@@ -47,3 +48,5 @@
 43EEF4,2-FWSN,B738,Boeing,737-8EH,Boeing 737-8EH,0,Southern Cross International,,34280,2006
 43EEFB,2-JEFF,EA50,Eclipse,500,Eclipse 500,1,Private,,000069,2007
 43EEFE,2-ANVL,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Volare Aviation (Guernsey),VLZ,,
+43EF1E,2-TTGB,B738,Boeing,737-8AL,Boeing 737-8AL,0,BOC Aviation,,39058,2013
+43EF1F,2-OTOD,C25B,Cessna,Citation CJ3,Cessna Citation CJ3,0,ORTAC (AOC),,,
