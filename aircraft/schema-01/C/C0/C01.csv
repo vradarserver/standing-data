@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C013D7,C-FHNI,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,,
+C01590,C-GEXB,A321,Airbus,A321-211,Airbus A321-211,0,Air Transat,TSC,2599,2005
 C015B0,C-FIFN,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,41660,2015
 C016E8,C-FIRN,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Sunwing Airlines,SWG,44655,2022
 C01CBE,C-FKWZ,DA40,Diamond,DA 40 NG Star,Diamond DA 40 NG Star,1,Private,,40.NC219,

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A89075,N651AD,SF50,Cirrus,G2 Vision Jet,Cirrus G2 Vision Jet,1,Private,,0153,2019
 A89621,N652WE,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6483,2021
+A89BE8,N654DG,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6447,2020
 A89BF3,N654DT,SLG4,Sling Aircraft,4 TSi,Sling 4 TSi,1,Private,,429SK,
 A89C29,N654FX,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Flexjet,LXJ,6213,2016
 A89FE0,N655FX,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Flexjet,LXJ,6144,2015

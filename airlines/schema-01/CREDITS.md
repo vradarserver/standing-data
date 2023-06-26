@@ -13,7 +13,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Lanorge`               | 74 |
 | `vand`                  | 48 |
 | `sib64`                 | 37 |
-| `Peter Hutt`            | 22 |
+| `Peter Hutt`            | 24 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
@@ -54,6 +54,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Kenneth`               | 2 |
 | `Kjella0226`            | 2 |
 | `RCN_BC`                | 2 |
+| `RZH`                   | 2 |
 | `spotterblog`           | 2 |
 | `verbatim`              | 2 |
 | `yaacars`               | 2 |
@@ -83,7 +84,6 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`      | 1 |
 | `Planespotter6`         | 1 |
 | `RBBrasil`              | 1 |
-| `RZH`                   | 1 |
 | `Saizen`                | 1 |
 | `soeminhtett45181`      | 1 |
 | `struart`               | 1 |

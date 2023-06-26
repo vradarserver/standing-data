@@ -1,3 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ACD47E,N926AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43314,2021
 ACDBEC,N928AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,44099,2022
+ACDC7F,N928GG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70141,2023
