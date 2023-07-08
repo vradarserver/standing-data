@@ -32,6 +32,7 @@
 42470B,VP-CTW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6509,
 424716,VP-CII,B738,Boeing,737-86J/W,Boeing 737-86J/W,1,Private,,30879,2001
 424718,VP-CGS,B738,Boeing,737-86J(WL),Boeing 737-86J(WL),1,Private,,32918,2002
+424724,VP-CCQ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70085,
 424725,VP-CBC,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Global Wings SEZC,,14501198,2013
 42474F,VP-CAF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9686,2015
 424768,VP-CYB,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,TAG Aviation Asia,TBJ,5545,2013
@@ -82,6 +83,7 @@
 424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
 424BE8,M-ABOT,RJ1H,Avro,RJ100,Avro RJ100,0,BAE Systems,BAE,E3245,1994
+424BEC,M-YAVA,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,1,Private,,550-1050,2003
 424BF2,M-DMMR,A333,Airbus,A330-343,Airbus A330-343,0,DHL Air UK,DHK,1453,2013
 424BFA,M-AWOL,A119,Agusta,A119 Koala,Agusta A119 Koala,0,Saxon Logistics,,14037,2003
 424BFE,M-ARDN,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,290,2022

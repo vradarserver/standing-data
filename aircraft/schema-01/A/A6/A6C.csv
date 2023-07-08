@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
-A6C3D4,N535JM,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1304,
+A6C3D4,N535JM,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1304,1996
+A6C70F,N536DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11426,2023
+A6CACB,N537DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11434,2023
 A6CB15,N537GS,GA5C,Gulfstream,G500,Gulfstream G500,0,Idaho Associates,,72037,2019

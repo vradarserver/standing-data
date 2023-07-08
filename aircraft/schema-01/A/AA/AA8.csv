@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA83F8,N777KQ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Nevada Restaurant Services,,70071,2020
 AA84D4,N777UK,B772,Boeing,777-212(ER),Boeing 777-212(ER),0,Polaris Aviation Solutions,,30867,2001
+AA85EC,N7774,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,17252168,
 AA8668,N7777U,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9591,2013
 AA86F9,N778CH,GL5T,Bombardier,Global 5500,Bombardier Global 5500,1,Private,,60067,2022
 AA8AB2,N779CK,B773,Boeing,777-36NER,Boeing 777-36NER,0,Kalitta Air,CKS,32785,2005

@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4A1265,YR-DSE,A320,Airbus,A320-232,Airbus A320-232,0,Wizz Air,WZZ,2479,2005
 4A16C5,YR-EVE,E50P,Embraer,EMB 500 Phenom 100,Embraer EMB 500 Phenom 100,1,Private,,50000433,
-4A1922,YR-FIB,A320,Airbus,A320,Airbus A320,0,Fly One S.R.L.,FIA,3524,
+4A1921,YR-FIA,A320,Airbus,A320-233,Airbus A320-233,0,FlyOne,FIA,3524,2008
+4A1922,YR-FIB,A320,Airbus,A320,Airbus A320,0,FlyOne,FIA,3524,
 4A1A61,YR-FSA,B744,Boeing,747-4D7(BCF),Boeing 747-4D7(BCF),0,ROM Cargo Airlines,RCR,24458,1990

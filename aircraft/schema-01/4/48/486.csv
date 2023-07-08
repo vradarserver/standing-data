@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 486071,PH-BKL,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,KLM,KLM,42501,2022
+486072,PH-BKM,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,KLM,KLM,60297,2023
 4860B1,PH-EAE,D328,Dornier,328-110,Dornier 328-110,0,Maritime Surveillance,,3059,1995
 486236,PH-MLY,TB20,Socata,TB-20 Trinidad,Socata TB-20 Trinidad,1,Private,,1711,1995
 486237,PH-VHY,C172,Cessna,172P Skyhawk,Cessna 172P Skyhawk,1,Private,,172-74314,
@@ -48,6 +49,7 @@
 4864EA,PH-NXM,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020076,2022
 4864EB,PH-NXN,E295,Embraer,195-400STD-E2,Embraer 195-400STD-E2,0,KLM,KLM,19020084,2022
 4864EE,PH-NXO,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020085,2023
+4864EF,PH-NXP,E295,Embraer,E195-E2,Embraer E195-E2,0,KLM Cityhopper,KLC,19020093,2023
 4864FA,PH-SFR,BR23,BRM Aero,Bristell B23,BRM Aero Bristell B23,0,EACM,,050/2022,2022
 486520,PH-KEK,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,1,Private,,560-5760,
 48661D,PH-GKO,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9020,2023

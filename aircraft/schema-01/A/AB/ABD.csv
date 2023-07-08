@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ABD02D,N860PS,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,1,Private,,380,2021
 ABD095,N860TW,C172,Cessna,172S Skyhawk SP,Cessna 172S Skyhawk SP,1,Private,,172S9220,2022
+ABD2AA,N861BC,B772,Boeing,777-212(ER),Boeing 777-212(ER),0,Boeing,BOE,32336,2002
 ABD336,N861GT,B748,Boeing,747-8F,Boeing 747-8F,0,Atlas Air,GTI,67148,2022
 ABD6ED,N862GT,B748,Boeing,747-8F,Boeing 747-8F,0,Atlas Air,GTI,67149,2022
 ABD72A,N862KD,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,4698244,2023
