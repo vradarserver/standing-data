@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 363 |
+| `Andrew`                | 369 |
 | `Piet Delagrense`       | 157 |
 | `科罗娜`                   | 93 |
 | `EDDG`                  | 76 |
@@ -26,6 +26,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`    | 7 |
 | `squawk7000`            | 7 |
 | `Gavin-D`               | 6 |
+| `Jens Erik Widén`       | 6 |
 | `Rosen85`               | 6 |
 | `Skibox`                | 6 |
 | `BPfH`                  | 5 |
@@ -65,6 +66,7 @@ Please note that credit files are updated less frequently than the data files.
 | `BAXTAir`               | 1 |
 | `bigrossco`             | 1 |
 | `chenhao253`            | 1 |
+| `didi`                  | 1 |
 | `EDDN`                  | 1 |
 | `elljay`                | 1 |
 | `gandym`                | 1 |

@@ -72,6 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1 |
 | `laurent`                      | 1 |
 | `Lucas`                        | 1 |
+| `Markus`                       | 1 |
 | `Neboknede`                    | 1 |
 | `Per Haakan Dahlback`          | 1 |
 | `Peter Hutt`                   | 1 |
