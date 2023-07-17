@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+ACB18A,N917JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145636,2002
 ACB1F5,N917PD,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,New York City Police Department,,57148,2013
 ACB21B,N917QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,NetJets,EJA,680A0338,2023
 ACB463,N918A,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,1,Private,,42000248,
+ACB4D9,N918ET,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500728,
 ACB541,N918JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145598,2002
 ACB5E6,N918RM,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9255,2023
 ACB9FA,N919VE,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5525,2002

@@ -6,9 +6,9 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 369 |
-| `Piet Delagrense`       | 157 |
-| `科罗娜`                   | 93 |
+| `Andrew`                | 371 |
+| `Piet Delagrense`       | 160 |
+| `科罗娜`                   | 95 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 74 |
 | `vand`                  | 48 |
@@ -81,6 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kiwikieran`            | 1 |
 | `kulbie`                | 1 |
 | `Manfred`               | 1 |
+| `Markus`                | 1 |
 | `Martin Salazar`        | 1 |
 | `Mitch`                 | 1 |
 | `mouflonwrangler1`      | 1 |

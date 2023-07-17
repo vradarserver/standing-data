@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A97075,N707VL,B737,Boeing,737-7H4,Boeing 737-7H4,0,Avelo Airlines,VXP,29843,2008
+A9707E,N707VV,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1342,
 A97292,N708DA,B734,Boeing,737-4K5,Boeing 737-4K5,0,Mesa Airlines,ASH,24769,1990
+A97293,N708DB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6003,2010
 A973EA,N708SV,AT76,ATR,72-600 (72-212A),ATR 72-600 (72-212A),0,Silver Airways,SIL,1092,2013
 A97401,N708TT,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9607,2014
 A9742C,N708VL,B737,Boeing,737-7H4,Boeing 737-7H4,0,Avelo Airlines,VXP,30677,2004

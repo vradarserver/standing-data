@@ -285,9 +285,11 @@
 440D39,OE-GSF,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0224,2008
 440D3F,OE-LTR,A320,Airbus,A320-216,Airbus A320-216,0,TrueAero,,3729,2008
 440D41,OE-LHU,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet,AOJ,9534,2012
+440D46,OE-FLY,DA62,Diamond,DA 62,Diamond DA 62,1,Private,,62.207,
 440D4B,OE-ELR,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697108,2001
 440D51,OE-GED,LJ45,Learjet,45,Learjet 45,0,Jetcom,,45-036,
 440D5D,OE-FRH,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,0,International Jet Management,IJM,525A-0158,
+440D61,OE-GIN,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0144,2013
 440D65,OE-FYY,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.224,2023
 440D6F,OE-LSR,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,11576,2023
 440D70,OE-LZQ,A20N,Airbus,A320-271N,Airbus A320-271N,0,Austrian Airlines,AUA,11467,2023
@@ -296,6 +298,8 @@
 440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
 440D98,OE-HLB,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Avcon Jet,AOJ,55010108,2023
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
+440D9E,OE-LVM,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,The Flying Bulls,,493,2022
 440DA4,OE-GIP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jet Pool Network,,560-6137,2013
 440DAF,OE-IDU,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5844,2013
 440DB0,OE-IDX,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5926,2013
+440DBD,OE-LYS,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70146,2023

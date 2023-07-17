@@ -37,6 +37,7 @@
 780544,B-000K,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 780546,B-000M,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 780547,B-000N,A19N,Airbus,A319-153N,Airbus A319-153N,0,Airbus Industrie,AIB,,
+780548,B-000P,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 780581,B-5443,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36746,2009
 7805C5,B-5485,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36747,2009
 7805C6,B-5486,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36748,2009
@@ -62,6 +63,7 @@
 780727,B-8135,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5023,2003
 780728,B-5273,B737,Boeing,737-73W(BBJ),Boeing 737-73W(BBJ),0,Deer Jet Beijing,BDJ,38633,2010
 78072F,B-3570,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Astro Air,SZA,8102,2009
+780734,B-6771,A320,Airbus,A320 232,Airbus A320 232,0,West Air,CHB,4619,2011
 78073B,B-7699,GLEX,Bombardier,Global Express,Bombardier Global Express,0,ZYB Lily Jet,MZT,9112,2001
 78073C,B-7795,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Jinxiang Airlines,JXX,8098,2008
 780766,B-8166,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Sino Jet (Beijing) Company,JBE,4216,2009
@@ -116,6 +118,7 @@
 780B27,B-8105,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Business Aviation Asia,UNA,9510,2012
 780B28,B-8197,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Business Aviation Asia,UNA,9473,2011
 780B2A,B-8271,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4271,2011
+780B3D,B-3361,CRJ9,Bombardier,CRJ 900 LR NG,Bombardier CRJ 900 LR NG,0,China Express Airlines,HXA,15290,2013
 780B3F,B-5790,B738,Boeing,737-85C,Boeing 737-85C,0,Hebei Airlines,HBH,38402,2013
 780B58,B-8290,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Brilliant Jet,TXJ,4264,2011
 780BAF,B-8218,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Beijing Airlines,BJN,189,2012

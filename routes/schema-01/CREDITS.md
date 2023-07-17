@@ -6,29 +6,29 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 82,502 |
+| `Piet Delagrense`              | 83,082 |
 | `vand`                         | 43,139 |
-| `dirkhh`                       | 31,122 |
-| `Pascal Ensinck`               | 25,905 |
+| `dirkhh`                       | 33,006 |
+| `Pascal Ensinck`               | 25,951 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,578 |
+| `sib64`                        | 14,638 |
 | `Jon Fear`                     | 13,207 |
-| `bigrossco`                    | 10,773 |
+| `bigrossco`                    | 10,778 |
 | `SteveF`                       | 9,821 |
-| `科罗娜`                          | 8,160 |
-| `Neboknede`                    | 7,804 |
+| `科罗娜`                          | 8,494 |
+| `Neboknede`                    | 7,811 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,925 |
 | `EDDT Manu`                    | 5,657 |
-| `AP100`                        | 4,835 |
+| `AP100`                        | 4,842 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 3,835 |
+| `Markus`                       | 3,948 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -44,7 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,162 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,896 |
+| `Gavin-D`                      | 1,897 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `verbatim`                     | 1,692 |
@@ -54,7 +54,7 @@ Please note that credit files are updated less frequently than the data files.
 | `andrw`                        | 1,510 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
-| `UA4WIY`                       | 1,432 |
+| `UA4WIY`                       | 1,433 |
 | `Brian Leyton`                 | 1,422 |
 | `Cody E`                       | 1,388 |
 | `sesom`                        | 1,375 |
@@ -65,8 +65,8 @@ Please note that credit files are updated less frequently than the data files.
 | `laurent`                      | 1,131 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
+| `aircraftenthusiast2000`       | 1,125 |
 | `kma371`                       | 1,109 |
-| `aircraftenthusiast2000`       | 1,099 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
 | `Dauren`                       | 1,044 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
-| `SQ5IRZ`                       | 751 |
+| `SQ5IRZ`                       | 752 |
 | `delcomp`                      | 715 |
 | `wogman`                       | 712 |
 | `foxhunter`                    | 707 |
@@ -110,8 +110,8 @@ Please note that credit files are updated less frequently than the data files.
 | `32043GCS`                     | 448 |
 | `squawk7000`                   | 431 |
 | `ka0lnr`                       | 418 |
+| `topoguido`                    | 417 |
 | `holytux`                      | 414 |
-| `topoguido`                    | 413 |
 | `nemexia`                      | 411 |
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
@@ -148,7 +148,7 @@ Please note that credit files are updated less frequently than the data files.
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
-| `rikgale`                      | 212 |
+| `rikgale`                      | 213 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
@@ -230,6 +230,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
+| `Jens Erik Widén`              | 75 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
@@ -246,14 +247,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Yasu`                         | 65 |
 | `Dan Schaper`                  | 64 |
 | `holnejs`                      | 64 |
-| `Jens Erik Widén`              | 64 |
 | `SpottersCostaRica`            | 64 |
 | `Bryan`                        | 63 |
+| `ez_duce`                      | 62 |
 | `MJDBW`                        | 62 |
 | `Sam Dennon`                   | 62 |
 | `Chris Gault`                  | 61 |
 | `EDLM`                         | 61 |
-| `ez_duce`                      | 61 |
 | `dramis`                       | 60 |
 | `LU4CN`                        | 60 |
 | `Samuel Rodriguez`             | 56 |
@@ -426,6 +426,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Renaud Bunel`                 | 14 |
 | `szpajder`                     | 14 |
 | `Vardamir`                     | 14 |
+| `arcticfox.92`                 | 13 |
 | `bapeder`                      | 13 |
 | `BAW756`                       | 13 |
 | `cocodanila`                   | 13 |
@@ -482,7 +483,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Rian`                         | 10 |
 | `thecowan`                     | 10 |
 | `vk7ip`                        | 10 |
-| `arcticfox.92`                 | 9 |
 | `dziban molniya`               | 9 |
 | `EVO`                          | 9 |
 | `franzke`                      | 9 |

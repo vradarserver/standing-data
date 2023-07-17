@@ -12,6 +12,7 @@
 4245D6,VP-CKW,B738,Boeing,737-86N(WL),Boeing 737-86N(WL),0,AerCap,,43412,2016
 4245D8,VP-CRM,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9045,2000
 4245DD,VP-CWM,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0252,2017
+4245DE,VP-CFM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9756,
 424649,VP-BDU,B738,Boeing,737-8KV,Boeing 737-8KV,0,Nordwind Airlines,,60175,2018
 424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
 424660,VP-BTW,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,324,
@@ -103,4 +104,5 @@
 424C1E,M-ZENG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Centreline,CLF,50500409,
 424C20,M-SEAO,C750,Cessna,750 Citation X,Cessna 750 Citation X,1,Private,,750-0232,
 424C31,M-EADE,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,1,Private,,5023,
+424C32,M-ONEY,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,1,Private,,9349,
 424C33,M-ICKY,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Hampshire Aviation,,2255,

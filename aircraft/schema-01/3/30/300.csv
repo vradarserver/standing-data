@@ -19,10 +19,12 @@
 300861,I-HFHZ,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,1,Private,,840,
 300869,I-SEAV,G280,Gulfstream,G280,Gulfstream G280,0,Servizi Aerei,SNM,2214,2020
 30086A,I-SEAO,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Servizi Aerei,,6432,
+30086C,I-MIAJ,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,8960,
 30086D,I-MIAY,AS50,Airbus Helicopters,H-125 Ecureuil AS350B3e,Airbus Helicopters H-125 Ecureuil AS350B3e,1,Private,,8955,
 30086F,I-MIAW,AS50,Airbus Helicopters,AS-350 Ecureuil,Airbus Helicopters AS-350 Ecureuil,1,Private,,8968,
 300877,I-VENT,P28A,Piper,PA-28-140 Cherokee,Piper PA-28-140 Cherokee,1,Private,,28-24576,
 300878,I-LOSO,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258689,
+30088C,I-SOMI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Ariane,,2354,
 300892,I-NOLV,C150,Reims,F150L,Reims F150L,1,Private,,F1501116,
 30089D,I-TEAF,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9122,
 30089E,I-TEAS,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9123,
@@ -39,4 +41,5 @@
 3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,
 3008F2,I-SEAK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Servizi Aerei,SNM,6493,2022
 30090D,I-GATC,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,0,Compagnia Aerea Italiana,CPI,73001,
+300937,I-KEOV,AS55,Airbus Helicopters,AS-355 Ecureuil 2,Airbus Helicopters AS-355 Ecureuil 2,1,Private,,5739,
 30093A,I-PAPS,BE20,Beech,King Air 260,Beech King Air 260,0,Aliserio,,BY-440,2021
