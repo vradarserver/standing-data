@@ -9,7 +9,7 @@ Please note that credit files are updated less frequently than the data files.
 | `OSN`                    | 1,763 |
 | `Peter Hutt`             | 1,641 |
 | `Andrew`                 | 1,113 |
-| `科罗娜`                    | 872 |
+| `科罗娜`                    | 874 |
 | `aircraftenthusiast2000` | 654 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |

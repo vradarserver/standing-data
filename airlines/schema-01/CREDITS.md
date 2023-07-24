@@ -13,7 +13,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Lanorge`               | 74 |
 | `vand`                  | 48 |
 | `sib64`                 | 37 |
-| `Peter Hutt`            | 24 |
+| `Peter Hutt`            | 26 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
