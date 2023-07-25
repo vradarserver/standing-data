@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A74871,N569AZ,B763,Boeing,767-338ER,Boeing 767-338ER,0,Air Transport International,ATN,25246,1991
+A748BC,N569DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,027,2016
 A74B71,N5695S,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,9176,2023
 A74C5E,N57DC,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9202,2023
 A74D24,N57MA,P28A,Piper,PA-28-181 Archer TX,Piper PA-28-181 Archer TX,1,Private,,2881556,2022

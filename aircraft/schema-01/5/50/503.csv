@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+503C48,LY-WSA,A321,Airbus,A321-211,Airbus A321-211,0,GetJet Airlines,GJT,2115,2003
+503CB7,LY-KDT,B735,Boeing,737 522,Boeing 737 522,0,KlasJet,KLJ,26691,1992
 503CBF,LY-BUS,B738,Boeing,737-82R,Boeing 737-82R,0,KlasJet,KLJ,38175,2011
 503CF8,LY-JUP,AT75,ATR,72-500,ATR 72-500,0,Air Alsie,MMD,747,2007
 503CFB,LY-NVN,A320,Airbus,A320-214,Airbus A320-214,0,Avion Express,NVD,4448,2010

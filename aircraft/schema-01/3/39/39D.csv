@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39D16B,F-HULL,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,42N478,
 39D1AA,F-HUNK,P180,Piaggio,P.180 Avanti,Piaggio P.180 Avanti,0,Oyonnair,OYO,1178,2008
+39D2A0,F-HUVA,A359,Airbus,A350-941,Airbus A350-941,0,Air France,AFR,603,2023
 39D300,F-HUYA,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia France,TVF,42271,2016
 39D301,F-HUYB,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia Holland,TRA,42274,2017
 39D302,F-HUYC,B738,Boeing,737-8JP,Boeing 737-8JP,0,Transavia France,TVF,42086,2017
@@ -15,6 +16,7 @@
 39D30B,F-HUYL,B738,Boeing,737-86N,Boeing 737-86N,0,Transavia Holland,TRA,38037,2013
 39D30C,F-HUYM,B738,Boeing,737-86N,Boeing 737-86N,0,Transavia Holland,TRA,39397,2012
 39D30D,F-HUYN,B738,Boeing,737-82R,Boeing 737-82R,0,Transavia France,TVF,40012,2014
+39D30E,F-HUYO,B738,Boeing,737-82R,Boeing 737-82R,0,Transavia France,TVF,40013,2015
 39D311,F-HUYR,B738,Boeing,737-8K5,Boeing 737-8K5,0,Transavia France,TVF,35137,2007
 39D312,F-HUYS,B738,Boeing,737-8K5,Boeing 737-8K5,0,Transavia France,TVF,37248,2011
 39D313,F-HUYT,B738,Boeing,737-8K5,Boeing 737-8K5,0,Transavia France,TVF,37252,2011

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 06A0F4,A7-ANT,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,430,2021
 06A10F,A7-AOA,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,409,2021
+06A110,A7-AOB,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,438,2022
 06A1C6,A7-CGA,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6153,2014
 06A1C7,A7-CGB,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6167,2015
 06A1C8,A7-CGC,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6179,2015
