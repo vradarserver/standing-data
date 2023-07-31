@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 46B2E3,SX-LWC,B737,Boeing,737-7K2(WL),Boeing 737-7K2(WL),0,Lumiwings,LWI,30659,2003
 46B434,SX-MAT,B734,Boeing,737-446,Boeing 737-446,0,Air Mediterranean,MAR,28831,1997
+46B68F,SX-MTO,E75S,Embraer,E175LR,Embraer E175LR,0,Marathon Airlines,MTO,17000347,2012
 46B693,SX-MTS,LJ31,Learjet,31A-205,Learjet 31A-205,0,Epsilon Aviation,GRV,31-205,1999
 46B825,SX-NAE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Aegean Airlines,AEE,10704,2022
 46B826,SX-NAF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Aegean Airlines,AEE,10920,2022

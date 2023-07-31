@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AB30F5,N820BA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70075,2021
+AB31D7,N820LB,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,1,Private,,1025,
 AB3866,N822BD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5064,2005
+AB3946,N822LC,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,492,2022
 AB3966,N822MK,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6454,2021
 AB3A32,N822VP,GLEX,Bombardier,Global Express,Bombardier Global Express,0,VP LLC,,9016,1999

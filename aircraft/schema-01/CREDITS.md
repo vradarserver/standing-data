@@ -7,27 +7,27 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `OSN`                    | 1,763 |
-| `Peter Hutt`             | 1,641 |
-| `Andrew`                 | 1,113 |
-| `科罗娜`                    | 874 |
-| `aircraftenthusiast2000` | 654 |
+| `Peter Hutt`             | 1,700 |
+| `Andrew`                 | 1,114 |
+| `科罗娜`                    | 892 |
+| `aircraftenthusiast2000` | 742 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
 | `SkyDiscovery`           | 339 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 103 |
-| `andrw`                  | 94 |
+| `andrw`                  | 101 |
 | `Lanorge`                | 75 |
 | `RZH`                    | 47 |
 | `BudBundi`               | 36 |
 | `dziban molniya`         | 30 |
+| `britiger`               | 27 |
 | `is0bzc`                 | 26 |
 | `deedeecee`              | 25 |
 | `flybull`                | 24 |
 | `Rebelvenice2`           | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
-| `britiger`               | 17 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `Luis Cova`              | 8 |
@@ -56,6 +56,7 @@ Please note that credit files are updated less frequently than the data files.
 | `arcticfox.92`           | 1 |
 | `Avioradar`              | 1 |
 | `Blackeye`               | 1 |
+| `caro-ed`                | 1 |
 | `Datamix`                | 1 |
 | `Derek Bertram`          | 1 |
 | `flyboy101`              | 1 |
@@ -65,6 +66,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`     | 1 |
 | `sib64`                  | 1 |
 | `Skiprat`                | 1 |
+| `soja`                   | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |
 | `UA4WIY`                 | 1 |

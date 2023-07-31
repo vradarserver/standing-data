@@ -166,6 +166,7 @@
 440B30,OE-IWF,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35553,2007
 440B49,OE-HCU,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Sparfell Luftfahrt,LDX,20878,2021
 440B53,OE-IIC,B738,Boeing,737-8AS(W),Boeing 737-8AS(W),1,Private,,35005,2009
+440B56,OE-IMA,B738,Boeing,737-8AS(WL),Boeing 737-8AS(WL),0,Ukraine International Airlines,AUI,37542,2009
 440B5E,OE-LGY,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Jetology,,9554,2014
 440B5F,OE-IWD,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,35550,2007
 440B61,OE-IXA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,33604,2006
@@ -278,6 +279,7 @@
 440D0A,OE-HAG,G280,Gulfstream,G280,Gulfstream G280,0,Sparfell Luftfahrt,LDX,2039,2013
 440D0C,OE-GPM,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Euro Flight Aviation Services,,525B-0220,2008
 440D14,OE-XXY,R44,Robinson,R44 Raven 1,Robinson R44 Raven 1,1,Private,,2073,
+440D18,OE-HUG,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Avcon Jet,AOJ,20547,
 440D30,OE-LFI,B748,Boeing,747-83QF,Boeing 747-83QF,0,Air Belgium,ABB,60118,2014
 440D33,OE-HSX,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,,
 440D35,OE-LCS,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,9747,

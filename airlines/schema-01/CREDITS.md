@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 371 |
+| `Andrew`                | 378 |
 | `Piet Delagrense`       | 160 |
 | `科罗娜`                   | 95 |
 | `EDDG`                  | 76 |
@@ -30,10 +30,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Rosen85`               | 6 |
 | `Skibox`                | 6 |
 | `BPfH`                  | 5 |
+| `britiger`              | 5 |
 | `BudBundi`              | 5 |
 | `kma371`                | 5 |
 | `UA4WIY`                | 5 |
-| `britiger`              | 4 |
 | `Forssi`                | 4 |
 | `Mark Taylor`           | 4 |
 | `Neboknede`             | 4 |

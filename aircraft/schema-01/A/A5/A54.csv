@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A540E3,N438AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10641,2021
 A5449A,N439AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10623,2021
+A548E3,N44GJ,GLF4,Gulfstream Aerospace,G300,Gulfstream Aerospace G300,0,Mira Vista Aviation,,1508,2003
 A5496E,N44MY,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,1,Private,,20450,2014
 A5497E,N44NP,AC11,Rockwell,Commander 114-B,Rockwell Commander 114-B,1,Private,,14679,
 A549E6,N44ST,C172,Cessna,172,Cessna 172,1,Private,,17271609,1979

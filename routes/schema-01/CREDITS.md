@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 83,641 |
+| `Piet Delagrense`              | 84,309 |
 | `vand`                         | 43,139 |
-| `dirkhh`                       | 35,348 |
-| `Pascal Ensinck`               | 25,957 |
+| `dirkhh`                       | 36,308 |
+| `Pascal Ensinck`               | 25,997 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,697 |
+| `sib64`                        | 14,778 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,778 |
+| `科罗娜`                          | 9,984 |
 | `SteveF`                       | 9,821 |
-| `科罗娜`                          | 8,600 |
-| `Neboknede`                    | 7,820 |
+| `Neboknede`                    | 7,833 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 3,978 |
+| `Markus`                       | 4,104 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -44,10 +44,10 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,162 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,897 |
+| `Gavin-D`                      | 1,904 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
-| `verbatim`                     | 1,692 |
+| `verbatim`                     | 1,693 |
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
@@ -61,7 +61,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
-| `aircraftenthusiast2000`       | 1,150 |
+| `aircraftenthusiast2000`       | 1,192 |
 | `Mark Taylor`                  | 1,145 |
 | `laurent`                      | 1,131 |
 | `rwinterhoff`                  | 1,130 |
@@ -69,10 +69,10 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Dauren`                       | 1,044 |
+| `Dauren`                       | 1,048 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 952 |
+| `Daniel.cornejo.campos`        | 955 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -109,8 +109,8 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
 | `squawk7000`                   | 431 |
+| `topoguido`                    | 419 |
 | `ka0lnr`                       | 418 |
-| `topoguido`                    | 417 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
 | `Rennan`                       | 408 |
@@ -118,7 +118,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Cristian Amaya`               | 389 |
-| `britiger`                     | 384 |
+| `britiger`                     | 387 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
@@ -134,8 +134,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Kanok`                        | 288 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
+| `kirkmayers`                   | 271 |
 | `flygfantast`                  | 269 |
-| `kirkmayers`                   | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
 | `usaimi`                       | 254 |

@@ -41,6 +41,7 @@
 43C923,ZM342,TEX2,Beechcraft,T-6C Texan T1,Beechcraft T-6C Texan T1,0,Royal Air Force,RRR,PM-139,
 43C924,ZM343,TEX2,Beech,T-6C Texan T1,Beech T-6C Texan T1,0,Royal Air Force,RFR,PM-144,2020
 43C926,ZR285,EH10,AgustaWestland,EH-101 Merlin,AgustaWestland EH-101 Merlin,0,Polish Navy,PNY,50285,2021
+43C928,ZR287,EH10,EH Industries,EH-101 Mk 614,EH Industries EH-101 Mk 614,0,Polish Navy,PNY,50287,2022
 43C92F,ZM701,H64,Boeing,AH-64E Apache,Boeing AH-64E Apache,0,Army Air Corps,AAC,1600102,
 43C930,ZM702,H64,Boeing,AH-64E Apache AH.2,Boeing AH-64E Apache AH.2,0,Army Air Corps,AAC,UD003,2022
 43C931,ZM703,H64,Boeing,AH-64E Apache,Boeing AH-64E Apache,0,Army Air Corps,AAC,UD004,
@@ -64,6 +65,7 @@
 43C946,ZM724,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.025,
 43C947,ZM725,H64,Boeing,AH-64E Apache Guardian AH.2,Boeing AH-64E Apache Guardian AH.2,0,Army Air Corps,AAC,UD026,
 43C948,ZM726,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD027,
+43C94B,ZM729,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.030,
 43C961,ZB132,HAWK,British Aerospace,Hawk Mk.167,British Aerospace Hawk Mk.167,0,Royal Air Force,RFR,QA002,
 43C962,ZB133,HAWK,BAE,Hawk Mk 167,BAE Hawk Mk 167,0,Qatar Emiri Air Force,,QA003,2021
 43C963,ZB134,HAWK,British Aerospace,Hawk Mk167,British Aerospace Hawk Mk167,0,Qatar - Air Force,,QA004,

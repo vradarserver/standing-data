@@ -55,7 +55,7 @@
 5002AE,T7-LOTUS,B39M,Boeing,737 MAX 9 BBJ,Boeing 737 MAX 9 BBJ,0,Reliance Industries Ltd,,65334,
 5002B5,T7-MCDAN,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5319,
 5002B7,T7-DAT,P180,Piaggio,P-180 Avanti II,Piaggio P-180 Avanti II,1,Private,,1194,
-5002B8,T7-688NJ,GLF6,Gulfstream Aerospace,G650,Gulfstream G650,0,,,6502,
+5002B8,T7-688NJ,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6502,2022
 5002BD,T7-PYR,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70128,
 5002C1,T7-ADAM,COL4,Cessna,400 Corvalis TT,Cessna 400 Corvalis TT,1,Private,,411108,
 5002C6,T7-JUE,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,ZYB Lily Jet,MZT,70111,
@@ -74,9 +74,11 @@
 5002F0,T7-RDJ,GL7T,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,1,Private,,9525,
 5002F2,T7-IUB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6353,
 5002FC,T7-RIC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9546,2013
+500306,T7-CLN,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,441,2018
 500307,T7-BCP,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6343,2018
 500310,T7-VRF,HDJT,Honda,HA-420 HondaJet Elite,Honda HA-420 HondaJet Elite,1,Private,,42000244,
 500313,T7-JMM,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6527,
 500315,T7-TJ184,HA4T,Hawker Beechcraft,4000,Hawker Beechcraft 4000,1,Private,,RC-72,
+500317,T7-XAL,H25B,Hawker,850XP,Hawker 850XP,1,Private,,258909,2008
 500318,T7-187,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501075,2008
 50031A,T7-9889,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5644,

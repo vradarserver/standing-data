@@ -26,6 +26,7 @@
 424692,VP-BGA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11019,2022
 424693,VP-BGM,A20N,Airbus,A320-251N,Airbus A320-251N,0,ElitAvia,,11041,2022
 42469B,VP-BTN,A20N,Airbus,A320-271N,Airbus A320-271N,0,Azerbaijan Airlines,AHY,11265,2022
+4246A4,VP-BUG,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,040,
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
 424702,VP-CUO,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8575,2018
@@ -72,6 +73,7 @@
 424BBF,M-ABON,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9603,
 424BC5,M-DUBS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,255,
 424BC6,M-XJET,H25B,Hawker,800XP,Hawker 800XP,1,Private,,258390,1998
+424BC7,M-ADDS,H25B,British Aerospace,BAe-125 Series 800A,British Aerospace BAe-125 Series 800A,1,Private,,258153,1989
 424BC9,M-MBLY,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6456,2021
 424BCC,M-SFPL,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9692,2014
 424BCF,M-TOMY,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000371,2016
