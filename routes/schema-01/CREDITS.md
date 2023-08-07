@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 84,309 |
-| `vand`                         | 43,139 |
-| `dirkhh`                       | 36,308 |
+| `Piet Delagrense`              | 84,889 |
+| `vand`                         | 44,444 |
+| `dirkhh`                       | 37,108 |
 | `Pascal Ensinck`               | 25,997 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,778 |
+| `sib64`                        | 14,805 |
 | `Jon Fear`                     | 13,207 |
-| `bigrossco`                    | 10,778 |
-| `科罗娜`                          | 9,984 |
+| `bigrossco`                    | 10,788 |
+| `科罗娜`                          | 10,097 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,833 |
+| `Neboknede`                    | 7,835 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,104 |
+| `Markus`                       | 4,135 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -60,8 +60,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
+| `aircraftenthusiast2000`       | 1,240 |
 | `Andrew`                       | 1,220 |
-| `aircraftenthusiast2000`       | 1,192 |
 | `Mark Taylor`                  | 1,145 |
 | `laurent`                      | 1,131 |
 | `rwinterhoff`                  | 1,130 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,048 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 955 |
+| `Daniel.cornejo.campos`        | 958 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -117,7 +117,7 @@ Please note that credit files are updated less frequently than the data files.
 | `bugjargal`                    | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
-| `Cristian Amaya`               | 389 |
+| `Cristian Amaya`               | 392 |
 | `britiger`                     | 387 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
@@ -134,7 +134,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Kanok`                        | 288 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
-| `kirkmayers`                   | 271 |
+| `kirkmayers`                   | 275 |
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
@@ -227,9 +227,9 @@ Please note that credit files are updated less frequently than the data files.
 | `RZH`                          | 80 |
 | `Lector`                       | 79 |
 | `HSran`                        | 77 |
+| `Jens Erik Widén`              | 77 |
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
-| `Jens Erik Widén`              | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
@@ -686,6 +686,7 @@ Please note that credit files are updated less frequently than the data files.
 | `andy50`                       | 3 |
 | `Aran Ellis`                   | 3 |
 | `Ari`                          | 3 |
+| `Aviquez`                      | 3 |
 | `bahril`                       | 3 |
 | `c25land`                      | 3 |
 | `Calin Marginean`              | 3 |
