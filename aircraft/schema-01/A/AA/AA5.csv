@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA5130,N764JD,E170,Embraer,E170STD,Embraer E170STD,0,Envoy Air,ENY,17000302,2009
 AA58A6,N766JM,E170,Embraer,E170STD,Embraer E170STD,0,Envoy Air,ENY,17000305,2009
+AA5E2A,N7672C,B762,Boeing,767-224ER,Boeing 767-224ER,1,Private,,30432,2000
 AA5F7C,N768CK,B744,Boeing,747-481F,Boeing 747-481F,0,Kalitta Air,CKS,34018,2006

@@ -2,6 +2,7 @@
 300466,I-TORG,AS50,Eurocopter,AS-350 Ecureuil,Eurocopter AS-350 Ecureuil,0,Elitellina,FGS,4922,2018
 300582,I-CFAG,S64,Sikorsky,S-64 Skycrane,Sikorsky S-64 Skycrane,0,Vigili del Fuoco,,64-088,
 3005DF,I-TORQ,EC45,Airbus Helicopters,MBB-BK 117 D-2 (H145),Airbus Helicopters MBB-BK 117 D-2 (H145),0,Air Green,,20011,2014
+3006E4,I-ECTW,B427,Bell,427,Bell 427,1,Private,,56075,
 30079C,I-TFAC,P208,Tecnam,P-2008,Tecnam P-2008,0,Tecnam Flight Academy,,382-5529,
 3007AD,I-TFAF,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,,
 3007DB,I-MIAX,AS50,Airbus Helicopters,AS-350 Ecureuil,Airbus Helicopters AS-350 Ecureuil,1,Private,,8669,
@@ -15,6 +16,7 @@
 30083D,I-CFAM,S64,Sikorsky,S-64F Skycrane,Sikorsky S-64F Skycrane,0,Italy - Vigili del Fuoco,,64.095,
 300847,I-OZZI,P06T,Tecnam,P-2006T,Tecnam P-2006T,1,Private,,,
 30084F,I-LARG,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Air Delta,,,
+300850,I-EKIA,P28S,Piper,PA-28R-201T Turbo Arrow,Piper PA-28R-201T Turbo Arrow,1,Private,,2803002,
 300860,I-OZZM,P208,Tecnam,P2008 JC,Tecnam P2008 JC,0,Professional Aviation,,1204,
 300861,I-HFHZ,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,1,Private,,840,
 300869,I-SEAV,G280,Gulfstream,G280,Gulfstream G280,0,Servizi Aerei,SNM,2214,2020
@@ -31,6 +33,7 @@
 3008AC,I-PBRC,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,192,
 3008AE,I-PBNB,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Leader SRL,LSA,117,
 3008B8,I-HFLY,A109,Leonardo,AW-109 Trekker,Leonardo AW-109 Trekker,0,Hoverfly,,22739,
+3008BD,I-TFAG,P208,Tecnam,P-2008,Tecnam P-2008,0,Tecnam Flight Academy,,,
 3008C1,I-TEAP,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9144,
 3008C7,I-LRSS,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,245,
 3008D1,I-BCSO,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Sirio,SIO,298,
@@ -45,4 +48,6 @@
 30091E,I-CEIE,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Eliabruzzo,,9219,
 300937,I-KEOV,AS55,Airbus Helicopters,AS-355 Ecureuil 2,Airbus Helicopters AS-355 Ecureuil 2,1,Private,,5739,
 30093A,I-PAPS,BE20,Beech,King Air 260,Beech King Air 260,0,Aliserio,,BY-440,2021
+300979,I-AVNG,LJ45,Learjet,45,Learjet 45,0,Avionord,,45-395,
+30097A,I-ANIG,GA6C,Gulfstream,G600,Gulfstream G600,0,Compagnia Aerea Italiana,CPI,73111,2023
 30097D,I-CPRI,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,1,Private,,22325,

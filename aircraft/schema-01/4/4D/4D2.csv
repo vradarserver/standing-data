@@ -36,7 +36,7 @@
 4D230D,9H-VID,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70064,
 4D2310,9H-SMD,A333,Airbus,A330-343,Airbus A330-343,0,SmartLynx Malta,LYX,1382,2013
 4D2311,9H-SLK,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Malta,LYX,1725,2002
-4D2312,9H-SLG,A321,Airbus,A321-231,Airbus A321-231,0,Jet2.com,EXS,1946,2003
+4D2312,9H-SLG,A321,Airbus,A321-231,Airbus A321-231,0,SmartLynx Malta,LYX,1946,2003
 4D2313,9H-SLF,A320,Airbus,A320-214,Airbus A320-214,0,TUI Airways,TOM,3361,2007
 4D2314,9H-SLH,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Malta,LYX,3425,2008
 4D2315,9H-SLI,A320,Airbus,A320-214,Airbus A320-214,0,Air Peace,APK,3866,2009
@@ -323,6 +323,7 @@
 4D24A0,9H-VCY,CL35,Bombardier,BD-100-1A10 Challenger 350,Bombardier BD-100-1A10 Challenger 350,0,Vistajet,VJT,20609,
 4D24A1,9H-VCZ,CL35,Bombardier,BD-100-1A10 Challenger 350,Bombardier BD-100-1A10 Challenger 350,0,Vistajet,VJT,20614,
 4D24A6,9H-ERI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Airlines,ART,6408,2017
+4D24A7,9H-GEM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,42830,2017
 4D24A8,9H-HYA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,64606,2018
 4D24A9,9H-AKJ,B744,Boeing,747-412F,Boeing 747-412F,0,Air Atlanta Europe,AAE,28263,1996
 4D24AA,9H-SEC,EC35,Eurocopter,EC135 T3,Eurocopter EC135 T3,1,Private,,1189,
@@ -353,5 +354,9 @@
 4D24E1,9H-DCGB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,DC-Aviation,,,
 4D24E5,9H-HFH,A332,Airbus,A330-202,Airbus A330-202,0,Hi Fly Malta,HFM,0950,2008
 4D24E6,9H-SWJ,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,03354,2007
+4D24E7,9H-SWC,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,03734,2008
 4D24ED,9H-DNAG,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Sparfell Malta,,20954,2023
 4D24F0,9H-SOP,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,SkyAlps,SWU,4242,2009
+4D24F2,9H-LWA,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Luxwing Ltd.,LWG,4088,2004
+4D24F3,9H-PMN,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,1,Private,,525A0067,2002
+4D24FB,9H-MGM,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,0,Edinburgh Air Charter,EDC,560-5128,2000

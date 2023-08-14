@@ -7,21 +7,21 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `OSN`                    | 1,763 |
-| `Peter Hutt`             | 1,700 |
+| `Peter Hutt`             | 1,760 |
 | `Andrew`                 | 1,114 |
-| `科罗娜`                    | 892 |
-| `aircraftenthusiast2000` | 742 |
+| `科罗娜`                    | 928 |
+| `aircraftenthusiast2000` | 791 |
 | `EDDN`                   | 398 |
 | `aircraftenthusiast20`   | 340 |
-| `SkyDiscovery`           | 339 |
+| `SkyDiscovery`           | 340 |
+| `andrw`                  | 110 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 103 |
-| `andrw`                  | 101 |
 | `Lanorge`                | 75 |
 | `RZH`                    | 47 |
 | `BudBundi`               | 36 |
+| `britiger`               | 31 |
 | `dziban molniya`         | 30 |
-| `britiger`               | 27 |
 | `is0bzc`                 | 26 |
 | `deedeecee`              | 25 |
 | `flybull`                | 24 |
@@ -39,12 +39,13 @@ Please note that credit files are updated less frequently than the data files.
 | `neslin`                 | 4 |
 | `rikgale`                | 4 |
 | `thecowan`               | 4 |
+| `darjes`                 | 3 |
 | `ews997881`              | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
 | `Sevetamryn`             | 3 |
-| `darjes`                 | 2 |
+| `soja`                   | 3 |
 | `GTR8000`                | 2 |
 | `Manny`                  | 2 |
 | `Marc A. Mapplebeck`     | 2 |
@@ -66,7 +67,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`     | 1 |
 | `sib64`                  | 1 |
 | `Skiprat`                | 1 |
-| `soja`                   | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |
 | `UA4WIY`                 | 1 |

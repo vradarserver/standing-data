@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 48A2A8,SP-IZI,E50P,Embraer,EMB 500 Phenom 100,Embraer EMB 500 Phenom 100,1,Private,,50000329,
 48A2B3,SP-IZU,C525,Cessna,Citation 525 CJ1,Cessna Citation 525 CJ1,0,Bartolini air,,525-0396,
+48ACA7,SP-LFH,P208,Tecnam,P2008 JC,Tecnam P2008 JC,0,LOT Flight Academy,,1171,
 48ACA9,SP-LFK,P208,Tecnam,P2008JC MK II,Tecnam P2008JC MK II,0,LOT Flight Academy,,,
+48ACAE,SP-LFO,P208,Tecnam,P-2008,Tecnam P-2008,0,LOT Polish Airlines,LOT,1292,
 48AD06,SP-LIG,E75S,Embraer,E175LR,Embraer E175LR,0,Polish Government,,17000283,2009
 48AD0F,SP-LIP,E75L,Embraer,170-200LR-175LR,Embraer 170-200LR-175LR,0,LOT Polish Airlines,LOT,17000334,2012
 48AD10,SP-LIR,E75S,Embraer,170-200LR-175LR,Embraer 170-200LR-175LR,0,LOT Polish Airlines,LOT,17000340,2012

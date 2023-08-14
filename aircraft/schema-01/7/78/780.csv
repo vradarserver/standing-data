@@ -33,6 +33,7 @@
 7804C6,B-2071,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Cargo,CSN,37309,2009
 7804CF,B-7695,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,ZYB Lily Jet,MZT,7268,
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
+780531,B-5137,B738,Boeing,737-84P(BCF),Boeing 737-84P(BCF),0,Longhao Airlines,LHA,32606,2005
 780541,B-000G,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 780543,B-000J,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 780544,B-000K,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
@@ -111,6 +112,7 @@
 780A7F,B-LBE,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1523,2014
 780A80,B-LBF,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1545,2014
 780A81,B-LBG,A333,Airbus,A330 343E,Airbus A330 343E,0,Cathay Pacific,CPA,1557,2014
+780A82,B-LBH,A333,Airbus,A330 343E,Airbus A330 343E,0,Cathay Pacific,CPA,1567,2014
 780A93,B-LBI,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1598,2014
 780A95,B-LBK,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1621,2014
 780AF9,B-8203,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sino Jet (Beijing) Company,JBE,193,2012
@@ -151,5 +153,6 @@
 780F4C,B-8415,A320,Airbus,A320-232(CJ) Prestige,Airbus A320-232(CJ) Prestige,0,Deer Jet Beijing,BDJ,4388,2010
 780F4D,B-3226,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Nanshan Jet,NSJ,5472,2014
 780F4E,B-3196,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Happy Jet Co Ltd,HYJ,5469,2014
+780F50,B-70GD,A139,AgustaWestland,AW.139,AgustaWestland AW.139,0,Shanghai New Sky Helicopter,,31615,2015
 780F98,B-3322,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,COMAC Express,CCS,105,2013
 780FBE,B-3988,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Beijing Airlines,BJN,5532,2014

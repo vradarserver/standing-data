@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 84,889 |
-| `vand`                         | 44,444 |
-| `dirkhh`                       | 37,108 |
+| `Piet Delagrense`              | 85,434 |
+| `vand`                         | 46,047 |
+| `dirkhh`                       | 38,402 |
 | `Pascal Ensinck`               | 25,997 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,805 |
+| `sib64`                        | 14,838 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,788 |
-| `科罗娜`                          | 10,097 |
+| `科罗娜`                          | 10,168 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,835 |
+| `Neboknede`                    | 7,845 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,135 |
+| `Markus`                       | 4,150 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -60,7 +60,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `aircraftenthusiast2000`       | 1,240 |
+| `aircraftenthusiast2000`       | 1,268 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,145 |
 | `laurent`                      | 1,131 |
@@ -113,12 +113,12 @@ Please note that credit files are updated less frequently than the data files.
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
+| `britiger`                     | 410 |
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Cristian Amaya`               | 392 |
-| `britiger`                     | 387 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
@@ -132,9 +132,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Marek Krawczyk`               | 305 |
 | `Gregory G Harding`            | 297 |
 | `Kanok`                        | 288 |
+| `kirkmayers`                   | 283 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
-| `kirkmayers`                   | 275 |
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
@@ -249,12 +249,12 @@ Please note that credit files are updated less frequently than the data files.
 | `holnejs`                      | 64 |
 | `SpottersCostaRica`            | 64 |
 | `Bryan`                        | 63 |
+| `dramis`                       | 63 |
 | `ez_duce`                      | 62 |
 | `MJDBW`                        | 62 |
 | `Sam Dennon`                   | 62 |
 | `Chris Gault`                  | 61 |
 | `EDLM`                         | 61 |
-| `dramis`                       | 60 |
 | `LU4CN`                        | 60 |
 | `Samuel Rodriguez`             | 56 |
 | `Steve Martin`                 | 56 |
@@ -276,6 +276,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sgtpanda`                     | 49 |
 | `john mathieson`               | 48 |
 | `BC92`                         | 47 |
+| `Jlatham23`                    | 46 |
 | `kabooz`                       | 46 |
 | `philipgm`                     | 46 |
 | `Rick Scott`                   | 46 |

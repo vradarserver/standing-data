@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A682EA,N519AM,C182,Cessna,Skylane,Cessna Skylane,1,Private,,18283225,2023
 A68336,N519DN,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,588,2022
 A6833B,N519DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11198,2023
 A68485,N519SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000899,2021
