@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 85,434 |
-| `vand`                         | 46,047 |
-| `dirkhh`                       | 38,402 |
-| `Pascal Ensinck`               | 25,997 |
+| `Piet Delagrense`              | 85,782 |
+| `vand`                         | 47,692 |
+| `dirkhh`                       | 39,509 |
+| `Pascal Ensinck`               | 26,044 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,838 |
+| `sib64`                        | 14,882 |
 | `Jon Fear`                     | 13,207 |
-| `bigrossco`                    | 10,788 |
-| `科罗娜`                          | 10,168 |
+| `bigrossco`                    | 10,795 |
+| `科罗娜`                          | 10,502 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,845 |
+| `Neboknede`                    | 7,852 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,150 |
+| `Markus`                       | 4,161 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,048 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 958 |
+| `Daniel.cornejo.campos`        | 959 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -131,8 +131,8 @@ Please note that credit files are updated less frequently than the data files.
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
 | `Gregory G Harding`            | 297 |
+| `kirkmayers`                   | 289 |
 | `Kanok`                        | 288 |
-| `kirkmayers`                   | 283 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
 | `flygfantast`                  | 269 |
@@ -298,10 +298,10 @@ Please note that credit files are updated less frequently than the data files.
 | `gazman321`                    | 39 |
 | `Radio Active`                 | 39 |
 | `svedjehammar`                 | 39 |
+| `xnib`                         | 39 |
 | `aizanin`                      | 38 |
 | `Lama Bleu`                    | 38 |
 | `Matt.K`                       | 38 |
-| `xnib`                         | 38 |
 | `DHJ`                          | 37 |
 | `nf003`                        | 37 |
 | `redeshazer`                   | 37 |
