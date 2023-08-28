@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A801DE,N615FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11280,2023
 A8022B,N615JT,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,1,Private,,42000238,2022
 A8056D,N616EA,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Jet Edge,EDG,20943,2023
 A80595,N616FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11330,2023
@@ -8,5 +9,6 @@ A808D7,N617AZ,B763,Boeing,767-332ER,Boeing 767-332ER,0,Air Transport Internation
 A808ED,N617BW,CL60,Canadair,CL-600-2B16,Canadair CL-600-2B16,0,White Aviation Holdings,,5572,2003
 A8098F,N617JH,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9764,2016
 A809A8,N617KH,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,8837,2022
+A809F8,N617NN,CRJ9,Canadair,CRJ-900LR,Canadair CRJ-900LR,0,PSA Airlines,JIA,15428,2017
 A80A7C,N617TV,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,1725,2022
 A80D30,N618HL,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,273,2022

@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 500094,T7-AMC,F260,Aermacchi,SF260,Aermacchi SF260,1,Private,,2-57,
+5000EE,T7-IHC,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501191,
 500177,T7-AXL,BE36,Beech,36 Bonanza,Beech 36 Bonanza,1,Private,,,
 500197,T7-LDT,P46T,Piper,Malibu Meridian,Piper Malibu Meridian,1,Private,,4636391,
 5001DE,T7-ROYAL,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,B.A.E Aviation FZE,,9370,2009
@@ -43,6 +44,7 @@
 500284,T7-977,GLF4,Gulfstream,4SP,Gulfstream 4SP,1,Private,,500284,
 500289,T7-SKK,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,,
 50028C,T7-KLCPM,GLF5,Gulfstream,G550,Gulfstream G550,0,Nomad Aviation,,5283,2010
+50028F,T7-BMB,B737,Boeing,737-73Q(BBJ),Boeing 737-73Q(BBJ),0,SLL Resources,,30789,2000
 500290,T7-BDA,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9427,
 500292,T7-HAS,B737,Boeing,737-7JR(BBJ),Boeing 737-7JR(BBJ),1,Private,,37111,2008
 500293,T7-SAB,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Gama Aviation,GMA,1589,2001

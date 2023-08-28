@@ -1,11 +1,13 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 505C7E,OM-LAS,C404,Cessna,404 Titan,Cessna 404 Titan,1,Private,,404-0414,
 505CB1,OM-NEX,B738,Boeing,737-8KN,Boeing 737-8KN,0,AirExplore,AXE,29636,2010
+505CBB,OM-S575,NG5,BRM Aero,Bristell RG,BRM Aero Bristell RG,1,Private,,577,
 505CEA,OM-GTJ,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUIfly,TUI,30413,2000
 505CEB,OM-GTK,B738,Boeing,737-8K5,Boeing 737-8K5,0,Go2Sky,RLX,36809,2008
 505CFF,OM-XWV,AS50,Eurocopter,AS350 B3e Ecureuil,Eurocopter AS350 B3e Ecureuil,0,Sennair,,9181,
 505D00,OM-OYS,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0086,2008
 505D34,OM-GTI,B738,Boeing,737-8K5,Boeing 737-8K5,0,Go2Sky,RLX,34684,2006
+505D5B,OM-S500,VL3,JMB Aircraft,VL-3 Evolution,JMB Aircraft VL-3 Evolution,1,Private,,470,
 505D7F,OM-TZA,TBM9,Socata,TBM-900,Socata TBM-900,1,Private,,1110,
 505D85,OM-GLE,PRM1,Hawker Beechcraft Corp,390 Premier IA,Hawker Beechcraft Corp 390 Premier IA,0,Tatra JET,,RB-195,2007
 505DC2,OM-NDB,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,1,Private,,560-6148,

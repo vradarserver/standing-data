@@ -264,6 +264,7 @@
 440CDC,OE-LTC,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5452,
 440CDF,OE-EHB,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1767,
 440CE0,OE-LRG,B744,Boeing,747-412F,Boeing 747-412F,0,Challenge Airlines,CHG,26561,1994
+440CE2,OE-FKR,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000168,2010
 440CEC,OE-IXF,B738,Boeing,737-86N,Boeing 737-86N,0,Southern Cross International,SXI,34258,2006
 440CED,OE-IXH,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,ASL Airlines Belgium,TAY,29927,2000
 440CF4,OE-IDC,A20N,Airbus,A320-271N,Airbus A320-271N,0,Jet Airways,JAI,11201,2022
@@ -305,6 +306,7 @@
 440D98,OE-HLB,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Avcon Jet,AOJ,55010108,2023
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
 440D9E,OE-LVM,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,The Flying Bulls,,493,2022
+440DA1,OE-LHC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Skyside,,9606,
 440DA4,OE-GIP,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Jet Pool Network,,560-6137,2013
 440DAF,OE-IDU,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5844,2013
 440DB0,OE-IDX,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,5926,2013

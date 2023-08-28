@@ -10,8 +10,8 @@ Please note that credit files are updated less frequently than the data files.
 | `EDDG`                         | 61 |
 | `vand`                         | 48 |
 | `DennyCrane`                   | 35 |
+| `科罗娜`                          | 28 |
 | `Andrew`                       | 27 |
-| `科罗娜`                          | 27 |
 | `Serge F4IPO`                  | 14 |
 | `viista`                       | 13 |
 | `sib64`                        | 12 |
@@ -73,6 +73,7 @@ Please note that credit files are updated less frequently than the data files.
 | `laurent`                      | 1 |
 | `Lucas`                        | 1 |
 | `Markus`                       | 1 |
+| `Milan Wölfl`                  | 1 |
 | `Neboknede`                    | 1 |
 | `Per Haakan Dahlback`          | 1 |
 | `Peter Hutt`                   | 1 |

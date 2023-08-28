@@ -1,8 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A37385,N321RG,SR20,Cirrus,SR-20,Cirrus SR-20,1,Private,,8820,2022
+A373B7,N321TG,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,68101,2023
 A373E5,N321VC,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9339,2009
 A375CC,N322AP,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Jet Linx Aviation,JTL,5754,2008
 A37605,N322CW,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,1098,2004
+A37668,N322GV,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500530,2019
 A376E3,N322MT,M600,Piper,PA-46-600TP M600,Piper PA-46-600TP M600,1,Private,,4698237,2022
 A37765,N322SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000922,2022
 A3776F,N322TH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,68102,2023
