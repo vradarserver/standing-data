@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A3418E,N309JE,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Jet Edge,EDG,20348,2021
 A34268,N309SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000912,2022
 A3427C,N309TT,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6012,2012
 A34498,N31BG,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4243,2011
@@ -12,8 +13,8 @@ A34C0F,N311RR,GL5T,Bombardier,Global 5500,Bombardier Global 5500,1,Private,,6006
 A34C2F,N311SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000914,2022
 A34D2F,N3112J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55158,2022
 A34D52,N3113J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55164,2022
-A34D98,N3115J,BCS3,Bombardier,CS300,Bombardier CS300,0,JetBlue Airways,JBU,55181,2022
-A34E01,N3118J,BCS3,Bombardier,CS300,Bombardier CS300,0,JetBlue Airways,JBU,55186,2022
+A34D98,N3115J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55181,2022
+A34E01,N3118J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55186,2022
 A34E9D,N312DU,BCS3,Airbus,A220-300,Airbus A220-300,0,Delta Air Lines,DAL,55170,2022
 A34F0C,N312JE,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6131,2018
 A34FE6,N312SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000915,2022

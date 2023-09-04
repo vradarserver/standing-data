@@ -1,6 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+C040BB,C-FYNI,R44,Robinson,R-44 Raven,Robinson R-44 Raven,1,Private,,2733,2023
 C0412F,C-FYRU,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37263,2014
+C04411,C-FZUE,C185,Cessna,A185E Skywagon,Cessna A185E Skywagon,1,Private,,18501864,1971
 C04463,C-FZXI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Sunwing Airlines,SWG,62883,2020
+C045A7,C-GAJU,B752,Boeing,757-204(PCF),Boeing 757-204(PCF),0,Cargojet Airways,CJT,28836,1999
 C0496C,C-GBUX,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,8715,2022
 C04ADC,C-GCJB,B752,Boeing,757-2G5(PCF),Boeing 757-2G5(PCF),0,Cargojet Airways,CJT,30394,2000
 C04AE5,C-GCJK,A320,Airbus,A320-214,Airbus A320-214,0,Jetlines,CJL,5995,2014

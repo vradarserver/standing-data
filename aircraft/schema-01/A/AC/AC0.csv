@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC01FC,N873FD,B77L,Boeing,777-F,Boeing 777-F,0,Federal Express,FDX,40679,2021
 AC033E,N873UA,A319,Airbus,A319-132,Airbus A319-132,0,United Airlines,UAL,2004,2003
+AC05B3,N874FD,B77L,Boeing,777-F,Boeing 777-F,0,Federal Express,FDX,66263,2023
 AC06BE,N874RW,E170,Embraer,E170SU,Embraer E170SU,0,Envoy Air,ENY,17000148,2006
 AC0B96,N8752Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67206,2022
 AC0BB9,N8753Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67205,2022

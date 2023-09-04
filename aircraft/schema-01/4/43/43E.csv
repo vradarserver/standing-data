@@ -1,6 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 43E9C3,M-CRAO,B350,Beech,B300 King Air 350,Beech B300 King Air 350,1,Private,,FL-515,2007
-43EA45,M-DMBP,LJ40,Bombardier,Learjet 40 XR,Bombardier Learjet 40 XR,0,Van Air Europe,,45-2133,2012
+43EA45,M-DMBP,LJ40,Bombardier,Learjet 40 XR,Bombardier Learjet 40 XR,0,Van Air Europe,VAA,45-2133,2012
 43EAA3,M-GAGA,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Brilliant Jet,TXJ,6173,2015
 43EAF6,M-ALTH,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Jet Aviation,PJS,9758,2016
 43EB4B,2-GNSY,AC11,Commander,114B,Commander 114B,1,Private,,14679,2000

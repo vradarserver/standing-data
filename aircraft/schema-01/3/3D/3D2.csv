@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3D20F5,D-EKSR,DR40,Robin,DR400/180S Regent,Robin DR400/180S Regent,1,Private,,2035,1991
 3D21D3,D-ELBF,BR23,BRM,Aero Bristell B23,BRM Aero Bristell B23,1,Private,,,
+3D2280,D-ELHW,SR20,Cirrus,SR20 G6,Cirrus SR20 G6,1,Private,,2553,2020
 3D22BB,D-ELKD,PA46,Piper,PA-46-M350,Piper PA-46-M350,1,Private,,4636805,2022
 3D2518,D-EMHK,SR22,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,2304,
 3D2522,D-EMHU,M20P,Mooney,M20J-201,Mooney M20J-201,1,Private,,24-1002,
@@ -12,6 +13,7 @@
 3D2811,D-ENKR,A210,Aquila,A210,Aquila A210,1,Private,,AT01-189,2008
 3D291A,D-ENUW,DA40,Diamond,DA-40NG Diamond Star,Diamond DA-40NG Diamond Star,1,Private,,Aero Club Nürnberg,2023
 3D296D,D-ENYB,SR20,Cirrus,SR20 G6,Cirrus SR20 G6,0,FFG e.V. Braunschweig,,2476,2019
+3D299F,D-ENZZ,DA40,Diamond,DA 40 NG Star,Diamond DA 40 NG Star,1,Private,,40N522,
 3D29E5,D-EOCR,C72R,Cessna,172RG Cutlass RG,Cessna 172RG Cutlass RG,1,Private,,172RG0115,
 3D2A4F,D-EOGT,SR20,Cirrus Design,SR20 G2,Cirrus Design SR20 G2,0,Motorflug Muenster eV,,1865,2007
 3D2BF8,D-EOXC,P28A,Piper,PA-28-181 Archer III,Piper PA-28-181 Archer III,0,FMG FlightTraining,,2843149,1998

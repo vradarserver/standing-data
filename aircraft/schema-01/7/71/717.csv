@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 717C7D,HZ-SEA,C208,Cessna,208 Caravan,Cessna 208 Caravan,1,Private,,20800317,
+717C85,HZ-ASAC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Saudia,SVA,11473,2023
+717CA2,HZ-ASAA,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Saudia,SVA,11200,2023
 717CA4,HZ-ASAB,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Saudia,SVA,11420,2023
 717CCB,HZ-NS46,A20N,Airbus,A320-251N,Airbus A320-251N,0,Flynas,KNE,10760,2022
 717CCC,HZ-NS47,A20N,Airbus,A320-251N,Airbus A320-251N,0,Flynas,KNE,10777,2017

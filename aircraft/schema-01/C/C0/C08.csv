@@ -1,9 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C080D0,C-GWUH,DH8D,De Havilland Canada,DHC-8-Q402 Dash 8,De Havilland Canada DHC-8-Q402 Dash 8,1,Private,,4480,2014
 C080D3,C-GWUK,DHC6,De Havilland Canada,DHC-6-300 Twin Otter,De Havilland Canada DHC-6-300 Twin Otter,0,Ashe Aircraft Enterprises,,815,1985
-C080D9,C-GWUQ,BCS3,Bombardier,A220-300,Bombardier A220-300,0,Air Canada,ACA,55179,2022
+C080D9,C-GWUQ,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Canada,ACA,55179,2022
 C080DB,C-GWUS,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Canada,ACA,55190,2022
-C080DC,C-GWUT,BCS3,Bombardier,CS300,Bombardier CS300,0,Air Canada,ACA,55205,2022
+C080DC,C-GWUT,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Canada,ACA,55205,2022
 C080DD,C-GWUU,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Air Canada,ACA,66991,2023
 C08154,C-GWZJ,GLEX,Bombardier,BD-700-1A10 Global 6500,Bombardier BD-700-1A10 Global 6500,0,Bombardier,BFO,60074,2022
 C081D2,C-GXEF,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70135,2023

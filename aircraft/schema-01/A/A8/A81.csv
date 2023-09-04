@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A810BA,N619FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11407,2023
+A814B1,N62JE,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1502,2003
 A814D2,N62KN,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9111,2023
 A814F4,N62LX,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Zenflight,,162,2008
 A815C1,N62VB,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9166,2023
 A816CA,N620FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11425,2023
+A8175B,N620ML,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,1,Private,,525-0620,2006
 A81B88,N621SD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5420,2013
 A81BD6,N621VG,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,1,Private,,0457,2022
 A81BF2,N621WK,G280,Gulfstream,G280,Gulfstream G280,0,Kellogg,,2179,2019
