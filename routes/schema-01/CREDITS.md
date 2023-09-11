@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 86,361 |
-| `vand`                         | 49,331 |
-| `dirkhh`                       | 41,910 |
-| `Pascal Ensinck`               | 26,068 |
+| `Piet Delagrense`              | 86,595 |
+| `vand`                         | 50,014 |
+| `dirkhh`                       | 43,861 |
+| `Pascal Ensinck`               | 26,085 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
 | `Lanorge`                      | 15,001 |
-| `sib64`                        | 14,938 |
+| `sib64`                        | 14,977 |
 | `Jon Fear`                     | 13,207 |
-| `科罗娜`                          | 11,265 |
-| `bigrossco`                    | 10,795 |
+| `科罗娜`                          | 11,292 |
+| `bigrossco`                    | 10,796 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,855 |
+| `Neboknede`                    | 7,868 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,189 |
+| `Markus`                       | 4,204 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -60,7 +60,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `aircraftenthusiast2000`       | 1,291 |
+| `aircraftenthusiast2000`       | 1,314 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,145 |
 | `laurent`                      | 1,131 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,048 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 960 |
+| `Daniel.cornejo.campos`        | 961 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -130,8 +130,8 @@ Please note that credit files are updated less frequently than the data files.
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
+| `kirkmayers`                   | 298 |
 | `Gregory G Harding`            | 297 |
-| `kirkmayers`                   | 296 |
 | `Kanok`                        | 288 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
@@ -187,8 +187,8 @@ Please note that credit files are updated less frequently than the data files.
 | `cdurand`                      | 136 |
 | `RawFlight.eu`                 | 135 |
 | `SkierInAvon`                  | 135 |
+| `KWB`                          | 133 |
 | `Bidgee`                       | 132 |
-| `KWB`                          | 132 |
 | `Luis Cova`                    | 132 |
 | `geoff271989`                  | 130 |
 | `sgt330`                       | 129 |
@@ -592,6 +592,7 @@ Please note that credit files are updated less frequently than the data files.
 | `rch38084`                     | 6 |
 | `sdeath`                       | 6 |
 | `sky92682`                     | 6 |
+| `SkyDiscovery`                 | 6 |
 | `sp060`                        | 6 |
 | `sp9eij`                       | 6 |
 | `sr9046`                       | 6 |
@@ -670,7 +671,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Ricardo Katz`                 | 4 |
 | `Ricardo Reig`                 | 4 |
 | `Shak7`                        | 4 |
-| `SkyDiscovery`                 | 4 |
 | `spotter_sam`                  | 4 |
 | `spottyshowers`                | 4 |
 | `Steven`                       | 4 |
