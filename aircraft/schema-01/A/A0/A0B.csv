@@ -1,7 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A0B145,N1438,A321,Airbus,A321-231,Airbus A321-231,0,Global X,GXA,1438,2001
 A0B168,N1439,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9266,2023
+A0B198,N144AM,P28A,Piper,PA-28-181,Piper PA-28-181,1,Private,,28020016,2021
 A0B1EA,N144DU,BCS1,Airbus,A220-100,Airbus A220-100,0,Delta Air Lines,DAL,50064,2022
 A0B56F,N145BU,EC45,Airbus Helicopters,MBB-BK 117 C-2,Airbus Helicopters MBB-BK 117 C-2,1,Private,,9867,2021
+A0B574,N145BZ,E190,Embraer,E195LR,Embraer E195LR,0,Breeze Airways,MXY,19000281,2009
+A0BCB7,N147AF,PC12,Pilatus,PC-12,Pilatus PC-12,0,PlaneSense,CNS,2147,2021
 A0BD48,N147GA,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2247,
 A0BFAA,N1474W,P210,Tecnam,P210,Tecnam P210,1,Private,,192/US,2022

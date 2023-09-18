@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A291D7,N265CW,LJ40,Learjet,40,Learjet 40,0,Sky Quest,,45-2042,2005
 A29212,N265FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66868,2022
 A29227,N265GA,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2265,
 A2927A,N265KJ,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,2307,2021
@@ -6,6 +7,7 @@ A295A8,N266DX,K100,Quest,Kodiak 100,Quest Kodiak 100,1,Private,,100-0321,
 A295C9,N266FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66867,2022
 A295DE,N266GA,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2266,
 A29980,N267FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66866,2023
+A29982,N267FG,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,172S12725,2021
 A299D0,N267JK,EVOT,Lancair,Evolution Turbine,Lancair Evolution Turbine,1,Private,,067,2016
 A299D6,N267JR,B762,Boeing,767-238(ER),Boeing 767-238(ER),0,MSP Recovery,,23402,1986
 A29AF3,N267WA,GLF5,Gulfstream,V,Gulfstream V,1,Private,,622,2000

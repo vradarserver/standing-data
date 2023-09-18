@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A1945A,N200ZZ,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BC-64,1979
+A197D0,N201XJ,CRJ2,Canadair,CRJ-200ER,Canadair CRJ-200ER,0,XO,XOJ,7187,1997
 A19AB1,N202NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,5440,2012
 A19B2F,N202TW,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,2202,2022
+A19BB1,N202ZA,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Zenflight,XEN,186,
 A19E50,N203MW,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5333,1997
 A19E68,N203NV,A320,Airbus,A320-214,Airbus A320-214,0,Asian Air,AAZ,5384,2012

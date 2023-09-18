@@ -3,6 +3,7 @@
 3FF106,D-MSSQ,EV97,Evektor,EuroStar,Evektor EuroStar,1,Private,,,
 3FF28D,D-MSPR,S450,Aero-East-Europe,SILA-450C,Aero-East-Europe SILA-450C,1,Private,,130509-AEE-0012,
 3FF2F7,D-MMRP,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,067,
+3FF32F,D-MCFT,ULAC,Vidor,Champion V,Vidor Champion V,1,Private,,,
 3FF345,D-MRKF,COY2,Rans,S-6TD Coyote 2,Rans S-6TD Coyote 2,1,Private,,1294703,
 3FF34E,D-MHLE,MT,AutoGyro,MT-03,AutoGyro MT-03,1,Private,,,
 3FF384,D-MNUT,WT9,Aerospool,WT-9 Dynamic,Aerospool WT-9 Dynamic,1,Private,,DY520/2014,
@@ -37,11 +38,13 @@
 3FF80D,D-MKSO,SD4,Tomark,SD-4 Viper,Tomark SD-4 Viper,1,Private,,,
 3FF829,D-MARZ,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,,
 3FF8D2,D-MZCT,FDCT,Flight Design,CT,Flight Design CT,1,Private,,,
+3FF8E1,D-MEAS,FDCT,Flight Design,CTLSi,Flight Design CTLSi,1,Private,,,
 3FF8E3,D-MMHB,FDCT,Flight Design,CTLS,Flight Design CTLS,1,Private,,,
 3FF8EE,D-MBIX,ULAC,Breezer Aircraft,CR,Breezer CR,1,Private,,UL98,
 3FF8F9,D-MBPW,AP22,Aeroprakt,A-22 Foxbat,Aeroprakt A-22 Foxbat,1,Private,,,
 3FF907,D-MRUG,PNR2,Alpi,Pioneer 200,Alpi Pioneer 200,1,Private,,,
 3FF92A,D-MMBP,C42,Ikarus,C-42 Bison,Ikarus C-42 Bison,1,Private,,0603-6799,
+3FF92D,D-MRWY,AP22,Aeroprakt,A-22 Foxbat,Aeroprakt A-22 Foxbat,1,Private,,576,
 3FF94C,D-MKMH,LGND,AEROPILOT,Legend 600,AEROPILOT Legend 600,0,Dreisam-Air,,2081,2021
 3FF976,D-MWGJ,C42,Ikarus,C-42,Ikarus C-42,1,Private,,,
 3FF99A,D-MVBW,BW60,Blackwing,BW-600 RG,Blackwing BW-600 RG,1,Private,,,
@@ -49,6 +52,7 @@
 3FF9BD,D-MVLC,VL3,Aveko,VL-3 Flamingo,Aveko VL-3 Flamingo,1,Private,,,
 3FF9C2,D-MHRV,RV4,Van'S,RV-4,Van'S RV-4,1,Private,,,
 3FF9C8,D-MPCR,BW6T,Blackwing,BW 635RG,Blackwing BW 635RG,1,Private,,18,2022
+3FF9F0,D-MWTN,WT9,Aerospool,WT-9 Dynamic,Aerospool WT-9 Dynamic,1,Private,,DY 752D,
 3FFA08,D-MKAG,MT,AutoGyro,MTOSport,AutoGyro MTOSport,1,Private,,,
 3FFA0B,D-MKDY,WT9,Aerospool,WT-9 Dynamic,Aerospool WT-9 Dynamic,1,Private,,,
 3FFA0F,D-MEEC,NG5,BRM Aero,Bristell LSA,BRM Aero Bristell LSA,1,Private,,536/2020,2020
@@ -57,6 +61,8 @@
 3FFAD0,D-MYSK,MM24,Magni,M-24 Orion,Magni M-24 Orion,1,Private,,,
 3FFAD7,D-MMTJ,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,,
 3FFB07,D-MKMJ,VL3,JMB Aircraft,VL-3 Evolution,JMB Aircraft VL-3 Evolution,1,Private,,,
+3FFB0C,D-MYYV,SAVG,Zlin Aviation,Savage,Zlin Aviation Savage,1,Private,,0261,
 3FFB0E,D-MPOC,AP32,Aeroprakt,A-32,Aeroprakt A-32,1,Private,,,
 3FFB10,D-MEML,AP32,Aeroprakt,A-32 Vixxen,Aeroprakt A-32 Vixxen,1,Private,,265,
+3FFB2D,D-MOEV,G70,Groppo,G-70,Groppo G-70,1,Private,,,2023
 3FFB45,D-MYSA,EV97,Evektor,EV-97 EuroStar,Evektor EV-97 EuroStar,1,Private,,2008-3225,

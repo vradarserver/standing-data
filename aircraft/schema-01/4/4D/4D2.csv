@@ -120,6 +120,7 @@
 4D2385,9H-VUX,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,62337,2022
 4D2386,9H-VUY,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,65896,2022
 4D2387,9H-VUZ,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,62339,2022
+4D2388,9H-JCA,BE20,Beech,200 King Air,Beech 200 King Air,0,Luxwing Ltd.,LWG,BB-716,2022
 4D2389,9H-JFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Operations Malta,FJO,55020151,
 4D238A,9H-KFX,E550,Embraer,Legacy 500,Embraer Legacy 500,0,Flexjet Operations Malta,FJO,55020152,
 4D238B,9H-LFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Operations Malta,FJO,55020154,
@@ -323,6 +324,7 @@
 4D2499,9H-CGI,A321,Airbus,A321-231(F),Airbus A321-231(F),0,SmartLynx Malta,LYX,2303,2004
 4D24A0,9H-VCY,CL35,Bombardier,BD-100-1A10 Challenger 350,Bombardier BD-100-1A10 Challenger 350,0,Vistajet,VJT,20609,
 4D24A1,9H-VCZ,CL35,Bombardier,BD-100-1A10 Challenger 350,Bombardier BD-100-1A10 Challenger 350,0,Vistajet,VJT,20614,
+4D24A5,9H-DRA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,42827,2017
 4D24A6,9H-ERI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Airlines,ART,6408,2017
 4D24A7,9H-GEM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,42830,2017
 4D24A8,9H-HYA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,64606,2018
@@ -363,7 +365,9 @@
 4D24ED,9H-DNAG,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Sparfell Malta,,20954,2023
 4D24EE,9H-SWM,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,04113,2009
 4D24F0,9H-SOP,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,SkyAlps,SWU,4242,2009
+4D24F1,9H-SFG,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9609,
 4D24F2,9H-LWA,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Luxwing Ltd.,LWG,4088,2004
 4D24F3,9H-PMN,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,1,Private,,525A0067,2002
 4D24F6,9H-NATE,GA5C,Gulfstream,G500,Gulfstream G500,0,SPARFELL Malta,QFX,72047,2019
 4D24FB,9H-MGM,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,0,Edinburgh Air Charter,EDC,560-5128,2000
+4D24FD,9H-MFC,GLF6,Gulfstream,G650,Gulfstream G650,0,TAG Aviation Malta,TEU,6534,

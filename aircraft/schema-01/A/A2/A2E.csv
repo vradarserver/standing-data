@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A2E110,N285FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63140,2022
+A2E4AB,N286EB,PRM1,Hawker Beechcraft,390 Premier IA,Hawker Beechcraft 390 Premier IA,1,Private,,RB-286,2011
+A2E87E,N287FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63138,2022
 A2EBB9,N288AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2288,2023
 A2EFEC,N289FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63136,2022

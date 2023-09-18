@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+C01022,C-FGCV,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Chartright Air,HRT,20042,2005
+C012A5,C-FHBO,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,32768,2005
 C013D7,C-FHNI,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,,
 C013EF,C-FHOG,C206,Bernier,G-BAIR 6T Turbine Stationair,Bernier G-BAIR 6T Turbine Stationair,1,Private,,002,2002
 C01590,C-GEXB,A321,Airbus,A321-211,Airbus A321-211,0,Air Transat,TSC,2599,2005
@@ -9,6 +11,7 @@ C01CBE,C-FKWZ,DA40,Diamond,DA 40 NG Star,Diamond DA 40 NG Star,1,Private,,40.NC2
 C01D2D,C-FLBG,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,43973,2019
 C01D72,C-FLDX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,61803,2019
 C01DAC,C-FLGD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,43957,2020
+C01DCB,C-FLHI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,61804,2019
 C01DF4,C-FLIX,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37238,2010
 C01E11,C-FLKA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,64943,2019
 C01E19,C-FLKI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,64944,2019

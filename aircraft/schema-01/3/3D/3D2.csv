@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3D20F5,D-EKSR,DR40,Robin,DR400/180S Regent,Robin DR400/180S Regent,1,Private,,2035,1991
 3D21D3,D-ELBF,BR23,BRM,Aero Bristell B23,BRM Aero Bristell B23,1,Private,,,
+3D221A,D-ELDY,PA46,Piper,PA-46-350P Malibu Mirage,Piper PA-46-350P Malibu Mirage,1,Private,,4636305,
 3D2280,D-ELHW,SR20,Cirrus,SR20 G6,Cirrus SR20 G6,1,Private,,2553,2020
 3D22BB,D-ELKD,PA46,Piper,PA-46-M350,Piper PA-46-M350,1,Private,,4636805,2022
 3D2518,D-EMHK,SR22,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,2304,

@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A724C3,N56C,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5396,2012
+A7277D,N560FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20886,2021
+A728E9,N560WL,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,1,Private,,560-5012,1998
 A72B25,N561FG,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,172S12909,
 A72C3D,N561SM,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,8703,2022
