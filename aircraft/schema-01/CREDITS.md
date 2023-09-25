@@ -10,7 +10,7 @@ Please note that credit files are updated less frequently than the data files.
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,124 |
 | `aircraftenthusiast2000` | 1,098 |
-| `科罗娜`                    | 997 |
+| `科罗娜`                    | 998 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
@@ -47,6 +47,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sevetamryn`             | 3 |
 | `Sizamonit`              | 3 |
 | `soja`                   | 3 |
+| `Bobby Mhor`             | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
 | `Manny`                  | 2 |

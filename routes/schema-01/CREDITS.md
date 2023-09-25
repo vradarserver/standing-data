@@ -6,17 +6,17 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 86,908 |
-| `vand`                         | 50,371 |
-| `dirkhh`                       | 47,402 |
-| `Pascal Ensinck`               | 26,085 |
+| `Piet Delagrense`              | 87,140 |
+| `vand`                         | 51,260 |
+| `dirkhh`                       | 48,196 |
+| `Pascal Ensinck`               | 26,094 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
-| `sib64`                        | 15,017 |
+| `sib64`                        | 15,042 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
-| `科罗娜`                          | 11,345 |
+| `科罗娜`                          | 11,737 |
 | `bigrossco`                    | 10,802 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 7,868 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,217 |
+| `Markus`                       | 4,222 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,048 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 963 |
+| `Daniel.cornejo.campos`        | 965 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -122,7 +122,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `Joaquin`                      | 348 |
+| `Joaquin`                      | 349 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -522,6 +522,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Hugo BOUDET`                  | 8 |
 | `jane`                         | 8 |
 | `Jordi`                        | 8 |
+| `Luo Tianyi`                   | 8 |
 | `magicus`                      | 8 |
 | `malachi`                      | 8 |
 | `Mark Rennie`                  | 8 |
@@ -548,7 +549,6 @@ Please note that credit files are updated less frequently than the data files.
 | `James Zhao`                   | 7 |
 | `Janbu09`                      | 7 |
 | `loplo`                        | 7 |
-| `Luo Tianyi`                   | 7 |
 | `Maredzki`                     | 7 |
 | `Martin Ivanov`                | 7 |
 | `PDXMike`                      | 7 |
