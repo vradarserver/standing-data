@@ -11,6 +11,7 @@
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
 7811BC,B-005D,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
+7811BF,B-005G,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 7811D5,B-3277,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Brilliant Jet,TXJ,6159,2014
 7811E8,B-3288,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Sino Jet (Beijing) Company,JBE,6261,2016
 7811E9,B-3270,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,279,2016
@@ -334,6 +335,7 @@
 781D48,B-328N,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Air China,CCA,10713,2022
 781D49,B-328P,A20N,Airbus,A320-251N,Airbus A320-251N,0,Air China,CCA,10604,2021
 781D50,B-328Q,A359,Airbus,A350-941,Airbus A350-941,0,Air China,CCA,537,2021
+781D53,B-652J,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Business Aviation Asia,UNA,4193,2010
 781D57,B-221L,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,JD Airlines,JDL,32687,2007
 781D63,B-652K,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Southern Airlines,CSN,181,2022
 781D64,B-652E,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,ZYB Lily Jet,MZT,6480,
