@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A0116B,N103SB,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,79,
+A01500,N104QT,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,018,2003
 A018F6,N105TF,B350,Beech,King Air 360C,Beech King Air 360C,1,Private,,FM-105,2022
 A01EFD,N107CX,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Volato,,42000230,2022

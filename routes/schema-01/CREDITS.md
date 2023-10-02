@@ -6,18 +6,18 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 87,140 |
-| `vand`                         | 51,260 |
-| `dirkhh`                       | 48,196 |
+| `Piet Delagrense`              | 87,331 |
+| `vand`                         | 51,588 |
+| `dirkhh`                       | 48,707 |
 | `Pascal Ensinck`               | 26,094 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
-| `sib64`                        | 15,042 |
+| `sib64`                        | 15,053 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
-| `科罗娜`                          | 11,737 |
-| `bigrossco`                    | 10,802 |
+| `科罗娜`                          | 12,168 |
+| `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 7,868 |
 | `huebi77`                      | 7,401 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,222 |
+| `Markus`                       | 4,225 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -60,7 +60,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `aircraftenthusiast2000`       | 1,314 |
+| `aircraftenthusiast2000`       | 1,334 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,145 |
 | `laurent`                      | 1,131 |
@@ -69,7 +69,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Dauren`                       | 1,048 |
+| `Dauren`                       | 1,054 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
 | `Daniel.cornejo.campos`        | 965 |
@@ -109,7 +109,7 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
 | `squawk7000`                   | 431 |
-| `topoguido`                    | 421 |
+| `topoguido`                    | 423 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `britiger`                     | 412 |
@@ -152,7 +152,7 @@ Please note that credit files are updated less frequently than the data files.
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
-| `Skibox`                       | 204 |
+| `Skibox`                       | 205 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
@@ -166,11 +166,11 @@ Please note that credit files are updated less frequently than the data files.
 | `MotherTeresa`                 | 177 |
 | `Vijay Karla`                  | 177 |
 | `kusuriurikun`                 | 176 |
+| `danielaregay`                 | 174 |
 | `jazzbassNick`                 | 174 |
 | `Steven G`                     | 173 |
 | `C Cook`                       | 172 |
 | `AlexH`                        | 171 |
-| `danielaregay`                 | 171 |
 | `Amlink`                       | 170 |
 | `Boiniche`                     | 170 |
 | `fidaeextra`                   | 164 |
@@ -495,6 +495,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Kesha`                        | 9 |
 | `kidshare`                     | 9 |
 | `kinshasha`                    | 9 |
+| `Luo Tianyi`                   | 9 |
 | `Mariusz`                      | 9 |
 | `neko`                         | 9 |
 | `Roberto B`                    | 9 |
@@ -522,7 +523,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Hugo BOUDET`                  | 8 |
 | `jane`                         | 8 |
 | `Jordi`                        | 8 |
-| `Luo Tianyi`                   | 8 |
 | `magicus`                      | 8 |
 | `malachi`                      | 8 |
 | `Mark Rennie`                  | 8 |
