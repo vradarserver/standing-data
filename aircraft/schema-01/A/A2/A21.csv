@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A21109,N232MH,B06,Bell,206L LongRanger,Bell 206L LongRanger,1,Private,,52195,1997
 A213BD,N233AZ,B763,Boeing,767-323(ER)(BDSF),Boeing 767-323(ER)(BDSF),0,Air Transport International,ATN,29430,1998
+A216C4,N2335Z,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Jet Edge,EDG,70149,2023
 A21845,N234KH,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Creekside Logistics LLC,,234,2013
+A21960,N234WR,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-0893,2015
 A21B19,N235AF,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,2235,2022

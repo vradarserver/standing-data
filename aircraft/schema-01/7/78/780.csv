@@ -18,6 +18,7 @@
 7801C6,B-LAA,A333,Airbus,A330-342,Airbus A330-342,0,Cathay Pacific,CPA,669,2005
 7801C7,B-LAB,A333,Airbus,A330-342,Airbus A330-342,0,Cathay Pacific,CPA,673,2005
 78029C,B-5179,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,China Postal Airlines,CYZ,35211,2006
+7802E8,B-5306,B738,Boeing,737NG 85C/W,Boeing 737NG 85C/W,0,China Postal Airlines,CYZ,35052,2007
 780312,B-8161,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4238,2010
 78035E,B-3006,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,Jiangsu Jet,JSU,7443,2000
 780361,B-3007,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,Jiangsu Jet,JSU,7498,2001
@@ -143,6 +144,7 @@
 780C85,B-8213,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Deer Jet Beijing,BDJ,105,2010
 780D3C,B-8309,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Business Aviation Asia,UNA,5475,2014
 780D44,B-8373,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5483,2014
+780DA5,B-3370,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,Jinxiang Airlines,JXX,7950,2003
 780DB8,B-1791,B738,Boeing,737NG 89P/W,Boeing 737NG 89P/W,0,China Eastern Airlines,CES,41474,2015
 780E0A,B-3280,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Sino Jet (Beijing) Company,JBE,14501210,2015
 780E0B,B-3281,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Sino Jet (Beijing) Company,JBE,14501222,2015

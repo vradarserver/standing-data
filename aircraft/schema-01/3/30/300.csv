@@ -34,6 +34,7 @@
 3008AE,I-PBNB,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Leader SRL,LSA,117,
 3008B8,I-HFLY,A109,Leonardo,AW-109 Trekker,Leonardo AW-109 Trekker,0,Hoverfly,,22739,
 3008BD,I-TFAG,P208,Tecnam,P-2008,Tecnam P-2008,0,Tecnam Flight Academy,,,
+3008BF,I-OZZQ,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,1231,
 3008C1,I-TEAP,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9144,
 3008C7,I-LRSS,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,245,
 3008D1,I-BCSO,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Sirio,SIO,298,
@@ -45,6 +46,7 @@
 3008EA,I-CJSN,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0376,2022
 3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,
 3008F2,I-SEAK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Servizi Aerei,SNM,6493,2022
+3008F3,I-YTRK,C551,Cessna,551 Citation IISP,Cessna 551 Citation IISP,1,Private,,551-0412,
 30090D,I-GATC,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,0,Compagnia Aerea Italiana,CPI,73001,
 30091E,I-CEIE,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Eliabruzzo,,9219,
 300920,I-JANI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Eliossola,,4732,
@@ -56,3 +58,4 @@
 300979,I-AVNG,LJ45,Learjet,45,Learjet 45,0,Avionord,,45-395,
 30097A,I-ANIG,GA6C,Gulfstream,G600,Gulfstream G600,0,Compagnia Aerea Italiana,CPI,73111,2023
 30097D,I-CPRI,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,1,Private,,22325,
+300989,I-GCFG,F900,Dassault,Falcon 900,Dassault Falcon 900,0,Italy - Government,,,

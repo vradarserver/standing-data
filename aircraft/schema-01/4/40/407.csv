@@ -257,7 +257,7 @@
 407E32,G-CMJM,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1464,2017
 407E33,G-CMJN,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1471,2017
 407E39,G-NADE,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Cotswold Aviation,,65412,2022
-407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1124,2022
+407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Catreus,VCG,525-1124,2022
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
 407E3F,G-ECLH,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,744,2006
 407E44,G-MSVO,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,0,JPM,,22067,2008
@@ -284,6 +284,7 @@
 407E82,G-RUKI,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,33587,2006
 407E86,G-CMKI,C152,Cessna,152,Cessna 152,1,Private,,15280900,1977
 407E87,G-CMKJ,P28A,Piper,PA-28-161 Warrior II,Piper PA-28-161 Warrior II,1,Private,,28-8416086,
+407E88,G-CMLB,EFOX,Aeropro,Eurofox 3K,Aeropro Eurofox 3K,1,Private,,66523,
 407E8A,G-LKDM,SLG2,Sonaca,S200,Sonaca S200,1,Private,,056,2022
 407E8B,G-JJSN,R44,Robinson,R44 Raven II,Robinson R44 Raven II,0,Heatherway Taverns,,11799,2007
 407E8C,G-MLML,S22T,Cirrus,SR22T,Cirrus SR22T,0,Bayes Aviation,,8876,2022
@@ -310,6 +311,7 @@
 407ED8,G-VEII,A339,Airbus,A330-941,Airbus A330-941,0,Virgin Atlantic,VIR,2029,2023
 407EDE,G-SPEN,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,NIC Property Services,,2157,2022
 407EE4,G-TJPK,A109,AgustaWestland,AW109 SP,AgustaWestland AW109 SP,0,Botany Aviation,,22444,2023
+407EEC,G-UZLP,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11707,2023
 407EF6,G-IVYY,C42,Ikarus,C42 FB100 Bravo,Ikarus C42 FB100 Bravo,1,Private,,42B-7688,2023
 407EF7,G-ETPR,B350,Beech,B300 King Air 350,Beech B300 King Air 350,0,EIS Aircraft,EIS,FL-727,2010
 407F00,G-LZRI,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Centreline,CLF,55020178,2023
@@ -353,6 +355,7 @@
 407F84,G-GHST,C42,Ikarus,C-42,Ikarus C-42,1,Private,,2203-7684,
 407F85,G-LMTB,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1096,2013
 407F89,G-FRGP,A109,Leonardo,AW109SP,Leonardo AW109SP,0,Sloane Aviation,SLN,22447,2023
+407F8E,G-SOVR,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0144,1996
 407F92,G-CMPN,ULAC,Flylight Airsports,Exodus DeltaJet 500 Stingray,Flylight Airsports Exodus DeltaJet 500 Stingray,1,Private,,EA 014,2023
 407F94,G-DHLR,B763,Boeing,767-316(ER)(BCF),Boeing 767-316(ER)(BCF),0,DHL Air UK,DHK,41748,2012
 407F96,G-TUKR,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUI Airways,TOM,37260,2011

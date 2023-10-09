@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 193 |
+| `Piet Delagrense`              | 194 |
 | `EDDG`                         | 61 |
 | `vand`                         | 48 |
 | `DennyCrane`                   | 35 |
@@ -62,6 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 1 |
 | `furkan`                       | 1 |
 | `Gavin-D`                      | 1 |
+| `haydenc2`                     | 1 |
 | `huebi77`                      | 1 |
 | `intelsky`                     | 1 |
 | `JohnL`                        | 1 |

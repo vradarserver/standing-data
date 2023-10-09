@@ -6,7 +6,7 @@
 4D21C8,9H-TJC,B738,Boeing,737-86N,Boeing 737-86N,0,Corendon Air Europe,CXI,38012,2011
 4D21E0,9H-XFW,A319,Airbus,A319-112,Airbus A319-112,0,Hi Fly Malta,HFM,3689,2008
 4D228E,9H-EMU,A320,Airbus,A320-214,Airbus A320-214,0,Airhub Airlines,GJM,1087,1999
-4D22A0,9H-HFA,A333,Airbus,A330-300,Airbus A330-300,0,TUI Airways,TOM,1779,2017
+4D22A0,9H-HFA,A333,Airbus,A330-343,Airbus A330-343,0,Hi Fly Malta,HFM,1779,2017
 4D22C0,9H-LAJ,A320,Airbus,A320-232,Airbus A320-232,0,Lauda Europe,LDA,2288,2004
 4D22D5,9H-SLC,A321,Airbus,A321-211,Airbus A321-211,0,AnadoluJet,THY,4461,2010
 4D22D6,9H-VLK,CL60,Canadair,Challenger 604,Canadair Challenger 604,0,Vistajet,VJT,5443,
@@ -370,7 +370,10 @@
 4D24F1,9H-SFG,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9609,
 4D24F2,9H-LWA,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Luxwing Ltd.,LWG,4088,2004
 4D24F3,9H-PMN,C25A,Cessna,525A Citation CJ2,Cessna 525A Citation CJ2,1,Private,,525A0067,2002
+4D24F4,9H-MZKM,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Skyfirst,KFE,272,
 4D24F6,9H-NATE,GA5C,Gulfstream,G500,Gulfstream G500,0,SPARFELL Malta,QFX,72047,2019
 4D24FB,9H-MGM,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,0,Edinburgh Air Charter,EDC,560-5128,2000
 4D24FD,9H-MFC,GLF6,Gulfstream,G650,Gulfstream G650,0,TAG Aviation Malta,TEU,6534,
+4D24FF,9H-MFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Operations Malta,FJO,55020189,2023
 4D2508,9H-BRU,B738,Boeing,737-8JP,Boeing 737-8JP,0,AeroItalia,AEZ,39419,2011
+4D2516,9H-PAUL,DH8D,De Havilland Canada,DHC-8-Q402 Dash 8,De Havilland Canada DHC-8-Q402 Dash 8,0,SkyAlps,SWU,4255,2009

@@ -152,6 +152,7 @@
 440841,OE-GDF,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Sparfell Luftfahrt,LDX,50500325,2015
 4408A2,OE-IJS,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7410,2016
 4408C9,OE-IJU,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7460,2016
+4408F9,OE-SMG,BALL,Ultramagic,M-160,Ultramagic M-160,1,Private,,160/81,
 44093E,OE-IJW,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7580,2017
 4409C0,OE-IVA,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6970,2015
 440A56,OE-IOC,A320,Airbus,A320-200,Airbus A320-200,0,DVB Bank,,3581,2008
@@ -306,6 +307,7 @@
 440D72,OE-FSB,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.007,2015
 440D73,OE-LLS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Skyemotion,,70138,2022
 440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
+440D95,OE-IXL,B738,Boeing,737-8BK(BCF),Boeing 737-8BK(BCF),0,ASL Airlines Ireland,ABR,33023,2005
 440D98,OE-HLB,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Avcon Jet,AOJ,55010108,2023
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
 440D9E,OE-LVM,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,The Flying Bulls,,493,2022
