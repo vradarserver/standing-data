@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 87,553 |
+| `Piet Delagrense`              | 87,649 |
+| `dirkhh`                       | 54,012 |
 | `vand`                         | 51,588 |
-| `dirkhh`                       | 50,857 |
-| `Pascal Ensinck`               | 26,094 |
+| `Pascal Ensinck`               | 26,097 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,506 |
-| `sib64`                        | 15,077 |
+| `sib64`                        | 15,097 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
-| `科罗娜`                          | 12,449 |
+| `科罗娜`                          | 12,816 |
 | `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 7,870 |
+| `Neboknede`                    | 7,872 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,928 |
@@ -28,7 +28,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,251 |
+| `Markus`                       | 4,257 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -47,7 +47,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Gavin-D`                      | 1,910 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
-| `verbatim`                     | 1,696 |
+| `verbatim`                     | 1,708 |
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
