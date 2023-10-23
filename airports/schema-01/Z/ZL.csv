@@ -1,9 +1,11 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 ZLAK,Ankang Fuqiang Airport,ZLAK,AKA,Ankang,CN,32.707378,108.935750,860
 ZLDH,Dunhuang Airport,ZLDH,DNH,Dunhuang,CN,40.094000,94.481800,3688
+ZLDL,Delingha Airport,ZLDL,HXD,"Haixi, Qinghai",CN,37.128611,97.266389,9390
 ZLGL,Golog Maqin Airport,ZLGL,GMQ,"Golog Tibetan Autonomous Prefecture, Qinghai Province",CN,34.421720,100.301510,12428
 ZLGM,Golmud Airport,ZLGM,GOQ,"Golmud, Qinghai province",CN,36.400556,94.786111,9324
 ZLGY,Guyuan Liupanshan Airport,ZLGY,GYU,Guyuan,CN,36.078889,106.216944,5696
+ZLHB,Haibei Qilian Airport,ZLHB,HBQ,"Haibei, Qinghai",CN,38.008611,100.642500,10377
 ZLHX,Huatugou Airport,ZLHX,HTT,Qinghai,CN,38.203333,90.841667,9662
 ZLHZ,Hanzhong Chenggu Airport,ZLHZ,HZG,Hanzhong,BE,33.136667,107.202222,1655
 ZLIC,Yinchuan,ZLIC,INC,Yinchuan,CN,38.481944,106.009167,3600

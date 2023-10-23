@@ -357,6 +357,7 @@
 4D24D2,9H-SWG,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,04736,2011
 4D24D4,9H-WDV,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11268,2023
 4D24D5,9H-WDW,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11460,2023
+4D24D8,9H-WDZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11487,2023
 4D24DC,9H-DINKY,P180,Piaggio,P-180 Avanti II,Piaggio P-180 Avanti II,1,Private,,1160,
 4D24DE,9H-NEF,A20N,Airbus,A320-251N,Airbus A320-251N,0,Air Malta,AMC,11518,2023
 4D24E1,9H-DCGB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,DC-Aviation,,,
@@ -376,4 +377,6 @@
 4D24FD,9H-MFC,GLF6,Gulfstream,G650,Gulfstream G650,0,TAG Aviation Malta,TEU,6534,
 4D24FF,9H-MFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Operations Malta,FJO,55020189,2023
 4D2508,9H-BRU,B738,Boeing,737-8JP,Boeing 737-8JP,0,AeroItalia,AEZ,39419,2011
+4D250C,9H-EMB,E55P,Embraer,EMB-550,Embraer EMB-550,0,Private,,,
+4D250D,9H-FLYIN,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,TAG Aviation Malta,TEU,50500754,2023
 4D2516,9H-PAUL,DH8D,De Havilland Canada,DHC-8-Q402 Dash 8,De Havilland Canada DHC-8-Q402 Dash 8,0,SkyAlps,SWU,4255,2009

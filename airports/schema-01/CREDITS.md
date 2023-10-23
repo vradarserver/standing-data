@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 194 |
+| `Piet Delagrense`              | 195 |
 | `EDDG`                         | 61 |
 | `vand`                         | 48 |
+| `科罗娜`                          | 44 |
 | `DennyCrane`                   | 35 |
-| `科罗娜`                          | 28 |
 | `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |
 | `viista`                       | 13 |

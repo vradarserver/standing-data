@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 8A0807,PK-FGW,BK17,MBB Kawasaki,BK-117,MBB Kawasaki BK-117,1,Private,,7004,
+8A0808,PK-DAS,B412,Nusantara,NBell-412,Nusantara NBell-412,1,Private,,34016,1991
 8A0827,PK-LDJ,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air,BTK,40061,2014
 8A0830,PK-LDK,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air,BTK,39875,2015
 8A0849,PK-WJT,AT76,ATR,72-600,ATR 72-600,0,Wings Air,WON,1179,2014
@@ -67,4 +68,5 @@
 8A0987,PK-TLD,A320,Airbus,A320-214,Airbus A320-214,0,TransNusa,TNU,2820,2006
 8A0988,PK-TJA,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,TransNusa,TNU,186,2022
 8A098C,PK-AZQ,A320,Airbus,A320-216,Airbus A320-216,0,Indonesia AirAsia,AWQ,3875,2009
+8A09B9,PK-DBM,AS50,Airbus,AS350 B3E (H125),Airbus AS350 B3E (H125),1,Private,,9292,
 8A09C2,PK-TJB,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,TransNusa,TNU,192,2022

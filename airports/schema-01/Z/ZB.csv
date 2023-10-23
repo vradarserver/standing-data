@@ -1,12 +1,15 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 ZBAA,Beijing Capital International Airport,ZBAA,PEK,Beijing,CN,40.080101,116.584999,116
 ZBAD,Beijing Daxing International Airport,ZBAD,PKX,Beijing,CN,39.509167,116.410556,98
+ZBAL,Alxa Left Banner Bayanhot Airport,ZBAL,AXF,Bayanhot,CN,38.748333,105.587778,4577
+ZBAR,Alxa Right Banner Badanjilin Airport,ZBAR,RHT,Badanjilin,CN,39.226111,101.441389,4649
 ZBCD,Chengde Puning Airport,ZBCD,CDE,Chengde,CN,41.122500,118.073889,2293
 ZBCF,Chifeng Airport,ZBCF,CIF,Chifeng,CN,42.235000,118.908000,0
 ZBCZ,Changzhi Airport,ZBCZ,CIH,Changzhi,CN,36.247500,113.126000,0
 ZBDH,Qinhuangdao Beidaihe Airport,ZBDH,BPE,Qinhuangdao,CN,39.666389,119.058889,46
 ZBDS,Ordos Ejin Horo Airport,ZBDS,DSN,Ordos,CN,39.490000,109.861389,4557
 ZBDT,Datong Airport,ZBDT,DAT,Datong,CN,40.060299,113.482002,3442
+ZBEN,Ejina Banner Taolai Airport,ZBEN,EJN,Ejin Banner,CN,42.012500,42.012500,3068
 ZBER,Erenhot Saiwusu International Airport,ZBER,ERL,"Erenhot,",CN,43.422500,112.096667,3301
 ZBES,Arxan Yi'ershi Airport,ZBES,YIE,Yi'ershi,CN,47.310556,119.911944,2925
 ZBHD,Handan Airport,ZBHD,HDG,Handan,CN,36.525833,114.425556,229
@@ -19,11 +22,12 @@ ZBLL,Lüliang Airport,ZBLL,LLV,Lüliang,CN,37.683333,111.142778,3826
 ZBMZ,Manzhouli Xijiao Airport,ZBMZ,NZH,Manzhouli,CN,49.566667,117.330000,0
 ZBNY,Beijing Nanyuan Airport,ZBNY,NAY,Beijing,CN,39.782799,116.388001,0
 ZBOW,Baotou Airport,ZBOW,BAV,Baotou,CN,40.560001,109.997002,3321
+ZBSG,Shuozhou Zirun Airport,ZBSG,SZH,"Shuozhou, Shanxi",CN,39.474720,112.596940,3281
 ZBSH,Shanhaiguan Airport,ZBSH,SHP,Qinhuangdao,CN,39.968102,119.731003,30
 ZBSJ,Shijiazhuang Zhengding Airport,ZBSJ,SJW,Shijiazhuang,CN,38.280701,114.696999,233
+ZBSN,Tangshan Sannühe Airport,ZBSN,TVS,"Tangshan, Hebei",CN,39.717778,118.003333,40
 ZBTJ,Tianjin Binhai International Airport,ZBTJ,TSN,Tianjin,CN,39.124401,117.346001,10
 ZBTL,Tongliao Airport,ZBTL,TGO,Tongliao,CN,43.556700,122.200000,0
-ZBTS,Tangshan Sannühe Airport,ZBTS,TVS,"Tangshan,Hebei Province",CN,39.717778,118.003333,40
 ZBUC,Ulanqab Jining Airport,ZBUC,UCB,Ulanqab,CN,41.129722,113.108056,4622
 ZBUH,Wuhai Airport,ZBUH,WUA,Wuhai,CN,39.793400,106.799300,3650
 ZBUL,Ulanhot Airport,ZBUL,HLH,Ulanhot,CN,46.133333,122.800000,0
