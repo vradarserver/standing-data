@@ -6,8 +6,8 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 87,894 |
-| `dirkhh`                       | 55,229 |
+| `Piet Delagrense`              | 88,205 |
+| `dirkhh`                       | 55,651 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,115 |
 | `EDDG`                         | 24,170 |
@@ -15,8 +15,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`           | 16,506 |
 | `sib64`                        | 15,104 |
 | `Lanorge`                      | 15,001 |
+| `科罗娜`                          | 13,291 |
 | `Jon Fear`                     | 13,207 |
-| `科罗娜`                          | 13,145 |
 | `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 7,873 |
@@ -41,7 +41,7 @@ Please note that credit files are updated less frequently than the data files.
 | `EGPD1701`                     | 2,240 |
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
-| `nik`                          | 2,162 |
+| `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `Gavin-D`                      | 1,911 |
@@ -101,7 +101,7 @@ Please note that credit files are updated less frequently than the data files.
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
-| `Santi_levt`                   | 515 |
+| `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 486 |
 | `shisha34`                     | 472 |
@@ -117,7 +117,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
 | `Avioradar.com`                | 396 |
-| `Cristian Amaya`               | 394 |
+| `Cristian Amaya`               | 395 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
@@ -129,7 +129,7 @@ Please note that credit files are updated less frequently than the data files.
 | `HermanZA`                     | 320 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
-| `kirkmayers`                   | 306 |
+| `kirkmayers`                   | 309 |
 | `Marek Krawczyk`               | 305 |
 | `Gregory G Harding`            | 297 |
 | `Kanok`                        | 288 |
@@ -159,8 +159,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Alex Bodle`                   | 195 |
 | `frdosdane`                    | 190 |
 | `IndoSpotter`                  | 190 |
+| `Alexey`                       | 186 |
 | `stuartroy`                    | 186 |
-| `Alexey`                       | 185 |
 | `aviatic`                      | 182 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |

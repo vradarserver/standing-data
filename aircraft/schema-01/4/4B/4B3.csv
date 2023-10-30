@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4B348F,HB-TXN,C152,Cessna,152,Cessna 152,1,Private,,15285057,
 4B377D,HB-VAJ,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,1,Private,,50500631,2021
+4B3810,HB-VGA,PC24,Pilatus,PC-24,Pilatus PC-24,0,Pilatus Flugzeugwerke,PCH,,
 4B3819,HB-VGJ,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,258,
 4B386D,HB-VJP,C55B,Cessna,550 Citation II,Cessna 550 Citation II,0,Lions Air,,550-1037,2002
 4B38BE,HB-VMS,C680,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0326,2022

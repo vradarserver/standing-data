@@ -3,6 +3,7 @@ AE60E7,,V22,Bell-Boeing,V-22 Osprey,Bell-Boeing V-22 Osprey,0,United States Mari
 AE6226,18-21026,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Air Force,AIO,18-21026,
 AE636E,18-21030,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Army,,,
 AE63B1,15-46069,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,United States Air Force,AIO,41986,2022
+AE63B2,15-46070,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41890,2022
 AE63B4,20-46072,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41892,2022
 AE63B5,20-46073,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41893,2022
 AE63B8,20-46076,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41896,2022
@@ -21,6 +22,7 @@ AE67FA,VARIOUS,P8,Boeing,P-8A Poseidon (737-8FV),Boeing P-8A Poseidon (737-8FV),
 AE6808,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE6811,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE681C,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
+AE6822,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE6834,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE6842,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE6858,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
@@ -41,6 +43,7 @@ AE6BA8,169455,V22,Bell-Boeing,CMV-22B Osprey,Bell-Boeing CMV-22B Osprey,0,US Nav
 AE6BC9,13-20638,H60,Sikorsky,MH-60M,Sikorsky MH-60M,0,United States Army,,,
 AE6BD3,85-0064,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,United States Air Force,AIO,24,
 AE6BEE,86-0105,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,United States Air Force,AIO,65,1986
+AE6BF9,86-0119,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Command,RCH,79,1986
 AE6C14,170272,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5925,
 AE6C15,170273,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States - Marine Corps,,5929,
 AE6C16,170724,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5929,2022

@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A2D1CD,N281BB,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5906,2012
 A2D1E9,N281CE,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,1,Private,,2243,2022
 A2D234,N281FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66254,2022
 A2D25E,N281GX,A320,Airbus,A320-214,Airbus A320-214,0,Global X,GXA,2830,2006
@@ -8,5 +9,6 @@ A2D576,N282AN,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,9129,2023
 A2D5A0,N282CE,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Gulfstream Aerospace,GLF,2259,
 A2D926,N283AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2283,2023
 A2D939,N283B,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,1,Private,,20252,2008
+A2DADF,N283TX,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Summit Aviation,,50500626,2021
 A2DD33,N284DS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9617,2014
 A2DD59,N284FE,B763,Boeing,767-300F,Boeing 767-300F,0,Delta Air Lines,DAL,63141,2022

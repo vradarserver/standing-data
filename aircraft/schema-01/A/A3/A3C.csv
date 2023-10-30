@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A3C1D2,N341JE,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Jet Edge,EDG,5876,2011
+A3C53F,N342FF,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5342,2011
 A3C54F,N342FX,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Flexjet,LXJ,55010110,2023
 A3C566,N342GV,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500718,2022
 A3C589,N342JE,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5956,2013

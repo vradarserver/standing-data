@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 40800C,G-WNGM,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,0,Wingmen,,1609,2016
+40801C,G-LXRY,A139,Leonardo,AW139,Leonardo AW139,0,Castle Aviation,CSJ,31708,2015
+408049,G-DHMA,B77L,Boeing,777-F,Boeing 777-F,0,DHL Air UK,DHK,66079,2019
 40804B,G-GOMC,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9360,2023

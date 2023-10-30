@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 1,985 |
+| `Peter Hutt`             | 2,044 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,196 |
+| `aircraftenthusiast2000` | 1,211 |
 | `Andrew`                 | 1,124 |
-| `科罗娜`                    | 1,039 |
+| `科罗娜`                    | 1,044 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
@@ -35,10 +35,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `Seb Gray`               | 7 |
+| `rikgale`                | 5 |
 | `struart`                | 5 |
 | `darjes`                 | 4 |
 | `neslin`                 | 4 |
-| `rikgale`                | 4 |
 | `soja`                   | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
