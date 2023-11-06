@@ -16,6 +16,7 @@
 440053,OE-ICK,A320,Airbus,A320 214,Airbus A320 214,0,easyJet Europe,EJU,5020,2011
 440057,OE-IVE,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7132,2016
 440058,OE-LYA,B763,Boeing,767-3Q8ER(BDSF),Boeing 767-3Q8ER(BDSF),0,DHL Air Austria,DHA,27686,2000
+440059,OE-LYC,B763,Boeing,767-304ER(BDSF),Boeing 767-304ER(BDSF),0,DHL Air Austria,DHA,29137,1998
 440062,OE-IVF,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7177,2016
 440065,OE-LQZ,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,3059,2007
 440066,OE-DHU,P28A,Piper,PA-28-151 Cherokee Warrior,Piper PA-28-151 Cherokee Warrior,1,Private,,28-7415449,
@@ -310,6 +311,7 @@
 440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
 440D95,OE-IXL,B738,Boeing,737-8BK(BCF),Boeing 737-8BK(BCF),0,ASL Airlines Ireland,ABR,33023,2005
 440D98,OE-HLB,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Avcon Jet,AOJ,55010108,2023
+440D99,OE-LRC,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,0,MJet,MJF,72030,
 440D9B,OE-LOE,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Sparfell Luftfahrt,LDX,70022,
 440D9E,OE-LVM,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,The Flying Bulls,,493,2022
 440DA1,OE-LHC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Skyside,,9606,

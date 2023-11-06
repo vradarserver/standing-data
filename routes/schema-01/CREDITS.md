@@ -6,8 +6,8 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 88,205 |
-| `dirkhh`                       | 55,651 |
+| `Piet Delagrense`              | 93,558 |
+| `dirkhh`                       | 62,672 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,115 |
 | `EDDG`                         | 24,170 |
@@ -15,20 +15,20 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`           | 16,506 |
 | `sib64`                        | 15,104 |
 | `Lanorge`                      | 15,001 |
-| `科罗娜`                          | 13,291 |
+| `科罗娜`                          | 14,055 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 7,873 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `McBridden`                    | 5,928 |
+| `McBridden`                    | 5,940 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,842 |
 | `elljay`                       | 4,631 |
+| `Markus`                       | 4,486 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `Markus`                       | 4,259 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -44,7 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,911 |
+| `Gavin-D`                      | 1,924 |
 | `Rosen85`                      | 1,763 |
 | `verbatim`                     | 1,754 |
 | `DuoRadar`                     | 1,749 |
@@ -56,10 +56,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Peter Hutt`                   | 1,434 |
 | `UA4WIY`                       | 1,433 |
 | `Brian Leyton`                 | 1,422 |
+| `aircraftenthusiast2000`       | 1,415 |
 | `Cody E`                       | 1,388 |
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
-| `aircraftenthusiast2000`       | 1,372 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,145 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,054 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 978 |
-| `Daniel.cornejo.campos`        | 966 |
+| `Daniel.cornejo.campos`        | 967 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -83,7 +83,7 @@ Please note that credit files are updated less frequently than the data files.
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 755 |
 | `delcomp`                      | 715 |
-| `wogman`                       | 712 |
+| `wogman`                       | 715 |
 | `foxhunter`                    | 707 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
@@ -119,17 +119,17 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar.com`                | 396 |
 | `Cristian Amaya`               | 395 |
 | `trabin`                       | 393 |
+| `Joaquin`                      | 367 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `Joaquin`                      | 349 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
+| `kirkmayers`                   | 318 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
-| `kirkmayers`                   | 309 |
 | `Marek Krawczyk`               | 305 |
 | `Gregory G Harding`            | 297 |
 | `Kanok`                        | 288 |
@@ -146,12 +146,12 @@ Please note that credit files are updated less frequently than the data files.
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
 | `spudjr`                       | 225 |
+| `Skibox`                       | 222 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
-| `rikgale`                      | 214 |
+| `rikgale`                      | 215 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
-| `Skibox`                       | 209 |
 | `Big G`                        | 207 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
@@ -159,14 +159,14 @@ Please note that credit files are updated less frequently than the data files.
 | `Alex Bodle`                   | 195 |
 | `frdosdane`                    | 190 |
 | `IndoSpotter`                  | 190 |
-| `Alexey`                       | 186 |
+| `Alexey`                       | 187 |
 | `stuartroy`                    | 186 |
 | `aviatic`                      | 182 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |
 | `Vijay Karla`                  | 177 |
 | `kusuriurikun`                 | 176 |
-| `danielaregay`                 | 174 |
+| `danielaregay`                 | 175 |
 | `jazzbassNick`                 | 174 |
 | `Steven G`                     | 173 |
 | `C Cook`                       | 172 |
@@ -505,6 +505,7 @@ Please note that credit files are updated less frequently than the data files.
 | `tnunnster`                    | 9 |
 | `trevor`                       | 9 |
 | `Tupolev`                      | 9 |
+| `Vytautas`                     | 9 |
 | `wek3861`                      | 9 |
 | `130dB`                        | 8 |
 | `Alex Solia`                   | 8 |
