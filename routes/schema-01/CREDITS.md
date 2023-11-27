@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 96,030 |
-| `dirkhh`                       | 73,769 |
+| `Piet Delagrense`              | 96,292 |
+| `dirkhh`                       | 75,406 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,115 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `Phillip Rohmberger`           | 16,506 |
-| `科罗娜`                          | 15,509 |
-| `sib64`                        | 15,345 |
+| `Phillip Rohmberger`           | 16,555 |
+| `科罗娜`                          | 16,052 |
+| `sib64`                        | 15,415 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 8,092 |
+| `Neboknede`                    | 8,095 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,961 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 4,903 |
-| `AP100`                        | 4,842 |
+| `Markus`                       | 4,920 |
+| `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
@@ -48,7 +48,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Rosen85`                      | 1,763 |
 | `verbatim`                     | 1,754 |
 | `DuoRadar`                     | 1,749 |
-| `aircraftenthusiast2000`       | 1,679 |
+| `aircraftenthusiast2000`       | 1,704 |
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
@@ -69,10 +69,10 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Dauren`                       | 1,054 |
+| `Dauren`                       | 1,070 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
-| `Daniel.cornejo.campos`        | 973 |
+| `Daniel.cornejo.campos`        | 974 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
-| `SQ5IRZ`                       | 755 |
+| `SQ5IRZ`                       | 756 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `wogman`                       | 715 |
@@ -119,11 +119,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Cristian Amaya`               | 400 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
-| `Joaquin`                      | 385 |
+| `Joaquin`                      | 388 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `kirkmayers`                   | 332 |
+| `kirkmayers`                   | 337 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -145,8 +145,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
+| `Skibox`                       | 226 |
 | `spudjr`                       | 225 |
-| `Skibox`                       | 224 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
 | `rikgale`                      | 215 |

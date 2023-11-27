@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,074 |
+| `Peter Hutt`             | 2,103 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,241 |
+| `aircraftenthusiast2000` | 1,278 |
 | `Andrew`                 | 1,124 |
-| `科罗娜`                    | 1,060 |
+| `科罗娜`                    | 1,079 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
@@ -21,9 +21,9 @@ Please note that credit files are updated less frequently than the data files.
 | `britiger`               | 53 |
 | `RZH`                    | 49 |
 | `BudBundi`               | 44 |
+| `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
-| `deedeecee`              | 25 |
 | `Rebelvenice2`           | 25 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
@@ -56,6 +56,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
 | `xv2b`                   | 2 |
+| `Alan Edwards`           | 1 |
 | `arcticfox.92`           | 1 |
 | `Avioradar`              | 1 |
 | `Blackeye`               | 1 |

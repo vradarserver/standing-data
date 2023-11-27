@@ -32,6 +32,7 @@
 4246A2,VP-BMG,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67454,2023
 4246A3,VP-BMU,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67455,2023
 4246A4,VP-BUG,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,040,
+4246A5,VP-BSS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,,,5626,2005
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
 424702,VP-CUO,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8575,2018
@@ -41,6 +42,7 @@
 424718,VP-CGS,B738,Boeing,737-86J(WL),Boeing 737-86J(WL),1,Private,,32918,2002
 424724,VP-CCQ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70085,
 424725,VP-CBC,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Global Wings SEZC,,14501198,2013
+424729,VP-CLM,A20N,Airbus,A320-271N ACJ,Airbus A320-271N ACJ,0,Amerer Air,AMK,11624,2023
 424748,VP-CGA,A321,Airbus,A321-231,Airbus A321-231,0,Global,,03458,2008
 42474F,VP-CAF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9686,2015
 42475D,VP-CYA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9628,2014
@@ -125,3 +127,5 @@
 424C3C,M-NWVM,B737,Boeing,737-7GV(BBJ),Boeing 737-7GV(BBJ),1,Private,,36090,2007
 424C3D,M-OUSY,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2261,2023
 424C43,M-LEAD,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
+424C47,M-ARCO,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5355,2012
+424C4B,M-DIVE,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,325,

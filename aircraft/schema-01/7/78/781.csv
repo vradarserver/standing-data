@@ -12,6 +12,7 @@
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
 7811BC,B-005D,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811BF,B-005G,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+7811C2,B-005K,A20N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811C3,B-005L,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 7811D5,B-3277,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Brilliant Jet,TXJ,6159,2014
 7811E8,B-3288,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Sino Jet (Beijing) Company,JBE,6261,2016
@@ -44,7 +45,9 @@
 78147D,B-007A,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 78147E,B-007C,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 78147F,B-007D,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+781480,B-007E,A19N,Airbus,A319-153N,Airbus A319-153N,0,Airbus Industrie,AIB,,
 781481,B-007F,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+781483,B-007H,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 781485,B-007K,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 781486,B-007L,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 781487,B-007M,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
@@ -427,6 +430,7 @@
 781E34,B-222K,B77L,Boeing,777-F,Boeing 777-F,0,China Cargo Airlines,CKK,67771,2022
 781E35,B-32AY,A20N,Airbus,A320-271N,Airbus A320-271N,0,China Express Airlines,HXA,10847,2023
 781E36,B-32AZ,A20N,Airbus,A320-271N,Airbus A320-271N,0,China Express Airlines,HXA,10895,2022
+781E37,B-32C0,A19N,Airbus,A319-153N,Airbus A319-153N,0,Tibet Airlines,TBA,11134,2023
 781E3C,B-652P,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Hongqiao Group,,6387,
 781E3D,B-32C2,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,10918,2022
 781E3E,B-32C3,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,10984,2022
@@ -538,6 +542,7 @@
 781F4B,B-32E5,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11371,2023
 781F4C,B-223N,B77L,Boeing,777-F,Boeing 777-F,0,China Southern Airlines Cargo,CSG,67822,2023
 781F4F,B-91A7,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet (Beijing) Company,JBE,,
+781F51,B-91A8,CRJ2,Canadair,CL-600-2B19 Challenger 850,Canadair CL-600-2B19 Challenger 850,0,Air ToJoy,,8111,2012
 781F5E,B-32EC,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Juneyao Airlines,DKH,11172,2023
 781F65,B-223P,B752,Boeing,757-23N(PCF),Boeing 757-23N(PCF),0,SF Airlines,CSS,30887,2000
 781F6A,B-223Q,B763,Boeing,767-33A(ER)(BCF),Boeing 767-33A(ER)(BCF),0,SF Airlines,CSS,33422,2002
@@ -574,6 +579,7 @@
 781FB5,B-32F3,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11486,2023
 781FB6,B-32F2,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11396,2023
 781FC1,B-919C,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00008,2023
+781FC8,B-32FA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11493,2023
 781FC9,B-32F9,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Chengdu Airlines,UEA,11632,2023
 781FCD,B-32FC,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11376,2023
 781FCE,B-32FD,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11392,2023
