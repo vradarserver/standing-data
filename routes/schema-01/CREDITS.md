@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 96,292 |
-| `dirkhh`                       | 75,406 |
+| `Piet Delagrense`              | 96,557 |
+| `dirkhh`                       | 76,706 |
 | `vand`                         | 51,588 |
-| `Pascal Ensinck`               | 26,115 |
+| `Pascal Ensinck`               | 26,219 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,555 |
-| `科罗娜`                          | 16,052 |
-| `sib64`                        | 15,415 |
+| `科罗娜`                          | 16,174 |
+| `sib64`                        | 15,436 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,806 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 8,095 |
+| `Neboknede`                    | 8,107 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,961 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 4,920 |
+| `Markus`                       | 5,002 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -44,9 +44,9 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,929 |
+| `Gavin-D`                      | 1,930 |
 | `Rosen85`                      | 1,763 |
-| `verbatim`                     | 1,754 |
+| `verbatim`                     | 1,755 |
 | `DuoRadar`                     | 1,749 |
 | `aircraftenthusiast2000`       | 1,704 |
 | `BPfH`                         | 1,611 |
@@ -55,7 +55,7 @@ Please note that credit files are updated less frequently than the data files.
 | `andrw`                        | 1,511 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
-| `UA4WIY`                       | 1,433 |
+| `UA4WIY`                       | 1,434 |
 | `Brian Leyton`                 | 1,422 |
 | `Cody E`                       | 1,388 |
 | `sesom`                        | 1,375 |
@@ -83,8 +83,8 @@ Please note that credit files are updated less frequently than the data files.
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 756 |
 | `foxhunter`                    | 729 |
+| `wogman`                       | 723 |
 | `delcomp`                      | 715 |
-| `wogman`                       | 715 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
@@ -123,7 +123,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `kirkmayers`                   | 337 |
+| `kirkmayers`                   | 343 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -144,8 +144,8 @@ Please note that credit files are updated less frequently than the data files.
 | `KNakada`                      | 247 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
+| `Skibox`                       | 228 |
 | `giofloripa`                   | 227 |
-| `Skibox`                       | 226 |
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
@@ -156,10 +156,10 @@ Please note that credit files are updated less frequently than the data files.
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
-| `Alex Bodle`                   | 195 |
+| `Alex Bodle`                   | 198 |
 | `frdosdane`                    | 190 |
 | `IndoSpotter`                  | 190 |
-| `Alexey`                       | 187 |
+| `Alexey`                       | 188 |
 | `stuartroy`                    | 186 |
 | `aviatic`                      | 182 |
 | `Ich3003`                      | 177 |
