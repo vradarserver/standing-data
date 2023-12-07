@@ -90,6 +90,7 @@
 407C17,G-BLNU,BN2T,Britten Norman,BN2T Islander,Britten Norman BN2T Islander,0,Islander Aircraft,,2195,
 407C18,G-BLNT,BN2T,Britten Norman,BN2T Islander AL.1,Britten Norman BN2T Islander AL.1,0,Islander Aircraft,,2194,1988
 407C1A,G-LAMU,DA62,Diamond,DA 62,Diamond DA 62,1,Private,,62.068,
+407C1B,G-FUJE,SUBA,Fuji,FA-200-180 Aero Subaru,Fuji FA-200-180 Aero Subaru,1,Private,,FA200-091,1971
 407C1D,G-GAMB,GB1,Game,GB-1 GameBird,Game GB-1 GameBird,1,Private,,0029,2021
 407C1E,G-NHVT,A169,AgustaWestland,AW-169,AgustaWestland AW-169,0,NHV Helicopters,NHZ,69134,2021
 407C26,G-TUMU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI Airways,TOM,44651,2021
@@ -336,6 +337,7 @@
 407F1D,G-OUTY,DA50,Diamond,DA50C,Diamond DA50C,1,Private,,50.C.A.A.036,2023
 407F1E,G-RUKL,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,33572,2005
 407F1F,G-RUKM,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,37527,2009
+407F25,G-NGLL,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,LAA 385-15835,2023
 407F2B,G-XWBN,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,609,2023
 407F2C,G-XWBO,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,617,2023
 407F2D,G-XWBP,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,623,2023
@@ -398,4 +400,5 @@
 407FE0,G-JCAN,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Voluxis,VXS,60092,2023
 407FE4,G-EMHF,A109,AgustaWestland,AW109SP Grand New,AgustaWestland AW109SP Grand New,0,East Midlands Helicopters,CTK,22451,2023
 407FEA,G-WUKY,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11505,2023
+407FF1,G-OASB,AT75,ATR,72-500(F),ATR 72-500(F),0,ASL Airlines UK,ABV,0679,2001
 407FF4,G-WUKZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11573,2023
