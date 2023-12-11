@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,133 |
+| `Peter Hutt`             | 2,161 |
 | `OSN`                    | 1,763 |
 | `aircraftenthusiast2000` | 1,292 |
 | `Andrew`                 | 1,125 |
-| `科罗娜`                    | 1,082 |
+| `科罗娜`                    | 1,097 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
@@ -20,7 +20,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Lanorge`                | 75 |
 | `britiger`               | 53 |
 | `RZH`                    | 49 |
-| `BudBundi`               | 45 |
+| `BudBundi`               | 48 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
