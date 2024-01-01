@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 97,207 |
-| `dirkhh`                       | 80,936 |
+| `Piet Delagrense`              | 98,180 |
+| `dirkhh`                       | 86,745 |
 | `vand`                         | 51,588 |
-| `Pascal Ensinck`               | 26,294 |
+| `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
 | `Phillip Rohmberger`           | 16,555 |
-| `科罗娜`                          | 16,234 |
-| `sib64`                        | 15,502 |
+| `科罗娜`                          | 16,313 |
+| `sib64`                        | 15,577 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
-| `bigrossco`                    | 10,808 |
+| `bigrossco`                    | 10,843 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 8,117 |
+| `Neboknede`                    | 8,125 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,961 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,097 |
+| `Markus`                       | 5,222 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -44,17 +44,17 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,934 |
+| `Gavin-D`                      | 1,938 |
+| `verbatim`                     | 1,771 |
+| `aircraftenthusiast2000`       | 1,763 |
 | `Rosen85`                      | 1,763 |
-| `verbatim`                     | 1,763 |
 | `DuoRadar`                     | 1,749 |
-| `aircraftenthusiast2000`       | 1,720 |
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
 | `andrw`                        | 1,511 |
 | `whho`                         | 1,442 |
-| `UA4WIY`                       | 1,435 |
+| `UA4WIY`                       | 1,436 |
 | `Peter Hutt`                   | 1,434 |
 | `Brian Leyton`                 | 1,422 |
 | `Cody E`                       | 1,388 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,152 |
+| `Mark Taylor`                  | 1,157 |
 | `laurent`                      | 1,131 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -71,7 +71,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sergpan2008`                  | 1,098 |
 | `Dauren`                       | 1,070 |
 | `TEMU1086`                     | 998 |
-| `Daniel.cornejo.campos`        | 981 |
+| `Daniel.cornejo.campos`        | 988 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 921 |
 | `Mickael H.`                   | 918 |
@@ -116,14 +116,14 @@ Please note that credit files are updated less frequently than the data files.
 | `nemexia`                      | 411 |
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
-| `Cristian Amaya`               | 403 |
+| `Cristian Amaya`               | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Joaquin`                      | 389 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `kirkmayers`                   | 350 |
+| `kirkmayers`                   | 354 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -157,9 +157,9 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `frdosdane`                    | 190 |
+| `Franck Dosdane`               | 190 |
 | `IndoSpotter`                  | 190 |
-| `Alexey`                       | 188 |
+| `Alexey`                       | 189 |
 | `stuartroy`                    | 186 |
 | `aviatic`                      | 182 |
 | `Ich3003`                      | 177 |
@@ -544,6 +544,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Cleito Vidal`                 | 7 |
 | `Demart`                       | 7 |
 | `dwmpeterson`                  | 7 |
+| `ecbunny`                      | 7 |
 | `emilio`                       | 7 |
 | `hayato`                       | 7 |
 | `hecruz`                       | 7 |
@@ -555,6 +556,7 @@ Please note that credit files are updated less frequently than the data files.
 | `PDXMike`                      | 7 |
 | `poetra`                       | 7 |
 | `qugebert`                     | 7 |
+| `SkyDiscovery`                 | 7 |
 | `Smokey Behr`                  | 7 |
 | `solaruxx`                     | 7 |
 | `steve`                        | 7 |
@@ -593,7 +595,6 @@ Please note that credit files are updated less frequently than the data files.
 | `rch38084`                     | 6 |
 | `sdeath`                       | 6 |
 | `sky92682`                     | 6 |
-| `SkyDiscovery`                 | 6 |
 | `sp060`                        | 6 |
 | `sp9eij`                       | 6 |
 | `sr9046`                       | 6 |
@@ -679,6 +680,7 @@ Please note that credit files are updated less frequently than the data files.
 | `TheRealCapb1`                 | 4 |
 | `Tucker Sizemore`              | 4 |
 | `tuiman84`                     | 4 |
+| `TurboCommander`               | 4 |
 | `William`                      | 4 |
 | `xristostra86`                 | 4 |
 | `youri2b`                      | 4 |
