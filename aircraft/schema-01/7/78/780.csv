@@ -18,6 +18,8 @@
 78019C,B-HLT,A333,Airbus,A330 343X,Airbus A330 343X,0,Cathay Pacific,CPA,439,2001
 7801C6,B-LAA,A333,Airbus,A330-342,Airbus A330-342,0,Cathay Pacific,CPA,669,2005
 7801C7,B-LAB,A333,Airbus,A330-342,Airbus A330-342,0,Cathay Pacific,CPA,673,2005
+780256,B-5159,B738,Boeing,737-85C(BCF)(WL),Boeing 737-85C(BCF)(WL),0,XiamenAir,CXA,35044,2006
+780257,B-5160,B738,Boeing,737-85C(BCF)(WL),Boeing 737-85C(BCF)(WL),0,China Postal Airlines,CYZ,35045,2006
 78029C,B-5179,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,China Postal Airlines,CYZ,35211,2006
 7802E8,B-5306,B738,Boeing,737NG 85C/W,Boeing 737NG 85C/W,0,China Postal Airlines,CYZ,35052,2007
 780300,B-6083,A333,Airbus,A330 343E,Airbus A330 343E,0,China Eastern Airlines,CES,830,2007
@@ -48,6 +50,8 @@
 780547,B-000N,A19N,Airbus,A319-153N,Airbus A319-153N,0,Airbus Industrie,AIB,,
 780548,B-000P,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 78054D,B-000U,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+78054E,B-000V,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+78054F,B-000W,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 780581,B-5443,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36746,2009
 7805C5,B-5485,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36747,2009
 7805C6,B-5486,B738,Boeing,737NG 89L/W,Boeing 737NG 89L/W,0,Beijing Airlines,BJN,36748,2009
@@ -79,6 +83,7 @@
 780766,B-8166,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Sino Jet (Beijing) Company,JBE,4216,2009
 780792,B-5601,B738,Boeing,737NG 86N/W,Boeing 737NG 86N/W,0,Hebei Airlines,HBH,36823,2011
 7807A5,B-3563,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Astro Air,SZA,8100,2008
+7807D8,B-6768,A320,Airbus,A320 214,Airbus A320 214,0,GX Airlines,CBG,4833,2011
 780807,B-8192,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Donghai Jet,EPB,20320,2011
 780808,B-8193,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Donghai Jet,EPB,20321,2011
 780811,B-8277,GALX,Gulfstream Aerospace,G200 Galaxy,Gulfstream Aerospace G200 Galaxy,0,Astro Air,SZA,247,2011
@@ -117,6 +122,8 @@
 7809F4,B-8262,GLF4,Gulfstream Aerospace,G450,Gulfstream G450,0,Astro Air,SZA,4227,2010
 7809FE,B-8263,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Star Jet,CHJ,4276,2012
 780A5A,B-HWM,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1457,2013
+780A74,B-LVA,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Government Flying Service,HKG,5896,2012
+780A75,B-LVB,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Government Flying Service,HKG,5898,2012
 780A7F,B-LBE,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1523,2014
 780A80,B-LBF,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1545,2014
 780A81,B-LBG,A333,Airbus,A330 343E,Airbus A330 343E,0,Cathay Pacific,CPA,1557,2014

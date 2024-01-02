@@ -1,8 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4B82E8,68-01609,C130,Lockheed,C-130E Hercules,Lockheed C-130E Hercules,0,Turkish Air Force,HVK,4311,
-4B846D,TC-ACM,B744,Boeing,747 428ERF,Boeing 747 428ERF,0,Air ACT,RUN,32867,2002
+4B846D,TC-ACM,B744,Boeing,747 428ERF,Boeing 747 428ERF,0,ACT Airlines,RUN,32867,2002
+4B8472,TC-ACR,B744,Boeing,747 428ERF,Boeing 747 428ERF,0,ACT Airlines,RUN,32866,2002
 4B850C,TC-AHL,GLF4,Gulfstream,IV-SP,Gulfstream IV-SP,0,Bonair Business Charter,,1282,
 4B8583,TC-ALC,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4141,2008
 4B8594,TC-ALT,H25B,Hawker,800XPi,Hawker 800XPi,1,Private,,258829,2007
+4B864B,TC-ARK,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20981,2023
 4B8CFA,TC-CGZ,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A-0368,
 4B8F44,TC-CZD,GLF4,Gulfstream,G450,Gulfstream G450,0,Gozen Air Service,,4354,2016

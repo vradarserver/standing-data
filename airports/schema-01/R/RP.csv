@@ -1,5 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 RP14,MRMP Airport,RP14,,Ramon,PH,16.829800,121.500000,384
+RPEN,El Nido,RPEN,ENI,El Nido,PH,11.202500,119.416111,12
 RPLB,Subic Bay International Airport,RPLB,SFS,Olongapo City,PH,14.794400,120.271004,64
 RPLC,Diosdado Macapagal International Airport,RPLC,CRK,Angeles City,PH,15.186000,120.559998,484
 RPLI,Laoag International Airport,RPLI,LAO,Laoag City,PH,18.178101,120.531998,25

@@ -35,6 +35,7 @@
 500264,T7-MPS,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,238,
 500269,T7-JAB,H25B,Raytheon Hawker,850XP,Raytheon Hawker 850XP,1,Private,,258810,
 50026A,T7-550,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Empire Aviation,,5380,
+50026B,T7-HOME,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9577,2013
 50026F,T7-7AA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70092,
 500272,T7-BAT,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14500995,2007
 500273,T7-SERES,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,356,2000
@@ -56,6 +57,7 @@
 5002AB,T7-960,TBM9,Daher,TBM-960,Daher TBM-960,1,Private,,1414,
 5002AC,T7-CHS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70118,
 5002AE,T7-LOTUS,B39M,Boeing,737 MAX 9 BBJ,Boeing 737 MAX 9 BBJ,0,Reliance Industries Ltd,,65334,
+5002B0,T7-MUS,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Arab Wings,AWS,60058,2021
 5002B5,T7-MCDAN,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5319,
 5002B7,T7-DAT,P180,Piaggio,P-180 Avanti II,Piaggio P-180 Avanti II,1,Private,,1194,
 5002B8,T7-688NJ,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6502,2022
@@ -91,9 +93,11 @@
 50031A,T7-9889,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5644,
 500329,T7-33SL,GLF5,Gulfstream Aerospace,GV-SP (G550),Gulfstream Aerospace GV-SP (G550),1,Private,,5266,
 500332,T7-SYC,P180,Piaggio,P.180 Avanti II,Piaggio P.180 Avanti II,1,Private,,1105,
+500333,T7-L007,A320,Airbus,A320-214,Airbus A320-214,1,Private,,2708,2006
 50033A,T7-OAK,CL60,Challenger,604,Challenger 604,0,Empire Aviation San Marino,,5574,
 50033F,T7-HOLTZ,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet San Marino,VAJ,9405,2010
 500346,T7-OFI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southern Cross International,SXI,63970,2018
 500347,T7-OFM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Airfast Indonesia,AFE,64993,2018
 50035F,T7-VKS,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1466,2002
+500360,T7-TFZ,GL5T,Bombardier,BD-700-1A10 Global 5000,Bombardier BD-700-1A10 Global 5000,1,Private,,9516,
 500366,T7-ZEM,TBM8,Socata,TBM-850,Socata TBM-850,1,Private,,449,

@@ -1,5 +1,16 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+782000,B-32FY,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Southern Airlines,CSN,11637,2023
+782001,B-32FS,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,China Southern Airlines,CSN,11596,2023
+782002,B-32FT,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,China Southern Airlines,CSN,11666,2023
 782003,B-32FR,A359,Airbus,A350-941,Airbus A350-941,0,China Southern Airlines,CSN,626,2023
+782004,B-655A,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Southern Airlines,CSN,10138,2023
+782007,B-32FZ,A321,Airbus,A321-231(PCF),Airbus A321-231(PCF),0,Sichuan Airlines,CSC,1926,2003
 782018,B-655K,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Deer Jet,DER,,
+782027,B-32G1,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11649,2023
+782029,B-919D,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00009,2023
 782031,B-1592,B738,Boeing,737-86X,Boeing 737-86X,0,9 Air,JYH,61357,2016
+782034,B-224N,B738,Boeing,737-8Q8(F),Boeing 737-8Q8(F),0,JD Airlines,JDL,30715,2007
 78204C,B-002C,C919,Comac,C-919,Comac C-919,0,Comac,,010,
+78206B,B-655T,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,189,2023
+78206C,B-655U,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,China Express Airlines,HXA,195,2023
+782076,B-32G7,A320,Airbus,A320-214(WL),Airbus A320-214(WL),0,Longjiang Airlines,SNG,7474,2016

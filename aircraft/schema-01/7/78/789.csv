@@ -1,14 +1,22 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 789002,B-4661,CRJ7,Bombardier,Challenger 870,Bombardier Challenger 870,0,China Naval Air Force,,10335,2013
-78920D,B-LVI,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Hong Kong Government Flying Service,,5035,2018
+789208,B-LVD,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5013,2018
+789209,B-LVE,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5011,2018
+78920A,B-LVF,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5020,2018
+78920B,B-LVG,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5029,2018
+78920C,B-LVH,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5015,2018
+78920D,B-LVI,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5035,2018
+78920E,B-LVJ,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,Government Flying Service,HKG,5037,2019
 789243,B-LQC,A359,Airbus,A350-941,Airbus A350-941,0,Cathay Pacific,CPA,393,2021
 78924A,B-HPE,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10171,2021
 78924B,B-HPF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10187,2022
 78924C,B-HPG,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10191,2021
 78924D,B-HPH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10199,2021
+789250,B-HUM,EXPL,MD Helicopters,MD-900 Explorer,MD Helicopters MD-900 Explorer,0,Heliservices (HK),HSV,900-00131,2009
 789253,B-LCV,A20N,Airbus,A320-271N,Airbus A320-271N,0,Hong Kong Express Airways,HKE,10414,2021
 789254,B-KJA,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42277,2017
 789260,B-KJB,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42279,2017
+789262,B-HEK,EXPL,MD Helicopters,MD-902 Explorer,MD Helicopters MD-902 Explorer,0,Heliservices (HK),HSV,900-00120,2006
 789263,B-HPI,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10853,2022
 789264,B-HPN,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,11009,2022
 789265,B-HPO,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,11054,2023
@@ -25,9 +33,14 @@
 789270,B-KJC,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42280,2017
 789271,B-KKA,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11184,2023
 789275,B-LQG,A359,Airbus,A350-941,Airbus A350-941,0,Cathay Pacific,CPA,615,2023
+789276,B-LQH,A359,Airbus,A350-941,Airbus A350-941,0,Cathay Pacific,CPA,645,2023
 789277,B-KJD,B738,Boeing,737-8FH,Boeing 737-8FH,0,Greater Bay Airlines,HGB,39943,2014
 78927B,B-LHG,A333,Airbus,A330-343,Airbus A330-343,0,Hong Kong Airlines,CRK,1663,2015
 78927C,B-LHI,A333,Airbus,A330-343,Airbus A330-343,0,Hong Kong Airlines,CRK,1677,2015
 78927D,B-LHH,A333,Airbus,A330-343,Airbus A330-343,0,Hong Kong Airlines,CRK,1614,2015
 78927E,B-KKB,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11294,2023
 78927F,B-KKC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11578,2023
+789280,B-KKD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11684,2023
+789288,B-KJE,B738,Boeing,737-83Z(WL),Boeing 737-83Z(WL),0,Greater Bay Airlines,HGB,61268,2015
+78928A,B-LHJ,A333,Airbus,A330-343,Airbus A330-343,0,Hong Kong Airlines,CRK,1532,2014
+78928B,B-LHL,A333,Airbus,A330-343,Airbus A330-343,0,Hong Kong Airlines,CRK,1686,2015
