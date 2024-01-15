@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 98,325 |
-| `dirkhh`                       | 87,785 |
+| `Piet Delagrense`              | 98,612 |
+| `dirkhh`                       | 91,730 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `科罗娜`                          | 16,589 |
+| `科罗娜`                          | 16,597 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,607 |
+| `sib64`                        | 15,621 |
 | `Lanorge`                      | 15,001 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,845 |
@@ -24,7 +24,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,961 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,233 |
+| `Markus`                       | 5,257 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -45,8 +45,8 @@ Please note that credit files are updated less frequently than the data files.
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `Gavin-D`                      | 1,940 |
+| `aircraftenthusiast2000`       | 1,819 |
 | `verbatim`                     | 1,772 |
-| `aircraftenthusiast2000`       | 1,763 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `BPfH`                         | 1,611 |
@@ -69,8 +69,8 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
+| `Daniel.cornejo.campos`        | 1,075 |
 | `Dauren`                       | 1,070 |
-| `Daniel.cornejo.campos`        | 1,040 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 921 |
@@ -114,16 +114,16 @@ Please note that credit files are updated less frequently than the data files.
 | `britiger`                     | 414 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
+| `Cristian Amaya`               | 409 |
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
-| `Cristian Amaya`               | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Joaquin`                      | 389 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
+| `kirkmayers`                   | 359 |
 | `kiwikieran`                   | 359 |
-| `kirkmayers`                   | 357 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
