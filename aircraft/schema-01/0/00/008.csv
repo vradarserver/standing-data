@@ -1,5 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+008126,ZS-GAO,A320,Airbus,A320-231,Airbus A320-231,0,LIFT Airline,GBB,67,1989
+008187,ZS-ZWV,B738,Boeing,737-8K5,Boeing 737-8K5,0,Safair,SFR,30414,2000
+0081EF,ZS-SZE,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,6147,
 008357,ZS-ALJ,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145579,2002
 0086F6,ZS-YBC,E170,Embraer,ERJ-170-100,Embraer ERJ-170-100,0,Airlink,LNK,17000006,2002
 008DEA,ZS-FGJ,B738,Boeing,737-8AS,Boeing 737-8AS,0,Safair,SFR,37542,2009
+008DF9,ZS-FGY,B738,Boeing,737-8HO,Boeing 737-8HO,0,Safair,SFR,3459,2010
 008FEB,ZS-GAC,A320,Airbus,A320-232,Airbus A320-232,0,LIFT Airline,GBB,2498,2005

@@ -1,9 +1,12 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E494A6,2858,E390,Embraer,EMB 390KC,Embraer EMB 390KC,0,Brazilian Air Force,BRS,390-00009,2023
 E49522,PR-XMX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,61586,2021
+E49523,PR-XMW,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,60237,2021
+E49524,PR-XMV,B737,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,61585,2021
 E49539,PR-ANV,A339,Airbus,A330-941,Airbus A330-941,0,Azul Linhas Aéreas Brasileiras,AZU,1952,2020
 E4962E,PR-YJD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Azul Linhas Aéreas Brasileiras,AZU,10173,2021
 E49686,PR-GEU,B737,Boeing,737-752,Boeing 737-752,0,Gol Transportes Aéreos,GLO,34295,2005
+E49698,PR-XBH,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11597,2023
 E49699,PR-YSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10582,2021
 E496E5,PS-CAT,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5121,2006
 E496F0,PR-AOY,A359,Airbus,A350-900,Airbus A350-900,0,Azul Linhas Aéreas Brasileiras,AZU,168,2017
@@ -40,20 +43,31 @@ E49934,FAB1368,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Fo
 E49947,FAB1414,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312183,1986
 E49948,FAB1341,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312055,1984
 E49952,PP-BFB,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70108,
+E49956,PS-GPD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44861,2018
 E49958,PS-GPE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,60703,2018
 E4996D,PS-MAM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5609,2020
 E4998A,PS-RDR,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Comexport Trading Comercio Exterior Ltd,,6181,2022
 E4998D,PS-BIR,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9514,2012
+E4999D,PR-XBJ,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11139,2022
 E499BC,PS-INB,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0662,
 E499C1,PP-CMK,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,339,2004
+E49A54,PR-YSL,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11235,2022
 E49A5C,PR-JGG,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2238,2022
 E49A76,PS-FJB,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20689,2017
 E49A88,PS-LOP,GALX,Gulfstream,G200,Gulfstream G200,1,Private,,0234,2010
+E49AAA,PR-XBO,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11572,2023
 E49ACD,PS-FFT,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5138,2006
 E49B0A,PS-PJM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5334,2011
+E49B52,PS-GRB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44021,2023
+E49B53,PS-GRC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44023,2023
 E49B9F,PS-APM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9875,2019
 E49BEC,PS-TBM,TBM9,Daher,TBM-960,Daher TBM-960,1,Private,,1475,2023
 E49BF6,PS-JAD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5370,2012
+E49C05,PS-LBF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,11675,2023
+E49C07,PS-LBG,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,11701,2023
 E49C0D,PP-AFL,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,175,2001
 E49C71,PS-VMB,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5551,2016
+E49D21,PS-AEQ,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020107,2023
+E49D22,PR-YSP,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11823,2023
+E49D24,PS-AER,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020109,2023
 E49D51,PS-ESP,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5033,
