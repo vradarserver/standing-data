@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A84175,N631AB,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72077,2021
 A8419C,N631BR,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,8513,2022
+A84200,N631FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11694,2023
 A84343,N631UP,B748,Boeing,747-8F,Boeing 747-8F,0,United Parcel Service,UPS,65776,2021
 A843DE,N6310U,A319,Airbus,A319-111,Airbus A319-111,0,United Airlines,UAL,2742,2006
 A846FA,N632UP,B748,Boeing,747-8F,Boeing 747-8F,0,United Parcel Service,UPS,65775,2022
