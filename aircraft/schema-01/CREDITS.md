@@ -8,9 +8,9 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `Peter Hutt`             | 2,251 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,292 |
-| `科罗娜`                    | 1,203 |
-| `Andrew`                 | 1,131 |
+| `aircraftenthusiast2000` | 1,386 |
+| `科罗娜`                    | 1,216 |
+| `Andrew`                 | 1,149 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
@@ -23,12 +23,12 @@ Please note that credit files are updated less frequently than the data files.
 | `BudBundi`               | 49 |
 | `RZH`                    | 49 |
 | `deedeecee`              | 40 |
+| `vrsspotter73`           | 35 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
-| `vrsspotter73`           | 15 |
 | `Simiao`                 | 14 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
@@ -57,6 +57,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Manny`                  | 2 |
 | `Marc A. Mapplebeck`     | 2 |
 | `nik`                    | 2 |
+| `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
 | `xv2b`                   | 2 |
