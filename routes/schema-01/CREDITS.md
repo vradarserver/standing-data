@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 99,370 |
-| `dirkhh`                       | 96,228 |
+| `Piet Delagrense`              | 99,976 |
+| `dirkhh`                       | 96,737 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `科罗娜`                          | 16,978 |
+| `科罗娜`                          | 17,051 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,643 |
-| `Lanorge`                      | 15,001 |
+| `sib64`                        | 15,655 |
+| `Lanorge`                      | 15,025 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,847 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,132 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `McBridden`                    | 5,961 |
+| `McBridden`                    | 5,962 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,292 |
+| `Markus`                       | 5,299 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -44,8 +44,8 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 1,941 |
-| `aircraftenthusiast2000`       | 1,841 |
+| `Gavin-D`                      | 1,942 |
+| `aircraftenthusiast2000`       | 1,862 |
 | `verbatim`                     | 1,773 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
@@ -69,7 +69,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Dauren`                       | 1,082 |
+| `Dauren`                       | 1,083 |
 | `Daniel.cornejo.campos`        | 1,080 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
@@ -121,8 +121,8 @@ Please note that credit files are updated less frequently than the data files.
 | `trabin`                       | 393 |
 | `Joaquin`                      | 389 |
 | `Per Haakan Dahlback`          | 366 |
+| `kirkmayers`                   | 363 |
 | `Martin Salazar`               | 363 |
-| `kirkmayers`                   | 362 |
 | `kiwikieran`                   | 359 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
@@ -225,9 +225,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Benjamin92240`                | 81 |
 | `Renato Nagg`                  | 80 |
 | `RZH`                          | 80 |
+| `Jens Erik Widén`              | 79 |
 | `Lector`                       | 79 |
 | `HSran`                        | 77 |
-| `Jens Erik Widén`              | 77 |
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
@@ -801,6 +801,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Joshua Riley`                 | 2 |
 | `JPB`                          | 2 |
 | `jydoulliez`                   | 2 |
+| `KaliKeira`                    | 2 |
 | `KC2LSN`                       | 2 |
 | `kjablonski`                   | 2 |
 | `LakeCitySky`                  | 2 |
@@ -960,7 +961,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Justin Levy`                  | 1 |
 | `Justin Palmer`                | 1 |
 | `justsomeguy`                  | 1 |
-| `KaliKeira`                    | 1 |
 | `Kanagat`                      | 1 |
 | `kd4ggy`                       | 1 |
 | `KD6OUB`                       | 1 |
