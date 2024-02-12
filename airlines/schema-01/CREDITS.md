@@ -22,14 +22,14 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                   | 11 |
 | `Soe Min Htet`          | 11 |
 | `OSN`                   | 10 |
+| `BudBundi`              | 9 |
 | `Mickael H.`            | 8 |
 | `Slavi`                 | 8 |
 | `TEMU1086`              | 8 |
-| `BudBundi`              | 7 |
+| `Jens Erik Widén`       | 7 |
 | `Phillip Rohmberger`    | 7 |
 | `squawk7000`            | 7 |
 | `Gavin-D`               | 6 |
-| `Jens Erik Widén`       | 6 |
 | `Rosen85`               | 6 |
 | `BPfH`                  | 5 |
 | `kma371`                | 5 |
@@ -58,6 +58,7 @@ Please note that credit files are updated less frequently than the data files.
 | `RZH`                   | 2 |
 | `spotterblog`           | 2 |
 | `verbatim`              | 2 |
+| `vrsspotter73`          | 2 |
 | `yaacars`               | 2 |
 | `Aerovilla`             | 1 |
 | `ahernandez`            | 1 |
@@ -92,6 +93,5 @@ Please note that credit files are updated less frequently than the data files.
 | `struart`               | 1 |
 | `Vasiliy`               | 1 |
 | `vjekic2`               | 1 |
-| `vrsspotter73`          | 1 |
 | `YKKHPPP`               | 1 |
 

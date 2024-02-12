@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+400219,VP-CXO,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6261,
 40021B,VP-CDJ,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,148,
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001

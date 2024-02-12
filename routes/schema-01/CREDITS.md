@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 99,976 |
-| `dirkhh`                       | 96,737 |
+| `Piet Delagrense`              | 100,478 |
+| `dirkhh`                       | 97,384 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `科罗娜`                          | 17,051 |
+| `科罗娜`                          | 17,279 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,655 |
-| `Lanorge`                      | 15,025 |
+| `sib64`                        | 15,659 |
+| `Lanorge`                      | 15,045 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,847 |
 | `SteveF`                       | 9,821 |
@@ -24,7 +24,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,962 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,299 |
+| `Markus`                       | 5,304 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -70,7 +70,7 @@ Please note that credit files are updated less frequently than the data files.
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
 | `Dauren`                       | 1,083 |
-| `Daniel.cornejo.campos`        | 1,080 |
+| `Daniel.cornejo.campos`        | 1,081 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 921 |
@@ -158,7 +158,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
 | `Alexey`                       | 192 |
-| `Franck Dosdane`               | 190 |
+| `Franck Dosdane`               | 192 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 186 |
 | `aviatic`                      | 182 |
@@ -484,6 +484,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Rian`                         | 10 |
 | `thecowan`                     | 10 |
 | `vk7ip`                        | 10 |
+| `vrsspotter73`                 | 10 |
 | `Vytautas`                     | 10 |
 | `dziban molniya`               | 9 |
 | `EVO`                          | 9 |

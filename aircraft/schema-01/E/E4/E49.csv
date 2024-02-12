@@ -51,6 +51,7 @@ E4998D,PS-BIR,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9514
 E4999D,PR-XBJ,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11139,2022
 E499BC,PS-INB,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0662,
 E499C1,PP-CMK,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,339,2004
+E49A0F,PS-BLL,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Lider Aviação,,,
 E49A54,PR-YSL,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11235,2022
 E49A5C,PR-JGG,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2238,2022
 E49A76,PS-FJB,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20689,2017
@@ -61,6 +62,7 @@ E49B0A,PS-PJM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5334,2011
 E49B52,PS-GRB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44021,2023
 E49B53,PS-GRC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44023,2023
 E49B9F,PS-APM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9875,2019
+E49BA3,PS-AGM,P46T,Piper,PA-46-500TP Meridian M500,Piper PA-46-500TP Meridian M500,1,Private,,4697694,2023
 E49BEC,PS-TBM,TBM9,Daher,TBM-960,Daher TBM-960,1,Private,,1475,2023
 E49BF6,PS-JAD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5370,2012
 E49C05,PS-LBF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,11675,2023
@@ -71,3 +73,4 @@ E49D21,PS-AEQ,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasile
 E49D22,PR-YSP,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11823,2023
 E49D24,PS-AER,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020109,2023
 E49D51,PS-ESP,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5033,
+E49EB5,PR-NGX,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2019,2020

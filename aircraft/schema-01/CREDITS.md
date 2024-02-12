@@ -6,30 +6,30 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,251 |
+| `Peter Hutt`             | 2,356 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,386 |
-| `科罗娜`                    | 1,217 |
+| `aircraftenthusiast2000` | 1,430 |
+| `科罗娜`                    | 1,235 |
 | `Andrew`                 | 1,149 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `andrw`                  | 134 |
+| `andrw`                  | 141 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `Lanorge`                | 75 |
+| `Lanorge`                | 84 |
+| `BudBundi`               | 58 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
-| `BudBundi`               | 49 |
 | `RZH`                    | 49 |
 | `deedeecee`              | 40 |
-| `vrsspotter73`           | 37 |
+| `vrsspotter73`           | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
-| `Simiao`                 | 14 |
+| `Simiao`                 | 18 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
@@ -54,6 +54,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bobby Mhor`             | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
+| `kiwikieran`             | 2 |
 | `Manny`                  | 2 |
 | `Marc A. Mapplebeck`     | 2 |
 | `nik`                    | 2 |
@@ -71,6 +72,8 @@ Please note that credit files are updated less frequently than the data files.
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |
+| `KaliKeira`              | 1 |
+| `mantisNZ`               | 1 |
 | `nf003`                  | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `Santi_levt`             | 1 |

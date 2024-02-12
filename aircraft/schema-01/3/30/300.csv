@@ -29,6 +29,7 @@
 300878,I-LOSO,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258689,
 30088C,I-SOMI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Ariane,,2354,
 300892,I-NOLV,C150,Reims,F150L,Reims F150L,1,Private,,F1501116,
+30089A,I-MIAK,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,8970,2021
 30089D,I-TEAF,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9122,
 30089E,I-TEAS,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9123,
 3008AC,I-PBRC,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,192,
@@ -49,11 +50,13 @@
 3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,
 3008F2,I-SEAK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Servizi Aerei,SNM,6493,2022
 3008F3,I-YTRK,C551,Cessna,551 Citation IISP,Cessna 551 Citation IISP,1,Private,,551-0412,
+3008FB,I-AVNF,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,Avionord,,5487,2001
 30090D,I-GATC,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,0,Compagnia Aerea Italiana,CPI,73001,
 30091E,I-CEIE,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Eliabruzzo,,9219,
 300920,I-JANI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Eliossola,,4732,
 300937,I-KEOV,AS55,Airbus Helicopters,AS-355 Ecureuil 2,Airbus Helicopters AS-355 Ecureuil 2,1,Private,,5739,
 30093A,I-PAPS,BE20,Beech,King Air 260,Beech King Air 260,0,Aliserio,,BY-440,2021
+300948,I-LARC,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9329,2022
 30095A,I-LRSL,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,318,2023
 300967,I-PKAG,EC20,Eurocopter,EC-120 Colibri,Eurocopter EC-120 Colibri,0,Hoverfly,,,
 300971,I-MIRL,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Alba Servizi Aerotrasporti,,302,2015
@@ -62,3 +65,5 @@
 30097D,I-CPRI,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,1,Private,,22325,
 300989,I-GCFG,F900,Dassault,Falcon 900,Dassault Falcon 900,0,Italy - Government,,,
 30099D,I-ITYB,A339,Airbus,A330-941,Airbus A330-941,0,ITA Airways,ITY,2051,2023
+3009B2,I-JENK,E190,Embraer,190,Embraer 190,0,Air Dolomiti,DLA,19000381,2010
+3009B3,I-JENC,E195,Embraer,E195LR,Embraer E195LR,0,Air Dolomiti,DLA,19000327,2009

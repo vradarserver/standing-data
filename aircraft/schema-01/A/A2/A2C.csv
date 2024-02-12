@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A2C110,N277FX,S76,Sikorsky,S-76C-2,Sikorsky S-76C-2,1,Private,,760676,
 A2C129,N277GX,A321,Airbus,A321-231,Airbus A321-231,0,Global X,GXA,2480,2005
 A2C39F,N27752,B3XM,Boeing,737 MAX 10,Boeing 737 MAX 10,0,Boeing Company,BOE,66123,2021
 A2C49D,N278EE,E545,Embraer,Praetor 500,Embraer Praetor 500,1,Private,,55010078,
@@ -15,6 +16,7 @@ A2CC6B,N28JA,P28A,Piper,PA-28-181 Archer 2,Piper PA-28-181 Archer 2,1,Private,,2
 A2CCAE,N28LT,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0352,2021
 A2CCE4,N28NX,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2228,2022
 A2CD02,N28QB,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5433,1999
+A2CD68,N28UD,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6542,2023
 A2CE7D,N280FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66253,2021
 A2CFB5,N280TS,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2252,
 A2CFF2,N280WC,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2232,2021

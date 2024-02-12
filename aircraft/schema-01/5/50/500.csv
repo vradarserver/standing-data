@@ -91,6 +91,8 @@
 500317,T7-XAL,H25B,Hawker,850XP,Hawker 850XP,1,Private,,258909,2008
 500318,T7-187,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501075,2008
 50031A,T7-9889,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5644,
+50031C,T7-EMI,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0034,2007
+500328,T7-727,H25B,Hawker,800XPi,Hawker 800XPi,1,Private,,258771,
 500329,T7-33SL,GLF5,Gulfstream Aerospace,GV-SP (G550),Gulfstream Aerospace GV-SP (G550),1,Private,,5266,
 500332,T7-SYC,P180,Piaggio,P.180 Avanti II,Piaggio P.180 Avanti II,1,Private,,1105,
 500333,T7-L007,A320,Airbus,A320-214,Airbus A320-214,1,Private,,2708,2006
@@ -101,3 +103,4 @@
 50035F,T7-VKS,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1466,2002
 500360,T7-TFZ,GL5T,Bombardier,BD-700-1A10 Global 5000,Bombardier BD-700-1A10 Global 5000,1,Private,,9516,
 500366,T7-ZEM,TBM8,Socata,TBM-850,Socata TBM-850,1,Private,,449,
+50036F,T7-2828,LJ60,LearJet,60,LearJet 60,1,Private,,60-368,
