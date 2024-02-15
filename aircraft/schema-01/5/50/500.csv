@@ -100,7 +100,10 @@
 50033F,T7-HOLTZ,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet San Marino,VAJ,9405,2010
 500346,T7-OFI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southern Cross International,SXI,63970,2018
 500347,T7-OFM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Airfast Indonesia,AFE,64993,2018
+500349,T7-P1MP,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6552,2023
 50035F,T7-VKS,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1466,2002
 500360,T7-TFZ,GL5T,Bombardier,BD-700-1A10 Global 5000,Bombardier BD-700-1A10 Global 5000,1,Private,,9516,
+500362,T7-ALX3,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9059,
 500366,T7-ZEM,TBM8,Socata,TBM-850,Socata TBM-850,1,Private,,449,
 50036F,T7-2828,LJ60,LearJet,60,LearJet 60,1,Private,,60-368,
+500379,T7-N1960,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Luxaviation San Marino,LSM,14501208,2014
