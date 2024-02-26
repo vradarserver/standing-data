@@ -8,22 +8,22 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `Peter Hutt`             | 2,385 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,430 |
-| `科罗娜`                    | 1,235 |
+| `aircraftenthusiast2000` | 1,477 |
+| `科罗娜`                    | 1,245 |
 | `Andrew`                 | 1,149 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `andrw`                  | 141 |
+| `andrw`                  | 149 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `Lanorge`                | 85 |
-| `BudBundi`               | 60 |
+| `Lanorge`                | 87 |
+| `BudBundi`               | 77 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
+| `vrsspotter73`           | 44 |
 | `deedeecee`              | 40 |
-| `vrsspotter73`           | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
@@ -33,6 +33,7 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
+| `kiwikieran`             | 9 |
 | `Luis Cova`              | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
@@ -45,6 +46,7 @@ Please note that credit files are updated less frequently than the data files.
 | `soja`                   | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
+| `Ljubo`                  | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
@@ -54,7 +56,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Bobby Mhor`             | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
-| `kiwikieran`             | 2 |
 | `Manny`                  | 2 |
 | `Marc A. Mapplebeck`     | 2 |
 | `nik`                    | 2 |
@@ -67,6 +68,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar`              | 1 |
 | `Blackeye`               | 1 |
 | `caro-ed`                | 1 |
+| `Cheyenne`               | 1 |
 | `Datamix`                | 1 |
 | `Derek Bertram`          | 1 |
 | `ez_duce`                | 1 |

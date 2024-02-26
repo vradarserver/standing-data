@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 502CCD,YL-CSD,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55006,2017
+502D31,YL-LDP,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),0,SmartLynx Airlines,ART,1241,2022
 502D33,YL-LDD,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines,ART,3264,2007
 502D34,YL-LDE,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines,ART,3330,2007
 502D35,YL-LDF,A320,Airbus,A320-214,Airbus A320-214,0,SmartLynx Airlines,ART,4061,2009
@@ -42,4 +43,5 @@
 502D7C,YL-ABR,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55240,2023
 502D81,YL-DAM,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Union Aviation,UAG,9189,2007
 502D88,YL-ABT,BCS3,Airbus,A220-300,Airbus A220-300,1,Private,,55255,2023
+502D89,YL-ABU,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55264,2024
 502D8D,YL-LDZ,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,SmartLynx Airlines,ART,974,1999
