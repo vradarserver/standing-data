@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 101,213 |
-| `Piet Delagrense`              | 101,196 |
+| `dirkhh`                       | 101,951 |
+| `Piet Delagrense`              | 101,479 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `科罗娜`                          | 17,364 |
+| `科罗娜`                          | 17,699 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,677 |
-| `Lanorge`                      | 15,062 |
+| `sib64`                        | 15,680 |
+| `Lanorge`                      | 15,066 |
 | `Jon Fear`                     | 13,207 |
-| `bigrossco`                    | 10,848 |
+| `bigrossco`                    | 10,849 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,134 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,962 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,317 |
+| `Markus`                       | 5,320 |
 | `AP100`                        | 4,851 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -43,8 +43,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
+| `aircraftenthusiast2000`       | 2,041 |
 | `Paul C`                       | 2,038 |
-| `aircraftenthusiast2000`       | 2,015 |
 | `Gavin-D`                      | 1,943 |
 | `verbatim`                     | 1,773 |
 | `Rosen85`                      | 1,763 |
@@ -69,8 +69,8 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Daniel.cornejo.campos`        | 1,086 |
-| `Dauren`                       | 1,083 |
+| `Daniel.cornejo.campos`        | 1,090 |
+| `Dauren`                       | 1,088 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 921 |
@@ -110,8 +110,8 @@ Please note that credit files are updated less frequently than the data files.
 | `32043GCS`                     | 448 |
 | `topoguido`                    | 432 |
 | `squawk7000`                   | 431 |
+| `Cristian Amaya`               | 418 |
 | `ka0lnr`                       | 418 |
-| `Cristian Amaya`               | 417 |
 | `britiger`                     | 414 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
@@ -143,8 +143,8 @@ Please note that credit files are updated less frequently than the data files.
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
 | `Jim Anderson`                 | 243 |
+| `Skibox`                       | 233 |
 | `Kooter`                       | 232 |
-| `Skibox`                       | 231 |
 | `giofloripa`                   | 227 |
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
@@ -375,6 +375,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jdor`                         | 20 |
 | `Showmaster`                   | 20 |
 | `ttb1988`                      | 20 |
+| `vrsspotter73`                 | 20 |
 | `Duncan Philip`                | 19 |
 | `JohnL`                        | 19 |
 | `KSBS`                         | 19 |
@@ -390,7 +391,6 @@ Please note that credit files are updated less frequently than the data files.
 | `stouf7908`                    | 18 |
 | `SuperAkari`                   | 18 |
 | `urrv`                         | 18 |
-| `vrsspotter73`                 | 18 |
 | `andresp`                      | 17 |
 | `Daniel Crow`                  | 17 |
 | `GTR8000`                      | 17 |
