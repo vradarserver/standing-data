@@ -2,8 +2,6 @@
 B06,Agusta,AB-206 JetRanger,1,T,,H,L,1
 B06,Agusta,AB-206 LongRanger,1,T,,H,L,1
 B06,Agusta,Hkp6 JetRanger,1,T,,H,L,1
-B06,Agusta,JetRanger,1,T,,H,L,1
-B06,Agusta,LongRanger,1,T,,H,L,1
 B06,Bell,206A JetRanger,1,T,,H,L,1
 B06,Bell,206B JetRanger,1,T,,H,L,1
 B06,Bell,206L LongRanger,1,T,,H,L,1
@@ -12,79 +10,82 @@ B06,Bell,406 Combat Scout,1,T,,H,L,1
 B06,Bell,CH-136,1,T,,H,L,1
 B06,Bell,CH-139,1,T,,H,L,1
 B06,Bell,COH-58,1,T,,H,L,1
-B06,Bell,Combat Scout,1,T,,H,L,1
-B06,Bell,Creek,1,T,,H,L,1
-B06,Bell,JetRanger,1,T,,H,L,1
-B06,Bell,Kiowa,1,T,,H,L,1
-B06,Bell,Kiowa Warrior,1,T,,H,L,1
-B06,Bell,LongRanger,1,T,,H,L,1
 B06,Bell,OH-58 Kiowa,1,T,,H,L,1
 B06,Bell,OH-58 Kiowa Warrior,1,T,,H,L,1
-B06,Bell,SeaRanger,1,T,,H,L,1
 B06,Bell,TH-206,1,T,,H,L,1
 B06,Bell,TH-57 SeaRanger,1,T,,H,L,1
 B06,Bell,TH-67 Creek,1,T,,H,L,1
 B06,Bell,VH-4 JetRanger,1,T,,H,L,1
 B06,Commonwealth Aircraft (Aus),BA-206 Kiowa,1,T,,H,L,1
 B06,Commonwealth Aircraft (Aus),CA-32 Kiowa,1,T,,H,L,1
-B06,Commonwealth Aircraft (Aus),Kiowa,1,T,,H,L,1
 B06,Panha,2061,1,T,,H,L,1
+B06,Agusta,JetRanger,1,T,,H,L,0
+B06,Agusta,LongRanger,1,T,,H,L,0
+B06,Bell,Combat Scout,1,T,,H,L,0
+B06,Bell,Creek,1,T,,H,L,0
+B06,Bell,JetRanger,1,T,,H,L,0
+B06,Bell,Kiowa,1,T,,H,L,0
+B06,Bell,Kiowa Warrior,1,T,,H,L,0
+B06,Bell,LongRanger,1,T,,H,L,0
+B06,Bell,SeaRanger,1,T,,H,L,0
+B06,Commonwealth Aircraft (Aus),Kiowa,1,T,,H,L,0
 B06T,Bell,206LT TwinRanger,2,T,,H,L,1
-B06T,Bell,TwinRanger,2,T,,H,L,1
 B06T,Tridair,206L-ST Gemini ST,2,T,,H,L,1
-B06T,Tridair,Gemini ST,2,T,,H,L,1
+B06T,Bell,TwinRanger,2,T,,H,L,0
+B06T,Tridair,Gemini ST,2,T,,H,L,0
 B1,Rockwell,B-1 Lancer,4,J,,L,H,1
-B1,Rockwell,Lancer,4,J,,L,H,1
+B1,Rockwell,Lancer,4,J,,L,H,0
 B103,Beriev,Be-103 Bekas,2,P,,A,L,1
-B103,Beriev,Bekas,2,P,,A,L,1
+B103,Beriev,Bekas,2,P,,A,L,0
 B105,Bolkow,BO-105,2,T,,H,L,1
 B105,CASA,BO-105,2,T,,H,L,1
 B105,CASA,HR-15,2,T,,H,L,1
-B105,Dirgantara,NBO-105,2,T,,H,L,1
+B105,DIRGANTARA INDONESIA,NBO-105,2,T,,H,L,1
 B105,Eurocopter,BO-105,2,T,,H,L,1
 B105,Eurocopter,BO-105 Super Five,2,T,,H,L,1
-B105,Eurocopter,Super Five,2,T,,H,L,1
 B105,Korea Aerospace,BO-105,2,T,,H,L,1
 B105,MBB,BO-105,2,T,,H,L,1
 B105,MBB,BO-105 Twin Jet,2,T,,H,L,1
 B105,MBB,Hkp9,2,T,,H,L,1
-B105,MBB,Twin Jet,2,T,,H,L,1
 B105,Messerschmitt-Bolkow,BO-105,2,T,,H,L,1
 B105,Nurtanio,NBO-105,2,T,,H,L,1
 B105,Nusantara,NBO-105,2,T,,H,L,1
 B105,PADC,BO-105,2,T,,H,L,1
+B105,Dirgantara,NBO-105,2,T,,H,L,0
+B105,Eurocopter,Super Five,2,T,,H,L,0
+B105,MBB,Twin Jet,2,T,,H,L,0
 B13,Akaflieg Berlin,B-13,1,P,,L,L,1
 B14A,Bellanca,14 Cruisair,1,P,,L,L,1
 B14A,Bellanca,14 Cruisair Senior,1,P,,L,L,1
 B14A,Bellanca,14 Cruisemaster,1,P,,L,L,1
 B14A,Bellanca,14 Junior,1,P,,L,L,1
-B14A,Bellanca,Cruisair,1,P,,L,L,1
-B14A,Bellanca,Cruisair Senior,1,P,,L,L,1
-B14A,Bellanca,Cruisemaster,1,P,,L,L,1
-B14A,Bellanca,Junior,1,P,,L,L,1
 B14A,Downer,14 Cruisemaster,1,P,,L,L,1
-B14A,Downer,Cruisemaster,1,P,,L,L,1
 B14A,Northern,14 Cruisemaster,1,P,,L,L,1
-B14A,Northern,Cruisemaster,1,P,,L,L,1
+B14A,Bellanca,Cruisair,1,P,,L,L,0
+B14A,Bellanca,Cruisair Senior,1,P,,L,L,0
+B14A,Bellanca,Cruisemaster,1,P,,L,L,0
+B14A,Bellanca,Junior,1,P,,L,L,0
+B14A,Downer,Cruisemaster,1,P,,L,L,0
+B14A,Northern,Cruisemaster,1,P,,L,L,0
 B14B,Downer,14 Bellanca 260,1,P,,L,L,1
-B14B,Downer,Bellanca 260,1,P,,L,L,1
+B14B,Downer,Bellanca 260,1,P,,L,L,0
 B14C,Bellanca,14 Bellanca 260A,1,P,,L,L,1
 B14C,Bellanca,14 Bellanca 260B,1,P,,L,L,1
 B14C,Bellanca,14 Bellanca 260C,1,P,,L,L,1
-B14C,Bellanca,Bellanca 260A,1,P,,L,L,1
-B14C,Bellanca,Bellanca 260B,1,P,,L,L,1
-B14C,Bellanca,Bellanca 260C,1,P,,L,L,1
 B14C,Downer,14 Bellanca 260A,1,P,,L,L,1
-B14C,Downer,Bellanca 260A,1,P,,L,L,1
 B14C,Inter-Air,14 Bellanca 260A,1,P,,L,L,1
 B14C,Inter-Air,14 Bellanca 260B,1,P,,L,L,1
 B14C,Inter-Air,14 Bellanca 260C,1,P,,L,L,1
-B14C,Inter-Air,Bellanca 260A,1,P,,L,L,1
-B14C,Inter-Air,Bellanca 260B,1,P,,L,L,1
-B14C,Inter-Air,Bellanca 260C,1,P,,L,L,1
+B14C,Bellanca,Bellanca 260A,1,P,,L,L,0
+B14C,Bellanca,Bellanca 260B,1,P,,L,L,0
+B14C,Bellanca,Bellanca 260C,1,P,,L,L,0
+B14C,Downer,Bellanca 260A,1,P,,L,L,0
+B14C,Inter-Air,Bellanca 260A,1,P,,L,L,0
+B14C,Inter-Air,Bellanca 260B,1,P,,L,L,0
+B14C,Inter-Air,Bellanca 260C,1,P,,L,L,0
 B150,Winner,B-150,1,T,,H,L,1
 B17,Boeing,B-17 Flying Fortress,4,P,,L,M,1
-B17,Boeing,Flying Fortress,4,P,,L,M,1
+B17,Boeing,Flying Fortress,4,P,,L,M,0
 B18T,Beech,18 (turbine),2,T,,L,L,1
 B18T,Hamilton,Westwind 2,2,T,,L,L,1
 B18T,Hamilton,Westwind 3,2,T,,L,L,1
@@ -94,137 +95,138 @@ B190,Beech,1900,2,T,,L,M,1
 B190,Beech,C-12J,2,T,,L,M,1
 B190,Raytheon,1900,2,T,,L,M,1
 B2,Northrop,B-2 Spirit,4,J,,L,H,1
-B2,Northrop,Spirit,4,J,,L,H,1
 B2,Northrop Grumman,B-2 Spirit,4,J,,L,H,1
-B2,Northrop Grumman,Spirit,4,J,,L,H,1
+B2,Northrop,Spirit,4,J,,L,H,0
+B2,Northrop Grumman,Spirit,4,J,,L,H,0
 B209,Bolkow,BO-209 Monsun,1,P,,L,L,1
-B209,Bolkow,Monsun,1,P,,L,L,1
 B209,MBB,BO-209 Monsun,1,P,,L,L,1
-B209,MBB,Monsun,1,P,,L,L,1
 B209,Messerschmitt-Bolkow,BO-209 Monsun,1,P,,L,L,1
-B209,Messerschmitt-Bolkow,Monsun,1,P,,L,L,1
+B209,Bolkow,Monsun,1,P,,L,L,0
+B209,MBB,Monsun,1,P,,L,L,0
+B209,Messerschmitt-Bolkow,Monsun,1,P,,L,L,0
 B212,Agusta,AB-212,2,T,,H,L,1
 B212,Bell,212,2,T,,H,L,1
 B212,Bell,212 Twin Two-Twelve,2,T,,H,L,1
-B212,Bell,Twin Two-Twelve,2,T,,H,L,1
 B212,Bell,UH-1N,2,T,,H,L,1
 B212,Bell,VH-1,2,T,,H,L,1
+B212,Bell,Twin Two-Twelve,2,T,,H,L,0
 B214,Bell,214A Isfahan,1,T,,H,M,1
 B214,Bell,214B,1,T,,H,M,1
 B214,Bell,214C BigLifter,1,T,,H,M,1
-B214,Bell,BigLifter,1,T,,H,M,1
-B214,Bell,Isfahan,1,T,,H,M,1
+B214,Bell,BigLifter,1,T,,H,M,0
+B214,Bell,Isfahan,1,T,,H,M,0
 B222,Bell,222,2,T,,H,L,1
 B23,Douglas,B-23 Dragon,2,P,,L,M,1
-B23,Douglas,Dragon,2,P,,L,M,1
 B23,Douglas,UC-67 Dragon,2,P,,L,M,1
+B23,Douglas,Dragon,2,P,,L,M,0
 B230,Bell,230,2,T,,H,L,1
 B23E,BRM Aero,Bristell B23 Energic,1,E,,L,L,1
 B24,Consolidated,B-24 Liberator,4,P,,L,M,1
 B24,Consolidated,C-87 Liberator Express,4,P,,L,M,1
 B24,Consolidated,LB-30 Liberator,4,P,,L,M,1
-B24,Consolidated,Liberator,4,P,,L,M,1
-B24,Consolidated,Liberator Express,4,P,,L,M,1
 B24,Convair,B-24 Liberator,4,P,,L,M,1
 B24,Convair,C-87 Liberator Express,4,P,,L,M,1
-B24,Convair,Liberator,4,P,,L,M,1
-B24,Convair,Liberator Express,4,P,,L,M,1
 B24,Consolidated,C-87 Libeator Express,4,P,,L,M,0
+B24,Consolidated,Liberator,4,P,,L,M,0
+B24,Consolidated,Liberator Express,4,P,,L,M,0
+B24,Convair,Liberator,4,P,,L,M,0
+B24,Convair,Liberator Express,4,P,,L,M,0
 B25,North American,B-25 Mitchell,2,P,,L,M,1
-B25,North American,Mitchell,2,P,,L,M,1
 B25,North American,PBJ Mitchell,2,P,,L,M,1
 B25,North American,TB-25 Mitchell,2,P,,L,M,1
+B25,North American,Mitchell,2,P,,L,M,0
 B26,Douglas,A-26 Invader,2,P,,L,M,1
 B26,Douglas,B-26 Invader,2,P,,L,M,1
 B26,Douglas,CB-26 Invader,2,P,,L,M,1
-B26,Douglas,Invader,2,P,,L,M,1
 B26,Douglas,RB-26 Invader,2,P,,L,M,1
 B26,Douglas,TB-26 Invader,2,P,,L,M,1
 B26,Douglas,UB-26 Invader,2,P,,L,M,1
 B26,Douglas,VB-26 Invader,2,P,,L,M,1
 B26,On Mark,Marketeer,2,P,,L,M,1
 B26,On Mark,Marksman,2,P,,L,M,1
+B26,Douglas,Invader,2,P,,L,M,0
 B26M,Martin,179 Marauder,2,P,,L,M,1
 B26M,Martin,B-26 Marauder,2,P,,L,M,1
-B26M,Martin,Marauder,2,P,,L,M,1
+B26M,Martin,Marauder,2,P,,L,M,0
 B29,Boeing,B-29 Superfortress,4,P,,L,M,1
-B29,Boeing,Superfortress,4,P,,L,M,1
+B29,Boeing,Superfortress,4,P,,L,M,0
 B305,Brantly,305,1,P,,H,L,1
 B350,Beech,300 (B300) Super King Air 350,2,T,,L,L/M,1
-B350,Beech,Super King Air 350,2,T,,L,L/M,1
 B350,Beechcraft,300 (B300) King Air 350,2,T,,L,L/M,1
 B350,Beechcraft,300 (B300) King Air 360,2,T,,L,L/M,1
-B350,Beechcraft,King Air 350,2,T,,L,L/M,1
-B350,Beechcraft,King Air 360,2,T,,L,L/M,1
 B350,Hawker Beechcraft,300 (B300) King Air 350,2,T,,L,L/M,1
 B350,Hawker Beechcraft,300 (B300) Shadow,2,T,,L,L/M,1
-B350,Hawker Beechcraft,King Air 350,2,T,,L,L/M,1
 B350,Hawker Beechcraft,MC-12,2,T,,L,L/M,1
-B350,Hawker Beechcraft,Shadow,2,T,,L,L/M,1
 B350,Raytheon,300 (B300) Super King Air 350,2,T,,L,L/M,1
 B350,Raytheon,LR-2 Super King Air 350,2,T,,L,L/M,1
-B350,Raytheon,Super King Air 350,2,T,,L,L/M,1
+B350,Beech,Super King Air 350,2,T,,L,L/M,0
 B350,Beechcraft,300 (B300) King Air 350,2,T,,L,L,0
+B350,Beechcraft,King Air 350,2,T,,L,L/M,0
 B350,Beechcraft,King Air 350,2,T,,L,L,0
+B350,Beechcraft,King Air 360,2,T,,L,L/M,0
+B350,Hawker Beechcraft,King Air 350,2,T,,L,L/M,0
+B350,Hawker Beechcraft,Shadow,2,T,,L,L/M,0
+B350,Raytheon,Super King Air 350,2,T,,L,L/M,0
 B360,Yakovlev Aircraft,Bear 360,1,P,,L,L,1
 B36T,Allison,36 Turbine Bonanza,1,T,,L,L,1
-B36T,Allison,Turbine Bonanza,1,T,,L,L,1
 B36T,Beech,36 Bonanza (turbine),1,T,,L,L,1
-B36T,Beech,"Bonanza (36, turbine)",1,T,,L,L,1
 B36T,Raytheon,36 Bonanza (turbine),1,T,,L,L,1
-B36T,Raytheon,"Bonanza (36, turbine)",1,T,,L,L,1
 B36T,Tradewind Turbines,36 Prop-Jet Bonanza,1,T,,L,L,1
-B36T,Tradewind Turbines,Prop-Jet Bonanza,1,T,,L,L,1
+B36T,Allison,Turbine Bonanza,1,T,,L,L,0
+B36T,Beech,"Bonanza (36, turbine)",1,T,,L,L,0
+B36T,Raytheon,"Bonanza (36, turbine)",1,T,,L,L,0
+B36T,Tradewind Turbines,Prop-Jet Bonanza,1,T,,L,L,0
 B37M,Boeing,737 MAX 7,2,J,,L,M,1
 B37M,Boeing,737 MAX 7 BBJ,2,J,,L,M,1
 B37M,Boeing,737-7,2,J,,L,M,1
-B37M,Boeing,BBJ (737 MAX 7),2,J,,L,M,1
+B37M,Boeing,BBJ (737 MAX 7),2,J,,L,M,0
 B38M,Boeing,737 MAX 8,2,J,,L,M,1
 B38M,Boeing,737 MAX 8 BBJ,2,J,,L,M,1
 B38M,Boeing,737 MAX 8200,2,J,,L,M,1
 B38M,Boeing,737-8,2,J,,L,M,1
 B38M,Boeing,737-8200,2,J,,L,M,1
-B38M,Boeing,BBJ (737 MAX 8),2,J,,L,M,1
 B38M,Boeing,737 MAX 200,2,J,,L,M,0
+B38M,Boeing,BBJ (737 MAX 8),2,J,,L,M,0
 B39M,Boeing,737 MAX 9,2,J,,L,M,1
 B39M,Boeing,737 MAX 9 BBJ,2,J,,L,M,1
 B39M,Boeing,737-9,2,J,,L,M,1
-B39M,Boeing,BBJ (737 MAX 9),2,J,,L,M,1
+B39M,Boeing,BBJ (737 MAX 9),2,J,,L,M,0
 B3XM,Boeing,737 MAX 10,2,J,,L,M,1
 B3XM,Boeing,737-10,2,J,,L,M,1
 B407,Bell,407,1,T,,H,L,1
-B407,Bell,Arapaho (RH-70),1,T,,H,L,1
 B407,Bell,ARH-70 Arapaho,1,T,,H,L,1
 B407,Bell,YRH-70 Arapaho,1,T,,H,L,1
 B407,Nusantara,NBell-407,1,T,,H,L,1
+B407,Bell,Arapaho (RH-70),1,T,,H,L,0
 B412,Agusta,AB-412,2,T,,H,L,1
 B412,Agusta,AB-412 Griffon,2,T,,H,L,1
-B412,Agusta,Griffon,2,T,,H,L,1
 B412,Agusta,Hkp11,2,T,,H,L,1
 B412,Bell,412,2,T,,H,L,1
 B412,Bell,412 Arapaho,2,T,,H,L,1
 B412,Bell,412 Griffin,2,T,,H,L,1
 B412,Bell,412 Sentinel,2,T,,H,L,1
-B412,Bell,Arapaho (412),2,T,,H,L,1
 B412,Bell,CH-146 Griffon,2,T,,H,L,1
-B412,Bell,Griffin,2,T,,H,L,1
-B412,Bell,Griffon,2,T,,H,L,1
-B412,Bell,Sentinel,2,T,,H,L,1
-B412,Dirgantara,NBell-412,2,T,,H,L,1
+B412,DIRGANTARA INDONESIA,NBell-412,2,T,,H,L,1
 B412,Nusantara,NBell-412,2,T,,H,L,1
+B412,Agusta,Griffon,2,T,,H,L,0
+B412,Bell,Arapaho (412),2,T,,H,L,0
+B412,Bell,Griffin,2,T,,H,L,0
+B412,Bell,Griffon,2,T,,H,L,0
+B412,Bell,Sentinel,2,T,,H,L,0
+B412,Dirgantara,NBell-412,2,T,,H,L,0
 B427,Bell,427,2,T,,H,L,1
 B427,Korea Aerospace,SB-427,2,T,,H,L,1
 B429,Bell,429 GlobalRanger,2,T,,H,L,1
-B429,Bell,GlobalRanger,2,T,,H,L,1
+B429,Bell,GlobalRanger,2,T,,H,L,0
 B430,Bell,430,2,T,,H,L,1
 B461,British Aerospace,BAe-146-100,4,J,,L,M,1
 B461,British Aerospace,BAe-146-100 Statesman,4,J,,L,M,1
-B461,British Aerospace,Statesman (100),4,J,,L,M,1
+B461,British Aerospace,Statesman (100),4,J,,L,M,0
 B462,British Aerospace,BAe-146-200,4,J,,L,M,1
 B462,British Aerospace,BAe-146-200 Quiet Trader,4,J,,L,M,1
 B462,British Aerospace,BAe-146-200 Statesman,4,J,,L,M,1
-B462,British Aerospace,Quiet Trader,4,J,,L,M,1
-B462,British Aerospace,Statesman (200),4,J,,L,M,1
+B462,British Aerospace,Quiet Trader,4,J,,L,M,0
+B462,British Aerospace,Statesman (200),4,J,,L,M,0
 B463,British Aerospace,BAe-146-300,4,J,,L,M,1
 B47G,Agusta,AB-47G,1,P,,H,L,1
 B47G,Bell,47D,1,P,,H,L,1
@@ -232,31 +234,31 @@ B47G,Bell,47G,1,P,,H,L,1
 B47G,Bell,47G Trooper,1,P,,H,L,1
 B47G,Bell,47H,1,P,,H,L,1
 B47G,Bell,OH-13 Sioux,1,P,,H,L,1
-B47G,Bell,Sioux,1,P,,H,L,1
 B47G,Bell,TH-13T,1,P,,H,L,1
-B47G,Bell,Trooper,1,P,,H,L,1
 B47G,Bell,UH-13H,1,P,,H,L,1
 B47G,Kawasaki,47G,1,P,,H,L,1
 B47G,Westland,Sioux,1,P,,H,L,1
+B47G,Bell,Sioux,1,P,,H,L,0
+B47G,Bell,Trooper,1,P,,H,L,0
 B47J,Agusta,AB-47J,1,P,,H,L,1
 B47J,Bell,47J Ranger,1,P,,H,L,1
 B47J,Bell,HH-13,1,P,,H,L,1
-B47J,Bell,Ranger,1,P,,H,L,1
 B47J,Bell,TH-13N,1,P,,H,L,1
 B47J,Bell,UH-13J,1,P,,H,L,1
 B47J,Bell,UH-13P,1,P,,H,L,1
 B47J,Bell,UH-13R,1,P,,H,L,1
+B47J,Bell,Ranger,1,P,,H,L,0
 B47T,Soloy,Bell 47,1,T,,H,L,1
 B505,Bell,505 Jet Ranger X,1,T,,H,L,1
-B505,Bell,Jet Ranger X,1,T,,H,L,1
+B505,Bell,Jet Ranger X,1,T,,H,L,0
 B52,Boeing,B-52 Stratofortress,8,J,,L,H,1
-B52,Boeing,Stratofortress,8,J,,L,H,1
+B52,Boeing,Stratofortress,8,J,,L,H,0
 B525,Bell,525 Relentless,2,T,,H,M,1
-B525,Bell,Relentless,2,T,,H,M,1
+B525,Bell,Relentless,2,T,,H,M,0
 B58T,Beech,58P Pressurized Baron,2,P,,L,L,1
 B58T,Beech,58TC Baron,2,P,,L,L,1
-B58T,Beech,Baron (58TC),2,P,,L,L,1
-B58T,Beech,Pressurized Baron,2,P,,L,L,1
+B58T,Beech,Baron (58TC),2,P,,L,L,0
+B58T,Beech,Pressurized Baron,2,P,,L,L,0
 B60,Boisavia,B-60 Mercurey,1,P,,L,L,1
 B60,Boisavia,B-601 Mercurey,1,P,,L,L,1
 B60,Boisavia,B-602 Mercurey,1,P,,L,L,1
@@ -264,31 +266,31 @@ B60,Boisavia,B-603 Mercurey,1,P,,L,L,1
 B60,Boisavia,B-604 Mercurey,1,P,,L,L,1
 B60,Boisavia,B-605 Mercurey,1,P,,L,L,1
 B60,Boisavia,B-606 Mercurey,1,P,,L,L,1
-B60,Boisavia,Mercurey,1,P,,L,L,1
+B60,Boisavia,Mercurey,1,P,,L,L,0
 B609,AgustaWestland,AW-609,2,T,,T,M,1
 B609,Bell-Agusta,BA-609,2,T,,T,M,1
 B60T,Beech,60 Royal Turbine Duke,2,T,,L,L,1
-B60T,Beech,Royal Turbine Duke,2,T,,L,L,1
 B60T,Northwest Turbine,60 Royal Turbine Duke,2,T,,L,L,1
-B60T,Northwest Turbine,Royal Turbine Duke,2,T,,L,L,1
+B60T,Beech,Royal Turbine Duke,2,T,,L,L,0
+B60T,Northwest Turbine,Royal Turbine Duke,2,T,,L,L,0
 B701,Boeing,707-100,4,J,,L,M,1
 B703,Boeing,707-300,4,J,,L,H,1
 B703,Boeing,C-137,4,J,,L,H,1
 B703,Boeing,C-18,4,J,,L,H,1
-B703,Boeing,E-8 J-Stars,4,J,,L,H,1
 B703,Boeing,EC-137,4,J,,L,H,1
 B703,Boeing,EC-18,4,J,,L,H,1
-B703,Boeing,J-Stars,4,J,,L,H,1
 B703,Boeing,KC-137,4,J,,L,H,1
-B703,Grumman,E-8 J-Stars,4,J,,L,H,1
-B703,Grumman,J-Stars,4,J,,L,H,1
 B703,IAI,707 Phalcon,4,J,,L,H,1
-B703,IAI,Phalcon,4,J,,L,H,1
-B703,Northrop Grumman,E-8 J-Stars,4,J,,L,H,1
-B703,Northrop Grumman,J-Stars,4,J,,L,H,1
+B703,Boeing,E-8 J-Stars,4,J,,L,H,0
+B703,Boeing,J-Stars,4,J,,L,H,0
+B703,Grumman,E-8 J-Stars,4,J,,L,H,0
+B703,Grumman,J-Stars,4,J,,L,H,0
+B703,IAI,Phalcon,4,J,,L,H,0
+B703,Northrop Grumman,E-8 J-Stars,4,J,,L,H,0
+B703,Northrop Grumman,J-Stars,4,J,,L,H,0
 B712,Boeing,717-200,2,J,A,L,M,1
 B712,Boeing,717-200 Business Express,2,J,A,L,M,1
-B712,Boeing,Business Express,2,J,A,L,M,1
+B712,Boeing,Business Express,2,J,A,L,M,0
 B720,Boeing,720,4,J,,L,M,1
 B721,Boeing,727-100,3,J,A,L,M,1
 B721,Boeing,C-22,3,J,A,L,M,1
@@ -297,30 +299,30 @@ B731,Boeing,737-100,2,J,,L,M,0
 B732,Boeing,737-200,2,J,,L,M,1
 B732,Boeing,737-200 Surveiller,2,J,,L,M,1
 B732,Boeing,CT-43,2,J,,L,M,1
-B732,Boeing,Surveiller,2,J,,L,M,1
 B732,Boeing,VC-96,2,J,,L,M,1
+B732,Boeing,Surveiller,2,J,,L,M,0
 B733,Boeing,737-300,2,J,,L,M,1
 B734,Boeing,737-400,2,J,,L,M,1
 B735,Boeing,737-500,2,J,,L,M,1
 B736,Boeing,737-600,2,J,,L,M,1
 B737,Boeing,737-700,2,J,,L,M,1
 B737,Boeing,737-700 BBJ,2,J,,L,M,1
-B737,Boeing,BBJ (737-700),2,J,,L,M,1
 B737,Boeing,C-40,2,J,,L,M,1
 B737,Boeing,C-40 Clipper,2,J,,L,M,1
-B737,Boeing,Clipper,2,J,,L,M,1
 B737,Boeing,737 MAX 7,2,J,,L,M,0
 B737,Boeing,BBJ,2,J,,L,M,0
+B737,Boeing,BBJ (737-700),2,J,,L,M,0
+B737,Boeing,Clipper,2,J,,L,M,0
 B738,Boeing,737-800,2,J,,L,M,1
 B738,Boeing,737-800 BBJ2,2,J,,L,M,1
-B738,Boeing,BBJ2,2,J,,L,M,1
 B738,Boeing,737 MAX 8,2,J,,L,M,0
 B738,Boeing,BBJ (737 MAX 8),2,J,,L,M,0
+B738,Boeing,BBJ2,2,J,,L,M,0
 B739,Boeing,737-900,2,J,,L,M,1
 B739,Boeing,737-900 BBJ3,2,J,,L,M,1
-B739,Boeing,BBJ3,2,J,,L,M,1
 B739,Boeing,737 MAX 9,2,J,,L,M,0
 B739,Boeing,BBJ (737 MAX 9),2,J,,L,M,0
+B739,Boeing,BBJ3,2,J,,L,M,0
 B741,Boeing,747-100,4,J,,L,H,1
 B742,Boeing,747-200,4,J,,L,H,1
 B742,Boeing,E-4,4,J,,L,H,1
@@ -332,7 +334,7 @@ B744,Boeing,"747-400 (international, winglets)",4,J,,L,H,0
 B744,Boeing,YAL-1,4,J,,L,H,0
 B748,Boeing,747-8,4,J,,L,H,1
 B748,Boeing,747-8 BBJ,4,J,,L,H,1
-B748,Boeing,BBJ (747-8),4,J,,L,H,1
+B748,Boeing,BBJ (747-8),4,J,,L,H,0
 B74D,Boeing,"747-400 (domestic, no winglets)",4,J,,L,H,0
 B74R,Boeing,747SR,4,J,,L,H,1
 B74S,Boeing,747SP,4,J,,L,H,1
@@ -342,7 +344,7 @@ B753,Boeing,757-300,2,J,,L,M,1
 B762,Boeing,767-200,2,J,,L,H,1
 B762,Boeing,KC-46 Pegasus,2,J,,L,H,1
 B762,Boeing,KC-767,2,J,,L,H,1
-B762,Boeing,Pegasus,2,J,,L,H,1
+B762,Boeing,Pegasus,2,J,,L,H,0
 B763,Boeing,767-300,2,J,,L,H,1
 B764,Boeing,767-400,2,J,,L,H,1
 B772,Boeing,777-200,2,J,,L,H,1
@@ -353,123 +355,123 @@ B779,Boeing,777-9,2,J,,L,H,1
 B77L,Boeing,777-200LR,2,J,,L,H,1
 B77L,Boeing,777-200LR BBJ,2,J,,L,H,1
 B77L,Boeing,777-F,2,J,,L,H,1
-B77L,Boeing,BBJ (777-200LR),2,J,,L,H,1
+B77L,Boeing,BBJ (777-200LR),2,J,,L,H,0
 B77W,Boeing,777-300ER,2,J,,L,H,1
 B77W,Boeing,777-300ER BBJ,2,J,,L,H,1
-B77W,Boeing,BBJ (777-300ER),2,J,,L,H,1
+B77W,Boeing,BBJ (777-300ER),2,J,,L,H,0
 B783,Boeing,787-3 Dreamliner,2,J,,L,H,0
 B788,Boeing,787-8 BBJ,2,J,,L,H,1
 B788,Boeing,787-8 Dreamliner,2,J,,L,H,1
-B788,Boeing,BBJ (787-8),2,J,,L,H,1
-B788,Boeing,Dreamliner (Srs.8),2,J,,L,H,1
+B788,Boeing,BBJ (787-8),2,J,,L,H,0
+B788,Boeing,Dreamliner (Srs.8),2,J,,L,H,0
 B789,Boeing,787-9 BBJ,2,J,,L,H,1
 B789,Boeing,787-9 Dreamliner,2,J,,L,H,1
-B789,Boeing,BBJ (787-9),2,J,,L,H,1
-B789,Boeing,Dreamliner (Srs.9),2,J,,L,H,1
+B789,Boeing,BBJ (787-9),2,J,,L,H,0
+B789,Boeing,Dreamliner (Srs.9),2,J,,L,H,0
 B78X,Boeing,787-10 Dreamliner,2,J,,L,H,1
-B78X,Boeing,Dreamliner (Srs.10),2,J,,L,H,1
+B78X,Boeing,Dreamliner (Srs.10),2,J,,L,H,0
 BA11,BAC,111 One-Eleven,2,J,,L,M,1
-BA11,BAC,One-Eleven,2,J,,L,M,1
 BA11,British Aerospace,BAC-111 One-Eleven,2,J,,L,M,1
-BA11,British Aerospace,One-Eleven,2,J,,L,M,1
-BA11,Bucuresti,One-Eleven,2,J,,L,M,1
 BA11,Bucuresti,Rombac 1-11 One-Eleven,2,J,,L,M,1
+BA11,BAC,One-Eleven,2,J,,L,M,0
+BA11,British Aerospace,One-Eleven,2,J,,L,M,0
+BA11,Bucuresti,One-Eleven,2,J,,L,M,0
 BABY,Canadian Home Rotors,Baby Belle,1,P,,H,L,1
 BABY,Canadian Home Rotors,Safari,1,P,,H,L,1
 BALL,,Balloon,,,,,,0
-BAR6,Barr,BarrSix,1,P,,L,L,1
+BAR6,Barr,BarrSix,1,P,,L,L,0
 BARC,Buethe,Barracuda,1,P,,L,L,1
 BARC,Jeffair,Barracuda,1,P,,L,L,1
 BASS,Beagle,B-206,2,P,,L,L,1
 BASS,Beagle,B-206 Basset,2,P,,L,L,1
-BASS,Beagle,Basset,2,P,,L,L,1
 BASS,Beagle-Auster,B-206,2,P,,L,L,1
-BBAT,Bradley,Aerobat,1,P,,L,L,1
+BASS,Beagle,Basset,2,P,,L,L,0
 BBAT,Bradley,BA-100 Aerobat,1,P,,L,L,1
+BBAT,Bradley,Aerobat,1,P,,L,L,0
 BBIR,Hovey,Beta Bird,1,P,,L,L,1
 BCA3,Buhl,CA-3 Sport Airsedan,1,P,,L,L,1
-BCA3,Buhl,Sport Airsedan,1,P,,L,L,1
-BCAT,Grumman,Bearcat,1,P,,L,L,1
+BCA3,Buhl,Sport Airsedan,1,P,,L,L,0
 BCAT,Grumman,F8F Bearcat,1,P,,L,L,1
 BCAT,Grumman,G-58 Bearcat,1,P,,L,L,1
+BCAT,Grumman,Bearcat,1,P,,L,L,0
 BCS1,Airbus,A-220-100,2,J,,L,M,1
 BCS1,Airbus,A-220-100 ACJ TwoTwenty,2,J,,L,M,1
-BCS1,Airbus,ACJ TwoTwenty,2,J,,L,M,1
 BCS1,Bombardier,BD-500 CSeries CS100,2,J,,L,M,1
-BCS1,Bombardier,CS100,2,J,,L,M,1
-BCS1,Bombardier,CSeries CS100,2,J,,L,M,1
 BCS1,Airbus,A220-100,2,J,,L,M,0
 BCS1,Airbus,A220-100 ACJ TwoTwenty,2,J,,L,M,0
+BCS1,Airbus,ACJ TwoTwenty,2,J,,L,M,0
+BCS1,Bombardier,CS100,2,J,,L,M,0
+BCS1,Bombardier,CSeries CS100,2,J,,L,M,0
 BCS3,Airbus,A-220-300,2,J,,L,M,1
 BCS3,Bombardier,BD-500 CSeries CS300,2,J,,L,M,1
-BCS3,Bombardier,CS300,2,J,,L,M,1
-BCS3,Bombardier,CSeries CS300,2,J,,L,M,1
 BCS3,Airbus,A220-300,2,J,,L,M,0
+BCS3,Bombardier,CS300,2,J,,L,M,0
+BCS3,Bombardier,CSeries CS300,2,J,,L,M,0
 BD10,Bede,BD-10,1,J,,L,L,1
-BD10,Peregrine,Falcon,1,J,,L,L,1
 BD10,Peregrine,PJ-2 Falcon,1,J,,L,L,1
 BD10,Peregrine,PJ-3 Falcon,1,J,,L,L,1
+BD10,Peregrine,Falcon,1,J,,L,L,0
 BD12,Bede,BD-12,1,P,,L,L,0
 BD17,Bede,BD-17 Nuggett,1,P,,L,L,1
-BD17,Bede,Nuggett,1,P,,L,L,1
+BD17,Bede,Nuggett,1,P,,L,L,0
 BD4,Bede,BD-4,1,P,,L,L,1
 BD4,Tennessee Valley,BD-4,1,P,,L,L,1
 BD5,Alturair,BD-5B Micro,1,P,,L,L,1
 BD5,Alturair,BD-5G Micro,1,P,,L,L,1
-BD5,Alturair,Micro (BD-5B/G),1,P,,L,L,1
 BD5,BD Micro Technologies,BD-5B Micro,1,P,,L,L,1
-BD5,BD Micro Technologies,Micro (BD-5B),1,P,,L,L,1
 BD5,Bede,BD-5B Micro,1,P,,L,L,1
 BD5,Bede,BD-5D Micro,1,P,,L,L,1
 BD5,Bede,BD-5G Micro,1,P,,L,L,1
-BD5,Bede,Micro (BD-5B/D/G),1,P,,L,L,1
+BD5,Alturair,Micro (BD-5B/G),1,P,,L,L,0
+BD5,BD Micro Technologies,Micro (BD-5B),1,P,,L,L,0
+BD5,Bede,Micro (BD-5B/D/G),1,P,,L,L,0
 BD5J,Alturair,BD-5J Micro,1,J,,L,L,1
-BD5J,Alturair,Micro (BD-5J),1,J,,L,L,1
 BD5J,BD Micro Technologies,BD-5J Micro,1,J,,L,L,1
-BD5J,BD Micro Technologies,Micro (BD-5J),1,J,,L,L,1
 BD5J,Bede,BD-5J Micro,1,J,,L,L,1
-BD5J,Bede,Micro (BD-5J),1,J,,L,L,1
+BD5J,Alturair,Micro (BD-5J),1,J,,L,L,0
+BD5J,BD Micro Technologies,Micro (BD-5J),1,J,,L,L,0
+BD5J,Bede,Micro (BD-5J),1,J,,L,L,0
 BD5T,BD Micro Technologies,BD-5T Micro,1,T,,L,L,1
-BD5T,BD Micro Technologies,Micro (BD-5T),1,T,,L,L,1
 BD5T,Bede,BD-5TP Micro,1,T,,L,L,1
-BD5T,Bede,Micro (BD-5TP),1,T,,L,L,1
+BD5T,BD Micro Technologies,Micro (BD-5T),1,T,,L,L,0
+BD5T,Bede,Micro (BD-5TP),1,T,,L,L,0
 BDOG,Beagle,B-125 Bulldog,1,P,,L,L,1
-BDOG,Beagle,Bulldog,1,P,,L,L,1
-BDOG,British Aerospace,Bulldog,1,P,,L,L,1
 BDOG,British Aerospace,SA-3 Bulldog,1,P,,L,L,1
-BDOG,Scottish Aviation,Bulldog,1,P,,L,L,1
 BDOG,Scottish Aviation,Fpl61,1,P,,L,L,1
 BDOG,Scottish Aviation,SA-3 Bulldog,1,P,,L,L,1
 BDOG,Scottish Aviation,Sk61,1,P,,L,L,1
+BDOG,Beagle,Bulldog,1,P,,L,L,0
+BDOG,British Aerospace,Bulldog,1,P,,L,L,0
+BDOG,Scottish Aviation,Bulldog,1,P,,L,L,0
 BE10,Beech,100 King Air,2,T,,L,L,1
-BE10,Beech,King Air (100),2,T,,L,L,1
 BE10,Beech,U-21F Ute,2,T,,L,L,1
-BE10,Beech,Ute (U-21F),2,T,,L,L,1
+BE10,Beech,King Air (100),2,T,,L,L,0
+BE10,Beech,Ute (U-21F),2,T,,L,L,0
 BE12,Beriev,Be-12 Tchaika,2,T,,A,M,1
-BE12,Beriev,Tchaika,2,T,,A,M,1
+BE12,Beriev,Tchaika,2,T,,A,M,0
 BE17,Beech,17 Staggerwing,1,P,,L,L,1
-BE17,Beech,Staggerwing,1,P,,L,L,1
-BE17,Beech,Traveler,1,P,,L,L,1
 BE17,Beech,UC-43 Traveler,1,P,,L,L,1
 BE17,Beech,YC-43 Traveler,1,P,,L,L,1
+BE17,Beech,Staggerwing,1,P,,L,L,0
+BE17,Beech,Traveler,1,P,,L,L,0
 BE18,Beech,18 (piston),2,P,,L,L,1
 BE18,Beech,AT-11 Kansan,2,P,,L,L,1
 BE18,Beech,AT-7 Navigator,2,P,,L,L,1
 BE18,Beech,C-45 Expeditor,2,P,,L,L,1
-BE18,Beech,Expeditor,2,P,,L,L,1
 BE18,Beech,JRB Expeditor,2,P,,L,L,1
-BE18,Beech,Kansan,2,P,,L,L,1
-BE18,Beech,Navigator,2,P,,L,L,1
 BE18,Beech,RC-45 Expeditor,2,P,,L,L,1
 BE18,Beech,SNB Expeditor,2,P,,L,L,1
 BE18,Beech,TC-45 Expeditor,2,P,,L,L,1
 BE18,Beech,UC-45 Expeditor,2,P,,L,L,1
 BE18,Hamilton,Little Liner,2,P,,L,L,1
 BE18,Volpar,18,2,P,,L,L,1
+BE18,Beech,Expeditor,2,P,,L,L,0
+BE18,Beech,Kansan,2,P,,L,L,0
+BE18,Beech,Navigator,2,P,,L,L,0
 BE19,Beech,19 Musketeer Sport,1,P,,L,L,1
 BE19,Beech,19 Sport,1,P,,L,L,1
-BE19,Beech,Musketeer Sport,1,P,,L,L,1
-BE19,Beech,Sport,1,P,,L,L,1
+BE19,Beech,Musketeer Sport,1,P,,L,L,0
+BE19,Beech,Sport,1,P,,L,L,0
 BE20,Beech,1300 Commuter,2,T,,L,L/M,1
 BE20,Beech,200 Super King Air,2,T,,L,L/M,1
 BE20,Beech,C-12A Huron,2,T,,L,L/M,1
@@ -479,24 +481,18 @@ BE20,Beech,C-12E Huron,2,T,,L,L/M,1
 BE20,Beech,C-12F Huron,2,T,,L,L/M,1
 BE20,Beech,C-12L Huron,2,T,,L,L/M,1
 BE20,Beech,C-12R Huron,2,T,,L,L/M,1
-BE20,Beech,Commuter,2,T,,L,L/M,1
 BE20,Beech,FWC-12 Tzufit,2,T,,L,L/M,1
-BE20,Beech,Huron,2,T,,L,L/M,1
 BE20,Beech,JC-12 Huron,2,T,,L,L/M,1
 BE20,Beech,NC-12 Huron,2,T,,L,L/M,1
 BE20,Beech,RC-12 Huron,2,T,,L,L/M,1
-BE20,Beech,Super King Air (200),2,T,,L,L/M,1
 BE20,Beech,TC-12 Huron,2,T,,L,L/M,1
-BE20,Beech,Tzufit,2,T,,L,L/M,1
 BE20,Beech,UC-12 Huron,2,T,,L,L/M,1
 BE20,Beechcraft,200 King Air 250,2,T,,L,L/M,1
-BE20,Beechcraft,King Air 250,2,T,,L,L/M,1
+BE20,Beechcraft,200 King Air 260,2,T,,L,L/M,1
+BE20,Beechcraft,King Air 260,2,T,,L,L/M,1
 BE20,Hawker Beechcraft,200 King Air 200,2,T,,L,L/M,1
-BE20,Hawker Beechcraft,King Air 200,2,T,,L,L/M,1
 BE20,Raytheon,200 Super King Air,2,T,,L,L/M,1
 BE20,Raytheon,C-12 Huron,2,T,,L,L/M,1
-BE20,Raytheon,Huron,2,T,,L,L/M,1
-BE20,Raytheon,Super King Air (200),2,T,,L,L/M,1
 BE20,Beech,1300 Commuter,2,T,,L,L,0
 BE20,Beech,200 Super King Air,2,T,,L,L,0
 BE20,Beech,C-12A Huron,2,T,,L,L,0
@@ -507,208 +503,216 @@ BE20,Beech,C-12F Huron,2,T,,L,L,0
 BE20,Beech,C-12L Huron,2,T,,L,L,0
 BE20,Beech,C-12R Huron,2,T,,L,L,0
 BE20,Beech,Commuter,2,T,,L,L,0
+BE20,Beech,Commuter,2,T,,L,L/M,0
 BE20,Beech,FWC-12 Tzufit,2,T,,L,L,0
 BE20,Beech,Huron,2,T,,L,L,0
+BE20,Beech,Huron,2,T,,L,L/M,0
 BE20,Beech,JC-12 Huron,2,T,,L,L,0
 BE20,Beech,NC-12 Huron,2,T,,L,L,0
 BE20,Beech,RC-12 Huron,2,T,,L,L,0
 BE20,Beech,Super King Air (200),2,T,,L,L,0
+BE20,Beech,Super King Air (200),2,T,,L,L/M,0
 BE20,Beech,TC-12 Huron,2,T,,L,L,0
 BE20,Beech,Tzufit,2,T,,L,L,0
+BE20,Beech,Tzufit,2,T,,L,L/M,0
 BE20,Beech,UC-12 Huron,2,T,,L,L,0
 BE20,Beechcraft,200 King Air 250,2,T,,L,L,0
 BE20,Beechcraft,King Air 250,2,T,,L,L,0
+BE20,Beechcraft,King Air 250,2,T,,L,L/M,0
 BE20,Hawker Beechcraft,200 King Air 200,2,T,,L,L,0
 BE20,Hawker Beechcraft,King Air 200,2,T,,L,L,0
+BE20,Hawker Beechcraft,King Air 200,2,T,,L,L/M,0
 BE20,Raytheon,200 Super King Air,2,T,,L,L,0
 BE20,Raytheon,C-12 Huron,2,T,,L,L,0
+BE20,Raytheon,Huron,2,T,,L,L/M,0
 BE20,Raytheon,Super King Air (200),2,T,,L,L,0
+BE20,Raytheon,Super King Air (200),2,T,,L,L/M,0
 BE22,Beechcraft,220 Denali,1,T,,L,L,1
-BE22,Beechcraft,Denali,1,T,,L,L,1
 BE22,Textron,220 Denali,1,T,,L,L,1
-BE22,Textron,Denali,1,T,,L,L,1
+BE22,Beechcraft,Denali,1,T,,L,L,0
+BE22,Textron,Denali,1,T,,L,L,0
 BE23,Beech,23 Musketeer,1,P,,L,L,1
 BE23,Beech,23 Sundowner,1,P,,L,L,1
-BE23,Beech,Musketeer,1,P,,L,L,1
-BE23,Beech,Sundowner,1,P,,L,L,1
+BE23,Beech,Musketeer,1,P,,L,L,0
+BE23,Beech,Sundowner,1,P,,L,L,0
 BE24,Beech,24 Musketeer Super,1,P,,L,L,1
 BE24,Beech,24 Sierra,1,P,,L,L,1
-BE24,Beech,Musketeer Super,1,P,,L,L,1
-BE24,Beech,Sierra,1,P,,L,L,1
+BE24,Beech,Musketeer Super,1,P,,L,L,0
+BE24,Beech,Sierra,1,P,,L,L,0
 BE30,Beech,300 Super King Air,2,T,,L,L,1
-BE30,Beech,Super King Air (300),2,T,,L,L,1
 BE30,Raytheon,300 Super King Air,2,T,,L,L,1
-BE30,Raytheon,Super King Air (300),2,T,,L,L,1
+BE30,Beech,Super King Air (300),2,T,,L,L,0
+BE30,Raytheon,Super King Air (300),2,T,,L,L,0
 BE32,Beriev,Be-30,2,T,,L,M,1
 BE32,Beriev,Be-32,2,T,,L,M,1
 BE33,Beech,33 Bonanza,1,P,,L,L,1
 BE33,Beech,33 Debonair,1,P,,L,L,1
-BE33,Beech,Bonanza (33),1,P,,L,L,1
-BE33,Beech,Debonair,1,P,,L,L,1
 BE33,Colemill,Starfire Bonanza 33,1,P,,L,L,1
 BE33,HESA,Parastu,1,P,,L,L,1
 BE33,Raytheon,33 Bonanza,1,P,,L,L,1
-BE33,Raytheon,Bonanza (33),1,P,,L,L,1
+BE33,Beech,Bonanza (33),1,P,,L,L,0
+BE33,Beech,Debonair,1,P,,L,L,0
+BE33,Raytheon,Bonanza (33),1,P,,L,L,0
 BE35,Beech,35 Bonanza,1,P,,L,L,1
-BE35,Beech,Bonanza (35),1,P,,L,L,1
 BE35,Colemill,Starfire Bonanza 35,1,P,,L,L,1
+BE35,Beech,Bonanza (35),1,P,,L,L,0
 BE36,Beech,36 Bonanza 36,1,P,,L,L,1
 BE36,Beech,A36 Bonanza 36,1,P,,L,L,1
 BE36,Beech,A36AT Bonanza 36,1,P,,L,L,1
-BE36,Beech,Bonanza 36,1,P,,L,L,1
-BE36,Beechcraft,Bonanza (G36),1,P,,L,L,1
 BE36,Beechcraft,G36 Bonanza,1,P,,L,L,1
 BE36,Colemill,Starfire Bonanza 36,1,P,,L,L,1
-BE36,Hawker Beechcraft,Bonanza (G36),1,P,,L,L,1
 BE36,Hawker Beechcraft,G36 Bonanza,1,P,,L,L,1
 BE36,Raytheon,A36 Bonanza 36,1,P,,L,L,1
 BE36,Raytheon,A36 Chofit,1,P,,L,L,1
-BE36,Raytheon,Bonanza (G36),1,P,,L,L,1
-BE36,Raytheon,Bonanza 36,1,P,,L,L,1
-BE36,Raytheon,Chofit,1,P,,L,L,1
 BE36,Raytheon,G36 Bonanza,1,P,,L,L,1
+BE36,Beech,Bonanza 36,1,P,,L,L,0
+BE36,Beechcraft,Bonanza (G36),1,P,,L,L,0
+BE36,Hawker Beechcraft,Bonanza (G36),1,P,,L,L,0
+BE36,Raytheon,Bonanza (G36),1,P,,L,L,0
+BE36,Raytheon,Bonanza 36,1,P,,L,L,0
+BE36,Raytheon,Chofit,1,P,,L,L,0
 BE40,Beech,400 Beechjet,2,J,A,L,M,1
 BE40,Beech,400A Beechjet,2,J,A,L,M,1
 BE40,Beech,400T Jayhawk,2,J,A,L,M,1
 BE40,Beech,400T TX,2,J,A,L,M,1
-BE40,Beech,Beechjet (400/400A),2,J,A,L,M,1
-BE40,Beech,Jayhawk,2,J,A,L,M,1
 BE40,Beech,T-1 Jayhawk,2,J,A,L,M,1
 BE40,Beech,T-400,2,J,A,L,M,1
-BE40,Beech,TX,2,J,A,L,M,1
 BE40,Hawker Beechcraft,Hawker 400XP,2,J,A,L,M,1
 BE40,Raytheon,400A Beechjet,2,J,A,L,M,1
 BE40,Raytheon,400T Jayhawk,2,J,A,L,M,1
 BE40,Raytheon,400T TX,2,J,A,L,M,1
-BE40,Raytheon,Beechjet (400A),2,J,A,L,M,1
 BE40,Raytheon,Hawker 400XP,2,J,A,L,M,1
-BE40,Raytheon,Jayhawk,2,J,A,L,M,1
 BE40,Raytheon,T-1 Jayhawk,2,J,A,L,M,1
 BE40,Raytheon,T-400,2,J,A,L,M,1
-BE40,Raytheon,TX,2,J,A,L,M,1
 BE40,Beech,Beechjet,2,J,A,L,M,0
+BE40,Beech,Beechjet (400/400A),2,J,A,L,M,0
+BE40,Beech,Jayhawk,2,J,A,L,M,0
 BE40,Beech,T-400 Beechjet,2,J,A,L,M,0
+BE40,Beech,TX,2,J,A,L,M,0
 BE40,Hawker Beechcraft,Hawker 400,2,J,A,L,M,0
 BE40,Raytheon,400 Beechjet,2,J,A,L,M,0
 BE40,Raytheon,Beechjet,2,J,A,L,M,0
+BE40,Raytheon,Beechjet (400A),2,J,A,L,M,0
 BE40,Raytheon,Hawker 400,2,J,A,L,M,0
+BE40,Raytheon,Jayhawk,2,J,A,L,M,0
 BE40,Raytheon,T-400 Beechjet,2,J,A,L,M,0
+BE40,Raytheon,TX,2,J,A,L,M,0
 BE45,Hawker Beechcraft,450,2,J,,L,M,0
 BE4W,Beech,400XPR Beechjet,2,J,,L,M,1
 BE4W,Beech,400XT Beechjet,2,J,,L,M,1
-BE4W,Beech,Beechjet (400XT/400XPR),2,J,,L,M,1
 BE4W,Hawker Beechcraft,400XPR Beechjet,2,J,,L,M,1
-BE4W,Hawker Beechcraft,Beechjet (400XPR),2,J,,L,M,1
 BE4W,Hawker Beechcraft,Hawker 400XPR,2,J,,L,M,1
 BE4W,Hawker Beechcraft,Hawker 400XT,2,J,,L,M,1
 BE4W,Nextant,400XT Beechjet,2,J,,L,M,1
-BE4W,Nextant,Beechjet (400XT),2,J,,L,M,1
 BE4W,Nextant,Hawker 400XT,2,J,,L,M,1
 BE4W,Raytheon,400XPR Beechjet,2,J,,L,M,1
 BE4W,Raytheon,400XT Beechjet,2,J,,L,M,1
-BE4W,Raytheon,Beechjet (400XT/400XPR),2,J,,L,M,1
 BE4W,Raytheon,Hawker 400XPR,2,J,,L,M,1
 BE4W,Raytheon,Hawker 400XT,2,J,,L,M,1
+BE4W,Beech,Beechjet (400XT/400XPR),2,J,,L,M,0
+BE4W,Hawker Beechcraft,Beechjet (400XPR),2,J,,L,M,0
+BE4W,Nextant,Beechjet (400XT),2,J,,L,M,0
+BE4W,Raytheon,Beechjet (400XT/400XPR),2,J,,L,M,0
 BE50,Beech,50 Twin Bonanza,2,P,,L,L,1
 BE50,Beech,RU-8 Seminole,2,P,,L,L,1
-BE50,Beech,Seminole (U-8D/E/G),2,P,,L,L,1
-BE50,Beech,Twin Bonanza,2,P,,L,L,1
 BE50,Beech,U-8D Seminole,2,P,,L,L,1
 BE50,Beech,U-8E Seminole,2,P,,L,L,1
 BE50,Beech,U-8G Seminole,2,P,,L,L,1
 BE50,Excalibur,Excalibur,2,P,,L,L,1
 BE50,Swearingen,Excalibur,2,P,,L,L,1
+BE50,Beech,Seminole (U-8D/E/G),2,P,,L,L,0
+BE50,Beech,Twin Bonanza,2,P,,L,L,0
 BE55,Beech,55 Baron,2,P,,L,L,1
-BE55,Beech,Baron (55),2,P,,L,L,1
 BE55,Beech,C-55 Baron,2,P,,L,L,1
-BE55,Beech,Cochise,2,P,,L,L,1
 BE55,Beech,T-42 Cochise,2,P,,L,L,1
 BE55,Colemill,Foxstar Baron 55,2,P,,L,L,1
 BE55,Colemill,President 600,2,P,,L,L,1
+BE55,Beech,Baron (55),2,P,,L,L,0
+BE55,Beech,Cochise,2,P,,L,L,0
 BE56,Beech,56 Turbo Baron,2,P,,L,L,1
-BE56,Beech,Turbo Baron,2,P,,L,L,1
+BE56,Beech,Turbo Baron,2,P,,L,L,0
 BE58,Beech,58 Baron,2,P,,L,L,1
-BE58,Beech,Baron (58),2,P,,L,L,1
 BE58,Beechcraft,58 Baron,2,P,,L,L,1
-BE58,Beechcraft,Baron,2,P,,L,L,1
 BE58,Colemill,Foxstar Baron 58,2,P,,L,L,1
 BE58,Hawker Beechcraft,58 Baron,2,P,,L,L,1
-BE58,Hawker Beechcraft,Baron,2,P,,L,L,1
 BE58,Raytheon,58 Baron,2,P,,L,L,1
-BE58,Raytheon,Baron,2,P,,L,L,1
+BE58,Beech,Baron (58),2,P,,L,L,0
+BE58,Beechcraft,Baron,2,P,,L,L,0
+BE58,Hawker Beechcraft,Baron,2,P,,L,L,0
+BE58,Raytheon,Baron,2,P,,L,L,0
 BE60,Beech,60 Duke,2,P,,L,L,1
-BE60,Beech,Duke,2,P,,L,L,1
+BE60,Beech,Duke,2,P,,L,L,0
 BE65,Beech,65 Queen Air,2,P,,L,L,1
-BE65,Beech,Queen Air (65),2,P,,L,L,1
-BE65,Beech,Seminole (U-8F),2,P,,L,L,1
 BE65,Beech,U-8F Seminole,2,P,,L,L,1
 BE65,Excalibur,Queenaire 800 (65),2,P,,L,L,1
 BE65,Swearingen,800 (65),2,P,,L,L,1
+BE65,Beech,Queen Air (65),2,P,,L,L,0
+BE65,Beech,Seminole (U-8F),2,P,,L,L,0
 BE70,Beech,70 Queen Air,2,P,,L,L,1
-BE70,Beech,Queen Air (70),2,P,,L,L,1
+BE70,Beech,Queen Air (70),2,P,,L,L,0
 BE76,Beech,76 Duchess,2,P,,L,L,1
-BE76,Beech,Duchess,2,P,,L,L,1
+BE76,Beech,Duchess,2,P,,L,L,0
 BE77,Beech,77 Skipper,1,P,,L,L,1
-BE77,Beech,Skipper,1,P,,L,L,1
+BE77,Beech,Skipper,1,P,,L,L,0
 BE80,Beech,80 Queen Air,2,P,,L,L,1
 BE80,Beech,80 Zamir,2,P,,L,L,1
-BE80,Beech,Queen Air (80),2,P,,L,L,1
-BE80,Beech,Zamir,2,P,,L,L,1
 BE80,Excalibur,Queenaire 800 (80),2,P,,L,L,1
 BE80,Excalibur,Queenaire 8800,2,P,,L,L,1
 BE80,Swearingen,800 (80),2,P,,L,L,1
+BE80,Beech,Queen Air (80),2,P,,L,L,0
+BE80,Beech,Zamir,2,P,,L,L,0
 BE88,Beech,88 Queen Air,2,P,,L,L,1
-BE88,Beech,Queen Air (88),2,P,,L,L,1
+BE88,Beech,Queen Air (88),2,P,,L,L,0
 BE95,Beech,95 Travel Air,2,P,,L,L,1
-BE95,Beech,Travel Air,2,P,,L,L,1
+BE95,Beech,Travel Air,2,P,,L,L,0
 BE99,Beech,99 Airliner,2,T,,L,L,1
-BE99,Beech,Airliner,2,T,,L,L,1
+BE99,Beech,Airliner,2,T,,L,L,0
 BE9L,Beech,90 (A90) King Air,2,T,,L,L,1
 BE9L,Beech,90 (B90) King Air,2,T,,L,L,1
 BE9L,Beech,90 (C90) King Air,2,T,,L,L,1
 BE9L,Beech,90 (D90) King Air,2,T,,L,L,1
 BE9L,Beech,90 (E90) King Air,2,T,,L,L,1
 BE9L,Beech,90 King Air,2,T,,L,L,1
-BE9L,Beech,"King Air (90, A90 to E90)",2,T,,L,L,1
-BE9L,Beech,Pegasus,2,T,,L,L,1
 BE9L,Beech,T-44 Pegasus,2,T,,L,L,1
 BE9L,Beechcraft,90 King Air 90,2,T,,L,L,1
-BE9L,Beechcraft,King Air 90,2,T,,L,L,1
 BE9L,Hawker Beechcraft,90 King Air 90,2,T,,L,L,1
-BE9L,Hawker Beechcraft,King Air 90,2,T,,L,L,1
 BE9L,Jetcrafters,Taurus 90,2,T,,L,L,1
 BE9L,Raytheon,90 King Air,2,T,,L,L,1
-BE9L,Raytheon,King Air,2,T,,L,L,1
 BE9L,Swearingen,Taurus 90,2,T,,L,L,1
+BE9L,Beech,"King Air (90, A90 to E90)",2,T,,L,L,0
+BE9L,Beech,Pegasus,2,T,,L,L,0
 BE9L,Beech,T-44 King Air,2,T,,L,L,0
 BE9L,Beech,VC-6 King Air,2,T,,L,L,0
+BE9L,Beechcraft,King Air 90,2,T,,L,L,0
+BE9L,Hawker Beechcraft,King Air 90,2,T,,L,L,0
+BE9L,Raytheon,King Air,2,T,,L,L,0
 BE9T,Beech,90 (F90) King Air,2,T,,L,L,1
-BE9T,Beech,King Air (F90),2,T,,L,L,1
-BEAR,AviPro,Bearhawk,1,P,,L,L,1
+BE9T,Beech,King Air (F90),2,T,,L,L,0
 BEAR,AviPro,RB-4 Bearhawk,1,P,,L,L,1
-BEAR,R & B,Bearhawk,1,P,,L,L,1
 BEAR,R & B,RB-4 Bearhawk,1,P,,L,L,1
-BELF,Short,Belfast,4,T,,L,M,1
+BEAR,AviPro,Bearhawk,1,P,,L,L,0
+BEAR,R & B,Bearhawk,1,P,,L,L,0
 BELF,Short,SC-5 Belfast,4,T,,L,M,1
-BER2,Beriev,Altair,2,J,,A,M,1
+BELF,Short,Belfast,4,T,,L,M,0
 BER2,Beriev,Be-200 Altair,2,J,,A,M,1
+BER2,Beriev,Altair,2,J,,A,M,0
 BER4,Beriev,A-40 Albatross,2,J,,A,M,1
-BER4,Beriev,Albatross,2,J,,A,M,1
+BER4,Beriev,Albatross,2,J,,A,M,0
 BETA,Rollason,Beta,1,P,,L,L,1
 BEVR,ASAP,Beaver,1,P,,L,L,1
 BF19,Podesva,Bf-109G-2,1,P,,L,L,1
 BFIT,Bristol,F-2B Fighter,1,P,,L,L,1
 BFIT,Bristol,F-2B Fighter Replica,1,P,,L,L,1
-BFIT,Bristol,Fighter,1,P,,L,L,1
-BFIT,Bristol,Fighter Replica,1,P,,L,L,1
+BFIT,Bristol,Fighter,1,P,,L,L,0
+BFIT,Bristol,Fighter Replica,1,P,,L,L,0
 BILO,Pena,Bilouis,1,P,,L,L,1
 BIPL,EAA,Biplane,1,P,,L,L,1
-BIRD,C.Gilbert Taylor,Bird,1,P,,L,L,1
 BIRD,C.Gilbert Taylor,TA-2 Bird,1,P,,L,L,1
 BIRD,C.Gilbert Taylor,TA-3 Bird,1,P,,L,L,1
+BIRD,C.Gilbert Taylor,Bird,1,P,,L,L,0
 BISC,Bilsam,Sky Cruiser,1,P,,L,L,1
 BISC,BOT Aircraft,SC-07 Speed Cruiser,1,P,,L,L,1
-BISC,BOT Aircraft,Speed Cruiser,1,P,,L,L,1
+BISC,BOT Aircraft,Speed Cruiser,1,P,,L,L,0
 BK17,CASA,BK-117,2,T,,H,L,1
 BK17,Eurocopter-Kawasaki,BK-117B,2,T,,H,L,1
 BK17,Eurocopter-Kawasaki,BK-117C-1,2,T,,H,L,1
@@ -721,39 +725,39 @@ BKUT,Renaissance Composites,Berkut,1,P,,L,L,1
 BL11,Bleriot,11,1,P,,L,L,1
 BL11,Bleriot,11 Replica,1,P,,L,L,1
 BL17,Alexandria,17 Super Viking,1,P,,L,L,1
-BL17,Alexandria,Super Viking,1,P,,L,L,1
 BL17,Bellanca,17 Super Viking,1,P,,L,L,1
 BL17,Bellanca,17 Turbo Super Viking,1,P,,L,L,1
 BL17,Bellanca,17 Turbo Viking,1,P,,L,L,1
 BL17,Bellanca,17 Viking,1,P,,L,L,1
-BL17,Bellanca,Super Viking,1,P,,L,L,1
-BL17,Bellanca,Turbo Super Viking,1,P,,L,L,1
-BL17,Bellanca,Turbo Viking,1,P,,L,L,1
-BL17,Bellanca,Viking,1,P,,L,L,1
+BL17,Alexandria,Super Viking,1,P,,L,L,0
+BL17,Bellanca,Super Viking,1,P,,L,L,0
+BL17,Bellanca,Turbo Super Viking,1,P,,L,L,0
+BL17,Bellanca,Turbo Viking,1,P,,L,L,0
+BL17,Bellanca,Viking,1,P,,L,L,0
 BL19,AviaBellanca,19 Skyrocket,1,P,,L,L,1
-BL19,AviaBellanca,Skyrocket,1,P,,L,L,1
 BL19,Bellanca,19 Skyrocket,1,P,,L,L,1
-BL19,Bellanca,Skyrocket (19),1,P,,L,L,1
+BL19,AviaBellanca,Skyrocket,1,P,,L,L,0
 BL19,Bellanca,Skyrocket,1,P,,L,L,0
+BL19,Bellanca,Skyrocket (19),1,P,,L,L,0
 BL8,American Champion,8 Scout,1,P,,L,L,1
 BL8,American Champion,8 Super Decathlon,1,P,,L,L,1
-BL8,American Champion,Scout,1,P,,L,L,1
-BL8,American Champion,Super Decathlon,1,P,,L,L,1
 BL8,Bellanca,8 Decathlon,1,P,,L,L,1
 BL8,Bellanca,8 Scout,1,P,,L,L,1
-BL8,Bellanca,Decathlon,1,P,,L,L,1
-BL8,Bellanca,Scout,1,P,,L,L,1
 BL8,Champion,8 Decathlon,1,P,,L,L,1
-BL8,Champion,Decathlon,1,P,,L,L,1
+BL8,American Champion,Scout,1,P,,L,L,0
+BL8,American Champion,Super Decathlon,1,P,,L,L,0
+BL8,Bellanca,Decathlon,1,P,,L,L,0
+BL8,Bellanca,Scout,1,P,,L,L,0
+BL8,Champion,Decathlon,1,P,,L,L,0
 BLBU,Ameur,Altania,1,P,,L,L,1
 BLBU,Ameur,Balbuzard,1,P,,L,L,1
 BLBU,Ameur,Baljims,1,P,,L,L,1
 BLCF,Boeing,747-400LCF Dreamlifter,4,J,,L,H,1
-BLCF,Boeing,Dreamlifter,4,J,,L,H,1
+BLCF,Boeing,Dreamlifter,4,J,,L,H,0
 BLEN,Bristol,149 Blenheim,2,P,,L,L,1
 BLEN,Bristol,149 Bolingbroke,2,P,,L,L,1
-BLEN,Bristol,Blenheim,2,P,,L,L,1
-BLEN,Bristol,Bolingbroke,2,P,,L,L,1
+BLEN,Bristol,Blenheim,2,P,,L,L,0
+BLEN,Bristol,Bolingbroke,2,P,,L,L,0
 BLKS,Aircraft Spruce,Baby Lakes,1,P,,L,L,1
 BLKS,Aircraft Spruce,Buddy Baby Lakes,1,P,,L,L,1
 BLKS,Aircraft Spruce,Super Baby Lakes,1,P,,L,L,1
@@ -761,133 +765,134 @@ BLKS,Oldfield,Baby Lakes,1,P,,L,L,1
 BLKS,Oldfield,Buddy Baby Lakes,1,P,,L,L,1
 BLKS,Oldfield,Super Baby Lakes,1,P,,L,L,1
 BM6,Maranda,BM-6 Lark,1,P,,L,L,1
-BM6,Maranda,Lark,1,P,,L,L,1
+BM6,Maranda,Lark,1,P,,L,L,0
 BMAN,AAK,Bushman,1,P,,L,L,1
 BN2P,Avions Fairey,BN-2A Defender,2,P,,L,L,1
 BN2P,Avions Fairey,BN-2A Islander,2,P,,L,L,1
 BN2P,Avions Fairey,BN-2A Maritime Defender,2,P,,L,L,1
 BN2P,Avions Fairey,BN-2B Islander,2,P,,L,L,1
-BN2P,Avions Fairey,Defender,2,P,,L,L,1
-BN2P,Avions Fairey,Islander,2,P,,L,L,1
-BN2P,Avions Fairey,Maritime Defender,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2 Islander,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2A Defender,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2A Islander,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2A Maritime Defender,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2B Defender,2,P,,L,L,1
 BN2P,Britten-Norman,BN-2B Islander,2,P,,L,L,1
-BN2P,Britten-Norman,Defender,2,P,,L,L,1
-BN2P,Britten-Norman,Islander,2,P,,L,L,1
-BN2P,Britten-Norman,Maritime Defender,2,P,,L,L,1
 BN2P,Bucuresti,BN-2B Islander,2,P,,L,L,1
-BN2P,Bucuresti,Islander,2,P,,L,L,1
 BN2P,IRMA,BN-2A Islander,2,P,,L,L,1
 BN2P,IRMA,BN-2B Islander,2,P,,L,L,1
-BN2P,IRMA,Islander,2,P,,L,L,1
 BN2P,PADC,BN-2A Islander,2,P,,L,L,1
 BN2P,PADC,BN-2B Islander,2,P,,L,L,1
-BN2P,PADC,Islander,2,P,,L,L,1
 BN2P,Pilatus Britten-Norman,BN-2A Islander,2,P,,L,L,1
 BN2P,Pilatus Britten-Norman,BN-2B Islander,2,P,,L,L,1
-BN2P,Pilatus Britten-Norman,Islander,2,P,,L,L,1
 BN2P,Romaero,BN-2B Islander,2,P,,L,L,1
-BN2P,Romaero,Islander,2,P,,L,L,1
+BN2P,Avions Fairey,Defender,2,P,,L,L,0
+BN2P,Avions Fairey,Islander,2,P,,L,L,0
+BN2P,Avions Fairey,Maritime Defender,2,P,,L,L,0
+BN2P,Britten-Norman,Defender,2,P,,L,L,0
+BN2P,Britten-Norman,Islander,2,P,,L,L,0
+BN2P,Britten-Norman,Maritime Defender,2,P,,L,L,0
+BN2P,Bucuresti,Islander,2,P,,L,L,0
+BN2P,IRMA,Islander,2,P,,L,L,0
+BN2P,PADC,Islander,2,P,,L,L,0
+BN2P,Pilatus Britten-Norman,Islander,2,P,,L,L,0
+BN2P,Romaero,Islander,2,P,,L,L,0
 BN2T,Britten-Norman,BN-2T Defender 4000,2,T,,L,L,1
 BN2T,Britten-Norman,BN-2T Turbine Defender,2,T,,L,L,1
 BN2T,Britten-Norman,BN-2T Turbine Islander,2,T,,L,L,1
-BN2T,Britten-Norman,Defender 4000,2,T,,L,L,1
-BN2T,Britten-Norman,Turbine Defender,2,T,,L,L,1
-BN2T,Britten-Norman,Turbine Islander,2,T,,L,L,1
 BN2T,Bucuresti,BN-2T Turbine Islander,2,T,,L,L,1
-BN2T,Bucuresti,Turbine Islander,2,T,,L,L,1
 BN2T,Pilatus Britten-Norman,BN-2T Defender 4000,2,T,,L,L,1
 BN2T,Pilatus Britten-Norman,BN-2T Turbine Islander,2,T,,L,L,1
-BN2T,Pilatus Britten-Norman,Defender 4000,2,T,,L,L,1
-BN2T,Pilatus Britten-Norman,Turbine Islander,2,T,,L,L,1
 BN2T,Romaero,BN-2T Defender 4000,2,T,,L,L,1
 BN2T,Romaero,BN-2T Turbine Islander,2,T,,L,L,1
-BN2T,Romaero,Defender 4000,2,T,,L,L,1
-BN2T,Romaero,Turbine Islander,2,T,,L,L,1
+BN2T,Britten-Norman,Defender 4000,2,T,,L,L,0
+BN2T,Britten-Norman,Turbine Defender,2,T,,L,L,0
+BN2T,Britten-Norman,Turbine Islander,2,T,,L,L,0
+BN2T,Bucuresti,Turbine Islander,2,T,,L,L,0
+BN2T,Pilatus Britten-Norman,Defender 4000,2,T,,L,L,0
+BN2T,Pilatus Britten-Norman,Turbine Islander,2,T,,L,L,0
+BN2T,Romaero,Defender 4000,2,T,,L,L,0
+BN2T,Romaero,Turbine Islander,2,T,,L,L,0
 BO40,Boeing,40,1,P,,L,L,1
 BOLT,Steen,Skybolt,1,P,,L,L,1
 BOOM,Rutan,202 Boomerang,2,P,,L,L,1
-BOOM,Rutan,Boomerang,2,P,,L,L,1
+BOOM,Rutan,Boomerang,2,P,,L,L,0
 BPAT,R & B,Bearhawk Patrol,1,P,,L,L,1
 BPOD,Rutan,367 BiPod,4,E,,L,L,0
 BPOD,Rutan,BiPod,4,E,,L,L,0
 BPOD,Scaled,367 BiPod,4,E,,L,L,0
 BPOD,Scaled,BiPod,4,E,,L,L,0
+BPUM,BDC AERO,Puma,1,P,,L,L,1
+BPUM,BORTOLANZA,Puma,1,P,,L,L,1
 BR14,Breguet,14 Replica,1,P,,L,L,1
 BR23,BRM Aero,Bristell B23,1,P,,L,L,1
 BR54,Barnett,BRC-540,1,P,,G,L,1
 BR60,Brumby,600,1,P,,L,L,1
 BR60,Brumby,Brumby,1,P,,L,L,1
 BR61,Brumby,610 Evolution,1,P,,L,L,1
-BR61,Brumby,Evolution,1,P,,L,L,1
+BR61,Brumby,Evolution,1,P,,L,L,0
 BR8,BRM Aero,Bristell B8,1,P,,L,L,1
-BRAV,Tecnam,Bravo,1,P,,L,L,1
 BRAV,Tecnam,P-2004 Bravo,1,P,,L,L,1
+BRAV,Tecnam,Bravo,1,P,,L,L,0
 BRB2,Brantly,B-2,1,P,,H,L,1
 BRB2,Brantly-Hynes,B-2,1,P,,H,L,1
 BRB2,Hynes,H-2,1,P,,H,L,1
 BRB2,Qingdao,B-2,1,P,,H,L,1
 BREZ,Aerostyle,Breezer,1,P,,L,L,1
 BREZ,Breezer,Breezer,1,P,,L,L,1
-BROU,Max Holste,Broussard,1,P,,L,L,1
 BROU,Max Holste,MH-1521 Broussard,1,P,,L,L,1
+BROU,Max Holste,Broussard,1,P,,L,L,0
 BRUM,Brumby,Brumby,1,P,,L,L,0
 BS60,Beech-Sferma,60 Marquis,2,T,,L,L,1
-BS60,Beech-Sferma,Marquis,2,T,,L,L,1
+BS60,Beech-Sferma,Marquis,2,T,,L,L,0
 BSCA,Boeing,747SCA Shuttle Carrier,4,J,,L,H,0
 BSCA,Boeing,Shuttle Carrier,4,J,,L,H,0
 BSTP,Bell,214ST SuperTransport,2,T,,H,M,1
-BSTP,Bell,SuperTransport,2,T,,H,M,1
-BSTR,Custom Flight,Bright Star,1,P,,L,L,1
+BSTP,Bell,SuperTransport,2,T,,H,M,0
+BSTR,Custom Flight,Bright Star,1,P,,L,L,0
+BSWN,DRONAMICS,Black Swan,1,P,,L,L,1
 BT36,Beech,A36TC Bonanza,1,P,,L,L,1
 BT36,Beech,B36TC Bonanza,1,P,,L,L,1
-BT36,Beech,Bonanza (A36TC/B36TC),1,P,,L,L,1
 BT36,Raytheon,B36TC Bonanza,1,P,,L,L,1
-BT36,Raytheon,Bonanza (B36TC),1,P,,L,L,1
+BT36,Beech,Bonanza (A36TC/B36TC),1,P,,L,L,0
+BT36,Raytheon,Bonanza (B36TC),1,P,,L,L,0
 BT7,Boeing,BTX-1,1,J,,L,M,1
-BT7,Boeing,Red Hawk,1,J,,L,M,1
 BT7,Boeing,T-7 Red Hawk,1,J,,L,M,1
+BT7,Boeing,Red Hawk,1,J,,L,M,0
+BTB2,BAYKAR,Bayraktar TB-2,1,P,,L,L,1
+BTB3,BAYKAR,Bayraktar TB-3,1,P,,L,L,1
 BTUB,Kimbrel,Dormoy Bathtub,1,P,,L,L,1
 BTX1,Boeing,BTX-1,1,J,,L,L,0
 BU20,Aircraft Hydro-Forming,Bushmaster 2000,3,P,,L,L,1
 BU31,Aero Vodochody (Czech),C-104,1,P,,L,L,1
 BU31,Aero Vodochody (Czech),Z-131,1,P,,L,L,1
 BU31,Bucker,Bü-131 Jungmann,1,P,,L,L,1
-BU31,Bucker,Jungmann,1,P,,L,L,1
 BU31,Bucker Prado,Bü-131 Jungmann,1,P,,L,L,1
-BU31,Bucker Prado,Jungmann,1,P,,L,L,1
 BU31,CASA,1-131,1,P,,L,L,1
 BU31,Dornier,DoBü-131 Jungmann,1,P,,L,L,1
 BU31,Dornier,DoBü-131 Lerche,1,P,,L,L,1
 BU31,Dornier,DoBüAPM-131 Jungmann,1,P,,L,L,1
 BU31,Dornier,DoBü-R170 Jungmann,1,P,,L,L,1
-BU31,Dornier,Jungmann,1,P,,L,L,1
-BU31,Dornier,Lerche,1,P,,L,L,1
-BU31,SSH,Jungmann,1,P,,L,L,1
 BU31,SSH,T-131 Jungmann,1,P,,L,L,1
+BU31,Bucker,Jungmann,1,P,,L,L,0
+BU31,Bucker Prado,Jungmann,1,P,,L,L,0
+BU31,Dornier,Jungmann,1,P,,L,L,0
+BU31,Dornier,Lerche,1,P,,L,L,0
+BU31,SSH,Jungmann,1,P,,L,L,0
 BU33,Bitz,Bü-133 Jungmeister,1,P,,L,L,1
-BU33,Bitz,Jungmeister,1,P,,L,L,1
 BU33,Bucker,Bü-133 Jungmeister,1,P,,L,L,1
-BU33,Bucker,Jungmeister,1,P,,L,L,1
 BU33,Bucker Prado,Bü-133 Jungmeister,1,P,,L,L,1
-BU33,Bucker Prado,Jungmeister,1,P,,L,L,1
 BU33,CASA,1-133,1,P,,L,L,1
 BU33,Dornier,DoBü-133 Jungmeister,1,P,,L,L,1
-BU33,Dornier,Jungmeister,1,P,,L,L,1
-BU81,Bucker,Bestmann,1,P,,L,L,1
+BU33,Bitz,Jungmeister,1,P,,L,L,0
+BU33,Bucker,Jungmeister,1,P,,L,L,0
+BU33,Bucker Prado,Jungmeister,1,P,,L,L,0
+BU33,Dornier,Jungmeister,1,P,,L,L,0
 BU81,Bucker,Bü-181 Bestmann,1,P,,L,L,1
-BU81,Hagglund,Bestmann,1,P,,L,L,1
 BU81,Hagglund,Bü-181 Bestmann,1,P,,L,L,1
 BU81,Heliopolis,Gomhouria,1,P,,L,L,1
-BU81,Kader,Aeropony,1,P,,L,L,1
 BU81,Kader,Bestmann,1,P,,L,L,1
 BU81,Kader,G-10 Aeropony,1,P,,L,L,1
 BU81,Kader,Gomhouria,1,P,,L,L,1
-BU81,Shadin,Aeropony,1,P,,L,L,1
 BU81,Shadin,S-10 Aeropony,1,P,,L,L,1
 BU81,Zlin,C-106,1,P,,L,L,1
 BU81,Zlin,C-206,1,P,,L,L,1
@@ -895,15 +900,19 @@ BU81,Zlin,C-6,1,P,,L,L,1
 BU81,Zlin,Z-181,1,P,,L,L,1
 BU81,Zlin,Z-182,1,P,,L,L,1
 BU81,Zlin,Z-183,1,P,,L,L,1
+BU81,Bucker,Bestmann,1,P,,L,L,0
+BU81,Hagglund,Bestmann,1,P,,L,L,0
+BU81,Kader,Aeropony,1,P,,L,L,0
+BU81,Shadin,Aeropony,1,P,,L,L,0
 BUC,Hawker Siddeley,Buccaneer,2,J,,L,M,1
 BUCA,Advanced Aeromarine,Mallard,1,P,,A,L,1
 BUCA,Advanced Aviation,Buccaneer,1,P,,A,L,1
 BUCA,Arnet Pereyra,Buccaneer,1,P,,A,L,1
 BUCA,Keuthan,Buccaneer,1,P,,A,L,1
-BULT,Brokaw,BJ-520 Bullet,1,P,,L,L,1
-BULT,Brokaw,Bullet,1,P,,L,L,1
+BULT,Brokaw,BJ-520 Bullet,1,P,,L,L,0
+BULT,Brokaw,Bullet,1,P,,L,L,0
 BUSH,Rainbow Skyreach,BushCat,1,P,,L,L,1
 BW60,Blackwing,BW-600,1,P,,L,L,1
 BW6T,Blackwing,BW-635,1,P,,L,L,1
 BX2,Brandli,BX-2 Cherry,1,P,,L,L,1
-BX2,Brandli,Cherry,1,P,,L,L,1
+BX2,Brandli,Cherry,1,P,,L,L,0

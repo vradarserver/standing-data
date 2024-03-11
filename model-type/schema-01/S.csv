@@ -4,50 +4,50 @@ S05F,SIAI-Marchetti,S-205-20F,1,P,,L,L,1
 S05R,SIAI-Marchetti,S-205-18R,1,P,,L,L,1
 S05R,SIAI-Marchetti,S-205-20R,1,P,,L,L,1
 S05R,SIAI-Marchetti,S-205-22R,1,P,,L,L,1
-S1,Arctic,Arctic Tern,1,P,,L,L,1
 S1,Arctic,S-1 Arctic Tern,1,P,,L,L,1
 S1,Callair,S-1,1,P,,L,L,1
-S1,Interstate,Arctic Tern,1,P,,L,L,1
-S1,Interstate,Cadet,1,P,,L,L,1
 S1,Interstate,L-6 Cadet,1,P,,L,L,1
 S1,Interstate,S-1,1,P,,L,L,1
 S1,Interstate,S-1 Arctic Tern,1,P,,L,L,1
 S1,Interstate,S-1 Cadet,1,P,,L,L,1
+S1,Arctic,Arctic Tern,1,P,,L,L,0
+S1,Interstate,Arctic Tern,1,P,,L,L,0
+S1,Interstate,Cadet,1,P,,L,L,0
 S10,Stinson,10 Voyager,1,P,,L,L,1
 S10,Stinson,105,1,P,,L,L,1
 S10,Stinson,HW-75,1,P,,L,L,1
 S10,Stinson,HW-80,1,P,,L,L,1
-S10,Stinson,Voyager (10),1,P,,L,L,1
+S10,Stinson,Voyager (10),1,P,,L,L,0
 S107,Spratt,107,1,P,,S,L,1
 S108,Piper,108 Station Wagon,1,P,,L,L,1
 S108,Piper,108 Voyager,1,P,,L,L,1
-S108,Piper,Station Wagon,1,P,,L,L,1
-S108,Piper,Voyager,1,P,,L,L,1
 S108,Stinson,108 Station Wagon,1,P,,L,L,1
 S108,Stinson,108 Voyager,1,P,,L,L,1
-S108,Stinson,Station Wagon,1,P,,L,L,1
-S108,Stinson,Voyager (108),1,P,,L,L,1
-S10S,Stemme,Chrysalis,1,P,,L,L,1
+S108,Piper,Station Wagon,1,P,,L,L,0
+S108,Piper,Voyager,1,P,,L,L,0
+S108,Stinson,Station Wagon,1,P,,L,L,0
+S108,Stinson,Voyager (108),1,P,,L,L,0
 S10S,Stemme,S-10,1,P,,L,L,1
 S10S,Stemme,S-10 Chrysalis,1,P,,L,L,1
+S10S,Stemme,Chrysalis,1,P,,L,L,0
 S10S,Stemme,TG-11,1,P,,L,L,0
-S11,Fokker,Instructor,1,P,,L,L,1
 S11,Fokker,S-11 Instructor,1,P,,L,L,1
-S12,Spencer,Air Car,1,P,,A,L,1
+S11,Fokker,Instructor,1,P,,L,L,0
 S12,Spencer,S-12 Air Car,1,P,,A,L,1
-S122,Skyline,Pchelka,2,P,,L,L,1
+S12,Spencer,Air Car,1,P,,A,L,0
 S122,Skyline,SL-122 Pchelka,2,P,,L,L,1
+S122,Skyline,Pchelka,2,P,,L,L,0
 S122,Skyline,SL-122  Pchelka,2,P,,L,L,0
 S12S,Stemme,S-12 Twin Voyager,1,P,,L,L,1
-S12S,Stemme,Twin Voyager,1,P,,L,L,1
+S12S,Stemme,Twin Voyager,1,P,,L,L,0
 S15S,Stemme,S-15,1,P,,L,L,1
-S15U,SAFRAN,Patroller,1,P,,L,L,1
 S15U,SAFRAN,S-15 Patroller,1,P,,L,L,1
-S15U,Stemme,Patroller,1,P,,L,L,1
 S15U,Stemme,S-15 Patroller,1,P,,L,L,1
+S15U,SAFRAN,Patroller,1,P,,L,L,0
+S15U,Stemme,Patroller,1,P,,L,L,0
 S160,SUNWARD,SA160,1,P,,L,L,1
-S200,SIPA,Minijet,1,J,,L,L,1
 S200,SIPA,S-200 Minijet,1,J,,L,L,1
+S200,SIPA,Minijet,1,J,,L,L,0
 S202,SGAU,S-202,2,P,,A,L,1
 S208,SIAI-Marchetti,S-208,1,P,,L,L,1
 S21,MacDonald,S-21,1,P,,L,L,1
@@ -63,15 +63,15 @@ S211,SIAI-Marchetti,S-211,1,J,,L,L,1
 S211,Singapore,S-211,1,J,,L,L,1
 S211,SIAI-Marchetti,M-311,1,J,,L,L,0
 S223,CASA,223 Flamingo,1,P,,L,L,1
-S223,CASA,Flamingo,1,P,,L,L,1
 S223,Hispano,223 Flamingo,1,P,,L,L,1
-S223,Hispano,Flamingo,1,P,,L,L,1
 S223,MBB,223 Flamingo,1,P,,L,L,1
-S223,MBB,Flamingo,1,P,,L,L,1
 S223,Messerschmitt-Bolkow,223 Flamingo,1,P,,L,L,1
-S223,Messerschmitt-Bolkow,Flamingo,1,P,,L,L,1
 S223,SIAT,223 Flamingo,1,P,,L,L,1
-S223,SIAT,Flamingo,1,P,,L,L,1
+S223,CASA,Flamingo,1,P,,L,L,0
+S223,Hispano,Flamingo,1,P,,L,L,0
+S223,MBB,Flamingo,1,P,,L,L,0
+S223,Messerschmitt-Bolkow,Flamingo,1,P,,L,L,0
+S223,SIAT,Flamingo,1,P,,L,L,0
 S22T,Cirrus,SR-22 Turbo,1,P,,L,L,1
 S22T,Cirrus,SR-22T,1,P,,L,L,1
 S274,IRGC,Shahed 274,1,T,,H,L,1
@@ -82,54 +82,54 @@ S285,HESA,Shahed AH-85,1,T,,H,L,1
 S2P,Conair,Firecat,2,P,,L,M,1
 S2P,De Havilland Canada,CS2F Tracker,2,P,,L,M,1
 S2P,De Havilland Canada,S-2 Tracker,2,P,,L,M,1
-S2P,De Havilland Canada,Tracker,2,P,,L,M,1
 S2P,Grumman,G-89 Tracker,2,P,,L,M,1
 S2P,Grumman,P-16 Tracker,2,P,,L,M,1
 S2P,Grumman,S-2 Tracker,2,P,,L,M,1
 S2P,Grumman,S2F Tracker,2,P,,L,M,1
-S2P,Grumman,Tracker,2,P,,L,M,1
+S2P,De Havilland Canada,Tracker,2,P,,L,M,0
+S2P,Grumman,Tracker,2,P,,L,M,0
 S2T,Conair,Turbo Firecat,2,T,,L,M,1
 S2T,Grumman,S-2 Turbo Tracker,2,T,,L,M,1
-S2T,Grumman,Turbo Tracker,2,T,,L,M,1
 S2T,IAI,S-2UP Turbo Tracker,2,T,,L,M,1
-S2T,IAI,Turbo Tracker,2,T,,L,M,1
 S2T,IMP,P-16 Turbo Tracker,2,T,,L,M,1
 S2T,IMP,S-2 Turbo Tracker,2,T,,L,M,1
-S2T,IMP,Turbo Tracker,2,T,,L,M,1
 S2T,Marsh,TS-2F Turbo Tracker,2,T,,L,M,1
-S2T,Marsh,Turbo Tracker,2,T,,L,M,1
+S2T,Grumman,Turbo Tracker,2,T,,L,M,0
+S2T,IAI,Turbo Tracker,2,T,,L,M,0
+S2T,IMP,Turbo Tracker,2,T,,L,M,0
+S2T,Marsh,Turbo Tracker,2,T,,L,M,0
 S3,Lockheed,L-394 Viking,2,J,,L,M,1
 S3,Lockheed,S-3 Viking,2,J,,L,M,1
-S3,Lockheed,Viking,2,J,,L,M,1
 S3,Lockheed,ES-3 Viking,2,J,,L,M,0
 S3,Lockheed,US-3 Viking,2,J,,L,M,0
+S3,Lockheed,Viking,2,J,,L,M,0
 S32E,Schleicher,ASG-32EL,1,E,,L,L,0
 S32M,Schleicher,ASG-32Mi,1,P,,L,L,0
 S330,Schweizer,269D 330,1,T,,H,L,1
 S330,Schweizer,269D 333,1,T,,H,L,1
-S330,Schweizer,330,1,T,,H,L,1
-S330,Schweizer,333,1,T,,H,L,1
 S330,Shanghai Sikorsky,Shen 4,1,T,,H,L,1
 S330,Sikorsky,S-333,1,T,,H,L,1
+S330,Schweizer,330,1,T,,H,L,0
+S330,Schweizer,333,1,T,,H,L,0
 S355,Scaled,355 Firebird,1,P,,L,L,1
-S355,Scaled,Firebird,1,P,,L,L,1
-S360,Aerospatiale,Dauphin,1,T,,H,L,1
+S355,Scaled,Firebird,1,P,,L,L,0
 S360,Aerospatiale,SA-360 Dauphin,1,T,,H,L,1
 S360,Aerospatiale,SA-361 Dauphin,1,T,,H,L,1
-S37,Sukhoi,Berkut,2,J,,L,M,1
+S360,Aerospatiale,Dauphin,1,T,,H,L,0
 S37,Sukhoi,S-37 Berkut,2,J,,L,M,1
 S37,Sukhoi,Su-47 Berkut,2,J,,L,M,1
+S37,Sukhoi,Berkut,2,J,,L,M,0
 S38,Sikorsky,S-38 Replica,2,P,,A,L,1
 S39,Sikorsky,S-39,1,P,,A,L,1
-S4,Arctic,Privateer,1,P,,L,L,1
 S4,Arctic,S-4 Privateer,1,P,,L,L,1
-S400,SGAU,Kapitan,2,P,,S,L,1
+S4,Arctic,Privateer,1,P,,L,L,0
 S400,SGAU,S-400 Kapitan,2,P,,S,L,1
+S400,SGAU,Kapitan,2,P,,S,L,0
 S401,Scaled,401 Sierra,1,J,,L,L,1
-S401,Scaled,Sierra,1,J,,L,L,1
+S401,Scaled,Sierra,1,J,,L,L,0
 S434,Sikorsky,S-434,1,T,,H,L,1
-S45,Partenair,Mystere,1,P,,L,L,1
 S45,Partenair,S-45 Mystere,1,P,,L,L,1
+S45,Partenair,Mystere,1,P,,L,L,0
 S450,Aero-East-Europe,SILA-450,1,P,,L,L,1
 S51,Sikorsky,H-5,1,P,,H,L,1
 S51,Sikorsky,HO3S,1,P,,H,L,1
@@ -140,7 +140,6 @@ S52,Sikorsky,HO5S,1,P,,H,L,1
 S52,Sikorsky,S-52,1,P,,H,L,1
 S52,VAT,Hummingbird,1,P,,H,L,1
 S55P,Sikorsky,CH-19,1,P,,H,L,1
-S55P,Sikorsky,Chickasaw,1,P,,H,L,1
 S55P,Sikorsky,H-19,1,P,,H,L,1
 S55P,Sikorsky,H-19 Chickasaw,1,P,,H,L,1
 S55P,Sikorsky,HH-19,1,P,,H,L,1
@@ -151,12 +150,12 @@ S55P,Sikorsky,S-55A,1,P,,H,L,1
 S55P,Sikorsky,S-55C,1,P,,H,L,1
 S55P,Sikorsky,UH-19,1,P,,H,L,1
 S55P,Sikorsky,UH-19 Chickasaw,1,P,,H,L,1
+S55P,Sikorsky,Chickasaw,1,P,,H,L,0
 S55T,Sikorsky,S-55T,1,T,,H,L,1
 S55T,VAT,Elite,1,T,,H,L,1
-S55T,Westland,Whirlwind 3,1,T,,H,L,1
 S55T,Westland,WS-55 Whirlwind 3,1,T,,H,L,1
+S55T,Westland,Whirlwind 3,1,T,,H,L,0
 S58P,Sikorsky,CH-34 Chocktaw,1,P,,H,L,1
-S58P,Sikorsky,Chocktaw,1,P,,H,L,1
 S58P,Sikorsky,HH-34 Seahorse,1,P,,H,L,1
 S58P,Sikorsky,HSS-1 Seabat,1,P,,H,L,1
 S58P,Sikorsky,HUS Seahorse,1,P,,H,L,1
@@ -164,122 +163,125 @@ S58P,Sikorsky,S-58,1,P,,H,L,1
 S58P,Sikorsky,S-58B,1,P,,H,L,1
 S58P,Sikorsky,S-58C,1,P,,H,L,1
 S58P,Sikorsky,S-58D,1,P,,H,L,1
-S58P,Sikorsky,Seabat,1,P,,H,L,1
-S58P,Sikorsky,Seahorse,1,P,,H,L,1
 S58P,Sikorsky,SH-34 Seabat,1,P,,H,L,1
 S58P,Sikorsky,UH-34 Seahorse,1,P,,H,L,1
 S58P,Sud,S-58,1,P,,H,L,1
+S58P,Sikorsky,Chocktaw,1,P,,H,L,0
+S58P,Sikorsky,Seabat,1,P,,H,L,0
+S58P,Sikorsky,Seahorse,1,P,,H,L,0
 S58T,Sikorsky,S-58DT,1,T,,H,L,1
 S58T,Sikorsky,S-58ET,1,T,,H,L,1
 S58T,Sikorsky,S-58T,1,T,,H,L,1
 S6,Stemme,S-6,1,P,,L,L,1
-S601,Aerospatiale,Corvette,2,J,,L,L,1
 S601,Aerospatiale,SN-601 Corvette,2,J,,L,L,1
+S601,Aerospatiale,Corvette,2,J,,L,L,0
 S61,Agusta,AS-61A,2,T,,H,M,1
 S61,Agusta,AS-61N,2,T,,H,M,1
 S61,Agusta,ASH-61,2,T,,H,M,1
 S61,Agusta,SH-3,2,T,,H,M,1
 S61,Helipro,S-61 Shortsky,2,T,,H,M,1
-S61,Helipro,Shortsky,2,T,,H,M,1
 S61,Mitsubishi,HSS-2,2,T,,H,M,1
 S61,Mitsubishi,S-61A,2,T,,H,M,1
 S61,Mitsubishi,S-61B,2,T,,H,M,1
 S61,Sikorsky,CH-124 Sea King,2,T,,H,M,1
 S61,Sikorsky,HSS-2 Sea King,2,T,,H,M,1
-S61,Sikorsky,Nuri,2,T,,H,M,1
 S61,Sikorsky,S-61A,2,T,,H,M,1
 S61,Sikorsky,S-61A Nuri,2,T,,H,M,1
 S61,Sikorsky,S-61B,2,T,,H,M,1
 S61,Sikorsky,S-61D,2,T,,H,M,1
 S61,Sikorsky,S-61L,2,T,,H,M,1
 S61,Sikorsky,S-61N,2,T,,H,M,1
-S61,Sikorsky,Sea King,2,T,,H,M,1
 S61,Sikorsky,SH-3 Sea King,2,T,,H,M,1
 S61,Sikorsky,UH-3 Sea King,2,T,,H,M,1
 S61,Sikorsky,VH-3 Sea King,2,T,,H,M,1
 S61,United Canada,CH-124 Sea King,2,T,,H,M,1
-S61,United Canada,Sea King,2,T,,H,M,1
-S61,Westland,Commando,2,T,,H,M,1
-S61,Westland,Sea King,2,T,,H,M,1
 S61,Westland,WS-61 Commando,2,T,,H,M,1
 S61,Westland,WS-61 Sea King,2,T,,H,M,1
+S61,Helipro,Shortsky,2,T,,H,M,0
+S61,Sikorsky,Nuri,2,T,,H,M,0
+S61,Sikorsky,Sea King,2,T,,H,M,0
+S61,United Canada,Sea King,2,T,,H,M,0
+S61,Westland,Commando,2,T,,H,M,0
+S61,Westland,Sea King,2,T,,H,M,0
 S61R,Agusta,AS-61R,2,T,,H,M,1
 S61R,Agusta,HH-3,2,T,,H,M,1
 S61R,Sikorsky,CH-3,2,T,,H,M,1
 S61R,Sikorsky,HH-3,2,T,,H,M,1
 S61R,Sikorsky,HH-3 Pelican,2,T,,H,M,1
-S61R,Sikorsky,Pelican,2,T,,H,M,1
 S61R,Sikorsky,S-61R,2,T,,H,M,1
+S61R,Sikorsky,Pelican,2,T,,H,M,0
 S62,Sikorsky,HH-52 Seaguard,1,T,,H,L,1
 S62,Sikorsky,S-62,1,T,,H,L,1
-S62,Sikorsky,Seaguard,1,T,,H,L,1
+S62,Sikorsky,Seaguard,1,T,,H,L,0
 S64,Sikorsky,CH-54 Tarhe,2,T,,H,M,1
 S64,Sikorsky,S-64 Skycrane,2,T,,H,M,1
-S64,Sikorsky,Skycrane,2,T,,H,M,1
-S64,Sikorsky,Tarhe,2,T,,H,M,1
-S65C,Aerospatiale,Dauphin 2 (SA-365C),2,T,,H,L,1
+S64,Sikorsky,Skycrane,2,T,,H,M,0
+S64,Sikorsky,Tarhe,2,T,,H,M,0
 S65C,Aerospatiale,SA-365C Dauphin 2,2,T,,H,L,1
+S65C,Aerospatiale,Dauphin 2 (SA-365C),2,T,,H,L,0
+S716,STRATOS,714,1,J,,L,L,1
+S716,STRATOS,716,1,J,,L,L,1
 S76,Keystone,S-76,2,T,,H,L,1
 S76,Sikorsky,AUH-76,2,T,,H,L,1
-S76,Sikorsky,Eagle,2,T,,H,L,1
 S76,Sikorsky,H-76 Eagle,2,T,,H,L,1
 S76,Sikorsky,S-76,2,T,,H,L,1
 S76,Sikorsky,S-76 Spirit,2,T,,H,L,1
-S76,Sikorsky,Spirit,2,T,,H,L,1
+S76,Sikorsky,Eagle,2,T,,H,L,0
+S76,Sikorsky,Spirit,2,T,,H,L,0
 S900,SIPA,S-901,1,P,,L,L,1
 S900,SIPA,S-902,1,P,,L,L,1
 S900,SIPA,S-903,1,P,,L,L,1
 S900,SIPA,S-904,1,P,,L,L,1
 S92,Sikorsky,CH-148 Cyclone,2,T,,H,M,1
-S92,Sikorsky,Cyclone,2,T,,H,M,1
 S92,Sikorsky,H-92 Superhawk,2,T,,H,M,1
-S92,Sikorsky,Helibus,2,T,,H,M,1
 S92,Sikorsky,S-92 Helibus,2,T,,H,M,1
-S92,Sikorsky,Superhawk,2,T,,H,M,1
-S97,Sikorsky,Raider,1,T,,H,L,1
+S92,Sikorsky,Cyclone,2,T,,H,M,0
+S92,Sikorsky,Helibus,2,T,,H,M,0
+S92,Sikorsky,Superhawk,2,T,,H,M,0
 S97,Sikorsky,S-97 Raider,1,T,,H,L,1
-SA02,K & S,Cavalier (SA-102.5),1,P,,L,L,1
+S97,Sikorsky,Raider,1,T,,H,L,0
 SA02,K & S,SA-102.5 Cavalier,1,P,,L,L,1
-SA03,K & S,Cavalier (SA-103),1,P,,L,L,1
+SA02,K & S,Cavalier (SA-102.5),1,P,,L,L,0
 SA03,K & S,SA-103 Cavalier,1,P,,L,L,1
-SA04,K & S,Cavalier (SA-104),1,P,,L,L,1
+SA03,K & S,Cavalier (SA-103),1,P,,L,L,0
 SA04,K & S,SA-104 Cavalier,1,P,,L,L,1
+SA04,K & S,Cavalier (SA-104),1,P,,L,L,0
 SA05,K & S,SA-105 Super Cavalier,1,P,,L,L,1
-SA05,K & S,Super Cavalier,1,P,,L,L,1
+SA05,K & S,Super Cavalier,1,P,,L,L,0
 SA10,Stolp,SA-100 Starduster,1,P,,L,L,1
-SA10,Stolp,Starduster,1,P,,L,L,1
-SA11,Stits,Playmate,1,P,,L,L,1
+SA10,Stolp,Starduster,1,P,,L,L,0
 SA11,Stits,SA-11 Playmate,1,P,,L,L,1
-SA2,ICP,Rampage,1,P,,L,L,1
+SA11,Stits,Playmate,1,P,,L,L,0
 SA2,ICP,SA-2 Rampage,1,P,,L,L,1
 SA2,ICP,SA-2 Vimana,1,P,,L,L,1
-SA2,ICP,Vimana,1,P,,L,L,1
+SA2,ICP,Rampage,1,P,,L,L,0
+SA2,ICP,Vimana,1,P,,L,L,0
 SA20,Beriev,SA-20,1,P,,A,L,1
-SA3,Stits,Playboy,1,P,,L,L,1
 SA3,Stits,SA-3 Playboy,1,P,,L,L,1
+SA3,Stits,Playboy,1,P,,L,L,0
 SA30,Stolp,SA-300 Starduster Too,1,P,,L,L,1
-SA30,Stolp,Starduster Too,1,P,,L,L,1
-SA37,Schweizer,Condor,1,P,,L,L,1
+SA30,Stolp,Starduster Too,1,P,,L,L,0
 SA37,Schweizer,RG-8 Condor,1,P,,L,L,1
 SA37,Schweizer,SA-2-37 Condor,1,P,,L,L,1
+SA37,Schweizer,Condor,1,P,,L,L,0
 SA38,Schweizer,RU-38A Twin Condor,2,P,,L,L,1
 SA38,Schweizer,SA-2-38A Twin Condor,2,P,,L,L,1
-SA38,Schweizer,Twin Condor (piston),2,P,,L,L,1
+SA38,Schweizer,Twin Condor (piston),2,P,,L,L,0
 SA50,Stolp,SA-500 Starlet,1,P,,L,L,1
-SA50,Stolp,Starlet,1,P,,L,L,1
-SA6,Stits,Flut-R-Bug,1,P,,L,L,1
+SA50,Stolp,Starlet,1,P,,L,L,0
 SA6,Stits,SA-6 Flut-R-Bug,1,P,,L,L,1
-SA6E,Sreya,Envoy,1,T,,L,L,1
+SA6,Stits,Flut-R-Bug,1,P,,L,L,0
 SA6E,Sreya,SA-6 Envoy,1,T,,L,L,1
+SA6E,Sreya,Envoy,1,T,,L,L,0
 SA7,Stits,SA-7 Sky-Coupe,1,P,,L,L,1
-SA7,Stits,Sky-Coupe,1,P,,L,L,1
-SA70,Stolp,Acroduster,1,P,,L,L,1
+SA7,Stits,Sky-Coupe,1,P,,L,L,0
 SA70,Stolp,SA-700 Acroduster,1,P,,L,L,1
-SA75,Stolp,Acroduster Too,1,P,,L,L,1
+SA70,Stolp,Acroduster,1,P,,L,L,0
 SA75,Stolp,SA-750 Acroduster Too,1,P,,L,L,1
+SA75,Stolp,Acroduster Too,1,P,,L,L,0
 SA8T,Schweizer,RU-38B Twin Condor,2,T,,L,L,1
 SA8T,Schweizer,SA-2-38B Twin Condor,2,T,,L,L,1
-SA8T,Schweizer,Twin Condor (turbine),2,T,,L,L,1
+SA8T,Schweizer,Twin Condor (turbine),2,T,,L,L,0
 SAB2,Arnet Pereyra,Sabre 2,1,P,,L,L,1
 SAB2,Keuthan,Sabre 2,1,P,,L,L,1
 SABA,Paravar Pars,Saba,1,P,,L,L,1
@@ -293,52 +295,52 @@ SAFF,Halsted,Saffire,1,P,,L,L,1
 SAH1,FLS,Sprint,1,P,,L,L,1
 SAH1,Trago Mills,SAH-1,1,P,,L,L,1
 SAKO,Rans,S-10 Sakota,1,P,,L,L,1
-SAKO,Rans,Sakota,1,P,,L,L,1
+SAKO,Rans,Sakota,1,P,,L,L,0
 SALB,Skygear,Albatross,1,P,,L,L,1
 SAM,Sam Aircraft,Sam,1,P,,L,L,1
 SAND,Short,S-25 Sandringham,4,P,,S,M,1
-SAND,Short,Sandringham,4,P,,S,M,1
+SAND,Short,Sandringham,4,P,,S,M,0
 SAPH,Piel,CP-1320 Saphir,1,P,,L,L,1
-SAPH,Piel,Saphir,1,P,,L,L,1
+SAPH,Piel,Saphir,1,P,,L,L,0
 SARA,NAL,Saras,2,T,,L,L,0
 SASH,Shark Aircraft,Shark,2,P,,L,L,1
 SASP,Supermarine Aircraft,Spitfire Mk25,1,P,,L,L,1
 SASP,Supermarine Aircraft,Spitfire Mk26,1,P,,L,L,1
-SASY,ProTech,ProStar,1,P,,L,L,1
 SASY,ProTech,PT-2 ProStar,1,P,,L,L,1
 SASY,ProTech,PT-2 Sassy,1,P,,L,L,1
-SASY,ProTech,Sassy,1,P,,L,L,1
+SASY,ProTech,ProStar,1,P,,L,L,0
+SASY,ProTech,Sassy,1,P,,L,L,0
 SATA,CASA,HA-220 Super Saeta,2,J,,L,L,1
-SATA,CASA,Super Saeta,2,J,,L,L,1
 SATA,Hispano,HA-200 Saeta,2,J,,L,L,1
 SATA,Hispano,HA-220 Super Saeta,2,J,,L,L,1
-SATA,Hispano,Saeta,2,J,,L,L,1
-SATA,Hispano,Super Saeta,2,J,,L,L,1
+SATA,CASA,Super Saeta,2,J,,L,L,0
+SATA,Hispano,Saeta,2,J,,L,L,0
+SATA,Hispano,Super Saeta,2,J,,L,L,0
 SAVA,Sadler,Vampire,1,P,,L,L,1
 SAVG,Alms,Callao,1,P,,L,L,1
 SAVG,Russo,Savage,1,P,,L,L,1
 SAVG,Zlin Aviation,Savage,1,P,,L,L,1
 SB05,SAAB,105,2,J,,L,L,1
 SB05,SAAB,Sk60,2,J,,L,L,1
-SB1,Sikorsky,Defiant,2,T,,H,M,1
 SB1,Sikorsky,S-100 Defiant,2,T,,H,M,1
-SB1,SIKORSKY-BOEING,Defiant,2,T,,H,M,1
 SB1,SIKORSKY-BOEING,SB-1 Defiant,2,T,,H,M,1
+SB1,Sikorsky,Defiant,2,T,,H,M,0
+SB1,SIKORSKY-BOEING,Defiant,2,T,,H,M,0
 SB20,SAAB,2000,2,T,,L,M,1
 SB29,SAAB,29,1,J,,L,M,1
 SB29,SAAB,J29,1,J,,L,M,1
 SB32,SAAB,32 Lansen,1,J,,L,M,1
 SB32,SAAB,J32 Lansen,1,J,,L,M,1
-SB32,SAAB,Lansen,1,J,,L,M,1
+SB32,SAAB,Lansen,1,J,,L,M,0
 SB35,SAAB,35 Draken,1,J,,L,M,1
-SB35,SAAB,Draken,1,J,,L,M,1
 SB35,SAAB,F-35 Draken,1,J,,L,M,1
 SB35,SAAB,J35 Draken,1,J,,L,M,1
 SB35,SAAB,RF-35 Draken,1,J,,L,M,1
 SB35,SAAB,Sk35 Draken,1,J,,L,M,1
 SB35,SAAB,TF-35 Draken,1,J,,L,M,1
 SB35,Valmet,35 Draken,1,J,,L,M,1
-SB35,Valmet,Draken,1,J,,L,M,1
+SB35,SAAB,Draken,1,J,,L,M,0
+SB35,Valmet,Draken,1,J,,L,M,0
 SB37,SAAB,37 Viggen,1,J,,L,M,1
 SB37,SAAB,AJ37 Viggen,1,J,,L,M,1
 SB37,SAAB,AJS37 Viggen,1,J,,L,M,1
@@ -346,31 +348,30 @@ SB37,SAAB,JA37 Viggen,1,J,,L,M,1
 SB37,SAAB,SF37 Viggen,1,J,,L,M,1
 SB37,SAAB,SH37 Viggen,1,J,,L,M,1
 SB37,SAAB,Sk37 Viggen,1,J,,L,M,1
-SB37,SAAB,Viggen,1,J,,L,M,1
+SB37,SAAB,Viggen,1,J,,L,M,0
 SB39,SAAB,39 Gripen,1,J,,L,M,1
-SB39,SAAB,Gripen,1,J,,L,M,1
 SB39,SAAB,JAS39 Gripen,1,J,,L,M,1
+SB39,SAAB,Gripen,1,J,,L,M,0
 SB7,Seabird,SB-7 Seeker,1,P,,L,L,1
-SB7,Seabird,Seeker,1,P,,L,L,1
+SB7,Seabird,Seeker,1,P,,L,L,0
 SB91,De Schelde,91 Safir,1,P,,L,L,1
-SB91,De Schelde,Safir,1,P,,L,L,1
 SB91,De Schelde,Sk50 Safir,1,P,,L,L,1
 SB91,SAAB,91 Safir,1,P,,L,L,1
-SB91,SAAB,Safir,1,P,,L,L,1
 SB91,SAAB,Sk50 Safir,1,P,,L,L,1
+SB91,De Schelde,Safir,1,P,,L,L,0
+SB91,SAAB,Safir,1,P,,L,L,0
 SBD,Douglas,A-24 Dauntless,1,P,,L,L,1
-SBD,Douglas,Dauntless,1,P,,L,L,1
 SBD,Douglas,SBD Dauntless,1,P,,L,L,1
+SBD,Douglas,Dauntless,1,P,,L,L,0
 SBLS,SlipStream,SkyBlaster,2,P,,L,L,1
-SBM3,E & K,Kos,1,P,,L,L,1
 SBM3,E & K,SBM-03 Kos,1,P,,L,L,1
+SBM3,E & K,Kos,1,P,,L,L,0
 SBOY,Interplane,Skyboy,1,P,,L,L,1
 SBR1,North American,CT-39 Sabreliner,2,J,,L,M,1
 SBR1,North American,NA-265 Sabreliner 40,2,J,,L,M,1
 SBR1,North American,NA-265 Sabreliner 50,2,J,,L,M,1
 SBR1,North American,NA-265 Sabreliner 60,2,J,,L,M,1
 SBR1,North American,NT-39 Sabreliner,2,J,,L,M,1
-SBR1,North American,Sabreliner,2,J,,L,M,1
 SBR1,North American,T-39 Sabreliner,2,J,,L,M,1
 SBR1,North American,Tp86 Sabreliner,2,J,,L,M,1
 SBR1,North American Rockwell,CT-39 Sabreliner,2,J,,L,M,1
@@ -378,34 +379,35 @@ SBR1,North American Rockwell,NA-265 Sabreliner 40,2,J,,L,M,1
 SBR1,North American Rockwell,NA-265 Sabreliner 60,2,J,,L,M,1
 SBR1,North American Rockwell,Sabre 40,2,J,,L,M,1
 SBR1,North American Rockwell,Sabre 60,2,J,,L,M,1
-SBR1,North American Rockwell,Sabreliner,2,J,,L,M,1
 SBR1,North American Rockwell,T-39 Sabreliner,2,J,,L,M,1
 SBR1,North American Rockwell,Tp86 Sabreliner,2,J,,L,M,1
 SBR1,Rockwell,NA-265 Sabre 40,2,J,,L,M,1
 SBR1,Rockwell,NA-265 Sabre 60,2,J,,L,M,1
 SBR1,Rockwell,NA-265 Sabre 65,2,J,,L,M,1
-SBR1,Rockwell,Sabre 40,2,J,,L,M,1
-SBR1,Rockwell,Sabre 60,2,J,,L,M,1
-SBR1,Rockwell,Sabre 65,2,J,,L,M,1
+SBR1,North American,Sabreliner,2,J,,L,M,0
 SBR1,North American,Sabreliner 40,2,J,,L,M,0
 SBR1,North American,Sabreliner 50,2,J,,L,M,0
 SBR1,North American,Sabreliner 60,2,J,,L,M,0
+SBR1,North American Rockwell,Sabreliner,2,J,,L,M,0
 SBR1,North American Rockwell,Sabreliner 40,2,J,,L,M,0
 SBR1,North American Rockwell,Sabreliner 60,2,J,,L,M,0
+SBR1,Rockwell,Sabre 40,2,J,,L,M,0
+SBR1,Rockwell,Sabre 60,2,J,,L,M,0
+SBR1,Rockwell,Sabre 65,2,J,,L,M,0
 SBR2,North American Rockwell,NA-265 Sabre 75,2,J,,L,M,1
-SBR2,North American Rockwell,Sabre 75,2,J,,L,M,1
 SBR2,Rockwell,NA-265 Sabre 75,2,J,,L,M,1
 SBR2,Rockwell,NA-265 Sabre 80,2,J,,L,M,1
-SBR2,Rockwell,Sabre 75,2,J,,L,M,1
-SBR2,Rockwell,Sabre 80,2,J,,L,M,1
+SBR2,North American Rockwell,Sabre 75,2,J,,L,M,0
+SBR2,Rockwell,Sabre 75,2,J,,L,M,0
+SBR2,Rockwell,Sabre 80,2,J,,L,M,0
 SC01,FFT,SC-01 Speed Canard,1,P,,L,L,1
-SC01,FFT,Speed Canard,1,P,,L,L,1
 SC01,Gyroflug,SC-01 Speed Canard,1,P,,L,L,1
-SC01,Gyroflug,Speed Canard,1,P,,L,L,1
+SC01,FFT,Speed Canard,1,P,,L,L,0
+SC01,Gyroflug,Speed Canard,1,P,,L,L,0
 SC7,Short,SC-7 Skyliner,2,T,,L,L,1
 SC7,Short,SC-7 Skyvan,2,T,,L,L,1
-SC7,Short,Skyliner,2,T,,L,L,1
-SC7,Short,Skyvan,2,T,,L,L,1
+SC7,Short,Skyliner,2,T,,L,L,0
+SC7,Short,Skyvan,2,T,,L,L,0
 SCAM,Aerosport,Scamp,1,P,,L,L,1
 SCAM,Agro-Copteros,Scamp,1,P,,L,L,1
 SCEP,SlipStream,Scepter,1,P,,L,L,1
@@ -415,15 +417,15 @@ SCOM,Skygear,Comet,1,P,,L,L,1
 SCOR,Rotorway,Scorpion,1,P,,H,L,1
 SCOU,Westland,Scout,1,T,,H,L,1
 SCRO,Akaflieg Munchen,Mü-30 Schlacro,1,P,,L,L,1
-SCRO,Akaflieg Munchen,Schlacro,1,P,,L,L,1
+SCRO,Akaflieg Munchen,Schlacro,1,P,,L,L,0
 SCTR,Flaglor,Scooter,1,P,,L,L,1
 SCUB,Aero Kuhlmann,Scub,1,P,,L,L,1
 SCW1,SCWAL,101,1,P,,L,L,1
 SD2,SPACEK,SD-2 SportMaster,1,P,,L,L,1
-SD2,SPACEK,SportMaster,1,P,,L,L,1
+SD2,SPACEK,SportMaster,1,P,,L,L,0
 SD26,SkyDancer,SD-260,1,P,,L,L,1
 SD4,Tomark,SD-4 Viper,1,P,,L,L,1
-SD4,Tomark,Viper,1,P,,L,L,1
+SD4,Tomark,Viper,1,P,,L,L,0
 SDUS,Stolp,Super Starduster,1,P,,L,L,1
 SE5A,RAF,SE-5A,1,P,,L,L,1
 SE5A,RAF,SE-5A Replica,1,P,,L,L,1
@@ -432,82 +434,82 @@ SEAT,Seawind,Turbine Seawind,1,T,,A,L,1
 SEAW,Seawind,Seawind,1,P,,A,L,1
 SERA,Servoplant,Aerocraft,1,P,,L,L,1
 SEST,SeaStar,SeaStar,1,T,,A,L,0
-SF2,HAPI,Cygnet,1,P,,L,L,1
 SF2,HAPI,SF-2 Cygnet,1,P,,L,L,1
-SF2,Sisler,Cygnet,1,P,,L,L,1
 SF2,Sisler,SF-2 Cygnet,1,P,,L,L,1
-SF2,Viking (US),Cygnet,1,P,,L,L,1
 SF2,Viking (US),SF-2 Cygnet,1,P,,L,L,1
+SF2,HAPI,Cygnet,1,P,,L,L,0
+SF2,Sisler,Cygnet,1,P,,L,L,0
+SF2,Viking (US),Cygnet,1,P,,L,L,0
 SF23,Scheibe,SF-23 Sperling,1,P,,L,L,1
-SF23,Scheibe,Sperling,1,P,,L,L,1
-SF24,Scheibe,Motorspatz,1,P,,L,L,1
+SF23,Scheibe,Sperling,1,P,,L,L,0
 SF24,Scheibe,SF-24 Motorspatz,1,P,,L,L,1
-SF25,Loravia,Falke,1,P,,L,L,1
+SF24,Scheibe,Motorspatz,1,P,,L,L,0
 SF25,Loravia,SF-25 Falke,1,P,,L,L,1
-SF25,Scheibe,Falke,1,P,,L,L,1
-SF25,Scheibe,Rotax Falke,1,P,,L,L,1
 SF25,Scheibe,SF-25 Falke,1,P,,L,L,1
 SF25,Scheibe,SF-25 Rotax Falke,1,P,,L,L,1
 SF25,Scheibe,SF-25 Super Falke,1,P,,L,L,1
 SF25,Scheibe,SF-25 Superschlepper,1,P,,L,L,1
 SF25,Scheibe,SF-25 Turbo Falke,1,P,,L,L,1
-SF25,Scheibe,Super Falke,1,P,,L,L,1
-SF25,Scheibe,Superschlepper,1,P,,L,L,1
-SF25,Scheibe,Turbo Falke,1,P,,L,L,1
-SF25,Sportavia-Putzer,Falke,1,P,,L,L,1
 SF25,Sportavia-Putzer,SF-25 Falke,1,P,,L,L,1
-SF25,Umbra,Falke,1,P,,L,L,1
 SF25,Umbra,SF-25 Falke,1,P,,L,L,1
 SF25,Vickers-Slingsby,T-61 Venture,1,P,,L,L,1
-SF25,Vickers-Slingsby,Venture,1,P,,L,L,1
+SF25,Loravia,Falke,1,P,,L,L,0
+SF25,Scheibe,Falke,1,P,,L,L,0
+SF25,Scheibe,Rotax Falke,1,P,,L,L,0
+SF25,Scheibe,Super Falke,1,P,,L,L,0
+SF25,Scheibe,Superschlepper,1,P,,L,L,0
+SF25,Scheibe,Turbo Falke,1,P,,L,L,0
+SF25,Sportavia-Putzer,Falke,1,P,,L,L,0
+SF25,Umbra,Falke,1,P,,L,L,0
+SF25,Vickers-Slingsby,Venture,1,P,,L,L,0
 SF27,Scheibe,SF-27M,1,P,,L,L,1
 SF28,Scheibe,SF-28 Tandem Falke,1,P,,L,L,1
-SF28,Scheibe,Tandem Falke,1,P,,L,L,1
-SF31,Sportavia-Putzer,Milan,1,P,,L,L,1
+SF28,Scheibe,Tandem Falke,1,P,,L,L,0
 SF31,Sportavia-Putzer,SFS-31 Milan,1,P,,L,L,1
+SF31,Sportavia-Putzer,Milan,1,P,,L,L,0
 SF32,Scheibe,SF-32,1,P,,L,L,1
 SF34,SAAB,340,2,T,,L,M,1
-SF34,SAAB,Argus,2,T,,L,M,1
 SF34,SAAB,OS100,2,T,,L,M,1
 SF34,SAAB,S100 Argus,2,T,,L,M,1
 SF34,SAAB,Tp100,2,T,,L,M,1
 SF34,SAAB Fairchild,SF-340,2,T,,L,M,1
+SF34,SAAB,Argus,2,T,,L,M,0
 SF35,Scheibe,SF-35,1,P,,L,L,1
 SF36,Scheibe,SF-36,1,P,,L,L,1
 SF50,Cirrus,SF-50 Vision,1,J,,L,L,1
 SF50,Cirrus,SJ-X Vision,1,J,,L,L,1
-SF50,Cirrus,Vision,1,J,,L,L,1
+SF50,Cirrus,Vision,1,J,,L,L,0
 SG37,Schweizer,SGM-2-37,1,P,,L,L,1
 SG37,Schweizer,TG-7,1,P,,L,L,1
 SG70,Glass,SG-70 STOLGlass,1,P,,L,L,1
-SG70,Glass,STOLGlass,1,P,,L,L,1
+SG70,Glass,STOLGlass,1,P,,L,L,0
 SG92,Technoavia,SM-92T Turbo Finist,1,T,,L,L,1
 SG92,Technoavia,SMG-92 Turbo Finist,1,T,,L,L,1
-SG92,Technoavia,Turbo Finist,1,T,,L,L,1
+SG92,Technoavia,Turbo Finist,1,T,,L,L,0
 SGRA,Prestige,Storm Rally,1,P,,L,L,1
 SGRA,SG Aviation,Rally,1,P,,L,L,1
 SGRA,Stormaircraft,Rally,1,P,,L,L,1
 SGUP,Aero Spacelines,377SGT Super Guppy,4,T,,L,M,1
-SGUP,Aero Spacelines,Super Guppy,4,T,,L,M,1
+SGUP,Aero Spacelines,Super Guppy,4,T,,L,M,0
 SH09,Kopter,SH-09,1,T,,H,L,1
 SH33,Short,330,2,T,,L,M,1
 SH33,Short,C-23 Sherpa,2,T,,L,M,1
 SH33,Short,SD3-30,2,T,,L,M,1
-SH33,Short,Sherpa,2,T,,L,M,1
+SH33,Short,Sherpa,2,T,,L,M,0
 SH36,Short,360,2,T,,L,M,1
 SH36,Short,SD3-60,2,T,,L,M,1
 SH4,Silvercraft,SH-4,1,P,,H,L,1
 SH5,Harbin,PS-5,4,T,,S,M,1
 SH5,Harbin,SH-5,4,T,,S,M,1
 SHAC,Avro,696 Shackleton,4,P,,L,M,1
-SHAC,Avro,Shackleton,4,P,,L,M,1
-SHAK,Freedom Master,Air Shark,1,P,,A,L,1
+SHAC,Avro,Shackleton,4,P,,L,M,0
 SHAK,Freedom Master,FM-2 Air Shark,1,P,,A,L,1
+SHAK,Freedom Master,Air Shark,1,P,,A,L,0
 SHAW,Armstrong Whitworth,Sea Hawk,1,J,,L,M,1
 SHAW,Hawker,Sea Hawk,1,J,,L,M,1
 SHEA,Seaflight,Shearwater,1,P,,A,L,1
 SHEK,Rans,S-16 Shekari,1,P,,L,L,1
-SHEK,Rans,Shekari,1,P,,L,L,1
+SHEK,Rans,Shekari,1,P,,L,L,0
 SHER,Sherpa,Sherpa,1,P,,L,L,1
 SHER,Sherpa,Sherpa C-400,1,P,,L,L,1
 SHIP,,Airship,,,,,,0
@@ -517,48 +519,48 @@ SHOR,Higher Class,Super Hornet,1,P,,L,L,1
 SHRK,Shark Aero,Shark,1,P,,L,L,1
 SHRT,Sherpa,Sherpa K-650T,1,T,,L,L,1
 SIDE,Smyth,S Sidewinder,1,P,,L,L,1
-SIDE,Smyth,Sidewinder,1,P,,L,L,1
+SIDE,Smyth,Sidewinder,1,P,,L,L,0
 SIGM,Elitar,Sigma,1,P,,L,L,1
 SILH,Lunds Tekniske,SA-60 Silhouette,1,P,,L,L,1
-SILH,Lunds Tekniske,Silhouette,1,P,,L,L,1
 SILH,Silhouette,SA-60 Silhouette,1,P,,L,L,1
-SILH,Silhouette,Silhouette,1,P,,L,L,1
+SILH,Lunds Tekniske,Silhouette,1,P,,L,L,0
+SILH,Silhouette,Silhouette,1,P,,L,L,0
 SIR2,Rhein,Sirius 2,1,P,,L,L,1
 SIRA,Tecnam,P-2002,1,P,,L,L,1
 SIRA,Tecnam,P-2002 Sierra,1,P,,L,L,1
 SIRA,Tecnam,P-Mentor,1,P,,L,L,1
-SIRA,Tecnam,Sierra,1,P,,L,L,1
+SIRA,Tecnam,Sierra,1,P,,L,L,0
 SJ30,Emivest,SJ-30,2,J,,L,L,1
 SJ30,Sino Swearingen,SJ-30,2,J,,L,L,1
 SJ30,Swearingen,SJ-30,2,J,,L,L,1
 SJET,Excel-Jet,Sport-Jet 2,1,J,,L,L,0
 SK10,Skyeton,K-10 Swift,1,P,,L,L,1
-SK10,Skyeton,Swift,1,P,,L,L,1
+SK10,Skyeton,Swift,1,P,,L,L,0
 SK70,Starkraft,SK-700,2,P,,L,L,1
 SKAR,III,Sky Arrow,1,P,,L,L,1
 SKIF,Aerolites,AeroSkiff,1,P,,A,L,1
 SKIM,Colonial,C-1 Skimmer,1,P,,A,L,1
 SKIM,Colonial,C-2 Skimmer,1,P,,A,L,1
-SKIM,Colonial,Skimmer,1,P,,A,L,1
+SKIM,Colonial,Skimmer,1,P,,A,L,0
 SKRA,Best Off,Sky Ranger,1,P,,L,L,1
 SKRA,Synairgie,Sky Ranger,1,P,,L,L,1
 SKYC,Oma Sud,Skycar,2,P,,L,L,1
 SKYO,Skyote Aeromarine,Skyote,1,P,,L,L,1
 SKYR,Commonwealth Aircraft (US),185 Skyranger,1,P,,L,L,1
-SKYR,Commonwealth Aircraft (US),Skyranger,1,P,,L,L,1
 SKYR,Rearwin,175 Skyranger,1,P,,L,L,1
 SKYR,Rearwin,180 Skyranger,1,P,,L,L,1
 SKYR,Rearwin,190 Skyranger,1,P,,L,L,1
-SKYR,Rearwin,Skyranger,1,P,,L,L,1
+SKYR,Commonwealth Aircraft (US),Skyranger,1,P,,L,L,0
+SKYR,Rearwin,Skyranger,1,P,,L,L,0
 SL1,Star-Lite,SL-1 Star-Lite,1,P,,L,L,1
-SL1,Star-Lite,Star-Lite,1,P,,L,L,1
+SL1,Star-Lite,Star-Lite,1,P,,L,L,0
 SL39,MAPO,SL-39,1,P,,L,L,1
-SL90,Aviotechnica,Leshii,1,P,,L,L,1
 SL90,Aviotechnica,SL-90 Leshii,1,P,,L,L,1
 SL90,Interavia,I-1,1,P,,L,L,1
 SL90,MAPO,I-1,1,P,,L,L,1
+SL90,Aviotechnica,Leshii,1,P,,L,L,0
 SLCH,Scaled,351 Stratolaunch,6,J,,L,H,1
-SLCH,Scaled,Stratolaunch,6,J,,L,H,1
+SLCH,Scaled,Stratolaunch,6,J,,L,H,0
 SLG2,Airplane Factory,Sling 2,1,P,,L,L,1
 SLG2,Airplane Factory,Sling LSA,1,P,,L,L,1
 SLG2,Sling Aircraft,Sling 2,1,P,,L,L,1
@@ -575,77 +577,77 @@ SLH4,Sling Aircraft,Sling 4 High Wing,1,P,,L,L,1
 SLK3,Slick,360,1,P,,L,L,1
 SLK5,Slick,540,1,P,,L,L,1
 SM01,Stern-Mallick,SM-01 Vega,1,P,,L,L,1
-SM01,Stern-Mallick,Vega,1,P,,L,L,1
+SM01,Stern-Mallick,Vega,1,P,,L,L,0
 SM19,SIAI-Marchetti,SM-1019,1,T,,L,L,1
 SM20,Technoavia,SM-2000,1,T,,L,L,1
 SM60,Stinson,SM-6000 Tri-Motor,3,P,,L,L,1
 SM60,Stinson,T Tri-Motor,3,P,,L,L,1
-SM60,Stinson,Tri-Motor (SM-6000/T),3,P,,L,L,1
-SM92,Moravan,Rhino,1,P,,L,L,1
+SM60,Stinson,Tri-Motor (SM-6000/T),3,P,,L,L,0
 SM92,Moravan,Zlin Z-400 Rhino,1,P,,L,L,1
-SM92,Technoavia,Finist,1,P,,L,L,1
 SM92,Technoavia,SM-92 Finist,1,P,,L,L,1
-SM92,Zlin,Rhino,1,P,,L,L,1
 SM92,Zlin,Z-400 Rhino,1,P,,L,L,1
+SM92,Moravan,Rhino,1,P,,L,L,0
+SM92,Technoavia,Finist,1,P,,L,L,0
+SM92,Zlin,Rhino,1,P,,L,L,0
 SMAX,AirMax,M-22 SeaMax,1,P,,A,L,1
-SMAX,AirMax,SeaMax,1,P,,A,L,1
+SMAX,AirMax,SeaMax,1,P,,A,L,0
 SMB2,Dassault,Super Mystère B2,1,J,,L,M,1
 SNAD,Calumet,636 Snobird Adventurer,1,P,,G,L,1
-SNAD,Calumet,Snobird Adventurer,1,P,,G,L,1
 SNAD,SnoBird,636 Snobird Adventurer,1,P,,G,L,1
-SNAD,SnoBird,Snobird Adventurer,1,P,,G,L,1
+SNAD,Calumet,Snobird Adventurer,1,P,,G,L,0
+SNAD,SnoBird,Snobird Adventurer,1,P,,G,L,0
 SNAP,Dallair,FR-01 Snap,1,P,,L,L,1
 SNAP,Dallair,FR-100 Snap,1,P,,L,L,1
-SNAP,Dallair,Snap,1,P,,L,L,1
 SNAP,Tecnam,FR-01 Snap,1,P,,L,L,1
 SNAP,Tecnam,FR-100 Snap,1,P,,L,L,1
-SNAP,Tecnam,Snap,1,P,,L,L,1
-SNGY,CIAC,Calima,1,P,,L,L,1
+SNAP,Dallair,Snap,1,P,,L,L,0
+SNAP,Tecnam,Snap,1,P,,L,L,0
 SNGY,CIAC,Synergy,1,P,,L,L,1
 SNGY,CIAC,T-90 Calima,1,P,,L,L,1
-SNGY,Lancair,Calima,1,P,,L,L,1
 SNGY,Lancair,Synergy,1,P,,L,L,1
 SNGY,Lancair,T-90 Calima,1,P,,L,L,1
-SNOS,VSR,Snoshoo,1,P,,L,L,1
+SNGY,CIAC,Calima,1,P,,L,L,0
+SNGY,Lancair,Calima,1,P,,L,L,0
 SNOS,VSR,SR-1 Snoshoo,1,P,,L,L,1
-SNS2,Sorrell,Guppy,1,P,,L,L,1
+SNOS,VSR,Snoshoo,1,P,,L,L,0
 SNS2,Sorrell,SNS-2 Guppy,1,P,,L,L,1
-SNS7,Sorrell,Hiperbipe,1,P,,L,L,1
+SNS2,Sorrell,Guppy,1,P,,L,L,0
 SNS7,Sorrell,SNS-7 Hiperbipe,1,P,,L,L,1
-SNS9,Sorrell,EXP-2,1,P,,L,L,1
+SNS7,Sorrell,Hiperbipe,1,P,,L,L,0
 SNS9,Sorrell,SNS-9 EXP-2,1,P,,L,L,1
+SNS9,Sorrell,EXP-2,1,P,,L,L,0
 SNTA,Airsport,Sonata,1,P,,L,L,1
 SOK2,Soko,2,1,P,,L,L,1
 SOKL,Mráz,M-1 Sokol,1,P,,L,L,1
-SOKL,Mráz,Sokol,1,P,,L,L,1
+SOKL,Mráz,Sokol,1,P,,L,L,0
 SOL1,Solar Impulse,1,4,E,,L,L,1
 SOL2,Solar Impulse,2,4,E,,L,L,1
 SOLI,Rutan,77 Solitaire,1,P,,L,L,1
-SOLI,Rutan,Solitaire,1,P,,L,L,1
+SOLI,Rutan,Solitaire,1,P,,L,L,0
 SONX,Sonex,Sonex,1,P,,L,L,1
 SORA,ACS (1),ACS-100 Sora,1,P,,L,L,1
-SORA,ACS (1),Sora,1,P,,L,L,1
 SORA,ACS,ACS-100 Sora,1,P,,L,L,0
 SORA,ACS,Sora,1,P,,L,L,0
+SORA,ACS (1),Sora,1,P,,L,L,0
 SP20,Lanshe,SP-26,1,P,,L,L,1
 SP20,Micco,SP-20,1,P,,L,L,1
 SP20,Micco,SP-26,1,P,,L,L,1
 SP20,New Meyers,SP-20,1,P,,L,L,1
-SP33,Spectrum,Independence,2,J,,L,L,1
 SP33,Spectrum,S-33 Independence,2,J,,L,L,1
+SP33,Spectrum,Independence,2,J,,L,L,0
 SP55,Technoavia,SP-55,1,P,,L,L,1
 SP6E,Sauser,P-6E Replica,1,P,,L,L,1
 SP7,Spartan,7 Executive,1,P,,L,L,1
-SP7,Spartan,Executive,1,P,,L,L,1
 SP7,Spartan,UC-71 Executive,1,P,,L,L,1
-SP91,Technoavia,Slava,1,P,,L,L,1
+SP7,Spartan,Executive,1,P,,L,L,0
 SP91,Technoavia,SP-91 Slava,1,P,,L,L,1
+SP91,Technoavia,Slava,1,P,,L,L,0
 SP95,Technoavia,SP-95,1,P,,L,L,1
 SPA2,Stark-Trefethen,Sport-Aire 2,1,P,,L,L,1
 SPAR,III,Speed Arrow,1,P,,L,L,1
-SPC2,Specter,Specter 2,1,P,,L,L,1
+SPC2,Specter,Specter 2,1,P,,L,L,0
 SPDR,Rearwin,6000 Speedster,1,P,,L,L,1
-SPDR,Rearwin,Speedster,1,P,,L,L,1
+SPDR,Rearwin,Speedster,1,P,,L,L,0
 SPEL,Loehle,Spitfire Elite,1,P,,L,L,1
 SPGY,Aircraft Designs,Sportster Gyro,1,P,,G,L,1
 SPHA,American Autogyro,SparrowHawk,1,P,,G,L,1
@@ -661,7 +663,7 @@ SPST,Götaverken,GV-38,1,P,,L,L,1
 SPST,Rearwin,7000 Sportster,1,P,,L,L,1
 SPST,Rearwin,8500 Sportster,1,P,,L,L,1
 SPST,Rearwin,9000 Sportster,1,P,,L,L,1
-SPST,Rearwin,Sportster,1,P,,L,L,1
+SPST,Rearwin,Sportster,1,P,,L,L,0
 SPT1,Spitfire,Mark 1,1,P,,L,L,0
 SPUP,Airdrome Aeroplanes,Sopwith Pup Replica,1,P,,L,L,1
 SPUP,Sopwith,Pup,1,P,,L,L,1
@@ -670,12 +672,12 @@ SQ2T,Glassic,SQ-2000,1,P,,L,L,1
 SQ2T,KLS Composites,SQ-2000,1,P,,L,L,1
 SQES,Innovation,SkyQuest,2,P,,L,L,1
 SQES,SlipStream,SkyQuest,2,P,,L,L,1
-SR01,Eurodisplay,Magic,1,P,,L,L,1
 SR01,Eurodisplay,SR-01 Magic,1,P,,L,L,1
+SR01,Eurodisplay,Magic,1,P,,L,L,0
 SR20,Cirrus,SR-20,1,P,,L,L,1
 SR20,Cirrus,SR-20 SRV,1,P,,L,L,1
-SR20,Cirrus,SRV,1,P,,L,L,1
 SR20,Cirrus,T-53,1,P,,L,L,1
+SR20,Cirrus,SRV,1,P,,L,L,0
 SR22,Cirrus,SR-22,1,P,,L,L,1
 SR71,Lockheed,Blackbird,2,J,,L,M,0
 SR71,Lockheed,SR-71 Blackbird,2,J,,L,M,0
@@ -685,7 +687,7 @@ SRAI,Monnett,Sonerai,1,P,,L,L,1
 SRAS,D'Apuzzo,D-260 Senior Aero Sport,1,P,,L,L,1
 SRAS,D'Apuzzo,D-295 Senior Aero Sport,1,P,,L,L,1
 SRAS,D'Apuzzo,PJ-260 Senior Aero Sport,1,P,,L,L,1
-SRAS,D'Apuzzo,Senior Aero Sport,1,P,,L,L,1
+SRAS,D'Apuzzo,Senior Aero Sport,1,P,,L,L,0
 SRAY,Dornier,S-Ray 007,1,P,,A,L,1
 SRAY,Dornier,Do-S S-Ray,1,P,,A,L,0
 SREY,Progressive Aerodyne,SeaRey,1,P,,A,L,1
@@ -701,25 +703,25 @@ SS2,Scaled,339 Space Ship Two,1,R,,L,M,0
 SS2,Scaled,Space Ship Two,,,,,M,0
 SS2,Scaled,Space Ship Two,1,,,L,M,0
 SS2,Scaled,Space Ship Two,1,R,,L,M,0
-SS2P,Aero Commander,Ag Commander (S-2),1,P,,L,L,1
 SS2P,Aero Commander,S-2 Ag Commander,1,P,,L,L,1
-SS2P,Ayres,Bull Thrush,1,P,,L,L,1
 SS2P,Ayres,S-2R-600 Thrush,1,P,,L,L,1
 SS2P,Ayres,S-2R-R1340 Thrush,1,P,,L,L,1
 SS2P,Ayres,S-2R-R1820 Bull Thrush,1,P,,L,L,1
 SS2P,Ayres,S-2R-R3S Thrush,1,P,,L,L,1
-SS2P,Ayres,Thrush,1,P,,L,L,1
-SS2P,North American Rockwell,Ag Commander,1,P,,L,L,1
 SS2P,North American Rockwell,S-2 Ag Commander,1,P,,L,L,1
 SS2P,North American Rockwell,S-2 Thrush Commander,1,P,,L,L,1
-SS2P,North American Rockwell,Thrush Commander,1,P,,L,L,1
 SS2P,Rockwell,S-2 Thrush Commander,1,P,,L,L,1
-SS2P,Rockwell,Thrush Commander,1,P,,L,L,1
 SS2P,Serv-Aero,S-2 Thrush (piston conversions),1,P,,L,L,1
-SS2P,Serv-Aero,Thrush (piston conversions),1,P,,L,L,1
 SS2P,Snow,S-2,1,P,,L,L,1
 SS2P,Thrush,S-2R-R1340 Trush 400,1,P,,L,L,1
-SS2P,Thrush,Thrush 400,1,P,,L,L,1
+SS2P,Aero Commander,Ag Commander (S-2),1,P,,L,L,0
+SS2P,Ayres,Bull Thrush,1,P,,L,L,0
+SS2P,Ayres,Thrush,1,P,,L,L,0
+SS2P,North American Rockwell,Ag Commander,1,P,,L,L,0
+SS2P,North American Rockwell,Thrush Commander,1,P,,L,L,0
+SS2P,Rockwell,Thrush Commander,1,P,,L,L,0
+SS2P,Serv-Aero,Thrush (piston conversions),1,P,,L,L,0
+SS2P,Thrush,Thrush 400,1,P,,L,L,0
 SS2T,Ayres,S-2R-G Turbo Thrush,1,T,,L,L,1
 SS2T,Ayres,S-2RHG-T34 Turbo Thrush,1,T,,L,L,1
 SS2T,Ayres,S-2RHG-T65 Turbo Thrush,1,T,,L,L,1
@@ -729,87 +731,87 @@ SS2T,Ayres,S-2R-T34 Turbo Thrush,1,T,,L,L,1
 SS2T,Ayres,S-2R-T41 Turbo Thrush,1,T,,L,L,1
 SS2T,Ayres,S-2R-T45 Turbo Thrush,1,T,,L,L,1
 SS2T,Ayres,S-2R-T65 Turbo Thrush,1,T,,L,L,1
-SS2T,Ayres,Turbo Thrush (S-2R-G/T except T660),1,T,,L,L,1
 SS2T,Ayres,V-1 Vigilante,1,T,,L,L,1
-SS2T,Ayres,Vigilante,1,T,,L,L,1
 SS2T,Marsh,Turbo Thrush,1,T,,L,L,1
 SS2T,Serv-Aero,S-2 Thrush (turboprop conversions),1,T,,L,L,1
-SS2T,Serv-Aero,Thrush (turboprop conversions),1,T,,L,L,1
 SS2T,Terr-Mar,Turbo Sea Thrush,1,T,,L,L,1
 SS2T,Thrush,S-2RHG-T34 Turbo Thrush 510,1,T,,L,L,1
 SS2T,Thrush,S-2RHG-T65 Turbo Thrush 550,1,T,,L,L,1
 SS2T,Thrush,S-2R-T34 Turbo Thrush,1,T,,L,L,1
 SS2T,Thrush,S-2R-T65 Turbo Thrush 550,1,T,,L,L,1
-SS2T,Thrush,Turbo Thrush (S-2R-T34),1,T,,L,L,1
-SS2T,Thrush,Turbo Thrush 510,1,T,,L,L,1
-SS2T,Thrush,Turbo Thrush 550,1,T,,L,L,1
+SS2T,Ayres,Turbo Thrush (S-2R-G/T except T660),1,T,,L,L,0
+SS2T,Ayres,Vigilante,1,T,,L,L,0
+SS2T,Serv-Aero,Thrush (turboprop conversions),1,T,,L,L,0
+SS2T,Thrush,Turbo Thrush (S-2R-T34),1,T,,L,L,0
+SS2T,Thrush,Turbo Thrush 510,1,T,,L,L,0
+SS2T,Thrush,Turbo Thrush 550,1,T,,L,L,0
 SSAB,North American,F-100 Super Sabre,1,J,,L,M,1
-SSAB,North American,Super Sabre,1,J,,L,M,1
+SSAB,North American,Super Sabre,1,J,,L,M,0
 SSC,Butterfly,Super Sky Cycle,1,P,,G,L,1
 SSTL,Just,JA30 SuperSTOL,1,P,,L,L,1
 SSTL,Just,JA35 SuperSTOL XL,1,P,,L,L,1
-SSTL,Just,SuperSTOL,1,P,,L,L,1
-SSTL,Just,SuperSTOL XL,1,P,,L,L,1
+SSTL,Just,SuperSTOL,1,P,,L,L,0
+SSTL,Just,SuperSTOL XL,1,P,,L,L,0
 SSTM,SG Aviation,Sea Storm,1,P,,A,L,1
-ST1,Phillips,Speedtwin,2,P,,L,L,1
 ST1,Phillips,ST-1 Speedtwin,2,P,,L,L,1
 ST1,Speedtwin,E2E Speedtwin,2,P,,L,L,1
-ST1,Speedtwin,Speedtwin,2,P,,L,L,1
-ST10,SOCATA,Diplomate,1,P,,L,L,1
-ST10,SOCATA,Provence,1,P,,L,L,1
+ST1,Phillips,Speedtwin,2,P,,L,L,0
+ST1,Speedtwin,Speedtwin,2,P,,L,L,0
 ST10,SOCATA,ST-10 Diplomate,1,P,,L,L,1
 ST10,SOCATA,ST-10 Provence,1,P,,L,L,1
 ST10,SOCATA,ST-10 Super Horizon,1,P,,L,L,1
-ST10,SOCATA,Super Horizon,1,P,,L,L,1
+ST10,SOCATA,Diplomate,1,P,,L,L,0
+ST10,SOCATA,Provence,1,P,,L,L,0
+ST10,SOCATA,Super Horizon,1,P,,L,L,0
 ST3,Stearman,C-3,1,P,,L,L,1
 ST30,Panzl,S-330,1,P,,L,L,1
 ST30,Staudacher,S-300,1,P,,L,L,1
 ST30,Wingtip To Wingtip,S-330,1,P,,L,L,1
 ST4,Stearman,4 Junior Speedmail,1,P,,L,L,1
 ST4,Stearman,4 Senior Speedmail,1,P,,L,L,1
-ST4,Stearman,Junior Speedmail,1,P,,L,L,1
-ST4,Stearman,Senior Speedmail,1,P,,L,L,1
-ST4,Stearman,Speedmail,1,P,,L,L,1
+ST4,Stearman,Junior Speedmail,1,P,,L,L,0
+ST4,Stearman,Senior Speedmail,1,P,,L,L,0
+ST4,Stearman,Speedmail,1,P,,L,L,0
 ST50,Israviation,ST-50,1,T,,L,L,0
 ST6,Stearman,6 Cloudboy,1,P,,L,L,1
-ST6,Stearman,Cloudboy,1,P,,L,L,1
 ST6,Stearman,YPT-9,1,P,,L,L,1
+ST6,Stearman,Cloudboy,1,P,,L,L,0
 ST60,Staudacher,S-600,1,P,,L,L,1
 ST75,Boeing,75 Kaydet,1,P,,L,L,1
-ST75,Boeing,Kaydet,1,P,,L,L,1
 ST75,Boeing,N2S Kaydet,1,P,,L,L,1
 ST75,Boeing,PT-13 Kaydet,1,P,,L,L,1
 ST75,Boeing,PT-17 Kaydet,1,P,,L,L,1
 ST75,Boeing,PT-18 Kaydet,1,P,,L,L,1
 ST75,Boeing,PT-27 Kaydet,1,P,,L,L,1
 ST75,Stearman,75 Kaydet,1,P,,L,L,1
-ST75,Stearman,Kaydet,1,P,,L,L,1
 ST75,Stearman,PT-13 Kaydet,1,P,,L,L,1
 ST75,Stearman,PT-17 Kaydet,1,P,,L,L,1
-ST87,Stern,Europlane,1,P,,L,L,1
+ST75,Boeing,Kaydet,1,P,,L,L,0
+ST75,Stearman,Kaydet,1,P,,L,L,0
 ST87,Stern,ST-87 Europlane,1,P,,L,L,1
+ST87,Stern,Europlane,1,P,,L,L,0
 STAL,Aircraft Designs,Stallion,1,P,,L,L,1
 STAL,Aircraft Designs,Super Stallion,1,P,,L,L,1
 STAR,Beech,2000 Starship,2,T,,L,L,1
-STAR,Beech,Starship,2,T,,L,L,1
 STAR,Raytheon,2000 Starship,2,T,,L,L,1
-STAR,Raytheon,Starship,2,T,,L,L,1
+STAR,Beech,Starship,2,T,,L,L,0
+STAR,Raytheon,Starship,2,T,,L,L,0
 STAT,Aircraft Designs,Turbine Stallion,1,T,,L,L,1
 STCH,Fly Synthesis,Storch,1,P,,L,L,1
 STFF,Statler,Firefly,1,P,,L,L,1
 STG2,Rans,S-18 Stinger 2,1,P,,L,L,1
-STG2,Rans,Stinger 2,1,P,,L,L,1
-STIL,Terzi,Stiletto,1,P,,L,L,1
+STG2,Rans,Stinger 2,1,P,,L,L,0
 STIL,Terzi,T-9 Stiletto,1,P,,L,L,1
+STIL,Terzi,Stiletto,1,P,,L,L,0
 STLN,Helio,AU-24 Stallion,1,T,,L,L,1
 STLN,Helio,HST-550 Stallion,1,T,,L,L,1
-STLN,Helio,Stallion,1,T,,L,L,1
+STLN,Helio,Stallion,1,T,,L,L,0
 STOR,Slepcev,SS-4 Storch,1,P,,L,L,1
-STOR,Slepcev,Storch,1,P,,L,L,1
 STOR,Storch Aviation,SS-4 Storch,1,P,,L,L,1
 STOR,Storch Aviation,SS-4 Super Storch,1,P,,L,L,1
-STOR,Storch Aviation,Storch,1,P,,L,L,1
-STOR,Storch Aviation,Super Storch,1,P,,L,L,1
+STOR,Slepcev,Storch,1,P,,L,L,0
+STOR,Storch Aviation,Storch,1,P,,L,L,0
+STOR,Storch Aviation,Super Storch,1,P,,L,L,0
 STR2,Strojnik,S-2,1,P,,L,L,1
 STRA,Striplin,Lone Ranger,1,P,,L,L,1
 STRA,Striplin,Sky Ranger,1,P,,L,L,1
@@ -817,23 +819,23 @@ STRE,TL Ultralight,Stream,1,P,,L,L,1
 STRI,Sopwith,Triplane Replica,1,P,,L,L,1
 STRI,St. Croix,Sopwith Triplane,1,P,,L,L,1
 STRK,BAC,167 Strikemaster,1,J,,L,L,1
-STRK,BAC,Strikemaster,1,J,,L,L,1
 STRK,British Aerospace,BAC-167 Strikemaster,1,J,,L,L,1
-STRK,British Aerospace,Strikemaster,1,J,,L,L,1
+STRK,BAC,Strikemaster,1,J,,L,L,0
+STRK,British Aerospace,Strikemaster,1,J,,L,L,0
 STRM,SG Aviation,Storm,1,P,,L,L,1
 STRM,Stormaircraft,Storm,1,P,,L,L,1
 STST,CFM,SA-2 Star Streak,1,P,,L,L,1
-STST,CFM,Star Streak,1,P,,L,L,1
+STST,CFM,Star Streak,1,P,,L,L,0
 SU15,Sukhoi,Su-15,2,J,,L,M,0
 SU17,Sukhoi,Su-17,1,J,,L,M,1
 SU17,Sukhoi,Su-20,1,J,,L,M,1
 SU17,Sukhoi,Su-22,1,J,,L,M,1
 SU24,Sukhoi,Su-24,2,J,,L,M,1
-SU25,Sukhoi,Scorpion,2,J,,L,M,1
 SU25,Sukhoi,Su-25,2,J,,L,M,1
 SU25,Sukhoi,Su-25 Scorpion,2,J,,L,M,1
 SU25,Sukhoi,Su-28,2,J,,L,M,1
 SU25,Sukhoi,Su-39,2,J,,L,M,1
+SU25,Sukhoi,Scorpion,2,J,,L,M,0
 SU26,Sukhoi,Su-26,1,P,,L,L,1
 SU27,Hindustan,Su-30,2,J,,L,M,1
 SU27,Shenyang,J-11,2,J,,L,M,1
@@ -856,54 +858,51 @@ SU57,Sukhoi,T-50,2,J,,L,M,1
 SU7,Sukhoi,Su-7,1,J,,L,M,1
 SU80,Sukhoi,Su-80,2,T,,L,M,1
 SU95,Sukhoi,Superjet 100-95,2,J,,L,M,1
-SUBA,Fuji,Aero Subaru,1,P,,L,L,1
 SUBA,Fuji,FA-200 Aero Subaru,1,P,,L,L,1
+SUBA,Fuji,Aero Subaru,1,P,,L,L,0
 SUCO,Bell,209 SuperCobra,2,T,,H,M,1
 SUCO,Bell,449 SuperCobra,2,T,,H,M,1
 SUCO,Bell,AH-1W SuperCobra,2,T,,H,M,1
 SUCO,Bell,AH-1Z SuperCobra,2,T,,H,M,1
-SUCO,Bell,SuperCobra,2,T,,H,M,1
 SUCO,Panha,2091,2,T,,H,M,1
+SUCO,Bell,SuperCobra,2,T,,H,M,0
 SUNB,Verilite,100 Sunbird,1,P,,L,L,1
-SUNB,Verilite,Sunbird,1,P,,L,L,1
+SUNB,Verilite,Sunbird,1,P,,L,L,0
 SUNV,Fokker,Super Universal,1,P,,L,L,1
 SURN,Korea Aerospace,KUH-1 Surion,2,T,,H,M,1
-SURN,Korea Aerospace,Marineon,2,T,,H,M,1
 SURN,Korea Aerospace,MUH-1 Marineon,2,T,,H,M,1
-SURN,Korea Aerospace,Surion,2,T,,H,M,1
+SURN,Korea Aerospace,Marineon,2,T,,H,M,0
+SURN,Korea Aerospace,Surion,2,T,,H,M,0
 SURU,IPT,IPT-16 Surubim,1,P,,L,L,1
-SURU,IPT,Surubim,1,P,,L,L,1
+SURU,IPT,Surubim,1,P,,L,L,0
 SUSO,VSTOL,SS-2000 Super Solution,1,P,,L,L,1
-SUSO,VSTOL,Super Solution,1,P,,L,L,1
+SUSO,VSTOL,Super Solution,1,P,,L,L,0
 SV4,AIAA,SV-4,1,P,,L,L,1
 SV4,Nord,SV-4,1,P,,L,L,1
 SV4,Stampe,SV-4,1,P,,L,L,1
 SVNH,Aerotec (Colombia),MXP-740 Savannah,1,P,,L,L,1
-SVNH,Aerotec (Colombia),Savannah,1,P,,L,L,1
 SVNH,Agro-Copteros,MXP-740 Savannah,1,P,,L,L,1
-SVNH,Agro-Copteros,Savannah,1,P,,L,L,1
 SVNH,ICP,MXP-740 Savannah,1,P,,L,L,1
-SVNH,ICP,Savannah,1,P,,L,L,1
+SVNH,Aerotec (Colombia),Savannah,1,P,,L,L,0
+SVNH,Agro-Copteros,Savannah,1,P,,L,L,0
+SVNH,ICP,Savannah,1,P,,L,L,0
 SW18,Skywood,SW-18 Teddy,1,P,,L,L,1
-SW18,Skywood,Teddy,1,P,,L,L,1
-SW2,Swearingen,Merlin 2,2,T,,L,L,1
+SW18,Skywood,Teddy,1,P,,L,L,0
 SW2,Swearingen,SA-26 Merlin 2,2,T,,L,L,1
-SW3,Fairchild,Fairchild 300,2,T,,L,L,1
-SW3,Fairchild,Merlin 3,2,T,,L,L,1
+SW2,Swearingen,Merlin 2,2,T,,L,L,0
 SW3,Fairchild,SA-227TT Fairchild 300,2,T,,L,L,1
 SW3,Fairchild,SA-227TT Merlin 3,2,T,,L,L,1
-SW3,Fairchild Swearingen,Fairchild 300,2,T,,L,L,1
-SW3,Fairchild Swearingen,Merlin 3,2,T,,L,L,1
 SW3,Fairchild Swearingen,SA-226TB Merlin 3,2,T,,L,L,1
 SW3,Fairchild Swearingen,SA-227TT Fairchild 300,2,T,,L,L,1
 SW3,Fairchild Swearingen,SA-227TT Merlin 3,2,T,,L,L,1
-SW3,Swearingen,Merlin 3,2,T,,L,L,1
 SW3,Swearingen,SA-226T Merlin 3,2,T,,L,L,1
 SW3,Swearingen,SA-226TB Merlin 3,2,T,,L,L,1
+SW3,Fairchild,Fairchild 300,2,T,,L,L,0
+SW3,Fairchild,Merlin 3,2,T,,L,L,0
+SW3,Fairchild Swearingen,Fairchild 300,2,T,,L,L,0
+SW3,Fairchild Swearingen,Merlin 3,2,T,,L,L,0
+SW3,Swearingen,Merlin 3,2,T,,L,L,0
 SW4,Fairchild,C-26 Metro,2,T,,L,L/M,1
-SW4,Fairchild,Expediter,2,T,,L,L/M,1
-SW4,Fairchild,Merlin 4,2,T,,L,L/M,1
-SW4,Fairchild,Metro,2,T,,L,L/M,1
 SW4,Fairchild,RC-26 Metro,2,T,,L,L/M,1
 SW4,Fairchild,SA-227AC Metro,2,T,,L,L/M,1
 SW4,Fairchild,SA-227AT Expediter,2,T,,L,L/M,1
@@ -914,21 +913,24 @@ SW4,Fairchild,SA-227DC Expediter,2,T,,L,L/M,1
 SW4,Fairchild,SA-227DC Metro,2,T,,L,L/M,1
 SW4,Fairchild,SA-227PC Metro,2,T,,L,L/M,1
 SW4,Fairchild,UC-26 Merlin 4,2,T,,L,L/M,1
-SW4,Fairchild Dornier,Metro,2,T,,L,L/M,1
 SW4,Fairchild Dornier,SA-227DC Metro,2,T,,L,L/M,1
-SW4,Fairchild Swearingen,Expediter,2,T,,L,L/M,1
-SW4,Fairchild Swearingen,Merlin 4,2,T,,L,L/M,1
-SW4,Fairchild Swearingen,Metro,2,T,,L,L/M,1
 SW4,Fairchild Swearingen,SA-226TC Metro,2,T,,L,L/M,1
 SW4,Fairchild Swearingen,SA-227AC Metro,2,T,,L,L/M,1
 SW4,Fairchild Swearingen,SA-227AT Expediter,2,T,,L,L/M,1
 SW4,Fairchild Swearingen,SA-227AT Merlin 4,2,T,,L,L/M,1
 SW4,Fairchild Swearingen,SA-227PC Metro,2,T,,L,L/M,1
-SW4,Swearingen,Merlin 4,2,T,,L,L/M,1
-SW4,Swearingen,Metro,2,T,,L,L/M,1
 SW4,Swearingen,SA-226AT Merlin 4,2,T,,L,L/M,1
 SW4,Swearingen,SA-226TC Metro,2,T,,L,L/M,1
+SW4,Fairchild,Expediter,2,T,,L,L/M,0
 SW4,Fairchild,Merlin 23,2,T,,L,L/M,0
+SW4,Fairchild,Merlin 4,2,T,,L,L/M,0
+SW4,Fairchild,Metro,2,T,,L,L/M,0
+SW4,Fairchild Dornier,Metro,2,T,,L,L/M,0
+SW4,Fairchild Swearingen,Expediter,2,T,,L,L/M,0
+SW4,Fairchild Swearingen,Merlin 4,2,T,,L,L/M,0
+SW4,Fairchild Swearingen,Metro,2,T,,L,L/M,0
+SW4,Swearingen,Merlin 4,2,T,,L,L/M,0
+SW4,Swearingen,Metro,2,T,,L,L/M,0
 SWAK,Anglin,Space Walker 1,1,P,,L,L,1
 SWAK,Anglin,Space Walker 2,1,P,,L,L,1
 SWAK,Warner,Revolution 1,1,P,,L,L,1
@@ -936,24 +938,24 @@ SWAK,Warner,Revolution 2,1,P,,L,L,1
 SWAK,Warner,Sportster,1,P,,L,L,1
 SWAT,Bharat,LT-1 Swati,1,P,,L,L,1
 SWAT,Bharat,LT-2 Swati,1,P,,L,L,1
-SWAT,Bharat,Swati,1,P,,L,L,1
+SWAT,Bharat,Swati,1,P,,L,L,0
 SWFT,Scaled,400 Swift,1,J,,L,L,1
-SWFT,Scaled,Swift,1,J,,L,L,1
+SWFT,Scaled,Swift,1,J,,L,L,0
 SWIF,Supermarine,Swift,1,J,,L,M,0
 SWIN,S-Wing,S-Wing,1,P,,L,L,1
 SWOR,Blackburn,Swordfish,1,P,,L,L,1
 SWOR,Fairey,Swordfish,1,P,,L,L,1
 SX30,Swearingen,SX-300,1,P,,L,L,1
 SYCA,Bristol,171 Sycamore,1,P,,H,L,1
-SYCA,Bristol,Sycamore,1,P,,H,L,1
+SYCA,Bristol,Sycamore,1,P,,H,L,0
 SYMP,OMF,OMF-100 Symphony,1,P,,L,L,1
-SYMP,OMF,Symphony,1,P,,L,L,1
 SYMP,Symphony,SA-160 Symphony,1,P,,L,L,1
-SYMP,Symphony,Symphony,1,P,,L,L,1
+SYMP,OMF,Symphony,1,P,,L,L,0
+SYMP,Symphony,Symphony,1,P,,L,L,0
 SYNC,Fly Synthesis,Syncro,1,P,,L,L,1
-SZ45,SZD,Ogar,1,P,,L,L,1
 SZ45,SZD,SZD-45 Ogar,1,P,,L,L,1
-SZ9M,SZD,Bocian M-2000,1,P,,L,L,1
+SZ45,SZD,Ogar,1,P,,L,L,0
 SZ9M,SZD,SZD-9bis Bocian M-2000,1,P,,L,L,1
-SZ9M,Yalo,Bocian M-2000,1,P,,L,L,1
 SZ9M,Yalo,SZD-9bis Bocian M-2000,1,P,,L,L,1
+SZ9M,SZD,Bocian M-2000,1,P,,L,L,0
+SZ9M,Yalo,Bocian M-2000,1,P,,L,L,0

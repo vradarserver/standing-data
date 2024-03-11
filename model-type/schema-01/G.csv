@@ -4,19 +4,18 @@ G1,G1 Aviation,G-1 Gélinotte,1,P,,L,L,1
 G1,G1 Aviation,G-1 Goéland,1,P,,L,L,1
 G1,G1 Aviation,G-1 Grive,1,P,,L,L,1
 G1,G1 Aviation,G-1 Spyl,1,P,,L,L,1
-G1,G1 Aviation,Gélinotte,1,P,,L,L,1
-G1,G1 Aviation,Goéland,1,P,,L,L,1
-G1,G1 Aviation,Grive,1,P,,L,L,1
-G1,G1 Aviation,Spyl,1,P,,L,L,1
 G1,Guerin,G-1,1,P,,L,L,1
+G1,G1 Aviation,Gélinotte,1,P,,L,L,0
+G1,G1 Aviation,Goéland,1,P,,L,L,0
+G1,G1 Aviation,Grive,1,P,,L,L,0
+G1,G1 Aviation,Spyl,1,P,,L,L,0
 G103,Grob,G-103C Twin 3SL,1,P,,L,L,1
-G103,Grob,Twin 3SL,1,P,,L,L,1
+G103,Grob,Twin 3SL,1,P,,L,L,0
 G109,Grob,G-109,1,P,,L,L,1
 G109,Grob,G-109 Ranger,1,P,,L,L,1
 G109,Grob,G-109 Vigilant,1,P,,L,L,1
-G109,Grob,Ranger (G-109),1,P,,L,L,1
-G109,Grob,Vigilant,1,P,,L,L,1
-G115,Grob,Bavarian,1,P,,L,L,1
+G109,Grob,Ranger (G-109),1,P,,L,L,0
+G109,Grob,Vigilant,1,P,,L,L,0
 G115,Grob,G-115,1,P,,L,L,1
 G115,Grob,G-115A,1,P,,L,L,1
 G115,Grob,G-115B,1,P,,L,L,1
@@ -26,48 +25,49 @@ G115,Grob,G-115D Bavarian,1,P,,L,L,1
 G115,Grob,G-115D Heron,1,P,,L,L,1
 G115,Grob,G-115E,1,P,,L,L,1
 G115,Grob,G-115E Tutor,1,P,,L,L,1
-G115,Grob,Heron,1,P,,L,L,1
-G115,Grob,Tutor,1,P,,L,L,1
+G115,Grob,Bavarian,1,P,,L,L,0
+G115,Grob,Heron,1,P,,L,L,0
+G115,Grob,Tutor,1,P,,L,L,0
 G120,Grob,G-120,1,P,,L,L,1
 G120,Grob,G-120 Snunit,1,P,,L,L,1
-G120,Grob,Snunit,1,P,,L,L,1
+G120,Grob,Snunit,1,P,,L,L,0
 G12T,Grob,G-120TP,1,T,,L,L,1
 G140,Grob,G-140TP,1,T,,L,L,1
 G150,Gulfstream Aerospace,Gulfstream G150,2,J,A,L,M,1
 G150,IAI,Gulfstream G150,2,J,A,L,M,1
-G159,Grumman,Academe,2,T,,L,M,1
 G159,Grumman,G-159 Gulfstream 1,2,T,,L,M,1
-G159,Grumman,Gulfstream 1,2,T,,L,M,1
 G159,Grumman,TC-4 Academe,2,T,,L,M,1
 G159,Grumman,VC-4 Gulfstream 1,2,T,,L,M,1
-G15T,Grob,Acro,1,P,,L,L,1
+G159,Grumman,Academe,2,T,,L,M,0
+G159,Grumman,Gulfstream 1,2,T,,L,M,0
 G15T,Grob,G-115T Acro,1,P,,L,L,1
+G15T,Grob,Acro,1,P,,L,L,0
 G160,Grob,G-160 Ranger,1,T,,L,L,1
-G160,Grob,Ranger (G-160),1,T,,L,L,1
+G160,Grob,Ranger (G-160),1,T,,L,L,0
 G164,Aero Mod,G-164 Super Ag Max,1,P,,L,L,1
-G164,Aero Mod,Super Ag Max,1,P,,L,L,1
-G164,Grumman,Ag-Cat,1,P,,L,L,1
 G164,Grumman,G-164 Ag-Cat,1,P,,L,L,1
 G164,Grumman,G-164 Super Ag-Cat,1,P,,L,L,1
-G164,Grumman,Super Ag-Cat,1,P,,L,L,1
-G164,Grumman American,Ag-Cat,1,P,,L,L,1
 G164,Grumman American,G-164 Ag-Cat,1,P,,L,L,1
 G164,Grumman American,G-164 Super Ag-Cat,1,P,,L,L,1
-G164,Grumman American,Super Ag-Cat,1,P,,L,L,1
-G164,Gulfstream American,Ag-Cat,1,P,,L,L,1
 G164,Gulfstream American,G-164 Ag-Cat,1,P,,L,L,1
 G164,Gulfstream American,G-164 Super Ag-Cat,1,P,,L,L,1
-G164,Gulfstream American,Super Ag-Cat,1,P,,L,L,1
 G164,Mid-Continent,G-164 King Cat,1,P,,L,L,1
-G164,Mid-Continent,King Cat,1,P,,L,L,1
-G164,Schweizer,Ag-Cat,1,P,,L,L,1
 G164,Schweizer,G-164 Ag-Cat,1,P,,L,L,1
 G164,Schweizer,G-164 Super Ag-Cat,1,P,,L,L,1
-G164,Schweizer,Super Ag-Cat,1,P,,L,L,1
-G164,Serv-Aero,Ag-Cat-Leo,1,P,,L,L,1
 G164,Serv-Aero,G-164 Ag-Cat-Leo,1,P,,L,L,1
+G164,Aero Mod,Super Ag Max,1,P,,L,L,0
+G164,Grumman,Ag-Cat,1,P,,L,L,0
+G164,Grumman,Super Ag-Cat,1,P,,L,L,0
+G164,Grumman American,Ag-Cat,1,P,,L,L,0
+G164,Grumman American,Super Ag-Cat,1,P,,L,L,0
+G164,Gulfstream American,Ag-Cat,1,P,,L,L,0
+G164,Gulfstream American,Super Ag-Cat,1,P,,L,L,0
+G164,Mid-Continent,King Cat,1,P,,L,L,0
+G164,Schweizer,Ag-Cat,1,P,,L,L,0
+G164,Schweizer,Super Ag-Cat,1,P,,L,L,0
+G164,Serv-Aero,Ag-Cat-Leo,1,P,,L,L,0
 G180,General Aircraft,G1-80 Skyfarer,1,P,,L,L,1
-G180,General Aircraft,Skyfarer,1,P,,L,L,1
+G180,General Aircraft,Skyfarer,1,P,,L,L,0
 G200,Akrotech,G-200,1,P,,L,L,1
 G200,Giles,G-200,1,P,,L,L,1
 G202,Akrotech,G-202,1,P,,L,L,1
@@ -75,168 +75,169 @@ G202,Giles,G-202,1,P,,L,L,1
 G21,Grumman,G-21A Goose,2,P,,A,L,1
 G21,Grumman,G-38 Goose,2,P,,A,L,1
 G21,Grumman,G-39 Goose,2,P,,A,L,1
-G21,Grumman,Goose,2,P,,A,L,1
 G21,Grumman,JRF Goose,2,P,,A,L,1
+G21,Grumman,Goose,2,P,,A,L,0
 G21M,McKinnon,G-21C Goose,4,P,,A,L,1
 G21M,McKinnon,G-21D Goose,4,P,,A,L,1
-G21M,McKinnon,Goose,4,P,,A,L,1
+G21M,McKinnon,Goose,4,P,,A,L,0
 G21T,McKinnon,G-21E Turbo Goose,2,T,,A,L,1
 G21T,McKinnon,G-21G Turbo Goose,2,T,,A,L,1
-G21T,McKinnon,Turbo Goose,2,T,,A,L,1
+G21T,McKinnon,Turbo Goose,2,T,,A,L,0
 G222,Aeritalia,G-222,2,T,,L,M,1
 G222,Alenia,C-27A Spartan,2,T,,L,M,1
 G222,Alenia,G-222,2,T,,L,M,1
-G222,Alenia,Spartan (C-27A),2,T,,L,M,1
+G222,Alenia,Spartan (C-27A),2,T,,L,M,0
 G250,Gulfstream Aerospace,Gulfstream G250,2,J,A,L,M,1
 G250,IAI,Gulfstream G250,2,J,A,L,M,1
 G280,Gulfstream Aerospace,Gulfstream G280,2,J,A,L,M,1
 G280,IAI,Gulfstream G280,2,J,A,L,M,1
-G2CA,Guimbal,Cabri,1,P,,H,L,1
 G2CA,Guimbal,G-2 Cabri,1,P,,H,L,1
+G2CA,Guimbal,Cabri,1,P,,H,L,0
 G2GL,Soko,G-2 Galeb,1,J,,L,L,1
-G2GL,Soko,Galeb,1,J,,L,L,1
 G2GL,Soko,N-60 Galeb,1,J,,L,L,1
+G2GL,Soko,Galeb,1,J,,L,L,0
 G2T1,Great Lakes,2T-1 Sport,1,P,,L,L,1
 G2T1,Great Lakes,2T-1 Sport Trainer,1,P,,L,L,1
-G2T1,Great Lakes,Sport,1,P,,L,L,1
-G2T1,Great Lakes,Sport Trainer,1,P,,L,L,1
 G2T1,Waco Classic,2T-1,1,P,,L,L,1
+G2T1,Great Lakes,Sport,1,P,,L,L,0
+G2T1,Great Lakes,Sport Trainer,1,P,,L,L,0
 G2T1,Waco,CLASSIC 2T-1,1,P,,L,L,0
 G3,Remos,G-3 Mirage,1,P,,L,L,1
-G3,Remos,Mirage,1,P,,L,L,1
+G3,Remos,Mirage,1,P,,L,L,0
 G300,Akrotech,G-300,1,P,,L,L,0
 G300,Giles,G-300,1,P,,L,L,0
 G44,Gannet,G-44 Super Widgeon,2,P,,A,L,1
-G44,Gannet,Super Widgeon,2,P,,A,L,1
 G44,Grumman,G-44 Widgeon,2,P,,A,L,1
 G44,Grumman,J4F Widgeon,2,P,,A,L,1
-G44,Grumman,Widgeon,2,P,,A,L,1
 G44,McKinnon,G-44 Super Widgeon,2,P,,A,L,1
-G44,McKinnon,Super Widgeon,2,P,,A,L,1
 G44,SCAN,SCAN-30,2,P,,A,L,1
+G44,Gannet,Super Widgeon,2,P,,A,L,0
+G44,Grumman,Widgeon,2,P,,A,L,0
+G44,McKinnon,Super Widgeon,2,P,,A,L,0
 G46,Fiat,G-46,1,P,,L,L,1
 G4SG,Soko,G-4 Super Galeb,1,J,,L,L,1
 G4SG,Soko,N-62 Super Galeb,1,J,,L,L,1
-G4SG,Soko,Super Galeb,1,J,,L,L,1
+G4SG,Soko,Super Galeb,1,J,,L,L,0
 G59,Fiat,G-59,1,P,,L,L,1
 G64T,Ag-Cat,G-164 Super Turbine,1,T,,L,L,1
-G64T,Ag-Cat,Super Turbine,1,T,,L,L,1
-G64T,Ethiopian Airlines,Eshet,1,T,,L,L,1
 G64T,Ethiopian Airlines,G-164 Eshet,1,T,,L,L,1
 G64T,Frakes,G-164 Turbo Cat,1,T,,L,L,1
-G64T,Frakes,Turbo Cat,1,T,,L,L,1
 G64T,Grumman,G-164 Turbo Ag-Cat,1,T,,L,L,1
-G64T,Grumman,Turbo Ag-Cat,1,T,,L,L,1
 G64T,Grumman American,G-164 Turbo Ag-Cat,1,T,,L,L,1
-G64T,Grumman American,Turbo Ag-Cat,1,T,,L,L,1
 G64T,Gulfstream American,G-164 Turbo Ag-Cat,1,T,,L,L,1
-G64T,Gulfstream American,Turbo Ag-Cat,1,T,,L,L,1
 G64T,Marsh,G-164 Turbo Cat,1,T,,L,L,1
-G64T,Marsh,Turbo Cat,1,T,,L,L,1
-G64T,Schweizer,Ag-Cat Turbine,1,T,,L,L,1
 G64T,Schweizer,G-164 Ag-Cat Turbine,1,T,,L,L,1
 G64T,Schweizer,G-164 Turbo Ag-Cat,1,T,,L,L,1
-G64T,Schweizer,Turbo Ag-Cat,1,T,,L,L,1
+G64T,Ag-Cat,Super Turbine,1,T,,L,L,0
+G64T,Ethiopian Airlines,Eshet,1,T,,L,L,0
+G64T,Frakes,Turbo Cat,1,T,,L,L,0
+G64T,Grumman,Turbo Ag-Cat,1,T,,L,L,0
+G64T,Grumman American,Turbo Ag-Cat,1,T,,L,L,0
+G64T,Gulfstream American,Turbo Ag-Cat,1,T,,L,L,0
+G64T,Marsh,Turbo Cat,1,T,,L,L,0
+G64T,Schweizer,Ag-Cat Turbine,1,T,,L,L,0
+G64T,Schweizer,Turbo Ag-Cat,1,T,,L,L,0
 G70,Groppo,G-70,1,P,,L,L,1
 G73,Grumman,G-73 Mallard,2,P,,A,L,1
-G73,Grumman,Mallard,2,P,,A,L,1
+G73,Grumman,Mallard,2,P,,A,L,0
 G73T,Frakes,G-73T Turbo Mallard,2,T,,A,L,1
-G73T,Frakes,Turbo Mallard,2,T,,A,L,1
 G73T,Grumman,G-73T Turbo Mallard,2,T,,A,L,1
-G73T,Grumman,Turbo Mallard,2,T,,A,L,1
+G73T,Frakes,Turbo Mallard,2,T,,A,L,0
+G73T,Grumman,Turbo Mallard,2,T,,A,L,0
 G800,Aerodis,G-802 Orion,1,P,,L,L,1
-G800,Aerodis,Orion,1,P,,L,L,1
 G800,Grinvalds,G-801 Orion,1,P,,L,L,1
 G800,Grinvalds,G-802 Orion,1,P,,L,L,1
-G800,Grinvalds,Orion,1,P,,L,L,1
+G800,Aerodis,Orion,1,P,,L,L,0
+G800,Grinvalds,Orion,1,P,,L,L,0
 G850,Grob,G-850 Strato 2C,2,P,,L,M,0
 G850,Grob,Strato 2C,2,P,,L,M,0
 G91,Fiat,G-91R,1,J,,L,L,1
 G96,Grumman,C-1 Trader,2,P,,L,M,1
 G96,Grumman,G-96 Trader,2,P,,L,M,1
 G96,Grumman,TF Trader,2,P,,L,M,1
-G96,Grumman,Trader,2,P,,L,M,1
+G96,Grumman,Trader,2,P,,L,M,0
 G97,SAI (Italy),G-97 Spotter,1,P,,L,L,1
-G97,SAI (Italy),Spotter,1,P,,L,L,1
+G97,SAI (Italy),Spotter,1,P,,L,L,0
 GA10,GippsAero,GA-10,1,T,,L,L,1
-GA20,Gippsland,Fatman,1,P,,L,L,1
 GA20,Gippsland,GA-200 Fatman,1,P,,L,L,1
+GA20,Gippsland,Fatman,1,P,,L,L,0
 GA4C,Gulfstream Aerospace,G-7 Gulfstream G400,2,J,,L,M,1
-GA4C,Gulfstream Aerospace,Gulfstream G400 (G-7),2,J,,L,M,1
+GA4C,Gulfstream Aerospace,Gulfstream G400 (G-7),2,J,,L,M,0
 GA5C,Gulfstream Aerospace,G-7 Gulfstream G500,2,J,A,L,M,1
-GA5C,Gulfstream Aerospace,Gulfstream G500 (G-7),2,J,A,L,M,1
+GA5C,Gulfstream Aerospace,Gulfstream G500 (G-7),2,J,A,L,M,0
 GA6C,Gulfstream Aerospace,G-7 Gulfstream G600,2,J,A,L,M,1
-GA6C,Gulfstream Aerospace,Gulfstream G600,2,J,A,L,M,1
-GA7,Grumman American,Cougar,2,P,,L,L,1
+GA6C,Gulfstream Aerospace,Gulfstream G600,2,J,A,L,M,0
 GA7,Grumman American,GA-7 Cougar,2,P,,L,L,1
-GA7,Gulfstream American,Cougar,2,P,,L,L,1
 GA7,Gulfstream American,GA-7 Cougar,2,P,,L,L,1
-GA7,SOCATA,Tangara,2,P,,L,L,1
 GA7,SOCATA,TB-360 Tangara,2,P,,L,L,1
+GA7,Grumman American,Cougar,2,P,,L,L,0
+GA7,Gulfstream American,Cougar,2,P,,L,L,0
+GA7,SOCATA,Tangara,2,P,,L,L,0
 GA7C,Gulfstream Aerospace,G-8 Gulfstream G700,2,J,,L,M,1
-GA7C,Gulfstream Aerospace,Gulfstream G700,2,J,,L,M,1
-GA8,GippsAero,Airvan,1,P,,L,L,1
+GA7C,Gulfstream Aerospace,Gulfstream G700,2,J,,L,M,0
 GA8,GippsAero,GA-8 Airvan,1,P,,L,L,1
-GA8,Gippsland,Airvan,1,P,,L,L,1
 GA8,Gippsland,GA-8 Airvan,1,P,,L,L,1
+GA8,GippsAero,Airvan,1,P,,L,L,0
+GA8,Gippsland,Airvan,1,P,,L,L,0
 GA8C,Gulfstream Aerospace,G-8 Gulfstream G800,2,J,,L,M,1
-GA8C,Gulfstream Aerospace,Gulfstream G800,2,J,,L,M,1
+GA8C,Gulfstream Aerospace,Gulfstream G800,2,J,,L,M,0
 GABR,Blackshape,Bk-160 Gabriel,1,P,,L,L,1
 GABR,Blackshape,BS-115 Gabriel,1,P,,L,L,1
-GABR,Blackshape,Gabriel,1,P,,L,L,1
+GABR,Blackshape,Gabriel,1,P,,L,L,0
 GALX,Gulfstream Aerospace,Gulfstream G200,2,J,A,L,M,1
 GALX,IAI,1126 Galaxy,2,J,A,L,M,1
 GALX,IAI,1126 Gulfstream G200,2,J,A,L,M,1
-GALX,IAI,Galaxy,2,J,A,L,M,1
-GALX,IAI,Gulfstream G200,2,J,A,L,M,1
+GALX,IAI,Galaxy,2,J,A,L,M,0
+GALX,IAI,Gulfstream G200,2,J,A,L,M,0
 GANT,Fairey,Gannet,C,T,,L,M,1
 GAUN,Gloster,Gauntlet,1,P,,L,L,1
 GAVI,Aero Mercantil,358 Gavilan,1,P,,L,L,1
-GAVI,Aero Mercantil,Gavilan,1,P,,L,L,1
 GAVI,Gavilan,EL-1 Gavilan 358,1,P,,L,L,1
-GAVI,Gavilan,Gavilan 358,1,P,,L,L,1
-GAZL,ABHCO,Gazelle,1,T,,H,L,1
+GAVI,Aero Mercantil,Gavilan,1,P,,L,L,0
+GAVI,Gavilan,Gavilan 358,1,P,,L,L,0
 GAZL,ABHCO,SA-342 Gazelle,1,T,,H,L,1
-GAZL,Aerospatiale,Gazelle,1,T,,H,L,1
 GAZL,Aerospatiale,SA-341 Gazelle,1,T,,H,L,1
 GAZL,Aerospatiale,SA-342 Gazelle,1,T,,H,L,1
-GAZL,Eurocopter,Gazelle,1,T,,H,L,1
 GAZL,Eurocopter,SA-342 Gazelle,1,T,,H,L,1
 GAZL,Soko,H-45 Partizan,1,T,,H,L,1
 GAZL,Soko,HN-42 Partizan,1,T,,H,L,1
 GAZL,Soko,HN-45 Partizan,1,T,,H,L,1
 GAZL,Soko,HO-42 Partizan,1,T,,H,L,1
-GAZL,Soko,Partizan,1,T,,H,L,1
 GAZL,Soko,SA-341 Partizan,1,T,,H,L,1
 GAZL,Soko,SA-342 Partizan,1,T,,H,L,1
-GAZL,Sud,Gazelle,1,T,,H,L,1
 GAZL,Sud,SA-341 Gazelle,1,T,,H,L,1
 GAZL,Sud,SA-342 Gazelle,1,T,,H,L,1
 GAZL,Westland,Gazelle,1,T,,H,L,1
-GB1,Game Composites,GameBird,1,P,,L,L,1
+GAZL,ABHCO,Gazelle,1,T,,H,L,0
+GAZL,Aerospatiale,Gazelle,1,T,,H,L,0
+GAZL,Eurocopter,Gazelle,1,T,,H,L,0
+GAZL,Soko,Partizan,1,T,,H,L,0
+GAZL,Sud,Gazelle,1,T,,H,L,0
 GB1,Game Composites,GB-1 GameBird,1,P,,L,L,1
+GB1,Game Composites,GameBird,1,P,,L,L,0
 GBSP,Beets,GB Special,1,P,,L,L,1
-GBSP,Beets,Special,1,P,,L,L,1
+GBSP,Beets,Special,1,P,,L,L,0
 GC1,Globe,GC-1 Swift,1,P,,L,L,1
-GC1,Globe,Swift,1,P,,L,L,1
 GC1,Temco,GC-1 Swift,1,P,,L,L,1
-GC1,Temco,Swift,1,P,,L,L,1
+GC1,Globe,Swift,1,P,,L,L,0
+GC1,Temco,Swift,1,P,,L,L,0
 GDUK,Ellison-Mahon,Gweduck,2,P,,A,L,1
-GEMI,Miles,Gemini,2,P,,L,L,1
 GEMI,Miles,M-65 Gemini,2,P,,L,L,1
+GEMI,Miles,Gemini,2,P,,L,L,0
 GENI,IFB,E-Genius,1,E,,L,L,1
 GEPE,Aero Services,Guêpe,1,P,,L,L,1
 GF20,Grob,GF-200,1,P,,L,L,1
 GFLY,Scaled,311 Global Flyer,1,J,,L,M,0
 GFLY,Scaled,Global Flyer,1,J,,L,M,0
+GJ11,Hongdu,GJ-11 Sharp Sword,1,J,,L,M,1
 GL5T,Bombardier,BD-700 Global 5000,2,J,A,L,M,1
 GL5T,Bombardier,BD-700 Global 5500,2,J,A,L,M,1
-GL5T,Bombardier,Global 5000,2,J,A,L,M,1
-GL5T,Bombardier,Global 5500,2,J,A,L,M,1
+GL5T,Bombardier,Global 5000,2,J,A,L,M,0
+GL5T,Bombardier,Global 5500,2,J,A,L,M,0
 GL7T,Bombardier,BD-700 Global 7000,2,J,,L,M,1
 GL7T,Bombardier,BD-700 Global 7500,2,J,,L,M,1
-GL7T,Bombardier,Global 7000,2,J,,L,M,1
-GL7T,Bombardier,Global 7500,2,J,,L,M,1
+GL7T,Bombardier,Global 7000,2,J,,L,M,0
+GL7T,Bombardier,Global 7500,2,J,,L,M,0
 GLAD,Gloster,Gladiator,1,P,,L,L,1
 GLAS,Glasair,Glasair,1,P,,L,L,1
 GLAS,New Glasair,Glasair,1,P,,L,L,1
@@ -246,35 +247,35 @@ GLEX,Bombardier,BD-700 Global 6500,2,J,A,L,M,1
 GLEX,Bombardier,BD-700 Global Express,2,J,A,L,M,1
 GLEX,Bombardier,BD-700 Sentinel,2,J,A,L,M,1
 GLEX,Bombardier,E-11,2,J,A,L,M,1
-GLEX,Bombardier,Global 6000,2,J,A,L,M,1
-GLEX,Bombardier,Global 6500,2,J,A,L,M,1
-GLEX,Bombardier,Global Express,2,J,A,L,M,1
-GLEX,Bombardier,Sentinel,2,J,A,L,M,1
 GLEX,Raytheon,Sentinel,2,J,A,L,M,1
+GLEX,Bombardier,Global 6000,2,J,A,L,M,0
+GLEX,Bombardier,Global 6500,2,J,A,L,M,0
+GLEX,Bombardier,Global Express,2,J,A,L,M,0
+GLEX,Bombardier,Sentinel,2,J,A,L,M,0
 GLF2,Grumman,C-20J Gulfstream 2SP,2,J,A,L,M,1
 GLF2,Grumman,G-1159 Gulfstream 2,2,J,A,L,M,1
 GLF2,Grumman,G-1159 Gulfstream 2SP,2,J,A,L,M,1
 GLF2,Grumman,G-1159B Gulfstream 2B,2,J,A,L,M,1
-GLF2,Grumman,Gulfstream 2,2,J,A,L,M,1
-GLF2,Grumman,Gulfstream 2B,2,J,A,L,M,1
-GLF2,Grumman,Gulfstream 2SP,2,J,A,L,M,1
 GLF2,Grumman,VC-11 Gulfstream 2,2,J,A,L,M,1
 GLF2,Grumman American,G-1159 Gulfstream 2,2,J,A,L,M,1
 GLF2,Grumman American,G-1159 Gulfstream 2SP,2,J,A,L,M,1
 GLF2,Grumman American,G-1159B Gulfstream 2B,2,J,A,L,M,1
 GLF2,Grumman American,G-1159TT Gulfstream 2TT,2,J,A,L,M,1
-GLF2,Grumman American,Gulfstream 2,2,J,A,L,M,1
-GLF2,Grumman American,Gulfstream 2B,2,J,A,L,M,1
-GLF2,Grumman American,Gulfstream 2SP,2,J,A,L,M,1
-GLF2,Grumman American,Gulfstream 2TT,2,J,A,L,M,1
 GLF2,Gulfstream American,G-1159 Gulfstream 2,2,J,A,L,M,1
 GLF2,Gulfstream American,G-1159 Gulfstream 2SP,2,J,A,L,M,1
 GLF2,Gulfstream American,G-1159B Gulfstream 2B,2,J,A,L,M,1
 GLF2,Gulfstream American,G-1159TT Gulfstream 2TT,2,J,A,L,M,1
-GLF2,Gulfstream American,Gulfstream 2,2,J,A,L,M,1
-GLF2,Gulfstream American,Gulfstream 2B,2,J,A,L,M,1
-GLF2,Gulfstream American,Gulfstream 2SP,2,J,A,L,M,1
-GLF2,Gulfstream American,Gulfstream 2TT,2,J,A,L,M,1
+GLF2,Grumman,Gulfstream 2,2,J,A,L,M,0
+GLF2,Grumman,Gulfstream 2B,2,J,A,L,M,0
+GLF2,Grumman,Gulfstream 2SP,2,J,A,L,M,0
+GLF2,Grumman American,Gulfstream 2,2,J,A,L,M,0
+GLF2,Grumman American,Gulfstream 2B,2,J,A,L,M,0
+GLF2,Grumman American,Gulfstream 2SP,2,J,A,L,M,0
+GLF2,Grumman American,Gulfstream 2TT,2,J,A,L,M,0
+GLF2,Gulfstream American,Gulfstream 2,2,J,A,L,M,0
+GLF2,Gulfstream American,Gulfstream 2B,2,J,A,L,M,0
+GLF2,Gulfstream American,Gulfstream 2SP,2,J,A,L,M,0
+GLF2,Gulfstream American,Gulfstream 2TT,2,J,A,L,M,0
 GLF3,Gulfstream Aerospace,C-20A Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream Aerospace,C-20B Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream Aerospace,C-20C Gulfstream 3,2,J,A,L,M,1
@@ -282,12 +283,12 @@ GLF3,Gulfstream Aerospace,C-20D Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream Aerospace,C-20E Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream Aerospace,G-1159A Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream Aerospace,G-1159A Gulfstream SRA-1,2,J,A,L,M,1
-GLF3,Gulfstream Aerospace,Gulfstream 3,2,J,A,L,M,1
-GLF3,Gulfstream Aerospace,Gulfstream SRA-1,2,J,A,L,M,1
 GLF3,Gulfstream American,G-1159A Gulfstream 3,2,J,A,L,M,1
 GLF3,Gulfstream American,G-1159A Gulfstream SMA-3,2,J,A,L,M,1
-GLF3,Gulfstream American,Gulfstream 3,2,J,A,L,M,1
-GLF3,Gulfstream American,Gulfstream SMA-3,2,J,A,L,M,1
+GLF3,Gulfstream Aerospace,Gulfstream 3,2,J,A,L,M,0
+GLF3,Gulfstream Aerospace,Gulfstream SRA-1,2,J,A,L,M,0
+GLF3,Gulfstream American,Gulfstream 3,2,J,A,L,M,0
+GLF3,Gulfstream American,Gulfstream SMA-3,2,J,A,L,M,0
 GLF4,Gulfstream Aerospace,C-20F Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,C-20G Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,C-20H Gulfstream 4,2,J,A,L,M,1
@@ -298,71 +299,77 @@ GLF4,Gulfstream Aerospace,G-4 Gulfstream G350,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,G-4 Gulfstream G400,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,G-4 Gulfstream SRA-4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,G-4X Gulfstream G450,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream 4,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream 4SP,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream G300,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream G350,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream G400 (G-4),2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream G450,2,J,A,L,M,1
-GLF4,Gulfstream Aerospace,Gulfstream SRA-4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,S102 Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,Tp102 Gulfstream 4,2,J,A,L,M,1
 GLF4,Gulfstream Aerospace,U-4 Gulfstream 4,2,J,A,L,M,1
+GLF4,Gulfstream Aerospace,Gulfstream 4,2,J,A,L,M,0
+GLF4,Gulfstream Aerospace,Gulfstream 4SP,2,J,A,L,M,0
+GLF4,Gulfstream Aerospace,Gulfstream G300,2,J,A,L,M,0
+GLF4,Gulfstream Aerospace,Gulfstream G350,2,J,A,L,M,0
 GLF4,Gulfstream Aerospace,Gulfstream G400,2,J,A,L,M,0
-GLF5,Gulfstream Aerospace,C-37 Gulfstream 5,2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Eitam,2,J,A,L,M,1
+GLF4,Gulfstream Aerospace,Gulfstream G400 (G-4),2,J,A,L,M,0
+GLF4,Gulfstream Aerospace,Gulfstream G450,2,J,A,L,M,0
+GLF4,Gulfstream Aerospace,Gulfstream SRA-4,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,C-37,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,E-550,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,EC-37,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5 Gulfstream 5,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5 Shavit,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5SP Eitam,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5SP Gulfstream 5SP,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5SP Gulfstream G500,2,J,A,L,M,1
 GLF5,Gulfstream Aerospace,G-5SP Gulfstream G550,2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Gulfstream 5,2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Gulfstream 5SP,2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Gulfstream G500 (G-5SP),2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Gulfstream G550,2,J,A,L,M,1
-GLF5,Gulfstream Aerospace,Shavit,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,G-5SP Oron,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,MC-55 Peregrine,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,NC-37,2,J,A,L,M,1
+GLF5,Gulfstream Aerospace,C-37 Gulfstream 5,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Eitam,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Gulfstream 5,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Gulfstream 5SP,2,J,A,L,M,0
 GLF5,Gulfstream Aerospace,Gulfstream G500,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Gulfstream G500 (G-5SP),2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Gulfstream G550,2,J,A,L,M,0
+GLF5,Gulfstream Aerospace,Shavit,2,J,A,L,M,0
 GLF6,Gulfstream Aerospace,G-6 Gulfstream G650,2,J,A,L,M,1
-GLF6,Gulfstream Aerospace,Gulfstream G650,2,J,A,L,M,1
+GLF6,Gulfstream Aerospace,Gulfstream G650,2,J,A,L,M,0
 GLID,,Glider,,,,,,0
 GLID,,Sailplane,,,,,,0
 GLSP,New GlaStar,Sportsman 2+2,1,P,,L,L,1
 GLST,Glasair,GlaStar,1,P,,L,L,1
 GLST,Glasair,Sportsman 2+2,1,P,,L,L,1
 GLST,New GlaStar,GlaStar,1,P,,L,L,1
-GLST,Stoddard-Hamilton,GlaStar,1,P,,L,L,1
 GLST,Stoddard-Hamilton,SH-4 GlaStar,1,P,,L,L,1
+GLST,Stoddard-Hamilton,GlaStar,1,P,,L,L,0
 GLTU,Stoddard-Hamilton,Turbine Glasair,1,T,,L,L,1
 GM01,Yalo,GM-01 Gniady,1,P,,L,L,1
-GM01,Yalo,Gniady,1,P,,L,L,1
+GM01,Yalo,Gniady,1,P,,L,L,0
 GM17,Intracom,GM-17 Viper,1,T,,L,L,1
-GM17,Intracom,Viper,1,T,,L,L,1
 GM17,Intracom,GM-17  Viper,1,T,,L,L,0
+GM17,Intracom,Viper,1,T,,L,L,0
 GMGC,Ibis Aircraft,Grand Magic,1,P,,L,L,1
 GNAT,Folland,Fo-144 Gnat,1,J,,L,L,1
-GNAT,Folland,Gnat,1,J,,L,L,1
 GNAT,Hawker Siddeley,Gnat,1,J,,L,L,1
+GNAT,Folland,Gnat,1,J,,L,L,0
 GOBU,Butterfly,Golden Butterfly,1,P,,G,L,1
-GOLF,Tecnam,Golf,1,P,,L,L,1
 GOLF,Tecnam,P-96 Golf,1,P,,L,L,1
+GOLF,Tecnam,Golf,1,P,,L,L,0
 GOOS,Quikkit,Glass Goose,1,P,,A,L,1
 GOTR,Goair,GT-1 Trainer,1,P,,L,L,1
-GOTR,Goair,Trainer,1,P,,L,L,1
+GOTR,Goair,Trainer,1,P,,L,L,0
 GP1,Jihlavan,Skyleader GP One,1,P,,L,L,1
 GP1,Zall Jihlavan,Skyleader GP One,1,P,,L,L,1
 GP3,Osprey,GP-3 Osprey 2,1,P,,A,L,1
-GP3,Osprey,Osprey 2,1,P,,A,L,1
 GP3,Pereira,GP-3 Osprey 2,1,P,,A,L,1
-GP3,Pereira,Osprey 2,1,P,,A,L,1
+GP3,Osprey,Osprey 2,1,P,,A,L,0
+GP3,Pereira,Osprey 2,1,P,,A,L,0
 GP4,Osprey,GP-4,1,P,,L,L,1
 GP4,Pereira,GP-4,1,P,,L,L,1
 GPRO,Genevation,GenPro,1,P,,L,L,1
-GR51,Cameron,Grand 51,1,T,,L,L,1
 GR51,Cameron,P-51G Grand 51,1,T,,L,L,1
-GR51,Exclusive,Grand 51,1,T,,L,L,1
 GR51,Exclusive,P-51G Grand 51,1,T,,L,L,1
-GRAF,Lundy,Graflite,1,P,,L,L,1
+GR51,Cameron,Grand 51,1,T,,L,L,0
+GR51,Exclusive,Grand 51,1,T,,L,L,0
+GRAF,Lundy,Graflite,1,P,,L,L,0
 GRFN,Griffon Aero,Griffon,1,P,,L,L,1
 GRIF,Canada Air Rv,Griffin,1,P,,L,L,1
 GRIZ,Aerotek (Canada),Turbo Grizzly,1,T,,L,L,1
@@ -372,27 +379,27 @@ GSIS,SlipStream,Genesis,1,P,,L,L,1
 GSIS,SlipStream,Revelation,1,P,,L,L,1
 GSIS,SlipStream,Ultra Sport,1,P,,L,L,1
 GSPN,Grob,G-180 SPn Utility Jet,2,J,,L,L,1
-GSPN,Grob,SPn Utility Jet,2,J,,L,L,1
+GSPN,Grob,SPn Utility Jet,2,J,,L,L,0
 GUEP,Aero Services,Guepard,1,P,,L,L,1
 GUEP,Aero Services,Guepy,1,P,,L,L,1
 GUEP,Aero Services,Super Guepard,1,P,,L,L,1
 GURI,Aeromot,AMT-600 Guri,1,P,,L,L,1
-GURI,Aeromot,Guri,1,P,,L,L,1
+GURI,Aeromot,Guri,1,P,,L,L,0
 GX,Remos,GX,1,P,,L,L,1
-GX,Stemme,GX,1,P,,L,L,1
 GX,Stemme,Remos GX,1,P,,L,L,1
-GY10,Gardan,Bagheera,1,P,,L,L,1
+GX,Stemme,GX,1,P,,L,L,0
 GY10,Gardan,GY-100 Bagheera,1,P,,L,L,1
+GY10,Gardan,Bagheera,1,P,,L,L,0
 GY20,CAB,GY-20 Minicab,1,P,,L,L,1
-GY20,CAB,Minicab,1,P,,L,L,1
 GY20,Maranda,BM-4,1,P,,L,L,1
+GY20,CAB,Minicab,1,P,,L,L,0
 GY30,CAB,GY-30 Supercab,1,P,,L,L,1
-GY30,CAB,Supercab,1,P,,L,L,1
+GY30,CAB,Supercab,1,P,,L,L,0
 GY80,Gardan,GY-80 Horizon,1,P,,L,L,1
-GY80,Gardan,Horizon,1,P,,L,L,1
 GY80,SOCATA,GY-80 Horizon,1,P,,L,L,1
-GY80,SOCATA,Horizon,1,P,,L,L,1
 GY80,Sud,GY-80 Horizon,1,P,,L,L,1
-GY80,Sud,Horizon,1,P,,L,L,1
+GY80,Gardan,Horizon,1,P,,L,L,0
+GY80,SOCATA,Horizon,1,P,,L,L,0
+GY80,Sud,Horizon,1,P,,L,L,0
 GYRO,,Microlight autogyro,,,,,,0
 GYRO,,Ultralight autogyro,,,,,,0

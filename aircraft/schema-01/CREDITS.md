@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,385 |
+| `Peter Hutt`             | 2,413 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,477 |
-| `科罗娜`                    | 1,245 |
+| `aircraftenthusiast2000` | 1,502 |
+| `科罗娜`                    | 1,257 |
 | `Andrew`                 | 1,149 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `andrw`                  | 149 |
+| `BudBundi`               | 105 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `Lanorge`                | 87 |
-| `BudBundi`               | 77 |
+| `Lanorge`                | 95 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
-| `vrsspotter73`           | 44 |
+| `vrsspotter73`           | 48 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
@@ -40,13 +40,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
+| `Ljubo`                  | 5 |
 | `struart`                | 5 |
 | `darjes`                 | 4 |
 | `neslin`                 | 4 |
 | `soja`                   | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
-| `Ljubo`                  | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
@@ -71,6 +71,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Cheyenne`               | 1 |
 | `Datamix`                | 1 |
 | `Derek Bertram`          | 1 |
+| `EGPD1701`               | 1 |
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |

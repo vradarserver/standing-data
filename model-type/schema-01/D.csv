@@ -1,24 +1,19 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
 D1,Derringer,New Derringer,2,P,,L,L,1
 D1,Wing,D-1 Derringer,2,P,,L,L,1
-D1,Wing,Derringer,2,P,,L,L,1
-D11,Aero-Difusion,Compostela,1,P,,L,L,1
+D1,Wing,Derringer,2,P,,L,L,0
 D11,Aero-Difusion,D-112 Popuplane,1,P,,L,L,1
 D11,Aero-Difusion,D-119 Popuplane,1,P,,L,L,1
 D11,Aero-Difusion,D-1190S Compostela,1,P,,L,L,1
-D11,Aero-Difusion,Popuplane,1,P,,L,L,1
 D11,Aero-Jodel,D-11,1,P,,L,L,1
 D11,Alpavia,D-117,1,P,,L,L,1
 D11,Denize,D-112,1,P,,L,L,1
 D11,Desjardins,D-01 Ibis,1,P,,L,L,1
-D11,Desjardins,Ibis,1,P,,L,L,1
 D11,EAC,D-127,1,P,,L,L,1
 D11,EAC,D-128,1,P,,L,L,1
-D11,Falconar,Cruiser,1,P,,L,L,1
 D11,Falconar,F-11,1,P,,L,L,1
 D11,Falconar,F-11 Sporty,1,P,,L,L,1
 D11,Falconar,F-12 Cruiser,1,P,,L,L,1
-D11,Falconar,Sporty,1,P,,L,L,1
 D11,Jodel,D-11,1,P,,L,L,1
 D11,Jodel,D-111,1,P,,L,L,1
 D11,Jodel,D-112,1,P,,L,L,1
@@ -46,131 +41,138 @@ D11,Valladeau,D-112,1,P,,L,L,1
 D11,Valladeau,D-119,1,P,,L,L,1
 D11,Wassmer,D-112,1,P,,L,L,1
 D11,Wassmer,D-120 Paris-Nice,1,P,,L,L,1
-D11,Wassmer,Paris-Nice,1,P,,L,L,1
-D139,Dorna,Blue Bird,1,P,,L,L,1
+D11,Aero-Difusion,Compostela,1,P,,L,L,0
+D11,Aero-Difusion,Popuplane,1,P,,L,L,0
+D11,Desjardins,Ibis,1,P,,L,L,0
+D11,Falconar,Cruiser,1,P,,L,L,0
+D11,Falconar,Sporty,1,P,,L,L,0
+D11,Wassmer,Paris-Nice,1,P,,L,L,0
 D139,Dorna,D-139 Blue Bird,1,P,,L,L,1
 D139,Dorna,D-139 Free Bird,1,P,,L,L,1
 D139,Dorna,D-139 Parandeh Abi,1,P,,L,L,1
 D139,Dorna,D-139 Parandeh Sefid,1,P,,L,L,1
-D139,Dorna,Free Bird,1,P,,L,L,1
-D139,Dorna,Parandeh Abi,1,P,,L,L,1
-D139,Dorna,Parandeh Sefid,1,P,,L,L,1
+D139,Dorna,Pica 1,1,P,,L,L,1
+D139,Dorna,Pica 2,1,P,,L,L,1
+D139,Dorna,Blue Bird,1,P,,L,L,0
 D139,Dorna,D-139-PT1 Blue Bird,1,P,,L,L,0
 D139,Dorna,D-139-PT1 Parandeh Abi,1,P,,L,L,0
-D140,Jodel,Abeille,1,P,,L,L,1
+D139,Dorna,Free Bird,1,P,,L,L,0
+D139,Dorna,Parandeh Abi,1,P,,L,L,0
+D139,Dorna,Parandeh Sefid,1,P,,L,L,0
 D140,Jodel,D-140 Abeille,1,P,,L,L,1
 D140,Jodel,D-140 Mousquetaire,1,P,,L,L,1
-D140,Jodel,Mousquetaire,1,P,,L,L,1
 D140,Mudry,D-140 Mousquetaire,1,P,,L,L,1
-D140,Mudry,Mousquetaire,1,P,,L,L,1
-D140,SAN,Abeille,1,P,,L,L,1
 D140,SAN,D-140 Abeille,1,P,,L,L,1
 D140,SAN,D-140 Mousquetaire,1,P,,L,L,1
-D140,SAN,Mousquetaire,1,P,,L,L,1
+D140,Jodel,Abeille,1,P,,L,L,0
+D140,Jodel,Mousquetaire,1,P,,L,L,0
+D140,Mudry,Mousquetaire,1,P,,L,L,0
+D140,SAN,Abeille,1,P,,L,L,0
+D140,SAN,Mousquetaire,1,P,,L,L,0
 D150,Jodel,D-150 Mascaret,1,P,,L,L,1
-D150,Jodel,Mascaret,1,P,,L,L,1
 D150,SAN,D-150 Mascaret,1,P,,L,L,1
-D150,SAN,Mascaret,1,P,,L,L,1
+D150,Jodel,Mascaret,1,P,,L,L,0
+D150,SAN,Mascaret,1,P,,L,L,0
 D18,Jodel,D-18,1,P,,L,L,1
 D18,Jodel,D-19,1,P,,L,L,1
 D18,Jodel,D-20,1,P,,L,L,1
 D201,D'Apuzzo,D-201 Sportwing,1,P,,L,L,1
-D201,D'Apuzzo,Sportwing,1,P,,L,L,1
+D201,D'Apuzzo,Sportwing,1,P,,L,L,0
 D21,Fokker,D-21 Replica,1,P,,L,L,1
 D228,Dornier,228,2,T,,L,L,1
 D228,Fairchild Dornier,228,2,T,,L,L,1
 D228,Hindustan,228,2,T,,L,L,1
 D228,RUAG,Dornier 228,2,T,,L,L,1
 D25,New Standard,D-25,1,P,,L,L,1
-D250,Centre Est,Capitaine,1,P,,L,L,1
 D250,Centre Est,DR-200,1,P,,L,L,1
 D250,Centre Est,DR-250 Capitaine,1,P,,L,L,1
+D250,Centre Est,Capitaine,1,P,,L,L,0
 D253,Centre Est,DR-253 Regent,1,P,,L,L,1
-D253,Centre Est,Regent,1,P,,L,L,1
+D253,Centre Est,Regent,1,P,,L,L,0
 D28D,Dornier,128-2 Skyservant,2,P,,L,L,1
 D28D,Dornier,Do-28D Skyservant,2,P,,L,L,1
 D28D,Dornier,Do-28D-1 Skyservant,2,P,,L,L,1
 D28D,Dornier,Do-28D-2 Skyservant,2,P,,L,L,1
-D28D,Dornier,Skyservant,2,P,,L,L,1
+D28D,Dornier,Skyservant,2,P,,L,L,0
 D28T,Dornier,128-6 Turbo Skyservant,2,T,,L,L,1
 D28T,Dornier,Do-28D-6 Turbo Skyservant,2,T,,L,L,1
-D28T,Dornier,Turbo Skyservant,2,T,,L,L,1
+D28T,Dornier,Turbo Skyservant,2,T,,L,L,0
 D31,Druine,D-31 Turbulent,1,P,,L,L,1
-D31,Druine,Turbulent,1,P,,L,L,1
 D31,Rollason,D-31 Turbulent,1,P,,L,L,1
-D31,Rollason,Turbulent,1,P,,L,L,1
 D31,Stark,D-31 Turbulent,1,P,,L,L,1
-D31,Stark,Turbulent,1,P,,L,L,1
+D31,Druine,Turbulent,1,P,,L,L,0
+D31,Rollason,Turbulent,1,P,,L,L,0
+D31,Stark,Turbulent,1,P,,L,L,0
 D328,Dornier,328,2,T,,L,M,1
 D328,Dornier,C-146 Wolfhound,2,T,,L,M,1
-D328,Dornier,Wolfhound,2,T,,L,M,1
 D328,Fairchild Dornier,328,2,T,,L,M,1
 D328,Dornier,C-146,2,T,,L,M,0
+D328,Dornier,Wolfhound,2,T,,L,M,0
 D39,Akaflieg Darmstadt,D-39,1,P,,L,L,1
 D4,Auster,D-4,1,P,,L,L,1
 D4,Beagle-Auster,D-4,1,P,,L,L,1
 D5,Auster,D-5,1,P,,L,L,1
 D5,Beagle,D-5,1,P,,L,L,1
 D5,Beagle,D-5 Husky,1,P,,L,L,1
-D5,Beagle,Husky,1,P,,L,L,1
 D5,Beagle-Auster,D-5,1,P,,L,L,1
 D5,OGMA,D-5,1,P,,L,L,1
+D5,Beagle,Husky,1,P,,L,L,0
 D5TU,Druine,D-5 Turbi,1,P,,L,L,1
-D5TU,Druine,Turbi,1,P,,L,L,1
+D5TU,Druine,Turbi,1,P,,L,L,0
 D6,Auster,D-6,1,P,,L,L,1
 D6,Beagle-Auster,D-6,1,P,,L,L,1
-D6CR,Druine,Condor,1,P,,L,L,1
 D6CR,Druine,D-60 Condor,1,P,,L,L,1
 D6CR,Druine,D-61 Condor,1,P,,L,L,1
 D6CR,Druine,D-62 Condor,1,P,,L,L,1
-D6CR,Rollason,Condor,1,P,,L,L,1
 D6CR,Rollason,D-62 Condor,1,P,,L,L,1
+D6CR,Druine,Condor,1,P,,L,L,0
+D6CR,Rollason,Condor,1,P,,L,L,0
 D6SL,Airplane Factory,D-6 Sling,1,P,,L,L,0
 D6SL,Airplane Factory,Sling,1,P,,L,L,0
 D7,Fokker,D-7 Replica,1,P,,L,L,1
 D8,Fokker,D-8 Replica,1,P,,L,L,1
 DA2,Davis,DA-2,1,P,,L,L,1
 DA36,Diamond,DA-36 E-Star,1,E,,L,L,1
-DA36,Diamond,E-Star,1,E,,L,L,1
-DA40,Diamond,Club Star,1,P,,L,L,1
+DA36,Diamond,E-Star,1,E,,L,L,0
 DA40,Diamond,DA-40 Club Star,1,P,,L,L,1
 DA40,Diamond,DA-40 Diamond Star,1,P,,L,L,1
 DA40,Diamond,DA-40 Katana,1,P,,L,L,1
 DA40,Diamond,DA-40 Tundra Star,1,P,,L,L,1
-DA40,Diamond,Diamond Star,1,P,,L,L,1
-DA40,Diamond,Katana (DA-40),1,P,,L,L,1
-DA40,Diamond,Tundra Star,1,P,,L,L,1
+DA40,Diamond,Club Star,1,P,,L,L,0
+DA40,Diamond,Diamond Star,1,P,,L,L,0
+DA40,Diamond,Katana (DA-40),1,P,,L,L,0
+DA40,Diamond,Tundra Star,1,P,,L,L,0
 DA42,Diamond,DA-42 Guardian,2,P,,L,L,1
 DA42,Diamond,DA-42 Twin Star,2,P,,L,L,1
 DA42,Diamond,DA-42 Twin Turbo,2,P,,L,L,1
-DA42,Diamond,Guardian,2,P,,L,L,1
-DA42,Diamond,Twin Star,2,P,,L,L,1
-DA42,Diamond,Twin Turbo,2,P,,L,L,1
+DA42,Diamond,Guardian,2,P,,L,L,0
+DA42,Diamond,Twin Star,2,P,,L,L,0
+DA42,Diamond,Twin Turbo,2,P,,L,L,0
 DA5,Davis,DA-5,1,P,,L,L,1
 DA50,Diamond,DA-50 Magnum,1,P,,L,L,1
 DA50,Diamond,DA-50 SuperStar,1,P,,L,L,1
-DA50,Diamond,Magnum,1,P,,L,L,1
-DA50,Diamond,SuperStar,1,P,,L,L,1
 DA50,Diamond,DA-50SuperStar,1,P,,L,L,0
+DA50,Diamond,Magnum,1,P,,L,L,0
+DA50,Diamond,SuperStar,1,P,,L,L,0
 DA62,Diamond,DA-62,2,P,,L,L,1
 DAHU,Pena,Dahu,1,P,,L,L,1
 DAKH,Fisher,Dakota Hawk,1,P,,L,L,1
 DAL1,Spezio,DAL-1 Tuholer,1,P,,L,L,1
-DAL1,Spezio,Tuholer,1,P,,L,L,1
+DAL1,Spezio,Tuholer,1,P,,L,L,0
 DAL4,Dallach,D-4 Fascination,1,P,,L,L,1
-DAL4,Dallach,Fascination,1,P,,L,L,1
 DAL4,UL-Jih,Fascination,1,P,,L,L,1
 DAL4,Dallach,Facination,1,P,,L,L,0
+DAL4,Dallach,Fascination,1,P,,L,L,0
 DAL5,Dallach,D-5 Evolution,1,P,,L,L,1
-DAL5,Dallach,Evolution,1,P,,L,L,1
 DAL5,UL-Jih,Evolution,1,P,,L,L,1
+DAL5,Dallach,Evolution,1,P,,L,L,0
 DART,Parrish,Dart,1,P,,L,L,1
 DC10,Boeing,MD-10,3,J,,L,H,1
 DC10,McDonnell Douglas,DC-10,3,J,,L,H,1
-DC10,McDonnell Douglas,Extender,3,J,,L,H,1
 DC10,McDonnell Douglas,KC-10 Extender,3,J,,L,H,1
 DC10,McDonnell Douglas,KDC-10,3,J,,L,H,1
 DC10,McDonnell Douglas,MD-10,3,J,,L,H,1
+DC10,McDonnell Douglas,Extender,3,J,,L,H,0
 DC2,Douglas,DC-2,2,P,,L,M,1
 DC3,Douglas,AC-47 Skytrain,2,P,,L,M,1
 DC3,Douglas,C-117A Skytrooper,2,P,,L,M,1
@@ -180,7 +182,6 @@ DC3,Douglas,C-41,2,P,,L,M,1
 DC3,Douglas,C-47 Dakota,2,P,,L,M,1
 DC3,Douglas,C-47 Skytrain,2,P,,L,M,1
 DC3,Douglas,C-53 Skytrooper,2,P,,L,M,1
-DC3,Douglas,Dakota,2,P,,L,M,1
 DC3,Douglas,DC-3,2,P,,L,M,1
 DC3,Douglas,DST,2,P,,L,M,1
 DC3,Douglas,EC-47 Skytrain,2,P,,L,M,1
@@ -192,8 +193,6 @@ DC3,Douglas,R4D-5 Skytrain,2,P,,L,M,1
 DC3,Douglas,R4D-6 Skytrain,2,P,,L,M,1
 DC3,Douglas,R4D-7 Skytrain,2,P,,L,M,1
 DC3,Douglas,RC-47 Skytrain,2,P,,L,M,1
-DC3,Douglas,Skytrain,2,P,,L,M,1
-DC3,Douglas,Skytrooper,2,P,,L,M,1
 DC3,Douglas,TC-47 Skytrain,2,P,,L,M,1
 DC3,Douglas,VC-47 Skytrain,2,P,,L,M,1
 DC3,Lisunov,Li-2,2,P,,L,M,1
@@ -202,6 +201,9 @@ DC3,Douglas,C-47B Skytrain,2,P,,L,M,0
 DC3,Douglas,C-47D Skytrain,2,P,,L,M,0
 DC3,Douglas,C-47H Skytrain,2,P,,L,M,0
 DC3,Douglas,C-47J Skytrain,2,P,,L,M,0
+DC3,Douglas,Dakota,2,P,,L,M,0
+DC3,Douglas,Skytrain,2,P,,L,M,0
+DC3,Douglas,Skytrooper,2,P,,L,M,0
 DC3S,Douglas,C-117D,2,P,,L,M,1
 DC3S,Douglas,LC-117,2,P,,L,M,1
 DC3S,Douglas,R4D-8,2,P,,L,M,1
@@ -209,34 +211,34 @@ DC3S,Douglas,Super DC-3,2,P,,L,M,1
 DC3S,Douglas,TC-117,2,P,,L,M,1
 DC3S,Douglas,VC-117,2,P,,L,M,1
 DC3T,Basler,BT-67 Turbo 67,2,T,,L,M,1
-DC3T,Basler,Turbo 67,2,T,,L,M,1
 DC3T,Douglas,DC-3 (turbine),2,T,,L,M,1
 DC3T,Professional Aviation,C-47TP Super Dakota,2,T,,L,M,1
 DC3T,Professional Aviation,Jet Prop DC-3,2,T,,L,M,1
-DC3T,Professional Aviation,Super Dakota,2,T,,L,M,1
 DC3T,Schafer,DC-3-65TP,2,T,,L,M,1
+DC3T,Basler,Turbo 67,2,T,,L,M,0
+DC3T,Professional Aviation,Super Dakota,2,T,,L,M,0
 DC4,Douglas,C-54 Skymaster,4,P,,L,M,1
 DC4,Douglas,DC-4,4,P,,L,M,1
 DC4,Douglas,EC-54 Skymaster,4,P,,L,M,1
 DC4,Douglas,HC-54 Skymaster,4,P,,L,M,1
 DC4,Douglas,R5D Skymaster,4,P,,L,M,1
-DC4,Douglas,Skymaster,4,P,,L,M,1
 DC4,Douglas,TC-54 Skymaster,4,P,,L,M,1
 DC4,Douglas,VC-54 Skymaster,4,P,,L,M,1
+DC4,Douglas,Skymaster,4,P,,L,M,0
 DC6,Douglas,C-118 Liftmaster,4,P,,L,M,1
 DC6,Douglas,DC-6,4,P,,L,M,1
-DC6,Douglas,Liftmaster,4,P,,L,M,1
 DC6,Douglas,R6D Liftmaster,4,P,,L,M,1
 DC6,Douglas,VC-118 Liftmaster,4,P,,L,M,1
+DC6,Douglas,Liftmaster,4,P,,L,M,0
 DC7,Douglas,DC-7,4,P,,L,M,1
 DC7,Douglas,DC-7 Seven Seas,4,P,,L,M,1
-DC7,Douglas,Seven Seas,4,P,,L,M,1
+DC7,Douglas,Seven Seas,4,P,,L,M,0
 DC85,Douglas,DC-8-50,4,J,,L,H,1
 DC85,Douglas,DC-8-50 Jet Trader,4,J,,L,H,1
-DC85,Douglas,Jet Trader,4,J,,L,H,1
 DC85,McDonnell Douglas,DC-8-50,4,J,,L,H,1
 DC85,McDonnell Douglas,DC-8-50 Jet Trader,4,J,,L,H,1
-DC85,McDonnell Douglas,Jet Trader,4,J,,L,H,1
+DC85,Douglas,Jet Trader,4,J,,L,H,0
+DC85,McDonnell Douglas,Jet Trader,4,J,,L,H,0
 DC86,Douglas,DC-8-60,4,J,,L,H,1
 DC86,McDonnell Douglas,DC-8-60,4,J,,L,H,1
 DC87,Douglas,DC-8-70,4,J,,L,H,1
@@ -249,25 +251,25 @@ DC93,Douglas,DC-9-30,2,J,,L,M,1
 DC93,McDonnell Douglas,C-9 Nightingale,2,J,,L,M,1
 DC93,McDonnell Douglas,C-9 Skytrain 2,2,J,,L,M,1
 DC93,McDonnell Douglas,DC-9-30,2,J,,L,M,1
-DC93,McDonnell Douglas,Nightingale,2,J,,L,M,1
-DC93,McDonnell Douglas,Skytrain 2,2,J,,L,M,1
 DC93,McDonnell Douglas,VC-9,2,J,,L,M,1
+DC93,McDonnell Douglas,Nightingale,2,J,,L,M,0
+DC93,McDonnell Douglas,Skytrain 2,2,J,,L,M,0
 DC94,Douglas,DC-9-40,2,J,,L,M,1
 DC94,McDonnell Douglas,DC-9-40,2,J,,L,M,1
 DC95,Douglas,DC-9-50,2,J,,L,M,1
 DC95,McDonnell Douglas,DC-9-50,2,J,,L,M,1
 DEAG,Amax,Double Eagle,1,P,,G,L,1
 DEFI,Rutan,40 Defiant,2,P,,L,L,1
-DEFI,Rutan,Defiant,2,P,,L,L,1
+DEFI,Rutan,Defiant,2,P,,L,L,0
 DELF,Lyavin,Delfin,1,P,,L,L,1
 DFL6,Damoure-Fabre,DFL-6 Saphir,1,P,,L,L,1
-DFL6,Damoure-Fabre,Saphir,1,P,,L,L,1
+DFL6,Damoure-Fabre,Saphir,1,P,,L,L,0
 DFLY,SlipStream,Dragonfly,1,P,,L,L,1
 DFLY,Viking (US),Dragonfly,1,P,,L,L,1
 DG15,Howard,DGA-15,1,P,,L,L,1
 DG15,Howard,GH Nightingale,1,P,,L,L,1
 DG15,Howard,NH,1,P,,L,L,1
-DG15,Howard,Nightingale,1,P,,L,L,1
+DG15,Howard,Nightingale,1,P,,L,L,0
 DG1T,DG Flugzeugbau,DG-1000M,1,P,,L,L,1
 DG1T,DG Flugzeugbau,DG-1000T,1,P,,L,L,1
 DG1T,DG Flugzeugbau,DG-1001M,1,P,,L,L,1
@@ -278,135 +280,135 @@ DG60,Glaser-Dirks,DG-600M,1,P,,L,L,1
 DG80,DG Flugzeugbau,DG-800,1,P,,L,L,1
 DG80,Glaser-Dirks,DG-800,1,P,,L,L,1
 DH2T,De Havilland Canada,DHC-2 Mk3 Turbo Beaver,1,T,,L,L,1
-DH2T,De Havilland Canada,Turbo Beaver,1,T,,L,L,1
+DH2T,De Havilland Canada,Turbo Beaver,1,T,,L,L,0
 DH3T,De Havilland Canada,DHC-3 Turbo Otter,1,T,,L,L,1
-DH3T,De Havilland Canada,Turbo Otter,1,T,,L,L,1
 DH3T,Vardax,Vazar Dash 3,1,T,,L,L,1
+DH3T,De Havilland Canada,Turbo Otter,1,T,,L,L,0
 DH4T,De Havilland Canada,DHC-4 Turbo Caribou,2,T,,L,M,1
-DH4T,De Havilland Canada,Turbo Caribou,2,T,,L,M,1
+DH4T,De Havilland Canada,Turbo Caribou,2,T,,L,M,0
 DH60,De Havilland,DH-60 Moth,1,P,,L,L,1
 DH60,De Havilland,DH-60 Moth Major,1,P,,L,L,1
-DH60,De Havilland,Moth,1,P,,L,L,1
-DH60,De Havilland,Moth Major,1,P,,L,L,1
 DH60,De Havilland Australia,DH-60 Moth,1,P,,L,L,1
-DH60,De Havilland Australia,Moth,1,P,,L,L,1
+DH60,De Havilland,Moth,1,P,,L,L,0
+DH60,De Havilland,Moth Major,1,P,,L,L,0
+DH60,De Havilland Australia,Moth,1,P,,L,L,0
 DH80,De Havilland,DH-80 Puss Moth,1,P,,L,L,1
-DH80,De Havilland,Puss Moth,1,P,,L,L,1
+DH80,De Havilland,Puss Moth,1,P,,L,L,0
 DH82,De Havilland,DH-82 Queen Bee,1,P,,L,L,1
 DH82,De Havilland,DH-82 Tiger Moth,1,P,,L,L,1
-DH82,De Havilland,Queen Bee,1,P,,L,L,1
-DH82,De Havilland,Tiger Moth,1,P,,L,L,1
 DH82,De Havilland Australia,DH-82 Tiger Moth,1,P,,L,L,1
-DH82,De Havilland Australia,Tiger Moth,1,P,,L,L,1
 DH82,De Havilland Canada,DH-82 Tiger Moth,1,P,,L,L,1
-DH82,De Havilland Canada,Tiger Moth,1,P,,L,L,1
 DH82,OGMA,DH-82 Tiger Moth,1,P,,L,L,1
-DH82,OGMA,Tiger Moth,1,P,,L,L,1
+DH82,De Havilland,Queen Bee,1,P,,L,L,0
+DH82,De Havilland,Tiger Moth,1,P,,L,L,0
+DH82,De Havilland Australia,Tiger Moth,1,P,,L,L,0
+DH82,De Havilland Canada,Tiger Moth,1,P,,L,L,0
+DH82,OGMA,Tiger Moth,1,P,,L,L,0
 DH83,De Havilland,DH-83 Fox Moth,1,P,,L,L,1
-DH83,De Havilland,Fox Moth,1,P,,L,L,1
+DH83,De Havilland,Fox Moth,1,P,,L,L,0
 DH84,De Havilland,DH-84 Dragon,2,P,,L,L,1
-DH84,De Havilland,Dragon,2,P,,L,L,1
 DH84,De Havilland Australia,DH-84 Dragon,2,P,,L,L,1
-DH84,De Havilland Australia,Dragon,2,P,,L,L,1
+DH84,De Havilland,Dragon,2,P,,L,L,0
+DH84,De Havilland Australia,Dragon,2,P,,L,L,0
 DH85,De Havilland,DH-85 Leopard Moth,1,P,,L,L,1
-DH85,De Havilland,Leopard Moth,1,P,,L,L,1
+DH85,De Havilland,Leopard Moth,1,P,,L,L,0
 DH87,De Havilland,DH-87 Hornet Moth,1,P,,L,L,1
-DH87,De Havilland,Hornet Moth,1,P,,L,L,1
-DH88,De Havilland,Comet Replica,2,P,,L,L,1
+DH87,De Havilland,Hornet Moth,1,P,,L,L,0
 DH88,De Havilland,DH-88 Comet Replica,2,P,,L,L,1
+DH88,De Havilland,Comet Replica,2,P,,L,L,0
 DH89,De Havilland,DH-89 Dragon Rapide,2,P,,L,L,1
-DH89,De Havilland,Dragon Rapide,2,P,,L,L,1
-DH8A,Bombardier,Dash 8 (100),2,T,,L,M,1
+DH89,De Havilland,Dragon Rapide,2,P,,L,L,0
 DH8A,Bombardier,DHC-8-100 Dash 8,2,T,,L,M,1
 DH8A,De Havilland Canada,CT-142 Dash 8,2,T,,L,M,1
-DH8A,De Havilland Canada,Dash 8 (100),2,T,,L,M,1
 DH8A,De Havilland Canada,DHC-8-100 Dash 8,2,T,,L,M,1
 DH8A,De Havilland Canada,E-9 Dash 8,2,T,,L,M,1
+DH8A,Bombardier,Dash 8 (100),2,T,,L,M,0
 DH8A,De Havilland Canada,CC-142 Dash 8,2,T,,L,M,0
-DH8B,Bombardier,Dash 8 (200),2,T,,L,M,1
+DH8A,De Havilland Canada,Dash 8 (100),2,T,,L,M,0
 DH8B,Bombardier,DHC-8-200 Dash 8,2,T,,L,M,1
-DH8B,De Havilland Canada,Dash 8 (200),2,T,,L,M,1
 DH8B,De Havilland Canada,DHC-8-200 Dash 8,2,T,,L,M,1
 DH8B,De Havilland Canada,P-9,2,T,,L,M,1
-DH8C,Bombardier,Dash 8 (300),2,T,,L,M,1
+DH8B,Bombardier,Dash 8 (200),2,T,,L,M,0
+DH8B,De Havilland Canada,Dash 8 (200),2,T,,L,M,0
 DH8C,Bombardier,DHC-8-300 Dash 8,2,T,,L,M,1
 DH8C,Bombardier,RO-6,2,T,,L,M,1
 DH8C,De Havilland Canada,C-147,2,T,,L,M,1
-DH8C,De Havilland Canada,Dash 8 (300),2,T,,L,M,1
 DH8C,De Havilland Canada,DHC-8-300 Dash 8,2,T,,L,M,1
 DH8C,De Havilland Canada,RO-6,2,T,,L,M,1
-DH8D,Bombardier,Dash 8 (400),2,T,,L,M,1
+DH8C,Bombardier,Dash 8 (300),2,T,,L,M,0
+DH8C,De Havilland Canada,Dash 8 (300),2,T,,L,M,0
 DH8D,Bombardier,DHC-8-400 Dash 8,2,T,,L,M,1
-DH8D,De Havilland Canada,Dash 8 (400),2,T,,L,M,1
 DH8D,De Havilland Canada,DHC-8-400 Dash 8,2,T,,L,M,1
+DH8D,Bombardier,Dash 8 (400),2,T,,L,M,0
+DH8D,De Havilland Canada,Dash 8 (400),2,T,,L,M,0
 DH90,De Havilland,DH-90 Dragonfly,2,P,,L,L,1
-DH90,De Havilland,Dragonfly,2,P,,L,L,1
+DH90,De Havilland,Dragonfly,2,P,,L,L,0
 DH94,De Havilland,DH-94 Moth Minor,1,P,,L,L,1
-DH94,De Havilland,Moth Minor,1,P,,L,L,1
+DH94,De Havilland,Moth Minor,1,P,,L,L,0
 DHA3,De Havilland Australia,DHA-3 Drover,3,P,,L,L,1
-DHA3,De Havilland Australia,Drover,3,P,,L,L,1
-DHC1,De Havilland,Chipmunk,1,P,,L,L,1
+DHA3,De Havilland Australia,Drover,3,P,,L,L,0
 DHC1,De Havilland,DHC-1 Chipmunk,1,P,,L,L,1
-DHC1,De Havilland Canada,Chipmunk,1,P,,L,L,1
 DHC1,De Havilland Canada,DHC-1 Chipmunk,1,P,,L,L,1
-DHC1,OGMA,Chipmunk,1,P,,L,L,1
 DHC1,OGMA,DHC-1 Chipmunk,1,P,,L,L,1
-DHC2,Airtech Canada,Beaver,1,P,,L,L,1
+DHC1,De Havilland,Chipmunk,1,P,,L,L,0
+DHC1,De Havilland Canada,Chipmunk,1,P,,L,L,0
+DHC1,OGMA,Chipmunk,1,P,,L,L,0
 DHC2,Airtech Canada,DHC-2-PZL3S Beaver,1,P,,L,L,1
-DHC2,De Havilland Canada,Beaver,1,P,,L,L,1
 DHC2,De Havilland Canada,DHC-2 Mk1 Beaver,1,P,,L,L,1
 DHC2,De Havilland Canada,L-20 Beaver,1,P,,L,L,1
 DHC2,De Havilland Canada,U-6 Beaver,1,P,,L,L,1
+DHC2,Airtech Canada,Beaver,1,P,,L,L,0
+DHC2,De Havilland Canada,Beaver,1,P,,L,L,0
 DHC3,Airtech Canada,DHC-3-1000 Otter,1,P,,L,L,1
 DHC3,Airtech Canada,DHC-3-PZL3S Otter,1,P,,L,L,1
-DHC3,Airtech Canada,Otter,1,P,,L,L,1
 DHC3,De Havilland Canada,DHC-3 Otter,1,P,,L,L,1
 DHC3,De Havilland Canada,NU-1 Otter,1,P,,L,L,1
-DHC3,De Havilland Canada,Otter,1,P,,L,L,1
 DHC3,De Havilland Canada,U-1 Otter,1,P,,L,L,1
 DHC3,De Havilland Canada,UC Otter,1,P,,L,L,1
+DHC3,Airtech Canada,Otter,1,P,,L,L,0
+DHC3,De Havilland Canada,Otter,1,P,,L,L,0
 DHC4,De Havilland Canada,C-7 Caribou,2,P,,L,M,1
-DHC4,De Havilland Canada,Caribou,2,P,,L,M,1
 DHC4,De Havilland Canada,CV-2 Caribou,2,P,,L,M,1
 DHC4,De Havilland Canada,DHC-4 Caribou,2,P,,L,M,1
-DHC5,De Havilland Canada,Buffalo,2,T,,L,M,1
+DHC4,De Havilland Canada,Caribou,2,P,,L,M,0
 DHC5,De Havilland Canada,C-115 Buffalo,2,T,,L,M,1
 DHC5,De Havilland Canada,C-8 Buffalo,2,T,,L,M,1
 DHC5,De Havilland Canada,CC-115 Buffalo,2,T,,L,M,1
 DHC5,De Havilland Canada,CV-7 Buffalo,2,T,,L,M,1
 DHC5,De Havilland Canada,DHC-5 Buffalo,2,T,,L,M,1
+DHC5,De Havilland Canada,Buffalo,2,T,,L,M,0
 DHC6,De Havilland Canada,CC-138 Twin Otter,2,T,,L,L,1
 DHC6,De Havilland Canada,DHC-6 Twin Otter,2,T,,L,L,1
-DHC6,De Havilland Canada,Twin Otter,2,T,,L,L,1
 DHC6,De Havilland Canada,UV-18 Twin Otter,2,T,,L,L,1
 DHC6,Scenic,DHC-6 Vistaliner,2,T,,L,L,1
-DHC6,Scenic,Vistaliner,2,T,,L,L,1
 DHC6,Viking (Canada),DHC-6 Twin Otter,2,T,,L,L,1
-DHC6,Viking (Canada),Twin Otter,2,T,,L,L,1
-DHC7,De Havilland Canada,Dash 7,4,T,,L,M,1
+DHC6,De Havilland Canada,Twin Otter,2,T,,L,L,0
+DHC6,Scenic,Vistaliner,2,T,,L,L,0
+DHC6,Viking (Canada),Twin Otter,2,T,,L,L,0
 DHC7,De Havilland Canada,DHC-7 Dash 7,4,T,,L,M,1
 DHC7,De Havilland Canada,EO-5 Dash 7,4,T,,L,M,1
 DHC7,De Havilland Canada,O-5 Dash 7,4,T,,L,M,1
 DHC7,De Havilland Canada,RC-7 Dash 7,4,T,,L,M,1
+DHC7,De Havilland Canada,Dash 7,4,T,,L,M,0
 DIES,Pennec-Lucas,Dieselis,1,P,,L,L,1
 DIJ3,Dijkman-Dulkes,Dijkhastar 3,1,P,,L,L,1
 DIJ4,Dijkman-Dulkes,Dijkhastar 4,1,P,,A,L,1
-DIMO,Diamond,Eco Dimona,1,P,,L,L,1
 DIMO,Diamond,HK-36 Eco Dimona,1,P,,L,L,1
 DIMO,Diamond,HK-36 Katana Xtreme,1,P,,L,L,1
 DIMO,Diamond,HK-36 MPX,1,P,,L,L,1
 DIMO,Diamond,HK-36 Super Dimona,1,P,,L,L,1
 DIMO,Diamond,HK-36 Turbo Xtreme,1,P,,L,L,1
 DIMO,Diamond,HK-36 Xtreme,1,P,,L,L,1
-DIMO,Diamond,Katana Xtreme,1,P,,L,L,1
-DIMO,Diamond,MPX,1,P,,L,L,1
-DIMO,Diamond,Super Dimona,1,P,,L,L,1
-DIMO,Diamond,Turbo Xtreme,1,P,,L,L,1
-DIMO,Diamond,Xtreme,1,P,,L,L,1
 DIMO,HOAC,HK-36 Super Dimona,1,P,,L,L,1
-DIMO,HOAC,Super Dimona,1,P,,L,L,1
-DIMO,Hoffmann,Dimona,1,P,,L,L,1
 DIMO,Hoffmann,H-36 Dimona,1,P,,L,L,1
+DIMO,Diamond,Eco Dimona,1,P,,L,L,0
+DIMO,Diamond,Katana Xtreme,1,P,,L,L,0
+DIMO,Diamond,MPX,1,P,,L,L,0
+DIMO,Diamond,Super Dimona,1,P,,L,L,0
+DIMO,Diamond,Turbo Xtreme,1,P,,L,L,0
+DIMO,Diamond,Xtreme,1,P,,L,L,0
+DIMO,HOAC,Super Dimona,1,P,,L,L,0
+DIMO,Hoffmann,Dimona,1,P,,L,L,0
 DINO,Ganzavia,Dinó,1,P,,L,L,0
 DINO,Ganzavia,GAK-22 Dinó,1,P,,L,L,0
 DIPR,Collins,Dipper,1,P,,A,L,1
@@ -415,39 +417,38 @@ DISC,Schempp-Hirth,Discus 2T,1,P,,L,L,1
 DISC,Schempp-Hirth,Discus BM,1,P,,L,L,1
 DISC,Schempp-Hirth,Discus BT,1,P,,L,L,1
 DJET,Diamond,DJ-1 D-Jet,1,J,,L,L,1
-DJET,Diamond,D-Jet,1,J,,L,L,1
-DJIN,Sud,Djinn,1,T,,H,L,1
+DJET,Diamond,D-Jet,1,J,,L,L,0
 DJIN,Sud,SO-1221 Djinn,1,T,,H,L,1
-DJIN,Sud-Ouest,Djinn,1,T,,H,L,1
 DJIN,Sud-Ouest,SO-1221 Djinn,1,T,,H,L,1
-DLH2,Lange,Antares DLR-H2,1,E,,L,L,1
+DJIN,Sud,Djinn,1,T,,H,L,0
+DJIN,Sud-Ouest,Djinn,1,T,,H,L,0
 DLH2,Lange,E-1 Antares DLR-H2,1,E,,L,L,1
+DLH2,Lange,Antares DLR-H2,1,E,,L,L,0
 DLTA,Verhees,Delta,1,P,,L,L,0
 DNGO,Aeroric,Dingo,1,T,,A,L,1
 DO27,CASA,C-127,1,P,,L,L,1
 DO27,Dornier,Do-27,1,P,,L,L,1
 DO27,Dornier,Fpl53,1,P,,L,L,1
-DO28,Dornier,Agur,2,P,,L,L,1
 DO28,Dornier,Do-28A,2,P,,L,L,1
 DO28,Dornier,Do-28B,2,P,,L,L,1
 DO28,Dornier,Do-28B Agur,2,P,,L,L,1
-DOCX,Kovach-Elmendorf,Doc's RX,1,P,,L,L,1
+DO28,Dornier,Agur,2,P,,L,L,0
 DOCX,Kovach-Elmendorf,ES-3 Doc's RX,1,P,,L,L,1
+DOCX,Kovach-Elmendorf,Doc's RX,1,P,,L,L,0
 DON,Unikomtranso,Don,1,P,,L,L,1
-DOVE,De Havilland,Devon,2,P,,L,L,1
 DOVE,De Havilland,DH-104 Devon,2,P,,L,L,1
 DOVE,De Havilland,DH-104 Dove,2,P,,L,L,1
 DOVE,De Havilland,DH-104 Sea Devon,2,P,,L,L,1
-DOVE,De Havilland,Dove,2,P,,L,L,1
-DOVE,De Havilland,Sea Devon,2,P,,L,L,1
 DOVE,Hawker Siddeley,DH-104 Dove,2,P,,L,L,1
-DOVE,Hawker Siddeley,Dove,2,P,,L,L,1
 DOVE,Riley,Dove 400,2,P,,L,L,1
 DOVE,Riley,Executive 400,2,P,,L,L,1
+DOVE,De Havilland,Devon,2,P,,L,L,0
+DOVE,De Havilland,Dove,2,P,,L,L,0
+DOVE,De Havilland,Sea Devon,2,P,,L,L,0
+DOVE,Hawker Siddeley,Dove,2,P,,L,L,0
 DR1,Fokker,Dr-1 Replica,1,P,,L,L,1
 DR1,Redfern,Fokker Dr-1,1,P,,L,L,1
 DR1,Sands,Fokker Dr-1,1,P,,L,L,1
-DR10,Centre Est,Ambassadeur,1,P,,L,L,1
 DR10,Centre Est,DR-100 Ambassadeur,1,P,,L,L,1
 DR10,Centre Est,DR-105 Ambassadeur,1,P,,L,L,1
 DR10,Centre Est,DR-1050 Ambassadeur,1,P,,L,L,1
@@ -456,45 +457,40 @@ DR10,Centre Est,DR-1050 Sicile Record,1,P,,L,L,1
 DR10,Centre Est,DR-1051 Ambassadeur,1,P,,L,L,1
 DR10,Centre Est,DR-1051 Sicile,1,P,,L,L,1
 DR10,Centre Est,DR-1051 Sicile Record,1,P,,L,L,1
-DR10,Centre Est,Sicile,1,P,,L,L,1
-DR10,Centre Est,Sicile Record,1,P,,L,L,1
-DR10,SAN,Ambassadeur,1,P,,L,L,1
 DR10,SAN,DR-100 Ambassadeur,1,P,,L,L,1
 DR10,SAN,DR-105 Ambassadeur,1,P,,L,L,1
 DR10,SAN,DR-1050 Ambassadeur,1,P,,L,L,1
 DR10,SAN,DR-1050 Excellence,1,P,,L,L,1
 DR10,SAN,DR-1051 Ambassadeur,1,P,,L,L,1
 DR10,SAN,DR-1051 Excellence,1,P,,L,L,1
-DR10,SAN,Excellence,1,P,,L,L,1
-DR22,Centre Est,2+2,1,P,,L,L,1
-DR22,Centre Est,Dauphin,1,P,,L,L,1
+DR10,Centre Est,Ambassadeur,1,P,,L,L,0
+DR10,Centre Est,Sicile,1,P,,L,L,0
+DR10,Centre Est,Sicile Record,1,P,,L,L,0
+DR10,SAN,Ambassadeur,1,P,,L,L,0
+DR10,SAN,Excellence,1,P,,L,L,0
 DR22,Centre Est,DR-220 2+2,1,P,,L,L,1
 DR22,Centre Est,DR-221 Dauphin,1,P,,L,L,1
-DR30,Centre Est,Chevalier,1,P,,L,L,1
+DR22,Centre Est,2+2,1,P,,L,L,0
+DR22,Centre Est,Dauphin,1,P,,L,L,0
 DR30,Centre Est,DR-315 Petit Prince,1,P,,L,L,1
 DR30,Centre Est,DR-340 Major,1,P,,L,L,1
 DR30,Centre Est,DR-360 Chevalier,1,P,,L,L,1
 DR30,Centre Est,DR-380 Prince,1,P,,L,L,1
-DR30,Centre Est,Major,1,P,,L,L,1
-DR30,Centre Est,Petit Prince,1,P,,L,L,1
-DR30,Centre Est,Prince,1,P,,L,L,1
-DR30,Robin,2+2 (DR-300),1,P,,L,L,1
-DR30,Robin,Chevalier (DR-360),1,P,,L,L,1
 DR30,Robin,DR-300,1,P,,L,L,1
 DR30,Robin,DR-300 2+2,1,P,,L,L,1
 DR30,Robin,DR-315 Petit Prince,1,P,,L,L,1
 DR30,Robin,DR-340 Major,1,P,,L,L,1
 DR30,Robin,DR-360 Chevalier,1,P,,L,L,1
 DR30,Robin,DR-380 Prince,1,P,,L,L,1
-DR30,Robin,Major (DR-340),1,P,,L,L,1
-DR30,Robin,Petit Prince (DR-315),1,P,,L,L,1
-DR30,Robin,Prince,1,P,,L,L,1
-DR40,Robin,2+2 (DR-400),1,P,,L,L,1
-DR40,Robin,Cadet,1,P,,L,L,1
-DR40,Robin,Chevalier (DR-400),1,P,,L,L,1
-DR40,Robin,Dauphin 2+2,1,P,,L,L,1
-DR40,Robin,Dauphin 4,1,P,,L,L,1
-DR40,Robin,Dauphin 80,1,P,,L,L,1
+DR30,Centre Est,Chevalier,1,P,,L,L,0
+DR30,Centre Est,Major,1,P,,L,L,0
+DR30,Centre Est,Petit Prince,1,P,,L,L,0
+DR30,Centre Est,Prince,1,P,,L,L,0
+DR30,Robin,2+2 (DR-300),1,P,,L,L,0
+DR30,Robin,Chevalier (DR-360),1,P,,L,L,0
+DR30,Robin,Major (DR-340),1,P,,L,L,0
+DR30,Robin,Petit Prince (DR-315),1,P,,L,L,0
+DR30,Robin,Prince,1,P,,L,L,0
 DR40,Robin,DR-400 2+2,1,P,,L,L,1
 DR40,Robin,DR-400 Cadet,1,P,,L,L,1
 DR40,Robin,DR-400 Chevalier,1,P,,L,L,1
@@ -512,17 +508,23 @@ DR40,Robin,DR-400 Remo 200,1,P,,L,L,1
 DR40,Robin,DR-400 Remo 212,1,P,,L,L,1
 DR40,Robin,DR-400 Remorqueur,1,P,,L,L,1
 DR40,Robin,DR-500 President,1,P,,L,L,1
-DR40,Robin,Earl,1,P,,L,L,1
-DR40,Robin,Ecoflyer,1,P,,L,L,1
-DR40,Robin,Major (DR-400),1,P,,L,L,1
-DR40,Robin,Major 80,1,P,,L,L,1
-DR40,Robin,Petit Prince (DR-400),1,P,,L,L,1
-DR40,Robin,President (DR-500),1,P,,L,L,1
-DR40,Robin,Regent,1,P,,L,L,1
-DR40,Robin,Remo 180,1,P,,L,L,1
-DR40,Robin,Remo 200,1,P,,L,L,1
-DR40,Robin,Remo 212,1,P,,L,L,1
-DR40,Robin,Remorqueur,1,P,,L,L,1
+DR40,Robin,2+2 (DR-400),1,P,,L,L,0
+DR40,Robin,Cadet,1,P,,L,L,0
+DR40,Robin,Chevalier (DR-400),1,P,,L,L,0
+DR40,Robin,Dauphin 2+2,1,P,,L,L,0
+DR40,Robin,Dauphin 4,1,P,,L,L,0
+DR40,Robin,Dauphin 80,1,P,,L,L,0
+DR40,Robin,Earl,1,P,,L,L,0
+DR40,Robin,Ecoflyer,1,P,,L,L,0
+DR40,Robin,Major (DR-400),1,P,,L,L,0
+DR40,Robin,Major 80,1,P,,L,L,0
+DR40,Robin,Petit Prince (DR-400),1,P,,L,L,0
+DR40,Robin,President (DR-500),1,P,,L,L,0
+DR40,Robin,Regent,1,P,,L,L,0
+DR40,Robin,Remo 180,1,P,,L,L,0
+DR40,Robin,Remo 200,1,P,,L,L,0
+DR40,Robin,Remo 212,1,P,,L,L,0
+DR40,Robin,Remorqueur,1,P,,L,L,0
 DRAG,Crae,Dragon Fly,1,P,,H,L,1
 DRAG,DF Helicopters,Dragon,1,P,,H,L,1
 DRAG,Dragon Fly,Dragon Fly,1,P,,H,L,1
@@ -535,52 +537,55 @@ DRTG,Dart,G,1,P,,L,L,1
 DRTG,Dart,GK,1,P,,L,L,1
 DRTG,Dart,GW,1,P,,L,L,1
 DSA1,Frank W.Smith,DSA-1 Miniplane,1,P,,L,L,1
-DSA1,Frank W.Smith,Miniplane,1,P,,L,L,1
+DSA1,Frank W.Smith,Miniplane,1,P,,L,L,0
 DSK,Killingsworth,DSK-1 Hawk,1,P,,L,L,1
 DSK,Killingsworth,DSK-2 Golden Hawk,1,P,,L,L,1
-DSK,Killingsworth,Golden Hawk,1,P,,L,L,1
-DSK,Killingsworth,Hawk,1,P,,L,L,1
+DSK,Killingsworth,Golden Hawk,1,P,,L,L,0
+DSK,Killingsworth,Hawk,1,P,,L,L,0
 DSLK,Driggs,Skylark,1,P,,L,L,1
 DT45,CETC,TA-20,1,T,,L,L,1
 DT45,Diamond,Dart-450,1,T,,L,L,1
 DT45,Diamond,DART-550,1,T,,L,L,1
+DT45,Diamond,DART-750,1,T,,L,L,1
 DTA1,Verhees,D-1 Delta,1,P,,L,L,1
-DTA1,Verhees,Delta (D-1),1,P,,L,L,1
+DTA1,Verhees,Delta (D-1),1,P,,L,L,0
 DTA2,Verhees,D-2 Delta,1,P,,L,L,1
-DTA2,Verhees,Delta (D-2),1,P,,L,L,1
+DTA2,Verhees,Delta (D-2),1,P,,L,L,0
 DUB2,Dubna,2 Osa,1,P,,L,L,1
-DUB2,Dubna,Osa,1,P,,L,L,1
 DUB2,Taifun,DMZ-2 Osa,1,P,,L,L,1
-DUB2,Taifun,Osa,1,P,,L,L,1
+DUB2,Dubna,Osa,1,P,,L,L,0
+DUB2,Taifun,Osa,1,P,,L,L,0
 DUCE,Bakeng,Duce,1,P,,L,L,1
 DUOD,Schempp-Hirth,Duo Discus T,1,P,,L,L,1
 DUOD,Schempp-Hirth,Duo Discus XLT,1,P,,L,L,1
 DUOD,Schempp-Hirth,Duo Discus XT,1,P,,L,L,1
 DUR5,Durand,Mk5,1,P,,L,L,1
 DV1,Dova,DV-1 Skylark,1,P,,L,L,1
-DV1,Dova,Skylark,1,P,,L,L,1
 DV1,Marsden,Skylark,1,P,,L,L,1
+DV1,Dova,Skylark,1,P,,L,L,0
 DV2,Dova,DV-2 Infinity,1,P,,L,L,1
-DV2,Dova,Infinity,1,P,,L,L,1
+DV2,Dova,Infinity,1,P,,L,L,0
 DV20,Diamond,DA-20 Eclipse,1,P,,L,L,1
 DV20,Diamond,DA-20 Evolution,1,P,,L,L,1
 DV20,Diamond,DA-20 Falcon,1,P,,L,L,1
 DV20,Diamond,DA-20 Katana,1,P,,L,L,1
 DV20,Diamond,DA-22 Speed Katana,1,P,,L,L,1
 DV20,Diamond,DV-20 Katana,1,P,,L,L,1
-DV20,Diamond,Eclipse,1,P,,L,L,1
-DV20,Diamond,Evolution,1,P,,L,L,1
-DV20,Diamond,Falcon,1,P,,L,L,1
-DV20,Diamond,Katana (DA-20/DV-20),1,P,,L,L,1
-DV20,Diamond,Speed Katana,1,P,,L,L,1
 DV20,HOAC,DV-20 Katana,1,P,,L,L,1
-DV20,HOAC,Katana,1,P,,L,L,1
+DV20,Diamond,Eclipse,1,P,,L,L,0
+DV20,Diamond,Evolution,1,P,,L,L,0
+DV20,Diamond,Falcon,1,P,,L,L,0
+DV20,Diamond,Katana (DA-20/DV-20),1,P,,L,L,0
+DV20,Diamond,Speed Katana,1,P,,L,L,0
+DV20,HOAC,Katana,1,P,,L,L,0
 DW1,Bellanca,DW-1 Eagle,1,P,,L,L,1
-DW1,Bellanca,Eagle,1,P,,L,L,1
 DW1,Eagle,DW-1 Eagle,1,P,,L,L,1
-DW1,Eagle,Eagle,1,P,,L,L,1
+DW1,Bellanca,Eagle,1,P,,L,L,0
+DW1,Eagle,Eagle,1,P,,L,L,0
 DWD2,Dewoitine,D-26,1,P,,L,L,1
 DWD2,Dewoitine,D-27,1,P,,L,L,1
 DWD2,EKW,D-26,1,P,,L,L,1
 DWD2,EKW,D-27,1,P,,L,L,1
 DYH2,Dynali,H-2,1,P,,H,L,1
+DYH3,Dynali,H-3 EasyFlyer,1,P,,H,L,1
+DYH3,Dynali,H-3 Sport,1,P,,H,L,1

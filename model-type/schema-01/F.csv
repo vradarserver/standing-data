@@ -5,15 +5,15 @@ F104,Canadair,CF-104 Starfighter,1,J,,L,M,1
 F104,Canadair,CL-201 Starfighter,1,J,,L,M,1
 F104,Canadair,CL-90 Starfighter,1,J,,L,M,1
 F104,Canadair,F-104 Starfighter,1,J,,L,M,1
-F104,Canadair,Starfighter,1,J,,L,M,1
 F104,Lockheed,F-104 Starfighter,1,J,,L,M,1
 F104,Lockheed,L-583 Starfighter,1,J,,L,M,1
 F104,Lockheed,L-683 Starfighter,1,J,,L,M,1
 F104,Lockheed,RF-104 Starfighter,1,J,,L,M,1
-F104,Lockheed,Starfighter,1,J,,L,M,1
 F104,Lockheed,TF-104 Starfighter,1,J,,L,M,1
-F106,Convair,Delta Dart,1,J,,L,M,1
+F104,Canadair,Starfighter,1,J,,L,M,0
+F104,Lockheed,Starfighter,1,J,,L,M,0
 F106,Convair,QF-106 Delta Dart,1,J,,L,M,1
+F106,Convair,Delta Dart,1,J,,L,M,0
 F111,General Dynamics,Aardvark,2,J,,L,M,0
 F111,General Dynamics,EF-111 Raven,2,J,,L,M,0
 F111,General Dynamics,F-111 Aardvark,2,J,,L,M,0
@@ -29,69 +29,69 @@ F117,Lockheed,YF-117 Nighthawk,2,J,,L,M,0
 F13,Junkers,F-13 Replica,1,P,,L,L,1
 F13,Rimowa,F-13 Replica,1,P,,L,L,1
 F14,Grumman,F-14 Tomcat,2,J,,L,M,1
-F14,Grumman,Tomcat,2,J,,L,M,1
-F15,Boeing,Eagle,2,J,,L,M,1
+F14,Grumman,Tomcat,2,J,,L,M,0
 F15,Boeing,F-15 Eagle,2,J,,L,M,1
 F15,Boeing,F-15 Ra'am,2,J,,L,M,1
 F15,Boeing,F-15 Slam Eagle,2,J,,L,M,1
-F15,Boeing,Ra'am,2,J,,L,M,1
-F15,Boeing,Slam Eagle,2,J,,L,M,1
-F15,McDonnell Douglas,Akef,2,J,,L,M,1
-F15,McDonnell Douglas,Baz,2,J,,L,M,1
-F15,McDonnell Douglas,Eagle,2,J,,L,M,1
 F15,McDonnell Douglas,F-15 Akef,2,J,,L,M,1
 F15,McDonnell Douglas,F-15 Baz,2,J,,L,M,1
 F15,McDonnell Douglas,F-15 Eagle,2,J,,L,M,1
 F15,McDonnell Douglas,F-15 Ra'am,2,J,,L,M,1
-F15,McDonnell Douglas,Ra'am,2,J,,L,M,1
-F15,Mitsubishi,Eagle,2,J,,L,M,1
 F15,Mitsubishi,F-15 Eagle,2,J,,L,M,1
+F15,Boeing,Eagle,2,J,,L,M,0
+F15,Boeing,Ra'am,2,J,,L,M,0
+F15,Boeing,Slam Eagle,2,J,,L,M,0
+F15,McDonnell Douglas,Akef,2,J,,L,M,0
+F15,McDonnell Douglas,Baz,2,J,,L,M,0
+F15,McDonnell Douglas,Eagle,2,J,,L,M,0
+F15,McDonnell Douglas,Ra'am,2,J,,L,M,0
+F15,Mitsubishi,Eagle,2,J,,L,M,0
 F156,Fieseler,Fi-156 Storch,1,P,,L,L,1
-F156,Fieseler,Storch,1,P,,L,L,1
-F156,Morane-Saulnier,Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-500 Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-501 Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-502 Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-504 Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-505 Criquet,1,P,,L,L,1
 F156,Morane-Saulnier,MS-506 Criquet,1,P,,L,L,1
-F156,Mráz,Cap,1,P,,L,L,1
 F156,Mráz,K-65 Cap,1,P,,L,L,1
+F156,Fieseler,Storch,1,P,,L,L,0
+F156,Morane-Saulnier,Criquet,1,P,,L,L,0
+F156,Mráz,Cap,1,P,,L,L,0
 F16,Fokker,F-16 Fighting Falcon,1,J,,L,M,1
-F16,Fokker,Fighting Falcon,1,J,,L,M,1
-F16,General Dynamics,Barak,1,J,,L,M,1
-F16,General Dynamics,Brakeet,1,J,,L,M,1
 F16,General Dynamics,F-16 Barak,1,J,,L,M,1
 F16,General Dynamics,F-16 Brakeet,1,J,,L,M,1
 F16,General Dynamics,F-16 Fighting Falcon,1,J,,L,M,1
 F16,General Dynamics,F-16 Netz,1,J,,L,M,1
-F16,General Dynamics,Fighting Falcon,1,J,,L,M,1
-F16,General Dynamics,Netz,1,J,,L,M,1
 F16,General Dynamics,NF-16 Fighting Falcon,1,J,,L,M,1
 F16,General Dynamics,TF-16 Fighting Falcon,1,J,,L,M,1
 F16,Korea Aerospace,F-16 Fighting Falcon,1,J,,L,M,1
-F16,Korea Aerospace,Fighting Falcon,1,J,,L,M,1
 F16,Lockheed,F-16 Fighting Falcon,1,J,,L,M,1
-F16,Lockheed,Fighting Falcon,1,J,,L,M,1
-F16,Lockheed Martin,Desert Falcon,1,J,,L,M,1
 F16,Lockheed Martin,F-16 Desert Falcon,1,J,,L,M,1
 F16,Lockheed Martin,F-16 Fighting Falcon,1,J,,L,M,1
 F16,Lockheed Martin,F-16 Sufa,1,J,,L,M,1
-F16,Lockheed Martin,Fighting Falcon,1,J,,L,M,1
-F16,Lockheed Martin,Sufa,1,J,,L,M,1
 F16,SABCA,F-16 Fighting Falcon,1,J,,L,M,1
-F16,SABCA,Fighting Falcon,1,J,,L,M,1
 F16,Samsung,F-16 Fighting Falcon,1,J,,L,M,1
-F16,Samsung,Fighting Falcon,1,J,,L,M,1
 F16,TAI,F-16 Fighting Falcon,1,J,,L,M,1
-F16,TAI,Fighting Falcon,1,J,,L,M,1
+F16,Fokker,Fighting Falcon,1,J,,L,M,0
+F16,General Dynamics,Barak,1,J,,L,M,0
+F16,General Dynamics,Brakeet,1,J,,L,M,0
 F16,General Dynamics,F-16A Fighting Falcon,1,J,,L,M,0
 F16,General Dynamics,F-16B Fighting Falcon,1,J,,L,M,0
 F16,General Dynamics,F-16C Fighting Falcon,1,J,,L,M,0
 F16,General Dynamics,F-16D Fighting Falcon,1,J,,L,M,0
 F16,General Dynamics,F-16N Fighting Falcon,1,J,,L,M,0
+F16,General Dynamics,Fighting Falcon,1,J,,L,M,0
 F16,General Dynamics,Fighting Falcon (F-16A/B/C/D/N),1,J,,L,M,0
+F16,General Dynamics,Netz,1,J,,L,M,0
+F16,Korea Aerospace,Fighting Falcon,1,J,,L,M,0
+F16,Lockheed,Fighting Falcon,1,J,,L,M,0
+F16,Lockheed Martin,Desert Falcon,1,J,,L,M,0
 F16,Lockheed Martin,F-16  Sufa,1,J,,L,M,0
+F16,Lockheed Martin,Fighting Falcon,1,J,,L,M,0
+F16,Lockheed Martin,Sufa,1,J,,L,M,0
+F16,SABCA,Fighting Falcon,1,J,,L,M,0
+F16,Samsung,Fighting Falcon,1,J,,L,M,0
+F16,TAI,Fighting Falcon,1,J,,L,M,0
 F16X,General Dynamics,F-16XL Fighting Falcon,1,J,,L,M,0
 F16X,General Dynamics,Fighting Falcon (F-16XL),1,J,,L,M,0
 F18,ASTA,AF-18 Hornet,2,J,,L,M,0
@@ -123,13 +123,10 @@ F18,Valmet,FA-18 Hornet,2,J,,L,M,0
 F18,Valmet,Hornet,2,J,,L,M,0
 F18H,ASTA,AF-18 Hornet,2,J,,L,M,1
 F18H,ASTA,ATF-18 Hornet,2,J,,L,M,1
-F18H,ASTA,Hornet,2,J,,L,M,1
 F18H,Boeing,FA-18C Hornet,2,J,,L,M,1
 F18H,Boeing,FA-18D Hornet,2,J,,L,M,1
-F18H,Boeing,Hornet,2,J,,L,M,1
 F18H,GAF,AF-18 Hornet,2,J,,L,M,1
 F18H,GAF,ATF-18 Hornet,2,J,,L,M,1
-F18H,GAF,Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,ATF-18 Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,CF-18 Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,CF-188 Hornet,2,J,,L,M,1
@@ -138,29 +135,32 @@ F18H,McDonnell Douglas,FA-18A Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,FA-18B Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,FA-18C Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,FA-18D Hornet,2,J,,L,M,1
-F18H,McDonnell Douglas,Hornet,2,J,,L,M,1
 F18H,McDonnell Douglas,KAF-18 Hornet,2,J,,L,M,1
 F18H,Patria,FA-18 Hornet,2,J,,L,M,1
-F18H,Patria,Hornet,2,J,,L,M,1
 F18H,SF,FA-18 Hornet,2,J,,L,M,1
-F18H,SF,Hornet,2,J,,L,M,1
 F18H,Valmet,FA-18 Hornet,2,J,,L,M,1
-F18H,Valmet,Hornet,2,J,,L,M,1
+F18H,ASTA,Hornet,2,J,,L,M,0
+F18H,Boeing,Hornet,2,J,,L,M,0
+F18H,GAF,Hornet,2,J,,L,M,0
+F18H,McDonnell Douglas,Hornet,2,J,,L,M,0
+F18H,Patria,Hornet,2,J,,L,M,0
+F18H,SF,Hornet,2,J,,L,M,0
+F18H,Valmet,Hornet,2,J,,L,M,0
 F18S,Boeing,EA-18 Growler,2,J,,L,M,1
 F18S,Boeing,FA-18E Super Hornet,2,J,,L,M,1
 F18S,Boeing,FA-18F Super Hornet,2,J,,L,M,1
-F18S,Boeing,Growler,2,J,,L,M,1
 F18S,Boeing,NEA-18 Growler,2,J,,L,M,1
-F18S,Boeing,Super Hornet,2,J,,L,M,1
 F18S,McDonnell Douglas,FA-18E Super Hornet,2,J,,L,M,1
 F18S,McDonnell Douglas,FA-18F Super Hornet,2,J,,L,M,1
-F18S,McDonnell Douglas,Super Hornet,2,J,,L,M,1
+F18S,Boeing,Growler,2,J,,L,M,0
+F18S,Boeing,Super Hornet,2,J,,L,M,0
+F18S,McDonnell Douglas,Super Hornet,2,J,,L,M,0
 F1FV,Avion,F-1 Favorit,1,P,,L,L,1
-F1FV,Avion,Favorit,1,P,,L,L,1
+F1FV,Avion,Favorit,1,P,,L,L,0
 F2,Mitsubishi,F-2,1,J,,L,M,1
 F22,Lockheed Martin,F-22 Raptor,2,J,,L,M,1
 F22,Lockheed Martin,L-645 Raptor,2,J,,L,M,1
-F22,Lockheed Martin,Raptor,2,J,,L,M,1
+F22,Lockheed Martin,Raptor,2,J,,L,M,0
 F260,Aermacchi,F-260E,1,P,,L,L,1
 F260,Aermacchi,F-260F,1,P,,L,L,1
 F260,Aermacchi,SF-260E,1,P,,L,L,1
@@ -181,15 +181,15 @@ F260,SIAI-Marchetti,SF-260E,1,P,,L,L,1
 F260,SIAI-Marchetti,SF-260F,1,P,,L,L,1
 F260,SIAI-Marchetti,SF-260M,1,P,,L,L,1
 F260,SIAI-Marchetti,SF-260W Warrior,1,P,,L,L,1
-F260,SIAI-Marchetti,Warrior,1,P,,L,L,1
 F260,TAI,SF-260,1,P,,L,L,1
+F260,SIAI-Marchetti,Warrior,1,P,,L,L,0
 F26T,Aermacchi,SF-260T,1,T,,L,L,1
 F26T,Alenia Aermacchi,SF-260T,1,T,,L,L,1
-F26T,Ardc,Layang,1,T,,L,L,1
 F26T,PADC,SF-260T,1,T,,L,L,1
 F26T,SIAI-Marchetti,SF-260T,1,T,,L,L,1
+F26T,TAI THAILAND,RTAF-6,1,T,,L,L,1
+F26T,Ardc,Layang,1,T,,L,L,0
 F27,Conair,F-27 Firefighter,2,T,,L,M,1
-F27,Conair,Firefighter,2,T,,L,M,1
 F27,Fairchild,F-27,2,T,,L,M,1
 F27,Fairchild Hiller,F-27,2,T,,L,M,1
 F27,Fairchild Hiller,FH-227,2,T,,L,M,1
@@ -197,21 +197,22 @@ F27,Fokker,C-31 Friendship,2,T,,L,M,1
 F27,Fokker,F-27 Friendship,2,T,,L,M,1
 F27,Fokker,F-27 Maritime,2,T,,L,M,1
 F27,Fokker,F-27 Troopship,2,T,,L,M,1
-F27,Fokker,Friendship,2,T,,L,M,1
-F27,Fokker,Maritime,2,T,,L,M,1
-F27,Fokker,Troopship,2,T,,L,M,1
+F27,Conair,Firefighter,2,T,,L,M,0
+F27,Fokker,Friendship,2,T,,L,M,0
+F27,Fokker,Maritime,2,T,,L,M,0
+F27,Fokker,Troopship,2,T,,L,M,0
 F28,Fokker,F-28 Fellowship,2,J,A,L,M,1
-F28,Fokker,Fellowship,2,J,A,L,M,1
+F28,Fokker,Fellowship,2,J,A,L,M,0
 F2TH,Dassault,Falcon 2000,2,J,A,L,M,1
-F30,GOLDEN AVIO,Brio,1,P,,L,L,1
 F30,GOLDEN AVIO,F-30 Brio,1,P,,L,L,1
-F30,Golden Car,Brio,1,P,,L,L,1
 F30,Golden Car,F-30 Brio,1,P,,L,L,1
+F30,GOLDEN AVIO,Brio,1,P,,L,L,0
+F30,Golden Car,Brio,1,P,,L,L,0
 F35,Lockheed Martin,F-35A Lightning 2,1,J,,L,M,1
 F35,Lockheed Martin,F-35C Lightning 2,1,J,,L,M,1
-F35,Lockheed Martin,Lightning 2 (F-35A/C),1,J,,L,M,1
 F35,Lockheed Martin,F-35A Lightning II,1,J,,L,M,0
 F35,Lockheed Martin,F-35C Lightning II,1,J,,L,M,0
+F35,Lockheed Martin,Lightning 2 (F-35A/C),1,J,,L,M,0
 F35,Lockheed Martin,Lightning II (F-35A/C),1,J,,L,M,0
 F3F,Grumman,F3F Replica,1,P,,L,L,1
 F3F,Grumman,G-11 Replica,1,P,,L,L,1
@@ -221,36 +222,35 @@ F3F,Texas Airplane,G-11 Replica,1,P,,L,L,1
 F3F,Texas Airplane,G-32 Replica,1,P,,L,L,1
 F4,IAI,F-4 Kurnass 2000,2,J,,L,M,1
 F4,IAI,F-4 Phantom 2000,2,J,,L,M,1
-F4,IAI,Kurnass 2000,2,J,,L,M,1
-F4,IAI,Phantom 2000,2,J,,L,M,1
 F4,McDonnell,C-12 Phantom 2,2,J,,L,M,1
 F4,McDonnell,CR-12 Phantom 2,2,J,,L,M,1
 F4,McDonnell,F-4 Phantom 2,2,J,,L,M,1
-F4,McDonnell,Phantom 2,2,J,,L,M,1
 F4,McDonnell,RF-4 Phantom 2,2,J,,L,M,1
 F4,McDonnell Douglas,F-4 Kurnass,2,J,,L,M,1
 F4,McDonnell Douglas,F-4 Phantom 2,2,J,,L,M,1
-F4,McDonnell Douglas,Kurnass,2,J,,L,M,1
-F4,McDonnell Douglas,Phantom 2,2,J,,L,M,1
 F4,McDonnell Douglas,QF-4 Phantom 2,2,J,,L,M,1
 F4,McDonnell Douglas,RF-4 Kurnass,2,J,,L,M,1
 F4,McDonnell Douglas,RF-4 Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,F-4 Phantom 2,2,J,,L,M,1
-F4,Mitsubishi,Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,RF-4 Phantom 2,2,J,,L,M,1
+F4,IAI,Kurnass 2000,2,J,,L,M,0
+F4,IAI,Phantom 2000,2,J,,L,M,0
+F4,McDonnell,Phantom 2,2,J,,L,M,0
+F4,McDonnell Douglas,Kurnass,2,J,,L,M,0
+F4,McDonnell Douglas,Phantom 2,2,J,,L,M,0
+F4,Mitsubishi,Phantom 2,2,J,,L,M,0
 F402,Falcon Air,Falcon 402,1,T,,L,L,1
-F406,Cessna,Caravan 2,2,T,,L,L,1
 F406,Cessna,F406 Caravan 2,2,T,,L,L,1
 F406,Cessna,F406 Vigilant,2,T,,L,L,1
-F406,Cessna,Vigilant,2,T,,L,L,1
-F406,Reims,Caravan 2,2,T,,L,L,1
 F406,Reims,F406 Caravan 2,2,T,,L,L,1
 F406,Reims,F406 Vigilant,2,T,,L,L,1
-F406,Reims,Vigilant,2,T,,L,L,1
-F41E,Aerosamara,El'brus,2,P,,L,L,1
+F406,Cessna,Caravan 2,2,T,,L,L,0
+F406,Cessna,Vigilant,2,T,,L,L,0
+F406,Reims,Caravan 2,2,T,,L,L,0
+F406,Reims,Vigilant,2,T,,L,L,0
 F41E,Aerosamara,F-41 El'brus,2,P,,L,L,1
+F41E,Aerosamara,El'brus,2,P,,L,L,0
 F421,Falcon Air,Falcon 421,1,T,,L,L,1
-F5,AIDC,Chung-Cheng,2,J,,L,M,1
 F5,AIDC,F-5 Chung-Cheng,2,J,,L,M,1
 F5,Canadair,CF-116,2,J,,L,M,1
 F5,Canadair,CF-5,2,J,,L,M,1
@@ -262,117 +262,118 @@ F5,CASA,AR-9,2,J,,L,M,1
 F5,CASA,SF-5,2,J,,L,M,1
 F5,CASA,SRF-5,2,J,,L,M,1
 F5,F+W Emmen,F-5 Tiger 2,2,J,,L,M,1
-F5,F+W Emmen,Tiger 2,2,J,,L,M,1
-F5,Korean Air,Chegoong-Ho,2,J,,L,M,1
 F5,Korean Air,F-5 Chegoong-Ho,2,J,,L,M,1
 F5,Korean Air,F-5 Tiger 2,2,J,,L,M,1
-F5,Korean Air,Tiger 2,2,J,,L,M,1
-F5,Northrop,Azarakhsh,2,J,,L,M,1
 F5,Northrop,F-5 Azarakhsh,2,J,,L,M,1
 F5,Northrop,F-5 Freedom Fighter,2,J,,L,M,1
 F5,Northrop,F-5 Tiger 2,2,J,,L,M,1
-F5,Northrop,Freedom Fighter,2,J,,L,M,1
 F5,Northrop,N-156C Freedom Fighter,2,J,,L,M,1
 F5,Northrop,N-156F Freedom Fighter,2,J,,L,M,1
 F5,Northrop,RF-5 Freedom Fighter,2,J,,L,M,1
 F5,Northrop,RF-5 Tigereye,2,J,,L,M,1
-F5,Northrop,Tiger 2,2,J,,L,M,1
-F5,Northrop,Tigereye,2,J,,L,M,1
+F5,AIDC,Chung-Cheng,2,J,,L,M,0
+F5,F+W Emmen,Tiger 2,2,J,,L,M,0
+F5,Korean Air,Chegoong-Ho,2,J,,L,M,0
+F5,Korean Air,Tiger 2,2,J,,L,M,0
+F5,Northrop,Azarakhsh,2,J,,L,M,0
+F5,Northrop,Freedom Fighter,2,J,,L,M,0
+F5,Northrop,Tiger 2,2,J,,L,M,0
+F5,Northrop,Tigereye,2,J,,L,M,0
 F50,Fokker,50,2,T,,L,M,1
 F50,Fokker,50 Fokker50Freighter,2,T,,L,M,1
 F50,Fokker,50 Maritime Enforcer,2,T,,L,M,1
-F50,Fokker,Fokker50Freighter,2,T,,L,M,1
-F50,Fokker,Maritime Enforcer,2,T,,L,M,1
+F50,Fokker,Fokker50Freighter,2,T,,L,M,0
+F50,Fokker,Maritime Enforcer,2,T,,L,M,0
 F5SA,IRIAF,S-100 Saeghe,2,J,,L,M,1
-F5SA,IRIAF,Saeghe,2,J,,L,M,1
+F5SA,IRIAF,Saeghe,2,J,,L,M,0
 F60,Fokker,60,2,T,,L,M,1
-F600,SIAI-Marchetti,Canguro,2,T,,L,L,1
 F600,SIAI-Marchetti,SF-600 Canguro,2,T,,L,L,1
-F600,VulcanAir,Canguro,2,T,,L,L,1
 F600,VulcanAir,SF-600 Canguro,2,T,,L,L,1
+F600,SIAI-Marchetti,Canguro,2,T,,L,L,0
+F600,VulcanAir,Canguro,2,T,,L,L,0
 F70,Fokker,70,2,J,A,L,M,1
-F8,Chance Vought,Crusader,1,J,,L,M,1
 F8,Chance Vought,F8 Crusader,1,J,,L,M,1
 F8,Chance Vought,F8U Crusader,1,J,,L,M,1
 F8,Chance Vought,RF-8 Crusader,1,J,,L,M,1
 F8,LTV,F-8 Crusader,1,J,,L,M,1
+F8,Chance Vought,Crusader,1,J,,L,M,0
 F86,Canadair,CL-13 Sabre,1,J,,L,M,1
-F86,Canadair,Sabre,1,J,,L,M,1
 F86,Commonwealth Aircraft (Aus),CA-27 Sabre,1,J,,L,M,1
-F86,Commonwealth Aircraft (Aus),Sabre,1,J,,L,M,1
 F86,Mitsubishi,F-86 Sabre,1,J,,L,M,1
-F86,Mitsubishi,Sabre,1,J,,L,M,1
 F86,North American,F-86 Sabre,1,J,,L,M,1
-F86,North American,Sabre,1,J,,L,M,1
+F86,Canadair,Sabre,1,J,,L,M,0
+F86,Commonwealth Aircraft (Aus),Sabre,1,J,,L,M,0
+F86,Mitsubishi,Sabre,1,J,,L,M,0
+F86,North American,Sabre,1,J,,L,M,0
 F8L,Aeromere,F-8L Falco,1,P,,L,L,1
-F8L,Aeromere,Falco,1,P,,L,L,1
 F8L,Aviamilano,F-8L Falco,1,P,,L,L,1
-F8L,Aviamilano,Falco,1,P,,L,L,1
 F8L,Laverda,F-8L Falco,1,P,,L,L,1
-F8L,Laverda,Falco,1,P,,L,L,1
 F8L,Sequoia,F-8L Falco,1,P,,L,L,1
-F8L,Sequoia,Falco,1,P,,L,L,1
+F8L,Aeromere,Falco,1,P,,L,L,0
+F8L,Aviamilano,Falco,1,P,,L,L,0
+F8L,Laverda,Falco,1,P,,L,L,0
+F8L,Sequoia,Falco,1,P,,L,L,0
 F900,Dassault,Falcon 900,3,J,A,L,M,1
 F900,Dassault,Mystère 900,3,J,A,L,M,1
 F9F,Grumman,F9F Panther,1,J,,L,M,1
 F9F,Grumman,G-79 Panther,1,J,,L,M,1
-F9F,Grumman,Panther,1,J,,L,M,1
 F9F,Grumman,F9F Panther,1,J,,L,L,0
 F9F,Grumman,G-79 Panther,1,J,,L,L,0
 F9F,Grumman,Panther,1,J,,L,L,0
+F9F,Grumman,Panther,1,J,,L,M,0
 FA01,Fläming Air,FA-01 Saphir,1,P,,L,L,1
 FA01,Fläming Air,FA-01 Smaragd,1,P,,L,L,1
-FA01,Fläming Air,Saphir,1,P,,L,L,1
-FA01,Fläming Air,Smaragd,1,P,,L,L,1
+FA01,Fläming Air,Saphir,1,P,,L,L,0
+FA01,Fläming Air,Smaragd,1,P,,L,L,0
 FA02,Fläming Air,FA-02 Smaragd VLA,1,P,,L,L,1
-FA02,Fläming Air,Smaragd VLA,1,P,,L,L,1
+FA02,Fläming Air,Smaragd VLA,1,P,,L,L,0
 FA03,Fläming Air,FA-03 Smaragd TMG,1,P,,L,L,1
-FA03,Fläming Air,Smaragd TMG,1,P,,L,L,1
+FA03,Fläming Air,Smaragd TMG,1,P,,L,L,0
 FA04,Fläming Air,FA-04 Peregrine,1,P,,L,L,1
-FA04,Fläming Air,Peregrine,1,P,,L,L,1
+FA04,Fläming Air,Peregrine,1,P,,L,L,0
 FA10,Dassault,Falcon 10,2,J,A,L,M,1
 FA10,Dassault,Falcon 100,2,J,A,L,M,1
 FA10,Dassault,Mystère 10,2,J,A,L,M,1
 FA10,Dassault,Mystère 100,2,J,A,L,M,1
 FA11,Fairchild (Canada),F-11 Husky,1,P,,L,L,1
-FA11,Fairchild (Canada),Husky,1,P,,L,L,1
+FA11,Fairchild (Canada),Husky,1,P,,L,L,0
 FA20,Dassault,Falcon 20,2,J,A,L,M,1
 FA20,Dassault,Falcon 200,2,J,A,L,M,1
 FA20,Dassault,Gardian,2,J,A,L,M,1
-FA20,Dassault,Guardian,2,J,A,L,M,1
 FA20,Dassault,HU-25 Guardian,2,J,A,L,M,1
 FA20,Dassault,Mystère 20,2,J,A,L,M,1
 FA20,Dassault,Mystère 200,2,J,A,L,M,1
-FA24,Fairchild,Argus,1,P,,L,L,1
+FA20,Dassault,Guardian,2,J,A,L,M,0
 FA24,Fairchild,F-24 Argus,1,P,,L,L,1
-FA24,Fairchild,Forwarder,1,P,,L,L,1
 FA24,Fairchild,UC-61 Argus,1,P,,L,L,1
 FA24,Fairchild,UC-61 Forwarder,1,P,,L,L,1
+FA24,Fairchild,Argus,1,P,,L,L,0
+FA24,Fairchild,Forwarder,1,P,,L,L,0
 FA50,Dassault,Falcon 50,3,J,A,L,M,1
 FA50,Dassault,Mystère 50,3,J,A,L,M,1
 FA5X,Dassault,Falcon 5X,2,J,A,L,M,0
-FA62,Fairchild,Cornell,1,P,,L,L,1
 FA62,Fairchild,M-62 Cornell,1,P,,L,L,1
 FA62,Fairchild,PT-19 Cornell,1,P,,L,L,1
 FA62,Fairchild,PT-23 Cornell,1,P,,L,L,1
 FA62,Fairchild,PT-26 Cornell,1,P,,L,L,1
 FA62,Fairchild,T-19 Cornell,1,P,,L,L,1
-FA62,Fleet,Cornell,1,P,,L,L,1
 FA62,Fleet,PT-23 Cornell,1,P,,L,L,1
 FA62,Fleet,PT-26 Cornell,1,P,,L,L,1
+FA62,Fairchild,Cornell,1,P,,L,L,0
+FA62,Fleet,Cornell,1,P,,L,L,0
 FA6X,Dassault,Falcon 6X,2,J,,L,M,1
 FA7X,Dassault,Falcon 7X,3,J,A,L,M,1
 FA8X,Dassault,Falcon 8X,3,J,A,L,M,1
 FAET,ATEC,321 Faeta,1,P,,L,L,1
 FAET,ATEC,322 Faeta,1,P,,L,L,1
-FAET,ATEC,Faeta,1,P,,L,L,1
+FAET,ATEC,Faeta,1,P,,L,L,0
 FALC,American Aircraft,Falcon XP,1,P,,L,L,1
-FALM,Miles,Falcon Major,1,P,,L,L,1
 FALM,Miles,M-3 Falcon Major,1,P,,L,L,1
-FALM,Phillips & Powis,Falcon Major,1,P,,L,L,1
 FALM,Phillips & Powis,M-3 Falcon Major,1,P,,L,L,1
-FANL,Rhein,Fanliner,1,P,,L,L,1
+FALM,Miles,Falcon Major,1,P,,L,L,0
+FALM,Phillips & Powis,Falcon Major,1,P,,L,L,0
 FANL,Rhein,FL-1 Fanliner,1,P,,L,L,1
+FANL,Rhein,Fanliner,1,P,,L,L,0
 FANT,Rhein,Fantrainer,1,T,,L,L,1
 FANT,RTAF,Fantrainer,1,T,,L,L,1
 FANT,Rhein,Fantrainer,1,P,,L,L,0
@@ -380,67 +381,67 @@ FANT,RTAF,Fantrainer,1,P,,L,L,0
 FB1A,Bowers,Fly Baby 1A,1,P,,L,L,1
 FB1B,Bowers,Fly Baby 1B,1,P,,L,L,1
 FB5,Euro-Fly,FB-5 Star Light,1,P,,L,L,1
-FB5,Euro-Fly,Star Light,1,P,,L,L,1
-FBA2,Found,Bush Hawk,1,P,,L,L,1
-FBA2,Found,Expedition E350,1,P,,L,L,1
+FB5,Euro-Fly,Star Light,1,P,,L,L,0
 FBA2,Found,FBA-2,1,P,,L,L,1
 FBA2,Found,FBA-2 Bush Hawk,1,P,,L,L,1
 FBA2,Found,FBA-2 Expedition E350,1,P,,L,L,1
-FBA2,Pacific Aerospace,Expedition E350,1,P,,L,L,1
 FBA2,Pacific Aerospace,FBA-2 Expedition E350,1,P,,L,L,1
+FBA2,Found,Bush Hawk,1,P,,L,L,0
+FBA2,Found,Expedition E350,1,P,,L,L,0
+FBA2,Pacific Aerospace,Expedition E350,1,P,,L,L,0
 FBIR,Freewing,Freebird Mk5,1,P,,L,L,0
-FC1,Chengdu,FC-1 Super 7,1,J,,L,M,1
 FC1,Chengdu,FC-1 Xiaolong,1,J,,L,M,1
 FC1,Chengdu,JF-17 Thunder,1,J,,L,M,1
-FC1,Chengdu,Super 7,1,J,,L,M,1
-FC1,Chengdu,Thunder,1,J,,L,M,1
-FC1,Chengdu,Xiaolong,1,J,,L,M,1
 FC1,Pakistan,JF-17 Thunder,1,J,,L,M,1
-FC1,Pakistan,Thunder,1,J,,L,M,1
+FC1,Chengdu,FC-1 Super 7,1,J,,L,M,0
+FC1,Chengdu,Super 7,1,J,,L,M,0
+FC1,Chengdu,Thunder,1,J,,L,M,0
+FC1,Chengdu,Xiaolong,1,J,,L,M,0
+FC1,Pakistan,Thunder,1,J,,L,M,0
 FD2E,Flight Design,F-2e,1,E,,L,L,1
 FDCT,Flight Design,CT,1,P,,L,L,1
 FDF2,Flight Design,F-2,1,P,,L,L,1
 FDMC,Flight Design,MC,1,P,,L,L,1
 FE51,Fighter Escort Wings,P-51,1,P,,L,L,1
 FEST,SC Aerostar,01 Festival,1,P,,L,L,1
-FEST,SC Aerostar,Festival,1,P,,L,L,1
 FEST,SC Aerostar,R40S Festival,1,P,,L,L,1
+FEST,SC Aerostar,Festival,1,P,,L,L,0
 FFLO,,Unmanned aircraft (cannot hover),,,,,,0
 FFLY,Fairey,Firefly,1,P,,L,L,1
 FG01,Farigoux,FG-01 Origan,1,P,,L,L,1
-FG01,Farigoux,Origan,1,P,,L,L,1
+FG01,Farigoux,Origan,1,P,,L,L,0
 FGT,Midwest Aerosport,Formula GT,1,P,,L,L,1
 FH11,Fairchild,FH-1100,1,T,,H,L,1
 FH11,Fairchild Hiller,FH-1100,1,T,,H,L,1
 FH11,Hiller,FH-1100,1,T,,H,L,1
-FH11,Rogerson Hiller,Hornet,1,T,,H,L,1
-FH11,Rogerson Hiller,Pegasus,1,T,,H,L,1
 FH11,Rogerson Hiller,RH-1100 Hornet,1,T,,H,L,1
 FH11,Rogerson Hiller,RH-1100 Pegasus,1,T,,H,L,1
+FH11,Rogerson Hiller,Hornet,1,T,,H,L,0
+FH11,Rogerson Hiller,Pegasus,1,T,,H,L,0
 FIBO,Starfire,Firebolt Convertible,1,P,,L,L,1
 FIKD,Fike,D,1,P,,L,L,1
 FIKE,Fike,E,1,P,,L,L,1
 FINC,Fleet,10,1,P,,L,L,1
 FINC,Fleet,11,1,P,,L,L,1
 FINC,Fleet,16 Finch,1,P,,L,L,1
-FINC,Fleet,Finch,1,P,,L,L,1
+FINC,Fleet,Finch,1,P,,L,L,0
 FJ10,Aerostar,FJ-100,2,J,,L,L,1
 FJR3,Fajr,F-3,1,P,,L,L,1
-FK12,B & F Technik,Comet,1,P,,L,L,1
 FK12,B & F Technik,FK-12 Comet,1,P,,L,L,1
+FK12,B & F Technik,Comet,1,P,,L,L,0
 FK14,B & F Technik,FK-14 Polaris,1,P,,L,L,1
-FK14,B & F Technik,Polaris,1,P,,L,L,1
+FK14,B & F Technik,Polaris,1,P,,L,L,0
 FK9,B & F Technik,FK-9,1,P,,L,L,1
-FL3,Avia,Aviastarlet,1,P,,L,L,1
 FL3,Avia,L-3 Aviastarlet,1,P,,L,L,1
-FL3,Lombardi,Aviastarlet,1,P,,L,L,1
 FL3,Lombardi,FL-3 Aviastarlet,1,P,,L,L,1
+FL3,Avia,Aviastarlet,1,P,,L,L,0
+FL3,Lombardi,Aviastarlet,1,P,,L,L,0
 FL53,Meteor,FL-53,1,P,,L,L,1
 FL54,Meteor,FL-54,1,P,,L,L,1
 FL55,Meteor,FL-55,1,P,,L,L,1
-FLAM,Dassault,Flamant,2,P,,L,L,1
 FLAM,Dassault,MD-311 Flamant,2,P,,L,L,1
 FLAM,Dassault,MD-312 Flamant,2,P,,L,L,1
+FLAM,Dassault,Flamant,2,P,,L,L,0
 FLCO,Finmeccanica,Falco,1,P,,L,L,1
 FLCO,Galileo,Falco,1,P,,L,L,1
 FLCO,Leonardo,Falco,1,P,,L,L,1
@@ -451,78 +452,82 @@ FLCO,Selex Galileo,Falco,1,P,,L,L,1
 FLE2,Fleet,2,1,P,,L,L,1
 FLE7,Fleet,7,1,P,,L,L,1
 FLE7,Fleet,7 Fawn,1,P,,L,L,1
-FLE7,Fleet,Fawn,1,P,,L,L,1
-FLIZ,Flitzer,Flitzer,1,P,,L,L,1
+FLE7,Fleet,Fawn,1,P,,L,L,0
 FLIZ,Flitzer,Z-1 Flitzer,1,P,,L,L,1
 FLIZ,Flitzer,Z-21 Flitzer,1,P,,L,L,1
+FLIZ,Flitzer,Flitzer,1,P,,L,L,0
 FLSH,Euro-Fly,Flash,1,P,,L,L,1
 FLSS,Flyer,Flyer NG,1,P,,L,L,1
 FLSS,Flyer,Flyer SS,1,P,,L,L,1
 FLSS,Kolb,Flyer SS,1,P,,L,L,1
 FM25,Flying Machines,FM-250 Vampire,1,P,,L,L,1
-FM25,Flying Machines,Vampire,1,P,,L,L,1
+FM25,Flying Machines,Vampire,1,P,,L,L,0
 FMGO,AAK,Flamingo,1,P,,L,L,1
 FN33,Nardi,FN-333 Riviera,1,P,,A,L,1
-FN33,Nardi,Riviera,1,P,,A,L,1
 FN33,SIAI-Marchetti,FN-333 Riviera,1,P,,A,L,1
-FN33,SIAI-Marchetti,Riviera,1,P,,A,L,1
+FN33,Nardi,Riviera,1,P,,A,L,0
+FN33,SIAI-Marchetti,Riviera,1,P,,A,L,0
 FNKB,Akron,Funk B,1,P,,L,L,1
 FNKB,Funk,B,1,P,,L,L,1
-FOOF,Donald Stewart,Foo Fighter,1,P,,L,L,1
 FOOF,Donald Stewart,JD-2 Foo Fighter,1,P,,L,L,1
+FOOF,Donald Stewart,Foo Fighter,1,P,,L,L,0
 FORT,Fleet,60 Fort,1,P,,L,L,1
-FORT,Fleet,Fort,1,P,,L,L,1
+FORT,Fleet,Fort,1,P,,L,L,0
 FOUG,Aerospatiale,CM-170R Magister,2,J,,L,L,1
-FOUG,Aerospatiale,Magister,2,J,,L,L,1
 FOUG,Air-Fouga,CM-170R Magister,2,J,,L,L,1
-FOUG,Air-Fouga,Magister,2,J,,L,L,1
 FOUG,Fouga,CM-170R Magister,2,J,,L,L,1
-FOUG,Fouga,Magister,2,J,,L,L,1
 FOUG,IAI,CM-170R Magister,2,J,,L,L,1
 FOUG,IAI,CM-170R Tzukit,2,J,,L,L,1
-FOUG,IAI,Magister,2,J,,L,L,1
-FOUG,IAI,Tzukit,2,J,,L,L,1
 FOUG,Potez,CM-170R Magister,2,J,,L,L,1
 FOUG,Potez,CM-175 Zéphyr,2,J,,L,L,1
-FOUG,Potez,Magister,2,J,,L,L,1
-FOUG,Potez,Zéphyr,2,J,,L,L,1
 FOUG,Potez Air-Fouga,CM-170R Magister,2,J,,L,L,1
 FOUG,Potez Air-Fouga,CM-175 Zéphyr,2,J,,L,L,1
-FOUG,Potez Air-Fouga,Magister,2,J,,L,L,1
-FOUG,Potez Air-Fouga,Zéphyr,2,J,,L,L,1
 FOUG,Sud,CM-170R Magister,2,J,,L,L,1
-FOUG,Sud,Magister,2,J,,L,L,1
 FOUG,Sudflug,CM-170R Magister,2,J,,L,L,1
-FOUG,Sudflug,Magister,2,J,,L,L,1
 FOUG,Valmet,CM-170R Magister,2,J,,L,L,1
-FOUG,Valmet,Magister,2,J,,L,L,1
+FOUG,Aerospatiale,Magister,2,J,,L,L,0
+FOUG,Air-Fouga,Magister,2,J,,L,L,0
+FOUG,Fouga,Magister,2,J,,L,L,0
+FOUG,IAI,Magister,2,J,,L,L,0
+FOUG,IAI,Tzukit,2,J,,L,L,0
+FOUG,Potez,Magister,2,J,,L,L,0
+FOUG,Potez,Zéphyr,2,J,,L,L,0
+FOUG,Potez Air-Fouga,Magister,2,J,,L,L,0
+FOUG,Potez Air-Fouga,Zéphyr,2,J,,L,L,0
+FOUG,Sud,Magister,2,J,,L,L,0
+FOUG,Sudflug,Magister,2,J,,L,L,0
+FOUG,Valmet,Magister,2,J,,L,L,0
 FOX,Denney,Kitfox,1,P,,L,L,1
 FOX,Kitfox,Kitfox,1,P,,L,L,1
 FOX,PACI,Skyfox,1,P,,L,L,1
 FOX,Skyfox,CA-25 Gazelle,1,P,,L,L,1
 FOX,Skyfox,CA-25 Impala,1,P,,L,L,1
-FOX,Skyfox,Gazelle,1,P,,L,L,1
-FOX,Skyfox,Impala,1,P,,L,L,1
 FOX,Skystar,Kitfox,1,P,,L,L,1
+FOX,Skyfox,Gazelle,1,P,,L,L,0
+FOX,Skyfox,Impala,1,P,,L,L,0
+FOXT,CITA,Gavilán,1,P,,L,L,1
+FOXT,REVOLUTION (2),RAI-6 Foxtrot,1,P,,L,L,1
 FOXT,Team Tango,Foxtrot-4,1,P,,L,L,1
-FRBD,Northrop Grumman,Firebird,1,P,,L,L,1
+FOXT,Team Tango,Gavilán,1,P,,L,L,1
 FRBD,Northrop Grumman,H-03 Firebird,1,P,,L,L,1
 FRBD,Northrop Grumman,R-03 Firebird,1,P,,L,L,1
-FREE,Cabrinha,Free Spirit,1,P,,L,L,1
-FREE,Cabrinha,RC-412 Free Spirit,1,P,,L,L,1
-FREE,CEI,Free Spirit,1,P,,L,L,1
-FREE,CEI,RC-412 Free Spirit,1,P,,L,L,1
-FREE,Free Spirit,Free Spirit,1,P,,L,L,1
-FREE,Free Spirit,RC-412 Free Spirit,1,P,,L,L,1
+FRBD,Northrop Grumman,Firebird,1,P,,L,L,0
+FREE,Cabrinha,423 Free Spirit,1,P,,L,L,1
+FREE,Cabrinha,Free Spirit,1,P,,L,L,0
+FREE,Cabrinha,RC-412 Free Spirit,1,P,,L,L,0
+FREE,CEI,Free Spirit,1,P,,L,L,0
+FREE,CEI,RC-412 Free Spirit,1,P,,L,L,0
+FREE,Free Spirit,Free Spirit,1,P,,L,L,0
+FREE,Free Spirit,RC-412 Free Spirit,1,P,,L,L,0
 FREL,Aerospatiale,SA-321 Super Frelon,3,T,,H,M,1
-FREL,Aerospatiale,Super Frelon,3,T,,H,M,1
 FREL,Changhe,Z-8,3,T,,H,M,1
 FREL,Sud,SA-321 Super Frelon,3,T,,H,M,1
-FREL,Sud,Super Frelon,3,T,,H,M,1
+FREL,Aerospatiale,Super Frelon,3,T,,H,M,0
+FREL,Sud,Super Frelon,3,T,,H,M,0
 FRNT,Sky Raider,Frontier,1,P,,L,L,1
 FRON,Frontier,Frontier MD-2,1,P,,L,L,1
-FS51,Falconar,Mustang,1,P,,L,L,1
 FS51,Falconar,SAL P-51D Mustang,1,P,,L,L,1
+FS51,Falconar,Mustang,1,P,,L,L,0
 FT30,NAI,FT-300,1,P,,L,L,1
 FT30,Nanjing University,FT-300,1,P,,L,L,1
 FU24,Air Parts,Fletcher FU-24,1,P,,L,L,1
@@ -535,19 +540,23 @@ FU24,Pacific Aerospace,Fletcher FU-24,1,P,,L,L,1
 FU24,Sargent-Fletcher,FU-24,1,P,,L,L,1
 FURY,Hawker,Fury,1,P,,L,L,1
 FURY,Hawker,Sea Fury,1,P,,L,L,1
-FUSI,Corvus,Fusion,1,P,,L,L,1
-FUSI,Magnus,Fusion,1,P,,L,L,1
+FUSI,Corvus,CH-11 Fusion,1,P,,L,L,1
+FUSI,Corvus,CR-312 Racer 312,1,P,,L,L,1
+FUSI,Magnus,MA-213 Fusion 213,1,P,,L,L,1
+FUSI,Magnus,MF-212 Fusion 212,1,P,,L,L,1
 FUSI,Magnus,MG-11 Fusion,1,P,,L,L,1
-FW02,Flywhale,Flywhale,1,P,,A,L,1
+FUSI,Corvus,Fusion,1,P,,L,L,0
+FUSI,Magnus,Fusion,1,P,,L,L,0
 FW02,Flywhale,FW-02 Flywhale,1,P,,A,L,1
+FW02,Flywhale,Flywhale,1,P,,A,L,0
 FW19,Four Winds,192,1,P,,L,L,0
-FW21,Four Winds,FX-210,1,P,,L,L,1
+FW21,Four Winds,FX-210,1,P,,L,L,0
 FW44,FMA,Fw-44 Stieglitz,1,P,,L,L,1
-FW44,FMA,Stieglitz,1,P,,L,L,1
 FW44,Focke-Wulf,Fw-44 Stieglitz,1,P,,L,L,1
-FW44,Focke-Wulf,Stieglitz,1,P,,L,L,1
+FW44,FMA,Stieglitz,1,P,,L,L,0
+FW44,Focke-Wulf,Stieglitz,1,P,,L,L,0
 FW90,Flug Werk,Fw-190 Replica,1,P,,L,L,1
 FW90,Focke-Wulf,Fw-190 Replica,1,P,,L,L,1
 FWSB,Fleetwings,F-4 Sea Bird,1,P,,A,L,1
-FWSB,Fleetwings,Sea Bird,1,P,,A,L,1
+FWSB,Fleetwings,Sea Bird,1,P,,A,L,0
 FX1,Innovaviation,FX-1,1,P,,L,L,1

@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE01CC,62-4131,R135,Boeing,RC-135W,Boeing RC-135W,0,United States Air Force,AIO,18471,1962
+AE01CE,62-4134,R135,Boeing,RC-135W,Boeing RC-135W,0,United States Air Force,AIO,18474,1962
 AE0237,61-0315,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18222,1962
 AE0264,60-0355,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18130,
+AE0374,57-1508,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,17579,
 AE0386,59-1468,K35R,Boeing,KC-135T,Boeing KC-135T,0,United States Air Force,AIO,17956,1960
 AE0390,63-7999,K35R,Boeing,KC-135R,Boeing KC-135R,0,United States Air Force,AIO,18616,
 AE0413,164386,E6,Boeing,E-6B Mercury,Boeing E-6B Mercury,0,United States Navy,CNV,23894,1989

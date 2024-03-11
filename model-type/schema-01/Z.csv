@@ -1,17 +1,8 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
-Z22,Moravan,Junak,1,P,,L,L,1
 Z22,Moravan,Zlin Z-22 Junak,1,P,,L,L,1
-Z22,Zlin,Junak,1,P,,L,L,1
 Z22,Zlin,Z-22 Junak,1,P,,L,L,1
-Z26,Moravan,Akrobat,1,P,,L,L,1
-Z26,Moravan,Bohatyr,1,P,,L,L,1
-Z26,Moravan,Condor,1,P,,L,L,1
-Z26,Moravan,Skydevil,1,P,,L,L,1
-Z26,Moravan,Trener,1,P,,L,L,1
-Z26,Moravan,Trener 2,1,P,,L,L,1
-Z26,Moravan,Trener 6,1,P,,L,L,1
-Z26,Moravan,Trener Master,1,P,,L,L,1
-Z26,Moravan,Universal,1,P,,L,L,1
+Z22,Moravan,Junak,1,P,,L,L,0
+Z22,Zlin,Junak,1,P,,L,L,0
 Z26,Moravan,Zlin C-5 Trener,1,P,,L,L,1
 Z26,Moravan,Zlin Z-126 Trener 2,1,P,,L,L,1
 Z26,Moravan,Zlin Z-226 Akrobat,1,P,,L,L,1
@@ -26,16 +17,7 @@ Z26,Moravan,Zlin Z-526 Skydevil,1,P,,L,L,1
 Z26,Moravan,Zlin Z-526 Trener Master,1,P,,L,L,1
 Z26,Moravan,Zlin Z-626,1,P,,L,L,1
 Z26,Moravan,Zlin Z-726 Universal,1,P,,L,L,1
-Z26,Zlin,Akrobat,1,P,,L,L,1
-Z26,Zlin,Bohatyr,1,P,,L,L,1
 Z26,Zlin,C-5 Trener,1,P,,L,L,1
-Z26,Zlin,Condor,1,P,,L,L,1
-Z26,Zlin,Skydevil,1,P,,L,L,1
-Z26,Zlin,Trener,1,P,,L,L,1
-Z26,Zlin,Trener 2,1,P,,L,L,1
-Z26,Zlin,Trener 6,1,P,,L,L,1
-Z26,Zlin,Trener Master,1,P,,L,L,1
-Z26,Zlin,Universal,1,P,,L,L,1
 Z26,Zlin,Z-126 Trener 2,1,P,,L,L,1
 Z26,Zlin,Z-226 Akrobat,1,P,,L,L,1
 Z26,Zlin,Z-226 Bohatyr,1,P,,L,L,1
@@ -49,23 +31,41 @@ Z26,Zlin,Z-526 Skydevil,1,P,,L,L,1
 Z26,Zlin,Z-526 Trener Master,1,P,,L,L,1
 Z26,Zlin,Z-626,1,P,,L,L,1
 Z26,Zlin,Z-726 Universal,1,P,,L,L,1
-Z37P,Let,Cmelák,1,P,,L,L,1
-Z37P,Let,Sparka,1,P,,L,L,1
+Z26,Moravan,Akrobat,1,P,,L,L,0
+Z26,Moravan,Bohatyr,1,P,,L,L,0
+Z26,Moravan,Condor,1,P,,L,L,0
+Z26,Moravan,Skydevil,1,P,,L,L,0
+Z26,Moravan,Trener,1,P,,L,L,0
+Z26,Moravan,Trener 2,1,P,,L,L,0
+Z26,Moravan,Trener 6,1,P,,L,L,0
+Z26,Moravan,Trener Master,1,P,,L,L,0
+Z26,Moravan,Universal,1,P,,L,L,0
+Z26,Zlin,Akrobat,1,P,,L,L,0
+Z26,Zlin,Bohatyr,1,P,,L,L,0
+Z26,Zlin,Condor,1,P,,L,L,0
+Z26,Zlin,Skydevil,1,P,,L,L,0
+Z26,Zlin,Trener,1,P,,L,L,0
+Z26,Zlin,Trener 2,1,P,,L,L,0
+Z26,Zlin,Trener 6,1,P,,L,L,0
+Z26,Zlin,Trener Master,1,P,,L,L,0
+Z26,Zlin,Universal,1,P,,L,L,0
 Z37P,Let,Z-237 Cmelák,1,P,,L,L,1
 Z37P,Let,Z-37 Cmelák,1,P,,L,L,1
 Z37P,Let,Z-37 Sparka,1,P,,L,L,1
 Z37P,Let,Z-37A Cmelák,1,P,,L,L,1
 Z37P,Let,Z-37C Cmelák,1,P,,L,L,1
-Z37P,Moravan,Cmelák,1,P,,L,L,1
-Z37P,Moravan,Sparka,1,P,,L,L,1
 Z37P,Moravan,Z-237 Cmelák,1,P,,L,L,1
 Z37P,Moravan,Z-37 Cmelák,1,P,,L,L,1
 Z37P,Moravan,Z-37 Sparka,1,P,,L,L,1
 Z37P,Moravan,Z-37A Cmelák,1,P,,L,L,1
 Z37P,Moravan,Z-37C Cmelák,1,P,,L,L,1
-Z37T,Moravan,Agro Turbo,1,T,,L,L,1
+Z37P,Let,Cmelák,1,P,,L,L,0
+Z37P,Let,Sparka,1,P,,L,L,0
+Z37P,Moravan,Cmelák,1,P,,L,L,0
+Z37P,Moravan,Sparka,1,P,,L,L,0
 Z37T,Moravan,Z-137 Agro Turbo,1,T,,L,L,1
 Z37T,Moravan,Z-37T Agro Turbo,1,T,,L,L,1
+Z37T,Moravan,Agro Turbo,1,T,,L,L,0
 Z42,Moravan,Firnas 142,1,P,,L,L,1
 Z42,Moravan,Zlin Z-142,1,P,,L,L,1
 Z42,Moravan,Zlin Z-242,1,P,,L,L,1
@@ -83,19 +83,19 @@ Z43,Zlin,Z-43,1,P,,L,L,1
 Z50,Moravan,Zlin Z-50,1,P,,L,L,1
 Z50,Zlin,Z-50,1,P,,L,L,1
 ZA6,Aerokopter,AK-1,1,P,,H,L,1
-ZA6,Aerokopter,Sanka,1,P,,H,L,1
 ZA6,Aerokopter,ZA-6 Sanka,1,P,,H,L,1
 ZA6,Safat,02,1,P,,H,L,1
+ZA6,Aerokopter,Sanka,1,P,,H,L,0
 ZEFR,Curti,Zefhir,1,T,,H,L,1
 ZEP2,Aero Adventure,Toucan,1,P,,L,L,1
 ZEP2,Arnet Pereyra,Toucan,1,P,,L,L,1
 ZEP2,Arnet Pereyra,Zephyr 2,1,P,,L,L,1
 ZEP2,Keuthan,Zephyr 2,1,P,,L,L,1
 ZEPH,ATEC,122 Zephyr,1,P,,L,L,1
-ZEPH,ATEC,Zephyr,1,P,,L,L,1
+ZEPH,ATEC,Zephyr,1,P,,L,L,0
 ZERO,Mitsubishi,A6M Zero,1,P,,L,L,1
-ZERO,Mitsubishi,Zero,1,P,,L,L,1
-ZIA,Applebay,Zia,1,P,,L,L,1
+ZERO,Mitsubishi,Zero,1,P,,L,L,0
+ZIA,Applebay,Zia,1,P,,L,L,0
 ZIU,TAI,ZIU,1,P,,L,L,1
 ZULU,BUL,Zùlù,1,P,,L,L,1
 ZZZZ,,Aircraft type not (yet) assigned a designator,,,,,,0

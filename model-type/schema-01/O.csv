@@ -1,7 +1,6 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
 O1,Cessna,305 Bird Dog,1,P,,L,L,1
 O1,Cessna,321 Bird Dog,1,P,,L,L,1
-O1,Cessna,Bird Dog,1,P,,L,L,1
 O1,Cessna,L-19 Bird Dog,1,P,,L,L,1
 O1,Cessna,O-1 Bird Dog,1,P,,L,L,1
 O1,Cessna,OE Bird Dog,1,P,,L,L,1
@@ -10,18 +9,20 @@ O1,Cessna,TO-1 Bird Dog,1,P,,L,L,1
 O1,Claassen,305,1,P,,L,L,1
 O1,Ector,L-19 Mountaineer,1,P,,L,L,1
 O1,Ector,L-19 Super Mountaineer,1,P,,L,L,1
-O1,Ector,Mountaineer,1,P,,L,L,1
-O1,Ector,Super Mountaineer,1,P,,L,L,1
 O1,Fuji,305 Bird Dog,1,P,,L,L,1
-O1,Fuji,Bird Dog,1,P,,L,L,1
 O1,Fuji,L-19 Bird Dog,1,P,,L,L,1
+O1,Cessna,Bird Dog,1,P,,L,L,0
+O1,Ector,Mountaineer,1,P,,L,L,0
+O1,Ector,Super Mountaineer,1,P,,L,L,0
+O1,Fuji,Bird Dog,1,P,,L,L,0
 O3,Lockheed,YO-3,1,P,,L,L,1
 OH1,Kawasaki,OH-1,2,T,,H,L,1
 OKHO,Aero-Astra,Okhotnik,1,P,,G,L,1
-OM1,Morrisey,Bravo,1,P,,L,L,1
 OM1,Morrisey,OM-1 Bravo,1,P,,L,L,1
+OM1,Morrisey,Bravo,1,P,,L,L,0
 OMAG,O'Neill,Magnum,1,P,,L,L,1
-OMGA,ISAE,Omega 2,1,P,,L,L,1
+OMGA,ISAE,Omega,1,P,,L,L,1
+OMGA,ISAE,Omega 2,1,P,,L,L,0
 OMLA,OMAC,Laser 300,1,T,,L,L,1
 OMSD,ATEC,Omsider,1,P,,A,L,1
 OMSD,Nordic,Omsider,1,P,,A,L,1
@@ -32,24 +33,24 @@ ONE,Gogetair,G-750T,1,P,,L,L,1
 ONE,One Pro,One,1,P,,L,L,1
 ONEX,Sonex,Onex,1,P,,L,L,1
 OPCA,Brooklands,OA-7 Optica Scout,1,P,,L,L,1
-OPCA,Brooklands,Optica Scout,1,P,,L,L,1
 OPCA,Edgley,EA-7 Optica,1,P,,L,L,1
-OPCA,Edgley,Optica,1,P,,L,L,1
 OPCA,FLS,OA-7 Optica,1,P,,L,L,1
-OPCA,FLS,Optica,1,P,,L,L,1
 OPCA,Optica,OA-7 Optica,1,P,,L,L,1
-OPCA,Optica,Optica,1,P,,L,L,1
+OPCA,Brooklands,Optica Scout,1,P,,L,L,0
+OPCA,Edgley,Optica,1,P,,L,L,0
+OPCA,FLS,Optica,1,P,,L,L,0
+OPCA,Optica,Optica,1,P,,L,L,0
 OR10,Orion,10,1,P,,A,L,1
 OR12,Orion,SK-12,2,P,,A,L,1
-OSCR,AFIC,Falcon,1,P,,L,L,1
 OSCR,AFIC,RSA-200 Falcon,1,P,,L,L,1
-OSCR,Partenavia,Charlie,1,P,,L,L,1
-OSCR,Partenavia,Oscar,1,P,,L,L,1
 OSCR,Partenavia,P-64 Oscar,1,P,,L,L,1
 OSCR,Partenavia,P-66 Charlie,1,P,,L,L,1
 OSCR,Partenavia,P-66 Oscar,1,P,,L,L,1
 OSCR,VulcanAir,V-1,1,P,,L,L,1
-OUDE,Olympic Ultralights,Desert Eagle 2,1,P,,L,L,1
+OSCR,AFIC,Falcon,1,P,,L,L,0
+OSCR,Partenavia,Charlie,1,P,,L,L,0
+OSCR,Partenavia,Oscar,1,P,,L,L,0
+OUDE,Olympic Ultralights,Desert Eagle 2,1,P,,L,L,0
 OVOD,Vitek,Ovod,1,P,,L,L,1
 OZZI,Buchanan,BAC-204 Ozzie Mozzie,1,P,,L,L,1
-OZZI,Buchanan,Ozzie Mozzie,1,P,,L,L,1
+OZZI,Buchanan,Ozzie Mozzie,1,P,,L,L,0

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3FF0B9,D-MODU,BREZ,Aerostyle,Breezer CL,Aerostyle Breezer CL,1,Private,,88,
 3FF106,D-MSSQ,EV97,Evektor,EuroStar,Evektor EuroStar,1,Private,,,
+3FF13E,D-MWES,FK9,B & F Technik,FK-9,B & F Technik FK-9,1,Private,,09-109,
 3FF28D,D-MSPR,S450,Aero-East-Europe,SILA-450C,Aero-East-Europe SILA-450C,1,Private,,130509-AEE-0012,
 3FF2F7,D-MMRP,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,067,
 3FF32F,D-MCFT,ULAC,Vidor,Champion V,Vidor Champion V,1,Private,,,
@@ -11,6 +12,7 @@
 3FF413,D-MBHF,FK14,B & F Technik,FK-14 B2 Polaris,B & F Technik FK-14 B2 Polaris,1,Private,,014-119,
 3FF447,D-MRFX,GX,Remos,GX,Remos GX,1,Private,,439,2005
 3FF476,D-MEMZ,FDCT,Flight Design,CT,Flight Design CT,1,Private,,,
+3FF48F,D-MXFG,C42,Ikarus,C-42 Bison,Ikarus C-42 Bison,1,Private,,,
 3FF4B9,D-MHJF,C42,Ikarus,C-42,Ikarus C-42,1,Private,,,
 3FF52E,D-MIGB,AP22,A22,Aeroprakt,A22 Aeroprakt,1,Private,,498,
 3FF549,D-MBUH,FM25,Flying Machines,FM-250 Vampire,Flying Machines FM-250 Vampire,1,Private,,,
@@ -20,6 +22,7 @@
 3FF644,D-MMDG,WT9,Aerospool,WT-9 Dynamic,Aerospool WT-9 Dynamic,1,Private,,,
 3FF65A,D-MYSP,BREZ,Breezer,B400-6 Sport,Breezer B400-6 Sport,1,Private,,,
 3FF6DE,D-MFOG,CH60,Roland,Z-602 Zodiac,Roland Z-602 Zodiac,1,Private,,Z-9600,
+3FF6FF,D-MUBO,CDUS,AutoGyro,Calidus,AutoGyro Calidus,1,Private,,M01162,
 3FF742,D-MCTC,FDCT,Flight Design,CT-LS,Flight Design CT-LS,1,Private,,,
 3FF74B,D-MLVN,BREZ,Breezer,B400,Breezer B400,1,Private,,,
 3FF759,D-MIAY,PNR3,Alpi,Pioneer 300,Alpi Pioneer 300,1,Private,,,
@@ -37,6 +40,7 @@
 3FF808,D-MMUC,BREZ,Breezer,B600,Breezer B600,1,Private,,1604,
 3FF80D,D-MKSO,SD4,Tomark,SD-4 Viper,Tomark SD-4 Viper,1,Private,,,
 3FF829,D-MARZ,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,,
+3FF876,D-MDDE,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,,
 3FF8D2,D-MZCT,FDCT,Flight Design,CT,Flight Design CT,1,Private,,,
 3FF8E1,D-MEAS,FDCT,Flight Design,CTLSi,Flight Design CTLSi,1,Private,,,
 3FF8E3,D-MMHB,FDCT,Flight Design,CTLS,Flight Design CTLS,1,Private,,,
@@ -59,8 +63,10 @@
 3FFA0F,D-MEEC,NG5,BRM Aero,Bristell LSA,BRM Aero Bristell LSA,1,Private,,536/2020,2020
 3FFA10,D-MKAW,FDCT,Flight Design,CT,Flight Design CT,1,Private,,06-04-06,
 3FFA9B,D-MHZB,FK9,B & F Technik,FK-9,B & F Technik FK-9,1,Private,,,
+3FFAB6,D-MIAW,AP22,Aeroprakt,A-22,Aeroprakt A-22,1,Private,,303,
 3FFAD0,D-MYSK,MM24,Magni,M-24 Orion,Magni M-24 Orion,1,Private,,,
 3FFAD7,D-MMTJ,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,,
+3FFAF0,D-MYFC,ULAC,,Ultralight aircraft,Ultralight aircraft,1,Private,,,
 3FFB07,D-MKMJ,VL3,JMB Aircraft,VL-3 Evolution,JMB Aircraft VL-3 Evolution,1,Private,,,
 3FFB0C,D-MYYV,SAVG,Zlin Aviation,Savage,Zlin Aviation Savage,1,Private,,0261,
 3FFB0E,D-MPOC,AP32,Aeroprakt,A-32,Aeroprakt A-32,1,Private,,,

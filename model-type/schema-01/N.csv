@@ -2,71 +2,73 @@
 N110,Nord,1100 Noralpha,1,P,,L,L,1
 N110,Nord,1101 Ramier 1,1,P,,L,L,1
 N110,Nord,1102 Ramier 2,1,P,,L,L,1
-N110,Nord,Noralpha,1,P,,L,L,1
-N110,Nord,Ramier,1,P,,L,L,1
+N110,Nord,Noralpha,1,P,,L,L,0
+N110,Nord,Ramier,1,P,,L,L,0
 N120,Nord,1200 Norecrin,1,P,,L,L,1
 N120,Nord,1201 Norecrin,1,P,,L,L,1
 N120,Nord,1202 Norecrin,1,P,,L,L,1
 N120,Nord,1203 Norecrin,1,P,,L,L,1
 N120,Nord,1204 Norecrin,1,P,,L,L,1
-N120,Nord,Norecrin,1,P,,L,L,1
+N120,Nord,Norecrin,1,P,,L,L,0
+N219,DIRGANTARA INDONESIA,N-219 Nurtanio,2,T,,L,M,1
 N250,Nusantara,N-250,2,T,,L,M,1
 N260,Max Holste,MH-260 Super Broussard,2,T,,L,M,1
-N260,Max Holste,Super Broussard,2,T,,L,M,1
 N260,Nord,260 Super Broussard,2,T,,L,M,1
-N260,Nord,Super Broussard,2,T,,L,M,1
-N262,Aerospatiale,Frégate,2,T,,L,M,1
+N260,Max Holste,Super Broussard,2,T,,L,M,0
+N260,Nord,Super Broussard,2,T,,L,M,0
 N262,Aerospatiale,Mohawk 298,2,T,,L,M,1
 N262,Aerospatiale,N-262,2,T,,L,M,1
 N262,Aerospatiale,N-262 Frégate,2,T,,L,M,1
 N262,Frakes,Mohawk 298,2,T,,L,M,1
 N262,Nord,262,2,T,,L,M,1
 N262,Nord,262 Frégate,2,T,,L,M,1
-N262,Nord,Frégate,2,T,,L,M,1
 N262,Nord,Mohawk 298,2,T,,L,M,1
-N3,Nostalgair,Citabriette,1,P,,L,L,1
+N262,Aerospatiale,Frégate,2,T,,L,M,0
+N262,Nord,Frégate,2,T,,L,M,0
 N3,Nostalgair,N-3 Citabriette,1,P,,L,L,1
 N3,Nostalgair,N-3 Super Pup,1,P,,L,L,1
-N3,Nostalgair,Super Pup,1,P,,L,L,1
+N3,Nostalgair,Citabriette,1,P,,L,L,0
+N3,Nostalgair,Super Pup,1,P,,L,L,0
 N320,Nord,3202,1,P,,L,L,1
 N340,Nord,3400,1,P,,L,L,1
 N3N,Naval Aircraft Factory,N3N,1,P,,L,L,1
 N5,Hongdu,N-5,1,P,,L,L,1
 N5,Nanchang,N-5,1,P,,L,L,1
-NA40,Unis,Bongo,2,T,,H,L,1
 NA40,Unis,NA-40 Bongo,2,T,,H,L,1
-NAL2,NAL,Hansa,1,P,,L,L,1
+NA40,Unis,Bongo,2,T,,H,L,0
 NAL2,NAL,NALLA-2 Hansa,1,P,,L,L,1
-NAL2,Taneja,Hansa,1,P,,L,L,1
 NAL2,Taneja,NALLA-2 Hansa,1,P,,L,L,1
+NAL2,NAL,Hansa,1,P,,L,L,0
+NAL2,Taneja,Hansa,1,P,,L,L,0
 NARN,Korea Aerospace,KC-100 Naraon,1,P,,L,L,1
 NARN,Korea Aerospace,KT-100 Naraon,1,P,,L,L,1
-NARN,Korea Aerospace,Naraon,1,P,,L,L,1
+NARN,Korea Aerospace,Naraon,1,P,,L,L,0
 NAVI,North American,L-17 Navion,1,P,,L,L,1
 NAVI,North American,NA-145 Navion,1,P,,L,L,1
 NAVI,North American,NA-154 Navion,1,P,,L,L,1
-NAVI,North American,Navion,1,P,,L,L,1
 NAVI,North American,U-18 Navion,1,P,,L,L,1
 NAVI,Ryan,L-17 Navion,1,P,,L,L,1
 NAVI,Ryan,Navion,1,P,,L,L,1
 NAVI,Ryan,Super Navion,1,P,,L,L,1
 NAVI,Ryan,U-18 Navion,1,P,,L,L,1
 NAVI,Tusco,Navion,1,P,,L,L,1
+NAVI,North American,Navion,1,P,,L,L,0
 NC85,Nord,NC-854,1,P,,L,L,1
 NC85,Nord,NC-858,1,P,,L,L,1
 ND1T,NDN,NDN-1T Turbo Firecracker,1,T,,L,L,1
-ND1T,NDN,Turbo Firecracker,1,T,,L,L,1
+ND1T,NDN,Turbo Firecracker,1,T,,L,L,0
 NDAC,Normand Dube,Aerocruiser,1,P,,L,L,1
 NDAT,Normand Dube,Aerocruiser Turbo 450,1,P,,L,L,1
 NDIC,Norman,Nordic 2,1,P,,L,L,1
 NDIC,Norman,Nordic 5,1,P,,L,L,1
 NDIC,Norman,Nordic 6,1,P,,L,L,1
 NDIC,Norman,Nordic 7,1,P,,L,L,1
+NFEX,NF-AIRCRAFT,Explorer,1,T,,L,L,1
 NG4,BRM Aero,NG-4,1,P,,L,L,1
 NG4,Roko Aero,NG-4,1,P,,L,L,1
 NG4,Roko Aero,NG-4 Prodigy 4,1,P,,L,L,1
-NG4,Roko Aero,Prodigy 4,1,P,,L,L,1
 NG4,Roko Aero,NG-4 Prodigy IV,1,P,,L,L,0
+NG4,Roko Aero,Prodigy 4,1,P,,L,L,0
 NG4,Roko Aero,Prodigy IV,1,P,,L,L,0
 NG5,BRM Aero,Bristell E-LSA,1,P,,L,L,1
 NG5,BRM Aero,Bristell HD,1,P,,L,L,1
@@ -80,7 +82,6 @@ NG5,BRM Aero,Bristell XL8,1,P,,L,L,1
 NG5,BRM Aero,Bristell,1,P,,L,L,0
 NG5,BRM Aero,NG-5 Bristell,1,P,,L,L,0
 NH90,Australian Aerospace,MRH-90,2,T,,H,M,1
-NH90,NHI,Caïman,2,T,,H,M,1
 NH90,NHI,Hkp 14,2,T,,H,M,1
 NH90,NHI,MRH-90,2,T,,H,M,1
 NH90,NHI,NH-90,2,T,,H,M,1
@@ -88,12 +89,13 @@ NH90,NHI,NH-90 Caïman,2,T,,H,M,1
 NH90,Patria,Hkp 14,2,T,,H,M,1
 NH90,Patria,NH-90,2,T,,H,M,1
 NH90,NHI,Caiman,2,T,,H,M,0
+NH90,NHI,Caïman,2,T,,H,M,0
 NH90,NHI,NH-90 Caiman,2,T,,H,M,0
-NHCO,New Horizons,01 Colibri,1,P,,L,L,1
-NHCO,New Horizons,Colibri,1,P,,L,L,1
+NHCO,New Horizons,01 Colibri,1,P,,L,L,0
+NHCO,New Horizons,Colibri,1,P,,L,L,0
 NI28,Nieuport,28 Replica,1,P,,L,L,1
 NIBB,Aviamilano,F-14 Nibbio,1,P,,L,L,1
-NIBB,Aviamilano,Nibbio,1,P,,L,L,1
+NIBB,Aviamilano,Nibbio,1,P,,L,L,0
 NIM,BAE Systems,Nimrod,4,J,,L,M,0
 NIMB,Schempp-Hirth,Nimbus 2M,1,P,,L,L,1
 NIMB,Schempp-Hirth,Nimbus 3DM,1,P,,L,L,1
@@ -105,36 +107,36 @@ NIMB,Schempp-Hirth,Nimbus 4DM,1,P,,L,L,1
 NIMB,Schempp-Hirth,Nimbus 4DT,1,P,,L,L,1
 NIMB,Schempp-Hirth,Nimbus 4M,1,P,,L,L,1
 NIMB,Schempp-Hirth,Nimbus 4T,1,P,,L,L,1
-NIPR,Avions Fairey,Nipper,1,P,,L,L,1
 NIPR,Avions Fairey,T-66 Nipper,1,P,,L,L,1
 NIPR,Cobelavia,D-158 Nipper,1,P,,L,L,1
-NIPR,Cobelavia,Nipper,1,P,,L,L,1
-NIPR,Nipper,Nipper,1,P,,L,L,1
 NIPR,Nipper,T-66 Nipper,1,P,,L,L,1
-NIPR,Slingsby,Nipper,1,P,,L,L,1
 NIPR,Slingsby,T-66 Nipper,1,P,,L,L,1
-NIPR,Tipsy,Nipper,1,P,,L,L,1
 NIPR,Tipsy,T-66 Nipper,1,P,,L,L,1
+NIPR,Avions Fairey,Nipper,1,P,,L,L,0
+NIPR,Cobelavia,Nipper,1,P,,L,L,0
+NIPR,Nipper,Nipper,1,P,,L,L,0
+NIPR,Slingsby,Nipper,1,P,,L,L,0
+NIPR,Tipsy,Nipper,1,P,,L,L,0
 NM5,NAL,NM-5,1,P,,L,L,1
 NMCU,ENAER,ECH-02 Namcu,1,P,,L,L,1
-NMCU,ENAER,Namcu,1,P,,L,L,1
-NMCU,Euro-Enaer,Eaglet,1,P,,L,L,1
 NMCU,Euro-Enaer,EE-10 Eaglet,1,P,,L,L,1
+NMCU,ENAER,Namcu,1,P,,L,L,0
+NMCU,Euro-Enaer,Eaglet,1,P,,L,L,0
 NNJA,Best Off,Nynja,1,P,,L,L,1
-NOMA,GAF,Floatmaster,2,T,,L,L,1
-NOMA,GAF,Missionmaster,2,T,,L,L,1
 NOMA,GAF,N-2 Nomad,2,T,,L,L,1
 NOMA,GAF,N-22 Floatmaster,2,T,,L,L,1
 NOMA,GAF,N-22 Missionmaster,2,T,,L,L,1
 NOMA,GAF,N-22 Nomad,2,T,,L,L,1
 NOMA,GAF,N-22 Searchmaster,2,T,,L,L,1
 NOMA,GAF,N-24 Nomad,2,T,,L,L,1
-NOMA,GAF,Nomad,2,T,,L,L,1
-NOMA,GAF,Searchmaster,2,T,,L,L,1
+NOMA,GAF,Floatmaster,2,T,,L,L,0
+NOMA,GAF,Missionmaster,2,T,,L,L,0
+NOMA,GAF,Nomad,2,T,,L,L,0
+NOMA,GAF,Searchmaster,2,T,,L,L,0
 NORA,Nord,2501 Noratlas,2,P,,L,M,1
-NORA,Nord,Noratlas,2,P,,L,M,1
 NORA,Nordflug,2501 Noratlas,2,P,,L,M,1
-NORA,Nordflug,Noratlas,2,P,,L,M,1
+NORA,Nord,Noratlas,2,P,,L,M,0
+NORA,Nordflug,Noratlas,2,P,,L,M,0
 NORS,CCF,Norseman,1,P,,L,L,1
 NORS,Noorduyn,C-64 Norseman,1,P,,L,L,1
 NORS,Noorduyn,JA Norseman,1,P,,L,L,1
@@ -142,6 +144,7 @@ NORS,Noorduyn,Norseman,1,P,,L,L,1
 NORS,Noorduyn,UC-64 Norseman,1,P,,L,L,1
 NPOR,Redfern,Nieuport 17,1,P,,L,L,1
 NPOR,Redfern,Nieuport 24,1,P,,L,L,1
+NST6,Custom Flight,North Star 6 Galaxie,1,P,,L,L,1
 NSTR,Custom Flight,North Star,1,P,,L,L,1
 NT10,NuWaco,T-10,1,P,,L,L,1
 NXT,Nemesis,NXT,1,P,,L,L,1

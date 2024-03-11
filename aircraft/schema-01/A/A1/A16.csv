@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A16221,N189AF,PC12,Pilatus,PC-12,Pilatus PC-12,0,PlaneSense,CNS,2189,2022
 A1623F,N189BL,SF50,Cirrus,SF-50 Vision,Cirrus SF-50 Vision,1,Private,,0278,2021
+A167C1,N19VV,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,503,2024
 A1696B,N190NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,06669,2015
 A16A98,N1900W,GA6C,Gulfstream,GVII-G600,Gulfstream GVII-G600,0,Whirlpool,,73128,2023
 A16ADA,N1902S,B752,Boeing,757-256(PCF)(WL),Boeing 757-256(PCF)(WL),0,Amerijet International,AJT,26244,1994

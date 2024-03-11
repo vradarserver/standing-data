@@ -1,69 +1,71 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
-R100,Robin,Aiglon,1,P,,L,L,1
 R100,Robin,R-1180 Aiglon,1,P,,L,L,1
+R100,Robin,Aiglon,1,P,,L,L,0
 R109,Aircraft Spruce,DR-109 Rhino,1,P,,L,L,1
-R109,Aircraft Spruce,Rhino,1,P,,L,L,1
 R109,Kimball,DR-109 Rhino,1,P,,L,L,1
-R109,Kimball,Rhino,1,P,,L,L,1
 R109,Rihn,DR-109 Rhino,1,P,,L,L,1
-R109,Rihn,Rhino,1,P,,L,L,1
+R109,Aircraft Spruce,Rhino,1,P,,L,L,0
+R109,Kimball,Rhino,1,P,,L,L,0
+R109,Rihn,Rhino,1,P,,L,L,0
 R11,Rupert,R-11,1,P,,L,L,1
-R135,Boeing,Airseeker,4,J,,L,H,1
+R12,Rupert,R-12 Vimana,1,P,,L,L,1
 R135,Boeing,RC-135,4,J,,L,H,1
 R135,Boeing,RC-135 Airseeker,4,J,,L,H,1
 R135,Boeing,TC-135,4,J,,L,H,1
+R135,Boeing,Airseeker,4,J,,L,H,0
+R185,Johnson,Rocket 125,1,P,,L,L,1
 R185,Johnson,Rocket 185,1,P,,L,L,1
 R185,Rocket,Rocket 185,1,P,,L,L,1
 R2,SAU,R-02 Robert,1,P,,S,L,1
-R2,SAU,Robert,1,P,,S,L,1
-R200,Alpha Aviation,Alpha 120,1,P,,L,L,1
-R200,Alpha Aviation,Alpha 160,1,P,,L,L,1
+R2,SAU,Robert,1,P,,S,L,0
 R200,Alpha Aviation,R-2120 Alpha 120,1,P,,L,L,1
 R200,Alpha Aviation,R-2160 Alpha 160,1,P,,L,L,1
-R200,Robin,Alpha,1,P,,L,L,1
-R200,Robin,Alpha Sport,1,P,,L,L,1
 R200,Robin,R-2100 Super Club,1,P,,L,L,1
 R200,Robin,R-2112 Alpha,1,P,,L,L,1
 R200,Robin,R-2120 Alpha,1,P,,L,L,1
 R200,Robin,R-2160 Alpha Sport,1,P,,L,L,1
-R200,Robin,Super Club,1,P,,L,L,1
+R200,Alpha Aviation,Alpha 120,1,P,,L,L,0
+R200,Alpha Aviation,Alpha 160,1,P,,L,L,0
+R200,Robin,Alpha,1,P,,L,L,0
+R200,Robin,Alpha Sport,1,P,,L,L,0
+R200,Robin,Super Club,1,P,,L,L,0
 R22,Aero Eli,Yo-Yo,1,P,,H,L,1
-R22,Robinson,Beta,1,P,,H,L,1
-R22,Robinson,Mariner,1,P,,H,L,1
 R22,Robinson,R-22,1,P,,H,L,1
 R22,Robinson,R-22 Beta,1,P,,H,L,1
 R22,Robinson,R-22 Mariner,1,P,,H,L,1
+R22,Robinson,Beta,1,P,,H,L,0
+R22,Robinson,Mariner,1,P,,H,L,0
 R300,Robin,R-300,1,P,,L,L,1
 R300,Robin,R-3000,1,P,,L,L,1
 R300,Robin,R-3100,1,P,,L,L,1
 R300,Robin,R-3120,1,P,,L,L,1
 R300,Robin,R-3140,1,P,,L,L,1
 R4,Sikorsky,H-4 Hoverfly,1,P,,H,L,1
-R4,Sikorsky,Hoverfly,1,P,,H,L,1
 R4,Sikorsky,R-4 Hoverfly,1,P,,H,L,1
-R44,Robinson,Astro,1,P,,H,L,1
-R44,Robinson,Clipper,1,P,,H,L,1
+R4,Sikorsky,Hoverfly,1,P,,H,L,0
 R44,Robinson,R-44 Astro,1,P,,H,L,1
 R44,Robinson,R-44 Clipper,1,P,,H,L,1
 R44,Robinson,R-44 Raven,1,P,,H,L,1
-R44,Robinson,Raven,1,P,,H,L,1
+R44,Robinson,Astro,1,P,,H,L,0
+R44,Robinson,Clipper,1,P,,H,L,0
+R44,Robinson,Raven,1,P,,H,L,0
 R66,Robinson,R-66,1,T,,H,L,1
 R721,Boeing,727-100RE Super 27,3,J,A,L,M,1
-R721,Boeing,Super 27 (100),3,J,A,L,M,1
+R721,Boeing,Super 27 (100),3,J,A,L,M,0
 R722,Boeing,727-200RE Super 27,3,J,,L,M,1
-R722,Boeing,Super 27 (200),3,J,,L,M,1
+R722,Boeing,Super 27 (200),3,J,,L,M,0
 R90F,Ruschmeyer,R-90-230FG,1,P,,L,L,1
 R90R,Ruschmeyer,MF-85,1,P,,L,L,1
 R90R,Ruschmeyer,R-90-230RG,1,P,,L,L,1
 R90T,Ruschmeyer,R-90-420AT,1,T,,L,L,1
 RA14,Falconar,AMF-S14 Maranda,1,P,,L,L,1
-RA14,Falconar,Maranda,1,P,,L,L,1
 RA14,Maranda,BM-1 Loisirs,1,P,,L,L,1
 RA14,Maranda,BM-1 Super Loisirs,1,P,,L,L,1
-RA14,Maranda,Loisirs,1,P,,L,L,1
-RA14,Maranda,Super Loisirs,1,P,,L,L,1
-RA14,Roger Adam,Loisirs,1,P,,L,L,1
 RA14,Roger Adam,RA-14 Loisirs,1,P,,L,L,1
+RA14,Falconar,Maranda,1,P,,L,L,0
+RA14,Maranda,Loisirs,1,P,,L,L,0
+RA14,Maranda,Super Loisirs,1,P,,L,L,0
+RA14,Roger Adam,Loisirs,1,P,,L,L,0
 RA17,Maranda,BM-3,1,P,,L,L,1
 RA17,Roger Adam,RA-17,1,P,,L,L,1
 RAF2,Rotary Air Force,RAF-2000,1,P,,G,L,1
@@ -77,27 +79,17 @@ RALL,Morane-Saulnier,MS-886 Super Rallye,1,P,,L,L,1
 RALL,Morane-Saulnier,MS-890 Rallye Commodore,1,P,,L,L,1
 RALL,Morane-Saulnier,MS-892 Rallye Commodore,1,P,,L,L,1
 RALL,Morane-Saulnier,MS-893 Rallye Commodore,1,P,,L,L,1
-RALL,Morane-Saulnier,Rallye 105,1,P,,L,L,1
-RALL,Morane-Saulnier,Rallye Club,1,P,,L,L,1
-RALL,Morane-Saulnier,Rallye Commodore,1,P,,L,L,1
-RALL,Morane-Saulnier,Super Rallye,1,P,,L,L,1
-RALL,PZL Okecie,Koliber 150,1,P,,L,L,1
-RALL,PZL Okecie,Koliber 160,1,P,,L,L,1
-RALL,PZL Okecie,Koliber 235,1,P,,L,L,1
-RALL,PZL Okecie,Koliber Senior,1,P,,L,L,1
 RALL,PZL Okecie,PZL-110 Koliber,1,P,,L,L,1
 RALL,PZL Okecie,PZL-110 Koliber 150,1,P,,L,L,1
 RALL,PZL Okecie,PZL-110 Koliber 160,1,P,,L,L,1
 RALL,PZL Okecie,PZL-111 Koliber 235,1,P,,L,L,1
 RALL,PZL Okecie,PZL-111 Koliber Senior,1,P,,L,L,1
 RALL,SOCATA,Gabier,1,P,,L,L,1
-RALL,SOCATA,Gaillard,1,P,,L,L,1
 RALL,SOCATA,Galérien,1,P,,L,L,1
 RALL,SOCATA,Galopin,1,P,,L,L,1
 RALL,SOCATA,Garnement,1,P,,L,L,1
 RALL,SOCATA,Gaucho,1,P,,L,L,1
 RALL,SOCATA,Guerrier,1,P,,L,L,1
-RALL,SOCATA,Minerva,1,P,,L,L,1
 RALL,SOCATA,MS-880 Rallye 100,1,P,,L,L,1
 RALL,SOCATA,MS-880 Rallye Club,1,P,,L,L,1
 RALL,SOCATA,MS-883 Rallye 115,1,P,,L,L,1
@@ -109,15 +101,28 @@ RALL,SOCATA,MS-893 Gaillard,1,P,,L,L,1
 RALL,SOCATA,MS-893 Rallye Commodore,1,P,,L,L,1
 RALL,SOCATA,MS-894 Minerva,1,P,,L,L,1
 RALL,SOCATA,Rallye 100,1,P,,L,L,1
-RALL,SOCATA,Rallye 115,1,P,,L,L,1
-RALL,SOCATA,Rallye 125,1,P,,L,L,1
 RALL,SOCATA,Rallye 150,1,P,,L,L,1
 RALL,SOCATA,Rallye 235,1,P,,L,L,1
-RALL,SOCATA,Rallye Club,1,P,,L,L,1
-RALL,SOCATA,Rallye Commodore,1,P,,L,L,1
-RALL,SOCATA,Rallye Minerva,1,P,,L,L,1
+RALL,Morane-Saulnier,Rallye 105,1,P,,L,L,0
+RALL,Morane-Saulnier,Rallye Club,1,P,,L,L,0
+RALL,Morane-Saulnier,Rallye Commodore,1,P,,L,L,0
+RALL,Morane-Saulnier,Super Rallye,1,P,,L,L,0
+RALL,PZL Okecie,Koliber 150,1,P,,L,L,0
+RALL,PZL Okecie,Koliber 160,1,P,,L,L,0
+RALL,PZL Okecie,Koliber 235,1,P,,L,L,0
+RALL,PZL Okecie,Koliber Senior,1,P,,L,L,0
+RALL,SOCATA,Gaillard,1,P,,L,L,0
+RALL,SOCATA,Minerva,1,P,,L,L,0
+RALL,SOCATA,Rallye 115,1,P,,L,L,0
+RALL,SOCATA,Rallye 125,1,P,,L,L,0
+RALL,SOCATA,Rallye Club,1,P,,L,L,0
+RALL,SOCATA,Rallye Commodore,1,P,,L,L,0
+RALL,SOCATA,Rallye Minerva,1,P,,L,L,0
 RANG,Navion,Rangemaster,1,P,,L,L,1
+RARO,ALTITUDE,P-85,1,P,,L,L,1
+RARO,ALTITUDE,Radial Rocket,1,P,,L,L,1
 RARO,New Century,Radial Rocket,1,P,,L,L,1
+RARO,SPECTRE,Radial Rocket,1,P,,L,L,1
 RAV3,Ravin,Ravin 300,1,P,,L,L,1
 RAV5,Ravin,Ravin 500,1,P,,L,L,1
 RAVN,Wolfsberg,Raven 257,2,P,,L,L,0
@@ -126,34 +131,34 @@ RBEL,Murphy,Elite,1,P,,L,L,1
 RBEL,Murphy,Rebel,1,P,,L,L,1
 RBEL,Murphy,Rebel Elite,1,P,,L,L,1
 RC3,Republic,RC-3 Seabee,1,P,,A,L,1
-RC3,Republic,Seabee,1,P,,A,L,1
+RC3,Republic,Seabee,1,P,,A,L,0
 RC70,Fuji,FA-300,2,P,,L,L,1
 RC70,Rockwell,700 Commander 700,2,P,,L,L,1
 RC70,Rockwell,710 Commander 710,2,P,,L,L,1
-RC70,Rockwell,Commander 700,2,P,,L,L,1
-RC70,Rockwell,Commander 710,2,P,,L,L,1
+RC70,Rockwell,Commander 700,2,P,,L,L,0
+RC70,Rockwell,Commander 710,2,P,,L,L,0
 RCAL,Murphy,Radical,1,P,,L,L,1
-RD03,Duruble,Edelweiss,1,P,,L,L,1
 RD03,Duruble,RD-03 Edelweiss,1,P,,L,L,1
-RD20,Denize,Raid Driver,1,P,,L,L,1
+RD03,Duruble,Edelweiss,1,P,,L,L,0
 RD20,Denize,RD-20 Raid Driver,1,P,,L,L,1
 RD20,Denize,RD-205 Raid Driver,1,P,,L,L,1
+RD20,Denize,Raid Driver,1,P,,L,L,0
 RDH2,Redfern,DH-2,1,P,,L,L,1
 RELI,Stinson,AT-19 Reliant,1,P,,L,L,1
-RELI,Stinson,Reliant,1,P,,L,L,1
 RELI,Stinson,SR Reliant,1,P,,L,L,1
 RELI,Stinson,V-77 Reliant,1,P,,L,L,1
+RELI,Stinson,Reliant,1,P,,L,L,0
 RENE,Murphy,Renegade,1,P,,L,L,1
 REV6,Groen,Revcon 6G,1,T,,G,L,1
 RF10,Aeromot,AMT-100 Ximango,1,P,,L,L,1
 RF10,Aeromot,AMT-200 Super Ximango,1,P,,L,L,1
 RF10,Aeromot,AMT-300 Turbo Ximango Shark,1,P,,L,L,1
-RF10,Aeromot,Super Ximango,1,P,,L,L,1
 RF10,Aeromot,TG-14 Super Ximango,1,P,,L,L,1
-RF10,Aeromot,Turbo Ximango Shark,1,P,,L,L,1
-RF10,Aeromot,Ximango,1,P,,L,L,1
 RF10,Aerostructure,RF-10,1,P,,L,L,1
 RF10,Fournier,RF-10,1,P,,L,L,1
+RF10,Aeromot,Super Ximango,1,P,,L,L,0
+RF10,Aeromot,Turbo Ximango Shark,1,P,,L,L,0
+RF10,Aeromot,Ximango,1,P,,L,L,0
 RF3,Alpavia,RF-3,1,P,,L,L,1
 RF3,Fournier,RF-3,1,P,,L,L,1
 RF4,Alpavia,RF-4,1,P,,L,L,1
@@ -162,18 +167,18 @@ RF4,Sportavia-Putzer,RF-4,1,P,,L,L,1
 RF47,Arc Atlantique,RF-47,1,P,,L,L,1
 RF47,Fournier,RF-47,1,P,,L,L,1
 RF5,Aero Jaen,RF-5 Serrania,1,P,,L,L,1
-RF5,Aero Jaen,Serrania,1,P,,L,L,1
 RF5,Fournier,RF-5,1,P,,L,L,1
 RF5,Fournier,TZ-5,1,P,,L,L,1
 RF5,Helwan,RF-5 Sperber,1,P,,L,L,1
-RF5,Helwan,Sperber,1,P,,L,L,1
 RF5,Sportavia-Putzer,RF-5,1,P,,L,L,1
 RF5,Sportavia-Putzer,RF-5 Sperber,1,P,,L,L,1
-RF5,Sportavia-Putzer,Sperber,1,P,,L,L,1
+RF5,Aero Jaen,Serrania,1,P,,L,L,0
+RF5,Helwan,Sperber,1,P,,L,L,0
+RF5,Sportavia-Putzer,Sperber,1,P,,L,L,0
 RF6,Fournier,RF-6,1,P,,L,L,1
-RF6,Slingsby,Firefly,1,P,,L,L,1
 RF6,Slingsby,T-3 Firefly,1,P,,L,L,1
 RF6,Slingsby,T-67 Firefly,1,P,,L,L,1
+RF6,Slingsby,Firefly,1,P,,L,L,0
 RF9,ABS,RF-9,1,P,,L,L,1
 RF9,EIS,RF-9,1,P,,L,L,1
 RF9,Fournier,RF-9,1,P,,L,L,1
@@ -183,69 +188,69 @@ RGNT,Neiva,C-42 Regente,1,P,,L,L,1
 RGNT,Neiva,L-42 Regente,1,P,,L,L,1
 RGNT,Neiva,N-591 Regente,1,P,,L,L,1
 RGNT,Neiva,N-592 Regente,1,P,,L,L,1
-RGNT,Neiva,Regente,1,P,,L,L,1
+RGNT,Neiva,Regente,1,P,,L,L,0
 RISN,Porto,Risen,1,P,,L,L,1
 RISN,Porto,Siren,1,P,,L,L,1
 RISN,Swiss Excellence,Risen,1,P,,L,L,1
-RJ03,Junqua,Ibis,1,P,,L,L,1
 RJ03,Junqua,RJ-03 Ibis,1,P,,L,L,1
-RJ1H,Aero International,Avroliner (RJ-100),4,J,,L,M,1
+RJ03,Junqua,Ibis,1,P,,L,L,0
 RJ1H,Aero International,RJ-100 Avroliner,4,J,,L,M,1
-RJ1H,Avro,Avroliner (RJ-100),4,J,,L,M,1
 RJ1H,Avro,RJ-100 Avroliner,4,J,,L,M,1
 RJ1H,BAE Systems,Avro RJ-100,4,J,,L,M,1
 RJ1H,British Aerospace,RJ-100,4,J,,L,M,1
-RJ70,Aero International,Avroliner (RJ-70),4,J,,L,M,1
+RJ1H,Aero International,Avroliner (RJ-100),4,J,,L,M,0
+RJ1H,Avro,Avroliner (RJ-100),4,J,,L,M,0
 RJ70,Aero International,RJ-70 Avroliner,4,J,,L,M,1
-RJ70,Avro,Avroliner (RJ-70),4,J,,L,M,1
 RJ70,Avro,RJ-70 Avroliner,4,J,,L,M,1
 RJ70,BAE Systems,Avro RJ-70,4,J,,L,M,1
 RJ70,British Aerospace,RJ-70,4,J,,L,M,1
-RJ85,Aero International,Avroliner (RJ-85),4,J,,L,M,1
+RJ70,Aero International,Avroliner (RJ-70),4,J,,L,M,0
+RJ70,Avro,Avroliner (RJ-70),4,J,,L,M,0
 RJ85,Aero International,RJ-85 Avroliner,4,J,,L,M,1
-RJ85,Avro,Avroliner (RJ-85),4,J,,L,M,1
 RJ85,Avro,RJ-85 Avroliner,4,J,,L,M,1
 RJ85,BAE Systems,Avro RJ-85,4,J,,L,M,1
 RJ85,British Aerospace,RJ-85,4,J,,L,M,1
+RJ85,Aero International,Avroliner (RJ-85),4,J,,L,M,0
+RJ85,Avro,Avroliner (RJ-85),4,J,,L,M,0
 RK5,Kalinauskas,RK-5,1,P,,L,L,1
-RLU1,RLU,Breezy,1,P,,L,L,1
 RLU1,RLU,RLU-1 Breezy,1,P,,L,L,1
 RLU1,Yakima Aerosport,Super Breezy,1,P,,L,L,1
+RLU1,RLU,Breezy,1,P,,L,L,0
 RMOU,Hillberg,EH1-01 Rotormouse,1,T,,H,L,1
-RMOU,Hillberg,Rotormouse,1,T,,H,L,1
+RMOU,Hillberg,Rotormouse,1,T,,H,L,0
 RNGR,DAC,RangeR,1,P,,L,L,1
 ROAR,Velocity,Rocket Racer,,,,,L,0
 ROAR,Velocity,Rocket Racer,1,,,L,L,0
 ROAR,Velocity,Rocket Racer,1,R,,L,L,0
 RODS,Aircraft Spruce,DR-107 One Design,1,P,,L,L,1
-RODS,Aircraft Spruce,One Design,1,P,,L,L,1
 RODS,Rihn,DR-107 One Design,1,P,,L,L,1
-RODS,Rihn,One Design,1,P,,L,L,1
+RODS,Aircraft Spruce,One Design,1,P,,L,L,0
+RODS,Rihn,One Design,1,P,,L,L,0
 ROND,Ambrosini,F-4 Rondone,1,P,,L,L,1
-ROND,Ambrosini,Rondone,1,P,,L,L,1
 ROND,Lombardi,F-4 Rondone,1,P,,L,L,1
-ROND,Lombardi,Rondone,1,P,,L,L,1
 ROND,Pasotti,F-7 Rondone 2,1,P,,L,L,1
-ROND,Pasotti,Rondone 2,1,P,,L,L,1
+ROND,Ambrosini,Rondone,1,P,,L,L,0
+ROND,Lombardi,Rondone,1,P,,L,L,0
+ROND,Pasotti,Rondone 2,1,P,,L,L,0
 ROSE,Maupin,Windrose,1,P,,L,L,1
 RP1,Mitsubishi,RP-1,2,T,,H,L,1
 RPUP,Little Wing,LW-4 Roto-Pup,1,P,,G,L,1
 RPUP,Little Wing,LW-5 Roto-Pup,1,P,,G,L,1
-RPUP,Little Wing,Roto-Pup,1,P,,G,L,1
-RS12,Rans,Airaile,1,P,,L,L,1
+RPUP,Little Wing,Roto-Pup,1,P,,G,L,0
 RS12,Rans,S-12 Airaile,1,P,,L,L,1
 RS12,Rans,S-12 Super Airaile,1,P,,L,L,1
-RS12,Rans,Super Airaile,1,P,,L,L,1
+RS12,Rans,Airaile,1,P,,L,L,0
+RS12,Rans,Super Airaile,1,P,,L,L,0
 RS18,Sportavia-Putzer,RS-180 Sportsman,1,P,,L,L,1
-RS18,Sportavia-Putzer,Sportsman,1,P,,L,L,1
-RS20,Rans,Raven,1,P,,L,L,1
+RS18,Sportavia-Putzer,Sportsman,1,P,,L,L,0
 RS20,Rans,S-20 Raven,1,P,,L,L,1
-RS21,Rans,Outbound,1,P,,L,L,1
+RS20,Rans,Raven,1,P,,L,L,0
 RS21,Rans,S-21 Outbound,1,P,,L,L,1
-RTA4,RTAF,Chandra,1,P,,L,L,1
+RS21,Rans,Outbound,1,P,,L,L,0
 RTA4,RTAF,RTAF-4 Chandra,1,P,,L,L,1
+RTA4,RTAF,Chandra,1,P,,L,L,0
 RUBI,Scintex,ML-250 Rubis,1,P,,L,L,1
-RUBI,Scintex,Rubis,1,P,,L,L,1
+RUBI,Scintex,Rubis,1,P,,L,L,0
 RV10,Van'S,RV-10,1,P,,L,L,1
 RV12,Van'S,RV-12,1,P,,L,L,1
 RV14,Van'S,RV-14,1,P,,L,L,1
@@ -260,24 +265,25 @@ RV7,Van'S,RV-7,1,P,,L,L,1
 RV8,Van'S,RV-8,1,P,,L,L,1
 RV9,Van'S,RV-9,1,P,,L,L,1
 RVAL,Atlas,CSH-2 Rooivalk,2,T,,H,M,1
-RVAL,Atlas,Rooivalk,2,T,,H,M,1
 RVAL,Denel,AH-2 Rooivalk,2,T,,H,M,1
 RVAL,Denel,CSH-2 Rooivalk,2,T,,H,M,1
-RVAL,Denel,Rooivalk,2,T,,H,M,1
+RVAL,Atlas,Rooivalk,2,T,,H,M,0
+RVAL,Denel,Rooivalk,2,T,,H,M,0
+RVST,Rupert,VimanaSteel,1,P,,L,L,1
 RW19,RagWing,RW-19 Stork,1,P,,L,L,1
-RW19,RagWing,Stork (RW-19),1,P,,L,L,1
+RW19,RagWing,Stork (RW-19),1,P,,L,L,0
 RW20,RagWing,RW-20 Stork,1,P,,L,L,1
-RW20,RagWing,Stork (RW-20),1,P,,L,L,1
+RW20,RagWing,Stork (RW-20),1,P,,L,L,0
 RW22,RagWing,RW-22 Tiger Moth,1,P,,L,L,1
-RW22,RagWing,Tiger Moth,1,P,,L,L,1
+RW22,RagWing,Tiger Moth,1,P,,L,L,0
 RW26,RagWing,RW-26 Special 2,1,P,,L,L,1
-RW26,RagWing,Special 2,1,P,,L,L,1
-RW3,Rhein,Multoplane,1,P,,L,L,1
-RW3,Rhein,Passat,1,P,,L,L,1
+RW26,RagWing,Special 2,1,P,,L,L,0
 RW3,Rhein,RW-3 Multoplane,1,P,,L,L,1
 RW3,Rhein,RW-3 Passat,1,P,,L,L,1
-RW3,Rhein-West-Flug,Multoplane,1,P,,L,L,1
 RW3,Rhein-West-Flug,RW-3 Multoplane,1,P,,L,L,1
+RW3,Rhein,Multoplane,1,P,,L,L,0
+RW3,Rhein,Passat,1,P,,L,L,0
+RW3,Rhein-West-Flug,Multoplane,1,P,,L,L,0
 RYSA,Progress,Rysachok,2,T,,L,L,1
 RYSA,Technoavia,Rysachok,2,T,,L,L,1
 RYST,Ryan,PT-20,1,P,,L,L,1

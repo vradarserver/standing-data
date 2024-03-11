@@ -1,35 +1,35 @@
 ﻿ICAO,Manufacturer,Model,Engines,EngineTypeCode,EnginePlacementCode,SpeciesCode,WakeTurbulenceCode,IsActive
 Y11,Harbin,Y-11,2,P,,L,L,1
 Y112,Yakovlev,Yak-112,1,P,,L,L,1
-Y12,Harbin,Harbinger,2,T,,L,L,1
 Y12,Harbin,Y-12-2,2,T,,L,L,1
 Y12,Harbin,Y-12-4,2,T,,L,L,1
 Y12,Harbin,Y-12C,2,T,,L,L,1
 Y12,Harbin,Y-12E Harbinger,2,T,,L,L,1
-Y12F,Harbin,Aircar,2,T,,L,M,1
+Y12,Harbin,Harbinger,2,T,,L,L,0
 Y12F,Harbin,Y-12F Aircar,2,T,,L,M,1
+Y12F,Harbin,Aircar,2,T,,L,M,0
 Y130,Yakovlev,Yak-130,2,J,,L,M,1
 Y141,Yakovlev,Yak-141,3,J,,L,M,0
 Y18T,Technoavia,SM-2000P,1,P,,L,L,1
 Y18T,Technoavia,SM-94,1,P,,L,L,1
 Y18T,Yakovlev,Yak-18T,1,P,,L,L,1
-Y20,Xian,Kunpeng,4,J,,L,H,1
 Y20,Xian,Y-20 Kunpeng,4,J,,L,H,1
-YA1,Yeoman,Cropmaster,1,P,,L,L,1
+Y20,Xian,Kunpeng,4,J,,L,H,0
 YA1,Yeoman,YA-1 Cropmaster,1,P,,L,L,1
+YA1,Yeoman,Cropmaster,1,P,,L,L,0
 YAK3,Yakovlev,Yak-3,1,P,,L,L,1
 YAK9,Yakovlev,Yak-9,1,P,,L,L,1
 YALE,North American,BT-14 Yale,1,P,,L,L,1
 YALE,North American,BT-9 Yale,1,P,,L,L,1
 YALE,North American,NJ Yale,1,P,,L,L,1
-YALE,North American,Yale,1,P,,L,L,1
+YALE,North American,Yale,1,P,,L,L,0
 YARR,Arrow (Canada),Yarrow Arrow,1,P,,L,L,1
 YAST,SGAU,Yastreb,1,P,,L,L,1
-YC12,Chasle,Tourbillon,1,P,,L,L,1
 YC12,Chasle,YC-12 Tourbillon,1,P,,L,L,1
 YC12,Chasle,YC-121 Tourbillon,1,P,,L,L,1
 YC12,Chasle,YC-122 Tourbillon,1,P,,L,L,1
 YC12,Chasle,YC-123 Tourbillon,1,P,,L,L,1
+YC12,Chasle,Tourbillon,1,P,,L,L,0
 YK11,Let,C-11,1,P,,L,L,1
 YK11,Yakovlev,Yak-11,1,P,,L,L,1
 YK12,PZL Okecie,Yak-12,1,P,,L,L,1
@@ -59,10 +59,10 @@ YK54,Yakovlev,Yak-54,1,P,,L,L,1
 YK55,Yakovlev,Yak-55,1,P,,L,L,1
 YK58,Yakovlev,Yak-58,1,P,,L,L,1
 YL15,Boeing,451 Scout,1,P,,L,L,1
-YL15,Boeing,Scout,1,P,,L,L,1
 YL15,Boeing,YL-15 Scout,1,P,,L,L,1
+YL15,Boeing,Scout,1,P,,L,L,0
 YNHL,Aviaimpex,KT-112 Yanhol,2,P,,H,L,1
-YNHL,Aviaimpex,Yanhol,2,P,,H,L,1
+YNHL,Aviaimpex,Yanhol,2,P,,H,L,0
 YS11,Mitsubishi,YS-11,2,T,,L,M,1
 YS11,NAMC,YS-11,2,T,,L,M,1
 YS11,Nihon,YS-11,2,T,,L,M,0
@@ -70,4 +70,4 @@ YUKN,Murphy,Yukon,1,P,,L,L,1
 YUNO,Shuya,Yunona,1,P,,L,L,1
 YURO,SOKO CNIAR,J-22 Orao,2,J,,L,M,1
 YURO,SOKO CNIAR,NJ-22 Orao,2,J,,L,M,1
-YURO,SOKO CNIAR,Orao,2,J,,L,M,1
+YURO,SOKO CNIAR,Orao,2,J,,L,M,0

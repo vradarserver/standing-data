@@ -8,7 +8,7 @@
 48625A,PH-BAC,A210,Aquila,A211,Aquila A211,1,Private,,AT01-100C-364,2019
 486265,PH-TDX,DA42,Diamond,DA-42 Twin Star,Diamond DA-42 Twin Star,1,Private,,42.AC056,
 4862FC,PH-VFE,P28A,Piper,PA28-161 Warrior III,Piper PA28-161 Warrior III,0,Vliegclub Flevo,,2842039,1998
-48630E,PH-DWC,E135,Embraer,ERJ-135LR,Embraer ERJ-135LR,1,Private,,145173,1999
+48630E,PH-DWC,E135,Embraer,ERJ-135LR,Embraer ERJ-135LR,0,Air Charters Europe,AGR,145173,1999
 486345,PH-LLT,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,1,Private,,131,2021
 486349,PH-COB,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,1,Private,,134,2021
 486363,PH-HLC,DA40,Diamond,DA-40 NG,Diamond DA-40 NG,1,Private,,40.N539,2021
@@ -61,6 +61,7 @@
 48661D,PH-GKO,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9020,2023
 48663E,PH-YHZ,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Transavia,TRA,11702,2023
 486645,PH-SFI,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Silver Flight,,2141,2023
+486648,PH-CDP,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Corendon Dutch Airlines,CND,66348,2023
 486649,PH-CDQ,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Corendon Dutch Airlines,CND,66347,2023
 48667C,PH-AHJ,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,17276233,
 4866C1,PH-TFJ,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,TUI fly Netherlands,TFL,36426,2015

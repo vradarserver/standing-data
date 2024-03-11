@@ -8,21 +8,21 @@ H12T,Soloy,Hiller UH-12,1,T,,H,L,1
 H160,Airbus Helicopters,H-160,2,T,,H,L,1
 H2,Kaman,K-20 Seasprite,2,T,,H,L,1
 H2,Kaman,K-894 Super Seasprite,2,T,,H,L,1
-H2,Kaman,Seasprite,2,T,,H,L,1
 H2,Kaman,SH-2 Seasprite,2,T,,H,L,1
 H2,Kaman,SH-2 Super Seasprite,2,T,,H,L,1
-H2,Kaman,Super Seasprite,2,T,,H,L,1
 H2,Kaman,K-20 Seaprite,2,T,,H,L,0
 H2,Kaman,Seaprite,2,T,,H,L,0
-H202,HB-Aircraft,Fledger,1,P,,L,L,1
+H2,Kaman,Seasprite,2,T,,H,L,0
+H2,Kaman,Super Seasprite,2,T,,H,L,0
 H202,HB-Aircraft,HB-202 Fledger,1,P,,L,L,1
+H202,HB-Aircraft,Fledger,1,P,,L,L,0
 H204,HB-Flugtechnik,HB-204 Tornado,1,P,,L,L,1
-H204,HB-Flugtechnik,Tornado,1,P,,L,L,1
-H207,HB-Flugtechnik,Alfa,1,P,,L,L,1
+H204,HB-Flugtechnik,Tornado,1,P,,L,L,0
 H207,HB-Flugtechnik,HB-207 Alfa,1,P,,L,L,1
+H207,HB-Flugtechnik,Alfa,1,P,,L,L,0
 H21,Vertol,42 Work Horse,1,P,,H,L,1
 H21,Vertol,CH-21 Work horse,1,P,,H,L,1
-H21,Vertol,Work Horse,1,P,,H,L,1
+H21,Vertol,Work Horse,1,P,,H,L,0
 H25A,Hawker Siddeley,HS-125-1,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-3,2,J,A,L,M,1
 H25A,Hawker Siddeley,HS-125-400,2,J,A,L,M,1
@@ -58,8 +58,6 @@ H269,Hughes,280,1,P,,H,L,1
 H269,Hughes,300,1,P,,H,L,1
 H269,Hughes,300 Sky Knight,1,P,,H,L,1
 H269,Hughes,Hkp5,1,P,,H,L,1
-H269,Hughes,Osage,1,P,,H,L,1
-H269,Hughes,Sky Knight,1,P,,H,L,1
 H269,Hughes,TH-300,1,P,,H,L,1
 H269,Hughes,TH-55 Osage,1,P,,H,L,1
 H269,Kawasaki,TH-55,1,P,,H,L,1
@@ -72,13 +70,15 @@ H269,Schweizer,269C Sky Knight,1,P,,H,L,1
 H269,Schweizer,300,1,P,,H,L,1
 H269,Schweizer,300 Sky Knight,1,P,,H,L,1
 H269,Schweizer,Hkp5,1,P,,H,L,1
-H269,Schweizer,Osage,1,P,,H,L,1
-H269,Schweizer,Sky Knight,1,P,,H,L,1
 H269,Schweizer,TH-300,1,P,,H,L,1
 H269,Schweizer,TH-55 Osage,1,P,,H,L,1
 H269,Shanghai Sikorsky,Shen 2,1,P,,H,L,1
 H269,Shanghai Sikorsky,Shen 3,1,P,,H,L,1
 H269,Sikorsky,S-300,1,P,,H,L,1
+H269,Hughes,Osage,1,P,,H,L,0
+H269,Hughes,Sky Knight,1,P,,H,L,0
+H269,Schweizer,Osage,1,P,,H,L,0
+H269,Schweizer,Sky Knight,1,P,,H,L,0
 H40,Hoffmann,H-40,1,P,,L,L,1
 H43A,Kaman,H-43A,1,P,,H,L,1
 H43A,Kaman,HH-43A,1,P,,H,L,1
@@ -89,24 +89,22 @@ H43A,Kaman,OH-43,1,P,,H,L,1
 H43A,Kaman,UH-43,1,P,,H,L,1
 H43B,Kaman,HH-43B Huskie,1,T,,H,L,1
 H43B,Kaman,HH-43F Huskie,1,T,,H,L,1
-H43B,Kaman,Huskie,1,T,,H,L,1
 H43B,Kaman,K-600-3 Huskie,1,T,,H,L,1
 H43B,Kaman,K-600-5 Huskie,1,T,,H,L,1
+H43B,Kaman,Huskie,1,T,,H,L,0
 H46,Boeing Vertol,107,2,T,,H,M,1
 H46,Boeing Vertol,CH-113 Labrador,2,T,,H,M,1
 H46,Boeing Vertol,CH-46 Sea Knight,2,T,,H,M,1
 H46,Boeing Vertol,HH-46 Sea Knight,2,T,,H,M,1
 H46,Boeing Vertol,Hkp4,2,T,,H,M,1
-H46,Boeing Vertol,Labrador,2,T,,H,M,1
-H46,Boeing Vertol,Sea Knight,2,T,,H,M,1
 H46,Boeing Vertol,UH-46 Sea Knight,2,T,,H,M,1
 H46,Kawasaki,Hkp4,2,T,,H,M,1
 H46,Kawasaki,KV-107,2,T,,H,M,1
 H46,Vertol,107,2,T,,H,M,1
-H47,AgustaWestland,Chinook,2,T,,H,M,1
+H46,Boeing Vertol,Labrador,2,T,,H,M,0
+H46,Boeing Vertol,Sea Knight,2,T,,H,M,0
 H47,AgustaWestland,ICH-47 Chinook,2,T,,H,M,1
 H47,Boeing,CH-47 Chinook,2,T,,H,M,1
-H47,Boeing,Chinook,2,T,,H,M,1
 H47,Boeing,HH-47,2,T,,H,M,1
 H47,Boeing,JCH-47 Chinook,2,T,,H,M,1
 H47,Boeing,MH-47 Chinook,2,T,,H,M,1
@@ -114,27 +112,26 @@ H47,Boeing Vertol,114,2,T,,H,M,1
 H47,Boeing Vertol,234,2,T,,H,M,1
 H47,Boeing Vertol,414,2,T,,H,M,1
 H47,Boeing Vertol,CH-47 Chinook,2,T,,H,M,1
-H47,Boeing Vertol,Chinook,2,T,,H,M,1
 H47,Boeing Vertol,JCH-47 Chinook,2,T,,H,M,1
 H47,Boeing Vertol,MH-47 Chinook,2,T,,H,M,1
-H47,Finmeccanica,Chinook,2,T,,H,M,1
 H47,Finmeccanica,ICH-47 Chinook,2,T,,H,M,1
 H47,Kawasaki,CH-47 Chinook,2,T,,H,M,1
-H47,Kawasaki,Chinook,2,T,,H,M,1
-H47,Leonardo,Chinook,2,T,,H,M,1
 H47,Leonardo,ICH-47 Chinook,2,T,,H,M,1
 H47,Meridionali,CH-47 Chinook,2,T,,H,M,1
-H47,Meridionali,Chinook,2,T,,H,M,1
+H47,AgustaWestland,Chinook,2,T,,H,M,0
+H47,Boeing,Chinook,2,T,,H,M,0
+H47,Boeing Vertol,Chinook,2,T,,H,M,0
+H47,Finmeccanica,Chinook,2,T,,H,M,0
+H47,Kawasaki,Chinook,2,T,,H,M,0
+H47,Leonardo,Chinook,2,T,,H,M,0
+H47,Meridionali,Chinook,2,T,,H,M,0
 H500,Agusta,NH-500,1,T,,H,L,1
-H500,Boeing,Defender,1,T,,H,L,1
-H500,Boeing,Lifter,1,T,,H,L,1
 H500,Boeing,MD-500,1,T,,H,L,1
 H500,Boeing,MD-500 Defender,1,T,,H,L,1
 H500,Boeing,MD-500 Nightfox,1,T,,H,L,1
 H500,Boeing,MD-530F Lifter,1,T,,H,L,1
 H500,Boeing,MD-530MG Defender,1,T,,H,L,1
 H500,Boeing,MD-530MG Nightfox,1,T,,H,L,1
-H500,Boeing,Nightfox,1,T,,H,L,1
 H500,BredaNardi,NH-500,1,T,,H,L,1
 H500,Hughes,369,1,T,,H,L,1
 H500,Hughes,500,1,T,,H,L,1
@@ -142,8 +139,6 @@ H500,Hughes,500 Defender,1,T,,H,L,1
 H500,Hughes,530F,1,T,,H,L,1
 H500,Hughes,AH-6C,1,T,,H,L,1
 H500,Hughes,AH-6G,1,T,,H,L,1
-H500,Hughes,Cayuse,1,T,,H,L,1
-H500,Hughes,Defender,1,T,,H,L,1
 H500,Hughes,MH-6B,1,T,,H,L,1
 H500,Hughes,MH-6C,1,T,,H,L,1
 H500,Hughes,MH-6E,1,T,,H,L,1
@@ -156,11 +151,7 @@ H500,Korean Air,369,1,T,,H,L,1
 H500,Korean Air,500,1,T,,H,L,1
 H500,Korean Air,500 Defender,1,T,,H,L,1
 H500,Korean Air,520MK Black Tiger,1,T,,H,L,1
-H500,Korean Air,Black Tiger,1,T,,H,L,1
-H500,Korean Air,Defender,1,T,,H,L,1
 H500,McDonnell Douglas,AH-6G,1,T,,H,L,1
-H500,McDonnell Douglas,Defender,1,T,,H,L,1
-H500,McDonnell Douglas,Lifter,1,T,,H,L,1
 H500,McDonnell Douglas,MD-500,1,T,,H,L,1
 H500,McDonnell Douglas,MD-500 Defender,1,T,,H,L,1
 H500,McDonnell Douglas,MD-500 Nightfox,1,T,,H,L,1
@@ -168,18 +159,27 @@ H500,McDonnell Douglas,MD-530F Lifter,1,T,,H,L,1
 H500,McDonnell Douglas,MD-530MG Defender,1,T,,H,L,1
 H500,McDonnell Douglas,MD-530MG Nightfox,1,T,,H,L,1
 H500,McDonnell Douglas,MH-6H,1,T,,H,L,1
-H500,McDonnell Douglas,Nightfox,1,T,,H,L,1
 H500,MD Helicopters,AH-6I,1,T,,H,L,1
-H500,MD Helicopters,Defender,1,T,,H,L,1
-H500,MD Helicopters,Lifter,1,T,,H,L,1
 H500,MD Helicopters,MD-500,1,T,,H,L,1
 H500,MD Helicopters,MD-500 Defender,1,T,,H,L,1
 H500,MD Helicopters,MD-500 Nightfox,1,T,,H,L,1
 H500,MD Helicopters,MD-530F Lifter,1,T,,H,L,1
 H500,MD Helicopters,MD-530MG Defender,1,T,,H,L,1
 H500,MD Helicopters,MD-530MG Nightfox,1,T,,H,L,1
-H500,MD Helicopters,Nightfox,1,T,,H,L,1
 H500,RACA,500,1,T,,H,L,1
+H500,Boeing,Defender,1,T,,H,L,0
+H500,Boeing,Lifter,1,T,,H,L,0
+H500,Boeing,Nightfox,1,T,,H,L,0
+H500,Hughes,Cayuse,1,T,,H,L,0
+H500,Hughes,Defender,1,T,,H,L,0
+H500,Korean Air,Black Tiger,1,T,,H,L,0
+H500,Korean Air,Defender,1,T,,H,L,0
+H500,McDonnell Douglas,Defender,1,T,,H,L,0
+H500,McDonnell Douglas,Lifter,1,T,,H,L,0
+H500,McDonnell Douglas,Nightfox,1,T,,H,L,0
+H500,MD Helicopters,Defender,1,T,,H,L,0
+H500,MD Helicopters,Lifter,1,T,,H,L,0
+H500,MD Helicopters,Nightfox,1,T,,H,L,0
 H53,Sikorsky,CH-53A Sea Stallion,2,T,,H,M,1
 H53,Sikorsky,CH-53A Yasur,2,T,,H,M,1
 H53,Sikorsky,CH-53C,2,T,,H,M,1
@@ -191,185 +191,198 @@ H53,Sikorsky,MH-53J,2,T,,H,M,1
 H53,Sikorsky,RH-53 Sea Stallion,2,T,,H,M,1
 H53,Sikorsky,S-65,2,T,,H,M,1
 H53,Sikorsky,S-65 Yasur,2,T,,H,M,1
-H53,Sikorsky,Sea Stallion,2,T,,H,M,1
 H53,Sikorsky,TH-53,2,T,,H,M,1
 H53,Sikorsky,VH-53 Sea Stallion,2,T,,H,M,1
-H53,Sikorsky,Yasur,2,T,,H,M,1
 H53,VFW-Fokker,CH-53G,2,T,,H,M,1
+H53,Sikorsky,Sea Stallion,2,T,,H,M,0
+H53,Sikorsky,Yasur,2,T,,H,M,0
 H53S,Sikorsky,CH-53E Super Stallion,3,T,,H,M,1
 H53S,Sikorsky,CH-53K King Stallion,3,T,,H,M,1
-H53S,Sikorsky,King Stallion,3,T,,H,M,1
 H53S,Sikorsky,MH-53E Sea Dragon,3,T,,H,M,1
 H53S,Sikorsky,S-80,3,T,,H,M,1
-H53S,Sikorsky,Sea Dragon,3,T,,H,M,1
-H53S,Sikorsky,Super Stallion,3,T,,H,M,1
+H53S,Sikorsky,King Stallion,3,T,,H,M,0
+H53S,Sikorsky,Sea Dragon,3,T,,H,M,0
+H53S,Sikorsky,Super Stallion,3,T,,H,M,0
 H60,ASTA,S-70 Seahawk,2,T,,H,M,1
-H60,ASTA,Seahawk,2,T,,H,M,1
-H60,Hawker De Havilland,Black Hawk,2,T,,H,M,1
 H60,Hawker De Havilland,S-70 Black Hawk,2,T,,H,M,1
-H60,Korean Air,Black Hawk,2,T,,H,M,1
 H60,Korean Air,UH-60 Black Hawk,2,T,,H,M,1
 H60,Mitsubishi,S-70 Seahawk,2,T,,H,M,1
-H60,Mitsubishi,Seahawk,2,T,,H,M,1
 H60,Mitsubishi,SH-60 Seahawk,2,T,,H,M,1
 H60,Mitsubishi,UH-60,2,T,,H,M,1
 H60,Mitsubishi,USH-60 Seahawk,2,T,,H,M,1
 H60,Sikorsky,AH-60 Black Hawk,2,T,,H,M,1
-H60,Sikorsky,Black Hawk,2,T,,H,M,1
-H60,Sikorsky,Desert Hawk,2,T,,H,M,1
 H60,Sikorsky,EH-60 Black Hawk,2,T,,H,M,1
-H60,Sikorsky,Firehawk,2,T,,H,M,1
 H60,Sikorsky,HH-60 Black Hawk,2,T,,H,M,1
 H60,Sikorsky,HH-60 Jayhawk,2,T,,H,M,1
 H60,Sikorsky,HH-60 Pave Hawk,2,T,,H,M,1
 H60,Sikorsky,HH-60 Rescue Hawk,2,T,,H,M,1
 H60,Sikorsky,HM-2 Blackhawk,2,T,,H,M,1
-H60,Sikorsky,Jayhawk,2,T,,H,M,1
 H60,Sikorsky,JUH-60 Black Hawk,2,T,,H,M,1
-H60,Sikorsky,Knighthawk,2,T,,H,M,1
 H60,Sikorsky,MH-60 Black Hawk,2,T,,H,M,1
 H60,Sikorsky,MH-60 Knighthawk,2,T,,H,M,1
 H60,Sikorsky,MH-60 Strikehawk,2,T,,H,M,1
 H60,Sikorsky,NSH-60 Seahawk,2,T,,H,M,1
-H60,Sikorsky,Ocean Hawk,2,T,,H,M,1
-H60,Sikorsky,Pave Hawk,2,T,,H,M,1
-H60,Sikorsky,Rescue Hawk,2,T,,H,M,1
 H60,Sikorsky,S-70,2,T,,H,M,1
 H60,Sikorsky,S-70 Black Hawk,2,T,,H,M,1
 H60,Sikorsky,S-70 Desert Hawk,2,T,,H,M,1
 H60,Sikorsky,S-70 Firehawk,2,T,,H,M,1
 H60,Sikorsky,S-70 Super Blue Hawk,2,T,,H,M,1
 H60,Sikorsky,S-70 Thunderhawk,2,T,,H,M,1
-H60,Sikorsky,Seahawk,2,T,,H,M,1
 H60,Sikorsky,SH-60 Ocean Hawk,2,T,,H,M,1
 H60,Sikorsky,SH-60 Seahawk,2,T,,H,M,1
-H60,Sikorsky,Strikehawk,2,T,,H,M,1
-H60,Sikorsky,Super Blue Hawk,2,T,,H,M,1
-H60,Sikorsky,Thunderhawk,2,T,,H,M,1
 H60,Sikorsky,UH-60 Black Hawk,2,T,,H,M,1
 H60,Sikorsky,UH-60 Firehawk,2,T,,H,M,1
 H60,Sikorsky,UH-60 Yanshuf,2,T,,H,M,1
 H60,Sikorsky,VH-60 White Hawk,2,T,,H,M,1
-H60,Sikorsky,White Hawk,2,T,,H,M,1
-H60,Sikorsky,Yanshuf,2,T,,H,M,1
 H60,Westland,WS-70,2,T,,H,M,1
+H60,ASTA,Seahawk,2,T,,H,M,0
+H60,Hawker De Havilland,Black Hawk,2,T,,H,M,0
+H60,Korean Air,Black Hawk,2,T,,H,M,0
+H60,Mitsubishi,Seahawk,2,T,,H,M,0
+H60,Sikorsky,Black Hawk,2,T,,H,M,0
+H60,Sikorsky,Desert Hawk,2,T,,H,M,0
+H60,Sikorsky,Firehawk,2,T,,H,M,0
+H60,Sikorsky,Jayhawk,2,T,,H,M,0
+H60,Sikorsky,Knighthawk,2,T,,H,M,0
+H60,Sikorsky,Ocean Hawk,2,T,,H,M,0
+H60,Sikorsky,Pave Hawk,2,T,,H,M,0
+H60,Sikorsky,Rescue Hawk,2,T,,H,M,0
+H60,Sikorsky,Seahawk,2,T,,H,M,0
+H60,Sikorsky,Strikehawk,2,T,,H,M,0
+H60,Sikorsky,Super Blue Hawk,2,T,,H,M,0
+H60,Sikorsky,Thunderhawk,2,T,,H,M,0
+H60,Sikorsky,White Hawk,2,T,,H,M,0
+H60,Sikorsky,Yanshuf,2,T,,H,M,0
 H64,Boeing,AH-64 Longbow Apache,2,T,,H,M,1
 H64,Boeing,AH-64 Saraf,2,T,,H,M,1
-H64,Boeing,Longbow Apache,2,T,,H,M,1
-H64,Boeing,Saraf,2,T,,H,M,1
 H64,Fuji,AH-64 Longbow Apache,2,T,,H,M,1
-H64,Fuji,Longbow Apache,2,T,,H,M,1
 H64,Hughes,77 Apache,2,T,,H,M,1
 H64,Hughes,AH-64 Apache,2,T,,H,M,1
-H64,Hughes,Apache,2,T,,H,M,1
 H64,Hughes,JAH-64 Apache,2,T,,H,M,1
 H64,McDonnell Douglas,AH-64 Apache,2,T,,H,M,1
 H64,McDonnell Douglas,AH-64 Longbow Apache,2,T,,H,M,1
 H64,McDonnell Douglas,AH-64 Pethen,2,T,,H,M,1
-H64,McDonnell Douglas,Apache,2,T,,H,M,1
 H64,McDonnell Douglas,JAH-64 Apache,2,T,,H,M,1
-H64,McDonnell Douglas,Longbow Apache,2,T,,H,M,1
-H64,McDonnell Douglas,Pethen,2,T,,H,M,1
-H64,Westland,Apache,2,T,,H,M,1
 H64,Westland,WAH-64 Apache,2,T,,H,M,1
+H64,Boeing,Longbow Apache,2,T,,H,M,0
+H64,Boeing,Saraf,2,T,,H,M,0
+H64,Fuji,Longbow Apache,2,T,,H,M,0
+H64,Hughes,Apache,2,T,,H,M,0
+H64,McDonnell Douglas,Apache,2,T,,H,M,0
+H64,McDonnell Douglas,Longbow Apache,2,T,,H,M,0
+H64,McDonnell Douglas,Pethen,2,T,,H,M,0
+H64,Westland,Apache,2,T,,H,M,0
 H64,Westland,Longbow Apache,2,T,,H,M,0
 H64,Westland,WAH-64 Longbow Apache,2,T,,H,M,0
 HA2,Hollmann,HA-2 Sportster,1,P,,G,L,1
-HA2,Hollmann,Sportster,1,P,,G,L,1
-HA31,Hindustan,Basant,1,P,,L,L,1
+HA2,Hollmann,Sportster,1,P,,G,L,0
 HA31,Hindustan,HA-31 Basant,1,P,,L,L,1
+HA31,Hindustan,Basant,1,P,,L,L,0
 HA4T,Hawker Beechcraft,4000 Hawker 4000,2,J,A,L,M,1
-HA4T,Hawker Beechcraft,Hawker 4000,2,J,A,L,M,1
 HA4T,Raytheon,4000 Hawker 4000,2,J,A,L,M,1
 HA4T,Raytheon,4000 Hawker Horizon,2,J,A,L,M,1
-HA4T,Raytheon,Hawker 4000,2,J,A,L,M,1
-HA4T,Raytheon,Hawker Horizon,2,J,A,L,M,1
-HAHU,Sindlinger,Hawker Hurricane,1,P,,L,L,1
+HA4T,Hawker Beechcraft,Hawker 4000,2,J,A,L,M,0
+HA4T,Raytheon,Hawker 4000,2,J,A,L,M,0
+HA4T,Raytheon,Hawker Horizon,2,J,A,L,M,0
 HAHU,Sindlinger,HH-1 Hawker Hurricane,1,P,,L,L,1
+HAHU,Sindlinger,Hawker Hurricane,1,P,,L,L,0
 HAR,Alenia,AV-8 Harrier,1,J,,L,M,1
-HAR,Alenia,Harrier,1,J,,L,M,1
 HAR,Boeing,AV-8 Harrier,1,J,,L,M,1
-HAR,Boeing,Harrier,1,J,,L,M,1
 HAR,British Aerospace,Harrier,1,J,,L,M,1
 HAR,British Aerospace,Sea Harrier,1,J,,L,M,1
 HAR,CASA,EAV-8 Matador,1,J,,L,M,1
-HAR,CASA,Matador,1,J,,L,M,1
 HAR,Hawker Siddeley,AV-8 Harrier,1,J,,L,M,1
-HAR,Hawker Siddeley,Harrier,1,J,,L,M,1
 HAR,Hawker Siddeley,TAV-8 Harrier,1,J,,L,M,1
 HAR,McDonnell Douglas,AV-8 Harrier,1,J,,L,M,1
 HAR,McDonnell Douglas,EAV-8 Matador,1,J,,L,M,1
-HAR,McDonnell Douglas,Harrier,1,J,,L,M,1
-HAR,McDonnell Douglas,Matador,1,J,,L,M,1
 HAR,McDonnell Douglas,TAV-8 Harrier,1,J,,L,M,1
 HAR,McDonnell Douglas,TAV-8 Matador,1,J,,L,M,1
+HAR,Alenia,Harrier,1,J,,L,M,0
+HAR,Boeing,Harrier,1,J,,L,M,0
+HAR,CASA,Matador,1,J,,L,M,0
+HAR,Hawker Siddeley,Harrier,1,J,,L,M,0
+HAR,McDonnell Douglas,Harrier,1,J,,L,M,0
+HAR,McDonnell Douglas,Matador,1,J,,L,M,0
 HAW3,Groen,H2X Hawk 3,1,P,,G,L,1
-HAW3,Groen,Hawk 3,1,P,,G,L,1
-HAWK,BAE Systems,CT-155 Hawk,1,J,,L,M,1
-HAWK,BAE Systems,Goshawk,1,J,,L,M,1
-HAWK,BAE Systems,Hawk,1,J,,L,M,1
-HAWK,BAE Systems,T-45 Goshawk,1,J,,L,M,1
-HAWK,BAE Systems Australia,Hawk,1,J,,L,M,1
-HAWK,Boeing,Goshawk,1,J,,L,M,1
-HAWK,Boeing,T-45 Goshawk,1,J,,L,M,1
-HAWK,British Aerospace,Goshawk,1,J,,L,M,1
-HAWK,British Aerospace,Hawk,1,J,,L,M,1
-HAWK,British Aerospace,T-45 Goshawk,1,J,,L,M,1
-HAWK,Denel,Hawk,1,J,,L,M,1
-HAWK,F+W Emmen,Hawk,1,J,,L,M,1
-HAWK,Hawker Siddeley,Hawk,1,J,,L,M,1
-HAWK,Hindustan,Hawk,1,J,,L,M,1
-HAWK,McDonnell Douglas,Goshawk,1,J,,L,M,1
-HAWK,McDonnell Douglas,T-45 Goshawk,1,J,,L,M,1
-HAWK,Valmet,Hawk,1,J,,L,M,1
+HAW3,Groen,Hawk 3,1,P,,G,L,0
+HAWK,BAE Systems,CT-155 Hawk,1,J,,L,L/M,1
+HAWK,BAE Systems,Hawk,1,J,,L,L/M,1
+HAWK,BAE Systems,T-45 Goshawk,1,J,,L,L/M,1
+HAWK,BAE Systems Australia,Hawk,1,J,,L,L/M,1
+HAWK,Boeing,T-45 Goshawk,1,J,,L,L/M,1
+HAWK,British Aerospace,Hawk,1,J,,L,L/M,1
+HAWK,British Aerospace,T-45 Goshawk,1,J,,L,L/M,1
+HAWK,Denel,Hawk,1,J,,L,L/M,1
+HAWK,F+W Emmen,Hawk,1,J,,L,L/M,1
+HAWK,Hawker Siddeley,Hawk,1,J,,L,L/M,1
+HAWK,Hindustan,Hawk,1,J,,L,L/M,1
+HAWK,McDonnell Douglas,T-45 Goshawk,1,J,,L,L/M,1
+HAWK,Valmet,Hawk,1,J,,L,L/M,1
 HAWK,BAE Systems,CT-155  Hawk,1,J,,L,M,0
+HAWK,BAE Systems,CT-155 Hawk,1,J,,L,M,0
+HAWK,BAE Systems,Goshawk,1,J,,L,M,0
+HAWK,BAE Systems,Hawk,1,J,,L,M,0
+HAWK,BAE Systems,T-45 Goshawk,1,J,,L,M,0
+HAWK,BAE Systems Australia,Hawk,1,J,,L,M,0
+HAWK,Boeing,Goshawk,1,J,,L,M,0
+HAWK,Boeing,T-45 Goshawk,1,J,,L,M,0
+HAWK,British Aerospace,Goshawk,1,J,,L,M,0
+HAWK,British Aerospace,Hawk,1,J,,L,M,0
+HAWK,British Aerospace,T-45 Goshawk,1,J,,L,M,0
+HAWK,Denel,Hawk,1,J,,L,M,0
+HAWK,F+W Emmen,Hawk,1,J,,L,M,0
+HAWK,Hawker Siddeley,Hawk,1,J,,L,M,0
+HAWK,Hindustan,Hawk,1,J,,L,M,0
+HAWK,McDonnell Douglas,Goshawk,1,J,,L,M,0
+HAWK,McDonnell Douglas,T-45 Goshawk,1,J,,L,M,0
+HAWK,Valmet,Hawk,1,J,,L,M,0
 HB21,Brditschka,HB-21 Hobbylifter,1,P,,L,L,1
 HB21,Brditschka,HB-21 Hobbyliner,1,P,,L,L,1
-HB21,Brditschka,Hobbylifter,1,P,,L,L,1
-HB21,Brditschka,Hobbyliner (HB-21),1,P,,L,L,1
+HB21,Brditschka,Hobbylifter,1,P,,L,L,0
+HB21,Brditschka,Hobbyliner (HB-21),1,P,,L,L,0
 HB23,Brditschka,HB-23 Hobbyliner,1,P,,L,L,1
 HB23,Brditschka,HB-23 Scanliner,1,P,,L,L,1
-HB23,Brditschka,Hobbyliner (HB-23),1,P,,L,L,1
-HB23,Brditschka,Scanliner,1,P,,L,L,1
 HB23,HB-Aircraft,HB-23 Hobbyliner,1,P,,L,L,1
 HB23,HB-Aircraft,HB-23 Scanliner,1,P,,L,L,1
-HB23,HB-Aircraft,Hobbyliner,1,P,,L,L,1
-HB23,HB-Aircraft,Scanliner,1,P,,L,L,1
 HB23,HB-Flugtechnik,HB-23 Hobbyliner,1,P,,L,L,1
 HB23,HB-Flugtechnik,HB-23 Scanliner,1,P,,L,L,1
-HB23,HB-Flugtechnik,Hobbyliner,1,P,,L,L,1
-HB23,HB-Flugtechnik,Scanliner,1,P,,L,L,1
+HB23,Brditschka,Hobbyliner (HB-23),1,P,,L,L,0
+HB23,Brditschka,Scanliner,1,P,,L,L,0
+HB23,HB-Aircraft,Hobbyliner,1,P,,L,L,0
+HB23,HB-Aircraft,Scanliner,1,P,,L,L,0
+HB23,HB-Flugtechnik,Hobbyliner,1,P,,L,L,0
+HB23,HB-Flugtechnik,Scanliner,1,P,,L,L,0
 HB3,Brditschka,HB-3,1,P,,L,L,1
 HCAT,Grumman,F6F Hellcat,1,P,,L,L,1
 HCAT,Grumman,G-50 Hellcat,1,P,,L,L,1
-HCAT,Grumman,Hellcat,1,P,,L,L,1
+HCAT,Grumman,Hellcat,1,P,,L,L,0
 HD34,Hurel-Dubois,HD-34,2,P,,L,M,1
 HDJT,Honda,HA-420 HondaJet,2,J,,L,L,1
-HDJT,Honda,HondaJet,2,J,,L,L,1
-HEAD,Donald Stewart,Headwind,1,P,,L,L,1
+HDJT,Honda,HondaJet,2,J,,L,L,0
 HEAD,Donald Stewart,JD-1 Headwind,1,P,,L,L,1
 HEAD,Donald Stewart,SAC-1 Headwind,1,P,,L,L,1
+HEAD,Donald Stewart,Headwind,1,P,,L,L,0
 HERN,De Havilland,DH-114 Heron,4,P,,L,L,1
-HERN,De Havilland,Heron,4,P,,L,L,1
 HERN,Hawker Siddeley,DH-114 Heron,4,P,,L,L,1
-HERN,Hawker Siddeley,Heron,4,P,,L,L,1
 HERN,Riley,Heron,4,P,,L,L,1
-HF20,HFB,Hansa,2,J,,L,M,1
+HERN,De Havilland,Heron,4,P,,L,L,0
+HERN,Hawker Siddeley,Heron,4,P,,L,L,0
 HF20,HFB,HFB-320 Hansa,2,J,,L,M,1
-HF20,MBB,Hansa,2,J,,L,M,1
 HF20,MBB,HFB-320 Hansa,2,J,,L,M,1
-HI27,Hirth,Acrostar,1,P,,L,L,1
+HF20,HFB,Hansa,2,J,,L,M,0
+HF20,MBB,Hansa,2,J,,L,M,0
 HI27,Hirth,Hi-27 Acrostar,1,P,,L,L,1
-HIGH,Just,Highlander,1,P,,L,L,1
+HI27,Hirth,Acrostar,1,P,,L,L,0
 HIGH,Just,JA20 Highlander,1,P,,L,L,1
+HIGH,Just,Highlander,1,P,,L,L,0
 HIND,Hawker,Hind,1,P,,L,L,1
 HL2,Lambach,HL-2 Replica,1,P,,L,L,1
 HLD4,Halberstadt,D-4 Replica,1,P,,L,L,1
 HM38,Falconar,HM-380 Ladybug,1,P,,L,L,1
-HM38,Falconar,Ladybug,1,P,,L,L,1
 HM38,Mignet,HM-380,1,P,,L,L,1
+HM38,Falconar,Ladybug,1,P,,L,L,0
 HN70,Nicollier,HN-700 Menestrel 2,1,P,,L,L,1
-HN70,Nicollier,Menestrel 2,1,P,,L,L,1
+HN70,Nicollier,Menestrel 2,1,P,,L,L,0
 HORN,Wallerkowski,Hornisse,1,P,,L,L,1
 HORZ,Fisher,Horizon,1,P,,L,L,1
 HORZ,Fisher Aero,Horizon,1,P,,L,L,1
@@ -379,14 +392,14 @@ HR10,Robin,HR-100 President,1,P,,L,L,1
 HR10,Robin,HR-100 Royal,1,P,,L,L,1
 HR10,Robin,HR-100 Safari,1,P,,L,L,1
 HR10,Robin,HR-100 Tiara,1,P,,L,L,1
-HR10,Robin,President (HR-100),1,P,,L,L,1
-HR10,Robin,Royal,1,P,,L,L,1
-HR10,Robin,Safari,1,P,,L,L,1
-HR10,Robin,Tiara,1,P,,L,L,1
-HR20,Robin,Acrobin,1,P,,L,L,1
+HR10,Robin,President (HR-100),1,P,,L,L,0
+HR10,Robin,Royal,1,P,,L,L,0
+HR10,Robin,Safari,1,P,,L,L,0
+HR10,Robin,Tiara,1,P,,L,L,0
 HR20,Robin,HR-200,1,P,,L,L,1
 HR20,Robin,HR-200 Acrobin,1,P,,L,L,1
 HR20,Robin,R-200,1,P,,L,L,1
+HR20,Robin,Acrobin,1,P,,L,L,0
 HRM9,Elbit,Hermes 900,1,P,,L,L,1
 HRM9,Elbit,Kochav,1,P,,L,L,1
 HRNT,AAK,Hornet,1,P,,L,L,1
@@ -396,43 +409,43 @@ HRON,IAI,Heron,1,P,,L,L,1
 HRYA,Historical Aircraft,Ryan Trainer,1,P,,L,L,0
 HSMT,Rotorsmart,HeliSmart,1,P,,H,L,1
 HT16,Hindustan,HJT-16 Kiran,1,J,,L,L,1
-HT16,Hindustan,Kiran,1,J,,L,L,1
+HT16,Hindustan,Kiran,1,J,,L,L,0
 HT2,Hindustan,HT-2,1,P,,L,L,1
-HT32,Hindustan,Deepak,1,P,,L,L,1
 HT32,Hindustan,HPT-32 Deepak,1,P,,L,L,1
+HT32,Hindustan,Deepak,1,P,,L,L,0
 HT34,Hindustan,HTT-34,1,T,,L,L,1
 HT36,Hindustan,HJT-36 Sitara,1,J,,L,L,1
-HT36,Hindustan,Sitara,1,J,,L,L,1
+HT36,Hindustan,Sitara,1,J,,L,L,0
 HT40,Hindustan,HTT-40,1,T,,L,L,1
 HU1,Shenyang Sailplane,HU-1 Seagull,1,P,,L,L,1
-HU1,Shenyang Sailplane,Seagull,1,P,,L,L,1
+HU1,Shenyang Sailplane,Seagull,1,P,,L,L,0
 HU2,Shenyang Sailplane,HU-2 Petrel,1,P,,L,L,1
-HU2,Shenyang Sailplane,Petrel,1,P,,L,L,1
+HU2,Shenyang Sailplane,Petrel,1,P,,L,L,0
 HUCO,Bell,209 HueyCobra,1,T,,H,L,1
 HUCO,Bell,AH-1E HueyCobra,1,T,,H,L,1
 HUCO,Bell,AH-1F HueyCobra,1,T,,H,L,1
 HUCO,Bell,AH-1P HueyCobra,1,T,,H,L,1
 HUCO,Bell,AH-1S HueyCobra,1,T,,H,L,1
-HUCO,Bell,HueyCobra,1,T,,H,L,1
 HUCO,Bell,TAH-1 HueyCobra,1,T,,H,L,1
 HUCO,Bell,TH-1S HueyCobra,1,T,,H,L,1
 HUCO,Fuji,AH-1 HueyCobra,1,T,,H,L,1
-HUCO,Fuji,HueyCobra,1,T,,H,L,1
+HUCO,Bell,HueyCobra,1,T,,H,L,0
+HUCO,Fuji,HueyCobra,1,T,,H,L,0
 HUML,Hummel,Hummel Bird,1,P,,L,L,1
 HUMM,Aeronautical Systems,Hummingbird,1,P,,L,L,1
 HUNT,Hawker,Hunter,1,J,,L,M,1
 HURI,Hawker,Hurricane,1,P,,L,L,1
 HURI,Hawker,Sea Hurricane,1,P,,L,L,1
-HURK,TAI,Hürkuş,1,T,,L,L,1
 HURK,TAI,TT-32 Hürkuş,1,T,,L,L,1
+HURK,TAI,Hürkuş,1,T,,L,L,0
 HUSK,Aviat,A-1 Husky,1,P,,L,L,1
 HUSK,Aviat,A-1 Husky Pup,1,P,,L,L,1
-HUSK,Aviat,Husky,1,P,,L,L,1
-HUSK,Aviat,Husky Pup,1,P,,L,L,1
 HUSK,Christen,A-1 Husky,1,P,,L,L,1
-HUSK,Christen,Husky,1,P,,L,L,1
+HUSK,Aviat,Husky,1,P,,L,L,0
+HUSK,Aviat,Husky Pup,1,P,,L,L,0
+HUSK,Christen,Husky,1,P,,L,L,0
 HW4P,Groen,Hawk 4,1,P,,G,L,1
 HW4T,Groen,Jet Hawk 4T,1,T,,G,L,1
 HX2,Helowerks,HX-2 Wasp,1,T,,H,L,1
-HX2,Helowerks,Wasp,1,T,,H,L,1
+HX2,Helowerks,Wasp,1,T,,H,L,0
 HYPR,P&M Aviation,HypR,1,P,,L,L,1
