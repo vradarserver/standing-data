@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 103,579 |
-| `Piet Delagrense`              | 101,711 |
+| `dirkhh`                       | 108,876 |
+| `Piet Delagrense`              | 102,003 |
 | `vand`                         | 51,588 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,130 |
-| `科罗娜`                          | 17,723 |
+| `科罗娜`                          | 17,727 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,683 |
-| `Lanorge`                      | 15,068 |
+| `sib64`                        | 15,691 |
+| `Lanorge`                      | 15,070 |
 | `Jon Fear`                     | 13,207 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
@@ -42,11 +42,11 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
+| `aircraftenthusiast2000`       | 2,104 |
 | `shun`                         | 2,091 |
-| `aircraftenthusiast2000`       | 2,063 |
 | `Paul C`                       | 2,038 |
 | `Gavin-D`                      | 1,944 |
-| `verbatim`                     | 1,773 |
+| `verbatim`                     | 1,775 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `BPfH`                         | 1,611 |
@@ -67,10 +67,10 @@ Please note that credit files are updated less frequently than the data files.
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
 | `kma371`                       | 1,109 |
+| `Daniel.cornejo.campos`        | 1,101 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `Daniel.cornejo.campos`        | 1,096 |
-| `Dauren`                       | 1,088 |
+| `Dauren`                       | 1,090 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 921 |
@@ -110,7 +110,7 @@ Please note that credit files are updated less frequently than the data files.
 | `32043GCS`                     | 448 |
 | `topoguido`                    | 432 |
 | `squawk7000`                   | 431 |
-| `Cristian Amaya`               | 418 |
+| `Cristian Amaya`               | 419 |
 | `ka0lnr`                       | 418 |
 | `britiger`                     | 414 |
 | `holytux`                      | 414 |
@@ -119,8 +119,8 @@ Please note that credit files are updated less frequently than the data files.
 | `bugjargal`                    | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
-| `Joaquin`                      | 389 |
-| `kirkmayers`                   | 370 |
+| `Joaquin`                      | 390 |
+| `kirkmayers`                   | 372 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |

@@ -8,7 +8,7 @@ Please note that credit files are updated less frequently than the data files.
 | :--                     | --: |
 | `Andrew`                | 400 |
 | `Piet Delagrense`       | 174 |
-| `科罗娜`                   | 121 |
+| `科罗娜`                   | 122 |
 | `EDDG`                  | 76 |
 | `Lanorge`               | 74 |
 | `britiger`              | 68 |
@@ -16,8 +16,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                 | 37 |
 | `Peter Hutt`            | 28 |
 | `CX6BX`                 | 20 |
+| `BudBundi`              | 18 |
 | `smartcoda`             | 15 |
-| `BudBundi`              | 14 |
 | `Pascal Ensinck`        | 14 |
 | `Skibox`                | 12 |
 | `nik`                   | 11 |
