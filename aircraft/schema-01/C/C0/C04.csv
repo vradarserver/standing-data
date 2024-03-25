@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C04059,C-FYJO,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37255,2013
 C040BB,C-FYNI,R44,Robinson,R-44 Raven,Robinson R-44 Raven,1,Private,,2733,2023
+C040E8,C-FYPB,B738,Boeing,737-8CT,Boeing 737-8CT,0,WestJet,WJA,40839,2015
 C0412F,C-FYRU,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37263,2014
 C04138,C-FYSD,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37265,2012
 C04411,C-FZUE,C185,Cessna,A185E Skywagon,Cessna A185E Skywagon,1,Private,,18501864,1971

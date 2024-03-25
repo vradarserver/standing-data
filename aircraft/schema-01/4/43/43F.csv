@@ -1,7 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 43F6C6,2-REDY,TBM9,Daher,TBM-910,Daher TBM-910,1,Private,,1336,
+43F6EA,2-JECL,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,1,Private,,4114,2005
+43F6FE,2-EJEL,C550,Cessna,550 Citation II,Cessna 550 Citation II,1,Private,,550-0643,
 43F700,2-ANVL,FA8X,Falcon,8X,Falcon 8X,0,Volare Aviation (Guernsey),VLZ,491,
 43F701,2-HWDN,CL60,Challenger,604,Challenger 604,0,Volare Aviation (Guernsey),VLZ,5522,
 43F702,2-OTOD,C25B,Cessna,525B CitationJet CJ3+,Cessna 525B CitationJet CJ3+,0,Ortac,ORT,525B-0696,
 43F703,2-TIJL,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Ortac,ORT,50500673,2022
 43F704,2-RUFF,K100,Quest,Kodiak 100,Quest Kodiak 100,1,Private,,100-0321,
+43F70D,2-ZENP,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Ortac,ORT,50500776,

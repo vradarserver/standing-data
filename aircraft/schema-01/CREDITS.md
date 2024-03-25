@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,413 |
+| `Peter Hutt`             | 2,494 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,502 |
-| `科罗娜`                    | 1,257 |
+| `aircraftenthusiast2000` | 1,531 |
+| `科罗娜`                    | 1,276 |
 | `Andrew`                 | 1,149 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
+| `BudBundi`               | 154 |
 | `andrw`                  | 149 |
-| `BudBundi`               | 105 |
+| `Lanorge`                | 109 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `Lanorge`                | 95 |
 | `britiger`               | 53 |
+| `vrsspotter73`           | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
-| `vrsspotter73`           | 48 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
@@ -34,13 +34,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
 | `kiwikieran`             | 9 |
+| `Ljubo`                  | 9 |
 | `Luis Cova`              | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
-| `Ljubo`                  | 5 |
 | `struart`                | 5 |
 | `darjes`                 | 4 |
 | `neslin`                 | 4 |
@@ -62,6 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
+| `sib64`                  | 2 |
 | `xv2b`                   | 2 |
 | `Alan Edwards`           | 1 |
 | `arcticfox.92`           | 1 |
@@ -80,7 +81,6 @@ Please note that credit files are updated less frequently than the data files.
 | `nf003`                  | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `Santi_levt`             | 1 |
-| `sib64`                  | 1 |
 | `Skiprat`                | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |

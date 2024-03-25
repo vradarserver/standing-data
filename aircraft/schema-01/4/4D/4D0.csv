@@ -4,7 +4,7 @@
 4D0229,LX-LFX,B737,Boeing,737-7GC BBJ,Boeing 737-7GC BBJ,0,Global Jet Luxembourg,SVW,34622,2005
 4D0243,LX-LMS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Flying Group Luxembourg,FYL,278,2016
 4D024E,LX-FYG,C25B,Cessna,525B CitationJet Cj3+,Cessna 525B CitationJet Cj3+,0,Flying Group Luxembourg,FYL,525B0701,
-4D0262,LX-AND,PC24,Pilatus,PC-24,Pilatus PC-24,0,Flying Group Luxembourg,,155,
+4D0262,LX-AND,PC24,Pilatus,PC-24,Pilatus PC-24,0,Flying Group Luxembourg,FYL,155,
 4D0263,LX-FMA,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,329,
 4D0270,LX-HDP,EC55,Eurocopter,EC-155,Eurocopter EC-155,1,Private,,7020,
 4D0282,LX-INB,F900,Dassault,Falcon 900,Dassault Falcon 900,1,Private,,176,
@@ -27,3 +27,4 @@
 4D03C8,LX-N90450,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22845,1983
 4D03C9,LX-N90451,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22846,1983
 4D03CA,LX-N90452,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22847,1983
+4D03CC,LX-N90454,E3TF,Boeing,E-3A Sentry,Boeing E-3A Sentry,0,NATO,OAN,22849,1983

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3E3017,D-IJKH,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Jetkontor,,525-0929,2022
 3E3456,D-ILAC,EA50,Eclipse Aviation,500,Eclipse Aviation 500,0,Liebherr-Aviation,LHB,000177,2008
+3E350D,D-ILHD,C525,Cessna,Citation CJ1+,Cessna Citation CJ1+,0,Atlas Air Service,ATL,525-0694,2009
 3E3524,D-ILIA,C525,Cessna,525 CitationJet CJ1,Cessna 525 CitationJet CJ1,1,Private,,525-0044,1993
 3E363B,D-ILST,C25A,Cessna,525A Citation CJ2+,Cessna 525A Citation CJ2+,1,Private,,525A-0390,
 3E377E,D-IMFE,C25A,Cessna,525A Citation CJ2+,Cessna 525A Citation CJ2+,1,Private,,525A-0454,
