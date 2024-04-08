@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 48B047,SP-MCH,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Jet Story,JDI,42000114,2019
 48B063,SP-MDD,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,ZondaJet,,525B-0714,2024
+48B204,SP-MRE,B762,Boeing,767-281(BDSF),Boeing 767-281(BDSF),0,Skytaxi,IGA,23146,1985
 48B206,SP-MRG,B763,Boeing,767-35H(ER)(BDSF),Boeing 767-35H(ER)(BDSF),0,Skytaxi,IGA,26388,1992
 48B228,SP-MSI,LJ60,Learjet,60XR,Learjet 60XR,0,Aeromedicare Ltd.,AMQ,60-331,
 48B2CA,SP-MXI,P180,Piaggio,P-180 Avanti,Piaggio P-180 Avanti,0,Polish Medical Air Rescue,,1124,2006

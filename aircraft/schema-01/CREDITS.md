@@ -16,7 +16,7 @@ Please note that credit files are updated less frequently than the data files.
 | `aircraftenthusiast20`   | 340 |
 | `BudBundi`               | 154 |
 | `andrw`                  | 149 |
-| `Lanorge`                | 109 |
+| `Lanorge`                | 114 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `britiger`               | 53 |
