@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C0301A,C-FSFP,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Airsprint,ASP,525B0686,2023
 C03140,C-FSQX,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0556,2018
+C0314C,C-FSRJ,RJ1H,Avro,RJ100,Avro RJ100,0,Summit Air,SUT,E3331,1998
 C032C2,C-FTFT,BE10,Beech,100 King Air,Beech 100 King Air,0,FlyGTA Airlines,TOR,BE-49,1978
 C032E8,C-FTHF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Lynx Air,DAT,63382,2023
 C03326,C-FTJP,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,NovaJet,NOJ,5355,1997

@@ -6,10 +6,10 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 402 |
-| `Piet Delagrense`       | 175 |
+| `Andrew`                | 403 |
+| `Piet Delagrense`       | 176 |
 | `科罗娜`                   | 123 |
-| `Lanorge`               | 78 |
+| `Lanorge`               | 79 |
 | `EDDG`                  | 76 |
 | `britiger`              | 68 |
 | `vand`                  | 64 |
@@ -53,6 +53,7 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`            | 2 |
 | `EDDT Manu`             | 2 |
 | `Glock_09`              | 2 |
+| `Harry Dal Bello`       | 2 |
 | `jcott`                 | 2 |
 | `Kenneth`               | 2 |
 | `Kjella0226`            | 2 |

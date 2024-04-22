@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 00B031,ZS-YZC,E190,Embraer,ERJ-190LR,Embraer ERJ-190LR,0,Airlink,LNK,19000679,2014
+00B032,ZS-YZA,E190,Embraer,190-100LR,Embraer 190-100LR,0,Airlink,LNK,19000651,2013
 00B089,ZS-SJG,B738,Boeing,737-8BG,Boeing 737-8BG,0,Safair,SFR,32353,2000
 00B08A,ZS-SJH,B738,Boeing,737-8BG,Boeing 737-8BG,0,Safair,SFR,32354,2000
 00B08D,ZS-SJK,B738,Boeing,737-8BG,Boeing 737-8BG,0,Safair,SFR,32355,2001

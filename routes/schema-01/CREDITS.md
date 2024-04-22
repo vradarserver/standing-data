@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 124,245 |
-| `Piet Delagrense`              | 110,979 |
+| `dirkhh`                       | 128,959 |
+| `Piet Delagrense`              | 112,376 |
 | `vand`                         | 51,601 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 19,039 |
+| `科罗娜`                          | 19,375 |
 | `Phillip Rohmberger`           | 16,555 |
-| `sib64`                        | 15,967 |
-| `Lanorge`                      | 15,197 |
-| `Jon Fear`                     | 13,451 |
+| `sib64`                        | 16,012 |
+| `Lanorge`                      | 15,234 |
+| `Jon Fear`                     | 13,492 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 8,513 |
+| `Neboknede`                    | 8,534 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,962 |
+| `Markus`                       | 5,690 |
 | `EDDT Manu`                    | 5,657 |
-| `Markus`                       | 5,639 |
-| `AP100`                        | 4,879 |
+| `AP100`                        | 4,889 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
@@ -35,7 +35,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Thomas S.`                    | 3,040 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
-| `aircraftenthusiast2000`       | 2,556 |
+| `aircraftenthusiast2000`       | 2,617 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `untt`                         | 2,248 |
@@ -44,8 +44,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
+| `Gavin-D`                      | 2,044 |
 | `Paul C`                       | 2,038 |
-| `Gavin-D`                      | 2,034 |
 | `verbatim`                     | 1,775 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,170 |
-| `laurent`                      | 1,133 |
+| `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
 | `Daniel.cornejo.campos`        | 1,120 |
@@ -143,7 +143,7 @@ Please note that credit files are updated less frequently than the data files.
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
 | `Jim Anderson`                 | 243 |
-| `Skibox`                       | 236 |
+| `Skibox`                       | 237 |
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
 | `spudjr`                       | 225 |
@@ -281,6 +281,7 @@ Please note that credit files are updated less frequently than the data files.
 | `philipgm`                     | 46 |
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
+| `Ljubo`                        | 45 |
 | `marm0t`                       | 45 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
@@ -379,7 +380,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Duncan Philip`                | 19 |
 | `JohnL`                        | 19 |
 | `KSBS`                         | 19 |
-| `Ljubo`                        | 19 |
 | `Mark Meece`                   | 19 |
 | `Matthew Jangelis`             | 19 |
 | `T-EGJA1`                      | 19 |
@@ -792,6 +792,7 @@ Please note that credit files are updated less frequently than the data files.
 | `imrehg`                       | 2 |
 | `itmaybeokay`                  | 2 |
 | `Jack Plumb`                   | 2 |
+| `Jayant Shah`                  | 2 |
 | `jbro90`                       | 2 |
 | `jcv127`                       | 2 |
 | `jepolch`                      | 2 |
@@ -957,7 +958,6 @@ Please note that credit files are updated less frequently than the data files.
 | `im7575`                       | 1 |
 | `Jantje`                       | 1 |
 | `Jay`                          | 1 |
-| `Jayant Shah`                  | 1 |
 | `Joao Brito`                   | 1 |
 | `JohnF`                        | 1 |
 | `jonnathanjrm`                 | 1 |

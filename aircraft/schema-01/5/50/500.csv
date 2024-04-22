@@ -75,6 +75,7 @@
 5002D8,T7-DFC,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70131,
 5002D9,T7-UGR,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5821,2009
 5002DC,T7-NKS,H25B,Raytheon Hawker,800XP,Raytheon Hawker 800XP,0,The Setai Aviation,,258446,2000
+5002DD,T7-ARK,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5074,2005
 5002DF,T7-BOSS,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Asian Corporate Aviation Management,,04151,2010
 5002E4,T7-327,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Jet Aviation Business Jets San Marino S.r.l.,,6482,2023
 5002E7,T7-AAA7,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70122,
@@ -111,4 +112,5 @@
 50036F,T7-2828,LJ60,LearJet,60,LearJet 60,1,Private,,60-368,
 500371,T7-5678,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5060,2010
 500379,T7-N1960,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Luxaviation San Marino,LSM,14501208,2014
+500386,T7-Z00M,PC12,Pilatus,PC XII/NGX,Pilatus PC XII/NGX,1,Private,,2071,2021
 50038E,T7-NEX,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9780,
