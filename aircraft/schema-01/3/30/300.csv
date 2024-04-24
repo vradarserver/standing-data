@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 300466,I-TORG,AS50,Eurocopter,AS-350 Ecureuil,Eurocopter AS-350 Ecureuil,0,Elitellina,FGS,4922,2018
+3004AE,I-LARU,ECHO,Tecnam,P92 Echo,Tecnam P92 Echo,1,Private,,,
 300582,I-CFAG,S64,Sikorsky,S-64 Skycrane,Sikorsky S-64 Skycrane,0,Vigili del Fuoco,,64-088,
 3005DF,I-TORQ,EC45,Airbus Helicopters,MBB-BK 117 D-2 (H145),Airbus Helicopters MBB-BK 117 D-2 (H145),0,Air Green,,20011,2014
 3006E4,I-ECTW,B427,Bell,427,Bell 427,1,Private,,56075,
@@ -68,4 +69,5 @@
 3009B1,I-GOAR,GLEX,Bombardier,Global Express,Bombardier Global Express,0,Sirio,SIO,9419,2010
 3009B2,I-JENK,E190,Embraer,190,Embraer 190,0,Air Dolomiti,DLA,19000381,2010
 3009B3,I-JENC,E195,Embraer,E195LR,Embraer E195LR,0,Air Dolomiti,DLA,19000327,2009
+3009B4,I-JENF,E190,Embraer,E190LR,Embraer E190LR,0,Air Dolomiti,DLA,19000337,2010
 3009C5,I-FDIA,FA7X,Falcon,7X,Falcon 7X,0,Sirio,SIO,240,

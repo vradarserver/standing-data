@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+76CC73,9V-SCS,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,Singapore Airlines,SIA,60268,2023
 76CC74,9V-SCT,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,Singapore Airlines,SIA,60274,2023
+76CC75,9V-SCU,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,Singapore Airlines,SIA,60271,2023
 76CD19,9V-SHY,A359,Airbus,A350-941,Airbus A350-941,0,Singapore Airlines,SIA,494,2022
 76CD43,9V-SJC,A359,Airbus,A350-941,Airbus A350-941,0,Singapore Airlines,SIA,564,2022
 76CD44,9V-SJD,A359,Airbus,A350-941,Airbus A350-941,0,Singapore Airlines,SIA,569,2022

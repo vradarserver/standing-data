@@ -11,7 +11,9 @@
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
 7811BC,B-005D,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
+7811BE,B-005F,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 7811BF,B-005G,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+7811C0,B-005H,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 7811C2,B-005K,A20N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811C3,B-005L,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 7811CB,B-005U,A359,Airbus,A350-941,Airbus A350-941,0,Airbus Industrie,AIB,,
@@ -562,6 +564,7 @@
 781F48,B-32E3,A20N,Airbus,A320-251N,Airbus A320-251N,0,Spring Airlines,CQH,11170,2023
 781F4B,B-32E5,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11371,2023
 781F4C,B-223N,B77L,Boeing,777-F,Boeing 777-F,0,China Southern Airlines Cargo,CSG,67822,2023
+781F4D,B-32E6,A19N,Airbus,A319-153N,Airbus A319-153N,0,Tibet Airlines,TBA,11332,2023
 781F4F,B-91A7,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet (Beijing) Company,JBE,,
 781F51,B-91A8,CRJ2,Canadair,CL-600-2B19 Challenger 850,Canadair CL-600-2B19 Challenger 850,0,Air ToJoy,,8111,2012
 781F5A,B-32E9,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Spring Airlines,CQH,11171,2023
@@ -608,6 +611,7 @@
 781FB6,B-32F2,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Xiamen Airlines,CXA,11396,2023
 781FB7,B-32F5,A20N,Airbus,A320-271N,Airbus A320-271N,0,Tianjin Airlines,GCR,11349,2023
 781FB8,B-32F6,A20N,Airbus,A320-251N,Airbus A320-251N,0,Tianjin Airlines,GCR,11391,2023
+781FB9,B-32F7,A20N,Airbus,A320-251N,Airbus A320-251N,0,Spring Airlines,CQH,11286,2023
 781FC1,B-919C,C919,Comac,C-919,Comac C-919,0,China Eastern Airlines,CES,00008,2023
 781FC8,B-32FA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11493,2023
 781FC9,B-32F9,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Chengdu Airlines,UEA,11632,2023

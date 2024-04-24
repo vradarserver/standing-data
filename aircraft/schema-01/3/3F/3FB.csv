@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3FB123,98+35,D228,Dornier,Do-228NG,Dornier Do-228NG,0,German Navy,GNY,8302,
 3FB65B,79+31,NH90,NH Industries,NH90 TTH,NH Industries NH90 TTH,0,German Army,GAM,,
+3FB88A,78+31,NH90,NH Industries,NH90 TTH,NH Industries NH90 TTH,0,German Army,GAM,1121,
 3FB950,54+38,A400,Airbus,A400M,Airbus A400M,0,German Air Force,GAF,115,2021
 3FBB26,31+51,EUFI,Eurofighter,2000,Eurofighter 2000,0,German Air Force,GAF,3151,
 3FBDFC,77+07,EC45,Airbus Helicopters,H145M,Airbus Helicopters H145M,0,German Army,GAM,20274,

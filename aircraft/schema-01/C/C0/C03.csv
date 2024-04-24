@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C0301A,C-FSFP,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Airsprint,ASP,525B0686,2023
+C0301D,C-FSFS,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,Airsprint,,525B0654,2021
 C03140,C-FSQX,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0556,2018
 C0314C,C-FSRJ,RJ1H,Avro,RJ100,Avro RJ100,0,Summit Air,SUT,E3331,1998
 C032C2,C-FTFT,BE10,Beech,100 King Air,Beech 100 King Air,0,FlyGTA Airlines,TOR,BE-49,1978
@@ -10,6 +11,8 @@ C035F8,C-FULJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Lynx Air,DAT,42847,2020
 C038FA,C-FVOZ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Sunwing Airlines,SWG,44653,2021
 C03ABC,C-FWGH,B738,Boeing,737-86J,Boeing 737-86J,0,Sunwing Airlines,SWG,37752,2011
 C03BF4,C-FWSH,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Skyservice Business Aviation,SYB,2183,2019
+C03CC6,C-FXAJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,Chartright Air,,750-0255,2006
 C03D0C,C-FXDB,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Flightpath Charter Airways,,9720,2015
 C03F02,C-FXWJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,WestJet,WJA,60546,2022
+C03F37,C-FXYK,B38M,Boeing,737-8,Boeing 737-8,0,WestJet,WJA,60550,2023
 C03F81,C-FYBG,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2211,2022

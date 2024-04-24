@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+4D2001,9H-KDR,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,TAG Aviation Malta,TEU,,
 4D2003,9H-SAS,B738,Boeing,737-8BK(WL),Boeing 737-8BK(WL),0,SkyUp Europe,SEU,33029,2006
 4D2004,9H-94FX,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Flexjet Europe,FLJ,9242,2007
 4D209F,9H-GGG,B737,Boeing,737-7ZX(BBJ),Boeing 737-7ZX(BBJ),0,Jet Aviation Flight Services (Malta),,40119,2013
@@ -59,6 +60,7 @@
 4D232B,9H-AZA,B744,Boeing,747-428,Boeing 747-428,0,Air Atlanta Europe,AAE,32871,2004
 4D232C,9H-TJE,B738,Boeing,737-85R,Boeing 737-85R,0,Corendon Airlines,CAI,35106,2008
 4D2330,9H-AFX,E550,Embraer,Legacy 500,Embraer Legacy 500,0,Flexjet Operations Malta,FJO,55000028,
+4D2331,9H-BBH,GLF6,Gulfstream,G650,Gulfstream G650,0,Elitavia Malta,EAU,6132,2015
 4D2332,9H-VDS,A320,Airbus,A320-214,Airbus A320-214,0,Galistair,GTR,01757,2002
 4D2333,9H-ZTA,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),0,Titan Airways Malta,TMT,3749,2008
 4D2335,9H-CCH,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6130,
@@ -87,6 +89,7 @@
 4D2352,9H-TJF,B738,Boeing,737-85R,Boeing 737-85R,0,Corendon Airlines Europe,CXI,35082,2008
 4D2354,9H-ZMK,A343,Airbus,A340-312,Airbus A340-312,0,Airhub Airlines,GJM,668,2005
 4D2356,9H-AIT,AT75,ATR,72-500,ATR 72-500,1,Private,,785,2007
+4D2357,9H-GTS,A320,Airbus,A320-232,Airbus A320-232,0,Airhub Airlines,GJM,04384,2010
 4D2358,9H-GRS,F900,Dassault,Falcon 900,Dassault Falcon 900,0,Harmony Jets,HMJ,78,
 4D2359,9H-ELF,B737,Boeing,737-7BC (BBJ),Boeing 737-7BC (BBJ),0,Air X Charter,AXY,30330,1999
 4D235A,9H-AMU,A320,Airbus,A320-232,Airbus A320-232,0,Eurowings,EWG,4174,2009
@@ -397,9 +400,11 @@
 4D24FF,9H-MFX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet Operations Malta,FJO,55020189,2023
 4D2500,9H-VVN,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,67100,2023
 4D2501,9H-VVO,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,67101,2023
+4D2502,9H-VVQ,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,67102,2023
 4D2503,9H-VVR,B38M,Boeing,737 MAX 8-200,Boeing 737 MAX 8-200,0,Malta Air,MAY,67098,2024
 4D2504,9H-VVS,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Malta Air,MAY,67105,2023
 4D2505,9H-HFI,A333,Airbus,A330-302,Airbus A330-302,0,Hi Fly Malta,HFM,0805,2007
+4D2507,9H-SWE,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,05139,2012
 4D2508,9H-BRU,B738,Boeing,737-8JP,Boeing 737-8JP,0,AeroItalia,AEZ,39419,2011
 4D2509,9H-EUN,A320,Airbus,A320-214,Airbus A320-214,0,Eurowings,EWG,3422,2008
 4D250A,9H-HFK,A332,Airbus,A330-223,Airbus A330-223,0,Hi Fly Malta,HFM,874,2008
@@ -426,8 +431,10 @@
 4D2527,9H-WNA,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11766,2024
 4D2528,9H-WNB,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11748,2024
 4D2529,9H-WNC,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11738,2023
+4D252B,9H-WNE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11828,2024
 4D2530,9H-VFO,CL60,Challenger,650,Challenger 650,0,Vistajet,VJT,5876,
 4D2532,9H-WNF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11648,2024
+4D2533,9H-WNG,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,11931,2024
 4D253B,9H-EUQ,A320,Airbus,A320-214,Airbus A320-214,0,Eurowings Europe,EWL,3594,2008
 4D253F,9H-EART,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,66,
 4D2540,9H-NEAH,FA7X,Falcon,7X,Falcon 7X,0,JetHouse,,17,

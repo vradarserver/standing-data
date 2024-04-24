@@ -1,8 +1,14 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C01002,C-FGBP,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,1,Private,,20967,2023
 C01022,C-FGCV,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Chartright Air,HRT,20042,2005
+C01228,C-FGWT,A4,McDonnell Douglas,TA-4 Skyhawk,McDonnell Douglas TA-4 Skyhawk,0,Top Aces,,13499,1966
 C012A5,C-FHBO,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,32768,2005
+C012BE,C-FHCN,B737,Boeing,737-783,Boeing 737-783,0,Canadian North,AKT,34549,2010
+C0133F,C-FHHM,CL60,Canadair,Challenger 605,Canadair Challenger 605,0,Air Partners,,5620,2005
+C013D4,C-FHNF,B737,Boeing,737-705,Boeing 737-705,0,Canadian North,AKT,29098,2002
 C013D7,C-FHNI,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,,
+C013DA,C-FHNL,B737,Boeing,737-752,Boeing 737-752,0,Canadian North,AKT,28262,2004
+C013DC,C-FHNN,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,35078,2007
 C013EF,C-FHOG,C206,Bernier,G-BAIR 6T Turbine Stationair,Bernier G-BAIR 6T Turbine Stationair,1,Private,,002,2002
 C01590,C-GEXB,A321,Airbus,A321-211,Airbus A321-211,0,Air Transat,TSC,2599,2005
 C015B0,C-FIFN,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,41660,2015
@@ -20,8 +26,11 @@ C01E13,C-FLKC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,61807,
 C01E19,C-FLKI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,64944,2019
 C01E1A,C-FLKJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,64945,2019
 C01E1F,C-FLKO,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,62870,2019
+C01E93,C-FLPA,B752,Beech,757-223,Beech 757-223,0,Cargojet Airways,CJT,29591,1999
 C01EBB,C-FLQO,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,43565,2019
 C01EC6,C-FLQZ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,44307,2019
+C01ED0,C-FLRJ,RJ85,Avro,146 RJ85,Avro 146 RJ85,0,Summit Air,SUT,E2302,1997
+C01EE6,C-FLSF,B738,Boeing,737NG 8CT/W,Boeing 737NG 8CT/W,0,WestJet,WJA,40838,2015
 C01F1E,C-FLUJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,62884,2022
 C01F28,C-FLUT,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flair Airlines,FLE,60134,2019
 C01F53,C-FLWK,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,37239,2012

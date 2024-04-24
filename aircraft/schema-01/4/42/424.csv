@@ -45,6 +45,7 @@
 424724,VP-CCQ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70085,
 424725,VP-CBC,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Global Wings SEZC,,14501198,2013
 424729,VP-CLM,A20N,Airbus,A320-271N ACJ,Airbus A320-271N ACJ,0,Amerer Air,AMK,11624,2023
+424731,VP-CLG,B738,Boeing,737-808(BCF),Boeing 737-808(BCF),1,Private,,34701,2006
 424748,VP-CGA,A321,Airbus,A321-231,Airbus A321-231,0,Global,,03458,2008
 42474F,VP-CAF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9686,2015
 42475D,VP-CYA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9628,2014
@@ -101,6 +102,7 @@
 424BD8,M-RAFI,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70084,2021
 424BD9,M-LOVE,E550,Embraer,Legacy 500,Embraer Legacy 500,1,Private,,55000069,2017
 424BDC,M-CUZU,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,95,
+424BDE,M-YOBO,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0425,2023
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
 424BE8,M-ABOT,RJ1H,Avro,RJ100,Avro RJ100,0,BAE Systems,BAE,E3245,1994
 424BEC,M-YAVA,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,1,Private,,550-1050,2003
@@ -149,3 +151,4 @@
 424C51,M-INKE,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73127,2023
 424C52,M-CMHS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9754,2016
 424C57,M-JHCI,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0134,2013
+424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,,FL-1331,2024

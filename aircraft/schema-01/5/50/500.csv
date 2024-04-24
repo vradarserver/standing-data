@@ -8,6 +8,7 @@
 50020A,T7-SLXP,PC12,Pilatus,PC-12/47,Pilatus PC-12/47,0,Super Legacy,,864,
 500213,T7-ME8,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Middle East Airlines,MEA,10221,2021
 500214,T7-ME9,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Middle East Airlines,MEA,10322,2021
+500218,T7-280,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,TAG Aviation USA,TAG,2181,2019
 50021D,T7-FEE,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4261,2012
 500222,T7-GER,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2071,
 500223,T7-CNC,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6286,
@@ -85,6 +86,7 @@
 5002F2,T7-IUB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6353,
 5002FC,T7-RIC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9546,2013
 500301,T7-BELL,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65456,2022
+500305,T7-808,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6522,2022
 500306,T7-CLN,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,441,2018
 500307,T7-BCP,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6343,2018
 500310,T7-VRF,HDJT,Honda,HA-420 HondaJet Elite,Honda HA-420 HondaJet Elite,1,Private,,42000244,
@@ -96,6 +98,7 @@
 50031C,T7-EMI,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0034,2007
 500328,T7-727,H25B,Hawker,800XPi,Hawker 800XPi,1,Private,,258771,
 500329,T7-33SL,GLF5,Gulfstream Aerospace,GV-SP (G550),Gulfstream Aerospace GV-SP (G550),1,Private,,5266,
+50032B,T7-7777,A318,Airbus,A318-112 ACJ Elite,Airbus A318-112 ACJ Elite,0,TAG Aviation USA,TAG,3363,2008
 500332,T7-SYC,P180,Piaggio,P.180 Avanti II,Piaggio P.180 Avanti II,1,Private,,1105,
 500333,T7-L007,A320,Airbus,A320-214,Airbus A320-214,1,Private,,2708,2006
 500335,T7-ALEX1,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9155,2004
@@ -112,5 +115,6 @@
 50036F,T7-2828,LJ60,LearJet,60,LearJet 60,1,Private,,60-368,
 500371,T7-5678,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5060,2010
 500379,T7-N1960,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Luxaviation San Marino,LSM,14501208,2014
+50037E,T7-MBS,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,0,,,006,
 500386,T7-Z00M,PC12,Pilatus,PC XII/NGX,Pilatus PC XII/NGX,1,Private,,2071,2021
 50038E,T7-NEX,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9780,

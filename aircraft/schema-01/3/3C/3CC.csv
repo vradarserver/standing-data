@@ -2,7 +2,7 @@
 3CC005,D-CAAF,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,0,Arcus-Air Logistic,AZE,50500370,
 3CC006,D-CAAG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Arcus-Air Logistic,AZE,50500195,2013
 3CC04E,D-CADA,LJ60,Learjet,60XR,Learjet 60XR,0,Aero-Dienst,ADN,60-414,2012
-3CC108,D-CAKE,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,1,Private,,50500404,2017
+3CC108,D-CAKE,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,0,Spree Flug,SFG,50500404,2017
 3CC12A,D-CALM,C56X,Cessna,Citation 560XL Excel,Cessna Citation 560XL Excel,0,Jet Kontor,,560-6129,
 3CC13A,D-CAMC,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0310,
 3CC187,D-CAPB,C560,Cessna,560 Citation Encore+,Cessna 560 Citation Encore+,0,Aerowest,AWH,560-0806,
@@ -13,10 +13,12 @@
 3CC24D,D-CAWR,C560,Cessna,560 Citation Encore+,Cessna 560 Citation Encore+,0,Aerowest,AWH,560-0809,2009
 3CC2D0,D-CBBS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Pad Aviation Service,PVD,50500343,2015
 3CC605,D-CCHH,E55P,Embraer,505 Phenom 300E,Embraer 505 Phenom 300E,1,Private,,50500697,
+3CC8AF,D-CDHN,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0340,2023
 3CC95A,D-CDOC,LJ45,Learjet,45,Learjet 45,0,Jetcall,JCL,45-018,1998
 3CC9AB,D-CDRF,LJ35,Gates Learjet,35A,Gates Learjet 35A,0,Deutsche Rettungsflugwacht,AMB,35A-656,1990
 3CCBD6,D-CEMO,H25B,Hawker Beechcraft,750,Hawker Beechcraft 750,0,Exxaero,XRO,HB-4,
 3CCBF5,D-CENT,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,OHL Air Charterflug,ECA,525B0200,
+3CCC64,D-CESA,C55B,Cessna,Citation Bravo,Cessna Citation Bravo,0,Euro Link,EUL,550-1039,2002
 3CCC7F,D-CETB,H25B,Hawker,750,Hawker 750,0,Exxaero,XRO,HB-17,2008
 3CCDE3,D-CFGT,PC24,Pilatus,PC-24,Pilatus PC-24,0,Star Air,STQ,267,
 3CCF01,D-CFRT,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,0,Excellent Air,ECA,525C-0140,2013
