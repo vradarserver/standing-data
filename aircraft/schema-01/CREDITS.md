@@ -6,24 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,523 |
+| `Peter Hutt`             | 2,606 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,531 |
-| `科罗娜`                    | 1,276 |
-| `Andrew`                 | 1,149 |
+| `aircraftenthusiast2000` | 1,585 |
+| `科罗娜`                    | 1,328 |
+| `Andrew`                 | 1,150 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 154 |
-| `andrw`                  | 149 |
-| `Lanorge`                | 114 |
+| `BudBundi`               | 187 |
+| `andrw`                  | 154 |
+| `Lanorge`                | 125 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 57 |
+| `vrsspotter73`           | 60 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
 | `deedeecee`              | 40 |
+| `Harry Dal Bello`        | 39 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
@@ -41,7 +42,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
-| `soja`                   | 5 |
+| `soja`                   | 6 |
 | `struart`                | 5 |
 | `darjes`                 | 4 |
 | `neslin`                 | 4 |
@@ -71,6 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `caro-ed`                | 1 |
 | `Cheyenne`               | 1 |
 | `Datamix`                | 1 |
+| `dc10`                   | 1 |
 | `Derek Bertram`          | 1 |
 | `EGPD1701`               | 1 |
 | `ez_duce`                | 1 |

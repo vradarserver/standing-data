@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A1421B,N180QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70140,2023
 A1433A,N1801U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,60223,2019
+A14380,N1803U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,60226,2019
 A14452,N1809U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,60188,2019
 A145A8,N181P,A139,Agusta,AW-139,Agusta AW-139,1,Private,,41544,2022
 A145D2,N181QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70154,2023
