@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+ABB06D,N852SY,B738,Boeing,737-89M,Boeing 737-89M,0,Sun Country Airlines,SCX,40910,2010
 ABB9EE,N855AC,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,1,Private,,560-5720,2007
 ABBB0A,N855MM,CL60,Bombardier,Challenger 601-3A,Bombardier Challenger 601-3A,0,Hera Flight,HER,5064,1990
+ABBBCD,N855VG,B350,Beech,Super King Air 350,Beech Super King Air 350,1,Private,,FL-601,2008
 ABBDA5,N856AC,C560,Cessna,560 Citation Encore,Cessna 560 Citation Encore,1,Private,,560-0656,
 ABBE7B,N856JS,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,0,flyExclusive,JRE,560-5040,1999
 ABBF49,N856SY,B738,Boeing,737-82R,Boeing 737-82R,0,Sun Country Airlines,SCX,40010,2014

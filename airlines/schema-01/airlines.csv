@@ -2902,6 +2902,7 @@ LAF,Latvian Air Force,LAF,,,
 LAG,Aviation Legacy,LAG,,,
 LAH,L A Helicopter,LAH,,,
 LAJ,British Mediterranean Airways,LAJ,KJ,,
+LAK,Red Wing Aviation,LAK,,,.*
 LAL,Labrador Airways,LAL,,,
 LAM,Linhas Aéreas de Moçambique,LAM,TM,,
 LAN,LATAM Chile,LAN,LA,,
@@ -3445,6 +3446,7 @@ MXY,Breeze Airways,MXY,MX,,
 MYA,Myflug,MYA,,,
 MYD,Maya Island Air,MYD,2M,,
 MYI,Mayair,MYI,,,
+MYJ,My Jet,MYJ,,,.*
 MYM,MYAirline,MYM,Z9,,
 MYO,Dominguez Toledo (Grupo Mayoral),MYO,,,
 MYP,Mann Yadanarpon Airlines,MYP,7Y,,
@@ -5522,7 +5524,7 @@ VIP,TAG Aviation UK,VIP,,,
 VIR,Virgin Atlantic,VIR,VS,8\d\dP$,9\d\d\d
 VIV,VivaAerobús,VIV,VB,,
 VIZ,Aerovis Airlines,VIZ,,,
-VJA,ValuJet Airlines,VJA,J7,,
+VJA,Vista America,VJA,,,.*
 VJC,VietJet Air,VJC,VJ,,
 VJE,AvJet Routing,VJE,,,
 VJH,VistaJet Germany,VJH,H5,,.*
