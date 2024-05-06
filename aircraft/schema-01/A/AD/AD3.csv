@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AD33D6,N95RS,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9241,2007
+AD340B,N95TV,B06,Bell,206L Long Ranger IV,Bell 206L Long Ranger IV,0,Helicopters Inc.,,52316,2005
 AD34BB,N950AV,A320,Airbus,A320-214,Airbus A320-214,0,Avianca,AVA,3545,2008
 AD356F,N950J,B763,Boeing,767-3P6ER,Boeing 767-3P6ER,0,Jetran Air,MDJ,27254,1993
 AD3585,N950JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145640,2002

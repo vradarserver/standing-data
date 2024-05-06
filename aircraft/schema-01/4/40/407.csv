@@ -64,7 +64,9 @@
 407B95,G-JSNS,G280,Gulfstream,G280,Gulfstream G280,0,Gama Aviation,GMA,2216,2020
 407B9D,G-ULTB,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,0,Starspeed,,20089,2016
 407BA4,G-FBPS,C208,Cessna,Caravan 208B,Cessna Caravan 208B,0,British Parachute Schools Ltd.,,208B0494,1995
+407BA5,G-FLOH,C208,Cessna,208B Grand Caravan,Cessna 208B Grand Caravan,0,British Parachute Schools,,208B0576,1996
 407BB7,G-CMAH,C152,Cessna,152,Cessna 152,0,Brinkley Aviation,,15281710,1978
+407BB8,G-CMAI,C152,Cessna,152,Cessna 152,0,Brinkley Aviation,,15280418,1978
 407BBA,G-CMAK,C152,Cessna,152,Cessna 152,0,Brinkley Aviation,,15285751,1983
 407BBD,G-NGTC,EXNG,Extra,NG,Extra NG,0,Skyboard Aerobatics,,NG021,2021
 407BC0,G-CLZV,CLON,RotorSport UK,Cavalon,RotorSport UK Cavalon,1,Private,,RSUK/CVLN/035,2021
@@ -112,6 +114,7 @@
 407C5A,G-DHLC,B763,Boeing,767-323,Boeing 767-323,0,DHL Air UK,DHK,29606,1999
 407C5E,G-EODS,A333,Airbus,A330-343,Airbus A330-343,0,Titan Airways,AWC,713,2006
 407C62,G-FCNC,SLG2,Sonaca,S200,Sonaca S200,0,Airways Aero Associations,,018,2020
+407C64,G-KEVJ,SLG4,Sling,TSi,Sling TSi,1,Private,,LAA 400A-15753,2022
 407C65,G-JHEX,C55B,Cessna,550B Citation Bravo,Cessna 550B Citation Bravo,0,Dragonfly Aviation Services,CBM,550-1130,2006
 407C68,G-MCSP,EC75,Airbus Helicopters,EC175 B,Airbus Helicopters EC175 B,0,Bond Offshore Helicopters,BND,5052,2021
 407C6D,G-DRTJ,B738,Boeing,737-86N,Boeing 737-86N,0,Jet2.com,EXS,35647,2009
@@ -198,6 +201,7 @@
 407D4B,G-VIXI,AP32,Aeroprakt,A-32 Vixxen,Aeroprakt A-32 Vixxen,1,Private,,A32194,
 407D4C,G-TUMW,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI Airways,TOM,44615,2022
 407D4D,G-NULL,AS50,Airbus Helicopters,AS350B3,Airbus Helicopters AS350B3,1,Private,,8546,2018
+407D4E,G-DWYP,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,BMAA/HB/743,2022
 407D52,G-UNET,B744,Boeing,747-433(BDSF),Boeing 747-433(BDSF),0,One Air,HGO,25075,1991
 407D53,G-PFTB,P208,Tecnam,P2008-JC,Tecnam P2008-JC,0,Blue Skies Ltd.,,1240,2022
 407D54,G-PFTC,P208,Tecnam,P2008-JC,Tecnam P2008-JC,0,Bluie Skies,,1241,2022
@@ -207,6 +211,7 @@
 407D5B,G-WUKU,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10787,2022
 407D5C,G-WUKT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,10672,2022
 407D5D,G-CMEP,P28A,Piper,PA-28-161 Warrior III,Piper PA-28-161 Warrior III,1,Private,,2816115,1995
+407D5E,G-PMCW,P32R,Piper,PA32R-301,Piper PA32R-301,0,Warbird Experiences,,3246240,2006
 407D5F,G-ISJE,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,0,Raven Air,RVR,2176,2022
 407D60,G-OJFA,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,0,Ravenair,RVN,1148,2009
 407D61,G-HTSI,SLG4,Sling Aircraft,4 TSI,Sling 4 TSI,1,Private,,LAA 400A-15682,2022
@@ -237,6 +242,7 @@
 407DB8,G-SOVH,C525,Cessna,525 Citation CJ1+,Cessna 525 Citation CJ1+,0,SaxonAir,SXN,525-0675,2009
 407DBF,G-DHLW,B77L,Boieng,777-F6N,Boieng 777-F6N,0,DHL Air UK,DHK,37714,2010
 407DC0,G-YAAA,EC45,Airbus Helicopters,EC145,Airbus Helicopters EC145,0,Yorkshire Air Ambulance,,21147,2022
+407DC1,G-YORX,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,0,Yorkshire Air Ambulance,,21185,2022
 407DC3,G-CMLM,RV7,Vans,RV-7,Vans RV-7,1,Private,,72379,2022
 407DC4,G-GDAB,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Edinburgh Air Charter,EDC,55020161,2022
 407DC5,G-VTOM,A339,Airbus,A330-941,Airbus A330-941,0,Virgin Atlantic,VIR,2019,2022
@@ -277,6 +283,7 @@
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
 407E3F,G-ECLH,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,744,2006
 407E40,G-CMLL,RV12,Van's,RV-12,Van's RV-12,1,Private,,LAA 363-15563,2022
+407E42,G-LLWP,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,0,Linlithgow PC,,LAA 411A-15832,2022
 407E44,G-MSVO,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,0,JPM,,22067,2008
 407E45,G-SUNB,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,11379,2023
 407E46,G-SUNC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,11489,2023
@@ -308,6 +315,7 @@
 407E86,G-CMKI,C152,Cessna,152,Cessna 152,1,Private,,15280900,1977
 407E87,G-CMKJ,P28A,Piper,PA-28-161 Warrior II,Piper PA-28-161 Warrior II,1,Private,,28-8416086,
 407E88,G-CMLB,EFOX,Aeropro,Eurofox 3K,Aeropro Eurofox 3K,1,Private,,66523,
+407E89,G-CMMZ,EFOX,Eurofox,3K,Eurofox 3K,1,Private,,66423,2023
 407E8A,G-LKDM,SLG2,Sonaca,S200,Sonaca S200,1,Private,,056,2022
 407E8B,G-JJSN,R44,Robinson,R44 Raven II,Robinson R44 Raven II,0,Heatherway Taverns,,11799,2007
 407E8C,G-MLML,S22T,Cirrus,SR22T,Cirrus SR22T,0,Bayes Aviation,,8876,2022
@@ -403,6 +411,7 @@
 407F9D,G-GAPC,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9341,2023
 407F9F,G-LJMJ,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9120,2023
 407FA0,G-RORE,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020179,2023
+407FA1,G-OBOE,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,1157-21,2023
 407FA5,G-GWOW,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9342,2023
 407FA7,G-DOGR,EC35,Eurocopter,EC135 T3,Eurocopter EC135 T3,1,Private,,2228,
 407FA8,G-HJBM,HDJT,Hondajet,Elite,Hondajet Elite,0,Bookajet,BOO,42000177,2019
@@ -419,14 +428,17 @@
 407FCB,G-TNEC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,11744,2023
 407FCC,G-XWBR,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,639,2023
 407FCD,G-XWBS,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,652,2024
+407FD1,G-CMRE,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,0,Balado Airfield,,42C-7702,2023
 407FD2,G-DHLU,B77L,Boeing,777-F6N,Boeing 777-F6N,0,DHL Air UK,DHK,37717,2011
 407FD5,G-CMOE,DA50,Diamond,DA-50,Diamond DA-50,1,Private,,50.C.A.A.048,
+407FD6,G-CMRD,C42,Ikarus,C42 FB100 Charlie,Ikarus C42 FB100 Charlie,1,Private,,42C-7703,2023
 407FD9,G-OTST,DA42,Diamond,DA42 NG Twin Star,Diamond DA42 NG Twin Star,0,BAE Systems,BAE,42.N513,2023
 407FDA,G-WUKX,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11615,2023
 407FE0,G-JCAN,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Voluxis,VXS,60092,2023
 407FE4,G-EMHF,A109,AgustaWestland,AW109SP Grand New,AgustaWestland AW109SP Grand New,0,East Midlands Helicopters,CTK,22451,2023
 407FEA,G-WUKY,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11505,2023
 407FF1,G-OASB,AT75,ATR,72-500(F),ATR 72-500(F),0,ASL Airlines UK,ABV,0679,2001
+407FF3,G-HITC,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Fens Surfacing,,9429,2023
 407FF4,G-WUKZ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11573,2023
 407FF6,G-UAUK,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,1,Private,,LAA 422A-15870,2023
 407FFB,G-GOST,P28A,Piper,PA-28-181,Piper PA-28-181,1,Private,,2881125,2019

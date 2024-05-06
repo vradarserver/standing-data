@@ -6,17 +6,17 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,606 |
+| `Peter Hutt`             | 2,634 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,585 |
-| `科罗娜`                    | 1,328 |
-| `Andrew`                 | 1,150 |
+| `aircraftenthusiast2000` | 1,723 |
+| `科罗娜`                    | 1,337 |
+| `Andrew`                 | 1,175 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 187 |
+| `BudBundi`               | 189 |
 | `andrw`                  | 154 |
-| `Lanorge`                | 125 |
+| `Lanorge`                | 127 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `vrsspotter73`           | 60 |
@@ -31,8 +31,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `Simiao`                 | 18 |
+| `Ljubo`                  | 14 |
 | `bigrossco`              | 13 |
-| `Ljubo`                  | 13 |
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
 | `kiwikieran`             | 9 |

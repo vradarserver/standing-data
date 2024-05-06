@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3C818F,,-GND,,Ground Vehicle,Ground Vehicle,0,Leipzig Airport,,,
 3C8195,,-GND,,Ground Vehicle,Ground Vehicle,0,Leipzig Airport,,,
+3C8207,,-GND,,Ground Vehicle,Ground Vehicle,0,Stuttgart Flughafen,,,
 3C825A,,-GND,,Ground Vehicle,Ground Vehicle,0,Stuttgart Airport,,,
 3C8445,D-BABE,E550,Embraer,Legacy 500,Embraer Legacy 500,0,Pad Aviation Service,PVD,55000003,2014
 3C858C,D-BALL,E550,Embraer,Praetor 600,Embraer Praetor 600,0,VistaJet Germany,VJH,55020133,
