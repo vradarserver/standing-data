@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 410 |
-| `Piet Delagrense`       | 178 |
-| `科罗娜`                   | 123 |
-| `Lanorge`               | 79 |
+| `Andrew`                | 412 |
+| `Piet Delagrense`       | 180 |
+| `科罗娜`                   | 126 |
+| `Lanorge`               | 82 |
 | `EDDG`                  | 76 |
-| `britiger`              | 68 |
+| `britiger`              | 70 |
 | `vand`                  | 64 |
-| `sib64`                 | 37 |
+| `sib64`                 | 38 |
 | `Peter Hutt`            | 31 |
-| `BudBundi`              | 23 |
+| `BudBundi`              | 26 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
@@ -57,6 +57,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jcott`                 | 2 |
 | `Kenneth`               | 2 |
 | `Kjella0226`            | 2 |
+| `Markus`                | 2 |
 | `RCN_BC`                | 2 |
 | `RZH`                   | 2 |
 | `spotterblog`           | 2 |
@@ -85,7 +86,6 @@ Please note that credit files are updated less frequently than the data files.
 | `kiwikieran`            | 1 |
 | `kulbie`                | 1 |
 | `Manfred`               | 1 |
-| `Markus`                | 1 |
 | `Martin Salazar`        | 1 |
 | `Mitch`                 | 1 |
 | `mouflonwrangler1`      | 1 |

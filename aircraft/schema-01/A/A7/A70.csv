@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A70007,N550GF,GLF5,Gulfstream,G550,Gulfstream G550,0,Executive Jet Management,EJM,5284,2010
 A70126,N550TT,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,1,Private,,550-1130,2006
+A701BB,N550ZS,C550,Cessna,550 Citation 2,Cessna 550 Citation 2,1,Private,,550-0279,1980
 A70876,N552SN,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Executive Jet Management,EJM,5625,2020
 A70EDA,N554FX,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Flexjet,LXJ,20071,2005
+A70EEB,N554GP,GL5T,Bombardier,Global 5500,Bombardier Global 5500,1,Private,,60109,2023

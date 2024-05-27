@@ -25,6 +25,8 @@
 06A1D7,A7-CGS,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72029,2018
 06A1D8,A7-CGT,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,0,Qatar Executive,QQE,72037,2018
 06A1D9,A7-CGU,GLF6,Gulfstream,G650,Gulfstream G650,0,Qatar Executive,QQE,6511,
+06A1DA,A7-CHA,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87009,2023
+06A1DB,A7-CHB,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87012,
 06A209,ZR501,EUFI,Eurofighter,Typhoon T,Eurofighter Typhoon T,0,Qatar Emiri Air Force,,MT007,2022
 06A20A,QA401,EUFI,Eurofighter,2000,Eurofighter 2000,0,Qatar Emiri Air Force,,MT002,2022
 06A20B,QA402,EUFI,Eurofighter,Typhoon EF2000(T),Eurofighter Typhoon EF2000(T),0,Qatar - Air Force,,MT003,
@@ -33,6 +35,7 @@
 06A216,QA413,EUFI,Eurofighter,2000,Eurofighter 2000,0,Qatar Emiri Air Force,,MS010,2023
 06A217,ZR515,EUFI,Eurofighter,Typhoon EF2000,Eurofighter Typhoon EF2000,0,Qatar Emiri Air Force,,MS011,
 06A218,QA415,EUFI,Eurofighter,Typhoon,Eurofighter Typhoon,0,Qatar - Emiri Air Force,,MS012,
+06A21A,QA417,EUFI,Eurofighter,Typhoon FGR4,Eurofighter Typhoon FGR4,0,Qatar - Emiri Air Force,,MS014,
 06A28A,QA397,PC24,Pilatus,PC-24,Pilatus PC-24,0,Qatar - Emiri Air Force,,247,
 06A28C,A7-MAX,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Qatar Emiri Air Force,,372,2021
 06A2F1,A7-BHN,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Qatar Airways,QTR,64214,2021

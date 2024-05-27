@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A5A10A,N462AA,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,11057,2022
+A5A125,N462BC,TBM9,Daher,TBM-960,Daher TBM-960,1,Private,,1536,
 A5A19C,N462FX,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Flexjet,LXJ,4129,2008
 A5A278,N462QS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,NetJets,EJA,50500719,2023
 A5A2A2,N462SJ,BE40,Beech,400A Beechjet,Beech 400A Beechjet,1,Private,,RK-317,2001

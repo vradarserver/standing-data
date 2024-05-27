@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A5232B,N430AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10387,2021
+A523C6,N430GT,B744,Boeing,747-4H6F,Boeing 747-4H6F,0,Atlas Air,GTI,28434,2006
 A5242E,N430LX,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0430,2023
 A524C5,N430SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000911,2022
 A526E2,N431AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10385,2021

@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A395DD,N330AP,GALX,Gulfstream,G200 Galaxy,Gulfstream G200 Galaxy,1,Private,,105,2004
+A39679,N330GV,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,GrandView Aviation,,50500358,2016
 A39681,N330HC,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,9223,2023
 A396E2,N330M,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9041,1999
 A396EB,N330MJ,SF50,Cirrus,SF-50 Vision,Cirrus SF-50 Vision,0,SR Aviation,,0390,
 A39988,N331AB,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6487,2022
+A39A30,N331GV,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,GrandView Aviation,,50500091,2012

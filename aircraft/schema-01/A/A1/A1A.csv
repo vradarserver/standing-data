@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A1A0DF,N204A,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5341,2011
+A1A110,N204BZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Breeze Airways,MXY,55137,2021
 A1A21F,N204NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,5166,2012
 A1A5D6,N205NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,5724,2013
 A1A87E,N206BZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Breeze Airways,MXY,55143,2021

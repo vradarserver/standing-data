@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA2607,N753JS,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,flyExclusive,JRE,525B-0100,2006
 AA276A,N753YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000924,2022
+AA298C,N754GS,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0203,2015
 AA2B21,N754YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000926,2022
 AA2D0E,N755EP,FBA2,Found,FBA-2 Expedition E350,Found FBA-2 Expedition E350,1,Private,,314,2019
 AA2DEA,N755PJ,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500567,2020

@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A1011C,N164FW,FA50,Dassault,Falcon 50,Dassault Falcon 50,1,Private,,,
 A10120,N164G,P28A,Piper,Archer TX,Piper Archer TX,0,ATP Flight School,CXK,2881457,2021
 A101F9,N164QS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,NetJets,EJA,9649,2014
 A1036C,N16438,LJ45,Learjet,45,Learjet 45,1,Private,,,
+A107FE,N166AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2166,2021
 A10967,N166QS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,NetJets,EJA,9545,2013
 A10D1E,N167QS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,NetJets,EJA,9689,
 A10D6C,N167TV,GLF4,Gulfstream Aerospace,G400,Gulfstream Aerospace G400,0,Executive Jet Management,EJM,1533,2004

@@ -2,6 +2,7 @@
 AE503D,09-0540,B737,Boeing,C-40C,Boeing C-40C,0,Priority Air Transport,PAT,40706,2010
 AE52D1,11-08090,H47,Boeing,CH-47F Chinook,Boeing CH-47F Chinook,0,US Army,,,
 AE5421,11-2046,Q4,Northrop Grumman,RQ-4 Global Hawk,Northrop Grumman RQ-4 Global Hawk,0,United States Air Force,AIO,AF-39,2011
+AE56C4,13-20604,H60,Sikorsky,UH-60M Black Hawk,Sikorsky UH-60M Black Hawk,0,United States Army,,13-20604,
 AE574D,19-46007,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41855,2022
 AE5876,60-0013,B52,Boeing,B-52 Stratofortress,Boeing B-52 Stratofortress,0,United States Air Force,AIO,464378,
 AE587B,60-0022,B52,Boeing,B-52H Stratofortress,Boeing B-52H Stratofortress,0,United States Air Force,AIO,464387,
@@ -39,6 +40,7 @@ AE5F0C,16-5856,C30J,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,Un
 AE5F9A,18-46047,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,United States Air Force,AIO,41867,2019
 AE5FA4,21-46057,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41879,2021
 AE5FA5,21-46058,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,United States Air Force,AIO,41884,2021
+AE5FA7,21-46060,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,Air Mobility Command,RCH,41883,2021
 AE5FA8,21-46061,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41886,2021
 AE5FA9,19-46062,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41888,2021
 AE5FAA,19-46063,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41889,2021

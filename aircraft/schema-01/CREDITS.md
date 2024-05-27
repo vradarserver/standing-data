@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,634 |
+| `Peter Hutt`             | 2,689 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,723 |
-| `科罗娜`                    | 1,337 |
+| `aircraftenthusiast2000` | 1,751 |
+| `科罗娜`                    | 1,355 |
 | `Andrew`                 | 1,177 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 189 |
-| `andrw`                  | 154 |
-| `Lanorge`                | 127 |
+| `BudBundi`               | 205 |
+| `andrw`                  | 160 |
+| `Lanorge`                | 135 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 60 |
+| `vrsspotter73`           | 62 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
@@ -30,9 +30,10 @@ Please note that credit files are updated less frequently than the data files.
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
+| `Ljubo`                  | 20 |
 | `Simiao`                 | 18 |
-| `Ljubo`                  | 14 |
 | `bigrossco`              | 13 |
+| `Susan Larson`           | 12 |
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
 | `kiwikieran`             | 9 |
@@ -43,27 +44,28 @@ Please note that credit files are updated less frequently than the data files.
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
 | `soja`                   | 6 |
+| `darjes`                 | 5 |
 | `struart`                | 5 |
-| `darjes`                 | 4 |
 | `neslin`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
+| `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
 | `Sevetamryn`             | 3 |
+| `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
 | `Bobby Mhor`             | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
 | `Manny`                  | 2 |
-| `Marc A. Mapplebeck`     | 2 |
+| `naji787`                | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
-| `sib64`                  | 2 |
 | `xv2b`                   | 2 |
 | `Alan Edwards`           | 1 |
 | `arcticfox.92`           | 1 |
@@ -82,6 +84,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mantisNZ`               | 1 |
 | `nf003`                  | 1 |
 | `Phillip Rohmberger`     | 1 |
+| `ranger15`               | 1 |
 | `Santi_levt`             | 1 |
 | `Skiprat`                | 1 |
 | `Tomek113`               | 1 |
