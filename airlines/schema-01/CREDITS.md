@@ -9,7 +9,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Andrew`                | 412 |
 | `Piet Delagrense`       | 180 |
 | `科罗娜`                   | 126 |
-| `Lanorge`               | 82 |
+| `Lanorge`               | 93 |
 | `EDDG`                  | 76 |
 | `britiger`              | 70 |
 | `vand`                  | 64 |

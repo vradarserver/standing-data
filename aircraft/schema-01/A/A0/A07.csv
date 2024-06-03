@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A0719B,N128BZ,E190,Embraer,E190AR,Embraer E190AR,0,Breeze Airways,MXY,19000132,2007
 A071C2,N128DN,A321,Airbus,A321-211,Airbus A321-211,0,Delta Air Lines,DAL,10300,2021
 A072D9,N128QS,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,NetJets,EJA,60113,
 A07304,N128SK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,473,2019
 A074CE,N1287Y,B350,Beech,300 (B300) Super King Air 350,Beech 300 (B300) Super King Air 350,1,Private,,FL-1287,
 A07579,N129DN,A321,Airbus,A321-211,Airbus A321-211,0,Delta Air Lines,DAL,10315,2021
+A07690,N129QS,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,NetJets,EJA,60117,
 A07821,N12943,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,17262415,1973
 A07DC9,N13014,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,United Airlines,UAL,40940,2021
 A07DCD,N13018,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,United Airlines,UAL,66987,2022

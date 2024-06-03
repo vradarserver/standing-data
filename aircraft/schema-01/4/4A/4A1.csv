@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4A1265,YR-DSE,A320,Airbus,A320-232,Airbus A320-232,0,Dan Air,JOC,2479,2005
+4A1272,YR-DSR,GALX,Gulfstream Aerospace,G200 Galaxy,Gulfstream Aerospace G200 Galaxy,0,My Jet,MYJ,228,2009
 4A16C5,YR-EVE,E50P,Embraer,EMB 500 Phenom 100,Embraer EMB 500 Phenom 100,1,Private,,50000433,
 4A1921,YR-FIA,A320,Airbus,A320-233,Airbus A320-233,0,FlyOne,FIA,3524,2008
 4A1922,YR-FIB,A320,Airbus,A320,Airbus A320,0,FlyOne,FIA,3524,

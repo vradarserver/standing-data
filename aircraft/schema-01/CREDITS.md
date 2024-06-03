@@ -7,30 +7,30 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `Peter Hutt`             | 2,689 |
+| `aircraftenthusiast2000` | 1,841 |
 | `OSN`                    | 1,763 |
-| `aircraftenthusiast2000` | 1,751 |
-| `科罗娜`                    | 1,355 |
-| `Andrew`                 | 1,177 |
+| `科罗娜`                    | 1,362 |
+| `Andrew`                 | 1,178 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 205 |
-| `andrw`                  | 160 |
-| `Lanorge`                | 135 |
+| `BudBundi`               | 212 |
+| `andrw`                  | 170 |
+| `Lanorge`                | 141 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `vrsspotter73`           | 62 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
+| `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
-| `Harry Dal Bello`        | 39 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
+| `Ljubo`                  | 25 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
-| `Ljubo`                  | 20 |
 | `Simiao`                 | 18 |
 | `bigrossco`              | 13 |
 | `Susan Larson`           | 12 |
@@ -68,6 +68,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ryanthomp`              | 2 |
 | `xv2b`                   | 2 |
 | `Alan Edwards`           | 1 |
+| `Andy Lodge`             | 1 |
 | `arcticfox.92`           | 1 |
 | `Avioradar`              | 1 |
 | `Blackeye`               | 1 |

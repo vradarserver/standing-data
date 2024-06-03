@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A75238,N571AZ,B763,Boeing,767-332(ER),Boeing 767-332(ER),0,Amazon Services,,30388,2000
 A75283,N571DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,064,2016
+A75634,N572DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11841,2024
 A7563A,N572DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,200,2018
 A75676,N572GJ,CRJ7,Bombardier,CRJ-550,Bombardier CRJ-550,0,GoJet Airlines,GJS,10117,2003
 A75966,N57286,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,United Airlines,UAL,61854,2019
