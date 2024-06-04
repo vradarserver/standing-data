@@ -935,6 +935,7 @@ CEF,Czech Air Force,CEF,,,
 CEG,Cega Aviation,CEG,,,
 CEL,Ceiba Intercontinental,CEL,C2,,
 CEM,Central Mongolia Airways,CEM,,,
+CEO,Jet Eksekutif Travya,CEO,,,.*
 CEP,Chipola Aviation,CEP,,,
 CER,Cetraca Aviation Service,CER,,,
 CES,China Eastern Airlines,CES,MU,^(911\d|713\d|790\d|2999|[278]00|[78]99$|[25]000)$,71[01]\d

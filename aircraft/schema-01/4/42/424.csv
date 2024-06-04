@@ -86,6 +86,7 @@
 424B58,M-WAFA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
 424BA5,M-LILY,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,ZYB Lily Jet,MZT,3100,2007
 424BAC,M-ATTS,EC55,Airbus Helicopters,EC-155B1,Airbus Helicopters EC-155B1,0,HeliGroup,,6890,2010
+424BB1,M-ADAM,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501200,
 424BB3,M-ELON,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500623,2021
 424BB4,M-JCBA,H160,Airbus Helicopters,H160,Airbus Helicopters H160,1,Private,,1010,2022
 424BBB,M-ODUS,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,286,
@@ -154,4 +155,7 @@
 424C51,M-INKE,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73127,2023
 424C52,M-CMHS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9754,2016
 424C57,M-JHCI,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0134,2013
+424C5A,M-DEEP,A109,Leonardo,AW109SP GrandNew,Leonardo AW109SP GrandNew,1,Private,,22458,
 424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,,FL-1331,2024
+424C5D,M-LUBB,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0271,1998
+424C64,M-ABSX,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6134,2018
