@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AB6116,N832PJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9837,2018
+AB619B,N832US,MD88,McDonnell Douglas,MD-88,McDonnell Douglas MD-88,0,USA Jet Airlines,JUS,53259,1991
 AB682C,N834KW,B773,Boeing,777-312,Boeing 777-312,0,Eastern Airlines,EAL,32317,2002
 AB6B9F,N835HC,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Hood Capital,,6292,2017
 AB6C5C,N835QS,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,NetJets,EJA,700-0080,2022

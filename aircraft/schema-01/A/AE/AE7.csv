@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE7457,170041,B737,Boeing,737-7AXC,Boeing 737-7AXC,0,United States Marine Corps,,30184,2001
 AE7466,21-9045,GLEX,Bombardier,E-11B,Bombardier E-11B,0,United States Air Force,AIO,60045,2021
+AE7481,21-03404,H64,Boeing,AH-64E Apache Guardian,Boeing AH-64E Apache Guardian,0,United States - Army,,NM404,
 AE77A3,22-9046,GLEX,Bombardier,E-11A,Bombardier E-11A,0,United States Air Force,AIO,9046,2023
 AE77C2,22-21246,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Army,,,
