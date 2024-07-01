@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A9A372,N72Z,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,137,2007
 A9A468,N720JV,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6513,2023
 A9A5A2,N720XJ,C750,Cessna,750 Citation 10,Cessna 750 Citation 10,0,XO,XOJ,750-0220,2003
 A9A867,N721MS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9695,2015
+A9A891,N721PJ,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9929,2023
 A9AB0B,N722AS,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,AirShare,XSR,20908,2022
 A9AEC2,N723AS,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,AirShare,XSR,20915,2022
 A9AFB7,N723LM,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,4698209,2022

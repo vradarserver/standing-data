@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 48B047,SP-MCH,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Jet Story,JDI,42000114,2019
 48B063,SP-MDD,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,ZondaJet,,525B-0714,2024
+48B12E,SP-MKO,DA40,Diamond,DA-40 NG Star,Diamond DA-40 NG Star,1,Private,,,
 48B204,SP-MRE,B762,Boeing,767-281(BDSF),Boeing 767-281(BDSF),0,Skytaxi,IGA,23146,1985
 48B206,SP-MRG,B763,Boeing,767-35H(ER)(BDSF),Boeing 767-35H(ER)(BDSF),0,Skytaxi,IGA,26388,1992
 48B228,SP-MSI,LJ60,Learjet,60XR,Learjet 60XR,0,Aeromedicare Ltd.,AMQ,60-331,
@@ -11,3 +12,4 @@
 48B410,SP-NAR,B190,Beech,1900D,Beech 1900D,1,Private,,UE25,1992
 48B484,SP-NEE,M600,Piper,PA-46-600TP M600,Piper PA-46-600TP M600,1,Private,,4698261,2023
 48B988,SP-OMI,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Jet Story,JDI,55020131,2021
+48BDCB,SP-POL,P06T,Tecnam,P2006T,Tecnam P2006T,1,Private,,308,

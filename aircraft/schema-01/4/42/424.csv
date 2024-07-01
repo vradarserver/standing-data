@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+42413B,VP-CJC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9532,2012
 4241E2,VP-CYW,A319,Airbus,A319-115(CJ),Airbus A319-115(CJ),0,Business Aviation Asia,UNA,4228,2010
 424500,VQ-BHK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,440,2018
 424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
@@ -28,6 +29,7 @@
 42468A,VP-BKV,B773,Boeing,777-312,Boeing 777-312,0,Sky One FZE,,33374,2005
 42468E,VP-BTV,B737,Boeing,737-700 BBJ,Boeing 737-700 BBJ,1,Private,,29274,1999
 424690,VP-BXV,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,0,ZYB Lily Jet,MZT,9507,
+424691,VP-BTU,B737,Boeing,737-75T(BBJ),Boeing 737-75T(BBJ),0,Las Vegas Sands Corporation,,29142,1998
 424692,VP-BGA,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11019,2022
 424693,VP-BGM,A20N,Airbus,A320-251N,Airbus A320-251N,0,ElitAvia,,11041,2022
 42469B,VP-BTN,A20N,Airbus,A320-271N,Airbus A320-271N,0,Azerbaijan Airlines,AHY,11265,2022
@@ -84,6 +86,7 @@
 424A7F,,-GND,,Ground Vehicle,Ground Vehicle,0,Birmingham Airport,,,
 424B23,M-ABCD,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Hampshire Aviation Ltd,,4103,2007
 424B58,M-WAFA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
+424B7C,M-LDYS,EC45,Airbus Helicopters-Kawasaki,H145,Airbus Helicopters-Kawasaki H145,0,Swift Copters,WFC,21223,2023
 424BA5,M-LILY,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,ZYB Lily Jet,MZT,3100,2007
 424BAC,M-ATTS,EC55,Airbus Helicopters,EC-155B1,Airbus Helicopters EC-155B1,0,HeliGroup,,6890,2010
 424BB1,M-ADAM,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501200,
@@ -158,4 +161,5 @@
 424C5A,M-DEEP,A109,Leonardo,AW109SP GrandNew,Leonardo AW109SP GrandNew,1,Private,,22458,
 424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,,FL-1331,2024
 424C5D,M-LUBB,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0271,1998
+424C60,M-ARNZ,PC24,Pilatus,PC-24,Pilatus PC-24,0,BAE Systems,BAE,521,2024
 424C64,M-ABSX,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6134,2018

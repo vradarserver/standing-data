@@ -6,28 +6,28 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,715 |
-| `aircraftenthusiast2000` | 1,841 |
+| `Peter Hutt`             | 2,856 |
+| `aircraftenthusiast2000` | 1,897 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,366 |
+| `科罗娜`                    | 1,411 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 212 |
-| `andrw`                  | 172 |
-| `Lanorge`                | 141 |
+| `BudBundi`               | 223 |
+| `andrw`                  | 184 |
+| `Lanorge`                | 151 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `vrsspotter73`           | 62 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
+| `Ljubo`                  | 44 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
-| `Ljubo`                  | 25 |
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
@@ -43,15 +43,16 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
+| `darjes`                 | 6 |
 | `soja`                   | 6 |
-| `darjes`                 | 5 |
+| `neslin`                 | 5 |
 | `struart`                | 5 |
-| `neslin`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
 | `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
+| `naji787`                | 3 |
 | `nerf`                   | 3 |
 | `Sevetamryn`             | 3 |
 | `sib64`                  | 3 |
@@ -61,7 +62,6 @@ Please note that credit files are updated less frequently than the data files.
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
 | `Manny`                  | 2 |
-| `naji787`                | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |

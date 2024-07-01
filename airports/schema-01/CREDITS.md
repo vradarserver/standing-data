@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `Piet Delagrense`              | 219 |
+| `Piet Delagrense`              | 220 |
 | `EDDG`                         | 61 |
 | `科罗娜`                          | 49 |
 | `vand`                         | 48 |
@@ -18,9 +18,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
+| `Lanorge`                      | 7 |
 | `Mickael H.`                   | 7 |
 | `argz`                         | 6 |
-| `Lanorge`                      | 6 |
 | `squawk7000`                   | 6 |
 | `gandym`                       | 4 |
 | `Mark Taylor`                  | 4 |

@@ -20,6 +20,7 @@
 440062,OE-IVF,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7177,2016
 440065,OE-LQZ,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,3059,2007
 440066,OE-DHU,P28A,Piper,PA-28-151 Cherokee Warrior,Piper PA-28-151 Cherokee Warrior,1,Private,,28-7415449,
+440070,OE-LGE,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Tyrolean Jet Services,TJS,9584,
 440073,OE-LSU,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,11804,2024
 440080,OE-IVI,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7490,2016
 440083,OE-LKQ,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,3061,2007
@@ -40,6 +41,7 @@
 4400EB,OE-IVT,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7632,2017
 4400EC,OE-IVU,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7637,2017
 4400F3,OE-IDO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,6640,2013
+440115,OE-LUE,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet Europe,EJU,12114,2024
 440128,OE-IJZ,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6502,2015
 44012F,OE-LPL,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Austrian,AUA,62735,2019
 440132,OE-LQI,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,3411,2008
@@ -311,6 +313,7 @@
 440D10,OE-IBS,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Europe,EJU,06422,2014
 440D14,OE-XXY,R44,Robinson,R44 Raven 1,Robinson R44 Raven 1,1,Private,,2073,
 440D18,OE-HUG,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Avcon Jet,AOJ,20547,
+440D2F,OE-KMF,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,8948,2022
 440D30,OE-LFI,B748,Boeing,747-83QF,Boeing 747-83QF,0,Air Belgium,ABB,60118,2014
 440D33,OE-HSX,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,,
 440D35,OE-LCS,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,9747,
@@ -319,6 +322,7 @@
 440D3C,OE-9529,GLID,STEMME,S-12,STEMME S-12,1,Private,,12-048,
 440D3F,OE-LTR,A320,Airbus,A320-216,Airbus A320-216,0,TrueAero,,3729,2008
 440D41,OE-LHU,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet,AOJ,9534,2012
+440D42,OE-GLB,PC24,Pilatus,PC-24,Pilatus PC-24,0,Alpi Jets,,121,2018
 440D46,OE-FLY,DA62,Diamond,DA 62,Diamond DA 62,1,Private,,62.207,
 440D4B,OE-ELR,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697108,2001
 440D4D,OE-IXK,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,ASL Airlines Belgium,TAY,28612,1999
@@ -333,6 +337,7 @@
 440D72,OE-FSB,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.007,2015
 440D73,OE-LLS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Skyemotion,,70138,2022
 440D78,OE-LJS,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5658,2006
+440D84,OE-FEE,DA42,Diamond,DA42 NG Twin Star,Diamond DA42 NG Twin Star,0,Urbe Aero,,42.N501,2023
 440D89,OE-DDI,DA40,Diamond,DA-40 Club Star,Diamond DA-40 Club Star,0,Urbe Aero,,40.N605,
 440D95,OE-IXL,B738,Boeing,737-8BK(BCF),Boeing 737-8BK(BCF),0,ASL Airlines Ireland,ABR,33023,2005
 440D97,OE-EMI,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2263,2023

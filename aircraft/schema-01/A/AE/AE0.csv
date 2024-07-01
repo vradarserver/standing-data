@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AE018A,84-0096,LJ35,Gates Learjet,C-21A,Gates Learjet C-21A,0,Air Mobility Command,RCH,35A-542,
+AE01AE,84-0085,LJ35,Gates,C-21A,Gates C-21A,0,Air Mobility Command,RCH,35A-531,
 AE01C9,64-14841,R135,Boeing,RC-135V Rivet Joint,Boeing RC-135V Rivet Joint,0,United States Air Force,AIO,18781,
 AE01CC,62-4131,R135,Boeing,RC-135W,Boeing RC-135W,0,United States Air Force,AIO,18471,1962
 AE01CE,62-4134,R135,Boeing,RC-135W,Boeing RC-135W,0,United States Air Force,AIO,18474,1962

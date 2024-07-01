@@ -52,6 +52,7 @@
 500293,T7-SAB,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Gama Aviation,GMA,1589,2001
 500295,T7-0302,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5427,
 500296,T7-CZW,B737,Boeing,737-7JW(BBJ),Boeing 737-7JW(BBJ),1,Private,,38408,2013
+50029A,T7-DAL,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9688,2015
 50029D,T7-BLACK,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9110,
 50029F,T7-24J,C425,Cessna,425 Conquest I,Cessna 425 Conquest I,1,Private,,425-0208,1984
 5002A2,T7-BRE,CL60,Bombardier,CL-600 Challenger 650,Bombardier CL-600 Challenger 650,0,Barents Air,,,
@@ -105,6 +106,7 @@
 500333,T7-L007,A320,Airbus,A320-214,Airbus A320-214,1,Private,,2708,2006
 500335,T7-ALEX1,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9155,2004
 50033A,T7-OAK,CL60,Challenger,604,Challenger 604,0,Empire Aviation San Marino,,5574,
+50033E,T7-SUE,GLF4,Gulfstream,G400,Gulfstream G400,1,Private,,1522,2004
 50033F,T7-HOLTZ,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Avcon Jet San Marino,VAJ,9405,2010
 500346,T7-OFI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southern Cross International,SXI,63970,2018
 500347,T7-OFM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Airfast Indonesia,AFE,64993,2018
@@ -118,10 +120,18 @@
 50036F,T7-2828,LJ60,LearJet,60,LearJet 60,1,Private,,60-368,
 500371,T7-5678,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5060,2010
 500379,T7-N1960,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Luxaviation San Marino,LSM,14501208,2014
+50037A,T7-TRX,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60077,2022
 50037B,T7-YMA,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73138,2023
 50037C,T7-TURTL,E545,Embraer,EMB-545 Praetor 500,Embraer EMB-545 Praetor 500,0,Turtle Airways,TLT,55010123,
 50037E,T7-MBS,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,0,,,006,
 500383,T7-2LX,F2TH,Dassault,Falcon 200LX,Dassault Falcon 200LX,0,Empire Aviation San Marino,,188,
 500386,T7-Z00M,PC12,Pilatus,PC XII/NGX,Pilatus PC XII/NGX,1,Private,,2071,2021
+500388,T7-MAHA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
+50038A,T7-CDV,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70175,
 50038E,T7-NEX,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9780,
+50038F,T7-SEI,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,,
+500391,T7-333,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6328,
 50039A,T7-EZ222,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6528,2022
+50039F,T7-1HC,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6181,2015
+5003A6,T7-IRL,GA7C,Gulfstream,G700,Gulfstream G700,0,Highland Aviation,,87013,2024
+5003B9,T7-FFI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Luxaviation San Marino,LSM,69,2009
