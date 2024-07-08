@@ -6,30 +6,30 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 150,969 |
-| `Piet Delagrense`              | 117,745 |
+| `dirkhh`                       | 152,897 |
+| `Piet Delagrense`              | 118,344 |
 | `vand`                         | 51,601 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 20,547 |
-| `sib64`                        | 16,749 |
+| `科罗娜`                          | 20,554 |
+| `sib64`                        | 16,801 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,465 |
+| `Lanorge`                      | 15,496 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 8,584 |
+| `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,263 |
+| `Markus`                       | 6,294 |
 | `McBridden`                    | 5,966 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 3,454 |
+| `aircraftenthusiast2000`       | 3,479 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -44,7 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
-| `Gavin-D`                      | 2,087 |
+| `Gavin-D`                      | 2,088 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,776 |
 | `Rosen85`                      | 1,763 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,174 |
-| `Daniel.cornejo.campos`        | 1,136 |
+| `Daniel.cornejo.campos`        | 1,140 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
-| `SQ5IRZ`                       | 760 |
+| `SQ5IRZ`                       | 762 |
 | `wogman`                       | 731 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
@@ -118,8 +118,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
 | `Joaquin`                      | 406 |
+| `kirkmayers`                   | 397 |
 | `Avioradar.com`                | 396 |
-| `kirkmayers`                   | 394 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
@@ -157,8 +157,8 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `Franck Dosdane`               | 196 |
-| `Alexey`                       | 195 |
+| `Franck Dosdane`               | 198 |
+| `Alexey`                       | 196 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 188 |
 | `aviatic`                      | 182 |

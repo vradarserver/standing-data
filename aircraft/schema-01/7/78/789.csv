@@ -16,6 +16,7 @@
 789250,B-HUM,EXPL,MD Helicopters,MD-900 Explorer,MD Helicopters MD-900 Explorer,0,Heliservices (HK),HSV,900-00131,2009
 789253,B-LCV,A20N,Airbus,A320-271N,Airbus A320-271N,0,Hong Kong Express Airways,HKE,10414,2021
 789254,B-KJA,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42277,2017
+789256,B-KHW,R44,Robinson,R-44 Raven,Robinson R-44 Raven,0,China Rotor,,1954,
 789260,B-KJB,B738,Boeing,737-8JP,Boeing 737-8JP,0,Greater Bay Airlines,HGB,42279,2017
 789262,B-HEK,EXPL,MD Helicopters,MD-902 Explorer,MD Helicopters MD-902 Explorer,0,Heliservices (HK),HSV,900-00120,2006
 789263,B-HPI,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Cathay Pacific,CPA,10853,2022
@@ -46,6 +47,7 @@
 78927F,B-KKC,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11578,2023
 789280,B-KKD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11684,2023
 789284,B-KKE,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11768,2024
+789285,B-KKF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11795,2024
 789287,B-KKH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Hong Kong Express Airways,HKE,11946,2024
 789288,B-KJE,B738,Boeing,737-83Z(WL),Boeing 737-83Z(WL),0,Greater Bay Airlines,HGB,61268,2015
 789289,B-KJF,B738,Boeing,737-83Z(WL),Boeing 737-83Z(WL),0,Greater Bay Airlines,HGB,61269,2015
