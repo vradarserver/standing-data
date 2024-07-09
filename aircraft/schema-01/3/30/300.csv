@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+300100,I-OORS,P68,VulcanAir,P-68 Observer,VulcanAir P-68 Observer,1,Private,,338-25/OB,
 300466,I-TORG,AS50,Eurocopter,AS-350 Ecureuil,Eurocopter AS-350 Ecureuil,0,Elitellina,FGS,4922,2018
 3004AE,I-LARU,ECHO,Tecnam,P92 Echo,Tecnam P92 Echo,1,Private,,,
 300582,I-CFAG,S64,Sikorsky,S-64 Skycrane,Sikorsky S-64 Skycrane,0,Vigili del Fuoco,,64-088,
