@@ -6,30 +6,30 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 152,897 |
-| `Piet Delagrense`              | 118,344 |
+| `dirkhh`                       | 154,743 |
+| `Piet Delagrense`              | 118,800 |
 | `vand`                         | 51,601 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 20,554 |
-| `sib64`                        | 16,801 |
+| `科罗娜`                          | 20,555 |
+| `sib64`                        | 16,892 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,496 |
+| `Lanorge`                      | 15,512 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,294 |
+| `Markus`                       | 6,314 |
 | `McBridden`                    | 5,966 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 3,479 |
+| `aircraftenthusiast2000`       | 3,530 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -44,7 +44,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
-| `Gavin-D`                      | 2,088 |
+| `Gavin-D`                      | 2,089 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,776 |
 | `Rosen85`                      | 1,763 |
@@ -53,7 +53,7 @@ Please note that credit files are updated less frequently than the data files.
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
 | `andrw`                        | 1,519 |
-| `UA4WIY`                       | 1,450 |
+| `UA4WIY`                       | 1,451 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
 | `Brian Leyton`                 | 1,422 |
@@ -283,10 +283,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
 | `marm0t`                       | 45 |
+| `Seb Gray`                     | 44 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
 | `Ruan Zhen Hua`                | 43 |
-| `Seb Gray`                     | 43 |
 | `Chris123`                     | 42 |
 | `Obaek`                        | 42 |
 | `franckdosdane`                | 41 |
