@@ -643,7 +643,7 @@ PC12,Pilatus,U-28,1,T,,L,L,1
 PC12,Pilatus,Eagle,1,T,,L,L,0
 PC12,Pilatus,Spectre,1,T,,L,L,0
 PC21,Pilatus,PC-21,1,T,,L,L,1
-PC24,Pilatus,PC-24,2,J,,L,M,1
+PC24,Pilatus,PC-24,2,J,A,L,M,1
 PC6P,Pilatus,PC-6 Porter,1,P,,L,L,1
 PC6P,Pilatus,Porter,1,P,,L,L,0
 PC6T,Fairchild,PC-6 Heli-Porter,1,T,,L,L,1

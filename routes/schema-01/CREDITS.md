@@ -6,14 +6,14 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 154,743 |
-| `Piet Delagrense`              | 118,800 |
+| `dirkhh`                       | 155,705 |
+| `Piet Delagrense`              | 119,274 |
 | `vand`                         | 51,601 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 20,555 |
-| `sib64`                        | 16,892 |
+| `科罗娜`                          | 20,742 |
+| `sib64`                        | 16,928 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Lanorge`                      | 15,512 |
 | `Jon Fear`                     | 13,536 |
@@ -23,7 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `Markus`                       | 6,314 |
-| `McBridden`                    | 5,966 |
+| `McBridden`                    | 5,968 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
 | `elljay`                       | 4,631 |
@@ -53,7 +53,7 @@ Please note that credit files are updated less frequently than the data files.
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
 | `andrw`                        | 1,519 |
-| `UA4WIY`                       | 1,451 |
+| `UA4WIY`                       | 1,452 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
 | `Brian Leyton`                 | 1,422 |
@@ -68,7 +68,7 @@ Please note that credit files are updated less frequently than the data files.
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
 | `kma371`                       | 1,109 |
-| `Dauren`                       | 1,098 |
+| `Dauren`                       | 1,100 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
 | `TEMU1086`                     | 998 |
@@ -109,9 +109,9 @@ Please note that credit files are updated less frequently than the data files.
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
+| `britiger`                     | 440 |
 | `squawk7000`                   | 431 |
 | `Cristian Amaya`               | 426 |
-| `britiger`                     | 423 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
@@ -156,8 +156,8 @@ Please note that credit files are updated less frequently than the data files.
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
+| `Franck Dosdane`               | 199 |
 | `Alex Bodle`                   | 198 |
-| `Franck Dosdane`               | 198 |
 | `Alexey`                       | 196 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 188 |
