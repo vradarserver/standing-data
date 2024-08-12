@@ -4,6 +4,7 @@
 424500,VQ-BHK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,440,2018
 424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
 424502,VQ-BHE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39868,2015
+424504,VQ-BIG,A332,Airbus,A330-243 Prestige,Airbus A330-243 Prestige,0,Jet Aviation,PJS,1751,2016
 424505,VQ-BMS,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Las Vegas Sands,,00910,1999
 424507,VQ-BLU,E75S,Embraer,E175STD,Embraer E175STD,0,BermudAir,BMA,17000344,2012
 424508,VQ-BLW,E75S,Embraer,E175STD,Embraer E175STD,0,BermudAir,,17000351,2012
@@ -102,6 +103,7 @@
 424BC9,M-MBLY,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6456,2021
 424BCC,M-SFPL,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9692,2014
 424BCF,M-TOMY,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000371,2016
+424BD0,M-KAPP,A109,Agusta,A109C,Agusta A109C,0,Flexible Trading,,7630,
 424BD1,M-ERRY,A109,Leonardo,AW109SP,Leonardo AW109SP,1,Private,,22291,2012
 424BD4,M-LJCR,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,59,2009
 424BD6,M-ARKS,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.173,
@@ -164,5 +166,8 @@
 424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,,FL-1331,2024
 424C5D,M-LUBB,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0271,1998
 424C60,M-ARNZ,PC24,Pilatus,PC-24,Pilatus PC-24,0,BAE Systems,BAE,521,2024
+424C62,M-BIZZ,GLF6,Gulfstream,650ER,Gulfstream 650ER,0,Jet Concierge Club,JCO,6571,2024
 424C64,M-ABSX,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6134,2018
 424C6B,M-ANDY,E35L,Embraer,Legacy 650E,Embraer Legacy 650E,1,Private,,14501224,2016
+424C6C,M-DOGA,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,1,Private,,2228,
+424C6F,M-OTTO,GALX,Gulfstream Aerospace,G200,Gulfstream Aerospace G200,1,Private,,222,

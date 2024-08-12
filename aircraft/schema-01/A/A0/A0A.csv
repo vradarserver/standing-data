@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A0A143,N14KL,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73080,2022
+A0A2E1,N140BZ,E195,Embraer,195,Embraer 195,0,Breeze Airways,MXY,19000244,2009
 A0A54A,N14016,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,United Airlines,UAL,66985,2022
 A0A54D,N14019,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,United Airlines,UAL,66988,2022
 A0AA7C,N142DU,BCS1,Airbus,A220-100,Airbus A220-100,0,Delta Air Lines,DAL,50060,2022

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A69060,N522AD,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Silver Air,SIS,20664,2016
 A690A8,N522DA,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11154,2022
+A690BF,N522DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,673,2024
 A69177,N522MH,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Executive Jet Management,EJM,6486,2021
 A69198,N522NR,B738,Boeing,737-8ZE(BBJ2),Boeing 737-8ZE(BBJ2),1,Private,,42215,2014
 A69463,N523DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11236,2023

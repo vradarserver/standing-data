@@ -35,11 +35,13 @@ AC3AA8,N8873S,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67
 AC3AC9,N8874Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67919,2023
 AC3ADF,N8875B,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67918,2023
 AC3B32,N8877Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67917,2023
+AC3B51,N8878L,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67914,2023
 AC3B78,N8879Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42681,2023
 AC3BE7,N888DQ,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72048,2019
 AC3C25,N888GB,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5771,2008
 AC3C49,N888HN,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,198,2020
 AC3C5A,N888JE,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5070,2005
+AC3C7E,N888KR,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20922,2022
 AC3C86,N888KZ,GLF5,Gulfstream,G550,Gulfstream G550,0,Executive Jet Management,EJM,5309,2010
 AC3C8B,N888LD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5372,2012
 AC3CEF,N888QD,E550,Embraer,EMB-550 Legacy 500,Embraer EMB-550 Legacy 500,1,Private,,55000045,2016
@@ -49,6 +51,8 @@ AC3E3A,N8882Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67
 AC3E80,N8884Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67966,2023
 AC3EA3,N8885Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67961,2023
 AC3EBA,N8886C,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67962,2023
+AC3EE9,N8887Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,67964,2023
+AC3F2F,N8889Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42682,2023
 AC3F4C,N889AH,GLF5,Gulfstream,V,Gulfstream V,0,Pegasus Elite Aviation,PEG,512,1996
 AC3F7E,N889CH,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Pegasus Elite Aviation,PEG,6118,2015
 AC3F81,N889CL,B738,Boeing,737-8LZ (BBJ2),Boeing 737-8LZ (BBJ2),0,Pasaca Capital,,42510,2013

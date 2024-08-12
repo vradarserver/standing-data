@@ -8,6 +8,7 @@
 49D135,OK-WAY,CL60,Bombardier,Challenger CL605,Bombardier Challenger CL605,0,Eclair Aviation,ECC,5953,2014
 49D262,OK-ZDR,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2185,
 49D33D,OK-NEO,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Alpha Aviation,AAO,50000443,2023
+49D387,OK-PHO,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,0,CTR Atmospherica Aviation,,50500709,
 49D390,OK-MIT,C340,Cessna,340A,Cessna 340A,0,PRIMIS,,340A0355,1977
 49D39B,OK-BII,BE40,Raytheon Aircraft Company,400 A,Raytheon Aircraft Company 400 A,0,Jetbee Czech,JBC,RK-318,
 49D3BB,OK-IOO,A320,Airbus,A320-214,Airbus A320-214,0,Czech Airlines,CSA,3762,2009
@@ -34,6 +35,8 @@
 49D558,OK-HUB,GLF5,Gulfstream,G500,Gulfstream G500,0,ABS Jets,ABP,72113,
 49D563,OK-SWI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Smartwings,TVS,66343,2023
 49D56E,OK-PHA,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500611,2021
+49D570,OK-PET,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,0,Aeropartner,DFC,680-0174,
+49D57B,OK-CER,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,OK Business Aircraft,NTF,2303,2023
 49D588,OK-UMO,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0220,2008
 49D58D,OK-EXE,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2243,
 49D5A4,OK-SKT,BE9L,Beech,C90GTi King Air,Beech C90GTi King Air,1,Private,,LJ-1900,

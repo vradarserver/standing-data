@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A540E3,N438AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10641,2021
+A5417E,N438GT,B744,Boeing,747-409F,Boeing 747-409F,0,Atlas Air,GTI,30766,2002
 A54294,N438TW,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Tradewind Aviation,GPD,2352,2024
 A5449A,N439AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10623,2021
 A548E3,N44GJ,GLF4,Gulfstream Aerospace,G300,Gulfstream Aerospace G300,0,Mira Vista Aviation,,1508,2003
@@ -10,6 +11,7 @@ A54A3F,N44WG,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,
 A54AAA,N440AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10643,2021
 A54ACA,N440BV,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0199,
 A54ACF,N440C,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70121,2022
+A54B41,N440GP,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,085,2001
 A54B65,N440J,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,MAV 4,,70153,2023
 A54B85,N440KG,BE20,Beech,King Air 260,Beech King Air 260,1,Private,,BY-440,2022
 A54BEB,N440PJ,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,1,Private,,560-5537,

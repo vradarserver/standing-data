@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+491118,CS-DHX,LJ40,LearJet,40,LearJet 40,0,PHS Premier,,45-2019,
 4911F4,CS-DOT,C25A,Cessna,525A Citation CJ2+,Cessna 525A Citation CJ2+,0,Valair-Aviaco,VVV,525A-0389,
 4911F7,CS-DOW,C560,Cessna,560 Citation V,Cessna 560 Citation V,0,Taespejo Portugal,,,
 491267,CS-DSG,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Executive Jet Management Europe,JME,9843,2018
@@ -8,6 +9,7 @@
 491492,CS-EDR,C152,Cessna,152,Cessna 152,0,Nortavia,,15282550,
 491496,CS-EDV,C152,Cessna,152,Cessna 152,1,Private,,15282864,
 491541,CS-EJA,C56X,Cessna,Citation XLS,Cessna Citation XLS,0,NetJets Europe,NJE,560-5520,2004
-491673,CS-ESS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,EJM Europe,,70068,2020
+491673,CS-ESS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Executive Jet Management Europe,JME,70068,2020
 491D8A,CS-GLJ,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,NetJets Europe,NJE,60049,
 491D8B,CS-GLK,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,NetJets Europe,NJE,60068,2022
+491D8C,CS-GLL,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60127,2024

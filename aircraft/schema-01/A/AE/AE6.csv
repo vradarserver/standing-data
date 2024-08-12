@@ -9,6 +9,9 @@ AE63B5,20-46073,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2
 AE63B6,20-46074,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41895,2022
 AE63B8,20-46076,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,United States Air Force,AIO,41896,2022
 AE63BA,20-46078,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,1269,2022
+AE63BB,20-46079,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41898,2023
+AE63BE,20-46082,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41901,2023
+AE63C3,21-46087,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41907,2023
 AE640B,11-0059,V22,Bell Boeing,CV-22B Osprey,Bell Boeing CV-22B Osprey,0,United States Air Force,AIO,D1039,
 AE6481,19-21047,H60,Sikorsky,UH-60M Black Hawk,Sikorsky UH-60M Black Hawk,0,United States Army,,,
 AE64BC,168684,V22,Bell-Boeing,V-22 Osprey,Bell-Boeing V-22 Osprey,0,United States Marine Corps,,,
@@ -19,12 +22,14 @@ AE6795,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A
 AE6796,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE679A,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE679D,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
+AE67AD,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67B1,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67B8,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE67B9,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67BD,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE67BF,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67C9,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
+AE67CD,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67D2,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE67E8,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67FA,VARIOUS,P8,Boeing,P-8A Poseidon (737-8FV),Boeing P-8A Poseidon (737-8FV),0,United States Navy,CNV,,
@@ -36,23 +41,27 @@ AE6828,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A
 AE6830,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6834,,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE6842,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
+AE6846,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6847,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE684F,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6858,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE6863,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE686F,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
+AE6872,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6878,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE687E,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6894,VARIOUS,P8,Boeing,P-8A Poseidon (737-8FV),Boeing P-8A Poseidon (737-8FV),0,United States Navy,CNV,,
 AE6895,169332,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,62698,
 AE689E,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE68A0,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
+AE68AC,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE68AE,99-3106,D328,Dornier,C-146A Wolfhound,Dornier C-146A Wolfhound,0,Air Mobility Command,RCH,3106,
 AE6917,18-5919,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5919,
 AE6959,19-5927,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5927,2021
 AE695C,19-5934,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5934,
 AE695D,19-5936,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5936,2019
 AE695F,19-5942,C130,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,AIO,5942,
+AE6960,19-5945,C30J,Lockheed Martin,C-130J Super Hercules,Lockheed Martin C-130J Super Hercules,0,Air Mobility Command,RCH,382-5945,
 AE6A15,170040,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5918S,
 AE6A3A,170013,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,66976,2022
 AE6A6D,79-1711,DC10,McDonnell Douglas,KC-10A Extender,McDonnell Douglas KC-10A Extender,0,United States Air Force,AIO,48203,

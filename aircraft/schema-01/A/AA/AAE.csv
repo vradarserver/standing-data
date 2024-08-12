@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AAE09F,N80MH,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,108,
+AAE1F1,N800AV,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,Avianca,AVA,36526,2015
 AAE273,N800G,GA8C,Gulfstream,G800,Gulfstream G800,0,Gulfstream Aerospace,,88001,2022
 AAE2CA,N800KM,F900,Dassault,Falcon 900B,Dassault Falcon 900B,1,Private,,120,1993
 AAE4E2,M41-04,BE20,Beech,King Air B200T,Beech King Air B200T,0,Royal Malaysian Air Force,RMF,BT-38,

@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A6F01C,N546VL,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,10846,2022
+A6F04C,N546XJ,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Vista America,VJA,20280,2009
 A6F23D,N547DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11595,2024
 A6F3D3,N547VL,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris,VOI,11258,2022
 A6F5FC,N548DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11620,2023
@@ -7,6 +8,7 @@ A6F78A,N548VL,A20N,Airbus,A320-271N,Airbus A320-271N,0,Volaris Costa Rica,VOC,11
 A6F993,N549CF,GLF5,Gulfstream,V,Gulfstream V,1,Private,,519,1997
 A6F9B3,N549DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11693,2023
 A6FD72,N55DW,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1624,2016
+A6FDA8,N55G,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0116,2017
 A6FE73,N55QC,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5495,2014
 A6FF0E,N55WH,P46T,Piper,PA-46 JetPROP,Piper PA-46 JetPROP,1,Private,,4636204,1999
 A6FFC3,N550DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11734,2023

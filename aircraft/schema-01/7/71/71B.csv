@@ -1,4 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+71BA14,HL7214,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,0,Sharp Aviation K,,525-0505,2002
 71BA15,HL7215,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Jin Air,JNA,63444,2024
+71BA16,HL7216,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Jin Air,JNA,63442,2024
+71BA17,HL7217,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Jin Air,JNA,63445,2024
 71BE43,22-001,B748,Boeing,747-8B5,Boeing 747-8B5,0,Government of South Korea,,60410,2016
 71BF01,HL7701,A333,Airbus,A330-323,Airbus A330-323,0,Korean Air,KAL,425,2001
+71BF18,HL7718,B739,Boeing,737NG 9B5,Boeing 737NG 9B5,0,Jin Air,JNA,29996,2003

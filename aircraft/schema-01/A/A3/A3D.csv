@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A3D014,N345CA,P212,Tecnam,P-2012 Traveller,Tecnam P-2012 Traveller,0,Cape Air,KAP,036/US,2021
 A3D04B,N345EF,SR20,Cirrus,SR-20,Cirrus SR-20,1,Private,,2731,2021
 A3D0E6,N345LL,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,SYL LLC,,6370,2019
 A3D508,N346QT,B463,BAe,146-300(QT),BAe 146-300(QT),0,Everts Air,VTS,E3186,1990
 A3D779,N347BS,FA50,Dassault,Falcon 50,Dassault Falcon 50,1,Private,,306,
 A3D90A,N347TT,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,44489,2024
 A3DB0C,N348AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2348,2023
+A3DCC2,N348TU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,44492,2024

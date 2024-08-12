@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A732A2,N563FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20895,2021
+A73627,N564DX,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60124,2024
 A73659,N564FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20869,
 A736C1,N564LA,B763,Boeing,767-316,Boeing 767-316,0,LAN Cargo,LAE,40593,2012
 A73A1C,N565GJ,CRJ7,Canadair,CL-600-2C11,Canadair CL-600-2C11,0,GoJet Airlines,GJS,10087,2003

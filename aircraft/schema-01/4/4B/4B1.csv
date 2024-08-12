@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4B10DD,HB-GKB,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BY-302,
+4B1339,HB-HHH,PC7,Pilatus,PC-7 Mk.II,Pilatus PC-7 Mk.II,0,Pilatus Flugzeugwerke,PCH,1000,2019
 4B1520,HB-IAA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Nomad Aviation,,224,
 4B1606,HB-IIW,GLF5,Gulfstream,G550,Gulfstream G550,0,Jet Aviation,PJS,5415,2013
 4B180C,HB-JCU,BCS3,Airbus,A220-300,Airbus A220-300,0,Swiss,SWR,55110,2021
@@ -28,7 +29,9 @@
 4B19B4,HB-JTC,F2TH,Dassault,Falcon 2000S,Dassault Falcon 2000S,0,Boutique Aviation,BQA,715,2014
 4B19B9,HB-JTH,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,484,2020
 4B19C0,HB-JTO,FA6X,Falcon,6X,Falcon 6X,0,Cat Aviation,CAZ,5,
+4B19E6,HB-JVA,E195,Embraer,E195AR,Embraer E195AR,0,Helvetic Airways,OAW,19000491,2011
 4B19EF,HB-JVJ,E195,Embraer,E195AR,Embraer E195AR,0,Helvetic Airways,OAW,19000386,2010
+4B19FC,HB-JVW,E195,Embraer,E195AR,Embraer E195AR,0,Helvetic Airways,OAW,19000434,2011
 4B19FD,HB-JVX,E190,Embraer,190,Embraer 190,0,Helvetic Airways,OAW,19000603,2013
 4B19FE,HB-JVY,E190,Embraer,190,Embraer 190,0,Helvetic Airways,OAW,19000607,2013
 4B1A2C,HB-JXS,A320,Airbus,A320-214,Airbus A320-214,0,easyJet Switzerland,EZS,6675,2015
@@ -40,3 +43,4 @@
 4B1F2D,HB-LUZ,P68,VulcanAir,P.68C Victor,VulcanAir P.68C Victor,0,Swiss Flight Services,SFS,470,2012
 4B1F40,HB-LVS,P212,Tecnam,P-2012 Traveller,Tecnam P-2012 Traveller,0,Swiss Flight Services,SFS,050,
 4B1F48,HB-LWA,DA42,Diamond,DA 42-VI,Diamond DA 42-VI,1,Private,,42N499,
+4B1F4D,HB-LWF,DA42,Diamond,DA 42-VI,Diamond DA 42-VI,1,Private,,42.N115,2013

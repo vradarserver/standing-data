@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A9101C,N683TY,R44,Robinson,R-44 Raven,Robinson R-44 Raven,1,Private,,14462,2021
+A91215,N684AB,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.170,2021
 A91223,N684AR,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,BUA Delaware Inc,,60071,
+A9128D,N684EX,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,Tunisia - Air Force,,208B5684,2022
 A91338,N684MT,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Executive Jet Management,EJM,6209,2016
 A915DA,N685AR,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20962,2023
 A91672,N685GT,T210,Cessna,T210N Turbo Centurion,Cessna T210N Turbo Centurion,1,Private,,21063361,

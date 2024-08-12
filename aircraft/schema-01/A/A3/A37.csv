@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A3711A,N3203J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55289,2024
 A37215,N321AP,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,264,2013
 A37265,N321DU,BCS3,Airbus,A220-300,Airbus A220-300,0,Delta Air Lines,DAL,55256,2023
 A37274,N321EJ,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Talon Air,TFF,087,1999

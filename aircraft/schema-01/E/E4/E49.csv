@@ -60,6 +60,8 @@ E49A88,PS-LOP,GALX,Gulfstream,G200,Gulfstream G200,1,Private,,0234,2010
 E49AAA,PR-XBO,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11572,2023
 E49ACD,PS-FFT,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5138,2006
 E49B0A,PS-PJM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5334,2011
+E49B34,PS-SLP,ASTR,Gulfstream,G100,Gulfstream G100,1,Private,,082,1996
+E49B51,PS-GRA,A339,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44031,2023
 E49B52,PS-GRB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44021,2023
 E49B53,PS-GRC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44023,2023
 E49B9F,PS-APM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9875,2019
@@ -77,6 +79,8 @@ E49D22,PR-YSP,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasi
 E49D24,PS-AER,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020109,2023
 E49D51,PS-ESP,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5033,
 E49DDA,PS-ATF,BE9L,Beech,C90B King Air,Beech C90B King Air,1,Private,,LJ-1595,2000
+E49DDD,PS-CGM,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500780,2024
+E49E51,PS-ODF,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6384,2019
 E49E5A,PR-USK,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501011,2007
 E49EB5,PR-NGX,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2019,2020
 E49FA5,PS-CMQ,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500181,2014

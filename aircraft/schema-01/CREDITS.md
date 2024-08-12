@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 2,914 |
-| `aircraftenthusiast2000` | 1,903 |
+| `Peter Hutt`             | 3,084 |
+| `aircraftenthusiast2000` | 2,001 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,434 |
+| `科罗娜`                    | 1,504 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 224 |
+| `BudBundi`               | 229 |
 | `andrw`                  | 186 |
-| `Lanorge`                | 158 |
+| `Lanorge`                | 177 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 63 |
+| `vrsspotter73`           | 64 |
+| `Ljubo`                  | 54 |
 | `britiger`               | 53 |
 | `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
-| `Ljubo`                  | 44 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
@@ -37,7 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
 | `kiwikieran`             | 9 |
-| `Luis Cova`              | 8 |
+| `Luis Cova`              | 9 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
@@ -48,6 +48,7 @@ Please note that credit files are updated less frequently than the data files.
 | `neslin`                 | 5 |
 | `struart`                | 5 |
 | `thecowan`               | 4 |
+| `wogman`                 | 4 |
 | `ews997881`              | 3 |
 | `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
@@ -59,6 +60,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
 | `Bobby Mhor`             | 2 |
+| `Cocorote`               | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
 | `Manny`                  | 2 |
@@ -88,6 +90,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ranger15`               | 1 |
 | `Santi_levt`             | 1 |
 | `Skiprat`                | 1 |
+| `strnmn`                 | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |
 | `UA4WIY`                 | 1 |

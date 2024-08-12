@@ -7,11 +7,11 @@ Please note that credit files are updated less frequently than the data files.
 | Name                    | Contributions |
 | :--                     | --: |
 | `Andrew`                | 414 |
-| `Piet Delagrense`       | 180 |
-| `科罗娜`                   | 130 |
+| `Piet Delagrense`       | 185 |
+| `科罗娜`                   | 131 |
 | `Lanorge`               | 93 |
 | `EDDG`                  | 76 |
-| `britiger`              | 70 |
+| `britiger`              | 72 |
 | `vand`                  | 64 |
 | `Peter Hutt`            | 40 |
 | `sib64`                 | 38 |
