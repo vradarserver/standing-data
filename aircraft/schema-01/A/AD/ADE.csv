@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ADE2B5,N994NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,11951,2024
+ADE53C,N995AF,PC12,Pilatus,PC-12,Pilatus PC-12,0,PlaneSense,CNS,2095,2021
 ADE55C,N995BN,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2279,
 ADE588,N995DG,TBM8,SOCATA,TBM-850,SOCATA TBM-850,1,Private,,662,2013
 ADE92A,N996CL,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20996,

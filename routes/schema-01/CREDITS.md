@@ -6,14 +6,14 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 158,491 |
-| `Piet Delagrense`              | 120,520 |
+| `dirkhh`                       | 161,163 |
+| `Piet Delagrense`              | 120,953 |
 | `vand`                         | 51,601 |
 | `Pascal Ensinck`               | 26,310 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
 | `科罗娜`                          | 20,978 |
-| `sib64`                        | 17,098 |
+| `sib64`                        | 17,115 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Lanorge`                      | 15,544 |
 | `Jon Fear`                     | 13,536 |
@@ -29,7 +29,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 3,693 |
+| `aircraftenthusiast2000`       | 3,720 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,174 |
-| `Daniel.cornejo.campos`        | 1,142 |
+| `Daniel.cornejo.campos`        | 1,143 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -102,9 +102,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
+| `topoguido`                    | 495 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `topoguido`                    | 481 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -203,7 +203,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
-| `Ljubo`                        | 110 |
+| `Ljubo`                        | 111 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |

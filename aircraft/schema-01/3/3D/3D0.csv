@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3D0000,D-MIPM,FK9,FK Lightplanes,FK9 Mark IV,FK Lightplanes FK9 Mark IV,1,Private,,,
 3D04CF,D-EABN,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,3617,
+3D058F,D-EAIX,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,8612,
 3D0591,D-EAIZ,PIVI,Pipistrel,Virus,Pipistrel Virus,1,Private,,AT01-105,
 3D0600,D-EANG,C182,Cessna,T182 Turbo Skylane,Cessna T182 Turbo Skylane,1,Private,,18281559,
 3D060E,D-EANU,RV8,Van's,RV-8,Van's RV-8,1,Private,,83187,

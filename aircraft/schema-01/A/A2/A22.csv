@@ -1,4 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A222B2,N237BZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Breeze Airways,MXY,55285,2024
+A222BF,N237CM,B763,Boeing,767-333(ER)(BCF),Boeing 767-333(ER)(BCF),0,Amerijet International,AJT,25584,1995
 A2235B,N237JT,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500166,2014
 A22723,N238KK,C25B,Cessna,525B Citation CJ3+,Cessna 525B Citation CJ3+,1,Private,,525B-0653,2021
 A229FD,N239AP,SR20,Cirrus,SR-20,Cirrus SR-20,1,Private,,8616,2022

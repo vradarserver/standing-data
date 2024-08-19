@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A6709B,N514DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11126,2022
 A670CA,N514FB,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20913,2022
+A670DE,N514FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20998,2024
 A671F2,N514SY,E75L,Embraer,ERJ-170-200 LR,Embraer ERJ-170-200 LR,0,SkyWest Airlines,SKW,17000895,2021
 A67405,N515AC,P28A,Piper,Pilot 100I,Piper Pilot 100I,1,Private,,28020037,2021
 A6740D,N515AL,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,8723,
@@ -18,5 +19,6 @@ A67BC8,N517DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,110
 A67BD3,N517DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,0545,2022
 A67D17,N517SY,E75L,Embraer,ERJ-170-200 LR,Embraer ERJ-170-200 LR,0,SkyWest Airlines,SKW,17000898,2021
 A67D66,N517WB,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6554,2023
+A67F2F,N518AH,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,8617,2018
 A67F81,N518DQ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11122,2022
 A67F8A,N518DZ,A359,Airbus,A350-941,Airbus A350-941,0,Delta Air Lines,DAL,580,2022

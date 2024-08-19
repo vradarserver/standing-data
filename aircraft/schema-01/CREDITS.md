@@ -7,22 +7,22 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `Peter Hutt`             | 3,084 |
-| `aircraftenthusiast2000` | 2,001 |
+| `aircraftenthusiast2000` | 2,087 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,504 |
+| `科罗娜`                    | 1,506 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 229 |
+| `BudBundi`               | 233 |
 | `andrw`                  | 186 |
-| `Lanorge`                | 177 |
+| `Lanorge`                | 179 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 64 |
-| `Ljubo`                  | 54 |
+| `vrsspotter73`           | 66 |
+| `Ljubo`                  | 60 |
+| `Rebelvenice2`           | 57 |
 | `britiger`               | 53 |
-| `Rebelvenice2`           | 52 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
@@ -50,6 +50,7 @@ Please note that credit files are updated less frequently than the data files.
 | `thecowan`               | 4 |
 | `wogman`                 | 4 |
 | `ews997881`              | 3 |
+| `Manny`                  | 3 |
 | `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
@@ -63,7 +64,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Cocorote`               | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
-| `Manny`                  | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |

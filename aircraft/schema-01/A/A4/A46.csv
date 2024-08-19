@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A46345,N382FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10565,2021
 A46449,N382SA,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20559,2015
+A46488,N382UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67971,2023
 A466C3,N383DJ,GLF4,Gulfstream Aerospace,IV,Gulfstream Aerospace IV,1,Private,,1383,2000
 A466FC,N383FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10584,2021
 A467F1,N383RL,B190,Beech,1900,Beech 1900,1,Private,,UE-383,1999
