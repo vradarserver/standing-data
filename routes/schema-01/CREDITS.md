@@ -6,30 +6,30 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 161,163 |
-| `Piet Delagrense`              | 121,258 |
-| `vand`                         | 51,601 |
-| `Pascal Ensinck`               | 26,310 |
+| `dirkhh`                       | 161,174 |
+| `Piet Delagrense`              | 121,635 |
+| `vand`                         | 51,606 |
+| `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 20,978 |
-| `sib64`                        | 17,131 |
+| `科罗娜`                          | 20,985 |
+| `sib64`                        | 17,168 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,554 |
+| `Lanorge`                      | 15,562 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,346 |
+| `Markus`                       | 6,357 |
 | `McBridden`                    | 5,968 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 3,775 |
+| `aircraftenthusiast2000`       | 3,800 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -53,7 +53,7 @@ Please note that credit files are updated less frequently than the data files.
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
 | `andrw`                        | 1,519 |
-| `UA4WIY`                       | 1,473 |
+| `UA4WIY`                       | 1,474 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
 | `Brian Leyton`                 | 1,422 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,174 |
-| `Daniel.cornejo.campos`        | 1,144 |
+| `Daniel.cornejo.campos`        | 1,146 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -203,7 +203,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
-| `Ljubo`                        | 111 |
+| `Ljubo`                        | 112 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
@@ -875,6 +875,7 @@ Please note that credit files are updated less frequently than the data files.
 | `andrewt`                      | 1 |
 | `Andy Edge`                    | 1 |
 | `Andy Swanson`                 | 1 |
+| `AndyB`                        | 1 |
 | `Antoine`                      | 1 |
 | `antoniolocandro`              | 1 |
 | `AOA`                          | 1 |
