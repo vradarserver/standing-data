@@ -7,22 +7,22 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 121,635 |
+| `Piet Delagrense`              | 122,004 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 20,985 |
-| `sib64`                        | 17,168 |
+| `科罗娜`                          | 21,128 |
+| `sib64`                        | 17,188 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,562 |
+| `Lanorge`                      | 15,568 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,357 |
+| `Markus`                       | 6,358 |
 | `McBridden`                    | 5,968 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,092 |
+| `Gavin-D`                      | 2,095 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,776 |
@@ -63,11 +63,11 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,174 |
-| `Daniel.cornejo.campos`        | 1,146 |
+| `Daniel.cornejo.campos`        | 1,147 |
 | `laurent`                      | 1,136 |
+| `Dauren`                       | 1,134 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
-| `Dauren`                       | 1,120 |
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
@@ -202,8 +202,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
+| `Ljubo`                        | 113 |
 | `Matze`                        | 113 |
-| `Ljubo`                        | 112 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
@@ -277,20 +277,20 @@ Please note that credit files are updated less frequently than the data files.
 | `Sgtpanda`                     | 49 |
 | `john mathieson`               | 48 |
 | `BC92`                         | 47 |
+| `franckdosdane`                | 47 |
 | `Jlatham23`                    | 46 |
 | `kabooz`                       | 46 |
 | `philipgm`                     | 46 |
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
-| `franckdosdane`                | 45 |
 | `marm0t`                       | 45 |
 | `Seb Gray`                     | 44 |
+| `vrsspotter73`                 | 44 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
 | `Ruan Zhen Hua`                | 43 |
 | `Chris123`                     | 42 |
 | `Obaek`                        | 42 |
-| `vrsspotter73`                 | 42 |
 | `Jayfp1202`                    | 41 |
 | `michael-levey`                | 41 |
 | `nf003`                        | 41 |
