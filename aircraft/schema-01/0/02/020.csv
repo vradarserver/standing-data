@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+02000F,CN-RGA,B744,Boeing,747-428,Boeing 747-428,0,Morocco Government,,25629,1993
 020118,CN-NMI,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,5206,2012
 020170,CN-EEE,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,227,2014
 020175,CN-NMP,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Maroc,MAC,5903,2013

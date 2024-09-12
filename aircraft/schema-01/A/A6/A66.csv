@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A660E3,N51UL,TBM8,SOCATA,TBM-850,SOCATA TBM-850,1,Private,,593,2011
 A66147,N51YL,TBM7,Socata,TBM-700,Socata TBM-700,1,Private,,330,2005
 A661BF,N510DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,10828,2022
 A66202,N510FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20963,2023
@@ -11,6 +12,8 @@ A665F9,N511JL,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,1,Private
 A6662B,N511LL,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2193,2022
 A6662E,N511LP,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2267,
 A666CD,N511SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000892,2021
+A6672F,N511WW,H25B,Hawker Beechcraft,750,Hawker Beechcraft 750,1,Private,,HB-11,2008
+A668E3,N512AF,P28A,Piper,Pilot,Piper Pilot,0,American Flyers,,28020043,2021
 A66912,N512CC,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1446,2001
 A6692D,N512DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11069,2022
 A66970,N512FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20978,2023
@@ -21,3 +24,4 @@ A66CE0,N513DA,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,109
 A66DBC,N513MW,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Reynolds Jet Management,,525-1132,2022
 A66DEA,N513PS,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,513,2024
 A66E3B,N513SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000894,2021
+A66E58,N513UB,GALX,Gulfstream Aerospace,G200,Gulfstream Aerospace G200,0,STAjets,,126,2005

@@ -38,7 +38,7 @@
 4246A2,VP-BMG,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67454,2023
 4246A3,VP-BMU,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67455,2023
 4246A4,VP-BUG,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,040,
-4246A5,VP-BSS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,,,5626,2005
+4246A5,VP-BSS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet,SJM,6448,
 4246A8,VP-BMH,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Las Vegas Sands,,1589,2001
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
@@ -146,6 +146,7 @@
 424C37,M-ABRZ,A320,Airbus,A320-214,Airbus A320-214,1,Private,,4399,2010
 424C3C,M-NWVM,B737,Boeing,737-7GV(BBJ),Boeing 737-7GV(BBJ),1,Private,,36090,2007
 424C3D,M-OUSY,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2261,2023
+424C41,M-TGAU,GLF4,Gulfstream,IV,Gulfstream IV,1,Private,,1130,1990
 424C43,M-LEAD,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
 424C45,M-ARWA,C425,Cessna,425 Conquest I,Cessna 425 Conquest I,1,Private,,425-0200,1984
 424C46,M-ALAA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70173,

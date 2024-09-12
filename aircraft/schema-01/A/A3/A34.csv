@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A3401A,N3085J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55132,2021
 A34130,N309EL,GA5C,Gulfstream,G500,Gulfstream G500,0,Eli Lilly and Company,,72135,2024
+A3413F,N309FA,P28A,Piper,Pilot,Piper Pilot,0,flyGATEWAY,,28020109,2023
 A3418E,N309JE,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Jet Edge,EDG,20348,2021
 A341CC,N309LS,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,8659,2022
 A34268,N309SY,E75L,Embraer,ERJ 170-200 LR,Embraer ERJ 170-200 LR,0,SkyWest Airlines,SKW,17000912,2022

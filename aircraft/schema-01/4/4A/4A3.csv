@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4A3121,YR-LIA,A320,Airbus,A320-232,Airbus A320-232,0,Fly Lili,LIL,02422,2005
 4A3122,YR-LIB,A320,Airbus,A320-232,Airbus A320-232,0,Fly Lili,LIL,02359,2004
+4A3123,YR-LIC,A319,Airbus,A319-112,Airbus A319-112,0,Fly Lili,LIL,03689,2008
 4A3243,YR-LRC,A343,Airbus,A340-313,Airbus A340-313,0,Legend Airlines,LAL,0844,2007
 4A3244,YR-LRD,A343,Airbus,A340-313,Airbus A340-313,0,Legend Airlines,LAL,0835,2007
 4A3245,YR-LRE,A343,Airbus,A340-313,Airbus A340-313,0,Legend Airlines,LAL,0938,2008

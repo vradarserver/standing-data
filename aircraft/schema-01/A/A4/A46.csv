@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A460D1,N381UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67970,2023
 A46345,N382FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10565,2021
 A46449,N382SA,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20559,2015
 A46488,N382UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67971,2023
@@ -6,7 +7,9 @@ A466C3,N383DJ,GLF4,Gulfstream Aerospace,IV,Gulfstream Aerospace IV,1,Private,,13
 A466FC,N383FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10584,2021
 A467F1,N383RL,B190,Beech,1900,Beech 1900,1,Private,,UE-383,1999
 A46822,N383TK,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258700,2004
+A4683F,N383UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67972,2023
 A46AB3,N384FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Alaska Airlines,ASA,10596,2021
+A46BF6,N384UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67973,2024
 A46E3C,N385DV,TBM9,Daher,TBM-940,Daher TBM-940,1,Private,,1478,
 A46E6A,N385FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10622,2021
 A46F75,N385SH,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Silverhawk Aviation,SLH,560-5590,2005

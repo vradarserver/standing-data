@@ -1,11 +1,13 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC90CC,N909BZ,BE20,Beech,King Air 260C,Beech King Air 260C,1,Private,,BZ-9,2023
 AC9166,N909JC,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5298,2010
+AC920A,N909QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,NetJets,EJA,680A0323,2022
 AC9553,N91LG,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9112,2023
 AC981A,N910QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,1,Private,,680A0324,2022
 AC9975,N9103J,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9103,2002
 AC9B1C,N911HL,B407,Bell,407,Bell 407,0,Jefferson Parish Sheriff's Office,,53692,2006
 AC9B35,N911JL,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Jefferson Parish Sheriff's Office,,57096,2012
 AC9BF1,N911RZ,EC35,Eurocopter,EC135 T2+,Eurocopter EC135 T2+,0,Acadian Air Med,,0834,2009
+AC9E23,N912AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,67507,2023
 AC9F88,N912QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,Netjets,,680A0333,2022
 AC9FDD,N912UB,NNJA,Best Off,SkyRanger Nynja,Best Off SkyRanger Nynja,1,Private,,22090358,

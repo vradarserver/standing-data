@@ -75,6 +75,7 @@
 5002D1,T7-NTT,E35L,Embraer,EMB-135BJ Legacy,Embraer EMB-135BJ Legacy,1,Private,,14500941,2006
 5002D2,T7-850,TBM8,Socata,TBM 850,Socata TBM 850,1,Private,,615,
 5002D4,T7-777,B737,Boeing,737-7EG BBJ,Boeing 737-7EG BBJ,0,Asian Corporate Aviation Management,,35990,2006
+5002D6,T7-137,H25B,Hawker,850XP,Hawker 850XP,1,Private,,258810,2006
 5002D8,T7-DFC,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70131,
 5002D9,T7-UGR,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5821,2009
 5002DC,T7-NKS,H25B,Raytheon Hawker,800XP,Raytheon Hawker 800XP,0,The Setai Aviation,,258446,2000
@@ -123,7 +124,8 @@
 50037A,T7-TRX,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60077,2022
 50037B,T7-YMA,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73138,2023
 50037C,T7-TURTL,E545,Embraer,EMB-545 Praetor 500,Embraer EMB-545 Praetor 500,0,Turtle Airways,TLT,55010123,
-50037E,T7-MBS,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,0,,,006,
+50037D,T7-KVJ,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,1,Private,,9345,2009
+50037E,T7-MBS,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,1,Private,,006,
 500383,T7-2LX,F2TH,Dassault,Falcon 200LX,Dassault Falcon 200LX,0,Empire Aviation San Marino,,188,
 500386,T7-Z00M,PC12,Pilatus,PC XII/NGX,Pilatus PC XII/NGX,1,Private,,2071,2021
 500388,T7-MAHA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
@@ -134,7 +136,11 @@
 50039A,T7-EZ222,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6528,2022
 50039F,T7-1HC,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6181,2015
 5003A6,T7-IRL,GA7C,Gulfstream,G700,Gulfstream G700,0,Highland Aviation,,87013,2024
+5003B5,T7-JUN,FA8X,Falcon,8X,Falcon 8X,1,Private,,407,
 5003B8,T7-CAT,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501239,
 5003B9,T7-FFI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Luxaviation San Marino,LSM,69,2009
 5003BA,T7-EAGLE,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020133,2020
+5003C7,T7-BM650,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6203,
 5003D9,T7-SAHIN,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,Avcon Jet San Marino,VAJ,5590,
+5003DE,T7-VSG,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9398,
+5003E0,T7-ELMIR,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,DC Aviation Al-Futtaim,,9294,2008

@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AD000D,N937DZ,B739,Boeing,737-9GP(ER),Boeing 737-9GP(ER),0,Delta Air Lines,DAL,38315,2012
 AD0088,N937JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145254,2000
 AD00E0,N937NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10330,2021
 AD036B,N938AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43381,2022
@@ -6,6 +7,7 @@ AD0375,N938AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,9238,2020
 AD03C4,N938DZ,B739,Boeing,737-900,Boeing 737-900,0,Delta Air Lines,DAL,37291,2012
 AD0435,N938JM,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,0,Executive Jet Management,EJM,9748,
 AD0497,N938NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10402,2021
+AD077B,N939DZ,B739,Boeing,737-9GP(ER),Boeing 737-9GP(ER),0,Delta Air Lines,DAL,38720,2012
 AD084E,N939NK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Spirit Airlines,NKS,10450,2021
 AD090E,N939WB,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,9030,2023
 AD0CEA,N94XP,BE9L,Beech,C90A King Air,Beech C90A King Air,1,Private,,LJ-1247,1990

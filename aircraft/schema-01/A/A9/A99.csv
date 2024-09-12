@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A99087,N715VM,GA6C,Gulfstream Aerospace,G600,Gulfstream G600,1,Private,,73078,2021
+A99262,N716AL,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,67808,2024
 A992ED,N716G,P28A,Piper,PA-28-181,Piper PA-28-181,1,Private,,2881460,2021
 A9938D,N716NK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Spirit Airlines,NKS,11880,2024
 A996AF,N717GL,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Global Flight Inc,,70117,2022
@@ -11,3 +12,5 @@ A998D2,N7173C,B77W,Boeing,777-300ER,Boeing 777-300ER,0,American Airlines,AAL,,
 A999FD,N718CF,GALX,Gulfstream Aerospace,G200,Gulfstream Aerospace G200,1,Private,,070,2002
 A99A96,N718JJ,GLF5,Gulfstream,Aerospace GV,Gulfstream Aerospace GV,0,Talon Air,TFF,681,2002
 A99AFB,N718NK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Spirit Airlines,NKS,11872,2024
+A99D87,N719AL,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,67807,2024
+A99D8D,N719AS,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,AirShare,XSR,20883,2021

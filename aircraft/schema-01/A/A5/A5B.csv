@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A5B078,N466FX,GLF4,Gulfstream Aerospace,GLF4,Gulfstream Aerospace GLF4,0,Flexjet,LXJ,4173,2009
+A5B154,N466QS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,NetJets,EJA,50500757,2023
 A5B3A7,N467AL,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,11194,2022
 A5B42F,N467FX,GLF4,Gulfstream Aerospace,GIV-X (G450),Gulfstream Aerospace GIV-X (G450),0,Flexjet,LXJ,4156,
 A5B7E6,N468FX,GLF4,Gulfstream,G450,Gulfstream G450,0,Flexjet,LXJ,4300,2013
 A5BB17,N469AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,11196,2023
+A5BB7C,N469EP,B407,Bell,407,Bell 407,1,Private,,54372,2012
 A5BB8E,N469FG,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,172S10884,2008
 A5BB9D,N469FX,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Flexjet,LXJ,4151,2009
 A5BC1D,N469M,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,1,Private,,0464,

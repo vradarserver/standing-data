@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 888172,VN-A530,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,VietJetAir,VJC,11453,2023
 888180,VN-A540,A21N,Airbus,A321-271N,Airbus A321-271N,0,VietJet Air,VJC,6673,2016
+88818D,VN-A878,B78X,Boeing,787-10 Dreamliner,"Boeing\t787-10 Dreamliner",0,Vietnam Airlines,HVN,60296,2021
 8881AC,VN-A524,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,VietJet Air,VJC,9401,2020
 8881AD,VN-A533,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,VietJet Air,VJC,9515,2020
 8881BD,VN-A269,E190,Embraer,ERJ-190LR,Embraer ERJ-190LR,0,Bamboo Airways,BAV,19000598,2013

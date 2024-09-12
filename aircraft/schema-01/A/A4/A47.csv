@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A4719A,N386AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2386,2024
 A47221,N386FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10642,2021
 A47227,N386FX,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Flexjet,LXJ,50500634,2021
+A47364,N386UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67975,2024
 A475B1,N387EB,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,1,Private,,73101,2022
 A475D1,N387FJ,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,1,Private,,387,
 A475D8,N387FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10708,2021
