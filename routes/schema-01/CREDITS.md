@@ -7,29 +7,29 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 122,004 |
+| `Piet Delagrense`              | 122,342 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
+| `科罗娜`                          | 21,305 |
 | `Slavi`                        | 21,166 |
-| `科罗娜`                          | 21,128 |
-| `sib64`                        | 17,188 |
+| `sib64`                        | 17,197 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,568 |
+| `Lanorge`                      | 15,572 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,358 |
+| `Markus`                       | 6,369 |
 | `McBridden`                    | 5,968 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 3,800 |
+| `aircraftenthusiast2000`       | 3,829 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,296 |
 | `Jordy`                        | 3,257 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,095 |
+| `Gavin-D`                      | 2,096 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,776 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,174 |
+| `Mark Taylor`                  | 1,176 |
 | `Daniel.cornejo.campos`        | 1,147 |
 | `laurent`                      | 1,136 |
 | `Dauren`                       | 1,134 |
@@ -284,8 +284,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
 | `marm0t`                       | 45 |
+| `vrsspotter73`                 | 45 |
 | `Seb Gray`                     | 44 |
-| `vrsspotter73`                 | 44 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
 | `Ruan Zhen Hua`                | 43 |

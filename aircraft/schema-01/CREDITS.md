@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,084 |
-| `aircraftenthusiast2000` | 2,087 |
+| `Peter Hutt`             | 3,173 |
+| `aircraftenthusiast2000` | 2,243 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,506 |
+| `科罗娜`                    | 1,546 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 233 |
+| `BudBundi`               | 234 |
 | `andrw`                  | 186 |
-| `Lanorge`                | 179 |
+| `Lanorge`                | 183 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
+| `Ljubo`                  | 72 |
 | `vrsspotter73`           | 66 |
-| `Ljubo`                  | 60 |
 | `Rebelvenice2`           | 57 |
-| `britiger`               | 53 |
+| `britiger`               | 54 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
@@ -59,6 +59,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sevetamryn`             | 3 |
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
+| `topoguido`              | 3 |
 | `W4VS`                   | 3 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
@@ -68,6 +69,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
 | `ryanthomp`              | 2 |
+| `UA4WIY`                 | 2 |
 | `xv2b`                   | 2 |
 | `Alan Edwards`           | 1 |
 | `Andy Lodge`             | 1 |
@@ -93,5 +95,4 @@ Please note that credit files are updated less frequently than the data files.
 | `strnmn`                 | 1 |
 | `Tomek113`               | 1 |
 | `TomKot`                 | 1 |
-| `UA4WIY`                 | 1 |
 
