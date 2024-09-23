@@ -7,13 +7,13 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 122,342 |
+| `Piet Delagrense`              | 122,753 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 21,305 |
+| `科罗娜`                          | 21,323 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,197 |
+| `sib64`                        | 17,228 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Lanorge`                      | 15,572 |
 | `Jon Fear`                     | 13,536 |
@@ -62,8 +62,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,176 |
-| `Daniel.cornejo.campos`        | 1,147 |
+| `Mark Taylor`                  | 1,178 |
+| `Daniel.cornejo.campos`        | 1,157 |
 | `laurent`                      | 1,136 |
 | `Dauren`                       | 1,134 |
 | `rwinterhoff`                  | 1,130 |
@@ -100,9 +100,9 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
+| `topoguido`                    | 521 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
-| `topoguido`                    | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
 | `shisha34`                     | 472 |
@@ -111,7 +111,7 @@ Please note that credit files are updated less frequently than the data files.
 | `32043GCS`                     | 448 |
 | `britiger`                     | 440 |
 | `squawk7000`                   | 431 |
-| `Cristian Amaya`               | 426 |
+| `Cristian Amaya`               | 428 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
@@ -199,10 +199,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
 | `Kenneth`                      | 120 |
+| `Ljubo`                        | 119 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
-| `Ljubo`                        | 113 |
 | `Matze`                        | 113 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
@@ -995,6 +995,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Mark DS`                      | 1 |
 | `Mark Turner`                  | 1 |
 | `matt`                         | 1 |
+| `Matt Davis`                   | 1 |
 | `matthesv`                     | 1 |
 | `Matthew P`                    | 1 |
 | `midgetviking`                 | 1 |
