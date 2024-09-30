@@ -1,6 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 YKAP,Kapunda Airport,YKAP,,Kapunda,AU,-34.250000,138.917007,1200
-YKAR,Karara Airport,YKAR,,Karara,AU,-29.216667,116.686667,1011
+YKAR,Karara Airport,YKAR,KQR,Karara,AU,-29.216667,116.686667,1011
 YKBL,Kambalda Airport,YKBL,KDB,Kambalda,AU,-31.190000,121.598333,1037
 YKBR,Kalbarri Airport,YKBR,KAX,Kalbarri,AU,-27.691667,114.260000,515
 YKDD,Gudai-Darri Mine Airport,YKDD,OOD,Gudai-Darri Mine,AU,-22.506120,119.074900,1978

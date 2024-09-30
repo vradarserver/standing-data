@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,173 |
-| `aircraftenthusiast2000` | 2,243 |
+| `Peter Hutt`             | 3,287 |
+| `aircraftenthusiast2000` | 2,258 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,546 |
+| `科罗娜`                    | 1,568 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 234 |
+| `BudBundi`               | 238 |
+| `Lanorge`                | 187 |
 | `andrw`                  | 186 |
-| `Lanorge`                | 183 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `Ljubo`                  | 72 |
-| `vrsspotter73`           | 66 |
+| `Ljubo`                  | 93 |
+| `vrsspotter73`           | 68 |
 | `Rebelvenice2`           | 57 |
 | `britiger`               | 54 |
 | `RZH`                    | 49 |
@@ -32,6 +32,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `Simiao`                 | 18 |
+| `topoguido`              | 17 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
@@ -43,8 +44,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
+| `soja`                   | 7 |
 | `darjes`                 | 6 |
-| `soja`                   | 6 |
 | `neslin`                 | 5 |
 | `struart`                | 5 |
 | `thecowan`               | 4 |
@@ -59,7 +60,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Sevetamryn`             | 3 |
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
-| `topoguido`              | 3 |
 | `W4VS`                   | 3 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |

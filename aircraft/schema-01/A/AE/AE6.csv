@@ -24,6 +24,7 @@ AE6796,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,C
 AE679A,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE679D,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE67AD,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
+AE67AF,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67B1,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE67B8,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE67B9,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
@@ -51,6 +52,7 @@ AE6847,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A
 AE684F,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6858,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE6863,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
+AE6867,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE686F,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE6872,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6878,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
@@ -83,6 +85,7 @@ AE6BF9,86-0119,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Comma
 AE6C14,170272,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5925,
 AE6C15,170273,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States - Marine Corps,,5929,
 AE6C16,170724,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5929,2022
+AE6C19,170277,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States - US Marine Corps (USMC),,5960,
 AE6C1B,170279,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,US Marine Corps,,,
 AE6CF1,20-1941,GLF5,Gulfstream,C-37B,Gulfstream C-37B,0,United States Air Force,AIO,5613,
 AE6CF2,20-1949,GLF5,Gulfstream,Aerospace C-37B,Gulfstream Aerospace C-37B,0,United States Air Force,AIO,5614,2022

@@ -1,8 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 508003,UR-82029,A124,Antonov,An-124 100,Antonov An-124 100,0,Antonov Airlines,ADB,19530502630,1991
 508116,UR-CEZ,AN12,Antonov,An-12 BP,Antonov An-12 BP,0,Cavok Air,CVK,6344304,1966
+508279,UR-PSF,B738,Boeing,737-84R,Boeing 737-84R,0,Windrose Airlines,WRC,38120,2012
 50848A,UR-SQO,B738,Boeing,737-82R,Boeing 737-82R,0,SkyUp Airlines,SQP,40880,2012
 508497,UR-SQQ,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,SkyUp Airlines,SQP,29368,2006
 5084C1,UR-SQM,B738,Boeing,737-8KN,Boeing 737-8KN,0,SkyUp Airlines,SQP,40249,2011
 5084C5,UR-CQZ,AN26,Antonov,An-26,Antonov An-26,0,Vulkan Air,VKA,9903,
 5084D1,UR-SLE,B753,Boeing,757-330,Boeing 757-330,0,Skyline Express Airlines,UTN,29012,1999
+5084D2,UR-SLB,B753,Boeing,757-330,Boeing 757-330,0,Skyline Express Airlines,UTN,29013,1999

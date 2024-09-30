@@ -64,6 +64,7 @@
 4080B1,G-OLGE,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,2047,2010
 4080B2,G-JADN,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2339,2023
 4080B6,G-ZBLI,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,British Airways,BAW,60635,2024
+4080BB,G-ZBLJ,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,British Airways,BAW,60636,2024
 4080C1,G-RUKO,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,40284,2010
 4080C2,G-RUKN,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,38508,2010
 4080C9,G-ZEAB,DA62,Diamond,DA 62,Diamond DA 62,0,2Excel Aviation,BRO,62.248,2023
@@ -79,6 +80,7 @@
 4080E8,G-CMSY,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65507,2023
 4080E9,G-TNED,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12029,2024
 4080EA,G-TNEE,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12015,2024
+4080F5,G-LUFC,B407,Bell,407GXi,Bell 407GXi,1,Private,,56370,2023
 4080F6,G-EJCL,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,4861,2011
 4080F7,G-EJCM,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,05917,2013
 4080FF,G-CMTK,C152,Cessna,152,Cessna 152,1,Private,,152-79792,1977
@@ -86,10 +88,13 @@
 408106,G-VXNN,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,0,Dragon Aviation,,324,2024
 408107,G-RRPJ,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,1,Private,,20999,
 408117,G-RDRD,CLON,Rotorsport Uk,Cavalon,Rotorsport Uk Cavalon,1,Private,,041,
+408129,G-CMWG,DA62,Diamond,DA 62,Diamond DA 62,1,Private,,62.279,
 408133,G-LAKA,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60123,2024
 408134,G-TTSA,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12227,2024
 408142,G-DHMC,B77L,Boeing,777-FZB,Boeing 777-FZB,0,DHL Air UK,DHK,37986,2010
+408143,G-DHMD,B77L,Boeing,777-FZB,Boeing 777-FZB,0,DHL Air UK,DHK,37987,2010
 40814A,G-PEMB,AT76,ATR,72-600,ATR 72-600,0,Aurigny Air Services,AUR,1174,2014
+40814C,G-LMHA,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Jet Concierge Club,JCO,60132,2024
 408166,G-PAMH,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,241,2021
 408171,G-MRSB,R44,Robinson,R44 Raven II,Robinson R44 Raven II,0,Becketts Aviation,,14718,2024
 408172,G-CMUX,R44,Robinson,R44 Raven II,Robinson R44 Raven II,0,Heli Air,,14751,2024

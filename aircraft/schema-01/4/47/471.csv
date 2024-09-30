@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 47183A,HA-JEO,C650,Cessna,650 Citation III,Cessna 650 Citation III,0,Jet Stream Charter,VTB,650-0142,
 471932,HA-JOC,DV20,Diamond,DV20 Katan,Diamond DV20 Katan,1,Private,,20152,
+471A70,HA-KAI,AT72,ATR,72-202(F),ATR 72-202(F),0,Fleet Air International,FRF,265,1991
 471A7B,HA-KAT,AT72,ATR,72-201(F),ATR 72-201(F),0,Fleet Air International,FRF,108,1989
 471A7C,HA-KAU,AT72,ATR,72-201(F),ATR 72-201(F),0,Fleet Air International,FRF,0198,1990
 471A7E,HA-KAW,AT72,ATR,72-202(F),ATR 72-202(F),0,Fleet Air International,FRF,0313,1992
@@ -19,6 +20,7 @@
 471DB3,HA-LGL,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air,WZZ,11030,2022
 471DB4,HA-LGM,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air,WZZ,,2024
 471DB5,HA-LGN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air,WZZ,11869,2024
+471DB6,HA-LGO,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air,WZZ,11909,2024
 471DB7,HA-LGP,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air,WZZ,12019,2024
 471E26,HA-LKW,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Air-Invest,HKH,480,
 471F03,HA-LTJ,A321,Airbus,A321-231,Airbus A321-231,0,Wizz Air,WZZ,8791,2019

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A3E27F,N35AL,DA42,Diamond Aircraft,Twin Star DA42,Diamond Aircraft Twin Star DA42,1,Private,,42.147,2006
 A3E2CB,N35DM,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4231,2011
+A3E308,N35FY,B350,Beech,King Air 350i,Beech King Air 350i,1,Private,,FL-1215,2019
 A3E408,N35SD,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9937,2024
 A3E458,N35VJ,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,0,VeriJet,WSP,0416,2022
 A3E585,N350HJ,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Hop-A-Jet,HPJ,20504,2014

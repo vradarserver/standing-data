@@ -1,3 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+E20062,LV-S046,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,,2017
+E20093,AE-314,B06,Bell,206B JetRanger,Bell 206B JetRanger,0,Ejército Argentino,,4464,
 E200AE,T-99,B737,Boeing,737-76N,Boeing 737-76N,0,Argentine Air Force,FAG,33420,2004
 E200DD,ARG-01,B752,Boeing,757-256,Boeing 757-256,0,Argentina Government,,29306,2000
+E200DF,LV-S153,EV97,Evektor,EV-97 Harmony,Evektor EV-97 Harmony,1,Private,,2160,2022
+E200EE,LV-X662,SLG2,Sling Aircraft,2,Sling 2,1,Private,,198,
+E200F4,LV-S157,ASTO,Tecnam,Astore,Tecnam Astore,1,Private,,,2024

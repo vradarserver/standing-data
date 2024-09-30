@@ -40,6 +40,7 @@
 4246A4,VP-BUG,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,040,
 4246A5,VP-BSS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet,SJM,6448,
 4246A8,VP-BMH,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Las Vegas Sands,,1589,2001
+4246A9,VP-BXS,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87021,2024
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
 424702,VP-CUO,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8575,2018
@@ -115,6 +116,7 @@
 424BE3,M-KING,LJ40,Learjet,40,Learjet 40,1,Private,,45-2017,2004
 424BE8,M-ABOT,RJ1H,Avro,RJ100,Avro RJ100,0,BAE Systems,BAE,E3245,1994
 424BEC,M-YAVA,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,1,Private,,550-1050,2003
+424BF1,M-ABPP,B738,Boeing,737-846,Boeing 737-846,0,Macquarie AirFinance,,35353,2009
 424BF2,M-DMMR,A333,Airbus,A330-343,Airbus A330-343,0,DHL Air UK,DHK,1453,2013
 424BF3,M-ABPJ,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Loganair,LOG,1124,2013
 424BF5,M-ABPK,AT76,ATR,72-600,ATR 72-600,1,Private,,1160,2014

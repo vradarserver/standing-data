@@ -7,15 +7,15 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 122,753 |
+| `Piet Delagrense`              | 123,223 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 21,323 |
+| `科罗娜`                          | 21,436 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,228 |
+| `sib64`                        | 17,239 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,572 |
+| `Lanorge`                      | 15,573 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
@@ -118,7 +118,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Rennan`                       | 408 |
 | `bugjargal`                    | 406 |
 | `Joaquin`                      | 406 |
-| `kirkmayers`                   | 400 |
+| `kirkmayers`                   | 401 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
@@ -198,8 +198,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
+| `Ljubo`                        | 122 |
 | `Kenneth`                      | 120 |
-| `Ljubo`                        | 119 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
@@ -268,6 +268,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflon`                      | 51 |
 | `Sebastien Baena`              | 51 |
 | `SPOTTER SSOL`                 | 51 |
+| `vrsspotter73`                 | 51 |
 | `xv4y`                         | 51 |
 | `laryk`                        | 50 |
 | `Peter S`                      | 50 |
@@ -275,16 +276,15 @@ Please note that credit files are updated less frequently than the data files.
 | `Mario Uscanga`                | 49 |
 | `patrice`                      | 49 |
 | `Sgtpanda`                     | 49 |
+| `franckdosdane`                | 48 |
 | `john mathieson`               | 48 |
 | `BC92`                         | 47 |
-| `franckdosdane`                | 47 |
 | `Jlatham23`                    | 46 |
 | `kabooz`                       | 46 |
 | `philipgm`                     | 46 |
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
 | `marm0t`                       | 45 |
-| `vrsspotter73`                 | 45 |
 | `Seb Gray`                     | 44 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
@@ -553,6 +553,7 @@ Please note that credit files are updated less frequently than the data files.
 | `hecruz`                       | 7 |
 | `James Zhao`                   | 7 |
 | `Janbu09`                      | 7 |
+| `Jayant Shah`                  | 7 |
 | `loplo`                        | 7 |
 | `Maredzki`                     | 7 |
 | `Martin Ivanov`                | 7 |
@@ -583,7 +584,6 @@ Please note that credit files are updated less frequently than the data files.
 | `grahaml44`                    | 6 |
 | `Grzegorz Tworek`              | 6 |
 | `Hussain Haneef`               | 6 |
-| `Jayant Shah`                  | 6 |
 | `Jonathan Mifsud`              | 6 |
 | `Julien L.`                    | 6 |
 | `Kevin McCormick`              | 6 |
