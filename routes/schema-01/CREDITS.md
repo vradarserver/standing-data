@@ -7,22 +7,22 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 123,223 |
+| `Piet Delagrense`              | 123,402 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 21,436 |
+| `科罗娜`                          | 21,519 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,239 |
+| `sib64`                        | 17,247 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,573 |
+| `Lanorge`                      | 15,574 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 8,595 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,369 |
+| `Markus`                       | 6,376 |
 | `McBridden`                    | 5,968 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,910 |
@@ -62,10 +62,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,178 |
-| `Daniel.cornejo.campos`        | 1,157 |
+| `Mark Taylor`                  | 1,181 |
+| `Daniel.cornejo.campos`        | 1,159 |
+| `Dauren`                       | 1,136 |
 | `laurent`                      | 1,136 |
-| `Dauren`                       | 1,134 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
 | `kma371`                       | 1,109 |
@@ -194,11 +194,11 @@ Please note that credit files are updated less frequently than the data files.
 | `geoff271989`                  | 130 |
 | `sgt330`                       | 129 |
 | `catchall`                     | 127 |
+| `Ljubo`                        | 126 |
 | `Tyler`                        | 125 |
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
-| `Ljubo`                        | 122 |
 | `Kenneth`                      | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
