@@ -7,15 +7,15 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `dirkhh`                       | 161,174 |
-| `Piet Delagrense`              | 123,402 |
+| `Piet Delagrense`              | 123,632 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 21,519 |
+| `科罗娜`                          | 21,526 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,247 |
+| `sib64`                        | 17,311 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,574 |
+| `Lanorge`                      | 15,576 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,181 |
-| `Daniel.cornejo.campos`        | 1,159 |
+| `Daniel.cornejo.campos`        | 1,160 |
 | `Dauren`                       | 1,136 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -100,7 +100,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
-| `topoguido`                    | 521 |
+| `topoguido`                    | 530 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
