@@ -62,6 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 1 |
 | `furkan`                       | 1 |
 | `Gavin-D`                      | 1 |
+| `Harrison Jones`               | 1 |
 | `haydenc2`                     | 1 |
 | `huebi77`                      | 1 |
 | `intelsky`                     | 1 |

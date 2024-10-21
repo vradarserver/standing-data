@@ -7,21 +7,22 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `Peter Hutt`             | 3,287 |
-| `aircraftenthusiast2000` | 2,258 |
+| `aircraftenthusiast2000` | 2,263 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,568 |
+| `科罗娜`                    | 1,580 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 238 |
-| `Lanorge`                | 187 |
+| `BudBundi`               | 241 |
+| `Lanorge`                | 190 |
 | `andrw`                  | 186 |
 | `EDDT Manu`              | 105 |
+| `Ljubo`                  | 104 |
 | `spotterblog`            | 104 |
-| `Ljubo`                  | 93 |
-| `vrsspotter73`           | 68 |
+| `vrsspotter73`           | 70 |
 | `Rebelvenice2`           | 57 |
+| `topoguido`              | 56 |
 | `britiger`               | 54 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -32,7 +33,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `Simiao`                 | 18 |
-| `topoguido`              | 17 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
@@ -85,6 +85,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |
+| `jazzbassNick`           | 1 |
 | `KaliKeira`              | 1 |
 | `mantisNZ`               | 1 |
 | `nf003`                  | 1 |

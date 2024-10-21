@@ -4,24 +4,45 @@ E0B04E,LV-KAN,A332,Airbus,A330-202,Airbus A330-202,0,Aerolíneas Argentinas,ARG,
 E0B04F,LV-KAO,A332,Airbus,A330-202,Airbus A330-202,0,Aerolíneas Argentinas,ARG,899,2008
 E0B058,LV-KAX,GLF5,Gulfstream,V,Gulfstream V,0,Baires Fly,,518,1997
 E0B059,LV-KAY,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,Flybondi,FBZ,30701,2006
+E0B089,LV-KBI,BE20,Beech,B200GT Super King Air 260,Beech B200GT Super King Air 260,0,Prodeman,,BY-403,2021
 E0B0C4,LV-KCD,B738,Boeing,737-8AL,Boeing 737-8AL,0,Flybondi,FBZ,35071,2006
 E0B0C5,LV-KCE,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,Flybondi,FBZ,30720,2007
+E0B0D0,LV-KCP,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,0,Excel Servicios Aereos,,680-0334,2012
+E0B0D4,LV-KCT,CL60,Bombardier,Challenger CL650,Bombardier Challenger CL650,0,Kube Aviación,,5966,2014
+E0B0D7,LV-KCW,BE20,Beech,King Air 250,Beech King Air 250,0,Kube Aviación,,BY-244,2015
 E0B109,LV-KDI,F900,DASSAULT,Falcon 900,DASSAULT Falcon 900,1,Private,,225,2009
+E0B10F,LQ-KDO,EC45,Airbus Helicopters-Kawasaki,H-145,Airbus Helicopters-Kawasaki H-145,0,Gobierno de la provincia de Córdoba,,20342,2022
 E0B110,LV-KDP,A320,Airbus,A320-232,Airbus A320-232,0,JetSMART,JAT,8493,2018
 E0B142,LV-KEB,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4116,2008
 E0B18F,LV-KFO,BE33,Beech,33 Bonanza,Beech 33 Bonanza,1,Private,,CE-447,1973
 E0B191,LV-KFQ,CL60,Canadair,Challenger 605,Canadair Challenger 605,0,Flyzar,,5809,2009
+E0B1C3,LV-KGC,C82S,Cessna,T182 Turbo Skylane,Cessna T182 Turbo Skylane,1,Private,,182-83191,
 E0B214,LV-KHT,A332,Airbus,A330-243,Airbus A330-243,0,Aerolíneas Argentinas,ARG,1191,2011
 E0B215,LV-KHU,A332,Airbus,A330-243,Airbus A330-243,0,Aerolíneas Argentinas,ARG,1223,2011
+E0B216,LQ-KHV,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Policía de la provincia de Buenos Aires,,9319,2022
+E0B219,LV-KHY,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,,2022
+E0B244,LV-KID,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,66359,2024
 E0B24A,LV-KIJ,PA31,Piper,PA-31-310 Navajo,Piper PA-31-310 Navajo,1,Private,,31-712,1971
+E0B24C,LV-KIL,SLG4,Sling Aircraft,4 TSi,Sling 4 TSi,1,Private,,370S,
 E0B252,LV-KIR,P46T,Piper,PA-46-500TP,Piper PA-46-500TP,1,Private,,4697588,2015
 E0B254,LV-KIT,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,43917,2019
+E0B255,LV-KIU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,43918,2019
+E0B282,LV-KJB,A139,Leonardo,AW139,Leonardo AW139,0,Modena Air Service,,31038,2006
+E0B28C,LV-KJL,P46T,Piper,PA-46-500TP,Piper PA-46-500TP,0,Cielo del Norte,,4697055,2001
 E0B2C3,LV-KKC,P212,Tecnam,P-2012 Traveller,Tecnam P-2012 Traveller,0,XFlight Argentina,,052/US,2022
 E0B2C6,LV-KKF,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,5756,2008
+E0B2C8,LV-KKH,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,,
 E0B2CA,LV-KKJ,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,,
+E0B2CB,LQ-KKK,AT8T,Air Tractor,AT-802,Air Tractor AT-802,0,Dirección de Aeronáutica Provincia Santiago del estero,,802-1044,2023
+E0B2CC,LV-KKL,PA46,Piper,PA-46-350P M350,Piper PA-46-350P M350,1,Private,,4636819,2023
 E0B2CF,LV-KKO,BE20,Beechcraft,Beech King Air B200GT,Beechcraft Beech King Air B200GT,1,Private,,BY-117,2011
+E0B2D1,LV-KKQ,B190,Beech,1900D,Beech 1900D,0,American Jet,AJB,UE-271,1997
 E0B2D3,LV-KKS,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,0,Flexfly SAS,,,2024
+E0B2D7,LV-KKW,BE20,Beech,200 Super King Air,Beech 200 Super King Air,0,Aerotec Argentina,,BB-727,1980
 E0B2DA,LV-KKZ,AT46,ATR,-42-600,ATR-42-600,0,American Jet,AJB,1616,2023
 E0B301,LV-KLA,B412,Bell,412EP,Bell 412EP,1,Private,,36490,2008
 E0B302,LV-KLB,GLF5,Gulfstream,G550,Gulfstream G550,0,Pacific Ocean,,5331,2011
 E0B308,LV-KLH,GLF5,Gulfstream,V,Gulfstream V,0,Flyzar,,639,2001
+E0B30C,LV-KLL,BT36,Beech,A36TC Bonanza,Beech A36TC Bonanza,0,Falconer Aviation,,EA-232,1981
+E0B30F,LV-KLO,LJ60,Learjet,60,Learjet 60,0,Bimlary,,60-107,1997
+E0B310,LV-KLP,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,Digital Air Taxi,,208B5653,

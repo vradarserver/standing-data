@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E0A38B,LV-JNK,BE36,Beech,A36 Bonanza,Beech A36 Bonanza,1,Private,,E-2767,1992
 E0A445,LV-JQE,A320,Airbus,A320-232,Airbus A320-232,0,JetSMART,JAT,8539,2018
+E0A44F,LV-JQO,R66,Robinson,R-66 Turbine,Robinson R-66 Turbine,0,Patagonia Flooring,,1023,2020
+E0A457,LV-JQW,GLF4,Gulfstream Aerospace,G400,Gulfstream Aerospace G400,0,Baires Fly SA,,1524,2003

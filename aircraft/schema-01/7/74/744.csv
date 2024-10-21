@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 74483A,JY-RAZ,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Royal Jordanian,RJA,3926,2009
 7448A1,JY-REA,E295,Embraer,E195-E2,Embraer E195-E2,0,Royal Jordanian,RJA,19020116,2023
+7448A2,JY-REB,E295,Embraer,E195-E2,Embraer E195-E2,0,Royal Jordanian,RJA,19020123,2024
+7448A4,JY-RED,E290,Embraer,E190-E2,Embraer E190-E2,0,Royal Jordanian,RJA,19020139,2024
