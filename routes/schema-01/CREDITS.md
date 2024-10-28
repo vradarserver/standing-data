@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 169,266 |
-| `Piet Delagrense`              | 123,968 |
+| `dirkhh`                       | 170,289 |
+| `Piet Delagrense`              | 124,231 |
 | `vand`                         | 51,606 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 21,591 |
+| `科罗娜`                          | 21,593 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,338 |
+| `sib64`                        | 17,373 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,583 |
+| `Lanorge`                      | 15,603 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
@@ -43,10 +43,10 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,096 |
+| `Gavin-D`                      | 2,112 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `verbatim`                     | 1,776 |
+| `verbatim`                     | 1,841 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `BPfH`                         | 1,611 |
@@ -116,9 +116,9 @@ Please note that credit files are updated less frequently than the data files.
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
 | `Rennan`                       | 408 |
+| `kirkmayers`                   | 407 |
 | `bugjargal`                    | 406 |
 | `Joaquin`                      | 406 |
-| `kirkmayers`                   | 403 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
@@ -153,7 +153,7 @@ Please note that credit files are updated less frequently than the data files.
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
-| `Franck Dosdane`               | 202 |
+| `Franck Dosdane`               | 206 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
@@ -259,7 +259,7 @@ Please note that credit files are updated less frequently than the data files.
 | `LU4CN`                        | 60 |
 | `Samuel Rodriguez`             | 56 |
 | `Steve Martin`                 | 56 |
-| `vrsspotter73`                 | 54 |
+| `vrsspotter73`                 | 55 |
 | `wogggieee`                    | 54 |
 | `rdmazo`                       | 53 |
 | `henrian`                      | 52 |
@@ -717,6 +717,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                        | 3 |
 | `JunPritsker`                  | 3 |
 | `LFBD-3`                       | 3 |
+| `LU8FAU`                       | 3 |
 | `mario`                        | 3 |
 | `Mercator`                     | 3 |
 | `michael f`                    | 3 |
@@ -816,7 +817,6 @@ Please note that credit files are updated less frequently than the data files.
 | `LFBO31`                       | 2 |
 | `lfls`                         | 2 |
 | `Ltin`                         | 2 |
-| `LU8FAU`                       | 2 |
 | `LukasL`                       | 2 |
 | `Marc A. Mapplebeck`           | 2 |
 | `Marcelo Rizzi`                | 2 |
