@@ -6,32 +6,32 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 176,088 |
-| `PietD`                        | 131,564 |
-| `vand`                         | 51,606 |
+| `dirkhh`                       | 181,032 |
+| `PietD`                        | 133,160 |
+| `vand`                         | 52,853 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,170 |
-| `科罗娜`                          | 22,558 |
+| `科罗娜`                          | 23,110 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,530 |
+| `sib64`                        | 17,649 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 15,820 |
+| `Lanorge`                      | 16,226 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 9,022 |
+| `Neboknede`                    | 9,075 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,520 |
+| `Markus`                       | 6,561 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `AP100`                        | 4,957 |
+| `AP100`                        | 4,990 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 4,083 |
+| `aircraftenthusiast2000`       | 4,177 |
 | `CharlieAlpha`                 | 3,369 |
-| `Serge F4IPO`                  | 3,296 |
+| `Serge F4IPO`                  | 3,297 |
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
 | `Robert G. Schaffrath`         | 2,688 |
@@ -43,10 +43,10 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,132 |
+| `Gavin-D`                      | 2,134 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `verbatim`                     | 1,841 |
+| `verbatim`                     | 1,845 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `BPfH`                         | 1,611 |
@@ -63,8 +63,8 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,182 |
-| `Daniel.cornejo.campos`        | 1,162 |
-| `Dauren`                       | 1,136 |
+| `Daniel.cornejo.campos`        | 1,164 |
+| `Dauren`                       | 1,140 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -97,9 +97,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Soe Min Htet`                 | 609 |
 | `Peter Za, PhD`                | 581 |
 | `Eburg 912`                    | 549 |
+| `topoguido`                    | 548 |
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
-| `topoguido`                    | 539 |
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
@@ -112,8 +112,8 @@ Please note that credit files are updated less frequently than the data files.
 | `britiger`                     | 440 |
 | `squawk7000`                   | 431 |
 | `Cristian Amaya`               | 430 |
+| `kirkmayers`                   | 424 |
 | `ka0lnr`                       | 418 |
-| `kirkmayers`                   | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
 | `Rennan`                       | 408 |
@@ -159,6 +159,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
 | `Alexey`                       | 197 |
+| `jazzbassNick`                 | 191 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 188 |
 | `aviatic`                      | 182 |
@@ -167,7 +168,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Vijay Karla`                  | 177 |
 | `kusuriurikun`                 | 176 |
 | `danielaregay`                 | 175 |
-| `jazzbassNick`                 | 174 |
 | `Steven G`                     | 173 |
 | `C Cook`                       | 172 |
 | `AlexH`                        | 171 |
@@ -257,9 +257,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Chris Gault`                  | 61 |
 | `EDLM`                         | 61 |
 | `LU4CN`                        | 60 |
+| `vrsspotter73`                 | 57 |
 | `Samuel Rodriguez`             | 56 |
 | `Steve Martin`                 | 56 |
-| `vrsspotter73`                 | 55 |
 | `wogggieee`                    | 54 |
 | `rdmazo`                       | 53 |
 | `henrian`                      | 52 |
@@ -368,11 +368,11 @@ Please note that credit files are updated less frequently than the data files.
 | `smidd`                        | 22 |
 | `SWE`                          | 22 |
 | `xaastr0m`                     | 22 |
+| `Anton`                        | 21 |
 | `jezza270`                     | 21 |
 | `Jim Archer`                   | 21 |
 | `Jose Morales`                 | 21 |
 | `Andreas`                      | 20 |
-| `Anton`                        | 20 |
 | `chakphanu`                    | 20 |
 | `Gadget_74`                    | 20 |
 | `jdor`                         | 20 |
@@ -737,6 +737,7 @@ Please note that credit files are updated less frequently than the data files.
 | `singsonn`                     | 3 |
 | `Sizamonit`                    | 3 |
 | `stefplane`                    | 3 |
+| `Steve1024`                    | 3 |
 | `Steven Evans`                 | 3 |
 | `stzorich`                     | 3 |
 | `TEDW30`                       | 3 |
