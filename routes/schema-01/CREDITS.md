@@ -6,30 +6,30 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 181,032 |
-| `PietD`                        | 133,160 |
-| `vand`                         | 52,853 |
+| `dirkhh`                       | 185,001 |
+| `PietD`                        | 133,870 |
+| `vand`                         | 55,246 |
 | `Pascal Ensinck`               | 26,317 |
-| `EDDG`                         | 24,170 |
-| `科罗娜`                          | 23,110 |
+| `EDDG`                         | 24,171 |
+| `科罗娜`                          | 23,794 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,649 |
+| `sib64`                        | 17,680 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 16,226 |
+| `Lanorge`                      | 16,418 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,075 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,561 |
+| `Markus`                       | 6,570 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,990 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 4,177 |
+| `aircraftenthusiast2000`       | 4,253 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,297 |
 | `Jordy`                        | 3,257 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,134 |
+| `Gavin-D`                      | 2,135 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,845 |
@@ -64,7 +64,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,182 |
 | `Daniel.cornejo.campos`        | 1,164 |
-| `Dauren`                       | 1,140 |
+| `Dauren`                       | 1,148 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -110,9 +110,9 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
 | `britiger`                     | 440 |
+| `Cristian Amaya`               | 435 |
 | `squawk7000`                   | 431 |
-| `Cristian Amaya`               | 430 |
-| `kirkmayers`                   | 424 |
+| `kirkmayers`                   | 425 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
@@ -158,8 +158,8 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `Alexey`                       | 197 |
-| `jazzbassNick`                 | 191 |
+| `Alexey`                       | 198 |
+| `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 188 |
 | `aviatic`                      | 182 |
@@ -205,6 +205,7 @@ Please note that credit files are updated less frequently than the data files.
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
 | `Dastin`                       | 108 |
+| `Jayant Shah`                  | 107 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
 | `mekkawi`                      | 106 |
@@ -257,7 +258,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Chris Gault`                  | 61 |
 | `EDLM`                         | 61 |
 | `LU4CN`                        | 60 |
-| `vrsspotter73`                 | 57 |
+| `vrsspotter73`                 | 59 |
 | `Samuel Rodriguez`             | 56 |
 | `Steve Martin`                 | 56 |
 | `wogggieee`                    | 54 |
@@ -554,7 +555,6 @@ Please note that credit files are updated less frequently than the data files.
 | `hecruz`                       | 7 |
 | `James Zhao`                   | 7 |
 | `Janbu09`                      | 7 |
-| `Jayant Shah`                  | 7 |
 | `loplo`                        | 7 |
 | `Maredzki`                     | 7 |
 | `Martin Ivanov`                | 7 |
