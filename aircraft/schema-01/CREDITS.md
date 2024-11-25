@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,287 |
-| `aircraftenthusiast2000` | 2,263 |
+| `Peter Hutt`             | 3,487 |
+| `aircraftenthusiast2000` | 2,335 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,580 |
+| `科罗娜`                    | 1,632 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 241 |
-| `Lanorge`                | 190 |
-| `andrw`                  | 186 |
+| `BudBundi`               | 248 |
+| `Lanorge`                | 204 |
+| `andrw`                  | 188 |
+| `Ljubo`                  | 112 |
 | `EDDT Manu`              | 105 |
-| `Ljubo`                  | 104 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 70 |
+| `vrsspotter73`           | 72 |
+| `topoguido`              | 71 |
 | `Rebelvenice2`           | 57 |
-| `topoguido`              | 56 |
 | `britiger`               | 54 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -61,6 +61,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
+| `Anton`                  | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
 | `GTR8000`                | 2 |
@@ -86,6 +87,7 @@ Please note that credit files are updated less frequently than the data files.
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
+| `k6vh`                   | 1 |
 | `KaliKeira`              | 1 |
 | `mantisNZ`               | 1 |
 | `nf003`                  | 1 |

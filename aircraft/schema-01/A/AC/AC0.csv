@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AC01AE,N873CA,A333,Airbus,A330-343,Airbus A330-343,0,National Airlines,NCR,1348,2012
 AC01FC,N873FD,B77L,Boeing,777-F,Boeing 777-F,0,Federal Express,FDX,40679,2021
 AC029A,N873MM,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9532,2023
 AC033E,N873UA,A319,Airbus,A319-132,Airbus A319-132,0,United Airlines,UAL,2004,2003

@@ -687,7 +687,7 @@ CE27,Status Avia,SA-1 Status,2,P,,A,L,1
 CE27,Status Avia,Status,2,P,,A,L,0
 CE43,CERVA,CE-43 Guepard,1,P,,L,L,1
 CE43,CERVA,Guepard,1,P,,L,L,0
-CEGL,Celair,Eagle 300,1,P,,L,L,1
+CEGL,Celair,Eagle 300,1,P,,L,L,0
 CEL5,OTTO,Celera 500L,1,P,,L,L,1
 CELR,Mirage,Celerity,1,P,,L,L,1
 CENT,Found,100 Centennial,1,P,,L,L,1
@@ -863,8 +863,8 @@ CH80,Zénith,Stol (CH-801),1,P,,L,L,0
 CHAN,Cadcor,Chanute,1,P,,L,L,1
 CHCS,Alpaero,Choucas,1,P,,L,L,1
 CHCS,Noin,Choucas,1,P,,L,L,1
-CHGO,Korean Air,CHK-91 Chang-Gong 91,1,P,,L,L,1
 CHGO,Korean Air,Chang-Gong 91,1,P,,L,L,0
+CHGO,Korean Air,CHK-91 Chang-Gong 91,1,P,,L,L,0
 CHIC,Podesva,Chico,1,P,,L,L,1
 CHIF,Pawnee,Chief,1,P,,H,L,1
 CHIN,ASAP,Chinook,1,P,,L,L,1
@@ -975,7 +975,7 @@ CNBR,English Electric,Canberra,2,J,,L,M,1
 CNBR,Short,Canberra,2,J,,L,M,1
 CNDR,General Avia,F-20TP Condor,2,T,,L,L,1
 CNDR,General Avia,Condor,2,T,,L,L,0
-CNGP,Cessna,NGP,1,P,,L,L,1
+CNGP,Cessna,NGP,1,P,,L,L,0
 CNUK,Fleet,80 Canuck,1,P,,L,L,1
 CNUK,Leavens,80 Canuck,1,P,,L,L,1
 CNUK,Fleet,Canuck,1,P,,L,L,0
@@ -1172,7 +1172,7 @@ CR10,Dyn'Aero,CR-110,1,P,,L,L,1
 CR10,Dyn'Aero,CR-120,1,P,,L,L,1
 CRA1,Cranfield,A-1 Eagle,1,P,,L,L,0
 CRA1,Cranfield,Eagle,1,P,,L,L,0
-CRAC,Plumb,CJ-3 Cracker Jack,1,P,,L,L,1
+CRAC,Plumb,CJ-3 Cracker Jack,1,P,,L,L,0
 CRAC,Plumb,Cracker Jack,1,P,,L,L,0
 CRBN,Curtiss,50 Robin,1,P,,L,L,1
 CRBN,Curtiss-Robertson,50 Robin,1,P,,L,L,1
@@ -1248,6 +1248,7 @@ CUCA,Culver,PQ-14 Cadet,1,P,,L,L,1
 CUCA,Culver,PQ-8 Cadet,1,P,,L,L,1
 CUCA,La France,Cadet STF,1,P,,L,L,1
 CUCA,Culver,Cadet,1,P,,L,L,0
+CUDA,Lancair,NLA-275 Barracuda,1,P,,L,L,1
 CULP,Culp,Special,1,P,,L,L,1
 CULV,Culver,V,1,P,,L,L,1
 CULX,Fisher Aero,Culex,2,P,,L,L,1
@@ -1274,6 +1275,6 @@ CVLT,Convair,CV-640,2,T,,L,M,1
 CVLT,Kelowna,CV-5800,2,T,,L,M,1
 CVLT,Canadair,Cosmopolitan,2,T,,L,M,0
 CX5,Thatcher,CX-5,1,P,,L,L,1
-CYCL,Carlson,Skycycle,1,P,,L,L,1
+CYCL,Carlson,Skycycle,1,P,,L,L,0
 CYGT,Hawker,Cygnet,1,P,,L,L,1
 CYGT,Hawker,Cygnet Replica,1,P,,L,L,1

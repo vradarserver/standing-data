@@ -149,8 +149,10 @@ DA42,Diamond,Guardian,2,P,,L,L,0
 DA42,Diamond,Twin Star,2,P,,L,L,0
 DA42,Diamond,Twin Turbo,2,P,,L,L,0
 DA5,Davis,DA-5,1,P,,L,L,1
-DA50,Diamond,DA-50 Magnum,1,P,,L,L,1
-DA50,Diamond,DA-50 SuperStar,1,P,,L,L,1
+DA50,Diamond,DA-50,1,P,,L,L,1
+DA50,WANFENG DIAMOND,DA-50,1,P,,L,L,1
+DA50,Diamond,DA-50 Magnum,1,P,,L,L,0
+DA50,Diamond,DA-50 SuperStar,1,P,,L,L,0
 DA50,Diamond,DA-50SuperStar,1,P,,L,L,0
 DA50,Diamond,Magnum,1,P,,L,L,0
 DA50,Diamond,SuperStar,1,P,,L,L,0
@@ -258,6 +260,7 @@ DC94,Douglas,DC-9-40,2,J,,L,M,1
 DC94,McDonnell Douglas,DC-9-40,2,J,,L,M,1
 DC95,Douglas,DC-9-50,2,J,,L,M,1
 DC95,McDonnell Douglas,DC-9-50,2,J,,L,M,1
+DDUC,Bakeng,Double Duce,1,P,,L,L,1
 DEAG,Amax,Double Eagle,1,P,,G,L,1
 DEFI,Rutan,40 Defiant,2,P,,L,L,1
 DEFI,Rutan,Defiant,2,P,,L,L,0
@@ -391,8 +394,8 @@ DHC7,De Havilland Canada,O-5 Dash 7,4,T,,L,M,1
 DHC7,De Havilland Canada,RC-7 Dash 7,4,T,,L,M,1
 DHC7,De Havilland Canada,Dash 7,4,T,,L,M,0
 DIES,Pennec-Lucas,Dieselis,1,P,,L,L,1
-DIJ3,Dijkman-Dulkes,Dijkhastar 3,1,P,,L,L,1
-DIJ4,Dijkman-Dulkes,Dijkhastar 4,1,P,,A,L,1
+DIJ3,Dijkman-Dulkes,Dijkhastar 3,1,P,,L,L,0
+DIJ4,Dijkman-Dulkes,Dijkhastar 4,1,P,,A,L,0
 DIMO,Diamond,HK-36 Eco Dimona,1,P,,L,L,1
 DIMO,Diamond,HK-36 Katana Xtreme,1,P,,L,L,1
 DIMO,Diamond,HK-36 MPX,1,P,,L,L,1
@@ -411,7 +414,7 @@ DIMO,HOAC,Super Dimona,1,P,,L,L,0
 DIMO,Hoffmann,Dimona,1,P,,L,L,0
 DINO,Ganzavia,Dinó,1,P,,L,L,0
 DINO,Ganzavia,GAK-22 Dinó,1,P,,L,L,0
-DIPR,Collins,Dipper,1,P,,A,L,1
+DIPR,Collins,Dipper,1,P,,A,L,0
 DISC,Schempp-Hirth,Discus 2CT,1,P,,L,L,1
 DISC,Schempp-Hirth,Discus 2T,1,P,,L,L,1
 DISC,Schempp-Hirth,Discus BM,1,P,,L,L,1
@@ -555,6 +558,7 @@ DUB2,Dubna,2 Osa,1,P,,L,L,1
 DUB2,Taifun,DMZ-2 Osa,1,P,,L,L,1
 DUB2,Dubna,Osa,1,P,,L,L,0
 DUB2,Taifun,Osa,1,P,,L,L,0
+DUCE,Bakeng,Deuce,1,P,,L,L,1
 DUCE,Bakeng,Duce,1,P,,L,L,1
 DUOD,Schempp-Hirth,Duo Discus T,1,P,,L,L,1
 DUOD,Schempp-Hirth,Duo Discus XLT,1,P,,L,L,1

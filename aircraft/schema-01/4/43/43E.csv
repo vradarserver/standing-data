@@ -33,6 +33,7 @@
 43EE41,2-PAPA,CL60,Canadair,Challenger 601-3A,Canadair Challenger 601-3A,0,Volare Aviation (Guernsey),VLZ,5125,
 43EE43,2-COOK,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1077,2021
 43EE47,2-SHEE,EA50,Eclipse,500,Eclipse 500,0,Channel Islands Jet Services,,000020,
+43EE4A,2-HOVR,A109,Agusta,A.109E Power,Agusta A.109E Power,0,MyHeli,,11037,
 43EE4C,2-JDEJ,A109,AgustaWestland,AW109E Power,AgustaWestland AW109E Power,0,Volare Aviation (Guernsey),VLZ,11675,2006
 43EE4D,2-GAYE,EA50,Eclipse Aerospace,EA500,Eclipse Aerospace EA500,1,Private,,000119,
 43EE4E,2-SIVA,B738,Boeing,737-86N(WL),Boeing 737-86N(WL),0,Merx Aviation,,29884,2002
@@ -44,6 +45,8 @@
 43EE82,2-GOOD,DA62,Diamond,DA62,Diamond DA62,1,Private,,,
 43EE89,2-SWIS,CL60,Canadair,C-143 Challenger 604,Canadair C-143 Challenger 604,0,Volare Aviation (Guernsey),VLZ,5463,
 43EE8C,2-SMSN,CL60,Bombardier,Challenger 601-3A,Bombardier Challenger 601-3A,1,Private,,5030,1988
+43EEAE,2-FWCA,A321,Airbus,A321-211,Airbus A321-211,0,FitzWalter Aviation,,08577,2018
+43EEAF,2-FWCB,A321,Airbus,A321-211,Airbus A321-211,0,FitzWalter Aviation,,08592,2018
 43EEBD,2-ELZE,AT75,ATR,72-500,ATR 72-500,1,Private,,814,2008
 43EED1,2-AMKH,AT76,Aerospatiale,ATR 72-600,Aerospatiale ATR 72-600,0,Loganair,LOG,1096,2013
 43EED2,2-WKTN,BE20,Beech,200 Super King Air,Beech 200 Super King Air,0,DEA Aviation,WKT,BB-1528,1996

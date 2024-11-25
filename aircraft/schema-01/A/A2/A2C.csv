@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A2C110,N277FX,S76,Sikorsky,S-76C-2,Sikorsky S-76C-2,1,Private,,760676,
 A2C129,N277GX,A321,Airbus,A321-231,Airbus A321-231,0,Global X,GXA,2480,2005
+A2C2D7,N2770B,B350,Beech / Cessna,various models,Beech / Cessna various models,0,Textron Aviation,,,
 A2C39F,N27752,B3XM,Boeing,737 MAX 10,Boeing 737 MAX 10,0,Boeing Company,BOE,66123,2021
 A2C49D,N278EE,E545,Embraer,Praetor 500,Embraer Praetor 500,1,Private,,55010078,
 A2C4B6,N278FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,66247,2021

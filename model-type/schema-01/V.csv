@@ -112,6 +112,7 @@ VL3,Aveko,Sprint,1,P,,L,L,0
 VL3,JMB Aircraft,Evolution,1,P,,L,L,0
 VL3,KLN,Flamingo,1,P,,L,L,0
 VL3,Vanessa Air,Flamingo,1,P,,L,L,0
+VL3T,JMB Aircraft,VL-3 Evolution Turbine,1,T,,L,L,1
 VLOT,Velocity,Velocity XL (turbine),1,T,,L,L,1
 VLTT,Velocity,Velocity V-Twin (turbine),2,T,,L,L,1
 VM1,Vol Mediterrani,VM-1 Esqual,1,P,,L,L,1

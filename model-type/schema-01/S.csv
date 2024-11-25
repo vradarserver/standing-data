@@ -655,6 +655,7 @@ SPHA,American Autogyro,Spinus,1,P,,G,L,1
 SPIR,Questair,Spirit,1,P,,L,L,1
 SPIT,Supermarine,Seafire,1,P,,L,L,1
 SPIT,Supermarine,Spitfire,1,P,,L,L,1
+SPKR,TL Ultralight,Sparker,1,P,,L,L,1
 SPOR,Amax,Sport 1700,1,P,,L,L,1
 SPR2,Carlson,Sparrow 2,1,P,,L,L,1
 SPR2,Carlson,Sparrow-ette,1,P,,L,L,1
@@ -866,7 +867,7 @@ SUCO,Bell,AH-1W SuperCobra,2,T,,H,M,1
 SUCO,Bell,AH-1Z SuperCobra,2,T,,H,M,1
 SUCO,Panha,2091,2,T,,H,M,1
 SUCO,Bell,SuperCobra,2,T,,H,M,0
-SUNB,Verilite,100 Sunbird,1,P,,L,L,1
+SUNB,Verilite,100 Sunbird,1,P,,L,L,0
 SUNB,Verilite,Sunbird,1,P,,L,L,0
 SUNV,Fokker,Super Universal,1,P,,L,L,1
 SURN,Korea Aerospace,KUH-1 Surion,2,T,,H,M,1

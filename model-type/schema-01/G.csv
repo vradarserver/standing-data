@@ -226,7 +226,7 @@ GEMI,Miles,M-65 Gemini,2,P,,L,L,1
 GEMI,Miles,Gemini,2,P,,L,L,0
 GENI,IFB,E-Genius,1,E,,L,L,1
 GEPE,Aero Services,Guêpe,1,P,,L,L,1
-GF20,Grob,GF-200,1,P,,L,L,1
+GF20,Grob,GF-200,1,P,,L,L,0
 GFLY,Scaled,311 Global Flyer,1,J,,L,M,0
 GFLY,Scaled,Global Flyer,1,J,,L,M,0
 GJ11,Hongdu,GJ-11 Sharp Sword,1,J,,L,M,1
@@ -236,6 +236,7 @@ GL5T,Bombardier,Global 5000,2,J,A,L,M,0
 GL5T,Bombardier,Global 5500,2,J,A,L,M,0
 GL7T,Bombardier,BD-700 Global 7000,2,J,,L,M,1
 GL7T,Bombardier,BD-700 Global 7500,2,J,,L,M,1
+GL7T,Bombardier,BD-700 Global 8000,2,J,,L,M,1
 GL7T,Bombardier,Global 7000,2,J,,L,M,0
 GL7T,Bombardier,Global 7500,2,J,,L,M,0
 GLAD,Gloster,Gladiator,1,P,,L,L,1
@@ -341,7 +342,7 @@ GLST,New GlaStar,GlaStar,1,P,,L,L,1
 GLST,Stoddard-Hamilton,SH-4 GlaStar,1,P,,L,L,1
 GLST,Stoddard-Hamilton,GlaStar,1,P,,L,L,0
 GLTU,Stoddard-Hamilton,Turbine Glasair,1,T,,L,L,1
-GM01,Yalo,GM-01 Gniady,1,P,,L,L,1
+GM01,Yalo,GM-01 Gniady,1,P,,L,L,0
 GM01,Yalo,Gniady,1,P,,L,L,0
 GM17,Intracom,GM-17 Viper,1,T,,L,L,1
 GM17,Intracom,GM-17  Viper,1,T,,L,L,0
@@ -354,7 +355,7 @@ GOBU,Butterfly,Golden Butterfly,1,P,,G,L,1
 GOLF,Tecnam,P-96 Golf,1,P,,L,L,1
 GOLF,Tecnam,Golf,1,P,,L,L,0
 GOOS,Quikkit,Glass Goose,1,P,,A,L,1
-GOTR,Goair,GT-1 Trainer,1,P,,L,L,1
+GOTR,Goair,GT-1 Trainer,1,P,,L,L,0
 GOTR,Goair,Trainer,1,P,,L,L,0
 GP1,Jihlavan,Skyleader GP One,1,P,,L,L,1
 GP1,Zall Jihlavan,Skyleader GP One,1,P,,L,L,1
@@ -372,7 +373,8 @@ GR51,Exclusive,Grand 51,1,T,,L,L,0
 GRAF,Lundy,Graflite,1,P,,L,L,0
 GRFN,Griffon Aero,Griffon,1,P,,L,L,1
 GRIF,Canada Air Rv,Griffin,1,P,,L,L,1
-GRIZ,Aerotek (Canada),Turbo Grizzly,1,T,,L,L,1
+GRIZ,Aeronautical Systems,Turbo Grizzly,1,T,,L,L,1
+GRIZ,Aerotek (Canada),Turbo Grizzly,1,T,,L,L,0
 GSIS,Innovation,Genesis,1,P,,L,L,1
 GSIS,Innovation,Genesis Revelation,1,P,,L,L,1
 GSIS,SlipStream,Genesis,1,P,,L,L,1

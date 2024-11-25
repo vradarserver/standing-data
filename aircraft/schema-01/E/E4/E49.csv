@@ -6,6 +6,7 @@ E49524,PR-XMV,B737,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,G
 E49539,PR-ANV,A339,Airbus,A330-941,Airbus A330-941,0,Azul Linhas Aéreas Brasileiras,AZU,1952,2020
 E4962E,PR-YJD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Azul Linhas Aéreas Brasileiras,AZU,10173,2021
 E49686,PR-GEU,B737,Boeing,737-752,Boeing 737-752,0,Gol Transportes Aéreos,GLO,34295,2005
+E49697,PR-XBG,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11725,2023
 E49698,PR-XBH,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11597,2023
 E49699,PR-YSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10582,2021
 E496E5,PS-CAT,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5121,2006
@@ -24,6 +25,7 @@ E49819,PS-TEC,BE40,Hawker Beechcraft,400XP,Hawker 400XP,1,Private,,RK-389,
 E49830,PR-YJF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Azul Linhas Aéreas Brasileiras,AZU,10793,2021
 E49849,PS-LAA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,LATAM Chile,LAN,38483,2019
 E49866,PR-YSI,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,10804,2022
+E4987B,PS-GMR,P46T,Piper,PA-46-500TP Meridian M500,Piper PA-46-500TP Meridian M500,1,Private,,4697682,2021
 E49887,PS-AAV,GLF5,Gulfstream,Aerospace GV-SP,Gulfstream Aerospace GV-SP,1,Private,,5124,
 E49889,PS-GPN,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,65054,2021
 E4988B,PS-GPM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,65053,2019
@@ -49,7 +51,9 @@ E49958,PS-GPE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,G
 E4996D,PS-MAM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5609,2020
 E4998A,PS-RDR,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Comexport Trading Comercio Exterior Ltd,,6181,2022
 E4998D,PS-BIR,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9514,2012
+E49994,PS-MVC,WW24,IAI,1124 Westwind,IAI 1124 Westwind,0,Brasil Vida Táxi Aéreo,,292,1980
 E4999D,PR-XBJ,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11139,2022
+E4999E,PR-XBK,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11228,2022
 E499BC,PS-INB,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0662,
 E499C1,PP-CMK,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,339,2004
 E49A0F,PS-BLL,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Lider Aviação,,,

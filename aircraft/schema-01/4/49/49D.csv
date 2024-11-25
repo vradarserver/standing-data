@@ -20,7 +20,7 @@
 49D4E4,OK-BZZ,BE40,Hawker Beechcraft,400XP,Hawker Beechcraft 400XP,0,Jetbee Czech,JBC,RK-0552,2008
 49D4EB,OK-KKF,GLF6,Gulfstream Aerospace,G650,Gulfstream G650,0,ABS Jets,ABP,6416,2019
 49D4F7,OK-KGR,C56X,Cessna,Ciatation XLS+,Cessna Ciatation XLS+,0,Eclair Aviation,ECC,560-6325,2022
-49D4FF,OK-VOS,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,1,Private,,72090,2022
+49D4FF,OK-VOS,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,0,Avcon Jet,AOJ,72090,2022
 49D505,OK-KEV,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,62.192,
 49D506,OK-BOB,B350,Beechcraft,B300 King Air 350,Beechcraft B300 King Air 350,1,Private,,FL-322,
 49D507,OK-OPT,B06,Bell,206B JetRanger III,Bell 206B JetRanger III,1,Private,,4666,
@@ -33,6 +33,7 @@
 49D552,OK-CJI,C525,Cessna,Citation CJ1,Cessna Citation CJ1,1,Private,,525-0101,
 49D557,OK-SIX,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,ABS Jets,ABP,6544,2023
 49D558,OK-HUB,GLF5,Gulfstream,G500,Gulfstream G500,0,ABS Jets,ABP,72113,
+49D55E,OK-SRT,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,8930,
 49D563,OK-SWI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Smartwings,TVS,66343,2023
 49D56E,OK-PHA,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500611,2021
 49D570,OK-PET,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,0,Aeropartner,DFC,680-0174,
@@ -40,6 +41,9 @@
 49D588,OK-UMO,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0220,2008
 49D58D,OK-EXE,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2243,
 49D5A4,OK-SKT,BE9L,Beech,C90GTi King Air,Beech C90GTi King Air,1,Private,,LJ-1900,
+49D5A6,OK-EYA,BCS3,Airbus,A220-300,Airbus A220-300,0,Smartwings,TVS,55311,2024
 49D5B4,OK-ELD,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500585,
 49D5C0,OK-EVO,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,ABS Jets,ABP,6160,2015
 49D5D3,OK-PCJ,PC24,Pilatus,PC-24,Pilatus PC-24,0,OK Business Aircraft,,310,
+49D5D7,OK-PRF,E550,Embraer,Praetor 600,Embraer Praetor 600,0,CTR Atmospherica Aviation,,55020198,2024
+49D5E2,OK-OUT,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Alpha Aviation,AAO,2412,2024

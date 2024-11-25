@@ -16,6 +16,7 @@
 407812,G-KION,C525,Cessna,Citation CJ1,Cessna Citation CJ1,0,Naljets,APX,525-0292,
 40784F,G-LUSO,PC12,Pilatus,PC-XII 47E,Pilatus PC-XII 47E,0,Raven Air,RVR,1880,2019
 407886,G-RGAL,DA40,Diamond,DA40 Diamond Star,Diamond DA40 Diamond Star,0,Romeo Golf Aviation,,407886,2007
+40789C,G-TESC,DA40,Diamond,DA-40D Diamond Star,Diamond DA-40D Diamond Star,1,Private,,D4.286,
 4078F8,G-NHVV,EC75,Airbus Helicopters,EC175 B (H175),Airbus Helicopters EC175 B (H175),0,NHV Helicopters,NHZ,5002,2014
 4078FE,G-DRTP,B738,Boeing,737-8AL,Boeing 737-8AL,0,Jet2.com,EXS,39067,2013
 407906,G-JBVW,BL8,American Champion,8KCAB,American Champion 8KCAB,1,Private,,813-98,1998
@@ -74,7 +75,7 @@
 407BBA,G-CMAK,C152,Cessna,152,Cessna 152,0,Brinkley Aviation,,15285751,1983
 407BBD,G-NGTC,EXNG,Extra,NG,Extra NG,0,Skyboard Aerobatics,,NG021,2021
 407BC0,G-CLZV,CLON,RotorSport UK,Cavalon,RotorSport UK Cavalon,1,Private,,RSUK/CVLN/035,2021
-407BC4,G-LOBX,GL7T,Bombardier,BD-700-2A12,Bombardier BD-700-2A12,0,Arc Aviation,,70053,2020
+407BC4,G-LOBX,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Jet Concierge Club,JCO,70053,2020
 407BC5,G-ULFX,GA6C,Gulfstream Aerospace,GVII (G600),Gulfstream Aerospace GVII (G600),0,Rock Aviation,,73047,2020
 407BCF,G-NJAD,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,0,Netjets UK,NJU,41,2004
 407BDC,G-RUKB,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,44690,2014
@@ -285,6 +286,7 @@
 407E05,G-DKDK,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Catreus,VCG,525-1117,2022
 407E0B,G-KMTE,SR22,Cirrrus,SR22,Cirrrus SR22,0,KEYMT Installation,,4754,2019
 407E0C,G-GGTR,ULAC,P&M Aviation,Quik GTR,P&M Aviation Quik GTR,1,Private,,W6015,
+407E0F,G-IIZE,EDGE,Zivko,Edge 540-A,Zivko Edge 540-A,0,Airtime Aerobatics Ltd,,0029A,2001
 407E11,G-SZTD,SLG2,Sling,LSA,Sling LSA,1,Private,,LAA 399-15646,
 407E17,G-STJP,TL20,TL Ultralight,TL-2000 Sting S4,TL Ultralight TL-2000 Sting S4,1,Private,,22 ST 505,2022
 407E19,G-EXTB,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Flybe,BEE,4411,2012
@@ -357,6 +359,7 @@
 407EB2,G-TTNU,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,11403,2023
 407EB3,G-ETGA,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2212,2022
 407EB5,G-DHLV,B77L,Boeing,777-F,Boeing 777-F,0,DHL Air UK,DHK,67142,2023
+407EB7,G-CMLV,TL20,TL Ultralight,TL-2000 Sting S4,TL Ultralight TL-2000 Sting S4,1,Private,,23 ST 508,2023
 407EB8,G-LILB,RV3,Van's,RV-3B,Van's RV-3B,1,Private,,10159,2007
 407EBF,G-FOOJ,SUBA,Fuji,FA-200 Aero Subaru,Fuji FA-200 Aero Subaru,1,Private,,FA200-165,
 407EC0,G-ORNG,MM16,Magni,M16C,Magni M16C,0,Gyromania,,16-22-4214,2022
@@ -373,6 +376,7 @@
 407EE8,G-MCAD,T206,Cessna,Turbo Stationair HD,Cessna Turbo Stationair HD,1,Private,,T20609715,2023
 407EEB,G-SUNF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,11720,2023
 407EEC,G-UZLP,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11707,2023
+407EF3,G-MAKO,SHRK,Shark,Aero 600,Shark Aero 600,0,The Light Aircraft Company,,113,
 407EF6,G-IVYY,C42,Ikarus,C42 FB100 Bravo,Ikarus C42 FB100 Bravo,1,Private,,42B-7688,2023
 407EF7,G-ETPR,B350,Beech,B300 King Air 350,Beech B300 King Air 350,0,EIS Aircraft,EIS,FL-727,2010
 407EF9,G-WBRN,R66,Robinson,R66 Turbine,Robinson R66 Turbine,1,Private,,1223,
@@ -405,6 +409,7 @@
 407F4C,G-LMTF,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1054,2012
 407F4E,G-TJAE,DA42,Diamond,DA42,Diamond DA42,1,Private,,42.033,2005
 407F50,G-TTCK,C25B,Cessna,525B CitationJet CJ3+,Cessna 525B CitationJet CJ3+,0,NALjets,,525B-0534,2018
+407F5A,G-GLCM,P32R,Piper,PA-32R-300,Piper PA-32R-300,1,Private,,32R-7680422,1976
 407F5F,G-EJCO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,05648,2013
 407F60,G-EJCG,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,04033,2009
 407F61,G-EJCH,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,4316,2010
@@ -467,6 +472,7 @@
 407FDA,G-WUKX,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11615,2023
 407FDD,G-LAAB,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,0,London's Air Ambulance,,2246,2023
 407FE0,G-JCAN,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Voluxis,VXS,60092,2023
+407FE3,G-TLDM,TL30,TL ULTRALIGHT SRO,TL-3000 SIRIUS 600,TL ULTRALIGHT SRO TL-3000 SIRIUS 600,1,Private,,23 SI 233,2023
 407FE4,G-EMHF,A109,AgustaWestland,AW109SP Grand New,AgustaWestland AW109SP Grand New,0,East Midlands Helicopters,CTK,22451,2023
 407FEA,G-WUKY,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air UK,WUK,11505,2023
 407FF1,G-OASB,AT75,ATR,72-500(F),ATR 72-500(F),0,ASL Airlines UK,ABV,0679,2001

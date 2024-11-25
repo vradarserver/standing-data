@@ -104,6 +104,7 @@ B209,Messerschmitt-Bolkow,BO-209 Monsun,1,P,,L,L,1
 B209,Bolkow,Monsun,1,P,,L,L,0
 B209,MBB,Monsun,1,P,,L,L,0
 B209,Messerschmitt-Bolkow,Monsun,1,P,,L,L,0
+B21,Northrop Grumman,B-21 Raider,2,J,,L,M,1
 B212,Agusta,AB-212,2,T,,H,L,1
 B212,Bell,212,2,T,,H,L,1
 B212,Bell,212 Twin Two-Twelve,2,T,,H,L,1
@@ -326,7 +327,8 @@ B739,Boeing,BBJ3,2,J,,L,M,0
 B741,Boeing,747-100,4,J,,L,H,1
 B742,Boeing,747-200,4,J,,L,H,1
 B742,Boeing,E-4,4,J,,L,H,1
-B742,Boeing,VC-25,4,J,,L,H,1
+B742,Boeing,VC-25A,4,J,,L,H,1
+B742,Boeing,VC-25,4,J,,L,H,0
 B743,Boeing,747-300,4,J,,L,H,1
 B744,Boeing,747-400,4,J,,L,H,1
 B744,Boeing,747-400,4,J,,L,H,1
@@ -334,6 +336,7 @@ B744,Boeing,"747-400 (international, winglets)",4,J,,L,H,0
 B744,Boeing,YAL-1,4,J,,L,H,0
 B748,Boeing,747-8,4,J,,L,H,1
 B748,Boeing,747-8 BBJ,4,J,,L,H,1
+B748,Boeing,VC-25B,4,J,,L,H,1
 B748,Boeing,BBJ (747-8),4,J,,L,H,0
 B74D,Boeing,"747-400 (domestic, no winglets)",4,J,,L,H,0
 B74R,Boeing,747SR,4,J,,L,H,1
@@ -351,6 +354,7 @@ B772,Boeing,777-200,2,J,,L,H,1
 B772,Boeing,777-200ER,2,J,,L,H,1
 B773,Boeing,777-300,2,J,,L,H,1
 B778,Boeing,777-8,2,J,,L,H,1
+B778,Boeing,777-8F,2,J,,L,H,1
 B779,Boeing,777-9,2,J,,L,H,1
 B77L,Boeing,777-200LR,2,J,,L,H,1
 B77L,Boeing,777-200LR BBJ,2,J,,L,H,1
@@ -489,7 +493,6 @@ BE20,Beech,TC-12 Huron,2,T,,L,L/M,1
 BE20,Beech,UC-12 Huron,2,T,,L,L/M,1
 BE20,Beechcraft,200 King Air 250,2,T,,L,L/M,1
 BE20,Beechcraft,200 King Air 260,2,T,,L,L/M,1
-BE20,Beechcraft,King Air 260,2,T,,L,L/M,1
 BE20,Hawker Beechcraft,200 King Air 200,2,T,,L,L/M,1
 BE20,Raytheon,200 Super King Air,2,T,,L,L/M,1
 BE20,Raytheon,C-12 Huron,2,T,,L,L/M,1
@@ -519,6 +522,7 @@ BE20,Beech,UC-12 Huron,2,T,,L,L,0
 BE20,Beechcraft,200 King Air 250,2,T,,L,L,0
 BE20,Beechcraft,King Air 250,2,T,,L,L,0
 BE20,Beechcraft,King Air 250,2,T,,L,L/M,0
+BE20,Beechcraft,King Air 260,2,T,,L,L/M,0
 BE20,Hawker Beechcraft,200 King Air 200,2,T,,L,L,0
 BE20,Hawker Beechcraft,King Air 200,2,T,,L,L,0
 BE20,Hawker Beechcraft,King Air 200,2,T,,L,L/M,0

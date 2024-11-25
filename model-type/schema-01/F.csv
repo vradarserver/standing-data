@@ -12,8 +12,8 @@ F104,Lockheed,RF-104 Starfighter,1,J,,L,M,1
 F104,Lockheed,TF-104 Starfighter,1,J,,L,M,1
 F104,Canadair,Starfighter,1,J,,L,M,0
 F104,Lockheed,Starfighter,1,J,,L,M,0
-F106,Convair,QF-106 Delta Dart,1,J,,L,M,1
 F106,Convair,Delta Dart,1,J,,L,M,0
+F106,Convair,QF-106 Delta Dart,1,J,,L,M,0
 F111,General Dynamics,Aardvark,2,J,,L,M,0
 F111,General Dynamics,EF-111 Raven,2,J,,L,M,0
 F111,General Dynamics,F-111 Aardvark,2,J,,L,M,0
@@ -22,8 +22,8 @@ F111,General Dynamics,RF-111 Aardvark,2,J,,L,M,0
 F111,Grumman,EF-111 Raven,2,J,,L,M,0
 F111,Grumman,Raven,2,J,,L,M,0
 F117,Lockheed,F-117 Night Hawk,2,J,,L,M,1
-F117,Lockheed,Night Hawk,2,J,,L,M,1
 F117,Lockheed,F-117 Nighthawk,2,J,,L,M,0
+F117,Lockheed,Night Hawk,2,J,,L,M,0
 F117,Lockheed,Nighthawk,2,J,,L,M,0
 F117,Lockheed,YF-117 Nighthawk,2,J,,L,M,0
 F13,Junkers,F-13 Replica,1,P,,L,L,1
@@ -63,6 +63,7 @@ F16,General Dynamics,F-16 Brakeet,1,J,,L,M,1
 F16,General Dynamics,F-16 Fighting Falcon,1,J,,L,M,1
 F16,General Dynamics,F-16 Netz,1,J,,L,M,1
 F16,General Dynamics,NF-16 Fighting Falcon,1,J,,L,M,1
+F16,General Dynamics,QF-16 Fighting Falcon,1,J,,L,M,1
 F16,General Dynamics,TF-16 Fighting Falcon,1,J,,L,M,1
 F16,Korea Aerospace,F-16 Fighting Falcon,1,J,,L,M,1
 F16,Lockheed,F-16 Fighting Falcon,1,J,,L,M,1
@@ -222,22 +223,22 @@ F3F,Texas Airplane,G-11 Replica,1,P,,L,L,1
 F3F,Texas Airplane,G-32 Replica,1,P,,L,L,1
 F4,IAI,F-4 Kurnass 2000,2,J,,L,M,1
 F4,IAI,F-4 Phantom 2000,2,J,,L,M,1
-F4,McDonnell,C-12 Phantom 2,2,J,,L,M,1
-F4,McDonnell,CR-12 Phantom 2,2,J,,L,M,1
 F4,McDonnell,F-4 Phantom 2,2,J,,L,M,1
 F4,McDonnell,RF-4 Phantom 2,2,J,,L,M,1
-F4,McDonnell Douglas,F-4 Kurnass,2,J,,L,M,1
 F4,McDonnell Douglas,F-4 Phantom 2,2,J,,L,M,1
-F4,McDonnell Douglas,QF-4 Phantom 2,2,J,,L,M,1
-F4,McDonnell Douglas,RF-4 Kurnass,2,J,,L,M,1
 F4,McDonnell Douglas,RF-4 Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,F-4 Phantom 2,2,J,,L,M,1
 F4,Mitsubishi,RF-4 Phantom 2,2,J,,L,M,1
 F4,IAI,Kurnass 2000,2,J,,L,M,0
 F4,IAI,Phantom 2000,2,J,,L,M,0
+F4,McDonnell,C-12 Phantom 2,2,J,,L,M,0
+F4,McDonnell,CR-12 Phantom 2,2,J,,L,M,0
 F4,McDonnell,Phantom 2,2,J,,L,M,0
+F4,McDonnell Douglas,F-4 Kurnass,2,J,,L,M,0
 F4,McDonnell Douglas,Kurnass,2,J,,L,M,0
 F4,McDonnell Douglas,Phantom 2,2,J,,L,M,0
+F4,McDonnell Douglas,QF-4 Phantom 2,2,J,,L,M,0
+F4,McDonnell Douglas,RF-4 Kurnass,2,J,,L,M,0
 F4,Mitsubishi,Phantom 2,2,J,,L,M,0
 F402,Falcon Air,Falcon 402,1,T,,L,L,1
 F406,Cessna,F406 Caravan 2,2,T,,L,L,1
@@ -291,6 +292,7 @@ F600,SIAI-Marchetti,SF-600 Canguro,2,T,,L,L,1
 F600,VulcanAir,SF-600 Canguro,2,T,,L,L,1
 F600,SIAI-Marchetti,Canguro,2,T,,L,L,0
 F600,VulcanAir,Canguro,2,T,,L,L,0
+F7,Fokker,F-7 Replica,3,P,,L,L,1
 F70,Fokker,70,2,J,A,L,M,1
 F8,Chance Vought,F8 Crusader,1,J,,L,M,1
 F8,Chance Vought,F8U Crusader,1,J,,L,M,1

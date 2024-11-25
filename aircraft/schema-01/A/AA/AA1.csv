@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AA104E,N748AM,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Aeroméxico,AMX,62148,2021
 AA18A7,N75KX,LJ75,Learjet,75,Learjet 75,1,Private,,45-608,2022
 AA18A8,N75KY,C208,Cessna,208 Grand Caravan,Cessna 208 Grand Caravan,1,Private,,208B5708,2022
 AA1A87,N750FA,H25B,Hawker Beechcraft,750,Hawker Beechcraft 750,1,Private,,HB-20,2008

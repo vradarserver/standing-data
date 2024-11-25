@@ -294,11 +294,13 @@ LNC4,Lancair,Lancair 4,1,P,,L,L,1
 LNC4,Neico,Lancair 4,1,P,,L,L,1
 LNC4,PADC,Lancair 4,1,P,,L,L,1
 LNC4,PAI,Lancair 4,1,P,,L,L,1
+LNC4,RDD,LX-7 (piston),1,P,,L,L,1
 LNCE,Lancair,Lancair ES,1,P,,L,L,1
 LNCE,Lancair,Lancair Super ES,1,P,,L,L,1
 LNCE,PADC,Lancair ES,1,P,,L,L,1
 LNCE,PAI,Lancair ES,1,P,,L,L,1
 LNP4,Lancair,Lancair PropJet 4,1,T,,L,L,1
+LNP4,RDD,LX-7 (turboprop),1,T,,L,L,1
 LNT4,Lancair,Sentry 4T,1,T,,L,L,1
 LOCA,Aerolab,LoCamp,1,P,,L,L,1
 LOVE,Loving-Wayne,WR-1 Love,1,P,,L,L,1

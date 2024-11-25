@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 489009,SP-EAK,BE40,Hawker Beechcraft,400XP,Hawker Beechcraft 400XP,0,Smart Jet,SAH,RK-533,
+489182,SP-EMC,PC12,Pilatus,PC-12/47E,Pilatus PC-12/47E,1,Private,,1522,
 489228,SP-ESI,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,Enter Air,ENT,30684,2005
 489229,SP-ESK,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,Enter Air,ENT,30693,2003
 48922B,SP-ESL,B738,Boeing,737-86N,Boeing 737-86N,0,Enter Air,ENT,35216,2007

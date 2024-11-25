@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A9A372,N72Z,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,137,2007
+A9A38E,N720AB,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,062,
 A9A397,N720AL,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,67810,2024
 A9A3C5,N720CG,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9755,2023
 A9A468,N720JV,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6513,2023
@@ -15,3 +16,4 @@ A9AB0B,N722AS,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,AirShar
 A9ABA0,N722GR,H25B,Hawker Beechcraft,900XP,Hawker Beechcraft 900XP,0,Northern Jet Management,NJM,HA-0008,2007
 A9AEC2,N723AS,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,AirShare,XSR,20915,2022
 A9AFB7,N723LM,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,4698209,2022
+A9AFE7,N723NK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Spirit Airlines,NKS,12102,2024

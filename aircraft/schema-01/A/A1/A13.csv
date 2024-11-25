@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A13044,N176JE,GLF4,Gulfstream Aerospace,IV,Gulfstream Aerospace IV,0,Vista America,VJA,1456,2001
 A13091,N176MG,GLF4,Gulfstream Aerospace,G400,Gulfstream Aerospace G400,0,Solairus Aviation,TWY,1501,2002
 A130BD,N176PA,DA62,Diamond,DA-62,Diamond DA-62,1,Private,,80842,2004
 A130E6,N176QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70096,2021
@@ -6,4 +7,5 @@ A1349D,N177QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,7010
 A13854,N178QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70116,2022
 A13B65,N179JA,GALX,Gulfstream Aerospace,G200 Galaxy,Gulfstream Aerospace G200 Galaxy,0,N721 CC LLC,,088,2003
 A13C0B,N179QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70137,2022
+A13E64,N18AS,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9059,2023
 A13E6C,N18B,GA5C,Gulfstream Aerospace,GVII-G500,Gulfstream Aerospace GVII-G500,1,Private,,72038,2019

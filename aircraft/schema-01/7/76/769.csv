@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 769101,9V-DHA,B77L,Boeing,777-F,Boeing 777-F,0,Singapore Airlines,SIA,67140,2022
+769103,9V-DHC,B77L,Boeing,777-F,Boeing 777-F,0,Singapore Airlines,SIA,67143,2023
 769104,9V-DHD,B77L,Boeing,777-F,Boeing 777-F,0,Singapore Airlines Cargo,SQC,67144,2023
+769105,9V-DHE,B77L,Boeing,777-F,Boeing 777-F,0,Singapore Airlines,SIA,67145,2023

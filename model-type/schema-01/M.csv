@@ -204,6 +204,7 @@ M7,Maule,Sportplane,1,P,,L,L,0
 M7,Maule,Star Craft (piston),1,P,,L,L,0
 M7,Maule,Star Rocket,1,P,,L,L,0
 M7,Maule,Super Rocket (M-7/MT-7),1,P,,L,L,0
+M700,Piper,PA-46-701TP M700 Fury,1,T,,L,L,1
 M74,Texas Helicopter,M-74 Wasp,1,P,,H,L,1
 M74,Texas Helicopter,Wasp,1,P,,H,L,0
 M7T,Maule,M-7-420,1,T,,L,L,1
@@ -237,7 +238,8 @@ MAJR,Luton,LA-5 Major,1,P,,L,L,1
 MAJR,Phoenix Aircraft (UK),LA-5 Major,1,P,,L,L,1
 MAJR,Luton,Major,1,P,,L,L,0
 MAJR,Phoenix Aircraft (UK),Major,1,P,,L,L,0
-MAKO,Lancair,Mako,1,P,,L,L,1
+MAKO,Lancair,NLA-450 Mako,1,P,,L,L,1
+MAKO,Lancair,Mako,1,P,,L,L,0
 MAMB,Melbourne,MA-2 Mamba,1,P,,L,L,1
 MAMB,Melbourne,Mamba,1,P,,L,L,0
 MAME,Aerocomp,Merlin,1,P,,L,L,1
@@ -488,16 +490,17 @@ MJ2,Jurca,MJ-22 Tempête,1,P,,L,L,1
 MJ2,Siravia,MJ-22 Tempête,1,P,,L,L,1
 MJ2,Jurca,Tempête,1,P,,L,L,0
 MJ2,Siravia,Tempête,1,P,,L,L,0
-MJ3,Jurca,MJ-3 Dart,1,P,,L,L,1
 MJ3,Jurca,Dart,1,P,,L,L,0
+MJ3,Jurca,MJ-3 Dart,1,P,,L,L,0
 MJ4,Jurca,MJ-4 Shadow,1,P,,L,L,1
 MJ4,Jurca,Shadow,1,P,,L,L,0
 MJ5,Jurca,MJ-5 Sirocco,1,P,,L,L,1
 MJ5,Jurca,Sirocco,1,P,,L,L,0
+MJ51,Jurca,MJ-51 Spérocco,1,P,,L,L,1
 MJ53,Jurca,MJ-53 Autan,1,P,,L,L,1
 MJ53,Jurca,Autan,1,P,,L,L,0
-MJ55,Jurca,MJ-55 Biso,1,P,,L,L,1
 MJ55,Jurca,Biso,1,P,,L,L,0
+MJ55,Jurca,MJ-55 Biso,1,P,,L,L,0
 MJ7,Boeve,P-51 Mustang,1,P,,L,L,1
 MJ7,Jurca,MJ-7 Gnatsum,1,P,,L,L,1
 MJ7,Boeve,Mustang,1,P,,L,L,0
@@ -523,7 +526,7 @@ MM22,Magni,M-22 Voyager,1,P,,G,L,1
 MM22,Magni,Voyager,1,P,,G,L,0
 MM24,Magni,M-24 Orion,1,P,,G,L,1
 MM24,Magni,Orion,1,P,,G,L,0
-MMAC,McCarley,Mini-Mac,1,P,,L,L,1
+MMAC,McCarley,Mini-Mac,1,P,,L,L,0
 MMAX,Mad Max Aero,Mad Max,1,P,,G,L,1
 MMUT,Mara Wing,1-L Malamut,1,P,,L,L,1
 MMUT,Mara Wing,L-1 Malamut,1,P,,L,L,1

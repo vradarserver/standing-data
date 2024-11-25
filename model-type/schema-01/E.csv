@@ -152,8 +152,8 @@ E75L,Embraer,ERJ-170-200 (long wing),2,J,,L,M,1
 E75S,Embraer,175 (short wing),2,J,,L,M,1
 E75S,Embraer,ERJ-170-200 (short wing),2,J,,L,M,1
 E767,Boeing,E-767,2,J,,L,H,1
-E7BH,E-7 Group,E-7 Bush Hog,1,P,,L,L,1
 E7BH,E-7 Group,Bush Hog,1,P,,L,L,0
+E7BH,E-7 Group,E-7 Bush Hog,1,P,,L,L,0
 EA40,Eclipse,Eclipse 400,1,J,,L,L,1
 EA50,Eclipse,Eclipse 500,2,J,,L,L,1
 EA50,Eclipse,Eclipse 550,2,J,,L,L,1
@@ -372,7 +372,7 @@ ESCA,AIR,Epic Escape,1,T,,L,L,1
 ESCA,Epic Aircraft,Epic Escape,1,T,,L,L,1
 ESCP,Just,Escapade,1,P,,L,L,1
 ESCP,Reality,Escapade,1,P,,L,L,1
-ESQL,Moura,Esqualo,1,P,,L,L,1
+ESQL,Moura,Esqualo,1,P,,L,L,0
 ETA,Binder (2),Eta,1,P,,L,L,1
 ETA,Eta Aircraft,Eta,1,P,,L,L,1
 ETAR,Dassault,Etendard 4,1,J,,L,M,1
@@ -405,6 +405,9 @@ EVIC,AIR,Epic Victory,1,J,,L,L,1
 EVIC,Epic Aircraft,Epic Victory,1,J,,L,L,1
 EVOL,Lancair,Evolution,1,T,,L,L,0
 EVOP,Lancair,Evolution Piston,1,P,,L,L,1
+EVOT,EVOLUTION,EVOT-550 EVOLUTION,1,T,,L,L,1
+EVOT,EVOLUTION,EVOT-750 EVOLUTION,1,T,,L,L,1
+EVOT,EVOLUTION,EVOT-850 EVOLUTION,1,T,,L,L,1
 EVOT,Lancair,Evolution Turbine,1,T,,L,L,1
 EVOT,Lancair,Evolution Turbine,1,P,,L,L,0
 EVSS,Evektor,SportStar,1,P,,L,L,1
@@ -436,5 +439,5 @@ EZFL,Blue Yonder,E-Z Flyer,1,P,,L,L,1
 EZFL,Merlin,E-Z Flyer,1,P,,L,L,1
 EZFT,Blue Yonder,Twin E-Z Flyer,2,P,,L,L,1
 EZHV,Blue Yonder,E-Z Harvard,1,P,,L,L,1
-EZIK,Istra,Ezhik,1,P,,L,L,1
+EZIK,Istra,Ezhik,1,P,,L,L,0
 EZKC,Blue Yonder,E-Z King Cobra,1,P,,L,L,1

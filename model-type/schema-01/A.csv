@@ -54,6 +54,7 @@ A119,AgustaWestland,AW-119 Koala,1,T,,H,L,1
 A119,Denel,A-119 Koala,1,T,,H,L,1
 A119,Finmeccanica,AW-119 Koala,1,T,,H,L,1
 A119,Leonardo,AW-119 Koala,1,T,,H,L,1
+A119,Leonardo,TH-73 Thrasher,1,T,,H,L,1
 A119,Agusta,Koala,1,T,,H,L,0
 A119,AgustaWestland,Koala,1,T,,H,L,0
 A119,Denel,Koala,1,T,,H,L,0
@@ -93,7 +94,7 @@ A149,Agusta,AW-149,2,T,,H,M,1
 A149,AgustaWestland,AW-149,2,T,,H,M,1
 A149,Leonardo,AW-149,2,T,,H,M,1
 A158,Antonov,An-158,2,J,,L,M,1
-A16,AviaDesign,A-16 Sport Falcon,1,P,,L,L,1
+A16,AviaDesign,A-16 Sport Falcon,1,P,,L,L,0
 A16,AviaDesign,Sport Falcon,1,P,,L,L,0
 A169,AgustaWestland,AW-169,2,T,,H,L,1
 A169,Finmeccanica,AW-169,2,T,,H,L,1
@@ -567,6 +568,7 @@ AG02,Gatard,Poussin,1,P,,L,L,0
 AG04,Gatard,AG-04 Pigeon,1,P,,L,L,1
 AG1,Halley,Apollo AG-1 Gyro,1,P,,G,L,1
 AG10,CAIGA,AG-100,1,P,,L,L,1
+AG10,Cirrus,SR-10,1,P,,L,L,1
 AG14,Anderson-Greenwood,14,1,P,,L,L,1
 AG14,Anderson-Greenwood,AG-14,1,P,,L,L,1
 AG14,Anderson-Greenwood,AND-51,1,P,,L,L,1
@@ -745,6 +747,7 @@ APM4,Issoire,APM-40 Simba,1,P,,L,L,1
 APM4,Issoire,APM-41 Simba,1,P,,L,L,1
 APM4,Issoire,Simba,1,P,,L,L,0
 APUP,Aeropup,Aeropup,1,P,,L,L,1
+APUP,FIELDEN AERO,Aeropup,1,P,,L,L,1
 APUP,Supapup,Aeropup,1,P,,L,L,1
 AR1,Silverlight,AR-1 American Ranger 1,1,P,,G,L,1
 AR1,Silverlight,American Ranger 1,1,P,,G,L,0
@@ -996,6 +999,7 @@ AS65,Helicópteros do Brasil,Panther,2,T,,H,L,0
 AS65,Vought,Panther 800,2,T,,H,L,0
 AS80,Starck,AS-80 Holiday,1,P,,L,L,1
 AS80,Starck,Holiday,1,P,,L,L,0
+ASDR,WILD,Ascender,1,P,,L,L,1
 ASO4,Asso Aerei,Asso 4 Whisky,1,P,,L,L,1
 ASO4,PCV,Asso 4 Whisky,1,P,,L,L,1
 ASO4,Vidor,Asso 4 Whisky,1,P,,L,L,1
@@ -1128,3 +1132,4 @@ AVK4,Avtek,400,2,T,,L,L,0
 AVLN,Airmaster,Avalon 680,1,T,,A,L,0
 AVTR,Aero Adventure,Aventura 2,1,P,,A,L,1
 AVTR,Arnet Pereyra,Aventura 2,1,P,,A,L,1
+AXE,SKYFLY,Axe,8,E,,L,L,1

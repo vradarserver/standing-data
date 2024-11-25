@@ -16,7 +16,7 @@ H2,Kaman,Seasprite,2,T,,H,L,0
 H2,Kaman,Super Seasprite,2,T,,H,L,0
 H202,HB-Aircraft,HB-202 Fledger,1,P,,L,L,1
 H202,HB-Aircraft,Fledger,1,P,,L,L,0
-H204,HB-Flugtechnik,HB-204 Tornado,1,P,,L,L,1
+H204,HB-Flugtechnik,HB-204 Tornado,1,P,,L,L,0
 H204,HB-Flugtechnik,Tornado,1,P,,L,L,0
 H207,HB-Flugtechnik,HB-207 Alfa,1,P,,L,L,1
 H207,HB-Flugtechnik,Alfa,1,P,,L,L,0
@@ -386,7 +386,7 @@ HN70,Nicollier,Menestrel 2,1,P,,L,L,0
 HORN,Wallerkowski,Hornisse,1,P,,L,L,1
 HORZ,Fisher,Horizon,1,P,,L,L,1
 HORZ,Fisher Aero,Horizon,1,P,,L,L,1
-HPTR,Idea,Hydropteron,1,P,,A,L,1
+HPTR,Idea,Hydropteron,1,P,,A,L,0
 HPZL,Historical Aircraft,PZL P-11C,1,P,,L,L,0
 HR10,Robin,HR-100 President,1,P,,L,L,1
 HR10,Robin,HR-100 Royal,1,P,,L,L,1
@@ -411,9 +411,9 @@ HSMT,Rotorsmart,HeliSmart,1,P,,H,L,1
 HT16,Hindustan,HJT-16 Kiran,1,J,,L,L,1
 HT16,Hindustan,Kiran,1,J,,L,L,0
 HT2,Hindustan,HT-2,1,P,,L,L,1
-HT32,Hindustan,HPT-32 Deepak,1,P,,L,L,1
 HT32,Hindustan,Deepak,1,P,,L,L,0
-HT34,Hindustan,HTT-34,1,T,,L,L,1
+HT32,Hindustan,HPT-32 Deepak,1,P,,L,L,0
+HT34,Hindustan,HTT-34,1,T,,L,L,0
 HT36,Hindustan,HJT-36 Sitara,1,J,,L,L,1
 HT36,Hindustan,Sitara,1,J,,L,L,0
 HT40,Hindustan,HTT-40,1,T,,L,L,1
@@ -432,7 +432,7 @@ HUCO,Fuji,AH-1 HueyCobra,1,T,,H,L,1
 HUCO,Bell,HueyCobra,1,T,,H,L,0
 HUCO,Fuji,HueyCobra,1,T,,H,L,0
 HUML,Hummel,Hummel Bird,1,P,,L,L,1
-HUMM,Aeronautical Systems,Hummingbird,1,P,,L,L,1
+HUMM,Aeronautical Systems,Hummingbird,1,P,,L,L,0
 HUNT,Hawker,Hunter,1,J,,L,M,1
 HURI,Hawker,Hurricane,1,P,,L,L,1
 HURI,Hawker,Sea Hurricane,1,P,,L,L,1

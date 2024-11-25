@@ -30,9 +30,9 @@ IA50,DINFIA,Guarani 2,2,T,,L,M,0
 IA50,DINFIA,IA-50 Guarani 2,2,T,,L,M,0
 IA50,FMA,Guarani 2,2,T,,L,M,0
 IA50,FMA,IA-50 Guarani 2,2,T,,L,M,0
-IA51,DINFIA,IA-51 Tehuelche,1,P,,L,L,1
-IA51,FMA,IA-51 Tehuelche,1,P,,L,L,1
+IA51,DINFIA,IA-51 Tehuelche,1,P,,L,L,0
 IA51,DINFIA,Tehuelche,1,P,,L,L,0
+IA51,FMA,IA-51 Tehuelche,1,P,,L,L,0
 IA51,FMA,Tehuelche,1,P,,L,L,0
 IA58,FMA,IA-58 Pucará,2,T,,L,L,1
 IA58,FMA,Pucará,2,T,,L,L,0
@@ -93,7 +93,7 @@ IPAN,Neiva,EMB-202 Ipanema,1,P,,L,L,1
 IPAN,Neiva,G-19 Ipanema,1,P,,L,L,1
 IPAN,Embraer,Ipanema,1,P,,L,L,0
 IPAN,Neiva,Ipanema,1,P,,L,L,0
-IR21,ICA,IAR-821,1,P,,L,L,1
+IR21,ICA,IAR-821,1,P,,L,L,0
 IR22,ICA,IAR-822,1,P,,L,L,1
 IR22,ICA,IAR-826,1,P,,L,L,1
 IR23,ICA,IAR-823,1,P,,L,L,1
@@ -106,7 +106,7 @@ IR27,Bucuresti,Dacic,1,P,,L,L,0
 IR27,ICA,Dacic,1,P,,L,L,0
 IR28,ICA,IAR-28MA,1,P,,L,L,1
 IR28,ICA,IS-28MA,1,P,,L,L,1
-IR31,ICA,IAR-831 Pelican,1,P,,L,L,1
+IR31,ICA,IAR-831 Pelican,1,P,,L,L,0
 IR31,ICA,Pelican,1,P,,L,L,0
 IR46,IAR,IAR-46 Katty,1,P,,L,L,1
 IR46,IAR,Katty,1,P,,L,L,0

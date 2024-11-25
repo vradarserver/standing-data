@@ -286,21 +286,27 @@ TEAL,Teal,Teal,1,P,,A,L,0
 TEAL,Thurston,Teal,1,P,,A,L,0
 TERM,Wilbur L.Smith,Termite,1,P,,L,L,1
 TERR,Foxcon,Terrier,1,P,,L,L,1
-TEX2,Beechcraft,3000 Texan 2,1,T,,L,L,1
-TEX2,Beechcraft,AT-6 Texan 2,1,T,,L,L,1
-TEX2,Beechcraft,AT-6 Wolverine,1,T,,L,L,1
 TEX2,Beechcraft,T-6 Texan 2,1,T,,L,L,1
-TEX2,Hawker Beechcraft,AT-6 Texan 2,1,T,,L,L,1
+TEX2,Hawker Beechcraft,3000,1,T,,L,L,1
+TEX2,Hawker Beechcraft,AT-6 Wolverine,1,T,,L,L,1
 TEX2,Hawker Beechcraft,T-6 Efroni,1,T,,L,L,1
 TEX2,Hawker Beechcraft,T-6 Texan 2,1,T,,L,L,1
-TEX2,Raytheon,3000 Harvard 2,1,T,,L,L,1
-TEX2,Raytheon,3000 Texan 2,1,T,,L,L,1
+TEX2,Raytheon,3000,1,T,,L,L,1
 TEX2,Raytheon,CT-156 Harvard 2,1,T,,L,L,1
 TEX2,Raytheon,T-6 Texan 2,1,T,,L,L,1
+TEX2,Textron,AT-6 Wolverine,1,T,,L,L,1
+TEX2,Textron,T-6 Texan 2,1,T,,L,L,1
+TEX2,Textron,T-6 Texan T1,1,T,,L,L,1
+TEX2,Beechcraft,3000 Texan 2,1,T,,L,L,0
+TEX2,Beechcraft,AT-6 Texan 2,1,T,,L,L,0
+TEX2,Beechcraft,AT-6 Wolverine,1,T,,L,L,0
 TEX2,Beechcraft,Texan 2,1,T,,L,L,0
 TEX2,Beechcraft,Wolverine,1,T,,L,L,0
+TEX2,Hawker Beechcraft,AT-6 Texan 2,1,T,,L,L,0
 TEX2,Hawker Beechcraft,Efroni,1,T,,L,L,0
 TEX2,Hawker Beechcraft,Texan 2,1,T,,L,L,0
+TEX2,Raytheon,3000 Harvard 2,1,T,,L,L,0
+TEX2,Raytheon,3000 Texan 2,1,T,,L,L,0
 TEX2,Raytheon,Harvard 2,1,T,,L,L,0
 TEX2,Raytheon,Texan 2,1,T,,L,L,0
 TEXA,Fly Synthesis,Texan,1,P,,L,L,1

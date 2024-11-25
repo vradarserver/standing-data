@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A850DC,N635FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11837,2024
 A85188,N635NN,CRJ9,Canadair,CRJ-900LR,Canadair CRJ-900LR,0,PSA Airlines,JIA,15379,2015
+A8521F,N635UP,B748,Boeing,747-83QF,Boeing 747-83QF,0,United Parcel Service,UPS,63199,2017
+A85493,N636FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11839,2024
 A857CF,N637AT,C550,Cessna,550 Citation 2,Cessna 550 Citation 2,1,Private,,550-0371,
 A8584A,N637FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11860,2024
 A85942,N637RP,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,Ring Air,,700-0063,2021

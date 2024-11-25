@@ -1,3 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 0D1005,XA-VUL,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,12032,2024
+0D106C,XA-AIK,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2233,2021
+0D1079,XA-VUN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,12202,2024
 0D1083,XA-VXS,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,VivaAerobús,VIV,11924,2024

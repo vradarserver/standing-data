@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 185,001 |
-| `PietD`                        | 133,870 |
-| `vand`                         | 55,246 |
+| `dirkhh`                       | 186,388 |
+| `PietD`                        | 134,236 |
+| `vand`                         | 55,878 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,171 |
-| `科罗娜`                          | 23,794 |
+| `科罗娜`                          | 24,061 |
 | `Slavi`                        | 21,166 |
 | `sib64`                        | 17,680 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 16,418 |
+| `Lanorge`                      | 16,452 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,075 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,570 |
+| `Markus`                       | 6,587 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,990 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,135 |
+| `Gavin-D`                      | 2,136 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,845 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,182 |
-| `Daniel.cornejo.campos`        | 1,164 |
+| `Daniel.cornejo.campos`        | 1,168 |
 | `Dauren`                       | 1,148 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -111,8 +111,8 @@ Please note that credit files are updated less frequently than the data files.
 | `32043GCS`                     | 448 |
 | `britiger`                     | 440 |
 | `Cristian Amaya`               | 435 |
+| `kirkmayers`                   | 433 |
 | `squawk7000`                   | 431 |
-| `kirkmayers`                   | 425 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
 | `nemexia`                      | 411 |
@@ -194,18 +194,18 @@ Please note that credit files are updated less frequently than the data files.
 | `geoff271989`                  | 130 |
 | `sgt330`                       | 129 |
 | `catchall`                     | 127 |
-| `Ljubo`                        | 126 |
+| `Ljubo`                        | 127 |
 | `Tyler`                        | 125 |
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
+| `Jayant Shah`                  | 120 |
 | `Kenneth`                      | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
 | `Dastin`                       | 108 |
-| `Jayant Shah`                  | 107 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
 | `mekkawi`                      | 106 |
