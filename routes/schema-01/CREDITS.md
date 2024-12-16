@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 188,945 |
-| `PietD`                        | 134,860 |
-| `vand`                         | 58,154 |
+| `dirkhh`                       | 191,185 |
+| `PietD`                        | 135,203 |
+| `vand`                         | 58,900 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 24,303 |
-| `EDDG`                         | 24,171 |
+| `科罗娜`                          | 24,339 |
+| `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,749 |
+| `sib64`                        | 17,770 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Lanorge`                      | 16,524 |
+| `Lanorge`                      | 16,547 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
@@ -29,7 +29,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
-| `aircraftenthusiast2000`       | 4,323 |
+| `aircraftenthusiast2000`       | 4,348 |
 | `CharlieAlpha`                 | 3,369 |
 | `Serge F4IPO`                  | 3,297 |
 | `Jordy`                        | 3,257 |
@@ -43,7 +43,7 @@ Please note that credit files are updated less frequently than the data files.
 | `viista`                       | 2,220 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,137 |
+| `Gavin-D`                      | 2,140 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,845 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,182 |
-| `Daniel.cornejo.campos`        | 1,168 |
+| `Daniel.cornejo.campos`        | 1,169 |
 | `Dauren`                       | 1,148 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -108,8 +108,8 @@ Please note that credit files are updated less frequently than the data files.
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
+| `kirkmayers`                   | 449 |
 | `32043GCS`                     | 448 |
-| `kirkmayers`                   | 448 |
 | `britiger`                     | 440 |
 | `Cristian Amaya`               | 437 |
 | `squawk7000`                   | 431 |
@@ -161,7 +161,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Alexey`                       | 198 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
-| `stuartroy`                    | 188 |
+| `stuartroy`                    | 189 |
 | `aviatic`                      | 182 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |
@@ -234,6 +234,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
 | `Sebastian`                    | 73 |
+| `vrsspotter73`                 | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
 | `Edward Gaudion`               | 71 |
@@ -245,7 +246,6 @@ Please note that credit files are updated less frequently than the data files.
 | `ez_duce`                      | 68 |
 | `yonatan leibovits`            | 68 |
 | `tom299`                       | 67 |
-| `vrsspotter73`                 | 67 |
 | `Andos`                        | 66 |
 | `bobneighter`                  | 65 |
 | `Yasu`                         | 65 |
