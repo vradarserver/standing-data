@@ -1,15 +1,18 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A310BB,N297NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,2778,2006
 A31472,N298NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,2800,2006
+A31483,N298PM,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,199,2021
 A316EF,N299AF,PC24,Pilatus,PC-24,Pilatus PC-24,0,Pilatus Flugzeugwerke,PCH,299,
 A3176D,N299FG,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,224,2009
 A31829,N299NV,A320,Airbus,A320-214,Airbus A320-214,0,Asian Air,AAZ,4870,2011
+A31A7B,N29989,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,United Airlines,UAL,38274,2024
 A31B04,N3E,B38M,Boeing,737-8 BBJ MAX,Boeing 737-8 BBJ MAX,0,Boeing,BOE,64084,2021
 A31B08,N3ED,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6523,2022
 A31B5D,N3HP,TBM7,Socata,TBM-700,Socata TBM-700,1,Private,,1019,2014
 A31BC3,N3MR,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9650,2014
 A31C5A,N3TS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,XRS LLC,,70074,2020
 A31D0F,N30AX,LJ45,Learjet,45,Learjet 45,1,Private,,45-141,2001
+A31D6A,N30EN,H160,Airbus Helicopters,H-160,Airbus Helicopters H-160,1,Private,,1033,
 A31DB7,N30HQ,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,0,Huck Aviation,,045,1999
 A31E0C,N30M,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,1,Private,,525-0506,2003
 A31E60,N30QJ,GA6C,Gulfstream,G600,Gulfstream G600,0,Johnson & Johnson,,73126,2023

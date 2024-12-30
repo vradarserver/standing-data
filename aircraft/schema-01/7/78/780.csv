@@ -13,7 +13,7 @@
 7800CB,B-001A,C919,Comac,C-919,Comac C-919,0,Comac,,101,
 780104,B-8155,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4154,2009
 780108,B-9876,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,1,Private,,40-DS030,
-780117,B-3373,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,SH Bellawings Airlines,CBW,8112,2013
+780117,B-3373,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Suzhou Aviation,CBW,8112,2013
 78018D,B-HLM,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,386,2000
 78018E,B-HLN,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,389,2000
 78019C,B-HLT,A333,Airbus,A330 343X,Airbus A330 343X,0,Cathay Pacific,CPA,439,2001
@@ -114,7 +114,7 @@
 780813,B-7797,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,Business Aviation Asia,UNA,8096,
 780819,B-8196,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,ZYB Lily Jet,MZT,9412,2010
 78081A,B-7766,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,ZYB Lily Jet,MZT,5542,2002
-78081E,B-8288,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,SH Bellawings Airlines,CBW,5329,2011
+78081E,B-8288,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Suzhou Aviation,CBW,5329,2011
 780837,B-8152,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Shanghai Deer Jet Company,DER,5005,2003
 780849,B-7761,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Donghai Jet,EPB,5868,2010
 78084C,B-6877,A320,Airbus,A320 232,Airbus A320 232,0,Beijing Capital Airlines,CBJ,5144,2012
@@ -191,7 +191,7 @@
 780E0C,B-3282,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Sino Jet (Beijing) Company,JBE,14501228,2017
 780E87,B-10CD,K100,Quest,Kodiak 100,Quest Kodiak 100,0,Jiangsu Delta General Aviation,,100-0149,2015
 780E88,B-10CE,K100,Quest,Kodiak 100,Quest Kodiak 100,0,Jiangsu Delta General Aviation,,100-0151,2015
-780EC1,B-3028,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Wanfeng General Aviation,WFH,5988,2014
+780EC1,B-3028,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Suzhou Aviation,CBW,5988,2014
 780EE8,B-1999,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Nanshan Jet (China Air Rescue),NSJ,253,2012
 780EFD,B-9806,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,XiHua General Airlines,,208B-5027,2013
 780F10,B-3112,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,ZYB Lily Jet,MZT,2131,2017

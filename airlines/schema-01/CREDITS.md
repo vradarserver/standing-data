@@ -7,15 +7,15 @@ Please note that credit files are updated less frequently than the data files.
 | Name                    | Contributions |
 | :--                     | --: |
 | `Andrew`                | 418 |
-| `PietD`                 | 197 |
-| `科罗娜`                   | 137 |
+| `PietD`                 | 202 |
+| `科罗娜`                   | 139 |
 | `Lanorge`               | 93 |
-| `EDDG`                  | 78 |
+| `EDDG`                  | 88 |
+| `vand`                  | 74 |
 | `britiger`              | 72 |
-| `vand`                  | 70 |
 | `Peter Hutt`            | 41 |
 | `sib64`                 | 40 |
-| `BudBundi`              | 30 |
+| `BudBundi`              | 32 |
 | `CX6BX`                 | 20 |
 | `smartcoda`             | 15 |
 | `Pascal Ensinck`        | 14 |
@@ -47,6 +47,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Paul C`                | 3 |
 | `SuperAkari`            | 3 |
 | `Timur Belikov`         | 3 |
+| `verbatim`              | 3 |
 | `BC`                    | 2 |
 | `Daniel.cornejo.campos` | 2 |
 | `Datamix`               | 2 |
@@ -61,7 +62,6 @@ Please note that credit files are updated less frequently than the data files.
 | `RCN_BC`                | 2 |
 | `RZH`                   | 2 |
 | `spotterblog`           | 2 |
-| `verbatim`              | 2 |
 | `vrsspotter73`          | 2 |
 | `yaacars`               | 2 |
 | `Aerovilla`             | 1 |

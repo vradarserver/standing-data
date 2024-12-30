@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 230 |
+| `PietD`                        | 232 |
 | `EDDG`                         | 61 |
 | `科罗娜`                          | 51 |
 | `vand`                         | 48 |
@@ -67,6 +67,7 @@ Please note that credit files are updated less frequently than the data files.
 | `haydenc2`                     | 1 |
 | `huebi77`                      | 1 |
 | `intelsky`                     | 1 |
+| `Jayant Shah`                  | 1 |
 | `JohnL`                        | 1 |
 | `Jon Fear`                     | 1 |
 | `jonwarner`                    | 1 |

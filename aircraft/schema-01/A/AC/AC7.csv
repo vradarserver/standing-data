@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC7087,N900PX,G280,Gulfstream,G280,Gulfstream G280,0,Texair Aviation,,2151,
+AC70C1,N900SE,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,118,
 AC7150,N900XY,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,86,2001
 AC71F4,N9003G,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,1,Private,,208B5783,
 AC729A,N90078,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,1,Private,,208B5741,2023
@@ -8,6 +9,7 @@ AC72F7,N901AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11912,2024
 AC738D,N901GV,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0114,2009
 AC73AC,N901JA,P180,Piaggio,P.180 Avanti II,Piaggio P.180 Avanti II,1,Private,,1170,2008
 AC74DD,N901WF,H25B,Raytheon Hawker,900XP,Raytheon Hawker 900XP,1,Private,,HA-0112,
+AC753D,N9010B,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,Africair,,208B5831,2024
 AC7562,N9011D,BE35,Beech,35 Bonanza,Beech 35 Bonanza,1,Private,,D-7641,
 AC76D7,N902CL,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,Textron Aviation,,700-0002,2017
 AC7809,N902QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,NetJets,EJA,680A0314,2022

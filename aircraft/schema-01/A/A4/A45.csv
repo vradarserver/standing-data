@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A45210,N378FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10386,2021
 A4528F,N378LT,GL7T,Bombardier,BD-700-1A10,Bombardier BD-700-1A10,1,Private,,9218,2006
+A4532E,N378TB,E190,Embraer,Lineage 1000,Embraer Lineage 1000,0,ETPC Aviation,,19000559,2014
 A45353,N378UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67920,2023
 A45509,N3788X,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6578,2024
 A455C7,N379FR,A20N,Airbus,A320-251N,Airbus A320-251N,0,Frontier Airlines,FFT,10510,2021

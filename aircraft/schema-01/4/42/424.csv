@@ -53,6 +53,7 @@
 424725,VP-CBC,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Global Wings SEZC,,14501198,2013
 424729,VP-CLM,A20N,Airbus,A320-271N ACJ,Airbus A320-271N ACJ,0,Amerer Air,AMK,11624,2023
 424731,VP-CLG,B738,Boeing,737-808(BCF),Boeing 737-808(BCF),1,Private,,34701,2006
+424747,VP-CVJ,A19N,Airbus,A319-153N(CJ),Airbus A319-153N(CJ),0,AMAC Aerospace,AMK,11865,2023
 424748,VP-CGA,A321,Airbus,A321-231,Airbus A321-231,0,Global,,03458,2008
 42474F,VP-CAF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9686,2015
 42475D,VP-CYA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9628,2014
@@ -141,6 +142,7 @@
 424C1E,M-ZENG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Centreline,CLF,50500409,
 424C1F,M-PVDM,A333,Airbus,A330-343(P2F),Airbus A330-343(P2F),0,Air Hong Kong,AHK,1374,2012
 424C20,M-SEAO,C750,Cessna,750 Citation X,Cessna 750 Citation X,1,Private,,750-0232,
+424C2A,M-VGAL,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,207,2008
 424C31,M-EADE,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,1,Private,,5023,
 424C32,M-ONEY,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,1,Private,,9349,
 424C33,M-ICKY,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Hampshire Aviation,,2255,
@@ -179,6 +181,10 @@
 424C6E,M-HISA,A139,Agusta-Westland,AW-139,Agusta-Westland AW-139,1,Private,,31916,
 424C6F,M-OTTO,GALX,Gulfstream Aerospace,G200,Gulfstream Aerospace G200,1,Private,,222,
 424C70,M-AAMA,H25B,Hawker,800XP,Hawker 800XP,1,Private,,257821,2005
+424C71,M-BBTC,GALX,Gulfstream,G200 Galaxy,Gulfstream G200 Galaxy,1,Private,,125,
 424C76,M-CITY,TBM9,Socata,TBM 960,Socata TBM 960,1,Private,,1555,
+424C7A,M-YNNS,GA7C,Gulfstream,G700,Gulfstream G700,0,Aviation One,,87034,2024
 424C7B,M-MANX,PA34,Piper,PA-34-220T Seneca,Piper PA-34-220T Seneca,1,Private,,3449240,
 424C7C,M-LJGI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,179,2012
+424C7E,M-BIGG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70202,2024
+424C81,M-ZPGJ,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0144,2013

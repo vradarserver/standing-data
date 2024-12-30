@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,487 |
-| `aircraftenthusiast2000` | 2,335 |
+| `Peter Hutt`             | 3,601 |
+| `aircraftenthusiast2000` | 2,359 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,632 |
+| `科罗娜`                    | 1,713 |
 | `Andrew`                 | 1,181 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 248 |
-| `Lanorge`                | 204 |
-| `andrw`                  | 188 |
+| `BudBundi`               | 257 |
+| `Lanorge`                | 213 |
+| `andrw`                  | 190 |
 | `Ljubo`                  | 112 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 72 |
-| `topoguido`              | 71 |
+| `topoguido`              | 81 |
+| `vrsspotter73`           | 76 |
 | `Rebelvenice2`           | 57 |
 | `britiger`               | 54 |
 | `RZH`                    | 49 |
@@ -40,14 +40,15 @@ Please note that credit files are updated less frequently than the data files.
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
 | `Seb Gray`               | 8 |
+| `soja`                   | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
-| `soja`                   | 7 |
 | `darjes`                 | 6 |
-| `neslin`                 | 5 |
+| `neslin`                 | 6 |
 | `struart`                | 5 |
+| `naji787`                | 4 |
 | `thecowan`               | 4 |
 | `wogman`                 | 4 |
 | `ews997881`              | 3 |
@@ -55,7 +56,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
-| `naji787`                | 3 |
 | `nerf`                   | 3 |
 | `Sevetamryn`             | 3 |
 | `sib64`                  | 3 |
@@ -65,6 +65,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
 | `GTR8000`                | 2 |
+| `iu3ind`                 | 2 |
 | `jasoveen`               | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |

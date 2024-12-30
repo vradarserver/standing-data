@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+39A00B,F-HIAL,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,,
 39A178,F-HILY,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,AstonJet,ASJ,510-0034,
 39A182,F-HIMC,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0282,2010
 39A1EF,F-HIPP,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1003,
@@ -12,6 +13,7 @@
 39A277,F-HITX,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,487,
 39A2E0,F-HIXA,B738,Boeing,737-846,Boeing 737-846,0,ASL Airlines France,FPO,35332,2007
 39A2E1,F-HIXB,B738,Boeing,737-846,Boeing 737-846,0,ASL Airlines France,FPO,35339,2008
+39A2E2,F-HIXC,B738,Boeing,737-8K5,Boeing 737-8K5,0,ASL Airlines France,FPO,27977,1998
 39A2E3,F-HIXD,B738,Boeing,737-8K5,Boeing 737-8K5,0,ASL Airlines France,FPO,27978,1998
 39A44F,F-HJCP,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,261,
 39A52B,F-HJJL,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1682,2017

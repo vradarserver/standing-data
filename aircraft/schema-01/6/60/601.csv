@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 6010EE,EX-30003,A30B,Airbus,A300B4-203(F),Airbus A300B4-203(F),0,Moalem Aviation,AMA,212,1982
+601825,EZ-G7500,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Turkmenistan Airlines,TUA,70205,
 601828,EZ-A781,B77W,Boeing,777-300ER,Boeing 777-300ER,0,Turkmenistan Airlines,TUA,,
 601829,EZ-A782,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Turkmenistan Airlines,TUA,39235,2012
 60182B,EZ-F429,A332,Airbus,A330-243(P2F),Airbus A330-243(P2F),0,Turkmenistan Airlines,TUA,810,2006

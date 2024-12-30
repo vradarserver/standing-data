@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A38082,N3247J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55322,2024
 A380E9,N325AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2325,
 A3812F,N325DA,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,73102,
 A38141,N325DU,BCS3,Airbus,A220-300,Airbus A220-300,0,Delta Air Lines,DAL,55272,2024

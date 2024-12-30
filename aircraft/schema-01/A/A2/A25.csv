@@ -1,6 +1,8 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A252DD,N249QS,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,NetJets,EJA,6173,
 A254D6,N24972,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,United Airlines,UAL,40939,2018
+A254FF,N24988,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,United Airlines,UAL,37449,2024
+A2565D,N25NM,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,1,Private,,72149,2024
 A256DC,N25TP,PTS1,Pitts,S-1T Special,Pitts S-1T Special,1,Private,,0001,
 A256F9,N25UT,GLF5,Gulfstream Aerospace,G550,Gulfstream G550,1,Private,,5359,2011
 A25849,N250JC,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,0,Solairus Aviation,TWY,229,2009

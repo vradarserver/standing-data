@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 45C86D,OY-RCM,A320,Airbus,A320-214,Airbus A320-214,0,Atlantic Airways,FLI,5084,2012
 45C982,OY-RLB,B762,Boeing,767-232SF,Boeing 767-232SF,0,Maersk Air Cargo,SRR,22222,1983
+45CAA1,OY-RUA,AT75,ATR,72-500,ATR 72-500,0,DAT,DTR,822,2008
 45CAA8,OY-RUH,A320,Airbus,A320-232,Airbus A320-232,0,DAT,DTR,6749,2015
 45CAB9,OY-RUY,A320,Airbus,A320-232,Airbus A320-232,0,DAT,DTR,6733,2015
 45CCB3,OY-SES,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500779,2024

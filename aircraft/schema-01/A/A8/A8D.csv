@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A8D284,N668FX,GLF6,Gulfstream,G650,Gulfstream G650,0,Flexjet,LXJ,6073,
+A8D63B,N669FX,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Flexjet,LXJ,6343,2018
 A8D751,N669T,GLF4,Gulfstream,G450,Gulfstream G450,0,Terrible Herbst,,4186,2010
 A8D972,N67AU,C30J,Lockheed,LM-130J Hercules,Lockheed LM-130J Hercules,0,Pallas Aviation,,5894,2020
 A8DA2C,N67JE,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Vista America,VJA,4092,2007

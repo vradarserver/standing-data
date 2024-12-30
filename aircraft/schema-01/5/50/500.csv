@@ -103,6 +103,7 @@
 50031A,T7-9889,CL60,Canadair,CL-600-2B16 Challenger 604,Canadair CL-600-2B16 Challenger 604,1,Private,,5644,
 50031C,T7-EMI,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0034,2007
 500325,T7-MPA,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5408,
+500326,T7-BIC,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6208,2016
 500328,T7-727,H25B,Hawker,800XPi,Hawker 800XPi,1,Private,,258771,
 500329,T7-33SL,GLF5,Gulfstream Aerospace,GV-SP (G550),Gulfstream Aerospace GV-SP (G550),1,Private,,5266,
 50032B,T7-7777,A318,Airbus,A318-112 ACJ Elite,Airbus A318-112 ACJ Elite,0,TAG Aviation USA,TAG,3363,2008
@@ -144,6 +145,7 @@
 5003A4,T7-ADX,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70179,
 5003A6,T7-IRL,GA7C,Gulfstream,G700,Gulfstream G700,0,Highland Aviation,,87013,2024
 5003A7,T7-MAX,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,18,1997
+5003B4,T7-852,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,0,MJets Thailand,,9203,2006
 5003B5,T7-JUN,FA8X,Falcon,8X,Falcon 8X,1,Private,,407,
 5003B8,T7-CAT,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501239,
 5003B9,T7-FFI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Luxaviation San Marino,LSM,69,2009
@@ -158,4 +160,7 @@
 5003DE,T7-VSG,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9398,
 5003DF,T7-SME,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73010,
 5003E0,T7-ELMIR,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,DC Aviation Al-Futtaim,,9294,2008
+5003E8,T7-VRS,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Titan Aviation San Marino,,14500863,2004
 5003ED,T7-NAS,B738,Boeing,737-8LZ BBJ,Boeing 737-8LZ BBJ,1,Private,,42510,2013
+5003F5,T7-VITA,PC24,Pilatus,PC-24,Pilatus PC-24,0,Silver Aviation,,541,2024
+5003FF,T7-SSW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6253,2016
