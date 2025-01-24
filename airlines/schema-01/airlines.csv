@@ -1984,6 +1984,7 @@ GCC,GECAS,GCC,,,
 GCF,Aeronor,GCF,,,
 GCK,GLOCK Aviation,GCK,,,.*
 GCL,CargoLogic Germany,GCL,,^...P$,
+GCM,Comair Flight Services,GCM,,,.*
 GCN,Gulf Central Airlines,GCN,,,
 GCO,Gemini Air Cargo,GCO,GR,,
 GCR,Tianjin Airlines,GCR,GS,,
@@ -3438,6 +3439,7 @@ MVY,VIM-Aviaservice,MVY,,,
 MWA,Midwest Airlines (Egypt),MWA,MY,,
 MWG,MASwings,MWG,MH,,
 MWI,Malawian Airlines,MWI,3W,,
+MWM,Modern Logistics,MWM,WD,,.*
 MWR,Raslan Air Service,MWR,,,
 MWS,Malta Wings,MWS,,,
 MWT,Midwest Aviation Division,MWT,,,

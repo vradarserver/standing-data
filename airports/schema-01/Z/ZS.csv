@@ -1,7 +1,8 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 ZSAM,Xiamen Gaoqi International Airport,ZSAM,XMN,Xiamen,CN,24.544001,118.127998,59
 ZSAQ,Anqing Tianzhushan Airport,ZSAQ,AQG,"Anqing, Anhui Province",CN,30.582222,117.050278,0
-ZSBB,Bengbu Airport,ZSBB,BFU,Bengbu,CN,32.847733,117.320244,100
+ZSBB,Bengbu Tenghu Airport,ZSBB,BFY,Bengbu,CN,32.847733,117.320244,105
+ZSBO,Bozhou Airport,ZSBO,BZJ,Anhui,CN,33.560833,115.909167,108
 ZSCG,Changzhou,ZSCG,CZX,Changzhou,CN,31.941667,119.711667,39
 ZSCN,Nanchang Changbei International Airport,ZSCN,KHN,Nanchang,CN,28.865000,115.900002,143
 ZSDY,Dongying Airport,ZSDY,DOY,Dongying,CN,37.271600,118.281900,86
@@ -18,6 +19,7 @@ ZSJJ,Jiujiang Lushan Airport,ZSJJ,JIU,Jiujiang,CN,29.733000,115.983000,0
 ZSJN,Yaoqiang Airport,ZSJN,TNA,Jinan,CN,36.857201,117.216003,76
 ZSJU,Quzhou Airport,ZSJU,JUZ,Quzhou,CN,28.965833,118.899444,0
 ZSLG,Lianyungang Airport,ZSLG,LYG,Lianyungang,CN,34.550000,119.250000,0
+ZSLI,Lishui Airport,ZSLI,LIJ,Zhejiang,CN,28.378056,119.843333,531
 ZSLO,Longyan Guanzhishan Airport,ZSLO,LCX,Longyan,CN,25.674700,116.747002,1225
 ZSLQ,Huangyan Luqiao Airport,ZSLQ,HYN,Huangyan,CN,28.562200,121.429000,0
 ZSLY,Qiyang Airport,ZSLY,LYI,Linyi,CN,35.046100,118.412000,218
@@ -28,6 +30,7 @@ ZSOF,Hefei Xinqiao International Airport,ZSOF,HFE,Hefei,CN,31.991111,116.989167,
 ZSPD,Shanghai Pudong International Airport,ZSPD,PVG,Shanghai,CN,31.143400,121.805000,13
 ZSQD,Jiaodong Airport,ZSQD,TAO,Qingdao,CN,36.266102,120.374001,33
 ZSQZ,Quanzhou Airport,ZSQZ,JJN,Quanzhou,CN,24.796400,118.590000,0
+ZSRJ,Ganzhou Ruijin Airport,ZSRJ,JRJ,"Ganzhou, Jiangxi",CN,25.960800,116.077500,755
 ZSRZ,Rizhao Shanzihe Airport,ZSRZ,RIZ,Rizhao Shanzihe Airport,CN,35.399722,119.316667,121
 ZSSH,Huai'an Lianshui Airport,ZSSH,HIA,Huai'an Lianshui Airport,CN,33.790556,119.125000,23
 ZSSM,Sanming Shaxian Airport,ZSSM,SQJ,Sanming,CN,26.428056,117.845000,889
