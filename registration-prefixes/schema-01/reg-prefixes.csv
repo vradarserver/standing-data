@@ -146,7 +146,7 @@ OO,BE,1,OO-(?<code>[\dA-Z]{3}),OO(?<code>[\dA-Z]{3}),OO-{code}
 OY,DK,1,"OY-(?<code>[\dA-Z]{2,4})","OY(?<code>[\dA-Z]{2,4})",OY-{code}
 P,KP,1,P-(?<code>\d{3}),P(?<code>\d{3}),P-{code}
 P2,PG,1,P2-(?<code>[A-Z]{3}),P2(?<code>[A-Z]{3}),P2-{code}
-P4,AW,1,P4-(?<code>[\dA-Z]{3,5}),P4(?<code>[\dA-Z]{3,5}),P4-{code}
+P4,AW,1,"P4-(?<code>[\dA-Z]{3,5})","P4(?<code>[\dA-Z]{3,5})",P4-{code}
 PH,NL,1,"PH-(?<code>[\dA-Z]{3,4})","PH(?<code>[\dA-Z]{3,4})",PH-{code}
 PJ,XC,1,PJ-(?<code>[A-Z]{3}),PJ(?<code>[A-Z]{3}),PJ-{code}
 PK,ID,1,PK-(?<code>[A-Z]{3}),PK(?<code>[A-Z]{3}),PK-{code}
