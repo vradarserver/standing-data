@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39C466,F-HRDG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,PH Occitanie,,50500644,
 39C501,F-HRIB,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,0,VallJet,VLJ,525-0188,
+39C58F,F-HRMP,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B0059,2006
 39C821,F-HSBB,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697659,
 39C8AD,F-HSFN,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Gestair,GES,560-6300,
 39C8F4,F-HSHU,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0075,2008

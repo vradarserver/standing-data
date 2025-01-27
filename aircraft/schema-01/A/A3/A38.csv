@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A38019,N3244J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55320,2024
 A38082,N3247J,BCS3,Airbus,A220-300,Airbus A220-300,0,JetBlue Airways,JBU,55322,2024
 A380E9,N325AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2325,
 A3812F,N325DA,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,73102,
@@ -8,6 +9,7 @@ A3828A,N325SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000959
 A38452,N32579,M7,Maule,M-7-260C,Maule M-7-260C,1,Private,,30064C,2022
 A384F8,N326DU,BCS3,Airbus,A220-300,Airbus A220-300,0,Delta Air Lines,DAL,55297,2024
 A38503,N326EE,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500726,2023
+A3852D,N326FX,E545,Embraer,Praetor 500,Embraer Praetor 500,0,Flexjet,LXJ,55010143,2024
 A3857B,N326K,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73088,2022
 A38583,N326KH,G150,Gulfstream Aerospace,G150,Gulfstream Aerospace G150,1,Private,,230,2007
 A38641,N326SY,E75L,Embraer,E175LR,Embraer E175LR,0,SkyWest Airlines,SKW,17000960,2023

@@ -8,7 +8,7 @@ Please note that credit files are updated less frequently than the data files.
 | :--                            | --: |
 | `PietD`                        | 232 |
 | `EDDG`                         | 61 |
-| `科罗娜`                          | 51 |
+| `科罗娜`                          | 57 |
 | `vand`                         | 48 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |

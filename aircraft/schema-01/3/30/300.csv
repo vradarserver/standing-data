@@ -50,6 +50,7 @@
 3008E6,I-LARM,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Air Delta,,,
 3008E8,I-MYAU,EC30,Airbus Helicopters,EC-130,Airbus Helicopters EC-130,0,E+S Air,,,
 3008EA,I-CJSN,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0376,2022
+3008ED,I-LRJR,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Air Corporate,CPV,,
 3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,
 3008F2,I-SEAK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Servizi Aerei,SNM,6493,2022
 3008F3,I-YTRK,C551,Cessna,551 Citation IISP,Cessna 551 Citation IISP,1,Private,,551-0412,
@@ -70,6 +71,7 @@
 30097A,I-ANIG,GA6C,Gulfstream,G600,Gulfstream G600,0,Compagnia Aerea Italiana,CPI,73111,2023
 30097D,I-CPRI,A109,AgustaWestland,AW109S Grand,AgustaWestland AW109S Grand,1,Private,,22325,
 300989,I-GCFG,F900,Dassault,Falcon 900,Dassault Falcon 900,0,Italy - Government,,,
+30098B,I-TWOW,F900,Dassault,Falcon 900,Dassault Falcon 900,1,Private,,,
 300990,I-MSCA,B77L,Boeing,777-F,Boeing 777-F,0,AlisCargo Airlines,LSI,68230,2024
 30099D,I-ITYB,A339,Airbus,A330-941,Airbus A330-941,0,ITA Airways,ITY,2051,2023
 3009A6,I-DOBE,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,4698282,2024
@@ -88,4 +90,5 @@
 3009D4,I-ADVA,BCS1,Airbus,A-220-100,Airbus A-220-100,0,ITA Airways,ITY,,2024
 3009D5,I-ADVB,BCS1,Airbus,A220-100,Airbus A220-100,0,ITA Airways,ITY,50075,2024
 3009D6,I-ADVC,BCS1,Airbus,A220-100,Airbus A220-100,0,ITA Airways,ITY,50076,2024
+3009D7,I-LARN,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,,
 3009E8,I-VIPS,EC30,Airbus Helicopters,H-130,Airbus Helicopters H-130,1,Private,,,

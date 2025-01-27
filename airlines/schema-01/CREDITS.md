@@ -6,13 +6,13 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 418 |
-| `PietD`                 | 202 |
-| `科罗娜`                   | 139 |
-| `Lanorge`               | 93 |
+| `Andrew`                | 419 |
+| `PietD`                 | 203 |
+| `科罗娜`                   | 141 |
+| `Lanorge`               | 95 |
 | `EDDG`                  | 88 |
-| `vand`                  | 74 |
-| `britiger`              | 72 |
+| `vand`                  | 79 |
+| `britiger`              | 78 |
 | `Peter Hutt`            | 41 |
 | `sib64`                 | 40 |
 | `BudBundi`              | 32 |
@@ -48,6 +48,7 @@ Please note that credit files are updated less frequently than the data files.
 | `SuperAkari`            | 3 |
 | `Timur Belikov`         | 3 |
 | `verbatim`              | 3 |
+| `vrsspotter73`          | 3 |
 | `BC`                    | 2 |
 | `Daniel.cornejo.campos` | 2 |
 | `Datamix`               | 2 |
@@ -62,7 +63,6 @@ Please note that credit files are updated less frequently than the data files.
 | `RCN_BC`                | 2 |
 | `RZH`                   | 2 |
 | `spotterblog`           | 2 |
-| `vrsspotter73`          | 2 |
 | `yaacars`               | 2 |
 | `Aerovilla`             | 1 |
 | `ahernandez`            | 1 |

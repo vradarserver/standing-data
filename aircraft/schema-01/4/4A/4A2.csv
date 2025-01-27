@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4A2181,YR-HLA,B738,Boeing,737-8HC,Boeing 737-8HC,0,Hello Jets,,36529,2008
 4A2182,YR-HLB,B738,Boeing,737-8KN,Boeing 737-8KN,0,SunExpress,SXS,35795,2009
+4A29AD,YR-JMM,PRM1,Hawker Beechcraft,Premier 1,Hawker Beechcraft Premier 1,0,MJM Charter Jets,,RB-20,
 4A29F9,YR-JOY,A320,Airbus,A320-232,Airbus A320-232,0,HiSky Airilnes,HYM,06513,2015
 4A2AAC,YR-JUL,A320,Airbus,A320-232,Airbus A320-232,0,Dan Air,DNA,3863,2009
 4A2D24,YR-KID,A332,Airbus,A330-243,Airbus A330-243,0,HiSky Europe,HYS,1138,2010

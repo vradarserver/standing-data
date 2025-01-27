@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,601 |
-| `aircraftenthusiast2000` | 2,359 |
+| `Peter Hutt`             | 3,651 |
+| `aircraftenthusiast2000` | 2,366 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,713 |
-| `Andrew`                 | 1,181 |
+| `科罗娜`                    | 1,762 |
+| `Andrew`                 | 1,182 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `BudBundi`               | 257 |
-| `Lanorge`                | 213 |
-| `andrw`                  | 190 |
-| `Ljubo`                  | 112 |
+| `Lanorge`                | 226 |
+| `andrw`                  | 200 |
+| `Ljubo`                  | 113 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `topoguido`              | 81 |
-| `vrsspotter73`           | 76 |
+| `vrsspotter73`           | 79 |
 | `Rebelvenice2`           | 57 |
 | `britiger`               | 54 |
 | `RZH`                    | 49 |
@@ -32,25 +32,25 @@ Please note that credit files are updated less frequently than the data files.
 | `flybull`                | 24 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
+| `wogman`                 | 19 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `ng_03`                  | 10 |
+| `soja`                   | 10 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
 | `Seb Gray`               | 8 |
-| `soja`                   | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
 | `darjes`                 | 6 |
 | `neslin`                 | 6 |
+| `naji787`                | 5 |
 | `struart`                | 5 |
-| `naji787`                | 4 |
 | `thecowan`               | 4 |
-| `wogman`                 | 4 |
 | `ews997881`              | 3 |
 | `Manny`                  | 3 |
 | `Marc A. Mapplebeck`     | 3 |
@@ -92,7 +92,9 @@ Please note that credit files are updated less frequently than the data files.
 | `KaliKeira`              | 1 |
 | `mantisNZ`               | 1 |
 | `nf003`                  | 1 |
+| `nnalbant`               | 1 |
 | `Phillip Rohmberger`     | 1 |
+| `pykman`                 | 1 |
 | `ranger15`               | 1 |
 | `Santi_levt`             | 1 |
 | `Skiprat`                | 1 |

@@ -60,6 +60,7 @@
 896614,A6-EFV,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68617,2024
 896615,A6-EFW,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68618,2024
 89661E,A6-EXA,A359,Airbus,A350-941,Airbus A350-941,0,Emirates,UAE,684,2024
+89661F,A6-EXB,A359,Airbus,A350-941,Airbus A350-941,0,Emirates,UAE,690,2024
 89662B,A6-ETA,B77W,Boeing,777-3FX(ER),Boeing 777-3FX(ER),0,Etihad Airways,ETD,34597,
 896633,A6-AUK,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Abu Dhabi,ADY,05665,2013
 896636,A6-PFK,B77W,Boeing,777-3F6(ER),Boeing 777-3F6(ER),0,Abu Dhabi Amiri Flight,AUH,61733,2017
@@ -68,6 +69,7 @@
 89664C,A6-ETE,B77W,Boeing,777-3FX(ER),Boeing 777-3FX(ER),0,Etihad Airways,ETD,34601,2006
 89665B,A6-AQD,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,05004,2012
 896678,A6-AES,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Etihad Airways,ETD,10284,2021
+8966B5,A6-SMS,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,512,2024
 896C5C,1214,C130,Lockheed,C-130H Hercules,Lockheed C-130H Hercules,0,United Arab Emirates Air Force,UAF,4882,
 896C6B,1350,CL60,Canadair,CL-600-2B16 Challenger 650,Canadair CL-600-2B16 Challenger 650,0,United Arab Emirates Air Force,UAF,6141,
 896C6C,1351,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,United Arab Emirates Air Force,UAF,,

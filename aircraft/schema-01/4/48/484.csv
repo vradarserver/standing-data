@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 484084,PJ-DVG,DHC6,De Havilland Canada,DHC-6-300 Twin Otter,De Havilland Canada DHC-6-300 Twin Otter,0,Divi Divi Air,DVR,347,1972
+4840C6,P4-699,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6433,
 48412A,P4-IFD,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Deer Jet,DER,5261,2012
 4841C5,PH-CKC,B744,Boeing,747-406F(ER),Boeing 747-406F(ER),0,Martinair,MPH,33696,2004
 484221,,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,
