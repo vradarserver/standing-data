@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 203,903 |
-| `PietD`                        | 137,220 |
-| `vand`                         | 61,926 |
+| `dirkhh`                       | 204,418 |
+| `PietD`                        | 137,681 |
+| `vand`                         | 62,445 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 25,194 |
+| `科罗娜`                          | 25,196 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,880 |
-| `Lanorge`                      | 16,590 |
+| `sib64`                        | 17,890 |
+| `Lanorge`                      | 16,594 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
@@ -46,7 +46,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Gavin-D`                      | 2,149 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `verbatim`                     | 1,851 |
+| `verbatim`                     | 1,852 |
 | `Rosen85`                      | 1,763 |
 | `DuoRadar`                     | 1,749 |
 | `BPfH`                         | 1,611 |
@@ -62,9 +62,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
+| `Dauren`                       | 1,215 |
 | `Mark Taylor`                  | 1,184 |
-| `Daniel.cornejo.campos`        | 1,176 |
-| `Dauren`                       | 1,156 |
+| `Daniel.cornejo.campos`        | 1,178 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -106,7 +106,7 @@ Please note that credit files are updated less frequently than the data files.
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
 | `shisha34`                     | 472 |
-| `kirkmayers`                   | 468 |
+| `kirkmayers`                   | 469 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
@@ -329,6 +329,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kan84`                        | 31 |
 | `nilsonbastos`                 | 31 |
 | `Vasiliy`                      | 31 |
+| `AdriBrum`                     | 30 |
 | `caro-ed`                      | 30 |
 | `chenhao253`                   | 30 |
 | `Geoff G`                      | 30 |
@@ -349,7 +350,6 @@ Please note that credit files are updated less frequently than the data files.
 | `TuffyDK`                      | 27 |
 | `gg333`                        | 26 |
 | `SomeGen`                      | 26 |
-| `AdriBrum`                     | 25 |
 | `Bourne`                       | 25 |
 | `Dan Haas`                     | 25 |
 | `Henk Bokhoven`                | 25 |
