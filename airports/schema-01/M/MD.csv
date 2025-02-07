@@ -1,8 +1,125 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-mder,El Ranchito Airport,mder,,La Vega,DO,19.184813,-70.364964,240
-mdes,Peñuela / Esperanza Field,mdes,,Valverde,DO,19.584112,-70.956724,328
-mdhn,Juancho Enriquillo Airport,mdhn,,Barahona,DO,17.872519,-71.268718,115
-mdlm,Los Montones Airport,mdlm,,San Cristobal,DO,18.521233,-70.099132,305
-mdma,Magdalena Cuya Airport,mdma,,La Romana,DO,18.501933,-68.799099,325
-mdpm,Piloto Airport,mdpm,,Monte Cristi,DO,19.597727,-71.205971,131
-mdwo,Walterio Airport,mdwo,,Monte Cristi,DO,19.757867,-71.623482,33
+MD00,Fair's Airport,MD00,,Pocomoke City,US,38.046200,-75.553299,22
+MD01,Wingfield Airport,MD01,,Ridge,US,38.143501,-76.356598,20
+MD02,St. Mary's Hospital East Heliport,MD02,,Leonardtown,US,38.301498,-76.636803,96
+MD03,Woodstock Airport,MD03,,Chesapeake City,US,39.488400,-75.811096,81
+MD04,Rossneck Airport,MD04,,Cambridge,US,38.568901,-76.235802,5
+MD05,Finagin Airfield,MD05,,Welcome,US,38.507500,-77.121597,185
+MD06,Pilots Cove Airport,MD06,,Tompkinsville,US,38.335400,-76.878601,20
+MD07,Sacred Heart Hospital Heliport,MD07,,Cumberland,US,39.650101,-78.799698,1428
+MD08,Gregory May Heliport,MD08,,Havre De Grace,US,39.534599,-76.106300,51
+MD09,Meadow Brook Airport,MD09,,Queen Anne,US,38.915401,-75.971001,50
+MD10,Baltimore Police Department Heliport,MD10,,Baltimore,US,39.290401,-76.607498,170
+MD11,Wright Field,MD11,,Chestertown,US,39.277100,-76.062698,80
+MD12,Bell Airport,MD12,,Emmittsburg,US,39.636398,-77.292801,370
+MD13,Black & Decker/Parking Lot 2 Heliport,MD13,,Towson,US,39.398998,-76.588303,472
+MD14,Robinson Private Airport,MD14,,Benedict,US,38.524300,-76.683601,20
+MD15,Fallston General Hospital Heliport,MD15,,Bel Air,US,39.497799,-76.390800,450
+MD16,Waredaca Farm Airport,MD16,,Brookeville,US,39.230701,-77.083298,530
+MD17,Tinsley Airstrip,MD17,,Butler,US,39.516800,-76.733002,400
+MD18,Horn Point Airport,MD18,,Cambridge,US,38.589600,-76.138496,12
+MD19,Hybarc Farm Airport,MD19,,Chestertown,US,39.203201,-76.024902,50
+MD20,Greer Airport,MD20,,Taneytown,US,39.636200,-77.122803,520
+MD21,Ashland Landing Farm Airport,MD21,,Centreville,US,39.118099,-76.096397,10
+MD22,Deale Airport,MD22,,Deale,US,38.783401,-76.564697,15
+MD23,Kennersley Airport,MD23,,Church Hill,US,39.144798,-76.040497,30
+MD24,Haysfield Airport,MD24,,Clarksville,US,39.238201,-76.946602,420
+MD25,Howard County General Hospital Heliport,MD25,,Columbia,US,39.214600,-76.886398,470
+MD26,Beltsville Shop Heliport,MD26,,Beltsville,US,39.050098,-76.890503,185
+MD27,Chalk Point Generating Station Heliport,MD27,,Eagle Harbor,US,38.556499,-76.692703,80
+MD28,Ewing Airport,MD28,,Easton,US,38.809299,-75.992203,50
+MD29,Memorial Hospital Heliport,MD29,,Easton,US,38.772202,-76.071899,63
+MD30,Craig Company Heliport,MD30,,Hagerstown,US,39.641800,-77.749702,628
+MD31,Forest Hill Airport,MD31,,Forest Hill,US,39.580101,-76.374702,476
+MD32,Fort Detrick Helipad Heliport,MD32,,Fort Detrick(Frederick),US,39.436501,-77.420502,350
+MD33,Dorchester General Hospital Heliport,MD33,,Cambridge,US,38.571800,-76.067703,12
+MD34,Ibm Heliport,MD34,,Gaithersburg,US,39.153400,-77.216698,424
+MD35,Spring Hill Airport,MD35,,Hebron,US,38.434799,-75.651299,42
+MD36,Tar Cove Heliport,MD36,,Glen Burnie,US,39.145100,-76.501404,8
+MD37,Citizens Bank Headquarters Heliport,MD37,,Laurel,US,39.087101,-76.897202,312
+MD39,Buds Ferry Airport,MD39,,Indian Head,US,38.521000,-77.251900,50
+MD40,Mrs Bozman Heliport,MD40,,Jacksonville,US,39.549500,-76.562698,620
+MD41,Gary Field,MD41,,Denton,US,38.898300,-75.910599,50
+MD42,Keymar Airpark,MD42,,Keymar,US,39.619499,-77.227501,437
+MD43,Mountain Road Airport,MD43,,Lakeshore,US,39.118401,-76.496597,70
+MD44,Evapco Heliport,MD44,,Taneytown,US,39.653702,-77.183601,482
+MD45,Hampton Airport,MD45,,Leonardtown,US,38.230701,-76.628799,18
+MD46,Glenair Airport,MD46,,Dayton,US,39.269600,-77.005302,590
+MD47,Barnes Airport,MD47,,Lisbon,US,39.332901,-77.096901,780
+MD48,Albrecht Airstrip,MD48,,Long Green,US,39.473400,-76.500198,325
+MD49,Peninsula Regional Medical Center Heliport,MD49,,Salisbury,US,38.349998,-75.583298,22
+MD50,Chesapeake Ranch Airstrip,MD50,,Lusby,US,38.361198,-76.405197,116
+MD51,Kent & Queen Anne's Hospital Heliport,MD51,,Chestertown,US,39.317902,-76.063797,52
+MD52,Mccready Memorial Hospital Heliport,MD52,,Crisfield,US,37.966702,-75.866302,3
+MD53,Mac Kinnis Airport,MD53,,Salisbury,US,38.288700,-75.739403,10
+MD54,Pier 7 Heliport,MD54,,Baltimore,US,39.272202,-76.571701,16
+MD55,Holly Springs Farm Airport,MD55,,Nanjemoy,US,38.397598,-77.186096,90
+MD56,Three J Airport,MD56,,New Windsor,US,39.569000,-77.121399,510
+MD57,Beverly Airport,MD57,,Pocomoke City,US,38.007099,-75.617401,10
+MD58,Montgomery County Police Norwood Heliport,MD58,,Olney,US,39.127201,-77.022499,430
+MD59,Silver Hill Airport,MD59,,Chestertown,US,39.139801,-76.093597,30
+MD60,Northwest Hospital Heliport,MD60,,Randallstown,US,39.359001,-76.781601,530
+MD61,Lynch's Landing Airport,MD61,,Rising Sun,US,39.724602,-76.070503,510
+MD62,Church Hill Airport,MD62,,Church Hill,US,39.125000,-76.001602,70
+MD63,Cromwell Farm Airport,MD63,,Chestertown,US,39.274799,-76.009903,65
+MD64,Stewart Airport,MD64,,St Michaels,US,38.799599,-76.272400,10
+MD65,Western Maryland Health System Heliport,MD65,,Cumberland,US,39.646667,-78.731944,675
+MD66,Smith Field,MD66,,Chestertown,US,39.337898,-76.098000,60
+MD67,Dow Jones & Co. Inc. Heliport,MD67,,Silver Spring,US,39.046501,-76.983597,365
+MD68,Berg's Field,MD68,,Stevenson,US,39.411201,-76.716400,330
+MD69,Harris Airport,MD69,,Still Pond,US,39.333401,-76.083000,80
+MD70,Flying Acres Airport,MD70,,Sudlersville,US,39.181198,-75.908798,70
+MD71,University of Maryland Shock Trauma Center Heliport,MD71,,Baltimore,US,39.288700,-76.625801,166
+MD72,Fort Washington Medical Center Heliport,MD72,,Fort Washington,US,38.727833,-76.992153,49
+MD73,Happy Landings Farm Airport,MD73,,Unionville,US,39.458401,-77.148003,693
+MD74,Good Neighbor Farm Airport,MD74,,Unionville,US,39.474300,-77.195297,580
+MD75,Stolcrest STOLport,MD75,,Urbana,US,39.341801,-77.303596,530
+MD76,Carroll Hospital Center Heliport,MD76,,Westminster,US,39.558998,-76.990303,887
+MD77,Flying M Farms Airport,MD77,,Comus,US,39.259800,-77.341400,590
+MD78,Woodbine Airport,MD78,,Woodbine,US,39.383400,-77.070297,720
+MD79,Nuodex Inc. Heliport,MD79,,Worton,US,39.252899,-76.084396,60
+MD82,Ragged Island Airport,MD82,,Cambridge,US,38.539799,-76.275497,5
+MD83,Ty-Ti-To Airport,MD83,,La Plata,US,38.520802,-77.068100,170
+MD85,Carmean Airport,MD85,,Ridgely,US,38.932899,-75.890198,58
+MD86,Grimes Properties Heliport,MD86,,Frederick,US,39.408401,-77.386101,324
+MD91,Saxon Farms Airport,MD91,,Church Hill,US,39.152302,-76.018600,70
+MD93,Hexton Farms Airport,MD93,,Cecilton,US,39.375099,-75.906601,65
+MD94,Farmington Airport,MD94,,Farmington,US,39.676498,-76.036903,445
+MD95,Reservoir Airport,MD95,,Finksburg,US,39.481998,-76.881599,550
+MD97,Lanseair Farms Airport,MD97,,La Plata,US,38.461498,-77.046402,40
+MD98,Fort Ritchie Heliport,MD98,,Fort Ritchie,US,39.700100,-77.499702,760
+MD99,Moran Field,MD99,,Westernport,US,39.500599,-79.072304,2080
+MDAB,Arroyo Barril Airport,MDAB,,Arroyo Barril,DO,19.198601,-69.429802,57
+MDAD,Azua Airport,MDAD,,Azua,DO,18.425501,-70.731400,262
+MDAN,Cotui Angelina Airport,MDAN,,Cotui Angelina,DO,19.131599,-70.221603,200
+MDBA,Consuelo Batey Anita airport,MDBA,,Consuelo,DO,18.683332,-69.383331,150
+MDBC,La Romana Batey Cacata airport,MDBC,,La Romana,DO,18.479700,-68.915901,223
+MDBE,La Romana Batey Lechuga Airport,MDBE,,La Romana,DO,18.586800,-69.055397,252
+MDBG,Higuey Airport,MDBG,,Higuey,DO,18.631599,-68.737801,429
+MDBH,Maria Montez International Airport,MDBH,BRX,Barahona,DO,18.251499,-71.120399,10
+MDBL,Boca Chica Airport,MDBL,,Boca Chica,DO,18.450800,-69.592598,1
+MDBM,San Pedro De Macoris Airport,MDBM,,San Pedro de Macoris,DO,18.448099,-69.281197,17
+MDCR,Cabo Rojo Airport,MDCR,CBJ,Cabo Rojo,DO,17.929001,-71.644798,262
+MDCY,Samaná El Catey International Airport,MDCY,AZS,Samana,DO,19.267000,-69.741997,30
+MDCZ,Constanza Dom Re Airport,MDCZ,COZ,Costanza,DO,18.907499,-70.721901,3950
+MDDJ,Dajabon Airport,MDDJ,,Dajabon,DO,19.563601,-71.680801,69
+MDER,El Ranchito Airport,MDER,,La Vega,DO,19.184813,-70.364964,240
+MDES,Peñuela / Esperanza Field,MDES,,Valverde,DO,19.584112,-70.956724,328
+MDHE,Herrera Airport,MDHE,HEX,Santo Domingo,DO,18.469700,-69.969398,190
+MDHN,Juancho Enriquillo Airport,MDHN,,Barahona,DO,17.872519,-71.268718,115
+MDJB,La Isabela International Airport,MDJB,JBQ,La Isabela,DO,18.572500,-69.985603,98
+MDLM,Los Montones Airport,MDLM,,San Cristobal,DO,18.521233,-70.099132,305
+MDLR,Casa De Campo International Airport,MDLR,LRM,La Romana,DO,18.450701,-68.911797,240
+MDMA,Magdalena Cuya Airport,MDMA,,La Romana,DO,18.501933,-68.799099,325
+MDMC,Monte Cristi Airport,MDMC,,Monte Cristi,DO,19.865299,-71.645302,121
+MDPC,Punta Cana International Airport,MDPC,PUJ,Punta Cana,DO,18.567400,-68.363403,47
+MDPM,Piloto Airport,MDPM,,Monte Cristi,DO,19.597727,-71.205971,131
+MDPO,Samana El Portillo Airport,MDPO,EPS,Samana,DO,19.321415,-69.495912,30
+MDPP,Gregorio Luperon International Airport,MDPP,POP,Puerto Plata,DO,19.757900,-70.570000,15
+MDSA,San Juan De La Maguana Airport,MDSA,,San Juan de la Maguana,DO,18.825500,-71.231400,1309
+MDSB,Sabana de Mar Airport,MDSB,SNX,Sabana de Mar,DO,19.061899,-69.385201,15
+MDSD,Las Américas International Airport,MDSD,SDQ,Santo Domingo,DO,18.429701,-69.668900,59
+MDSI,San Isidro Air Base,MDSI,,San Isidro,DO,18.503700,-69.761703,111
+MDSJ,San Juan Airport,MDSJ,SJM,San Juan,DO,18.833332,-71.233330,1496
+MDST,Cibao International Airport,MDST,STI,Santiago,DO,19.406099,-70.604698,565
+MDWO,Walterio Airport,MDWO,,Monte Cristi,DO,19.757867,-71.623482,33

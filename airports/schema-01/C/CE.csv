@@ -1,2 +1,97 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-ceg6,Nordegg / Ahlstrom Heliport,ceg6,,Nordegg,CA,52.489314,-116.079569,4411
+CEA3,Olds-Didsbury Airport,CEA3,,Olds-Didsbury,CA,51.711899,-114.107002,3360
+CEA5,Hardisty Airport,CEA5,,Hardisty,CA,52.646900,-111.384003,2326
+CEA6,Cardston Airport,CEA6,,Cardston,CA,49.162498,-113.240997,3887
+CEB3,Colville Lake Airport,CEB3,YCK,Colville Lake,CA,67.033302,-126.083000,850
+CEB5,Fairview Airport,CEB5,ZFW,Fairview,CA,56.081402,-118.434998,2166
+CEC3,Fox Lake Airport,CEC3,,Fox Lake,CA,58.473301,-114.542999,850
+CEC4,Hinton / Jasper-Hinton Airport,CEC4,,Hinton,CA,53.319199,-117.752998,4006
+CEC5,Fort Smith (District) Heliport,CEC5,,Fort Smith,CA,60.003101,-111.908997,665
+CED2,Chinchaga Airport,CED2,,Chinchaga,CA,57.542801,-119.130997,2280
+CED3,Oyen Municipal Airport,CED3,,Oyen,CA,51.334202,-110.490997,2498
+CED4,Fox Creek Airport,CED4,,Fox Creek,CA,54.380001,-116.765999,2842
+CED5,Taber Airport,CED5,,Taber,CA,49.826698,-112.184998,2648
+CED6,Highwood Airport,CED6,,De Winton,CA,50.801899,-113.889000,3450
+CEE4,Hinton / Entrance Airport,CEE4,,Hinton,CA,53.381401,-117.700996,3450
+CEE5,Wabasca Airport,CEE5,,Wabasca,CA,55.961899,-113.819000,1827
+CEE6,Edmonton / Twin Island Airpark,CEE6,,Edmonton,CA,53.471100,-113.153999,2435
+CEE8,Viking Airport,CEE8,,Viking,CA,53.108969,-111.864939,2260
+CEF3,Bow Island Airport,CEF3,,Bow Island,CA,49.883301,-111.333000,2634
+CEF4,Airdrie Airport,CEF4,,Airdrie,CA,51.263901,-113.933998,3648
+CEF6,Forestburg Airport,CEF6,,Forestburg,CA,52.574699,-112.084000,2334
+CEG2,Acme Airport,CEG2,,Acme,CA,51.456402,-113.514999,3035
+CEG3,Lacombe Airport,CEG3,,Lacombe,CA,52.488300,-113.711998,2783
+CEG4,Drumheller Municipal Airport,CEG4,,Drumheller,CA,51.496399,-112.749001,2597
+CEG5,Chipewyan Lake Airport,CEG5,,Chipewyan Lake,CA,56.952499,-113.496002,1800
+CEG6,Nordegg / Ahlstrom Heliport,CEG6,,Nordegg,CA,52.489314,-116.079569,4411
+CEG8,North Seal River Airport,CEG8,,North Seal River,CA,58.969398,-99.974998,980
+CEH2,Cu Nim Airport,CEH2,,Black Diamond,CA,50.722500,-114.179001,3700
+CEH3,Ponoka Industrial Airport,CEH3,,Ponoka Industrial,CA,52.651699,-113.606003,2669
+CEH4,De Winton South Calgary Airport,CEH4,,De Winton,CA,50.821899,-113.823997,3355
+CEH5,Red Earth Creek Airport,CEH5,,Red Earth Creek,CA,56.546398,-115.274002,1790
+CEH6,Provost Airport,CEH6,,Provost,CA,52.338100,-110.278999,2197
+CEH7,Yellowknife (Regional Hospital) Heliport,CEH7,,Yellowknife,CA,62.447498,-114.405998,650
+CEJ2,Andrew Airport,CEJ2,,Andrew,CA,53.873901,-112.358002,2060
+CEJ3,Stettler Airport,CEJ3,,Stettler,CA,52.310001,-112.753998,2686
+CEJ4,Claresholm Industrial Airport,CEJ4,,Claresholm,CA,50.004700,-113.629997,3325
+CEJ5,Cadotte Airport,CEJ5,,Cadotte,CA,56.457558,-116.353841,1900
+CEJ6,Elk Point Airport,CEJ6,,Elk Point,CA,53.893101,-110.772003,1981
+CEK2,Braeburn Airport,CEK2,,Braeburn,CA,61.484402,-135.776001,2400
+CEK4,Blairmore (Forestry) Heliport,CEK4,,Blairmore,CA,49.608601,-114.450996,4224
+CEK6,Killam-Sedgewick Airport,CEK6,,Killam,CA,52.799999,-111.766998,2182
+CEL2,Calgary (City / Bow River) Heliport,CEL2,,Calgary,CA,51.052834,-114.078843,3443
+CEL4,Hanna Airport,CEL4,,Hanna,CA,51.631401,-111.903999,2738
+CEL5,Valleyview Airport,CEL5,,Valleyview,CA,55.032501,-117.295998,2435
+CEL6,Two Hills Airport,CEL6,,Two Hills,CA,53.700001,-111.782997,2010
+CEL9,Calgary (Eastlake) Heliport,CEL9,,Calgary,CA,50.955011,-113.972867,3418
+CEM2,Calgary (Rockyview Hospital) Heliport,CEM2,,Calgary,CA,50.988279,-114.098302,3590
+CEM3,Whatì Airport,CEM3,YLE,Whatì,CA,63.131699,-117.246002,882
+CEM4,Innisfail Airport,CEM4,,Innisfail,CA,52.078602,-114.027000,3017
+CEM5,Swan Hills Airport,CEM5,,Swan Hills,CA,54.670799,-115.415001,3473
+CEN2,Bassano Airport,CEN2,,Bassano,CA,50.799999,-112.467003,2613
+CEN3,Three Hills Airport,CEN3,,Three Hills,CA,51.696701,-113.209000,2975
+CEN4,High River Airport,CEN4,,High River,CA,50.533298,-113.833000,3431
+CEN5,Cold Lake Regional Airport,CEN5,,Cold Lake,CA,54.477501,-110.268997,1786
+CEN6,Vauxhall Airport,CEN6,,Vauxhall,CA,50.033298,-112.083000,2579
+CEP2,Calgary (Bow Crow) Heliport,CEP2,,Calgary,CA,51.103165,-114.214962,3540
+CEP3,Barrhead Airport,CEP3,,Barrhead,CA,54.099998,-114.432999,2121
+CEP4,Ross International Airport,CEP4,,Coutts,CA,49.000000,-111.967003,3550
+CEP5,Janvier Airport,CEP5,,Janvier,CA,55.900002,-110.733002,1575
+CEP6,Warner Airport,CEP6,,Warner,CA,49.293301,-112.189003,3319
+CEP8,Edmonton (Eastport) Heliport,CEP8,,Edmonton,CA,53.508301,-113.333000,2320
+CEQ3,Camrose Airport,CEQ3,,Camrose,CA,53.040298,-112.816002,2426
+CEQ4,Del Bonita / Whetstone International Airport,CEQ4,,Del Bonita,CA,48.998600,-112.776001,4335
+CEQ5,Grande Cache Airport,CEQ5,,Grande Cache,CA,53.916901,-118.874001,4117
+CER2,Castor Airport,CER2,,Castor,CA,52.220925,-111.926887,2704
+CER3,Drayton Valley Industrial Airport,CER3,,Drayton Valley,CA,53.265800,-114.959999,2776
+CER4,Fort McMurray / Mildred Lake Airport,CER4,NML,Fort McMurray,CA,57.055599,-111.573997,1046
+CER5,Conklin Airport,CER5,,Conklin,CA,55.634701,-111.087997,1850
+CES3,Edmonton / St. Albert (Delta Helicopters) Heliport,CES3,,Edmonton,CA,53.686694,-113.687339,2265
+CES4,Westlock Airport,CES4,,Westlock,CA,54.142200,-113.740997,2214
+CES8,Edmonton (Grey Nuns Community Hospital) Heliport,CES8,,Edmonton,CA,53.462251,-113.427764,2274
+CET2,Conklin (Leismer) Airport,CET2,,Conklin,CA,55.695301,-111.278999,1930
+CET4,Fort Simpson Island Airport,CET4,,Fort Simpson Island,CA,61.866699,-121.365997,405
+CET5,Hay River (District) Heliport,CET5,,Hay River,CA,60.784401,-115.825996,550
+CET9,Jean Marie River Airport,CET9,,Jean Marie River,CA,61.516701,-120.616997,470
+CEU2,Beaverlodge Airport,CEU2,,Beaverlodge,CA,55.184200,-119.447998,2289
+CEU4,Rocky Mountain House (General Hospital) Heliport,CEU4,,Rocky Mountain House,CA,52.378601,-114.919998,3323
+CEU9,Trout Lake Airport,CEU9,,Trout Lake,CA,60.439400,-121.237000,1635
+CEV2,Edra Airport,CEV2,,Edra,CA,57.849998,-113.250000,2625
+CEV3,Vegreville Airport,CEV3,,Vegreville,CA,53.514400,-112.027000,2072
+CEV5,Mayerthorpe Airport,CEV5,,Mayerthorpe,CA,53.937500,-115.179001,2432
+CEV7,Tofield Airport,CEV7,,Tofield,CA,53.371101,-112.696999,2311
+CEV9,Snare River Airport,CEV9,,Snare River,CA,63.433300,-116.182999,700
+CEW3,St. Paul Airport,CEW3,ZSP,St. Paul,CA,53.993301,-111.379997,2147
+CEW5,Milk River Airport,CEW5,,Milk River,CA,49.133301,-112.050003,3449
+CEW7,Edmonton / University of Alberta (Stollery Children's Hospital Mahi) Heliport,CEW7,,Edmonton,CA,53.520424,-113.525046,2367
+CEW9,Canmore Municipal Heliport,CEW9,,Canmore,CA,51.077801,-115.337997,4296
+CEX3,Wetaskiwin Regional Airport,CEX3,,Wetaskiwin,CA,52.965000,-113.411003,2509
+CEX4,Carmacks Airport,CEX4,,Carmacks,CA,62.108101,-136.179993,1770
+CEX5,Zama Airport,CEX5,,Zama,CA,59.151901,-118.707001,1296
+CEX9,Brant (Dixon Farm) Airport,CEX9,,Brant,CA,50.419399,-113.541000,3342
+CEY3,Fort Macleod Airport,CEY3,,Fort Macleod,CA,49.700001,-113.417000,3138
+CEZ2,Chapman Lake Airport,CEZ2,,Chapman Lake,CA,64.900002,-138.266998,3100
+CEZ3,Edmonton / Cooking Lake Airport,CEZ3,,Edmonton,CA,53.427502,-113.115997,2437
+CEZ4,Fort Vermilion Airport,CEZ4,,Fort Vermilion,CA,58.404202,-115.950996,836
+CEZ7,Fort Simpson Island Seaplane Base,CEZ7,,Fort Simpson Island,CA,61.869405,-121.361332,375
+CEZ9,Grande Prairie (Forestry) Heliport,CEZ9,,Grande Prairie,CA,55.153599,-118.822998,2151

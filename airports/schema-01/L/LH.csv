@@ -1,2 +1,47 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-lhkk,Kiskunlacháza-airport,lhkk,,Budapest,HU,47.168885,19.084969,322
+LH58,Csákvár Airport,LH58,,Csákvár,HU,47.350899,18.430000,1000
+LHBA,Balassagyarmat Airport,LHBA,,Balassagyarmat,HU,48.078037,19.321749,466
+LHBC,Békéscsaba Glider Airport,LHBC,,Békéscsaba,HU,46.675800,21.162201,279
+LHBP,Budapest Ferenc Liszt International Airport,LHBP,BUD,Budapest,HU,47.436901,19.255600,495
+LHBS,Budaörs Glider Airport,LHBS,,Budaörs,HU,47.451099,18.980600,397
+LHDC,Debrecen International Airport,LHDC,DEB,Debrecen,HU,47.488899,21.615299,359
+LHDK,Dunakeszi Airport,LHDK,,Dunakeszi,HU,47.613899,19.143299,397
+LHDV,Dunaújváros Glider Airport,LHDV,,Dunaújváros,HU,46.895802,18.913900,394
+LHEC,Érsekcsanád Airport,LHEC,,Érsekcsanád,HU,46.246243,18.921022,285
+LHEM,Esztergom Airport,LHEM,,Esztergom,HU,47.772800,18.721701,342
+LHER,Eger Airport,LHER,,Eger,HU,47.905200,20.405500,790
+LHFH,Farkashegy Airport,LHFH,,Farkashegy,HU,47.486900,18.914700,690
+LHFM,Fertőszentmiklós Airport,LHFM,,Fertőszentmiklós,HU,47.582802,16.845400,440
+LHGD,Gödöllő Airport,LHGD,,Gödöllő,HU,47.570999,19.338600,600
+LHGM,Gyomai Airport,LHGM,,Gyomai,HU,46.956165,20.883123,265
+LHGR,Gyúró Airport,LHGR,,Gyúró,HU,47.391400,18.757860,640
+LHGY,Gyöngyös Pipishegy Airport,LHGY,,Gyöngyös Pipishegy,HU,47.814499,19.977600,1150
+LHHH,Hármashatárhegy Airport,LHHH,,Budapest,HU,47.550301,18.978701,960
+LHHO,Hajdúszoboszló Airport,LHHO,,Hajdúszoboszló,HU,47.459202,21.391100,335
+LHJK,Jakabszállás Airport,LHJK,,Jakabszállás,HU,46.747200,19.605600,348
+LHKC,Kecel Heliport,LHKC,,Kecel,HU,46.536388,19.241703,323
+LHKD,Kecskéd Airport,LHKD,,Kecskéd,HU,47.507900,18.322701,570
+LHKE,Kecskemét Airport,LHKE,,Kecskemét,HU,46.917500,19.749201,376
+LHKH,Kiskunfélegyháza Airport,LHKH,,Kiskunfélegyháza,HU,46.733101,19.893299,289
+LHKK,Kiskunlacháza-airport,LHKK,,Budapest,HU,47.168885,19.084969,322
+LHKV,Kaposvar Kaposújlak Glider Airport,LHKV,,Kaposújlak,HU,46.386398,17.733900,499
+LHMC,Miskolc Airport,LHMC,MCQ,Miskolc,HU,48.136902,20.791401,390
+LHMR,Eger Maklár Airport,LHMR,,Eger,HU,47.811100,20.422800,407
+LHNK,Nagykanizsa Airport,LHNK,,Nagykanizsa,HU,46.432001,16.958170,466
+LHNY,Nyíregyháza Airport,LHNY,,Nyíregyháza,HU,47.983898,21.692301,338
+LHOY,Őcsény Airport,LHOY,,Őcsény,HU,46.303902,18.769199,295
+LHPA,Pápa Airport,LHPA,,Pápa,HU,47.363602,17.500799,466
+LHPP,Pécs-Pogány Airport,LHPP,PEV,Pécs-Pogány,HU,45.990898,18.240999,1000
+LHPR,Győr-Pér International Airport,LHPR,QGY,Győr,HU,47.624401,17.813601,424
+LHSA,Szentkirályszabadja Airport,LHSA,,Szentkirályszabadja,HU,47.077900,17.968399,919
+LHSK,Siófok-Kiliti Airport,LHSK,,Siófok-Kiliti,HU,46.856899,18.095800,417
+LHSM,Sármellék International Airport,LHSM,SOB,Sármellék,HU,46.686401,17.159100,408
+LHSN,Szolnok Airport,LHSN,,Szolnok,HU,47.122898,20.235500,322
+LHSS,Szolnok-Szandaszőlős Sport Airport,LHSS,,Szolnok-Szandaszőlős,HU,47.144402,20.197800,266
+LHSY,Szombathely Info Airport,LHSY,,Szombathely,HU,47.279999,16.626400,732
+LHSZ,Szentes Aerodrome,LHSZ,,Szentes,HU,46.613300,20.282801,259
+LHTA,Taszár Air Base,LHTA,TZR,Taszár,HU,46.393101,17.917500,531
+LHTL,Tököl Air Base,LHTL,,Tököl,HU,47.345299,18.980801,318
+LHUD,Szeged Glider Airport,LHUD,QZD,Szeged,HU,46.246899,20.090799,249
+LHZA,Zalaegerszeg Airport,LHZA,,Zalaegerszeg,HU,46.884701,16.788900,617
+LHZK,Zalakaros Airport,LHZK,,Zalakaros,HU,46.553900,17.151180,370

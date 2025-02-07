@@ -1,2 +1,11 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-cmb2,Meadowbank Airport,cmb2,,Meadowbank Gold Mine,CA,65.024662,-96.068659,475
+CMA2,Mattawa Airport,CMA2,,Mattawa,CA,46.299702,-78.747803,600
+CMB2,Meadowbank Airport,CMB2,,Meadowbank Gold Mine,CA,65.024662,-96.068659,475
+CMBH,Mount Belcher Heliport,CMBH,,Mount Belcher,CA,48.832802,-123.504997,1000
+CMC2,Edmonton / Misericordia (Community Hospital) Heliport,CMC2,,Edmonton,CA,53.520377,-113.611055,2320
+CMC3,Mayerthorpe (Healthcare Centre) Heliport,CMC3,,Mayerthorpe,CA,53.948711,-115.133017,2432
+CMH2,Milton (Afi) Heliport,CMH2,,Milton,CA,43.532224,-79.902734,687
+CMI2,Minden (Hospital) Heliport,CMI2,,Minden,CA,44.924702,-78.729401,905
+CML2,Quamichan Lake (Raven Field) Airport,CML2,,Quamichan Lake,CA,48.811901,-123.651001,130
+CMR6,Camrose / St Mary's Hospital Heliport,CMR6,,Camrose,CA,53.015138,-112.830169,2413
+CMS2,Middleton (Soldiers Memorial Hospital) Heliport,CMS2,,Middleton,CA,44.946128,-65.059040,53

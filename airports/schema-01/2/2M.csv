@@ -1,2 +1,72 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-2me3,Charleston / Harte Field,2me3,,Charleston,US,45.041350,-68.990021,230
+2MA2,Digital Heliport,2MA2,,Hudson,US,42.326500,-71.409500,450
+2MA3,Rider Heliport,2MA3,,Ipswich,US,42.664299,-70.839798,40
+2MA4,Compaq Littleton Heliport,2MA4,,Littleton,US,42.549301,-71.472603,300
+2MA5,Compaq Powdermill Road Heliport,2MA5,,Maynard,US,42.427898,-71.457603,175
+2MA7,Falls Pond Seaplane Base,2MA7,,North Attleborough,US,41.958401,-71.326401,175
+2MA8,Compaq Stow Heliport,2MA8,,Stow,US,42.430901,-71.541702,250
+2MA9,Digital Heliport,2MA9,,Tewksbury,US,42.639301,-71.224503,130
+2MD0,Anderson Farm Airport,2MD0,,Marion,US,38.048698,-75.703499,8
+2MD1,Recompense Farm Airport,2MD1,,Clements,US,38.308498,-76.724701,30
+2MD2,Aerospace Tech Center Heliport,2MD2,,Columbia,US,39.236500,-76.826103,415
+2MD3,Fly Away Farm Airport,2MD3,,Boyds,US,39.229000,-77.345333,501
+2MD4,Ennis Aerodrome,2MD4,,Salisbury,US,38.394600,-75.557404,44
+2MD5,Memorial Hospital of Cumberland Heliport,2MD5,,Cumberland,US,39.642899,-78.751099,900
+2MD6,Cherry Field,2MD6,,Lexington Park,US,38.144001,-76.472198,8
+2MD7,Maritime Institute Heliport,2MD7,,Linthicum Heights,US,39.211201,-76.671898,170
+2MD8,Greater Gortner Airport,2MD8,,Oakland,US,39.333401,-79.441399,2500
+2ME3,Charleston / Harte Field,2ME3,,Charleston,US,45.041350,-68.990021,230
+2MI0,Woodside Airport,2MI0,,Chesaning,US,43.216702,-84.047203,615
+2MI1,Blodgett Memorial Medical Center Heliport,2MI1,,Grand Rapids,US,42.953400,-85.622299,800
+2MI2,St. Mary Hospital Heliport,2MI2,,Livonia,US,42.427799,-83.404099,665
+2MI3,Larry D Boven Airport,2MI3,,Galesburg,US,42.312500,-85.463303,890
+2MI4,Mc Jilton Field,2MI4,,St Louis,US,43.405602,-84.571404,729
+2MI5,Somerville Airport,2MI5,,Ada,US,42.941700,-85.486397,660
+2MI7,Flugplatz Airport,2MI7,,Lexington,US,43.346901,-82.552200,700
+2MI8,Vassar Field,2MI8,,Vassar,US,43.343399,-83.535202,675
+2MI9,Capen Airport,2MI9,,Mecosta,US,43.624199,-85.317802,1015
+2MN0,Pribbs Field,2MN0,,East Grand Forks,US,48.082100,-97.016296,818
+2MN1,Winter Strip,2MN1,,Gluek,US,45.046101,-95.464500,1040
+2MN2,Dreamcatcher Airport,2MN2,,Jacobson,US,46.940399,-93.297897,1250
+2MN3,Chippewa County Hospital Heliport,2MN3,,Montevideo,US,44.952599,-95.711800,1024
+2MN5,Pelican Lake Seaplane Base,2MN5,,Orr,US,48.057999,-92.856003,1288
+2MN6,Van Norman's Airport,2MN6,,St Charles,US,44.047199,-92.092903,1100
+2MN7,Fussy Airport,2MN7,,North Prairie,US,45.791599,-94.340797,1100
+2MN8,Trygstad Airport,2MN8,,Rochester,US,43.996101,-92.335701,1227
+2MN9,F. Dillenburg Airport,2MN9,,Foley,US,45.824402,-93.995300,1295
+2MO0,Fletcher Field,2MO0,,Centerview,US,38.799400,-93.864197,805
+2MO1,Bird Field,2MO1,,Willard,US,37.320000,-93.419899,1250
+2MO2,Northwood Airport,2MO2,,Holt,US,39.464199,-94.307999,1000
+2MO3,Independence Regional Health Center Heliport,2MO3,,Independence,US,39.094398,-94.435204,952
+2MO4,Breckenridge Airport,2MO4,,Rockville,US,38.114399,-94.176697,805
+2MO5,Pegasus Ranch Aerodrome,2MO5,,Houston,US,37.382000,-92.210701,1430
+2MO6,Hunziker Airport,2MO6,,Hurdland,US,40.134499,-92.297699,890
+2MO7,Fawn Lake Airport,2MO7,,Warrenton,US,38.866699,-91.086098,750
+2MO8,Frerer Strip,2MO8,,Carthage,US,37.135101,-94.364098,1020
+2MO9,Runway Ranch Airport,2MO9,,Kansas City,US,38.950001,-94.450203,929
+2MS0,Tgp Station 851 Heliport,2MS0,,New Albany,US,34.538300,-89.013298,420
+2MS1,Tgp Station 843 Heliport,2MS1,,Isola,US,33.235600,-90.577499,105
+2MS2,Tgp Station 54 Heliport,2MS2,,Greenville,US,33.357201,-91.054703,120
+2MS3,Tgp Station 542 Heliport,2MS3,,De Kalb,US,32.638901,-88.660004,305
+2MS4,Tgp Station 546 Heliport,2MS4,,Columbus,US,33.449200,-88.361702,219
+2MS5,Tgp Station 847 Heliport,2MS5,,Coffeeville,US,33.906898,-89.784203,245
+2MS6,Tgp Station 63 Heliport,2MS6,,Batesville,US,34.296101,-90.072197,175
+2MS7,Puff Airpark,2MS7,,Puckett,US,32.058498,-89.816704,400
+2MS8,Spencer Field,2MS8,,Grenada,US,33.789700,-89.874397,175
+2MS9,Kimmel Land & Cattle Airport,2MS9,,Houston,US,33.830002,-88.922798,265
+2MT0,Bates Airstrip,2MT0,,Kalispell,US,48.299999,-114.414001,3110
+2MT1,Ryan Field,2MT1,,West Glacier,US,48.483101,-113.959000,3660
+2MT2,Braidwater Farm Airport,2MT2,,Kalispell,US,48.200001,-114.258003,2910
+2MT3,Community Medical Center Heliport,2MT3,,Missoula,US,46.869900,-113.990997,3160
+2MT4,River Bend Ranch Heliport,2MT4,,Ferndale,US,48.082802,-113.996002,3010
+2MT5,Briar Creek Airport,2MT5,,Bozeman,US,45.594101,-111.152000,5175
+2MT6,Sun River Ranch Heliport,2MT6,,Augusta,US,47.599998,-112.671997,4450
+2MT7,Barnaby Lake Medivac Site Heliport,2MT7,,Fortine,US,48.778194,-114.968444,3034
+2MT8,South Boulder Airport,2MT8,,Cardwell,US,45.815100,-111.925900,4560
+2MT9,Gold Creek Airport,2MT9,,Drummond,US,46.513889,-112.983333,4956
+2MU0,St Genevieve County Memorial Hospital Heliport,2MU0,,St Genevieve,US,37.968498,-90.054398,424
+2MU1,Saint Louis Children's Hospital Heliport,2MU1,,Saint Louis,US,38.634998,-90.261101,610
+2MU9,Monroe Field,2MU9,,Hawk Point,US,38.965599,-91.118103,710
+2MY2,Zarn Airport,2MY2,,Amboy,US,43.907417,-94.274667,1050
+2MY3,Cambridge Medical Center Heliport,2MY3,,Cambridge,US,45.565450,-93.231361,980
+2MY4,Miller Airport,2MY4,,Clear Lake,US,45.433869,-93.948714,987

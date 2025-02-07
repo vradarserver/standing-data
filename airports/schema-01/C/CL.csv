@@ -1,2 +1,117 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-cla5,Lethbridge / Anderson Field,cla5,,Lethbridge,CA,49.656944,-112.772778,3020
+CL00,Usc University Hospital Heliport,CL00,,Los Angeles,US,34.053902,-118.202003,476
+CL01,Eagle Field,CL01,,Dos Palos,US,36.899899,-120.667999,153
+CL02,Kilroy Airport Center Heliport,CL02,,El Segundo,US,33.932499,-118.385002,255
+CL03,Airport Towers Nr 1 Heliport,CL03,,El Segundo,US,33.917000,-118.394997,404
+CL04,Sky Way Estates Airport,CL04,,Elk Grove,US,38.410702,-121.235001,92
+CL05,First Interstate Bank Operations Center Heliport,CL05,,Fremont,US,37.548000,-121.980003,112
+CL06,Glendale Adventist Medical Center/Gamc Heliport,CL06,,Glendale,US,34.151699,-118.230003,717
+CL07,Queen Mary Heliport,CL07,,Long Beach,US,33.749401,-118.188004,14
+CL08,Biltmore Hotel Heliport,CL08,,Los Angeles,US,34.049198,-118.252998,443
+CL09,Sharp Chula Vista Medical Center Heliport,CL09,,Chula Vista,US,32.619499,-117.023003,446
+CL10,Anacapa View Estates Heliport,CL10,,Malibu,US,34.041698,-118.852997,625
+CL11,Ferdun Ranch Airport,CL11,,Lodi,US,38.134602,-121.220001,64
+CL12,St Vincent Professional Office Building Heliport,CL12,,Los Angeles,US,34.063900,-118.273003,464
+CL13,Brian Ranch Airport,CL13,,Palmdale,US,34.515301,-117.762001,3230
+CL14,Huntington Memorial Hospital Heliport,CL14,,Pasadena,US,34.133598,-118.153999,854
+CL15,Sce Ridgecrest Service Center Heliport,CL15,,Ridgecrest,US,35.614700,-117.668999,2288
+CL16,Turner Field/Amphibious Base Heliport,CL16,,Coronado,US,32.678450,-117.155585,12
+CL17,Barstow Community Hospital Heliport,CL17,,Barstow,US,34.894051,-117.018276,2255
+CL18,Danby Airstrip,CL18,,Danby,US,34.555000,-115.356003,1400
+CL19,Bank of America Glendale Heliport,CL19,,Glendale,US,34.155602,-118.255997,560
+CL20,Wells Fargo-Cv Heliport,CL20,,Los Angeles,US,34.041698,-118.272003,260
+CL21,Sutter Amador Hospital Heliport,CL21,,Jackson,US,38.349998,-120.763000,1246
+CL22,Sheriff's Station Heliport,CL22,,Valencia,US,34.416100,-118.552002,1200
+CL23,Jones/Ag-Viation Airport,CL23,,Biggs,US,39.459599,-121.695999,109
+CL24,Kindsvater Ranch Airport,CL24,,Clovis,US,36.849899,-119.510002,529
+CL25,7R Ranch Airport,CL25,,Cuyama,US,34.935501,-119.452003,3176
+CL26,Great Western Helistop,CL26,,Chatsworth,US,34.238748,-118.565927,1018
+CL27,Wells Fargo-El Monte Heliport,CL27,,El Monte,US,34.070801,-118.071999,261
+CL28,Moronga Basin Chp Heliport,CL28,,Joshua Tree,US,34.134701,-116.275002,2485
+CL29,Camino Airstrip,CL29,,Goffs,US,34.834999,-114.957001,2079
+CL30,Queensway Bay Heliport,CL30,,Long Beach,US,33.755001,-118.195000,12
+CL31,Caltrans District 7 Heliport,CL31,,Los Angeles,US,34.051498,-118.242996,484
+CL32,Fib Administration & Operations Building Heliport,CL32,,Los Angeles,US,34.053600,-118.264999,430
+CL33,Pauma Valley Air Park,CL33,,Pauma Valley,US,33.310600,-116.998001,756
+CL34,First Interstate Bank Heliport,CL34,,Simi Valley,US,34.268600,-118.718002,974
+CL35,Warner Springs Gliderport Airport,CL35,,Warner Springs,US,33.284500,-116.675003,2885
+CL36,Allan Ranch Flight Park Ultralightport,CL36,,Windsor,US,38.569401,-122.804001,160
+CL37,Enloe Hospital Heliport,CL37,,Chico,US,39.742401,-121.849998,253
+CL38,Swepi Beta Platform Eureka Heliport,CL38,,Huntington Beach,US,33.563900,-118.117996,123
+CL39,St. Helena Fire Department Heliport,CL39,,St Helena,US,38.548500,-122.511002,308
+CL40,Antelope Valley Service Center Heliport,CL40,,Lancaster,US,34.647499,-118.146004,2522
+CL41,Oakland Convention Center Heliport,CL41,,Oakland,US,37.802399,-122.274002,110
+CL42,Mission Viejo Company Helistop,CL42,,Aliso Viejo,US,33.572201,-117.725998,408
+CL43,Boeing Seal Beach (Ground Level) Heliport,CL43,,Seal Beach,US,33.755001,-118.093002,20
+CL44,Orange County Steel Salvage Heliport,CL44,,Anaheim,US,33.848202,-117.849998,230
+CL45,North Net Fire Training Heliport,CL45,,Anaheim,US,33.795300,-117.880997,145
+CL46,Quail Lake Sky Park Airport,CL46,,Gorman/Lancaster,US,34.767799,-118.732002,3370
+CL47,Hoag Heliport,CL47,,Valley Center,US,33.234200,-116.968002,1650
+CL48,Va Medical Center Heliport,CL48,,Long Beach,US,33.775799,-118.120003,76
+CL49,International Tower Heliport,CL49,,Los Angeles,US,34.046398,-118.263000,542
+CL50,Westwood Gateway Heliport,CL50,,Los Angeles,US,34.047798,-118.445000,321
+CL51,Santa Rosa Memorial Hospital Heliport,CL51,,Santa Rosa,US,38.443802,-122.700996,208
+CL52,San Joaquin General Hospital Heliport,CL52,,Stockton,US,37.887699,-121.285004,15
+CL53,Redbud Community Hospital Heliport,CL53,,Clearlake,US,38.929001,-122.614998,1407
+CL54,Westside Towers Heliport,CL54,,Los Angeles,US,34.033100,-118.453003,325
+CL55,Sce Serrano Substation Heliport,CL55,,Orange,US,33.828602,-117.791000,697
+CL56,Ranchaero Airport,CL56,,Chico,US,39.719601,-121.871002,173
+CL57,Torrey Pines Corporate Helistop,CL57,,San Diego,US,32.908901,-117.242996,430
+CL58,Sce Southeastern Division Heliport,CL58,,Santa Ana,US,33.730900,-117.847000,97
+CL59,Camp 11 Heliport,CL59,,Agua Dulce,US,34.438301,-118.288002,2220
+CL60,Memorial Hospital Heliport,CL60,,Bakersfield,US,35.391102,-119.005997,500
+CL61,Kern Medical Center Heliport,CL61,,Bakersfield,US,35.384102,-118.969002,505
+CL62,Station 125 Heliport,CL62,,Calabasas,US,34.150299,-118.697998,850
+CL63,Castaic Dam Heliport,CL63,,Castaic,US,34.517200,-118.598999,1520
+CL64,Washington Hospital Heliport,CL64,,Fremont,US,37.556301,-121.977997,57
+CL65,H.B.P.D. Heliport,CL65,,Huntington Beach,US,33.695000,-118.000999,56
+CL66,Camp 2 Heliport,CL66,,La Canada,US,34.197201,-118.174004,1120
+CL67,Platform Hidalgo Heliport,CL67,,Lompoc,US,34.494999,-120.703003,162
+CL68,Platform Harvest Heliport,CL68,,Lompoc,US,34.469200,-120.681999,178
+CL69,Sutter Lakeside Hospital Heliport,CL69,,Lakeport,US,39.105099,-122.906998,1401
+CL70,Queen of Angel-Hollywood Presbyterian Hospital Heliport,CL70,,Los Angeles,US,34.096401,-118.290001,524
+CL71,Hughes/Corporate Heliport,CL71,,Los Angeles,US,33.966099,-118.424004,75
+CL72,Camp 8 Heliport,CL72,,Malibu,US,34.062000,-118.647003,1525
+CL73,Rotor-Aids Maintenance Hangar Heliport,CL73,,Oxnard,US,34.202202,-119.203003,43
+CL74,Skyotee Ranch Airport,CL74,,Rosamond,US,34.831902,-118.401001,2600
+CL75,Robert D Cloud Heliport,CL75,,Rosemead,US,34.052200,-118.081001,312
+CL76,U S Naval Hospital San Diego Heliport,CL76,,San Diego,US,32.725101,-117.144997,200
+CL77,Bonny Doon Village Airport,CL77,,Santa Cruz,US,37.070499,-122.126999,2020
+CL78,Camp 14 Heliport,CL78,,Saugus,US,34.566101,-118.476997,1870
+CL79,Sce Tiffany Pines Heliport,CL79,,Shaver Lake,US,37.118000,-119.305000,5548
+CL80,Sherman Oaks Community Hospital Heliport,CL80,,Sherman Oaks,US,34.160000,-118.449997,697
+CL81,Camp 15 Heliport,CL81,,Sunland,US,34.289398,-118.288002,1520
+CL82,Los Robles Regional Medical Center Heliport,CL82,,Thousand Oaks,US,34.206699,-118.883003,760
+CL83,Joe Heidrick Heliport,CL83,,Woodland,US,38.665501,-121.825996,120
+CL84,Ahlem Farms Airport,CL84,,Hilmar,US,37.388302,-120.927002,73
+CL85,Infineon Raceway Pad 1 Heliport,CL85,,Sonoma,US,38.158233,-122.456317,115
+CL86,Mc Candless Towers Heliport,CL86,,Santa Clara,US,37.385502,-121.972000,201
+CL87,Haddicks Heliport,CL87,,City of Industry,US,34.028099,-117.964996,306
+CL88,Wesinger Ranch Airport,CL88,,Alturas,US,41.447102,-120.584000,4300
+CL89,Los Angeles Times - Northridge Heliport,CL89,,Chatsworth,US,34.238821,-118.569490,859
+CL90,Butte Creek Hog Ranch Airport,CL90,,Chico,US,39.688801,-121.783997,200
+CL91,Auberry Hydro Service Center Heliport,CL91,,Auberry,US,37.064899,-119.484001,2000
+CL92,Sce Saddleback Service Center Heliport,CL92,,Irvine,US,33.654999,-117.705002,391
+CL93,Sce Shaver Summit Heliport,CL93,,Shaver Lake,US,37.163799,-119.292000,5755
+CL94,Plumas District Hospital Heliport,CL94,,Quincy,US,39.940253,-120.962026,3425
+CL95,County Heliport,CL95,,San Bernardino,US,34.103298,-117.272003,1040
+CL96,Vaca Valley Hospital Heliport,CL96,,Vacaville,US,38.355701,-121.950996,110
+CL97,Mercy Hospital & Medical Center Heliport,CL97,,San Diego,US,32.751202,-117.160004,330
+CL98,Rockwell Facility Heliport,CL98,,Seal Beach,US,33.757801,-118.084999,12
+CL99,Watsonville Community Hospital Heliport,CL99,,Watsonville,US,36.939999,-121.776001,111
+CLA2,L'Assomption Airport,CLA2,,L'Assomption,CA,45.823101,-73.460602,52
+CLA4,Holland Landing Airpark,CLA4,,Holland Landing,CA,44.089401,-79.495003,855
+CLA5,Lethbridge / Anderson Field,CLA5,,Lethbridge,CA,49.656944,-112.772778,3020
+CLA6,Lancaster Airpark,CLA6,,Bainsville,CA,45.200401,-74.361000,145
+CLC2,London / Chapeskie Field,CLC2,,London,CA,43.068298,-81.125603,930
+CLC3,Calgary (Peter Lougheed Centre) Heliport,CLC3,,Calgary,CA,51.078196,-113.986330,3562
+CLD2,Edmonton / Leduc,CLD2,,Leduc,CA,53.253172,-113.542599,2411
+CLE4,Lower East Pubnico (La Field) Airport,CLE4,,Lower East Pubnico,CA,43.622200,-65.761902,107
+CLG3,Liege / CNRL Airport,CLG3,,Liege,CA,57.001900,-113.194000,1728
+CLH2,Stettler (Health Centre) Heliport,CLH2,,Stettler,CA,52.323154,-112.725257,2694
+CLH4,Lethbridge (Regional Hospital) Heliport,CLH4,,Lethbridge,CA,49.685968,-112.815632,2993
+CLK3,Lucknow Airpark,CLK3,,Lucknow,CA,43.967800,-81.493301,960
+CLM2,Leamington Airport,CLM2,,Leamington,CA,42.025002,-82.525002,576
+CLP2,Montreal / Laval (Artopex Plus) Heliport,CLP2,,Montréal,CA,45.578596,-73.750020,133
+CLQ2,Liverpool (Queens General Hospital) Heliport,CLQ2,,Liverpool,CA,44.038715,-64.705342,67
+CLW2,Lewvan (Farr Strip) Airport,CLW2,,Lewvan,CA,49.985001,-104.114998,1904

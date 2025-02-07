@@ -1,2 +1,89 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
-cbn3,Buffalo Narrows (Fire Centre) Heliport,cbn3,,Buffalo Narrows,CA,55.834241,-108.404202,1411
+CBA8,Beaverley Airport,CBA8,,Beaverley,CA,53.855598,-122.907997,2420
+CBA9,Ospika Airport,CBA9,,Ospika,CA,56.275002,-124.052002,2300
+CBB2,Campbell River (West Coast) Heliport,CBB2,,Campbell River,CA,50.046398,-125.252998,7
+CBB5,Port Alice (Hospital) Heliport,CBB5,,Port Alice,CA,50.425742,-127.488433,50
+CBB7,Tipella Airport,CBB7,,Tipella,CA,49.743099,-122.163002,55
+CBB9,Osoyoos Airport,CBB9,,Osoyoos,CA,49.037201,-119.488998,1100
+CBBC,Bella Bella (Campbell Island) Airport,CBBC,,Bella Bella,CA,52.185001,-128.156998,141
+CBC2,Ford Bay Airport,CBC2,,Ford Bay,CA,66.037498,-124.714996,673
+CBC4,Kamloops (Royal Inland Hospital) Heliport,CBC4,,Kamloops,CA,50.669029,-120.333158,1349
+CBC5,Victoria (BC Hydro) Heliport,CBC5,,Victoria,CA,48.490004,-123.390292,40
+CBC6,Calgary / Blue-Con Heliport,CBC6,,Calgary,CA,50.996964,-113.893889,3440
+CBC7,Harbour (Public) Heliport,CBC7,,Vancouver,CA,49.286892,-123.106112,2
+CBC8,Tofino (Hospital) Heliport,CBC8,,Tofino,CA,49.151100,-125.908997,50
+CBC9,Burgeo (Calder Health Care Corp) Heliport,CBC9,,Burgeo,CA,47.613179,-57.623999,100
+CBD2,Delta (North) Heliport,CBD2,,Vancouver,CA,49.119961,-123.047268,10
+CBD5,Takla Narrows Airport,CBD5,,Takla Narrows,CA,55.163549,-125.706124,2380
+CBD6,Nahanni Butte Airport,CBD6,,Nahanni Butte,CA,61.029701,-123.389000,600
+CBD9,White Saddle Ranch Heliport,CBD9,,White Saddle Ranch,CA,51.733299,-124.733002,2925
+CBE2,Elko Airport,CBE2,,Elko,CA,49.283298,-115.150002,2850
+CBE3,Beamsville/Panterra Heliport,CBE3,,Beamsville,CA,43.186553,-79.474245,300
+CBE9,Whistler (Municipal) Heliport,CBE9,,Whistler,CA,50.168377,-122.904754,2116
+CBF4,Mission (Public Safety) Heliport,CBF4,,Mission,CA,49.132754,-122.343615,85
+CBF5,Mayne Island (Medical Emergency) Heliport,CBF5,,Mayne Island,CA,48.846510,-123.283568,100
+CBF6,Seal Cove (Public) Heliport,CBF6,,Prince Rupert,CA,54.330002,-130.278000,17
+CBF7,Victoria Harbour (Camel Point) Heliport,CBF7,,Victoria,CA,48.418098,-123.388000,15
+CBF9,Mabel Lake Airport,CBF9,,Mabel Lake,CA,50.608898,-118.731003,1410
+CBG2,Green Lake Airport,CBG2,,Green Lake,CA,51.429401,-121.209999,3550
+CBG5,Nanaimo (Regional General Hospital) Heliport,CBG5,,Nanaimo,CA,49.185749,-123.971757,292
+CBG8,Prince George (Pacific Western Helicopters) Heliport,CBG8,,Prince George,CA,53.877523,-122.766670,1940
+CBH2,Helmet Airport,CBH2,,Helmet,CA,59.425800,-120.797997,1930
+CBH4,Prairie Creek Airport,CBH4,,Prairie Creek,CA,61.564701,-124.815002,2950
+CBJ4,Echo Valley Airport,CBJ4,,Echo Valley,CA,51.241699,-121.994003,3650
+CBJ9,San Juan Point (Coast Guard) Heliport,CBJ9,,San Juan Point,CA,48.531101,-124.457001,25
+CBK4,Vancouver (General Hospital) Heliport,CBK4,,Vancouver,CA,49.261947,-123.124411,235
+CBK5,Port Alberni (West Coast General Hospital) Heliport,CBK5,,Port Alberni,CA,49.248839,-124.783036,272
+CBK6,Quesnel Lake Airport,CBK6,,Quesnel Lake,CA,52.514999,-121.044998,2500
+CBK7,Mile 422 (Alaska Highway) Airport,CBK7,,Toad River,CA,58.849400,-125.239998,2400
+CBK8,Victoria (Royal Jubilee Hospital) Heliport,CBK8,,Victoria,CA,48.434294,-123.325165,50
+CBK9,Little Parker Island Heliport,CBK9,,Little Parker Island,CA,48.896400,-123.417999,22
+CBL3,Gordon Field,CBL3,,Fort Nelson,CA,58.816700,-122.782997,1625
+CBL4,Bassano (Health Centre) Heliport,CBL4,,Bassano,CA,50.790298,-112.460999,2606
+CBL6,Radium Hot Springs Airport,CBL6,,Radium Hot Springs,CA,50.633301,-116.099998,2650
+CBL7,Cortes Island Heliport,CBL7,,Cortes Island,CA,50.058601,-124.982002,230
+CBL9,Elkin Creek Guest Ranch Airport,CBL9,,Elkin Creek,CA,51.512798,-123.804001,4080
+CBM5,Telegraph Creek Airport,CBM5,,Telegraph Creek,CA,57.916698,-131.117004,1100
+CBM6,Midway Airport,CBM6,,Midway,CA,49.009998,-118.790001,1896
+CBM9,Port McNeill (Hospital) Heliport,CBM9,,Port Mcneill,CA,50.581677,-127.066806,150
+CBN3,Buffalo Narrows (Fire Centre) Heliport,CBN3,,Buffalo Narrows,CA,55.834241,-108.404202,1411
+CBN9,Tsay Keh Airport,CBN9,,Tsay Keh,CA,56.906101,-124.964996,2280
+CBP2,Banff (Park Compound Heliport) Heliport,CBP2,,Banff,CA,51.191700,-115.557999,4570
+CBP3,Fernie (Elk Valley Hospital) Heliport,CBP3,,Fernie,CA,49.500000,-115.067001,3300
+CBP4,Sechelt (St. Mary's Hospital) Heliport,CBP4,,Sechelt,CA,49.476225,-123.748554,179
+CBP5,Lillooet (CC Helicopters 2011) Heliport,CBP5,,Lillooet,CA,50.685104,-121.927246,700
+CBQ2,Fort Langley Airport,CBQ2,,Fort Langley,CA,49.167500,-122.555000,30
+CBQ7,Kemess Creek Airport,CBQ7,,Kemess Creek,CA,56.974400,-126.740997,4191
+CBQ8,Woodcock Airport,CBQ8,,Woodcock,CA,55.066700,-128.233002,537
+CBR2,Kaslo Airport,CBR2,,Kaslo,CA,49.903599,-116.934998,2354
+CBR4,Clinton / Bleibler Ranch,CBR4,,Clinton,CA,51.266802,-121.685772,3695
+CBR7,Tofino Lifeboat Station Heliport,CBR7,,Tofino,CA,49.133301,-125.900002,10
+CBR8,Prince Rupert (Hospital) Heliport,CBR8,,Prince Rupert,CA,54.304699,-130.330002,279
+CBS4,Mule Creek Airport,CBS4,,Mule Creek,CA,59.785599,-136.582993,2900
+CBS5,Port Hardy (Hospital) Heliport,CBS5,,Port Hardy,CA,50.720623,-127.502939,85
+CBS7,Briercrest South Airport,CBS7,,Briercrest South,CA,50.066399,-105.301003,2120
+CBS8,Port Alberni Airport,CBS8,,Port Alberni,CA,49.321899,-124.931000,250
+CBS9,Blairmore (Crowsnest Pass Hospital) Heliport,CBS9,,Blairmore,CA,49.616100,-114.457001,4292
+CBT3,Tsetzi Lake (Pan Phillips) Airport,CBT3,,Tsetzi Lake,CA,52.971901,-125.027000,3550
+CBT5,Golden (Golden & District General Hospital) Heliport,CBT5,,Golden,CA,51.296700,-116.968002,2575
+CBT6,Quilchena Airport,CBT6,,Quilchena,CA,50.161890,-120.507746,2100
+CBT9,Sproat Lake Tanker Base Heliport,CBT9,,Port Alberni,CA,49.289817,-124.939096,103
+CBU2,Eddontenajon / Iskut Village Airport,CBU2,,Eddontenajon,CA,57.847994,-129.983969,3100
+CBU4,Prince Rupert (Hydro) Heliport,CBU4,,Prince Rupert,CA,54.311699,-130.294006,98
+CBU5,Terrace (Mills Memorial Hospital) Heliport,CBU5,,Terrace,CA,54.510871,-128.597648,250
+CBU6,Mission (Memorial Hospital) Heliport,CBU6,,Mission,CA,49.136205,-122.331220,174
+CBV7,Valemount (Yellowhead Helicopters) Heliport,CBV7,,Valemount,CA,52.866699,-119.300003,2600
+CBV8,Comox (St. Joseph's Hospital) Heliport,CBV8,,Comox,CA,49.675075,-124.941185,60
+CBW2,Kitimat Airport,CBW2,,Kitimat,CA,54.163898,-128.580994,250
+CBW3,Fort Grahame Airport,CBW3,,Fort Graham,CA,56.521388,-124.470291,2230
+CBW4,Bob Quinn Lake Airport,CBW4,YBO,Bob Quinn Lake,CA,56.966702,-130.250000,2000
+CBW5,Terrace / BC Hydro Heliport,CBW5,,Terrace,CA,54.519201,-128.628016,195
+CBW7,Victoria (General Hospital) Heliport,CBW7,,Victoria,CA,48.467960,-123.432410,55
+CBW8,Prince George (North Cariboo Air Park) Airport,CBW8,,Prince George,CA,54.008099,-123.023003,2500
+CBW9,Madrona Bay Heliport,CBW9,,Madrona Bay,CA,48.855801,-123.486000,35
+CBX5,Tungsten (Cantung) Airport,CBX5,,Tungsten,CA,61.956902,-128.203003,3500
+CBX7,Tumbler Ridge Airport,CBX7,,Tumbler Ridge,CA,55.025002,-120.934998,3075
+CBY5,Seal Cove (Coast Guard) Heliport,CBY5,,Prince Rupert,CA,54.331699,-130.276993,17
+CBZ2,Kemano Heliport,CBZ2,,Kemano,CA,53.566700,-127.949997,160
+CBZ7,Victoria Harbour (Shoal Point) Heliport,CBZ7,,Victoria,CA,48.423208,-123.387526,10
+CBZ9,Fraser Lake Airport,CBZ9,,Fraser Lake,CA,54.013302,-124.767998,2690
