@@ -207,6 +207,7 @@ VP,KY,1,VP-C(?<code>[A-Z]{2}),VPC(?<code>[A-Z]{2}),VP-C{code}
 VP,MS,1,VP-M(?<code>[A-Z]{2}),VPM(?<code>[A-Z]{2}),VP-M{code}
 VP,VG,1,VP-L(?<code>[A-Z]{2}),VPL(?<code>[A-Z]{2}),VP-L{code}
 VQ,BM,1,VQ-B(?<code>[A-Z]{2}),VQB(?<code>[A-Z]{2}),VQ-B{code}
+VQ,KY,1,VQ-C(?<code>[A-Z]{2}),VQC(?<code>[A-Z]{2}),VQ-C{code}
 VQ,SH,1,VQ-H(?<code>[A-Z]{2}),VQH(?<code>[A-Z]{2}),VQ-H{code}
 VQ,TC,1,VQ-T(?<code>[A-Z]{2}),VQT(?<code>[A-Z]{2}),VQ-T{code}
 VT,IN,1,VT-(?<code>[A-Z]{3}),VT(?<code>[A-Z]{3}),VT-{code}
