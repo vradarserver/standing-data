@@ -6,33 +6,33 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,651 |
-| `aircraftenthusiast2000` | 2,366 |
+| `Peter Hutt`             | 3,681 |
+| `aircraftenthusiast2000` | 2,369 |
+| `科罗娜`                    | 1,770 |
 | `OSN`                    | 1,763 |
-| `科罗娜`                    | 1,762 |
-| `Andrew`                 | 1,182 |
+| `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 257 |
-| `Lanorge`                | 226 |
-| `andrw`                  | 200 |
+| `BudBundi`               | 262 |
+| `Lanorge`                | 232 |
+| `andrw`                  | 207 |
 | `Ljubo`                  | 113 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `topoguido`              | 81 |
-| `vrsspotter73`           | 79 |
+| `vrsspotter73`           | 81 |
+| `britiger`               | 64 |
 | `Rebelvenice2`           | 57 |
-| `britiger`               | 54 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
+| `wogman`                 | 23 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
-| `wogman`                 | 19 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
@@ -41,6 +41,7 @@ Please note that credit files are updated less frequently than the data files.
 | `soja`                   | 10 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
+| `iu3ind`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
@@ -65,7 +66,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
 | `GTR8000`                | 2 |
-| `iu3ind`                 | 2 |
 | `jasoveen`               | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |

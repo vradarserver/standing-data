@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4A0441,YR-ABA,A319,Airbus,A319-111,Airbus A319-111,0,Carpatair,KRP,03041,2007
 4A0442,YR-ABB,A319,Airbus,A319-112,Airbus A319-112,0,Carpatair,KRP,3818,2009
+4A0443,YR-ABC,A320,Airbus,A320-216,Airbus A320-216,0,Carpatair,KRP,03729,2008
 4A0461,YR-ACA,AT76,ATR,72-600,ATR 72-600,0,Air Connect,KON,1172,2014
 4A0462,YR-ACB,AT76,ATR,72-600,ATR 72-600,0,Air Connect,KON,1196,2014
 4A0481,YR-ADA,A320,Airbus,A320-214,Airbus A320-214,0,Aerro Direkt,DIR,03218,2007

@@ -30,6 +30,7 @@
 30086F,I-MIAW,AS50,Airbus Helicopters,AS-350 Ecureuil,Airbus Helicopters AS-350 Ecureuil,1,Private,,8968,
 300877,I-VENT,P28A,Piper,PA-28-140 Cherokee,Piper PA-28-140 Cherokee,1,Private,,28-24576,
 300878,I-LOSO,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258689,
+30087A,I-CEST,P208,Tecnam,P2008 JC,Tecnam P2008 JC,1,Private,,,2021
 30088C,I-SOMI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Ariane,,2354,
 300892,I-NOLV,C150,Reims,F150L,Reims F150L,1,Private,,F1501116,
 30089A,I-MIAK,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,8970,2021
@@ -38,6 +39,7 @@
 3008AC,I-PBRC,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,192,
 3008AE,I-PBNB,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,0,Leader SRL,LSA,117,
 3008B8,I-HFLY,A109,Leonardo,AW-109 Trekker,Leonardo AW-109 Trekker,0,Hoverfly,,22739,
+3008B9,I-TFAF,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,0,Tecnam Flight Academy,,,
 3008BD,I-TFAG,P208,Tecnam,P-2008,Tecnam P-2008,0,Tecnam Flight Academy,,,
 3008BF,I-OZZQ,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,1231,
 3008C1,I-TEAP,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,9144,
@@ -48,9 +50,10 @@
 3008DA,I-AACC,R44,Robinson,R44 Clipper II,Robinson R44 Clipper II,1,Private,,12881,
 3008E2,I-ESVR,RV6,Vans,RV-6,Vans RV-6,1,Private,,21397,
 3008E6,I-LARM,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Air Delta,,,
+3008E7,I-MYAL,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,,
 3008E8,I-MYAU,EC30,Airbus Helicopters,EC-130,Airbus Helicopters EC-130,0,E+S Air,,,
 3008EA,I-CJSN,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0376,2022
-3008ED,I-LRJR,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,Air Corporate,CPV,,
+3008ED,I-LRJR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Air Corporate,CPV,9188,2022
 3008F0,I-MYAR,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9215,
 3008F2,I-SEAK,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Servizi Aerei,SNM,6493,2022
 3008F3,I-YTRK,C551,Cessna,551 Citation IISP,Cessna 551 Citation IISP,1,Private,,551-0412,
@@ -62,6 +65,7 @@
 30092C,I-LRSA,H160,Airbus Helicopters,H-160,Airbus Helicopters H-160,0,Air Corporate,CPV,1027,2024
 300937,I-KEOV,AS55,Airbus Helicopters,AS-355 Ecureuil 2,Airbus Helicopters AS-355 Ecureuil 2,1,Private,,5739,
 30093A,I-PAPS,BE20,Beech,King Air 260,Beech King Air 260,0,Aliserio,,BY-440,2021
+300946,I-EUNI,BE20,Beechcraft,200 King Air 250,Beechcraft 200 King Air 250,1,Private,,BB-1720,2000
 300948,I-LARC,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9329,2022
 300958,I-LRHQ,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Eliossola,,9402,2023
 30095A,I-LRSL,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,318,2023
@@ -74,6 +78,7 @@
 30098B,I-TWOW,F900,Dassault,Falcon 900,Dassault Falcon 900,1,Private,,,
 300990,I-MSCA,B77L,Boeing,777-F,Boeing 777-F,0,AlisCargo Airlines,LSI,68230,2024
 30099D,I-ITYB,A339,Airbus,A330-941,Airbus A330-941,0,ITA Airways,ITY,2051,2023
+3009A0,I-PVGC,P208,Tecnam,P2008 MKII,Tecnam P2008 MKII,1,Private,,,
 3009A6,I-DOBE,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,4698282,2024
 3009AD,I-IFTO,P06T,Tecnam,P2006T,Tecnam P2006T,1,Private,,,
 3009B0,I-MILI,F8L,Aviamilano,F-8L Falco,Aviamilano F-8L Falco,1,Private,,219,
@@ -92,3 +97,4 @@
 3009D6,I-ADVC,BCS1,Airbus,A220-100,Airbus A220-100,0,ITA Airways,ITY,50076,2024
 3009D7,I-LARN,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,,
 3009E8,I-VIPS,EC30,Airbus Helicopters,H-130,Airbus Helicopters H-130,1,Private,,,
+300A1B,I-PVLB,C72R,Cessna,172RG Cutlass RG,Cessna 172RG Cutlass RG,1,Private,,,
