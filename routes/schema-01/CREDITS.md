@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 204,831 |
-| `PietD`                        | 138,091 |
-| `vand`                         | 62,839 |
+| `dirkhh`                       | 206,086 |
+| `PietD`                        | 138,430 |
+| `vand`                         | 63,410 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 25,659 |
+| `科罗娜`                          | 25,664 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,898 |
-| `Lanorge`                      | 16,597 |
+| `sib64`                        | 17,899 |
+| `Lanorge`                      | 16,601 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
@@ -27,7 +27,7 @@ Please note that credit files are updated less frequently than the data files.
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,998 |
 | `elljay`                       | 4,631 |
-| `aircraftenthusiast2000`       | 4,568 |
+| `aircraftenthusiast2000`       | 4,594 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
 | `CharlieAlpha`                 | 3,369 |
@@ -40,10 +40,10 @@ Please note that credit files are updated less frequently than the data files.
 | `smartcoda`                    | 2,389 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `viista`                       | 2,227 |
+| `viista`                       | 2,230 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,149 |
+| `Gavin-D`                      | 2,153 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,852 |
@@ -105,8 +105,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
+| `kirkmayers`                   | 472 |
 | `shisha34`                     | 472 |
-| `kirkmayers`                   | 470 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
@@ -152,8 +152,8 @@ Please note that credit files are updated less frequently than the data files.
 | `rikgale`                      | 215 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
+| `Franck Dosdane`               | 208 |
 | `Big G`                        | 207 |
-| `Franck Dosdane`               | 207 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
@@ -225,11 +225,11 @@ Please note that credit files are updated less frequently than the data files.
 | `BC`                           | 82 |
 | `Dmitry`                       | 82 |
 | `Benjamin92240`                | 81 |
+| `vrsspotter73`                 | 81 |
 | `Renato Nagg`                  | 80 |
 | `RZH`                          | 80 |
 | `Jens Erik Widén`              | 79 |
 | `Lector`                       | 79 |
-| `vrsspotter73`                 | 79 |
 | `HSran`                        | 77 |
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
