@@ -6,39 +6,39 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,681 |
+| `Peter Hutt`             | 3,739 |
 | `aircraftenthusiast2000` | 2,369 |
-| `科罗娜`                    | 1,770 |
+| `科罗娜`                    | 1,785 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `BudBundi`               | 262 |
-| `Lanorge`                | 232 |
+| `Lanorge`                | 236 |
 | `andrw`                  | 207 |
 | `Ljubo`                  | 113 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
+| `vrsspotter73`           | 86 |
 | `topoguido`              | 81 |
-| `vrsspotter73`           | 81 |
-| `britiger`               | 64 |
+| `britiger`               | 77 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `is0bzc`                 | 26 |
+| `wogman`                 | 26 |
 | `flybull`                | 24 |
-| `wogman`                 | 23 |
 | `Thain Hunter`           | 21 |
 | `Gavin-D`                | 20 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
+| `soja`                   | 11 |
 | `ng_03`                  | 10 |
-| `soja`                   | 10 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
 | `iu3ind`                 | 8 |
@@ -51,6 +51,7 @@ Please note that credit files are updated less frequently than the data files.
 | `neslin`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
+| `viista`                 | 5 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
 | `Manny`                  | 3 |

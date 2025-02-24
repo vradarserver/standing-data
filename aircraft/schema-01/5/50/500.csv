@@ -90,6 +90,7 @@
 5002F2,T7-IUB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6353,
 5002F8,T7-FCN,H25B,Raytheon,Hawker 800XP,Raytheon Hawker 800XP,1,Private,,258385,
 5002FC,T7-RIC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9546,2013
+5002FE,T7-20DW,PC24,Pilatus,PC-24,Pilatus PC-24,0,OpenSky,,275,2022
 500301,T7-BELL,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65456,2022
 500302,T7-HWW,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65423,
 500305,T7-808,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6522,2022
@@ -162,6 +163,8 @@
 5003DF,T7-SME,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73010,
 5003E0,T7-ELMIR,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,DC Aviation Al-Futtaim,,9294,2008
 5003E8,T7-VRS,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Titan Aviation San Marino,,14500863,2004
+5003EB,T7-ANG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70199,2024
 5003ED,T7-NAS,B738,Boeing,737-8LZ BBJ,Boeing 737-8LZ BBJ,1,Private,,42510,2013
 5003F5,T7-VITA,PC24,Pilatus,PC-24,Pilatus PC-24,0,Silver Aviation,,541,2024
+5003FC,T7-ALS,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4223,2011
 5003FF,T7-SSW,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6253,2016

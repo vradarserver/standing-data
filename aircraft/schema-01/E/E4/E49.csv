@@ -56,6 +56,7 @@ E4999D,PR-XBJ,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TA
 E4999E,PR-XBK,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11228,2022
 E499BC,PS-INB,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0662,
 E499C1,PP-CMK,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,339,2004
+E49A01,PS-CFG,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9117,2002
 E49A0F,PS-BLL,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Lider Aviação,,,
 E49A54,PR-YSL,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11235,2022
 E49A5C,PR-JGG,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2238,2022
@@ -88,4 +89,5 @@ E49DDD,PS-CGM,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500780,202
 E49E51,PS-ODF,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6384,2019
 E49E5A,PR-USK,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501011,2007
 E49EB5,PR-NGX,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2019,2020
+E49F94,PS-FST,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,072,2010
 E49FA5,PS-CMQ,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500181,2014

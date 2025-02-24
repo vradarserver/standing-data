@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AAE09F,N80MH,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,108,
+AAE0AB,N80MV,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70201,2024
 AAE1F1,N800AV,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,Avianca,AVA,36526,2015
 AAE20D,N800BY,PA24,Piper,PA-24,Piper PA-24,1,Private,,24-3161,1962
 AAE273,N800G,GA8C,Gulfstream,G800,Gulfstream G800,0,Gulfstream Aerospace,,88001,2022

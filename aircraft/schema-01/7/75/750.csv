@@ -1,4 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+75008A,9M-TSA,DA42,Diamond Aircraft Industries,DA42 Twin Star,Diamond Aircraft Industries DA42 Twin Star,1,Private,,42.237,
+750229,9M-MLF,B738,Boeing,737-8FZ,Boeing 737-8FZ,0,Firefly,FFM,29657,2010
+750236,9M-MLG,B738,Boeing,737-8FZ,Boeing 737-8FZ,0,Firefly,FFM,31779,2010
+750237,9M-MLH,B738,Boeing,737-8FZ,Boeing 737-8FZ,0,Firefly,FFM,31723,2010
+750244,9M-MLJ,B738,Boeing,737-8FZ,Boeing 737-8FZ,0,Firefly,FFM,39319,2011
 7502C4,9M-LRM,B738,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Batik Air Malaysia,MXD,43010,2019
 7502D5,9M-LRT,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Batik Air Malaysia,MXD,42996,2017
 750338,9M-XXR,A333,Airbus,A330-343,Airbus A330-343,0,AirAsia X,XAX,654,2003
