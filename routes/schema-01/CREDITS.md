@@ -6,14 +6,14 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 208,737 |
-| `PietD`                        | 138,897 |
-| `vand`                         | 64,256 |
+| `dirkhh`                       | 210,158 |
+| `PietD`                        | 139,047 |
+| `vand`                         | 64,656 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 25,782 |
+| `科罗娜`                          | 25,788 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,904 |
+| `sib64`                        | 17,914 |
 | `Lanorge`                      | 16,606 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,536 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Dauren`                       | 1,215 |
-| `Daniel.cornejo.campos`        | 1,197 |
+| `Daniel.cornejo.campos`        | 1,203 |
 | `Mark Taylor`                  | 1,184 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -82,7 +82,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 764 |
-| `wogman`                       | 739 |
+| `wogman`                       | 741 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `kirkmayers`                   | 473 |
+| `kirkmayers`                   | 474 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -139,10 +139,10 @@ Please note that credit files are updated less frequently than the data files.
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
+| `Skibox`                       | 253 |
 | `clipsnotebook`                | 249 |
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
-| `Skibox`                       | 247 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
@@ -222,10 +222,10 @@ Please note that credit files are updated less frequently than the data files.
 | `antonioag`                    | 87 |
 | `DOSDANE`                      | 87 |
 | `NE_MilAir`                    | 86 |
+| `vrsspotter73`                 | 84 |
 | `BC`                           | 82 |
 | `Dmitry`                       | 82 |
 | `Benjamin92240`                | 81 |
-| `vrsspotter73`                 | 81 |
 | `Renato Nagg`                  | 80 |
 | `RZH`                          | 80 |
 | `Jens Erik Widén`              | 79 |
@@ -322,6 +322,7 @@ Please note that credit files are updated less frequently than the data files.
 | `swli209ve`                    | 32 |
 | `Thibaud BENNET`               | 32 |
 | `URKK88`                       | 32 |
+| `AdriBrum`                     | 31 |
 | `DdePruis`                     | 31 |
 | `Fritz`                        | 31 |
 | `Jafo`                         | 31 |
@@ -329,7 +330,6 @@ Please note that credit files are updated less frequently than the data files.
 | `kan84`                        | 31 |
 | `nilsonbastos`                 | 31 |
 | `Vasiliy`                      | 31 |
-| `AdriBrum`                     | 30 |
 | `caro-ed`                      | 30 |
 | `chenhao253`                   | 30 |
 | `Geoff G`                      | 30 |
