@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 234 |
+| `PietD`                        | 236 |
 | `EDDG`                         | 61 |
 | `科罗娜`                          | 58 |
 | `vand`                         | 49 |

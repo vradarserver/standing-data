@@ -21,6 +21,7 @@
 4D201A,9H-GAE,B738,Boeing,737-89M,Boeing 737-89M,0,AeroItalia,AEZ,40911,2010
 4D201C,9H-VFQ,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Vistajet,VJT,5965,2014
 4D201F,9H-WNR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12146,2024
+4D2020,9H-WNS,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12189,2024
 4D2021,9H-WNT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12228,2025
 4D2029,9H-MATI,DH8D,Bombardier,Dash 8-400,Bombardier Dash 8-400,0,SkyAlps,SWU,4157,2024
 4D202B,9H-FOR,B734,Boeing,737-4Q8,Boeing 737-4Q8,0,AeroItalia,AEZ,24706,1991
@@ -36,12 +37,17 @@
 4D2051,9H-JJC,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,TAG Aviation Malta,TEU,6087,
 4D2060,9H-BFE,GA5C,Gulfstream,G500,Gulfstream G500,0,Gestair Aviation Malta,GSM,72032,2019
 4D2070,9H-MAX,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70148,2023
+4D2073,9H-NATHO,GLF6,Gulfstream,G650,Gulfstream G650,0,Avcon Jet Malta,VCJ,6037,2012
+4D2074,9H-SLP,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Malta,LYX,01663,2001
 4D207C,9H-QFK,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,44779,2017
 4D207D,9H-QFJ,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,33824,2005
+4D2080,9H-QFM,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,37515,2008
 4D2086,9H-EWF,A320,Airbus,A320-214,Airbus A320-214,0,Eurowings Europe,EWL,07087,2016
+4D2095,9H-QFO,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,33633,2008
 4D209F,9H-GGG,B737,Boeing,737-7ZX(BBJ),Boeing 737-7ZX(BBJ),0,Jet Aviation Flight Services (Malta),,40119,2013
 4D2115,9H-MIR,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,HiFly Malta,HFM,5368,1998
 4D2136,9H-FCA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Albinati Aviation,ULC,9665,2014
+4D2147,9H-IBD,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Elitavia Malta,EAU,9401,2010
 4D214B,9H-LGM,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Luxwing,LWG,50000187,2010
 4D215A,9H-QFD,B738,Boeing,737-8AS,Boeing 737-8AS,0,Malta Air,MAY,36077,2007
 4D216A,9H-GPS,C56X,Cessna,Citation Excel,Cessna Citation Excel,0,Luxwing,LWG,560-5249,

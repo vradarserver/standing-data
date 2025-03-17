@@ -65,6 +65,7 @@
 407B8F,G-TTNP,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,10548,2020
 407B90,G-SPLU,NNJA,Flylight Airsports,Nynja,Flylight Airsports Nynja,1,Private,,316-6,2021
 407B95,G-JSNS,G280,Gulfstream,G280,Gulfstream G280,0,Gama Aviation,GMA,2216,2020
+407B96,G-EKTP,SB91,Saab,91D Safir,Saab 91D Safir,1,Private,,91-464,1964
 407B9D,G-ULTB,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,0,Starspeed,,20089,2016
 407BA4,G-FBPS,C208,Cessna,Caravan 208B,Cessna Caravan 208B,0,British Parachute Schools Ltd.,,208B0494,1995
 407BA5,G-FLOH,C208,Cessna,208B Grand Caravan,Cessna 208B Grand Caravan,0,British Parachute Schools,,208B0576,1996
@@ -301,6 +302,7 @@
 407E32,G-CMJM,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1464,2017
 407E33,G-CMJN,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines,EAI,1471,2017
 407E36,G-KANF,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Kane Haulage,,65420,2022
+407E38,G-YOGA,AC11,Commander,114B,Commander 114B,1,Private,,14563,1992
 407E39,G-NADE,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Cotswold Aviation,,65412,2022
 407E3A,G-SOLE,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Catreus,VCG,525-1124,2022
 407E3B,G-RANL,A109,AgustaWestland,AW-109 Grand,AgustaWestland AW-109 Grand,1,Private,,22440,2022
@@ -412,6 +414,7 @@
 407F4C,G-LMTF,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1054,2012
 407F4E,G-TJAE,DA42,Diamond,DA42,Diamond DA42,1,Private,,42.033,2005
 407F50,G-TTCK,C25B,Cessna,525B CitationJet CJ3+,Cessna 525B CitationJet CJ3+,0,NALjets,,525B-0534,2018
+407F58,G-HMGF,B350,Beech,King Air 350,Beech King Air 350,0,2Excel Aviation,BRO,FL-402,2004
 407F5A,G-GLCM,P32R,Piper,PA-32R-300,Piper PA-32R-300,1,Private,,32R-7680422,1976
 407F5F,G-EJCO,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,05648,2013
 407F60,G-EJCG,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,04033,2009
