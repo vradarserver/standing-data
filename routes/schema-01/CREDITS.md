@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 214,559 |
-| `PietD`                        | 139,239 |
-| `vand`                         | 65,279 |
+| `dirkhh`                       | 215,626 |
+| `PietD`                        | 139,359 |
+| `vand`                         | 65,409 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 25,798 |
+| `科罗娜`                          | 25,804 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 17,921 |
-| `Lanorge`                      | 16,606 |
+| `sib64`                        | 17,923 |
+| `Lanorge`                      | 16,610 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
@@ -22,7 +22,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Neboknede`                    | 9,076 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,813 |
+| `Markus`                       | 6,815 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,998 |
@@ -40,10 +40,10 @@ Please note that credit files are updated less frequently than the data files.
 | `smartcoda`                    | 2,389 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `viista`                       | 2,234 |
+| `viista`                       | 2,235 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
-| `Gavin-D`                      | 2,154 |
+| `Gavin-D`                      | 2,155 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
 | `verbatim`                     | 1,852 |
@@ -152,7 +152,7 @@ Please note that credit files are updated less frequently than the data files.
 | `rikgale`                      | 215 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
-| `Franck Dosdane`               | 208 |
+| `Franck Dosdane`               | 210 |
 | `Big G`                        | 207 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
@@ -217,11 +217,11 @@ Please note that credit files are updated less frequently than the data files.
 | `GaryG`                        | 97 |
 | `Cedric`                       | 96 |
 | `Greg W`                       | 89 |
+| `vrsspotter73`                 | 89 |
 | `ccie4526`                     | 88 |
 | `Trond Erik`                   | 88 |
 | `antonioag`                    | 87 |
 | `DOSDANE`                      | 87 |
-| `vrsspotter73`                 | 87 |
 | `NE_MilAir`                    | 86 |
 | `BC`                           | 82 |
 | `Dmitry`                       | 82 |
@@ -299,6 +299,7 @@ Please note that credit files are updated less frequently than the data files.
 | `LazSpotter`                   | 40 |
 | `PAT-LFST`                     | 40 |
 | `Radiosutch`                   | 40 |
+| `AdriBrum`                     | 39 |
 | `gazman321`                    | 39 |
 | `Radio Active`                 | 39 |
 | `svedjehammar`                 | 39 |
@@ -309,7 +310,6 @@ Please note that credit files are updated less frequently than the data files.
 | `DHJ`                          | 37 |
 | `redeshazer`                   | 37 |
 | `Jimmy Ng`                     | 36 |
-| `AdriBrum`                     | 35 |
 | `SkyView`                      | 35 |
 | `Mike_n5pwp`                   | 34 |
 | `Zacki`                        | 34 |
@@ -903,6 +903,7 @@ Please note that credit files are updated less frequently than the data files.
 | `chazzie`                      | 1 |
 | `chen`                         | 1 |
 | `chrisdotpy`                   | 1 |
+| `clovis`                       | 1 |
 | `cmp128`                       | 1 |
 | `cojjer`                       | 1 |
 | `cool_trumpet`                 | 1 |
