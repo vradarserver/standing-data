@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 215,626 |
-| `PietD`                        | 139,359 |
-| `vand`                         | 65,409 |
+| `dirkhh`                       | 216,208 |
+| `PietD`                        | 139,465 |
+| `vand`                         | 65,655 |
 | `Pascal Ensinck`               | 26,317 |
-| `科罗娜`                          | 25,804 |
+| `科罗娜`                          | 25,814 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
 | `sib64`                        | 17,923 |
-| `Lanorge`                      | 16,610 |
+| `Lanorge`                      | 16,612 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,536 |
 | `bigrossco`                    | 10,853 |
@@ -22,7 +22,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Neboknede`                    | 9,076 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
-| `Markus`                       | 6,815 |
+| `Markus`                       | 6,816 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 4,998 |
@@ -40,7 +40,7 @@ Please note that credit files are updated less frequently than the data files.
 | `smartcoda`                    | 2,389 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `viista`                       | 2,235 |
+| `viista`                       | 2,238 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `Gavin-D`                      | 2,155 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `paradiselost`                 | 1,352 |
 | `Andrew`                       | 1,220 |
 | `Dauren`                       | 1,215 |
-| `Daniel.cornejo.campos`        | 1,206 |
+| `Daniel.cornejo.campos`        | 1,208 |
 | `Mark Taylor`                  | 1,184 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -296,10 +296,10 @@ Please note that credit files are updated less frequently than the data files.
 | `michael-levey`                | 41 |
 | `nf003`                        | 41 |
 | `noviarli`                     | 41 |
+| `AdriBrum`                     | 40 |
 | `LazSpotter`                   | 40 |
 | `PAT-LFST`                     | 40 |
 | `Radiosutch`                   | 40 |
-| `AdriBrum`                     | 39 |
 | `gazman321`                    | 39 |
 | `Radio Active`                 | 39 |
 | `svedjehammar`                 | 39 |
