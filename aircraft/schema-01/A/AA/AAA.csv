@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AAA342,N785BR,E170,Embraer,170,Embraer 170,0,Envoy Air,ENY,17000056,2004
+AAA364,N785D,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9765,2016
 AAA403,N785KJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Horizon Aviation LLC,,9741,2022
 AAA73C,N786EH,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9445,2023
 AAA78D,N786HP,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,4968,2021

@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,793 |
-| `aircraftenthusiast2000` | 2,371 |
-| `科罗娜`                    | 1,822 |
+| `Peter Hutt`             | 3,875 |
+| `aircraftenthusiast2000` | 2,377 |
+| `科罗娜`                    | 1,851 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 269 |
-| `Lanorge`                | 244 |
-| `andrw`                  | 211 |
+| `BudBundi`               | 271 |
+| `Lanorge`                | 252 |
+| `andrw`                  | 214 |
 | `Ljubo`                  | 113 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 88 |
+| `vrsspotter73`           | 92 |
 | `topoguido`              | 81 |
 | `britiger`               | 77 |
 | `Rebelvenice2`           | 57 |
@@ -28,11 +28,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
+| `wogman`                 | 28 |
 | `is0bzc`                 | 26 |
-| `wogman`                 | 26 |
 | `flybull`                | 24 |
+| `Gavin-D`                | 23 |
 | `Thain Hunter`           | 21 |
-| `Gavin-D`                | 20 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
@@ -44,11 +44,11 @@ Please note that credit files are updated less frequently than the data files.
 | `iu3ind`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
+| `neslin`                 | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
 | `darjes`                 | 6 |
-| `neslin`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
 | `viista`                 | 5 |
@@ -63,6 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
+| `AdriBrum`               | 2 |
 | `Anton`                  | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |

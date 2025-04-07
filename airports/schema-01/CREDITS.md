@@ -6,10 +6,10 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 236 |
+| `PietD`                        | 238 |
 | `EDDG`                         | 61 |
 | `科罗娜`                          | 58 |
-| `vand`                         | 49 |
+| `vand`                         | 51 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |

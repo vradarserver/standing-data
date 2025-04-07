@@ -1,3 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 09A055,C5-SUV,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Su Airlines,SUE,14501220,2016
 09A056,C5-TEY,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,Africa Charter Airline,FSK,24436,1991
+09A05F,C5-FLY,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501220,2016

@@ -10,6 +10,7 @@
 78118B,B-2571,B733,Boeing,737-39P(SF),Boeing 737-39P(SF),0,Longhao Airlines,LHA,29410,1998
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
+7811BB,B-005C,A20N,Airbus,A-320neo,Airbus A-320neo,0,Airbus Industrie,AIB,,
 7811BC,B-005D,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811BE,B-005F,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
 7811BF,B-005G,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
@@ -587,7 +588,7 @@
 781F4C,B-223N,B77L,Boeing,777-F,Boeing 777-F,0,China Southern Airlines Cargo,CSG,67822,2023
 781F4D,B-32E6,A19N,Airbus,A319-153N,Airbus A319-153N,0,Tibet Airlines,TBA,11332,2023
 781F4E,B-32E7,A19N,Airbus,A319-153N,Airbus A319-153N,0,Tibet Airlines,TBA,11432,2023
-781F4F,B-91A7,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet (Beijing) Company,JBE,,
+781F4F,B-91A7,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet (Beijing) Company,JBE,6512,2023
 781F51,B-91A8,CRJ2,Canadair,CL-600-2B19 Challenger 850,Canadair CL-600-2B19 Challenger 850,0,Suzhou Aviation,CBW,8111,2012
 781F5A,B-32E9,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Spring Airlines,CQH,11171,2023
 781F5B,B-32E8,A20N,Airbus,A320-271N,Airbus A320-271N,0,China Express Airlines,HXA,11285,2023
@@ -612,7 +613,7 @@
 781F7E,B-32EM,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11310,2023
 781F7F,B-32EN,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11347,2023
 781F80,B-32EP,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11532,2023
-781F83,B-223R,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,Central Airlines,HLF,,
+781F83,B-223R,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,Central Airlines,HLF,32683,2006
 781F90,B-32EQ,A20N,Airbus,A320-251N,Airbus A320-251N,0,Chengdu Airlines,UEA,11215,2023
 781F95,B-0CRT,MA60,Xian,MA-60 FireFighter,Xian MA-60 FireFighter,0,AVIC Xi'an Aircraft Industry Group,,,
 781F9F,B-32DD,A320,Airbus,A320-214,Airbus A320-214,0,GX Airlines,CBG,3984,2009

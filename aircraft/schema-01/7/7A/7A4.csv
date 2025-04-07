@@ -1,11 +1,12 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+7A427C,AUG30677,AN12,Shaanxi,KJ-500 AEW&C,Shaanxi KJ-500 AEW&C,0,Chinese Air Force,,30270,
 7A427D,00000000,AN12,Shaanxi,KJ-500 AEW&C,Shaanxi KJ-500 AEW&C,0,Chinese Air Force,,30370,
 7A4281,20041,Y20,Xian,Y-20 A,Xian Y-20 A,0,Chinese Air Force,,20025,
 7A4282,20042,Y20,Xian,Y-20 A,Xian Y-20 A,0,Chinese Air Force,,20026,
 7A4285,20045,Y20,Xian,Y-20 A,Xian Y-20 A,0,Chinese Air Force,,20045,
 7A428A,20142,Y20,Xian,Y-20A,Xian Y-20A,0,Chinese Air Force,,20142,
 7A4299,JUN30471,AN12,Shaanxi,KJ-500,Shaanxi KJ-500,0,Chinese Air Force,,30471,
-7A429B,AUG30678,AN12,Shaanxi,KJ-500 AEW&C,Shaanxi KJ-500 AEW&C,0,Chinese Air Force,,30176,
+7A429B,ZT4YYFFQ,AN12,Shaanxi,KJ-500 AEW&C,Shaanxi KJ-500 AEW&C,0,Chinese Air Force,,30176,
 7A42A0,JUN53058,AN12,Shaanxi,KJ-500 AEW&C,Shaanxi KJ-500 AEW&C,0,Chinese Air Force,,30173,
 7A431A,90000000,AN12,Shaanxi,Y-8Q ASW,Shaanxi Y-8Q ASW,0,Chinese Navy,,82011,
 7A431C,1248ABCD,AN12,Shaanxi,Y-8Q GX-6 MPA/ASW,Shaanxi Y-8Q GX-6 MPA/ASW,0,Chinese Naval Air Force,,82013,
@@ -19,3 +20,4 @@
 7A4416,,Y20,Xian,Y-20 Kunpeng,Xian Y-20 Kunpeng,0,Chinese Air Force,,20843,
 7A4455,20248,Y20,Xian,Y-20A,Xian Y-20A,0,Chinese Air Force,,20248,
 7A4477,JUN30377,AN12,Shaanxi,KJ-500,Shaanxi KJ-500,0,Chinese Air Force,,30377,
+7A447B,4356A102,AN12,Shaanxi,KJ-500 AWACS,Shaanxi KJ-500 AWACS,0,Chinese Air Force,,,

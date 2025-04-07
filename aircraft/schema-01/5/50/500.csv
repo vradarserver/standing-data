@@ -42,6 +42,7 @@
 500273,T7-SERES,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,356,2000
 500274,T7-TANMG,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5523,
 50027D,T7-CLG,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,1,Private,,9022,
+50027F,T7-CTD,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2229,2021
 500280,T7-EAGLE,GLEX,Bombardier,BD-700 Global 6000,Bombardier BD-700 Global 6000,1,Private,,9032,
 500284,T7-977,GLF4,Gulfstream,4SP,Gulfstream 4SP,1,Private,,500284,
 500289,T7-SKK,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,,
@@ -157,6 +158,7 @@
 5003C7,T7-BM650,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6203,
 5003CD,T7-FRSH,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Altus Airlines,AXS,351,2018
 5003CE,T7-NMAYY,GL5T,Bombardier,Global 5500,Bombardier Global 5500,1,Private,,60007,
+5003D3,T7-MINT,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Axis Aviation San Marino,AXS,87033,2024
 5003D8,T7-MASHI,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9707,
 5003D9,T7-SAHIN,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,Avcon Jet San Marino,VAJ,5590,
 5003DE,T7-VSG,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9398,

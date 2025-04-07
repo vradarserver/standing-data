@@ -3,6 +3,7 @@
 400219,VP-CXO,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6261,
 40021B,VP-CDJ,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,148,
 400220,VP-CSM,A20N,Airbus,A320-271N,Airbus A320-271N,1,Private,,8152,2018
+400225,VP-CWE,A20N,Airbus,A320-271N,Airbus A320-271N,0,CDB Aviation,,8464,2018
 400238,VP-CJD,A320,Airbus,A320-232,Airbus A320-232,0,Avolon,,03453,2008
 400242,VP-CCS,A320,Airbus,A320-232,Airbus A320-232,1,Private,,07808,2017
 400246,VP-CWJ,A333,Airbus,A330-302,Airbus A330-302,0,CDB Aviation,,1370,2012
@@ -12,10 +13,12 @@
 40028D,VP-CMU,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6581,
 400290,VP-CHL,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),1,Private,,03749,2008
 400298,VP-CTY,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Air 7 Asia,,70189,2024
+40029B,VP-CFR,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87037,2025
 4002A4,VP-CDL,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,,
 4002A8,VP-CLP,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,1,Private,,21276,2024
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001
+4004FE,G-MACY,B762,Boeing,767-204(BDSF),Boeing 767-204(BDSF),0,Maersk Air Cargo UK,MUK,24457,1989
 4005D4,G-DHLL,B763,Boeing,767-304/ER/WL (BDSF),Boeing 767-304/ER/WL (BDSF),0,DHL Air UK,DHK,28040,1996
 40092B,G-SAJE,E145,Embraer,ERJ-145EP,Embraer ERJ-145EP,0,Loganair,LOG,145442,2001
 400A1B,G-DBCA,A319,Airbus,A319-131,Airbus A319-131,0,British Airways,BAW,,

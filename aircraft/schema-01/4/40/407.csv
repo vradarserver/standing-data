@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+407046,G-WYDN,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,0,UK HEMS,HLE,20084,2016
 40712B,G-SRBM,B350,Textron Aviation,B300 Super King Air 350,Textron Aviation B300 Super King Air 350,0,The Little Jet Company,LJC,FL-1072,2016
 407152,G-DSAA,A169,Leonardo,AW169,Leonardo AW169,0,Specialist Aviation Services,PLC,69027,2016
 4071AA,G-WENU,EC45,Airbus Helicopters,MBB-BK 117 D-2 (H145),Airbus Helicopters MBB-BK 117 D-2 (H145),0,Wales Air Ambulance,HLE,20112,2016
@@ -138,6 +139,7 @@
 407C7D,G-ICET,R44,Robinson,R44,Robinson R44,0,Ice Aviation Leasing,,30078,2021
 407C7E,G-RNJW,R66,Robinson,R-66,Robinson R-66,0,Heritage Automotive Holdings Ltd.,,1001,2021
 407C84,G-KINZ,MT,RotorSport UK,MTOSport,RotorSport UK MTOSport,1,Private,,RSUK/MTOS/065,2021
+407C87,G-CMBO,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,1,Private,,LAA 411-15724,2021
 407C88,G-LMRE,AT45,ATR,42-500,ATR 42-500,0,Loganair,LOG,606,2000
 407C89,G-LMSA,AT46,ATR,42-600,ATR 42-600,0,Loganair,LOG,1213,2017
 407C8A,G-DHLY,B77L,Boeing,777-F,Boeing 777-F,0,DHL Air UK,DHK,67138,2022
@@ -296,6 +298,7 @@
 407E1C,G-GIMT,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.203,2022
 407E1D,G-CMFI,AT76,ATR,72-600,ATR 72-600,0,Eastern Airways,EZE,1312,2016
 407E21,G-VLDY,A339,Airbus,A330-941,Airbus A330-941,0,Virgin Atlantic,VIR,2025,2022
+407E24,G-ULPY,M20T,Mooney,M20K,Mooney M20K,1,Private,,25-0665,1982
 407E28,G-PAHM,B350,Beech,B300 King Air 350,Beech B300 King Air 350,0,The Little Jet Company,LJC,FL-672,
 407E2E,G-TOWY,B505,Bell,505 JetRanger X,Bell 505 JetRanger X,0,Jones Brothers (Henllan) Ltd.,,65407,2022
 407E31,G-CMJJ,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1324,2016
@@ -398,6 +401,7 @@
 407F1E,G-RUKL,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,33572,2005
 407F1F,G-RUKM,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,37527,2009
 407F25,G-NGLL,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,LAA 385-15835,2023
+407F27,G-FORB,NG5,Bristell,NG5 Speed Wing,Bristell NG5 Speed Wing,1,Private,,LAA 385-15843,2023
 407F2B,G-XWBN,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,609,2023
 407F2C,G-XWBO,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,617,2023
 407F2D,G-XWBP,A35K,Airbus,A350-1041,Airbus A350-1041,0,British Airways,BAW,623,2023
@@ -429,6 +433,7 @@
 407F71,G-ZEAA,DA62,Diamond,DA62,Diamond DA62,0,2Excel Aviation,BRO,62.145,2021
 407F72,G-GOAT,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,9413,2023
 407F74,G-VALH,DR40,Robin,DR400/180,Robin DR400/180,1,Private,,2770,2022
+407F76,G-LAAA,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,0,London's Air Ambulance,,2242,2023
 407F77,G-CMPM,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,365-20,2023
 407F79,G-UJEA,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11230,2023
 407F7A,G-UJEB,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11242,2023

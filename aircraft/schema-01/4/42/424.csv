@@ -92,6 +92,7 @@
 424B23,M-ABCD,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Hampshire Aviation Ltd,,4103,2007
 424B58,M-WAFA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
 424B7C,M-LDYS,EC45,Airbus Helicopters-Kawasaki,H145,Airbus Helicopters-Kawasaki H145,0,Swift Copters,WFC,21223,2023
+424B9B,M-DVJJ,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6439,2020
 424BA5,M-LILY,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,ZYB Lily Jet,MZT,3100,2007
 424BAC,M-ATTS,EC55,Airbus Helicopters,EC-155B1,Airbus Helicopters EC-155B1,0,HeliGroup,,6890,2010
 424BB1,M-ADAM,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501200,
@@ -171,7 +172,7 @@
 424C58,M-OOMR,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,274,1998
 424C5A,M-DEEP,A109,Leonardo,AW109SP GrandNew,Leonardo AW109SP GrandNew,1,Private,,22458,
 424C5B,M-JSDT,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60129,2024
-424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,,FL-1331,2024
+424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,SSZ,FL-1331,2024
 424C5D,M-LUBB,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0271,1998
 424C60,M-ARNZ,PC24,Pilatus,PC-24,Pilatus PC-24,0,BAE Systems,BAE,521,2024
 424C62,M-BIZZ,GLF6,Gulfstream,650ER,Gulfstream 650ER,0,Jet Concierge Club,JCO,6571,2024
@@ -188,3 +189,6 @@
 424C7C,M-LJGI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,179,2012
 424C7E,M-BIGG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70202,2024
 424C81,M-ZPGJ,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0144,2013
+424C87,M-CELT,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,Jet Concierge Club,JCO,60151,2024
+424C8C,M-ABSU,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21052,2025
+424C8E,M-SCDM,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6064,2013
