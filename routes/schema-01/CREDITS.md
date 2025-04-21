@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 228,952 |
-| `PietD`                        | 146,830 |
+| `dirkhh`                       | 232,537 |
+| `PietD`                        | 147,003 |
 | `vand`                         | 65,895 |
-| `科罗娜`                          | 27,031 |
+| `科罗娜`                          | 27,351 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,366 |
-| `Lanorge`                      | 16,868 |
+| `sib64`                        | 18,467 |
+| `Lanorge`                      | 16,933 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Jon Fear`                     | 13,540 |
+| `Jon Fear`                     | 13,558 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 9,331 |
+| `Neboknede`                    | 9,345 |
 | `huebi77`                      | 7,401 |
-| `Markus`                       | 7,166 |
+| `Markus`                       | 7,299 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,197 |
+| `aircraftenthusiast2000`       | 5,254 |
 | `AP100`                        | 5,051 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,10 +38,10 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
+| `viista`                       | 2,253 |
 | `untt`                         | 2,248 |
-| `viista`                       | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `Gavin-D`                      | 2,201 |
+| `Gavin-D`                      | 2,212 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
@@ -61,9 +61,9 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,221 |
+| `Dauren`                       | 1,227 |
 | `Andrew`                       | 1,220 |
-| `Daniel.cornejo.campos`        | 1,216 |
+| `Daniel.cornejo.campos`        | 1,219 |
 | `Mark Taylor`                  | 1,186 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -96,8 +96,8 @@ Please note that credit files are updated less frequently than the data files.
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
 | `Peter Za, PhD`                | 581 |
+| `topoguido`                    | 553 |
 | `Eburg 912`                    | 549 |
-| `topoguido`                    | 548 |
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
@@ -216,7 +216,7 @@ Please note that credit files are updated less frequently than the data files.
 | `esir`                         | 97 |
 | `GaryG`                        | 97 |
 | `Cedric`                       | 96 |
-| `vrsspotter73`                 | 92 |
+| `vrsspotter73`                 | 94 |
 | `Greg W`                       | 89 |
 | `ccie4526`                     | 88 |
 | `Trond Erik`                   | 88 |
@@ -489,6 +489,7 @@ Please note that credit files are updated less frequently than the data files.
 | `thecowan`                     | 10 |
 | `vk7ip`                        | 10 |
 | `Vytautas`                     | 10 |
+| `Anzac_Mike`                   | 9 |
 | `dziban molniya`               | 9 |
 | `EVO`                          | 9 |
 | `franzke`                      | 9 |
@@ -822,6 +823,7 @@ Please note that credit files are updated less frequently than the data files.
 | `lfls`                         | 2 |
 | `Ltin`                         | 2 |
 | `LukasL`                       | 2 |
+| `maltesepricklypear`           | 2 |
 | `Marc A. Mapplebeck`           | 2 |
 | `Marcelo Rizzi`                | 2 |
 | `Marcos Roque`                 | 2 |
