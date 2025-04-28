@@ -6,22 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,875 |
+| `Peter Hutt`             | 3,986 |
 | `aircraftenthusiast2000` | 2,377 |
-| `科罗娜`                    | 1,851 |
+| `科罗娜`                    | 1,875 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 271 |
-| `Lanorge`                | 252 |
+| `BudBundi`               | 272 |
+| `Lanorge`                | 266 |
 | `andrw`                  | 214 |
 | `Ljubo`                  | 113 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
+| `topoguido`              | 97 |
 | `vrsspotter73`           | 92 |
-| `topoguido`              | 81 |
+| `Gprad`                  | 82 |
 | `britiger`               | 77 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
@@ -39,19 +40,20 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |
 | `ng_03`                  | 10 |
+| `viista`                 | 10 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
 | `iu3ind`                 | 8 |
+| `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
-| `neslin`                 | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
 | `darjes`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
-| `viista`                 | 5 |
+| `AdriBrum`               | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
 | `Manny`                  | 3 |
@@ -63,7 +65,6 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
-| `AdriBrum`               | 2 |
 | `Anton`                  | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |

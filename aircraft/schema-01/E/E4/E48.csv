@@ -1,4 +1,13 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E48028,PP-OSM,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,187,
+E480E2,PP-JSJ,AS65,Airbus Helicopters,AS365 N3 Dauphin 2,Airbus Helicopters AS365 N3 Dauphin 2,1,Private,,6792,2007
+E481CE,PS-BVI,LJ35,Learjet,35A,Learjet 35A,0,Brasil Vida Táxi Aéreo,,35A-598,1984
 E48507,PS-MRC,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14501111,2009
+E485D0,PR-MGB,C55B,Cessna,Citation Bravo,Cessna Citation Bravo,1,Private,,550-1128,2006
+E485EC,PR-PCM,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000152,2009
+E485EF,PR-TPA,E50P,Embraer,Phenom 100,Embraer Phenom 100,1,Private,,50000155,2009
 E48AF9,PR-AGT,TBM7,SOCATA,TBM-700,SOCATA TBM-700,1,Private,,228,2002
+E48C34,PP-WEB,C510,Cessna,Citation Mustang,Cessna Citation Mustang,1,Private,,510-0402,2012
+E48CAD,PR-FMI,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,1,Private,,1056,2012
+E48D9A,PP-CPD,B429,Bell,429 GlobalRanger,Bell 429 GlobalRanger,0,Amaro Aviation,,57094,2012
+E48F72,PR-NGM,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500190,2013

@@ -19,6 +19,7 @@
 500234,T7-ULS,A333,Airbus,A330-343,Airbus A330-343,0,San Marino Executive Aviation,SMF,349,2000
 500235,T7-TDL,P46T,Piper,PA-46R-350T,Piper PA-46R-350T,1,Private,,46-36325,
 500236,T7-818,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,TAG Aviation San Marino,TAG,6102,
+500237,T7-889,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Titan Aviation San Marino,,14501029,2008
 500239,T7-LJA,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4291,
 50023B,T7-CAPE,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,1,Private,,73010,
 50023C,T7-AYO,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5622,2005
@@ -87,6 +88,7 @@
 5002E7,T7-AAA7,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70122,
 5002E9,T7-X14,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6305,
 5002EA,T7-5678,H25B,Raytheon,Hawker 850XP,Raytheon Hawker 850XP,1,Private,,258748,
+5002EB,T7-MEL,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9560,2012
 5002F0,T7-RDJ,GL7T,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,1,Private,,9525,
 5002F2,T7-IUB,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6353,
 5002F8,T7-FCN,H25B,Raytheon,Hawker 800XP,Raytheon Hawker 800XP,1,Private,,258385,
@@ -136,6 +138,7 @@
 50037E,T7-MBS,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,1,Private,,006,
 500383,T7-2LX,F2TH,Dassault,Falcon 200LX,Dassault Falcon 200LX,0,Empire Aviation San Marino,,188,
 500386,T7-Z00M,PC12,Pilatus,PC XII/NGX,Pilatus PC XII/NGX,1,Private,,2071,2021
+500387,T7-88999,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Green Tree Aviation,,6565,2024
 500388,T7-MAHA,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70127,2022
 50038A,T7-CDV,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70175,
 50038E,T7-NEX,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9780,
@@ -167,6 +170,7 @@
 5003E8,T7-VRS,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,Titan Aviation San Marino,,14500863,2004
 5003EB,T7-ANG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70199,2024
 5003ED,T7-NAS,B738,Boeing,737-8LZ BBJ,Boeing 737-8LZ BBJ,1,Private,,42510,2013
+5003F3,T7-AMY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,165,
 5003F5,T7-VITA,PC24,Pilatus,PC-24,Pilatus PC-24,0,Silver Aviation,,541,2024
 5003FC,T7-ALS,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4223,2011
 5003FD,T7-MLT,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9110,2002

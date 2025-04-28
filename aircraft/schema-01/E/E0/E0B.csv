@@ -16,6 +16,7 @@ E0B110,LV-KDP,A320,Airbus,A320-232,Airbus A320-232,0,JetSMART,JAT,8493,2018
 E0B142,LV-KEB,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4116,2008
 E0B18F,LV-KFO,BE33,Beech,33 Bonanza,Beech 33 Bonanza,1,Private,,CE-447,1973
 E0B191,LV-KFQ,CL60,Canadair,Challenger 605,Canadair Challenger 605,0,Flyzar,,5809,2009
+E0B197,LV-KFW,B738,Boeing,737-8GJ,Boeing 737-8GJ,0,Andes Líneas Aéreas,ANS,37366,2011
 E0B1C3,LV-KGC,C82S,Cessna,T182 Turbo Skylane,Cessna T182 Turbo Skylane,1,Private,,182-83191,
 E0B1D6,LV-KGV,C150,Cessna,150M,Cessna 150M,1,Private,,15076266,1974
 E0B1D7,LV-KGW,R66,Robinson,R-66,Robinson R-66,1,Private,,,
@@ -35,6 +36,7 @@ E0B256,LV-KIV,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,,
 E0B282,LV-KJB,A139,Leonardo,AW139,Leonardo AW139,0,Modena Air Service,,31038,2006
 E0B28C,LV-KJL,P46T,Piper,PA-46-500TP,Piper PA-46-500TP,0,Cielo del Norte,,4697055,2001
 E0B2C3,LV-KKC,P212,Tecnam,P-2012 Traveller,Tecnam P-2012 Traveller,0,XFlight Argentina,,052/US,2022
+E0B2C4,LV-KKD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,43564,2015
 E0B2C6,LV-KKF,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,5756,2008
 E0B2C8,LV-KKH,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,,
 E0B2CA,LV-KKJ,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,,
@@ -53,6 +55,9 @@ E0B30C,LV-KLL,BT36,Beech,A36TC Bonanza,Beech A36TC Bonanza,0,Falconer Aviation,,
 E0B30D,LV-KLM,AT8T,Air Tractor,AT-802,Air Tractor AT-802,0,Agro Aéreo Gualeguay,,,
 E0B30F,LV-KLO,LJ60,Learjet,60,Learjet 60,0,Bimlary,,60-107,1997
 E0B310,LV-KLP,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,Digital Air Taxi,,208B5653,
+E0B312,LV-KLR,C208,Cessna,208 Grand Caravan,Cessna 208 Grand Caravan,1,Private,,208B5839,2024
 E0B316,LV-KLV,LJ45,Learjet,45,Learjet 45,0,Sundown Jet,,45-229,2003
 E0B341,LV-KMA,LJ60,Learjet,60,Learjet 60,0,Baires Fly,,60-048,1994
 E0B343,LV-KMC,BT36,Beech,B36TC Bonanza,Beech B36TC Bonanza,1,Private,,EA-458,1986
+E0B359,LV-KMY,C25M,Cessna,Citation M2,Cessna Citation M2,0,Juano S.A.,,525-1014,2019
+E0B3CD,LV-KOM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Excel Servicios Aéreos,,5140,2006

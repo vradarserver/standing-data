@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 42413B,VP-CJC,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9532,2012
 4241E2,VP-CYW,A319,Airbus,A319-115(CJ),Airbus A319-115(CJ),0,Business Aviation Asia,UNA,4228,2010
+424388,VP-BAS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Squadron Aviation Services,,32,2008
 424500,VQ-BHK,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,440,2018
 424501,VQ-BHF,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39861,2015
 424502,VQ-BHE,B738,Boeing,737-8GP,Boeing 737-8GP,0,Somon Air,SMR,39868,2015
@@ -192,3 +193,4 @@
 424C87,M-CELT,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,Jet Concierge Club,JCO,60151,2024
 424C8C,M-ABSU,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21052,2025
 424C8E,M-SCDM,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6064,2013
+424C98,M-ABTE,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21056,2025

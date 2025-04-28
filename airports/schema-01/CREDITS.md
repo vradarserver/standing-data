@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 238 |
+| `PietD`                        | 239 |
 | `EDDG`                         | 61 |
 | `科罗娜`                          | 58 |
 | `vand`                         | 51 |
@@ -63,6 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `elljay`                       | 1 |
 | `furkan`                       | 1 |
 | `Gavin-D`                      | 1 |
+| `Gprad`                        | 1 |
 | `Harrison Jones`               | 1 |
 | `haydenc2`                     | 1 |
 | `huebi77`                      | 1 |

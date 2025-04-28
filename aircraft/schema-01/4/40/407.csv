@@ -114,6 +114,7 @@
 407C1E,G-NHVT,A169,AgustaWestland,AW-169,AgustaWestland AW-169,0,NHV Helicopters,NHZ,69134,2021
 407C26,G-TUMU,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI Airways,TOM,44651,2021
 407C28,G-SORG,DA50,Diamond,DA 50 C,Diamond DA 50 C,0,Diamond Flight Training Ltd.,,50.C.A.A.008,2021
+407C29,G-CLZP,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,320-9,
 407C2A,G-HAYZ,AS50,Airbus Helicopters,AS350B3 Ecureuil,Airbus Helicopters AS350B3 Ecureuil,0,350 Air,,8835,2021
 407C2C,G-MCLE,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,0177,2011
 407C2D,G-LDGG,DA42,Diamond,DA 42 NG,Diamond DA 42 NG,0,Leading Edge Aviation,,42.N436,2021
@@ -177,6 +178,7 @@
 407CD7,G-LMTA,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1265,2015
 407CD8,G-LMTC,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1257,2015
 407CD9,G-LDNG,DA62,Diamond,DA-62,Diamond DA-62,0,TwinStar4Hire,,62.066,2017
+407CDA,G-CMRC,C152,Cessna,152,Cessna 152,1,Private,,15282748,1978
 407CDF,G-YPSE,EC30,Airbus Helicopters,EC130 T2,Airbus Helicopters EC130 T2,0,Best Holdings Ltd.,,9175,2022
 407CE0,G-ZDEE,EFOX,Aeropro,Eurofox 2K,Aeropro Eurofox 2K,1,Private,,64922,2022
 407CE4,G-DRTK,B738,Boeing,737-8KN,Boeing 737-8KN,0,Jet2.com,EXS,40260,2013
@@ -433,7 +435,7 @@
 407F71,G-ZEAA,DA62,Diamond,DA62,Diamond DA62,0,2Excel Aviation,BRO,62.145,2021
 407F72,G-GOAT,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,9413,2023
 407F74,G-VALH,DR40,Robin,DR400/180,Robin DR400/180,1,Private,,2770,2022
-407F76,G-LAAA,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,0,London's Air Ambulance,,2242,2023
+407F76,G-LAAA,EC35,Airbus Helicopters,H135,Airbus Helicopters H135,0,UK HEMS,HLE,2242,2023
 407F77,G-CMPM,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,365-20,2023
 407F79,G-UJEA,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11230,2023
 407F7A,G-UJEB,A20N,Airbus,A320-251N,Airbus A320-251N,0,easyJet,EZY,11242,2023
