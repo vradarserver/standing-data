@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 234,095 |
-| `PietD`                        | 147,186 |
+| `dirkhh`                       | 235,265 |
+| `PietD`                        | 147,751 |
 | `vand`                         | 65,895 |
-| `科罗娜`                          | 27,363 |
+| `科罗娜`                          | 27,398 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,519 |
-| `Lanorge`                      | 16,949 |
+| `sib64`                        | 18,588 |
+| `Lanorge`                      | 16,997 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,558 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 9,345 |
+| `Neboknede`                    | 9,347 |
+| `Markus`                       | 7,476 |
 | `huebi77`                      | 7,401 |
-| `Markus`                       | 7,339 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,310 |
+| `aircraftenthusiast2000`       | 5,333 |
 | `AP100`                        | 5,051 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,10 +38,10 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `viista`                       | 2,257 |
+| `viista`                       | 2,264 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `Gavin-D`                      | 2,214 |
+| `Gavin-D`                      | 2,216 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
@@ -61,9 +61,9 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,241 |
+| `Dauren`                       | 1,251 |
+| `Daniel.cornejo.campos`        | 1,221 |
 | `Andrew`                       | 1,220 |
-| `Daniel.cornejo.campos`        | 1,220 |
 | `Mark Taylor`                  | 1,186 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
@@ -150,7 +150,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
 | `rikgale`                      | 215 |
-| `Franck Dosdane`               | 212 |
+| `Franck Dosdane`               | 213 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
@@ -205,6 +205,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
+| `gabo03`                       | 111 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
@@ -213,10 +214,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Nagg`                         | 102 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
+| `vrsspotter73`                 | 99 |
 | `esir`                         | 97 |
 | `GaryG`                        | 97 |
 | `Cedric`                       | 96 |
-| `vrsspotter73`                 | 96 |
 | `Greg W`                       | 89 |
 | `ccie4526`                     | 88 |
 | `Trond Erik`                   | 88 |
@@ -261,9 +262,9 @@ Please note that credit files are updated less frequently than the data files.
 | `LU4CN`                        | 60 |
 | `Samuel Rodriguez`             | 56 |
 | `Steve Martin`                 | 56 |
+| `AdriBrum`                     | 54 |
 | `wogggieee`                    | 54 |
 | `rdmazo`                       | 53 |
-| `AdriBrum`                     | 52 |
 | `henrian`                      | 52 |
 | `upsie`                        | 52 |
 | `Gabino`                       | 51 |
@@ -287,7 +288,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Rick Scott`                   | 46 |
 | `Albert`                       | 45 |
 | `marm0t`                       | 45 |
-| `gabo03`                       | 44 |
 | `Seb Gray`                     | 44 |
 | `wilfrid`                      | 44 |
 | `Michał Kuna`                  | 43 |
