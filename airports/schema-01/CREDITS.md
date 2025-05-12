@@ -13,8 +13,8 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
 | `Serge F4IPO`                  | 14 |
+| `AH-1`                         | 13 |
 | `sib64`                        | 13 |
-| `viista`                       | 13 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |

@@ -39,8 +39,8 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |
+| `AH-1`                   | 10 |
 | `ng_03`                  | 10 |
-| `viista`                 | 10 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
 | `iu3ind`                 | 8 |

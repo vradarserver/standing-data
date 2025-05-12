@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 235,265 |
-| `PietD`                        | 147,751 |
-| `vand`                         | 65,895 |
-| `科罗娜`                          | 27,398 |
+| `dirkhh`                       | 239,118 |
+| `PietD`                        | 147,897 |
+| `vand`                         | 65,896 |
+| `科罗娜`                          | 27,715 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,588 |
-| `Lanorge`                      | 16,997 |
+| `sib64`                        | 18,604 |
+| `Lanorge`                      | 17,035 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,558 |
 | `bigrossco`                    | 10,853 |
@@ -25,7 +25,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,333 |
+| `aircraftenthusiast2000`       | 5,388 |
 | `AP100`                        | 5,051 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,10 +38,10 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `viista`                       | 2,264 |
+| `AH-1`                         | 2,266 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
-| `Gavin-D`                      | 2,216 |
+| `Gavin-D`                      | 2,235 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,221 |
+| `Daniel.cornejo.campos`        | 1,225 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,186 |
 | `laurent`                      | 1,136 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `kirkmayers`                   | 475 |
+| `kirkmayers`                   | 476 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -197,6 +197,7 @@ Please note that credit files are updated less frequently than the data files.
 | `catchall`                     | 127 |
 | `Ljubo`                        | 127 |
 | `Tyler`                        | 125 |
+| `gabo03`                       | 124 |
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
@@ -205,7 +206,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 113 |
-| `gabo03`                       | 111 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
@@ -213,8 +213,8 @@ Please note that credit files are updated less frequently than the data files.
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
 | `hangyong`                     | 100 |
+| `vrsspotter73`                 | 100 |
 | `sbartley`                     | 99 |
-| `vrsspotter73`                 | 99 |
 | `esir`                         | 97 |
 | `GaryG`                        | 97 |
 | `Cedric`                       | 96 |

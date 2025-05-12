@@ -35,11 +35,11 @@ Please note that credit files are updated less frequently than the data files.
 | `BPfH`                  | 5 |
 | `kma371`                | 5 |
 | `UA4WIY`                | 5 |
+| `AH-1`                  | 4 |
 | `Forssi`                | 4 |
 | `Mark Taylor`           | 4 |
 | `Neboknede`             | 4 |
 | `shun`                  | 4 |
-| `viista`                | 4 |
 | `Dauren`                | 3 |
 | `EGPD1701`              | 3 |
 | `flygfantast`           | 3 |
