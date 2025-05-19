@@ -6,24 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 3,986 |
+| `Peter Hutt`             | 4,043 |
 | `aircraftenthusiast2000` | 2,377 |
-| `科罗娜`                    | 1,875 |
+| `科罗娜`                    | 1,908 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 272 |
-| `Lanorge`                | 266 |
-| `andrw`                  | 214 |
-| `Ljubo`                  | 113 |
+| `BudBundi`               | 273 |
+| `Lanorge`                | 272 |
+| `andrw`                  | 222 |
+| `Ljubo`                  | 117 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `topoguido`              | 97 |
-| `vrsspotter73`           | 92 |
+| `vrsspotter73`           | 94 |
 | `Gprad`                  | 82 |
 | `britiger`               | 77 |
+| `AH-1`                   | 64 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -39,11 +40,10 @@ Please note that credit files are updated less frequently than the data files.
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |
-| `AH-1`                   | 10 |
 | `ng_03`                  | 10 |
+| `iu3ind`                 | 9 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
-| `iu3ind`                 | 8 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
@@ -89,6 +89,7 @@ Please note that credit files are updated less frequently than the data files.
 | `EGPD1701`               | 1 |
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
+| `gabo03`                 | 1 |
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
 | `k6vh`                   | 1 |

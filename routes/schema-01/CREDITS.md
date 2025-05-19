@@ -6,27 +6,27 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 239,118 |
-| `PietD`                        | 147,897 |
+| `dirkhh`                       | 241,610 |
+| `PietD`                        | 148,406 |
 | `vand`                         | 65,896 |
-| `科罗娜`                          | 27,715 |
+| `科罗娜`                          | 27,746 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,604 |
-| `Lanorge`                      | 17,035 |
+| `sib64`                        | 18,622 |
+| `Lanorge`                      | 17,076 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Jon Fear`                     | 13,558 |
+| `Jon Fear`                     | 13,565 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,347 |
-| `Markus`                       | 7,476 |
+| `Markus`                       | 7,513 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,388 |
-| `AP100`                        | 5,051 |
+| `aircraftenthusiast2000`       | 5,410 |
+| `AP100`                        | 5,057 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
@@ -38,10 +38,10 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,266 |
+| `AH-1`                         | 2,267 |
 | `untt`                         | 2,248 |
+| `Gavin-D`                      | 2,245 |
 | `EGPD1701`                     | 2,240 |
-| `Gavin-D`                      | 2,235 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,225 |
+| `Daniel.cornejo.campos`        | 1,227 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,186 |
 | `laurent`                      | 1,136 |
@@ -156,9 +156,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Big G`                        | 207 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
+| `Alexey`                       | 201 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `Alexey`                       | 198 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
@@ -184,6 +184,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jose fernandes`               | 145 |
 | `aircraftenthusiast20`         | 143 |
 | `msunz`                        | 141 |
+| `gabo03`                       | 140 |
 | `YO5CRQ`                       | 138 |
 | `skyhawk`                      | 137 |
 | `cdurand`                      | 136 |
@@ -197,7 +198,6 @@ Please note that credit files are updated less frequently than the data files.
 | `catchall`                     | 127 |
 | `Ljubo`                        | 127 |
 | `Tyler`                        | 125 |
-| `gabo03`                       | 124 |
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
@@ -875,6 +875,7 @@ Please note that credit files are updated less frequently than the data files.
 | `yyxzz05416`                   | 2 |
 | `zladic`                       | 2 |
 | `1090s`                        | 1 |
+| `96jtaylor`                    | 1 |
 | `Aalbert`                      | 1 |
 | `adamp`                        | 1 |
 | `ajcoll5`                      | 1 |

@@ -31,6 +31,7 @@
 300877,I-VENT,P28A,Piper,PA-28-140 Cherokee,Piper PA-28-140 Cherokee,1,Private,,28-24576,
 300878,I-LOSO,H25B,Hawker Beechcraft,800XP,Hawker Beechcraft 800XP,1,Private,,258689,
 30087A,I-CEST,P208,Tecnam,P2008 JC,Tecnam P2008 JC,1,Private,,,2021
+30087C,I-KIRK,RV7,Van's,RV7,Van's RV7,1,Private,,,2025
 30088C,I-SOMI,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Ariane,,2354,
 300892,I-NOLV,C150,Reims,F150L,Reims F150L,1,Private,,F1501116,
 30089A,I-MIAK,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,E+S Air,CAH,8970,2021
@@ -67,6 +68,7 @@
 30093A,I-PAPS,BE20,Beech,King Air 260,Beech King Air 260,0,Aliserio,,BY-440,2021
 300946,I-EUNI,BE20,Beechcraft,200 King Air 250,Beechcraft 200 King Air 250,1,Private,,BB-1720,2000
 300948,I-LARC,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,1,Private,,9329,2022
+30094B,I-GODO,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,9169,
 300958,I-LRHQ,AS50,Airbus Helicopters,H-125 Ecureuil,Airbus Helicopters H-125 Ecureuil,0,Eliossola,,9402,2023
 30095A,I-LRSL,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,318,2023
 300967,I-PKAG,EC20,Eurocopter,EC-120 Colibri,Eurocopter EC-120 Colibri,0,Hoverfly,,,
@@ -98,5 +100,7 @@
 3009D7,I-LARN,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,,
 3009E8,I-VIPS,EC30,Airbus Helicopters,H-130,Airbus Helicopters H-130,1,Private,,,
 300A1B,I-PVLB,C72R,Cessna,172RG Cutlass RG,Cessna 172RG Cutlass RG,1,Private,,,
+300A31,I-OORS,P68,VulcanAir,P-68 Observer,VulcanAir P-68 Observer,1,Private,,338-25/OB,1986
 300A3A,I-ADVG,BCS1,Airbus,A220-100,Airbus A220-100,0,ITA Airways,ITY,50083,2025
+300A3B,I-ADVH,BCS1,Airbus,A220-100,Airbus A220-100,0,ITA Airways,ITY,50084,2025
 300A3C,I-AMMA,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Sirio,SIO,9602,2014

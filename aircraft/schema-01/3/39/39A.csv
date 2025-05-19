@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39A00B,F-HIAL,M600,Piper,PA-46-M600,Piper PA-46-M600,1,Private,,,
+39A0CD,F-HIGN,BE20,Beechcraft,King Air 250,Beechcraft King Air 250,1,Private,,,2024
 39A178,F-HILY,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,0,AstonJet,ASJ,510-0034,
 39A182,F-HIMC,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0282,2010
 39A1EF,F-HIPP,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,1,Private,,525-1003,
