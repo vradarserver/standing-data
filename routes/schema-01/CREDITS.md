@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 242,768 |
-| `PietD`                        | 148,642 |
-| `vand`                         | 65,896 |
-| `科罗娜`                          | 27,769 |
+| `dirkhh`                       | 244,905 |
+| `PietD`                        | 148,993 |
+| `vand`                         | 65,897 |
+| `科罗娜`                          | 27,776 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,643 |
-| `Lanorge`                      | 17,104 |
+| `sib64`                        | 18,686 |
+| `Lanorge`                      | 17,133 |
 | `Phillip Rohmberger`           | 16,555 |
-| `Jon Fear`                     | 13,565 |
+| `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
-| `Neboknede`                    | 9,347 |
-| `Markus`                       | 7,642 |
+| `Neboknede`                    | 9,349 |
+| `Markus`                       | 7,684 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,461 |
+| `aircraftenthusiast2000`       | 5,512 |
 | `AP100`                        | 5,057 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,8 +38,8 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,271 |
-| `Gavin-D`                      | 2,250 |
+| `AH-1`                         | 2,272 |
+| `Gavin-D`                      | 2,254 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
 | `Halo/S`                       | 2,188 |
@@ -52,7 +52,7 @@ Please note that credit files are updated less frequently than the data files.
 | `BPfH`                         | 1,611 |
 | `aircraftenthusiast20`         | 1,556 |
 | `CX6BX`                        | 1,527 |
-| `andrw`                        | 1,520 |
+| `andrw`                        | 1,522 |
 | `UA4WIY`                       | 1,474 |
 | `whho`                         | 1,442 |
 | `Peter Hutt`                   | 1,434 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,227 |
+| `Daniel.cornejo.campos`        | 1,228 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,186 |
 | `laurent`                      | 1,136 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
-| `SQ5IRZ`                       | 764 |
+| `SQ5IRZ`                       | 766 |
 | `wogman`                       | 741 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
@@ -154,15 +154,16 @@ Please note that credit files are updated less frequently than the data files.
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
+| `Alexey`                       | 202 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
-| `Alexey`                       | 201 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
 | `aviatic`                      | 182 |
+| `gabo03`                       | 180 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |
 | `Vijay Karla`                  | 177 |
@@ -173,7 +174,6 @@ Please note that credit files are updated less frequently than the data files.
 | `AlexH`                        | 171 |
 | `Amlink`                       | 170 |
 | `Boiniche`                     | 170 |
-| `gabo03`                       | 169 |
 | `fidaeextra`                   | 164 |
 | `Jayant Shah`                  | 163 |
 | `prptua`                       | 156 |
@@ -241,6 +241,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Edward Gaudion`               | 71 |
 | `Forssi`                       | 71 |
 | `Nightwish`                    | 71 |
+| `AdriBrum`                     | 70 |
 | `Joel Harris`                  | 69 |
 | `CWesley`                      | 68 |
 | `dboivent`                     | 68 |
@@ -253,7 +254,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Dan Schaper`                  | 64 |
 | `holnejs`                      | 64 |
 | `SpottersCostaRica`            | 64 |
-| `AdriBrum`                     | 63 |
 | `Bryan`                        | 63 |
 | `dramis`                       | 63 |
 | `MJDBW`                        | 62 |
@@ -676,6 +676,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kas12323`                     | 4 |
 | `kl-pictures`                  | 4 |
 | `MaciekA380`                   | 4 |
+| `maltesepricklypear`           | 4 |
 | `miro`                         | 4 |
 | `niranjan`                     | 4 |
 | `Paolo`                        | 4 |
@@ -824,7 +825,6 @@ Please note that credit files are updated less frequently than the data files.
 | `lfls`                         | 2 |
 | `Ltin`                         | 2 |
 | `LukasL`                       | 2 |
-| `maltesepricklypear`           | 2 |
 | `Marc A. Mapplebeck`           | 2 |
 | `Marcelo Rizzi`                | 2 |
 | `Marcos Roque`                 | 2 |
