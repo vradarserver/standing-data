@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 244,905 |
-| `PietD`                        | 148,993 |
+| `dirkhh`                       | 246,401 |
+| `PietD`                        | 149,102 |
 | `vand`                         | 65,897 |
-| `科罗娜`                          | 27,776 |
+| `科罗娜`                          | 27,786 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,686 |
-| `Lanorge`                      | 17,133 |
+| `sib64`                        | 18,715 |
+| `Lanorge`                      | 17,176 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,349 |
-| `Markus`                       | 7,684 |
+| `Markus`                       | 7,688 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,512 |
+| `aircraftenthusiast2000`       | 5,540 |
 | `AP100`                        | 5,057 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,8 +38,8 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,272 |
-| `Gavin-D`                      | 2,254 |
+| `AH-1`                         | 2,273 |
+| `Gavin-D`                      | 2,256 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
 | `Halo/S`                       | 2,188 |
@@ -62,9 +62,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,228 |
+| `Daniel.cornejo.campos`        | 1,230 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,186 |
+| `Mark Taylor`                  | 1,192 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `kirkmayers`                   | 477 |
+| `kirkmayers`                   | 478 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -159,11 +159,11 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
+| `gabo03`                       | 195 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
 | `aviatic`                      | 182 |
-| `gabo03`                       | 180 |
 | `Ich3003`                      | 177 |
 | `MotherTeresa`                 | 177 |
 | `Vijay Karla`                  | 177 |
@@ -235,13 +235,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
+| `AdriBrum`                     | 73 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
 | `Edward Gaudion`               | 71 |
 | `Forssi`                       | 71 |
 | `Nightwish`                    | 71 |
-| `AdriBrum`                     | 70 |
 | `Joel Harris`                  | 69 |
 | `CWesley`                      | 68 |
 | `dboivent`                     | 68 |
