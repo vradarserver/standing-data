@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,043 |
-| `aircraftenthusiast2000` | 2,377 |
-| `科罗娜`                    | 1,908 |
+| `Peter Hutt`             | 4,205 |
+| `aircraftenthusiast2000` | 2,400 |
+| `科罗娜`                    | 1,939 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,183 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
+| `Lanorge`                | 290 |
 | `BudBundi`               | 273 |
-| `Lanorge`                | 272 |
 | `andrw`                  | 222 |
 | `Ljubo`                  | 117 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `topoguido`              | 97 |
-| `vrsspotter73`           | 94 |
+| `vrsspotter73`           | 95 |
+| `AH-1`                   | 86 |
 | `Gprad`                  | 82 |
 | `britiger`               | 77 |
-| `AH-1`                   | 64 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -50,10 +50,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
+| `AdriBrum`               | 6 |
 | `darjes`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
-| `AdriBrum`               | 4 |
+| `nm2588`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
 | `Manny`                  | 3 |
@@ -61,6 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Matt Coughran`          | 3 |
 | `msperrin`               | 3 |
 | `nerf`                   | 3 |
+| `nf003`                  | 3 |
 | `Sevetamryn`             | 3 |
 | `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
@@ -86,6 +88,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Datamix`                | 1 |
 | `dc10`                   | 1 |
 | `Derek Bertram`          | 1 |
+| `dpedwards`              | 1 |
 | `EGPD1701`               | 1 |
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
@@ -94,8 +97,8 @@ Please note that credit files are updated less frequently than the data files.
 | `jazzbassNick`           | 1 |
 | `k6vh`                   | 1 |
 | `KaliKeira`              | 1 |
+| `maltesepricklypear`     | 1 |
 | `mantisNZ`               | 1 |
-| `nf003`                  | 1 |
 | `nnalbant`               | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `pykman`                 | 1 |

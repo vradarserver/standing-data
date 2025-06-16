@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AB904E,N844SJ,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14500884,2005
 AB905C,N844SY,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sun Country Airlines,SCX,37240,2014
+AB9383,N845MD,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,American Airlines,AAL,66010,2025
 AB93DB,N845QS,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,NetJets,EJA,700-0094,2022
 AB9413,N845SZ,B738,Boeing,737-82R,Boeing 737-82R,0,Sun Country Airlines,SCX,40727,2011
 AB9A0F,N847CC,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Executive Jet Management,EJM,6091,2017

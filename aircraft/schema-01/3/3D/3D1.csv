@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+3D104E,D-EEKS,C172,Cessna,172N Skyhawk,Cessna 172N Skyhawk,1,Private,,17270175,1989
 3D115E,D-EEVE,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,17266168,
 3D11F3,D-EFAX,P28A,Piper,PA-28-161 Cadet,Piper PA-28-161 Cadet,1,Private,,,
 3D1284,D-EFGM,C172,Reims,F172P Skyhawk,Reims F172P Skyhawk,1,Private,,F17202102,
@@ -12,3 +13,4 @@
 3D1DE4,D-EJOM,C182,Cessna,182T Skylane,Cessna 182T Skylane,1,Private,,18283096,
 3D1E2D,D-EJRH,S22T,Cirrus Design Corporation,SR-22T,Cirrus SR-22T,1,Private,,2377,
 3D1EB0,D-EJWI,S22T,Cirrus,SR-22 Turbo,Cirrus SR-22 Turbo,1,Private,,1044,
+3D1F39,D-EKBP,AA5,Grumman American,AA-5B Tiger,Grumman American AA-5B Tiger,1,Private,,1128,

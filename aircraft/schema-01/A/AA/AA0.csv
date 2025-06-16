@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA023F,N744JS,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,flyExclusive,JRE,525B0304,2009
 AA0302,N744SM,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,4581,2017
+AA0653,N745NK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Spirit Airlines,NKS,12333,
 AA0909,N746CC,E170,Embraer,E170LR,Embraer E170LR,0,Envoy Air,ENY,17000042,2004
 AA0C9C,N747AS,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,8998,2022
 AA0DA1,N747MC,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,2285,2021

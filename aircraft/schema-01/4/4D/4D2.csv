@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 4D2001,9H-KDR,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,TAG Aviation Malta,TEU,,
+4D2002,9H-CGR,A321,Airbus,A321-231(PCF),Airbus A321-231(PCF),0,SmartLynx Malta,LYX,02290,2004
 4D2003,9H-SAS,B738,Boeing,737-8BK(WL),Boeing 737-8BK(WL),0,SkyUp Europe,SEU,33029,2006
 4D2004,9H-94FX,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Flexjet Europe,FLJ,9242,2007
 4D2005,9H-99FX,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Flexjet Europe,FLJ,9431,2009
@@ -33,6 +34,7 @@
 4D203B,9H-ISM,B738,Boeing,737-8BK,Boeing 737-8BK,0,Blue Bird Airways,BBG,33022,2024
 4D2040,9H-VFR,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Vistajet,VJT,5779,2008
 4D2043,9H-TIA,B734,Boeing,737-430,Boeing 737-430,0,Air Horizont,HAT,27007,2024
+4D2049,9H-WNV,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12366,2024
 4D204B,9H-WNX,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12408,2025
 4D204E,9H-CARLO,PC24,Pilatus,PC-24,Pilatus PC-24,0,Air Corporate,CPV,267,2022
 4D2051,9H-JJC,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,TAG Aviation Malta,TEU,6087,
@@ -54,6 +56,7 @@
 4D20A0,9H-PEA,A21N,Airbus,A321-251N,Airbus A321-251N,0,PLAY Europe,FPE,08008,2018
 4D20A3,9H-TIW,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2431,2025
 4D20B5,9H-SFJ,C68A,Cessna,Citation Latitude,Cessna Citation Latitude,0,AstonJet,ASJ,680A-0099,
+4D20C6,9H-PEB,A21N,Airbus,A321-251N,Airbus A321-251N,0,PLAY Europe,FPE,07939,2018
 4D2115,9H-MIR,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,HiFly Malta,HFM,5368,1998
 4D2136,9H-FCA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Albinati Aviation,ULC,9665,2014
 4D2147,9H-IBD,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Elitavia Malta,EAU,9401,2010
@@ -493,6 +496,7 @@
 4D251E,9H-IKE,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,1,Private,,0447,2023
 4D251F,9H-VFN,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Vistajet,VJT,5742,
 4D2520,9H-VFM,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Vistajet,VJT,5956,2013
+4D2521,9H-168OO,BCS1,Airbus,A220-100 (ACJ),Airbus A220-100 (ACJ),0,ComLux Malta,MLM,50069,2023
 4D2522,9H-LWB,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,Luxwing,LWG,4332,2010
 4D2524,9H-SAT,B738,Boeing,737-8Q8,Boeing 737-8Q8,0,SkyUp Europe,SEU,29368,2006
 4D2525,9H-LYR,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SmartLynx Malta,LYX,43302,2018

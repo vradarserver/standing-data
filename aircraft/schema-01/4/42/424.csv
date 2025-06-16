@@ -86,6 +86,7 @@
 4248AD,VP-CJL,GLEX,Bombardier,BD-700-1A10 Global 6500,Bombardier BD-700-1A10 Global 6500,1,Private,,60034,
 4248BF,VP-CSH,GLEX,Bombardier,BD-700 Global 6500,Bombardier BD-700 Global 6500,1,Private,,60046,
 4248CA,VP-CMY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,296,
+4248CB,VP-CTT,B737,Boeing,737-7ZH(BBJ),Boeing 737-7ZH(BBJ),0,Phenix Jet,,38751,2012
 4248D0,VP-COI,B738,Boeing,737-8MA,Boeing 737-8MA,0,Avolon Aviation,,40945,2014
 424A7B,,-GND,,Ground Vehicle,Ground Vehicle,1,Private,,,
 424A7C,,-GND,,Ground Vehicle,Ground Vehicle,0,Dublin Airport,,,
@@ -194,4 +195,8 @@
 424C87,M-CELT,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,Jet Concierge Club,JCO,60151,2024
 424C8C,M-ABSU,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21052,2025
 424C8E,M-SCDM,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6064,2013
+424C91,M-ABTN,A320,Airbus,A320-216,Airbus A320-216,0,BBAM,,2842,2006
+424C94,M-MBFF,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9174,2005
 424C98,M-ABTE,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21056,2025
+424C9B,M-APLE,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9851,2018
+424C9D,M-ASBA,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21061,2025

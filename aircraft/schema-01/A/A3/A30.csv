@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A30121,N293FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63132,2023
 A3025D,N293TW,PC12,Pilatus,PC-12,Pilatus PC-12,0,Tradewind Aviation,,1293,
+A3042B,N29383,B763,Boeing,767-3Q8(ER),Boeing 767-3Q8(ER),0,Cargo Aircraft Management,,29383,1999
 A3045C,N294AF,PC24,Pilatus,PC-24,Pilatus PC-24,0,PlaneSense,CNS,294,2022
 A304AC,N294DL,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4138,2008
 A304D8,N294FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63131,2022

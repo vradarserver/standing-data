@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 010121,SU-TCB,A320,Airbus,A320-232,Airbus A320-232,0,AlMasria Universal Airlines,LMU,943,1998
+010126,PS-BQF,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0225,
+010129,PS-WPM,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,,
 0101EC,SU-TMN,B738,Boeing,737-86N,Boeing 737-86N,0,FlyEgypt,FEG,60714,2019
 0101FA,SU-AAF,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,6444,2015
 01022C,SU-BUK,A20N,Airbus,A320-251N,Airbus A320-251N,0,Air Cairo,MSC,10152,2021

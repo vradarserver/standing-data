@@ -58,6 +58,7 @@
 43C938,ZM710,H64,Boeing-Westland,AH-64E Apache Guardian v6,Boeing-Westland AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD.011,
 43C939,ZM711,H64,Boeing,AH-64E Apache,Boeing AH-64E Apache,0,Army Air Corps,AAC,UD012,
 43C93A,ZM712,H64,Boeing,AH-64E Apache Guardian v6,Boeing AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD013,
+43C93B,ZM713,H64,Boeing,Apache AH-64E,Boeing Apache AH-64E,0,Army Air Corps,AAC,UD014,
 43C93C,ZM714,H64,Boeing-Westland,AH-64E Apache Guardian v6,Boeing-Westland AH-64E Apache Guardian v6,0,Army Air Corps,AAC,UD015,2021
 43C93D,ZM715,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.016,
 43C93E,ZM716,H64,Boeing,AH-64E Apache Guardian,Boeing AH-64E Apache Guardian,0,Army Air Corps,AAC,UD017,
@@ -82,6 +83,7 @@
 43C951,ZM735,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.036,
 43C952,ZM736,H64,Boeing,Apache AH-64E,Boeing Apache AH-64E,0,Army Air Corps,AAC,,
 43C953,ZM737,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.038,2023
+43C957,ZM941,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.042,
 43C960,ZB131,HAWK,BAe Systems,Hawk Mk.167,BAe Systems Hawk Mk.167,0,Royal Air Force,RFR,,
 43C961,ZB132,HAWK,British Aerospace,Hawk Mk.167,British Aerospace Hawk Mk.167,0,Royal Air Force,RFR,QA002,
 43C962,ZB133,HAWK,BAE,Hawk Mk 167,BAE Hawk Mk 167,0,Qatar Emiri Air Force,,QA003,2021

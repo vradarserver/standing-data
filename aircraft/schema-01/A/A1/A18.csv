@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A18165,N1964M,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5558,2012
 A182AE,N197FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63127,2021
 A1836C,N197NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,7063,2016
 A184CA,N1972,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Nike,,6404,2019
@@ -7,6 +8,7 @@ A185AC,N1978R,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,9327,2023
 A18614,N198BZ,E195,Embraer,E195AR,Embraer E195AR,0,Breeze Airways,MXY,19000692,2015
 A18665,N198FE,B763,Boeing,767-300F,Boeing 767-300F,0,Federal Express,FDX,63128,2021
 A18723,N198NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,7138,2016
+A1883F,N1980D,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2220,2021
 A18845,N1980K,GLF6,Gulfstream,G650,Gulfstream G650,0,Noel Air,,6011,2011
 A18976,N1989,GLEX,Bombardier,BD-700-1A10 Global 6000,Bombardier BD-700-1A10 Global 6000,1,Private,,9039,1999
 A18986,N1989R,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6510,2022

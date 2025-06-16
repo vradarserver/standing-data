@@ -17,7 +17,10 @@
 7811C0,B-005H,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
 7811C2,B-005K,A20N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811C3,B-005L,A20N,Airbus,A320-251N,Airbus A320-251N,0,Airbus Industrie,AIB,,
+7811C7,B-005Q,A359,Airbus,A350-941,Airbus A350-941,0,Airbus Industrie,AIB,,
+7811CA,B-005T,A359,Airbus,A350-941,Airbus A350-941,0,Airbus Industrie,AIB,,
 7811CB,B-005U,A359,Airbus,A350-941,Airbus A350-941,0,Airbus Industrie,AIB,,
+7811CC,B-005V,A359,Airbus,A-350-900 XWB,Airbus A-350-900 XWB,0,Airbus Industrie,AIB,,
 7811D5,B-3277,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Brilliant Jet,TXJ,6159,2014
 7811E8,B-3288,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Sino Jet (Beijing) Company,JBE,6261,2016
 7811E9,B-3270,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,279,2016
@@ -92,6 +95,7 @@
 78167B,B-603R,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Deer Jet Beijing,BDJ,6354,2018
 781687,B-20A9,B738,Boeing,737-89P,Boeing 737-89P,0,China United Airlines,CUA,63089,2019
 78168D,B-20AD,B738,Boeing,737NG 800/W,Boeing 737NG 800/W,0,China United Airlines,CUA,63091,2019
+781694,B-108R,P28A,Piper,PA-28-181 Archer TX,Piper PA-28-181 Archer TX,0,Sichuan Longhao Pilot Training,,2881056,
 781724,B-309T,A333,Airbus,A330-343,Airbus A330-343,0,Beijing Capital Airlines,CBJ,1917,2019
 78173E,B-70D8,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Reignwood Star General Aviation,,65200,
 78175A,B-606R,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Brilliant Jet,TXJ,5585,2018
@@ -645,6 +649,7 @@
 781FC9,B-32F9,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Chengdu Airlines,UEA,11632,2023
 781FCD,B-32FC,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11376,2023
 781FCE,B-32FD,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,11392,2023
+781FD5,B-32FF,A19N,Airbus,A319-153N,Airbus A319-153N,0,Tibet Airlines,TBA,12306,2024
 781FD6,B-223W,B763,Boeing,767-36NER(BCF),Boeing 767-36NER(BCF),0,SF Airlines,CSS,30841,2001
 781FDA,B-32FE,A333,Airbus,A330-343(P2F),Airbus A330-343(P2F),0,Beijing Capital Airlines,CBJ,0908,2008
 781FDB,B-223U,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Shandong Airlines,CDG,61459,2022

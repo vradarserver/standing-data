@@ -2,6 +2,7 @@
 4B10DD,HB-GKB,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BY-302,
 4B1339,HB-HHH,PC7,Pilatus,PC-7 Mk.II,Pilatus PC-7 Mk.II,0,Pilatus Flugzeugwerke,PCH,1000,2019
 4B1520,HB-IAA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Nomad Aviation,,224,
+4B15DB,HB-IHF,A359,Airbus,A350-941,Airbus A350-941,0,Edelweiss Air,EDW,363,2019
 4B1606,HB-IIW,GLF5,Gulfstream,G550,Gulfstream G550,0,Jet Aviation,PJS,5415,2013
 4B180C,HB-JCU,BCS3,Airbus,A220-300,Airbus A220-300,0,Swiss,SWR,55110,2021
 4B1815,HB-JDD,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,10944,2021
@@ -10,6 +11,8 @@
 4B1818,HB-JDG,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,11911,2024
 4B1819,HB-JDH,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,12338,2024
 4B181A,HB-JDI,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,12379,2025
+4B181B,HB-JDJ,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,12470,2025
+4B181C,HB-JDK,A20N,Airbus,A320-271N,Airbus A320-271N,0,Swiss,SWR,12565,2025
 4B1865,HB-JGF,GLEX,Bombardier,BD-700-1A10 Global Express,Bombardier BD-700-1A10 Global Express,0,Haute Aviation (Switzerland),,9043,
 4B18A7,HB-JIT,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Albinati Aeronautics,LUC,70076,
 4B18C1,HB-JJT,C680,Cessna,680 Citation Sovereign,Cessna 680 Citation Sovereign,1,Private,,680-0114,
@@ -30,6 +33,7 @@
 4B1942,HB-JOS,A320,Airbus,A320-214,Airbus A320-214,0,Chair Airlines,GSW,4391,2010
 4B194C,HB-JPC,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,11298,2023
 4B194D,HB-JPD,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,11406,2023
+4B194E,HB-JPE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,12436,2025
 4B19B4,HB-JTC,F2TH,Dassault,Falcon 2000S,Dassault Falcon 2000S,0,Boutique Aviation,BQA,715,2014
 4B19B9,HB-JTH,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,484,2020
 4B19C0,HB-JTO,FA6X,Falcon,6X,Falcon 6X,0,Cat Aviation,CAZ,5,
