@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 252,027 |
-| `PietD`                        | 149,226 |
+| `dirkhh`                       | 254,420 |
+| `PietD`                        | 149,423 |
 | `vand`                         | 65,897 |
-| `科罗娜`                          | 27,786 |
+| `科罗娜`                          | 27,821 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,769 |
-| `Lanorge`                      | 17,191 |
+| `sib64`                        | 18,843 |
+| `Lanorge`                      | 17,204 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -25,8 +25,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,567 |
-| `AP100`                        | 5,057 |
+| `aircraftenthusiast2000`       | 5,594 |
+| `AP100`                        | 5,079 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
 | `HE9JSD, Georges`              | 4,457 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,231 |
+| `Daniel.cornejo.campos`        | 1,233 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,192 |
 | `laurent`                      | 1,136 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
-| `SQ5IRZ`                       | 766 |
+| `SQ5IRZ`                       | 768 |
 | `wogman`                       | 741 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
@@ -145,17 +145,17 @@ Please note that credit files are updated less frequently than the data files.
 | `KNakada`                      | 247 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
+| `gabo03`                       | 231 |
 | `giofloripa`                   | 227 |
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
 | `rikgale`                      | 215 |
 | `Franck Dosdane`               | 213 |
-| `gabo03`                       | 213 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
 | `Big G`                        | 207 |
-| `Alexey`                       | 202 |
+| `Alexey`                       | 206 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
@@ -212,8 +212,8 @@ Please note that credit files are updated less frequently than the data files.
 | `mekkawi`                      | 106 |
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
+| `vrsspotter73`                 | 101 |
 | `hangyong`                     | 100 |
-| `vrsspotter73`                 | 100 |
 | `sbartley`                     | 99 |
 | `esir`                         | 97 |
 | `GaryG`                        | 97 |
