@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 254,420 |
-| `PietD`                        | 149,423 |
-| `vand`                         | 65,897 |
-| `科罗娜`                          | 27,821 |
+| `dirkhh`                       | 255,451 |
+| `PietD`                        | 149,525 |
+| `vand`                         | 65,898 |
+| `科罗娜`                          | 27,955 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,843 |
-| `Lanorge`                      | 17,204 |
+| `sib64`                        | 18,854 |
+| `Lanorge`                      | 17,224 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,349 |
-| `Markus`                       | 7,728 |
+| `Markus`                       | 7,731 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
@@ -38,8 +38,8 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,273 |
-| `Gavin-D`                      | 2,256 |
+| `AH-1`                         | 2,275 |
+| `Gavin-D`                      | 2,258 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
 | `Halo/S`                       | 2,188 |
@@ -62,9 +62,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,233 |
+| `Daniel.cornejo.campos`        | 1,238 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,192 |
+| `Mark Taylor`                  | 1,194 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -82,7 +82,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 768 |
-| `wogman`                       | 741 |
+| `wogman`                       | 748 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
@@ -139,13 +139,13 @@ Please note that credit files are updated less frequently than the data files.
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
-| `Skibox`                       | 253 |
+| `Skibox`                       | 255 |
 | `clipsnotebook`                | 249 |
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
+| `gabo03`                       | 244 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
-| `gabo03`                       | 231 |
 | `giofloripa`                   | 227 |
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
@@ -212,7 +212,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mekkawi`                      | 106 |
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
-| `vrsspotter73`                 | 101 |
+| `vrsspotter73`                 | 102 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
 | `esir`                         | 97 |
@@ -231,11 +231,11 @@ Please note that credit files are updated less frequently than the data files.
 | `RZH`                          | 80 |
 | `Jens Erik Widén`              | 79 |
 | `Lector`                       | 79 |
+| `AdriBrum`                     | 77 |
 | `HSran`                        | 77 |
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
 | `ZxTx,Veles,Macedonia`         | 76 |
-| `AdriBrum`                     | 73 |
 | `Sebastian`                    | 73 |
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
@@ -310,6 +310,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Matt.K`                       | 38 |
 | `DHJ`                          | 37 |
 | `redeshazer`                   | 37 |
+| `ghe_n_ghe`                    | 36 |
 | `Jimmy Ng`                     | 36 |
 | `SkyView`                      | 35 |
 | `Mike_n5pwp`                   | 34 |
@@ -347,7 +348,6 @@ Please note that credit files are updated less frequently than the data files.
 | `mikedw44`                     | 28 |
 | `msperrin`                     | 28 |
 | `NZCH`                         | 28 |
-| `ghe_n_ghe`                    | 27 |
 | `TuffyDK`                      | 27 |
 | `gg333`                        | 26 |
 | `SomeGen`                      | 26 |
@@ -613,6 +613,7 @@ Please note that credit files are updated less frequently than the data files.
 | `vfr-pilot`                    | 6 |
 | `Vincent Buttstedt`            | 6 |
 | `542401`                       | 5 |
+| `96jtaylor`                    | 5 |
 | `Antti T-K`                    | 5 |
 | `APF`                          | 5 |
 | `ararek`                       | 5 |
@@ -875,7 +876,6 @@ Please note that credit files are updated less frequently than the data files.
 | `yyxzz05416`                   | 2 |
 | `zladic`                       | 2 |
 | `1090s`                        | 1 |
-| `96jtaylor`                    | 1 |
 | `Aalbert`                      | 1 |
 | `adamp`                        | 1 |
 | `ajcoll5`                      | 1 |
