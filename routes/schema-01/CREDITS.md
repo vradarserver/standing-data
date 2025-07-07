@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 255,451 |
-| `PietD`                        | 149,525 |
+| `dirkhh`                       | 256,900 |
+| `PietD`                        | 149,675 |
 | `vand`                         | 65,898 |
-| `科罗娜`                          | 27,955 |
+| `科罗娜`                          | 28,456 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 18,854 |
-| `Lanorge`                      | 17,224 |
+| `sib64`                        | 18,975 |
+| `Lanorge`                      | 17,249 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,349 |
-| `Markus`                       | 7,731 |
+| `Markus`                       | 7,795 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,594 |
+| `aircraftenthusiast2000`       | 5,617 |
 | `AP100`                        | 5,079 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,238 |
+| `Daniel.cornejo.campos`        | 1,243 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,194 |
 | `laurent`                      | 1,136 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `kirkmayers`                   | 479 |
+| `kirkmayers`                   | 481 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -138,12 +138,12 @@ Please note that credit files are updated less frequently than the data files.
 | `Fonok`                        | 275 |
 | `flygfantast`                  | 269 |
 | `Adriel208`                    | 262 |
+| `gabo03`                       | 258 |
 | `ntangle`                      | 258 |
 | `Skibox`                       | 255 |
 | `clipsnotebook`                | 249 |
 | `janne`                        | 247 |
 | `KNakada`                      | 247 |
-| `gabo03`                       | 244 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
@@ -154,8 +154,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Franck Dosdane`               | 213 |
 | `VRS-Calw`                     | 212 |
 | `André Baamonde`               | 210 |
+| `Alexey`                       | 209 |
 | `Big G`                        | 207 |
-| `Alexey`                       | 206 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
@@ -229,9 +229,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Benjamin92240`                | 81 |
 | `Renato Nagg`                  | 80 |
 | `RZH`                          | 80 |
+| `AdriBrum`                     | 79 |
 | `Jens Erik Widén`              | 79 |
 | `Lector`                       | 79 |
-| `AdriBrum`                     | 77 |
 | `HSran`                        | 77 |
 | `Planespotter6`                | 77 |
 | `Fuse`                         | 76 |
