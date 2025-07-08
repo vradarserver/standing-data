@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 75008A,9M-TSA,DA42,Diamond Aircraft Industries,DA42 Twin Star,Diamond Aircraft Industries DA42 Twin Star,0,HM Aerospace,,42.237,
+7500BF,9M-AHB,A320,Airbus,A320-216,Airbus A320-216,0,AirAsia,AXM,3232,2007
 7500D5,M30-14,C130,Lockheed,C-130H-30 Hercules,Lockheed C-130H-30 Hercules,0,Royal Malaysian Air Force,RMF,382-5311,1992
 750113,9M-HMI,DA40,Diamond,DA40D Diamond Star,Diamond DA40D Diamond Star,0,HM Aerospace,,D4.172,2005
 750114,9M-HMJ,DA40,Diamond,DA-40D Diamond Star TDI,Diamond DA-40D Diamond Star TDI,0,HM Aerospace,,D4.173,
