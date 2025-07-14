@@ -10,7 +10,7 @@ Please note that credit files are updated less frequently than the data files.
 | `aircraftenthusiast2000` | 2,400 |
 | `科罗娜`                    | 1,939 |
 | `OSN`                    | 1,763 |
-| `Andrew`                 | 1,183 |
+| `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
