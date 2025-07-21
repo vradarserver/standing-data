@@ -6,26 +6,26 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 259,295 |
-| `PietD`                        | 149,783 |
+| `dirkhh`                       | 260,303 |
+| `PietD`                        | 149,893 |
 | `vand`                         | 65,898 |
-| `科罗娜`                          | 28,999 |
+| `科罗娜`                          | 29,515 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 19,088 |
-| `Lanorge`                      | 17,287 |
+| `sib64`                        | 19,142 |
+| `Lanorge`                      | 17,313 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,821 |
 | `Neboknede`                    | 9,349 |
-| `Markus`                       | 7,797 |
+| `Markus`                       | 7,841 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
+| `aircraftenthusiast2000`       | 5,730 |
 | `EDDT Manu`                    | 5,657 |
-| `aircraftenthusiast2000`       | 5,645 |
 | `AP100`                        | 5,079 |
 | `elljay`                       | 4,631 |
 | `MartinC`                      | 4,467 |
@@ -38,7 +38,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,275 |
+| `AH-1`                         | 2,276 |
 | `Gavin-D`                      | 2,258 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
@@ -61,8 +61,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,251 |
-| `Daniel.cornejo.campos`        | 1,250 |
+| `Dauren`                       | 1,262 |
+| `Daniel.cornejo.campos`        | 1,254 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,194 |
 | `laurent`                      | 1,136 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
-| `kirkmayers`                   | 481 |
+| `kirkmayers`                   | 482 |
 | `shisha34`                     | 472 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
@@ -136,8 +136,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Kanok`                        | 288 |
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
+| `gabo03`                       | 275 |
 | `flygfantast`                  | 269 |
-| `gabo03`                       | 268 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
 | `Skibox`                       | 255 |
@@ -150,11 +150,11 @@ Please note that credit files are updated less frequently than the data files.
 | `spudjr`                       | 225 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 216 |
+| `Franck Dosdane`               | 215 |
 | `rikgale`                      | 215 |
-| `Franck Dosdane`               | 213 |
 | `VRS-Calw`                     | 212 |
+| `Alexey`                       | 211 |
 | `André Baamonde`               | 210 |
-| `Alexey`                       | 209 |
 | `Big G`                        | 207 |
 | `gstu`                         | 202 |
 | `RBBrasil`                     | 202 |
@@ -224,9 +224,9 @@ Please note that credit files are updated less frequently than the data files.
 | `antonioag`                    | 87 |
 | `DOSDANE`                      | 87 |
 | `NE_MilAir`                    | 86 |
+| `AdriBrum`                     | 82 |
 | `BC`                           | 82 |
 | `Dmitry`                       | 82 |
-| `AdriBrum`                     | 81 |
 | `Benjamin92240`                | 81 |
 | `Renato Nagg`                  | 80 |
 | `RZH`                          | 80 |
@@ -279,6 +279,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Mario Uscanga`                | 49 |
 | `patrice`                      | 49 |
 | `Sgtpanda`                     | 49 |
+| `AviationTom`                  | 48 |
 | `franckdosdane`                | 48 |
 | `john mathieson`               | 48 |
 | `BC92`                         | 47 |
@@ -1049,6 +1050,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Rafael Meurer`                | 1 |
 | `ramonk`                       | 1 |
 | `renato cano`                  | 1 |
+| `Rfoles`                       | 1 |
 | `RickBoatright`                | 1 |
 | `robee75`                      | 1 |
 | `Robert S`                     | 1 |
