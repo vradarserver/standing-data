@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A59143,N458QS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,NetJets,EJA,50500708,2022
 A59398,N459AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10980,2022
+A593AF,N459BL,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6321,2018
 A594FA,N459QS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,NetJets,EJA,50500721,2023
 A5950A,N459RH,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2228,
 A5969C,N4595K,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,Middleground Aviation LLC,,700-0030,2020

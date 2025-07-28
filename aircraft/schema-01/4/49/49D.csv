@@ -7,6 +7,7 @@
 49D127,OK-EMZ,M600,Piper,M600,Piper M600,1,Private,,3163,
 49D135,OK-WAY,CL60,Bombardier,Challenger CL605,Bombardier Challenger CL605,0,Eclair Aviation,ECC,5953,2014
 49D262,OK-ZDR,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2185,
+49D2D8,OK-MXM,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Alpha Aviation,AAO,2277,2023
 49D33D,OK-NEO,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Alpha Aviation,AAO,50000443,2023
 49D387,OK-PHO,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,0,CTR Atmospherica Aviation,,50500709,
 49D390,OK-MIT,C340,Cessna,340A,Cessna 340A,0,PRIMIS,,340A0355,1977
@@ -40,6 +41,7 @@
 49D57B,OK-CER,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,OK Business Aircraft,NTF,2303,2023
 49D588,OK-UMO,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B-0220,2008
 49D58D,OK-EXE,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2243,
+49D590,OK-JKP,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Alpha Aviation,AAO,2197,2022
 49D5A4,OK-SKT,BE9L,Beech,C90GTi King Air,Beech C90GTi King Air,1,Private,,LJ-1900,
 49D5A6,OK-EYA,BCS3,Airbus,A220-300,Airbus A220-300,0,Smartwings,TVS,55311,2024
 49D5B4,OK-ELD,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500585,
@@ -48,5 +50,7 @@
 49D5D6,OK-EYB,BCS3,Airbus,A220-300,Airbus A220-300,0,Smartwings,TVS,55330,2025
 49D5D7,OK-PRF,E550,Embraer,Praetor 600,Embraer Praetor 600,0,CTR Atmospherica Aviation,,55020198,2024
 49D5E2,OK-OUT,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Alpha Aviation,AAO,2412,2024
+49D5EE,OK-FYD,BCS3,Airbus,A220-300,Airbus A220-300,0,Smartwings,TVS,55368,2025
 49D5EF,OK-FYC,BCS3,Airbus,A220-300,Airbus A220-300,0,Smartwings,TVS,55347,2025
 49D5F5,OK-CSL,TBM9,Daher,TBM-900,Daher TBM-900,1,Private,,1575,2024
+49D61E,OK-OSK,C680,Cessna,Citation Sovereign,Cessna Citation Sovereign,0,Air Bohemia,BOH,680-0185,2007

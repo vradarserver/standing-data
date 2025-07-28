@@ -3,11 +3,13 @@
 7810C5,B-3246,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,ZYB Lily Jet,MZT,9712,2015
 7810E4,B-3355,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500363,2016
 7810E5,B-3356,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,Colorful Yunnan General Aviation,CYN,50500392,2016
+7810E8,B-8798,A319,Airbus,A319 133SL,Airbus A319 133SL,0,Sichuan Airlines,CSC,7711,2017
 78113F,B-70PR,A119,Leonardo,AW119MKII,Leonardo AW119MKII,0,Shanghai Kingwing General Aviation,,14923,
 781167,B-3253,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Deer Jet Beijing,BDJ,4301,2013
 781168,B-3239,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Star Jet,CHJ,5553,2015
 781184,B-3255,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6181,2015
 78118B,B-2571,B733,Boeing,737-39P(SF),Boeing 737-39P(SF),0,Longhao Airlines,LHA,29410,1998
+7811AD,B-8665,A319,Airbus,A319 133SL,Airbus A319 133SL,0,Sichuan Airlines,CSC,7738,2017
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
 7811BB,B-005C,A20N,Airbus,A-320neo,Airbus A-320neo,0,Airbus Industrie,AIB,,
@@ -93,6 +95,7 @@
 78166D,B-602K,MA60,Xian,MA-60,Xian MA-60,0,Chinese Academy Of Science,,1304,2018
 781678,B-5732,B738,Boeing,737-84P,Boeing 737-84P,0,Lucky Air,LKE,35076,2007
 78167B,B-603R,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Deer Jet Beijing,BDJ,6354,2018
+78167F,B-20A3,B38M,Boeing,737MAX 8,Boeing 737MAX 8,0,China Eastern Airlines,CES,61637,2019
 781687,B-20A9,B738,Boeing,737-89P,Boeing 737-89P,0,China United Airlines,CUA,63089,2019
 78168D,B-20AD,B738,Boeing,737NG 800/W,Boeing 737NG 800/W,0,China United Airlines,CUA,63091,2019
 781694,B-108R,P28A,Piper,PA-28-181 Archer TX,Piper PA-28-181 Archer TX,0,Sichuan Longhao Pilot Training,,2881056,
@@ -101,9 +104,11 @@
 78175A,B-606R,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Brilliant Jet,TXJ,5585,2018
 78175B,B-10F5,C208,Textron Aviation,208 EX,Textron Aviation 208 EX,0,Reignwood Star General Aviation,,208B5306,2017
 7817DA,B-104Z,FM25,Flying Machines,FM-250 Vampire,Flying Machines FM-250 Vampire,0,Wanfeng General Aviation,WFH,CD-FM250V43/2017,2017
+7817E0,B-20DS,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Air China,CCA,60926,2021
 7817E9,B-604F,AJ27,Comac,ARJ-21 700,Comac ARJ-21 700,0,Comac,,131,2019
 7817F2,B-30C3,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,9268,2020
 781801,B-20DX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Xiamen Airlines,CXA,64680,2021
+781802,B-20DY,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Xiamen Airlines,CXA,64681,2021
 781803,B-10J8,DA40,Diamond,DA40NG,Diamond DA40NG,0,Wanfeng General Aviation,WFH,40.NF001,
 781853,B-605D,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,ZYB Lily Jet,MZT,9716,2015
 781859,B-30CX,A20N,Airbus,A320-251N,Airbus A320-251N,0,China Eastern Airlines,CES,9219,2020
@@ -602,6 +607,7 @@
 781F65,B-223P,B752,Boeing,757-23N(PCF),Boeing 757-23N(PCF),0,SF Airlines,CSS,30887,2000
 781F6A,B-223Q,B763,Boeing,767-33A(ER)(BCF),Boeing 767-33A(ER)(BCF),0,SF Airlines,CSS,33422,2002
 781F6C,B-91A9,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Air China,CCA,220,2023
+781F6D,B-91AA,AJ27,Comac,C909-700,Comac C909-700,0,Air China,CCA,223,2023
 781F6E,B-91AC,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Air China,CCA,10127,2023
 781F6F,B-91AD,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Air China,CCA,10130,2023
 781F70,B-91AE,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Air China,CCA,10131,2023

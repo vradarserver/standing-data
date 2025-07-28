@@ -4,8 +4,10 @@
 7500D5,M30-14,C130,Lockheed,C-130H-30 Hercules,Lockheed C-130H-30 Hercules,0,Royal Malaysian Air Force,RMF,382-5311,1992
 750113,9M-HMI,DA40,Diamond,DA40D Diamond Star,Diamond DA40D Diamond Star,0,HM Aerospace,,D4.172,2005
 750114,9M-HMJ,DA40,Diamond,DA-40D Diamond Star TDI,Diamond DA-40D Diamond Star TDI,0,HM Aerospace,,D4.173,
+750115,9M-HMK,DA40,Diamond,DA-40D Diamond Star TDI,Diamond DA-40D Diamond Star TDI,0,HM Aerospace,,D4.174,2006
 750116,9M-HML,DA40,Diamond,DA-40D Diamond Star,Diamond DA-40D Diamond Star,0,HM Aerospace,,D4.175,
 750118,9M-HMN,DA40,Diamond,DA40D Diamond Star,Diamond DA40D Diamond Star,0,HM Aerospace,,D4.138,2004
+750119,9M-HMO,DA40,Diamond,DA-40D Diamond Star TDI,Diamond DA-40D Diamond Star TDI,0,HM Aerospace,,D4.151,2006
 75011C,9M-HMR,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,0,HM Aerospace,,,
 75011D,9M-HMS,DA40,Diamond,DA40D Diamond Star,Diamond DA40D Diamond Star,0,HM Aerospace,,D4.158,2005
 75011F,9M-HMU,DA40,Diamond,DA40D Diamond Star,Diamond DA40D Diamond Star,0,HM Aerospace,,D4.166,2005
@@ -49,6 +51,7 @@
 750523,9M-XBG,A333,Airbus,A330-343,Airbus A330-343,0,AirAsia X,XAX,1467,2013
 750525,9M-XXJ,A333,Airbus,A330-343E,Airbus A330-343E,0,AirAsia X,XAX,1423,2013
 750526,9M-ITB,DA42,Diamond,DA42 NG Twin Star,Diamond DA42 NG Twin Star,0,International Aero Training Academy,,42.N493,
+750528,9M-DAE,A320,Airbus,A320-214,Airbus A320-214,0,AirAsia,AXM,03064,2007
 75052A,9M-DAF,A320,Airbus,A320-216,Airbus A320-216,0,AirAsia,AXM,04070,2009
 750530,9M-TLA,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),0,AirAsia,AXM,1607,2001
 750534,9M-WCZ,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,World Cargo Airlines,WCM,33553,2003
@@ -68,6 +71,7 @@
 750553,9M-MVI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Malaysia Airlines,MAS,66375,2024
 750554,9M-MVJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Malaysia Airlines,MAS,68123,2024
 750555,9M-MVK,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Malaysia Airlines,MAS,43341,2025
+750562,9M-VAD,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,AirAsia,AXM,12132,2024
 75056B,9M-LDF,B738,Boeing,737-8U3,Boeing 737-8U3,0,Batik Air Malaysia,MXD,41605,2015
 75056C,9M-LDG,B738,Boeing,737-8U3,Boeing 737-8U3,0,Batik Air Malaysia,MXD,41794,2014
 75056D,9M-LDH,B738,Boeing,737-8U3,Boeing 737-8U3,0,Batik Air Malaysia,MXD,41796,2014
@@ -77,5 +81,7 @@
 75057C,9M-WWB,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,Kargo Xpress,KXP,32685,2007
 750581,9M-LDT,B738,Boeing,737-86N,Boeing 737-86N,0,Batik Air Malaysia,MXD,41253,2014
 750582,9M-LNQ,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air Malaysia,MXD,39857,2015
+750583,9M-LNY,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air Malaysia,MXD,39871,2015
 750584,9M-VAF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,AirAsia,AXM,12225,2024
+750591,9M-MVM,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Malaysia Airlines,MAS,43349,2025
 750593,9M-LNC,B738,Boeing,737-8GP,Boeing 737-8GP,0,Batik Air Malaysia,MXD,38314,2016

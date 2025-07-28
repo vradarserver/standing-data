@@ -6,9 +6,9 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 240 |
+| `PietD`                        | 243 |
+| `科罗娜`                          | 66 |
 | `EDDG`                         | 61 |
-| `科罗娜`                          | 59 |
 | `vand`                         | 51 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 27 |
@@ -17,8 +17,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                        | 13 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
+| `Lanorge`                      | 8 |
 | `Saizen`                       | 8 |
-| `Lanorge`                      | 7 |
 | `Mickael H.`                   | 7 |
 | `argz`                         | 6 |
 | `squawk7000`                   | 6 |
@@ -33,6 +33,7 @@ Please note that credit files are updated less frequently than the data files.
 | `clipsnotebook`                | 2 |
 | `CX6BX`                        | 2 |
 | `Forssi`                       | 2 |
+| `ghe_n_ghe`                    | 2 |
 | `Martin Salazar`               | 2 |
 | `Martini`                      | 2 |
 | `Mitch`                        | 2 |

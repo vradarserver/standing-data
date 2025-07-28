@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,205 |
+| `Peter Hutt`             | 4,431 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 1,939 |
+| `科罗娜`                    | 1,986 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `Lanorge`                | 290 |
-| `BudBundi`               | 273 |
+| `Lanorge`                | 302 |
+| `BudBundi`               | 277 |
 | `andrw`                  | 222 |
 | `Ljubo`                  | 117 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
+| `vrsspotter73`           | 102 |
+| `AH-1`                   | 97 |
 | `topoguido`              | 97 |
-| `vrsspotter73`           | 95 |
-| `AH-1`                   | 86 |
 | `Gprad`                  | 82 |
 | `britiger`               | 77 |
 | `Rebelvenice2`           | 57 |
@@ -30,11 +30,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
+| `Jayant Shah`            | 29 |
 | `wogman`                 | 28 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Gavin-D`                | 23 |
 | `Thain Hunter`           | 21 |
+| `svardsten`              | 19 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
 | `bigrossco`              | 13 |
@@ -44,6 +46,7 @@ Please note that credit files are updated less frequently than the data files.
 | `iu3ind`                 | 9 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
+| `sib64`                  | 9 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
@@ -64,7 +67,6 @@ Please note that credit files are updated less frequently than the data files.
 | `nerf`                   | 3 |
 | `nf003`                  | 3 |
 | `Sevetamryn`             | 3 |
-| `sib64`                  | 3 |
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
 | `Anton`                  | 2 |
@@ -81,6 +83,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Alan Edwards`           | 1 |
 | `Andy Lodge`             | 1 |
 | `arcticfox.92`           | 1 |
+| `Arnaud Albert`          | 1 |
 | `Avioradar`              | 1 |
 | `Blackeye`               | 1 |
 | `caro-ed`                | 1 |

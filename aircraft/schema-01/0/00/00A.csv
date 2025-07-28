@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 00A066,ZS-MBA,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,1,Private,,50500691,
+00A097,ZS-MIG,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0148,
 00A11E,ZS-YAE,E190,Embraer,ERJ-190SR,Embraer ERJ-190SR,0,Airlink,LNK,19000456,2011
 00A120,ZS-ZWX,B738,Boeing,737-8GP,Boeing 737-8GP,0,Safair,SFR,39877,2016
 00A3B6,ZS-NMZ,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2109,

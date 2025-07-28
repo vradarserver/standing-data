@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA30E9,N756G,P28A,Piper,Archer TX,Piper Archer TX,0,ATP Flight School,CXK,2881462,2021
+AA314F,N756LB,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6396,2019
 AA319B,N756PC,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6557,
 AA328F,N756YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000928,2022
 AA3435,N757BT,PC12,Pilatus,PC-12,Pilatus PC-12,1,Private,,1247,2010

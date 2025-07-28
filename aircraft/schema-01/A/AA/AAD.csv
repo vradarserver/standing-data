@@ -1,8 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AAD25E,N797DN,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72159,2025
 AAD2E9,N797KB,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9290,2008
 AAD301,N797LA,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9369,2009
 AAD5D7,N798BA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,AIP Capital,,44308,2019
 AAD5DA,N798BD,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9798,2017
+AAD74F,N798SB,CL35,Bombardier,BD-100-1A10,Bombardier BD-100-1A10,1,Private,,20679,2017
 AAD751,N798SD,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2141,2021
 AAD97F,N799AL,BE20,Beech,200GT Super King Air,Beech 200GT Super King Air,1,Private,,BY-102,
 AAD988,N799AV,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,Avianca,AVA,34796,2014
@@ -10,6 +12,7 @@ AADA1B,N799GS,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9192
 AADA4D,N799JS,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,flyExclusive,JRE,525B-0649,2021
 AADD29,N79999,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Suzhou Aviation,CBW,6256,2017
 AADD35,N8AK,GL7T,Bombardier,BD-700-2A12  Global 7500,Bombardier BD-700-2A12  Global 7500,1,Private,,70168,2023
+AADD48,N8BD,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,1,Private,,50500833,2024
 AADE30,N8LL,SF50,Cirrus,G2+ Vision Jet,Cirrus G2+ Vision Jet,1,Private,,0358,2022
 AADE76,N8PF,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73136,2023
 AADEAE,N8RM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5285,2010

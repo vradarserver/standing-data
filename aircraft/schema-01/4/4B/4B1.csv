@@ -2,6 +2,7 @@
 4B10DD,HB-GKB,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BY-302,
 4B1339,HB-HHH,PC7,Pilatus,PC-7 Mk.II,Pilatus PC-7 Mk.II,0,Pilatus Flugzeugwerke,PCH,1000,2019
 4B1520,HB-IAA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Nomad Aviation,,224,
+4B15D8,HB-IHC,A359,Airbus,A350-941,Airbus A350-941,0,Edelweiss Air,EDW,079,2016
 4B15DB,HB-IHF,A359,Airbus,A350-941,Airbus A350-941,0,Edelweiss Air,EDW,363,2019
 4B1606,HB-IIW,GLF5,Gulfstream,G550,Gulfstream G550,0,Jet Aviation,PJS,5415,2013
 4B180C,HB-JCU,BCS3,Airbus,A220-300,Airbus A220-300,0,Swiss,SWR,55110,2021
@@ -21,6 +22,7 @@
 4B18E2,HB-JLA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,MSC Aviation,,497,
 4B18E5,HB-JLD,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,MSC Aviation,,504,
 4B18E6,HB-JLE,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Scintilla,,21040,2024
+4B18E9,HB-JLH,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Scintilla,,21069,2025
 4B18EE,HB-JLM,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Air King Jet,,21042,2024
 4B18F0,HB-JLO,GLF6,Gulfstream Aerospace,GVI (G650ER),Gulfstream Aerospace GVI (G650ER),0,Cat Aviation,CAZ,6521,
 4B18F3,HB-JLR,A320,Airbus,A320-214,Airbus A320-214,0,Edelweiss Air,EDW,5037,2012
@@ -34,6 +36,7 @@
 4B194C,HB-JPC,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,11298,2023
 4B194D,HB-JPD,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,11406,2023
 4B194E,HB-JPE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,12436,2025
+4B194F,HB-JPF,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Swiss,SWR,12498,2025
 4B19B4,HB-JTC,F2TH,Dassault,Falcon 2000S,Dassault Falcon 2000S,0,Boutique Aviation,BQA,715,2014
 4B19B9,HB-JTH,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,484,2020
 4B19C0,HB-JTO,FA6X,Falcon,6X,Falcon 6X,0,Cat Aviation,CAZ,5,

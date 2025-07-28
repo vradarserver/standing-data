@@ -17,6 +17,7 @@
 78018D,B-HLM,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,386,2000
 78018E,B-HLN,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,389,2000
 78019C,B-HLT,A333,Airbus,A330 343X,Airbus A330 343X,0,Cathay Pacific,CPA,439,2001
+7801A3,B-HYI,A333,Airbus,A330 343X,Airbus A330 343X,0,Cathay Pacific,CPA,479,2002
 7801B1,B-HTH,A321,Airbus,A321 231,Airbus A321 231,0,Hong Kong Express Airways,HKE,1984,2003
 7801B2,B-HTI,A321,Airbus,A321 231,Airbus A321 231,0,Hong Kong Express Airways,HKE,2021,2003
 7801C1,B-HSL,A320,Airbus,A320 232,Airbus A320 232,0,Hong Kong Express Airways,HKE,2229,2004
@@ -54,6 +55,7 @@
 780450,B-6113,A332,Airbus,A330-243(P2F),Airbus A330-243(P2F),0,Air China Cargo,CAO,890,2007
 78046D,B-6112,A333,Airbus,A330-343(P2F),Airbus A330-343(P2F),0,Sichuan Airlines,CSC,937,2008
 7804C6,B-2071,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Cargo,CSN,37309,2009
+7804C7,B-2072,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Airlines Cargo,CSG,37310,2009
 7804CF,B-7695,CRJ2,Bombardier,CRJ 200ER,Bombardier CRJ 200ER,0,ZYB Lily Jet,MZT,7268,
 7804D3,B-6186,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,Business Aviation Asia,UNA,3333,2007
 780531,B-5137,B738,Boeing,737-84P(BCF),Boeing 737-84P(BCF),0,Longhao Airlines,LHA,32606,2005
@@ -87,10 +89,13 @@
 78061E,B-8108,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5120,2006
 780620,B-7697,CRJ2,Bombardier,Challenger 850,Bombardier Challenger 850,0,ZYB Lily Jet,MZT,8089,
 780621,B-8120,G200,Gulfstream Aerospace,G200,Gulfstream Aerospace G200,0,Shanghai Deer Jet Company,DER,229,2009
+780628,B-6656,A320,Airbus,A320 214,Airbus A320 214,0,Chongqing Airlines,CQN,4322,2010
 780637,B-3926,LJ60,Bombardier,Learjet 60 XR,Bombardier Learjet 60 XR,0,Amber Aviation,TCI,60-381,
 780645,B-7696,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,ZYB Lily Jet,MZT,5442,2000
 780646,B-8029,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Business Aviation Asia,UNA,45,2008
 78065B,B-001Q,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,COMAC,,,
+780671,B-6681,A320,Airbus,A320 214,Airbus A320 214,0,Chongqing Airlines,CQN,4365,2010
+78068A,B-6703,A320,Airbus,A320 214,Airbus A320 214,0,Chongqing Airlines,CQN,4396,2010
 7806A1,B-5549,B738,Boeing,737NG 86N/W,Boeing 737NG 86N/W,0,China United Airlines,CUA,37888,2010
 7806A2,B-5550,B738,Boeing,737-86N(BCF)(WL),Boeing 737-86N(BCF)(WL),0,China Postal Airlines,CYZ,39393,2010
 7806BA,B-8157,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5342,2011
@@ -153,6 +158,7 @@
 7809DA,B-2525,B734,Boeing,737-4Q8(SF),Boeing 737-4Q8(SF),0,China Postal Airlines,CYZ,24918,1991
 7809F4,B-8262,GLF4,Gulfstream Aerospace,G450,Gulfstream G450,0,Astro Air,SZA,4227,2010
 7809FE,B-8263,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Star Jet,CHJ,4276,2012
+780A00,B-5752,B738,Boeing,737NG 85C/W,Boeing 737NG 85C/W,0,Hebei Airlines,HBH,38404,2013
 780A5A,B-HWM,A333,Airbus,A330-343,Airbus A330-343,0,Cathay Pacific,CPA,1457,2013
 780A74,B-LVA,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Government Flying Service,HKG,5896,2012
 780A75,B-LVB,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Government Flying Service,HKG,5898,2012
@@ -196,6 +202,7 @@
 780E0C,B-3282,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Sino Jet (Beijing) Company,JBE,14501228,2017
 780E87,B-10CD,K100,Quest,Kodiak 100,Quest Kodiak 100,0,Jiangsu Delta General Aviation,,100-0149,2015
 780E88,B-10CE,K100,Quest,Kodiak 100,Quest Kodiak 100,0,Jiangsu Delta General Aviation,,100-0151,2015
+780EAB,B-6889,B738,Boeing,737NG 8MB/W,Boeing 737NG 8MB/W,0,Jiangxi Air,CJX,43914,2015
 780EC1,B-3028,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Suzhou Aviation,CBW,5988,2014
 780EE8,B-1999,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Nanshan Jet (China Air Rescue),NSJ,253,2012
 780EFD,B-9806,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,XiHua General Airlines,,208B-5027,2013

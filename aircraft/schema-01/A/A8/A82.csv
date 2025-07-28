@@ -1,9 +1,11 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A82235,N623JL,GLF4,Gulfstream Aerospace,IV-SP,Gulfstream Aerospace IV-SP,1,Private,,1337,1997
+A82281,N623MM,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73174,2025
 A8228E,N623N,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20833,2019
 A8230C,N623TA,GLF5,Gulfstream,G550,Gulfstream G550,0,Transcend Aviation,,5374,2012
 A82589,N624EM,CL30,Bombardier,Challenger 601,Bombardier Challenger 601,1,Private,,3039,1985
 A825A6,N624FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11509,2023
+A82647,N624NB,GA6C,Gulfstream,G600,Gulfstream G600,0,Digital Monitoring Products,,73145,2024
 A828EA,N625BA,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4275,2013
 A8295D,N625FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11512,2023
 A829B2,M101-01,B350,Hawker Beechcraft Corp,King Air B350,Hawker Beechcraft Corp King Air B350,0,Royal Malaysian Air Force,RMF,FL-825,2012
