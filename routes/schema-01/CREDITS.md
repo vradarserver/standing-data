@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 266,857 |
-| `PietD`                        | 151,055 |
-| `vand`                         | 66,317 |
-| `科罗娜`                          | 29,735 |
+| `dirkhh`                       | 268,089 |
+| `PietD`                        | 151,255 |
+| `vand`                         | 66,401 |
+| `科罗娜`                          | 29,822 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,172 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 19,282 |
-| `Lanorge`                      | 17,369 |
+| `sib64`                        | 19,333 |
+| `Lanorge`                      | 17,376 |
 | `Phillip Rohmberger`           | 16,555 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -24,7 +24,7 @@ Please note that credit files are updated less frequently than the data files.
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,002 |
 | `McBridden`                    | 5,986 |
-| `aircraftenthusiast2000`       | 5,840 |
+| `aircraftenthusiast2000`       | 5,867 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
 | `elljay`                       | 4,631 |
@@ -38,7 +38,7 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,276 |
+| `AH-1`                         | 2,280 |
 | `Gavin-D`                      | 2,263 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
@@ -124,7 +124,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `gabo03`                       | 338 |
+| `gabo03`                       | 355 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -152,6 +152,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Aerovilla`                    | 216 |
 | `Franck Dosdane`               | 216 |
 | `rikgale`                      | 215 |
+| `AviationTom`                  | 213 |
 | `VRS-Calw`                     | 212 |
 | `Alexey`                       | 211 |
 | `André Baamonde`               | 210 |
@@ -160,7 +161,6 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `AviationTom`                  | 197 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
@@ -211,8 +211,8 @@ Please note that credit files are updated less frequently than the data files.
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
 | `mekkawi`                      | 106 |
+| `vrsspotter73`                 | 105 |
 | `gerault`                      | 104 |
-| `vrsspotter73`                 | 104 |
 | `Nagg`                         | 102 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
