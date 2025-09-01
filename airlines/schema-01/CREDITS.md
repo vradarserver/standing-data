@@ -6,12 +6,12 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 430 |
-| `PietD`                 | 215 |
+| `Andrew`                | 432 |
+| `PietD`                 | 224 |
 | `科罗娜`                   | 154 |
 | `Lanorge`               | 103 |
 | `EDDG`                  | 88 |
-| `vand`                  | 82 |
+| `vand`                  | 84 |
 | `britiger`              | 80 |
 | `Peter Hutt`            | 41 |
 | `sib64`                 | 41 |
@@ -23,10 +23,10 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                   | 11 |
 | `Soe Min Htet`          | 11 |
 | `OSN`                   | 10 |
+| `Jens Erik Widén`       | 8 |
 | `Mickael H.`            | 8 |
 | `Slavi`                 | 8 |
 | `TEMU1086`              | 8 |
-| `Jens Erik Widén`       | 7 |
 | `Phillip Rohmberger`    | 7 |
 | `squawk7000`            | 7 |
 | `Gavin-D`               | 6 |

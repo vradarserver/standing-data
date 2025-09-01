@@ -7,9 +7,9 @@ Please note that credit files are updated less frequently than the data files.
 | Name                           | Contributions |
 | :--                            | --: |
 | `PietD`                        | 243 |
-| `科罗娜`                          | 66 |
+| `科罗娜`                          | 68 |
 | `EDDG`                         | 61 |
-| `vand`                         | 51 |
+| `vand`                         | 53 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 29 |
 | `Serge F4IPO`                  | 14 |
