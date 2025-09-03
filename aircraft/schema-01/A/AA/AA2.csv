@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA228D,N752MC,C30J,Lockheed Martin,C-130J Hercules,Lockheed Martin C-130J Hercules,0,Air Mobility Command,RCH,,
+AA25C2,N753FY,M700,Piper,M700 Fury,Piper M700 Fury,1,Private,,46020069,
 AA2607,N753JS,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,0,flyExclusive,JRE,525B-0100,2006
 AA276A,N753YX,E75L,Embraer,E175LR,Embraer E175LR,0,United Express,RPA,17000924,2022
 AA298C,N754GS,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C-0203,2015

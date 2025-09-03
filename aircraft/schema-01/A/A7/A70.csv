@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A70007,N550GF,GLF5,Gulfstream,G550,Gulfstream G550,0,Executive Jet Management,EJM,5284,2010
+A70092,N550MV,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5360,2009
 A70126,N550TT,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,1,Private,,550-1130,2006
 A701BB,N550ZS,C550,Cessna,550 Citation 2,Cessna 550 Citation 2,1,Private,,550-0279,1980
 A7037F,N551DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11523,2024

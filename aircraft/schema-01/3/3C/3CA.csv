@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3CA083,D-BHDC,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Aerodata,,55020158,2022
 3CA24F,D-BHRO,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020167,2022
+3CA4AE,D-BIEN,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Daimler Chrysler Aviation,DCS,421,2025
 3CA4C8,D-BIFH,E550,Embraer,Legacy 500,Embraer Legacy 500,0,VistaJet Germany,VJH,,
 3CA4CA,D-BIFJ,E550,Embraer,Legacy 500,Embraer Legacy 500,1,Private,,,
 3CA970,D-BJKP,E550,Embraer,Legacy 500,Embraer Legacy 500,0,Elite Jet Service,,55000003,2014

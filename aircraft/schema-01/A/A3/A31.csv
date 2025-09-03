@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A310BB,N297NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,2778,2006
+A31388,N298DL,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6519,2022
 A31472,N298NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,2800,2006
 A31483,N298PM,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,199,2021
 A316EF,N299AF,PC24,Pilatus,PC-24,Pilatus PC-24,0,Pilatus Flugzeugwerke,PCH,299,

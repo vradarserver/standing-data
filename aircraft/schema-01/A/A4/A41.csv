@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A41009,N361AF,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,PlaneSense,CNS,2361,2024
 A4101B,N361AZ,E195,Embraer,E195AR,Embraer E195AR,1,Private,,19000361,2010
+A4104D,N361CZ,GLF6,Gulfstream,G650,Gulfstream G650,0,Corporate Wings,,6109,2014
 A410D6,N361JL,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20944,2023
 A4112F,N361N,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,041,
 A41487,N362JE,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Jet Edge,EDG,20249,2001

@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A7E147,N607AG,B738,Boeing,737-86N,Boeing 737-86N,0,Nomadic Aviation,OMD,60689,2016
 A7E1A1,N607DX,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2269,
 A7E1CD,N607FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11195,2022
 A7E1D3,N607FX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet,LXJ,55020207,
@@ -12,6 +13,7 @@ A7E941,N609FX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet,LXJ,5502021
 A7E946,N609GB,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73091,2022
 A7E984,N609JP,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60128,2024
 A7EC24,N6098F,P28A,Piper,Pilot 100i,Piper Pilot 100i,0,American Flyers,,28020158,2023
+A7EC79,N61AV,GA6C,Gulfstream,G600,Gulfstream G600,0,AbbVie,,73160,2024
 A7ED23,N61HQ,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0161,2010
 A7EDAF,N61PE,BE20,Beech,B200 Super King Air,Beech B200 Super King Air,1,Private,,BB-1132,
 A7EE6F,N61WX,GLF6,Gulfstream,GVI (G650),Gulfstream GVI (G650),1,Private,,6070,

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A2101F,N232BZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Breeze Airways,MXY,55271,2024
 A2106B,N232F,GLF4,Gulfstream,IV,Gulfstream IV,0,Kaiser Air,KAI,1232,1993
+A210A3,N232HF,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9572,2013
 A21109,N232MH,B06,Bell,206L LongRanger,Bell 206L LongRanger,1,Private,,52195,1997
 A213BD,N233AZ,B763,Boeing,767-323(ER)(BDSF),Boeing 767-323(ER)(BDSF),0,Air Transport International,ATN,29430,1998
 A213D6,N233BZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Breeze Airways,MXY,55273,2024

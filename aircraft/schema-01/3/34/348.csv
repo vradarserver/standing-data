@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+348044,EC-OGB,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Gestair,GES,6567,2024
 348049,EC-OHG,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Swiftair,SWT,03964,2009
 34805A,EC-OET,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Mango Punto Fa,,70178,2023
 348084,EC-OGY,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Air Europa,AEA,43983,2019
@@ -12,6 +13,7 @@
 3481D5,EC-OJL,B772,Boeing,777-219(ER),Boeing 777-219(ER),0,Privilege Style,PVG,34377,2006
 348203,EC-OJF,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,06001,2014
 348204,EC-OJG,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,06093,2014
+348205,EC-OJH,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,06098,2014
 348206,EC-OKG,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,07725,2017
 348207,EC-OKH,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,07760,2017
 348208,EC-OKI,A320,Airbus,A320-232,Airbus A320-232,0,Vueling Airlines,VLG,07808,2017
@@ -23,3 +25,4 @@
 348342,EC-OND,A333,Airbus,A330-343,Airbus A330-343,0,World2Fly,WFL,1397,2013
 348343,EC-OLH,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,0,Global Jet Austria,GLJ,340,
 34838B,EC-OOC,A320,Airbus,A320-214,Airbus A320-214,0,Volotea,VOE,04347,2010
+3483C9,EC-OOL,A359,Airbus,A350-941,Airbus A350-941,0,Iberia Airlines,IBE,741,2025

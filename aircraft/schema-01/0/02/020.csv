@@ -14,6 +14,9 @@
 02019B,CN-RGW,B738,Boeing,737-8SH,Boeing 737-8SH,0,Royal Air Maroc,RAM,41350,2017
 02019C,CN-NMS,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Maroc,MAC,4649,2011
 02019D,CN-NMT,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Maroc,MAC,07080,2016
+02019F,CN-RHD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Royal Air Maroc,RAM,43350,2025
 0201A1,CN-RHC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Royal Air Maroc,RAM,66443,2025
+0201A2,CN-RHE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Royal Air Maroc,RAM,66444,2025
 0201A3,CN-RHA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Royal Air Maroc,RAM,64980,2021
 0201A4,CN-RHB,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Royal Air Maroc,RAM,64981,2021
+0201AC,CN-KAM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9612,2014
