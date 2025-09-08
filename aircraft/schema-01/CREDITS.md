@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,431 |
+| `Peter Hutt`             | 4,546 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 1,986 |
+| `科罗娜`                    | 2,014 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `Lanorge`                | 302 |
-| `BudBundi`               | 277 |
-| `andrw`                  | 222 |
-| `Ljubo`                  | 117 |
+| `BudBundi`               | 279 |
+| `andrw`                  | 225 |
+| `AH-1`                   | 131 |
+| `Ljubo`                  | 118 |
+| `vrsspotter73`           | 107 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `vrsspotter73`           | 102 |
-| `AH-1`                   | 97 |
 | `topoguido`              | 97 |
 | `Gprad`                  | 82 |
-| `britiger`               | 77 |
+| `britiger`               | 80 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -43,10 +43,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |
 | `ng_03`                  | 10 |
+| `sib64`                  | 10 |
 | `iu3ind`                 | 9 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
-| `sib64`                  | 9 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
 | `Kjella0226`             | 7 |
@@ -106,6 +106,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Phillip Rohmberger`     | 1 |
 | `pykman`                 | 1 |
 | `ranger15`               | 1 |
+| `redeshazer`             | 1 |
 | `Santi_levt`             | 1 |
 | `Skiprat`                | 1 |
 | `strnmn`                 | 1 |
