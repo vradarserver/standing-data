@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 271,177 |
-| `PietD`                        | 151,768 |
-| `vand`                         | 66,952 |
+| `dirkhh`                       | 273,806 |
+| `PietD`                        | 152,011 |
+| `vand`                         | 67,132 |
 | `科罗娜`                          | 29,828 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 19,432 |
-| `Lanorge`                      | 17,406 |
+| `sib64`                        | 19,475 |
+| `Lanorge`                      | 17,408 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -23,7 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Markus`                       | 7,842 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `McBridden`                    | 5,997 |
+| `McBridden`                    | 6,000 |
 | `aircraftenthusiast2000`       | 5,891 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -38,15 +38,15 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,283 |
-| `Gavin-D`                      | 2,263 |
+| `AH-1`                         | 2,285 |
+| `Gavin-D`                      | 2,264 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
 | `Halo/S`                       | 2,188 |
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `verbatim`                     | 1,853 |
+| `verbatim`                     | 1,854 |
 | `Rosen85`                      | 1,765 |
 | `DuoRadar`                     | 1,764 |
 | `BPfH`                         | 1,611 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,321 |
-| `Daniel.cornejo.campos`        | 1,262 |
+| `Daniel.cornejo.campos`        | 1,264 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,194 |
 | `laurent`                      | 1,136 |
@@ -101,6 +101,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
+| `Bokworks`                     | 526 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
@@ -122,8 +123,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
+| `gabo03`                       | 363 |
 | `Martin Salazar`               | 363 |
-| `gabo03`                       | 362 |
 | `kiwikieran`                   | 359 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
@@ -133,7 +134,6 @@ Please note that credit files are updated less frequently than the data files.
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
 | `Gregory G Harding`            | 297 |
-| `AviationTom`                  | 293 |
 | `usaimi`                       | 289 |
 | `Kanok`                        | 288 |
 | `alecu`                        | 276 |
@@ -211,7 +211,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
 | `mekkawi`                      | 106 |
-| `vrsspotter73`                 | 105 |
+| `vrsspotter73`                 | 106 |
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
 | `hangyong`                     | 100 |
@@ -734,6 +734,7 @@ Please note that credit files are updated less frequently than the data files.
 | `piper`                        | 3 |
 | `ponchort`                     | 3 |
 | `ptaszelot`                    | 3 |
+| `redesigned-train`             | 3 |
 | `Reid`                         | 3 |
 | `Rob Dale`                     | 3 |
 | `Robert Paris`                 | 3 |
@@ -1049,7 +1050,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Radistkz`                     | 1 |
 | `Rafael Meurer`                | 1 |
 | `ramonk`                       | 1 |
-| `redesigned-train`             | 1 |
 | `renato cano`                  | 1 |
 | `Rfoles`                       | 1 |
 | `RickBoatright`                | 1 |
