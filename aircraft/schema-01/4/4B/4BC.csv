@@ -52,8 +52,10 @@
 4BC8CB,TC-RFK,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12124,2024
 4BC8CC,TC-RFL,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12363,2025
 4BC8CD,TC-RFM,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12413,2025
+4BC8CE,TC-RFN,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12468,2025
 4BC8CF,TC-RFO,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12515,2025
 4BC8D2,TC-RFR,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12598,2025
+4BC8D3,TC-RFS,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Pegasus Airlines,PGT,12669,2025
 4BC9B3,TC-RMS,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Genel Havacilik,,9318,
 4BCA61,TC-RSA,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Redstar Aviation,RHH,5857,2010
 4BCA63,TC-RSC,LJ45,Learjet,45,Learjet 45,0,Redstar Aviation,RHH,45-432,2011
@@ -64,6 +66,7 @@
 4BCA68,TC-RSH,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Redstar Aviation,RHH,5726,
 4BCA69,TC-RSI,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Redstar Aviation,RHH,5732,
 4BCD63,TC-SKC,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9550,2013
+4BCD6F,TC-SKO,F2TH,Dassault,Falcon 2000LXS,Dassault Falcon 2000LXS,1,Private,,361,2019
 4BCDA1,TC-SMA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SunExpress,SXS,63603,2021
 4BCDA2,TC-SMB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SunExpress,SXS,63604,2021
 4BCDA4,TC-SMD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,SunExpress,SXS,63605,2021

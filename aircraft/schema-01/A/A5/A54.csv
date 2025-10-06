@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A540E3,N438AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,10641,2021
+A54137,N438DX,A339,Airbus,A330-941,Airbus A330-941,0,Delta Air Lines,DAL,2101,2025
 A5417E,N438GT,B744,Boeing,747-409F,Boeing 747-409F,0,Atlas Air,GTI,30766,2002
 A54202,N438N,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73053,
 A54294,N438TW,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Tradewind Aviation,GPD,2352,2024

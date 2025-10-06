@@ -2,6 +2,7 @@
 711100,HZ-FAR,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10652,2021
 711102,HZ-FAT,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10755,2022
 711105,HZ-FAS,A20N,Airbus,A320-251N,Airbus A320-251N,0,flyadeal,FAD,10702,2021
+71144C,HZ-35B,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,21073,
 71144D,HZ-35A,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,21068,
 711477,HZ-737A,B738,Boeing,737-8H4,Boeing 737-8H4,0,Aloula Aviation,,36919,2013
 7114DF,HZ-CLBM,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6203,2024
@@ -9,5 +10,6 @@
 71151A,HZ-SPAA,E545,Embraer,Praetor 500,Embraer Praetor 500,1,Private,,55010125,
 71151D,HZ-MD62,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Saudi Arabia - Government,,6562,2023
 71152A,HZ-MD6,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Saudi Arabia - Government,,6558,2023
+71152C,HZ-ATS,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60075,2022
 71158F,HZ-NS77,A20N,Airbus,A320-251N,Airbus A320-251N,0,Flynas,KNE,11582,2023
 711590,HZ-NS76,A20N,Airbus,A320-251N,Airbus A320-251N,0,Flynas,KNE,11539,2023

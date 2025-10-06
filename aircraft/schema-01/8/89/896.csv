@@ -61,6 +61,7 @@
 896615,A6-EFW,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68618,2024
 896616,A6-EFX,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68619,2025
 896617,A6-EFY,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68620,2025
+896618,A6-EFZ,B77L,Boeing,777-F,Boeing 777-F,0,Emirates,UAE,68621,2025
 89661E,A6-EXA,A359,Airbus,A350-941,Airbus A350-941,0,Emirates,UAE,684,2024
 89661F,A6-EXB,A359,Airbus,A350-941,Airbus A350-941,0,Emirates,UAE,690,2024
 896622,A6-EXE,A359,Airbus,A350-941,Airbus A350-941,0,Emirates,UAE,704,2025
@@ -82,6 +83,7 @@
 896665,A6-FQH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,60991,2025
 89666D,A6-FQL,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61021,2025
 896678,A6-AES,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Etihad Airways,ETD,10284,2021
+896687,A6-FPF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,60986,2025
 8966A1,A6-RJK,B737,Boeing,737-7HJ(BBJ),Boeing 737-7HJ(BBJ),0,Royal Jet,ROJ,36756,2007
 8966AF,A6-AQP,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,05990,2014
 8966B0,A6-AQQ,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,06072,2014
@@ -89,8 +91,11 @@
 8966C3,A6-BNH,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Etihad Airways,ETD,39678,2025
 8966C4,A6-BNI,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Etihad Airways,ETD,42368,2025
 8966C5,A6-BNJ,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Etihad Airways,ETD,42370,2025
+8966C7,A6-BNK,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Etihad Airways,ETD,42371,2025
+8966CA,A6-AFC,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9306,2008
 8966CE,A6-XWG,A35K,Airbus,A350-1041,Airbus A350-1041,0,Etihad Airways,ETD,717,2025
 8966CF,A6-XWH,A35K,Airbus,A350-1041,Airbus A350-1041,0,Etihad Airways,ETD,730,2025
+8966D0,A6-XWI,A35K,Airbus,A350-1041,Airbus A350-1041,0,Etihad Airways,ETD,736,2025
 8966DB,A6-AFO,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Falcon Aviation Services,FVS,14501147,2011
 896C5C,1214,C130,Lockheed,C-130H Hercules,Lockheed C-130H Hercules,0,United Arab Emirates Air Force,UAF,4882,
 896C6B,1350,CL60,Canadair,CL-600-2B16 Challenger 650,Canadair CL-600-2B16 Challenger 650,0,United Arab Emirates Air Force,UAF,6141,

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A7B074,N595EX,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Jet Edge,EDG,5179,2007
 A7B099,N595GJ,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Sky Quest,,6126,2018
+A7B40E,N596DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,12595,2025
 A7B53A,N596RT,S22T,Cirrus,SR-22T,Cirrus SR-22T,1,Private,,8541,2022
 A7B7BF,N597DM,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,17268041,1976
 A7BD19,N598WF,TBM7,Socata,TBM-700A,Socata TBM-700A,1,Private,,1442,

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ACD22C,N925QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,NetJets,EJA,680A0352,2023
 ACD47E,N926AK,B39M,Boeing,737 MAX 9,Boeing 737 MAX 9,0,Alaska Airlines,ASA,43314,2021
+ACD584,N926LX,P28A,Piper,Archer TX,Piper Archer TX,1,Private,,2881926,2025
 ACD5E3,N926QS,C68A,Cessna,680A Citation Latitude,Cessna 680A Citation Latitude,0,NetJets,EJA,680A0353,2023
 ACD85E,N927CA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,279,1993
 ACDB12,N9274C,SR20,Cirrus,SR-20,Cirrus SR-20,1,Private,,9274,2023

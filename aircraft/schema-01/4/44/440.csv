@@ -84,7 +84,7 @@
 4401C4,OE-DDB,DA40,Diamond,DA-40 Diamond Star,Diamond DA-40 Diamond Star,0,Urbe Aero,,40.N006,2010
 4401D1,OE-IND,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,7762,2017
 4401D2,OE-IYY,F900,Dassault,Falcon 900DX,Dassault Falcon 900DX,0,Salzburg Jet Aviation,MOZ,603,2005
-4401D4,OE-GTA,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Haute Aviation,HUE,50500631,2021
+4401D4,OE-GTA,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Haute Aviation,BOM,50500631,2021
 4401D9,OE-LQO,A319,Airbus,A319 111,Airbus A319 111,0,easyJet Europe,EJU,3754,2008
 4401DA,OE-LVK,A319,Airbus,A319-111,Airbus A319-111,0,easyJet Europe,EJU,02782,2006
 4401DC,OE-IZQ,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6877,2015
@@ -292,6 +292,7 @@
 440C85,OE-IAL,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,International Jet Management,IJM,409,2016
 440C87,OE-GCK,PC24,Pilatus,PC-24,Pilatus PC-24,0,Alpi Jets,,146,2022
 440C88,OE-IGP,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,0,Premium Jet,,9238,
+440C95,OE-LUX,GLF4,Gulfstream,G450,Gulfstream G450,0,Alpi Jets,ALX,4303,2013
 440C96,OE-ICJ,A320,Airbus,A320 214SL,Airbus A320 214SL,0,easyJet Europe,EJU,6047,2014
 440C9B,OE-GTR,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Porsche Air Service,,560-6324,2022
 440CA1,OE-ECO,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1080,

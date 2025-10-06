@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+ABA155,N849AN,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,American Airlines,AAL,66018,2025
 ABA1C9,N849FD,B77L,Boeing,777-F,Boeing 777-F,0,Federal Express,FDX,66259,2022
 ABA2B7,N849QS,C700,Cessna,700 Citation Longitude,Cessna 700 Citation Longitude,0,NetJets,EJA,700-0101,2023
 ABA306,N849TW,PC12,Pilatus,PC-12,Pilatus PC-12,0,Tradewind Aviation,GPD,1551,2015

@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A88394,N648GL,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60148,2024
 A883A4,N648HB,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,1,Private,,295,2023
+A883C9,N648JP,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6308,2017
 A88737,N649FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,12050,2024
 A88841,N649SG,PC24,Pilatus,PC-24,Pilatus PC-24,0,Pilatus Flugzeugwerke,PCH,573,2025
 A88AD4,N65EQ,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6227,2016

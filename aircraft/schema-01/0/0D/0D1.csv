@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 0D1005,XA-VUL,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,12032,2024
+0D101E,XA-ESE,GLF4,Gulfstream,G450,Gulfstream G450,0,Cosmopolitan Air Operations,,4236,2011
 0D106C,XA-AIK,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2233,2021
 0D1079,XA-VUN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Volaris,VOI,12202,2024
 0D107C,XA-OOK,GLEX,Bombardier,Global Express,Bombardier Global Express,0,FlyMex,,9106,2001

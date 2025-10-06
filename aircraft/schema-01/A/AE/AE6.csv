@@ -21,6 +21,7 @@ AE63C3,21-46087,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility 
 AE63C4,21-46088,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,,2023
 AE63C7,21-46091,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41852,2023
 AE63C8,21-46092,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,,2024
+AE63CF,22-46099,B762,Boeing,KC-46A Pegasus (767-2C),Boeing KC-46A Pegasus (767-2C),0,Air Mobility Command,RCH,41918,2024
 AE63D1,22-46101,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,Air Mobility Command,RCH,41922,2025
 AE640B,11-0059,V22,Bell Boeing,CV-22B Osprey,Bell Boeing CV-22B Osprey,0,United States Air Force,AIO,D1039,
 AE6481,19-21047,H60,Sikorsky,UH-60M Black Hawk,Sikorsky UH-60M Black Hawk,0,United States Army,,,
@@ -78,6 +79,7 @@ AE6854,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A
 AE6858,VARIOUS,P8,Boeing,P-8A Poseidon,Boeing P-8A Poseidon,0,United States Navy,CNV,,
 AE6863,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6867,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
+AE6869,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE686F,VARIOUS,P8,Boeing,P-8 Poseidon,Boeing P-8 Poseidon,0,United States Navy,CNV,,
 AE6872,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
 AE6877,VARIOUS,P8,Boeing,P-8A Poseidon (737-800A),Boeing P-8A Poseidon (737-800A),0,United States Navy,CNV,,
@@ -99,6 +101,7 @@ AE68AE,99-3106,D328,Dornier,C-146A Wolfhound,Dornier C-146A Wolfhound,0,Air Mobi
 AE6917,18-5919,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5919,
 AE6919,18-5921,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5921,
 AE6959,19-5927,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5927,2021
+AE695A,19-5928,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,Air Mobility Command,RCH,382-5928,
 AE695C,19-5934,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5934,
 AE695D,19-5936,C30J,Lockheed Martin,C-130J-30 Hercules,Lockheed Martin C-130J-30 Hercules,0,United States Air Force,AIO,382-5936,2019
 AE695F,19-5942,C130,Lockheed,C-130J-30 Hercules,Lockheed C-130J-30 Hercules,0,United States Air Force,AIO,5942,
@@ -127,4 +130,5 @@ AE6C1C,170280,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United 
 AE6CF1,20-1941,GLF5,Gulfstream,C-37B,Gulfstream C-37B,0,United States Air Force,AIO,5613,
 AE6CF2,20-1949,GLF5,Gulfstream,Aerospace C-37B,Gulfstream Aerospace C-37B,0,United States Air Force,AIO,5614,2022
 AE6D7A,20-5941,C30J,Lockheed,MC-130J Hercules,Lockheed MC-130J Hercules,0,United States Air Force,AIO,5941,
+AE6D7B,20-5943,C30J,Lockheed Martin,C-130J Super Hercules,Lockheed Martin C-130J Super Hercules,0,Air Mobility Command,RCH,,
 AE6D7D,19-5947,C30J,Lockheed Martin,HC-130J Combat King II,Lockheed Martin HC-130J Combat King II,0,Air Mobility Command,RCH,382-5947,

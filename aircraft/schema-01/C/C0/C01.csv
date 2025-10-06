@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 C01002,C-FGBP,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,1,Private,,20967,2023
+C01021,C-FGCU,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Chartright Air,HRT,21018,2024
 C01022,C-FGCV,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Chartright Air,HRT,20042,2005
 C01228,C-FGWT,A4,McDonnell Douglas,TA-4 Skyhawk,McDonnell Douglas TA-4 Skyhawk,0,Top Aces,,13499,1966
 C012A5,C-FHBO,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,32768,2005
@@ -11,6 +12,7 @@ C013D7,C-FHNI,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,,
 C013DA,C-FHNL,B737,Boeing,737-752,Boeing 737-752,0,Canadian North,AKT,28262,2004
 C013DC,C-FHNN,B737,Boeing,737-7CT,Boeing 737-7CT,0,Canadian North,AKT,35078,2007
 C013EF,C-FHOG,C206,Bernier,G-BAIR 6T Turbine Stationair,Bernier G-BAIR 6T Turbine Stationair,1,Private,,002,2002
+C0142D,C-FHQQ,DH8D,De Havilland Canada,Dash 8-400,De Havilland Canada Dash 8-400,0,De Havilland,DHC,4593,2019
 C0153B,C-FIBA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,WestJet,WJA,60552,2024
 C01590,C-GEXB,A321,Airbus,A321-211,Airbus A321-211,0,Air Transat,TSC,2599,2005
 C015B0,C-FIFN,B738,Boeing,737-8K5,Boeing 737-8K5,0,Sunwing Airlines,SWG,41660,2015

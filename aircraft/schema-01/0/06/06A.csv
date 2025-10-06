@@ -31,6 +31,7 @@
 06A1DC,A7-CHC,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87016,2024
 06A1DD,A7-CHD,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87025,2024
 06A1DE,A7-CHE,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87036,2024
+06A1F4,QA423,EUFI,Eurofighter,Typhoon FGR4,Eurofighter Typhoon FGR4,0,Qatar - Emiri Air Force,,MS020,
 06A209,ZR501,EUFI,Eurofighter,Typhoon T,Eurofighter Typhoon T,0,Qatar Emiri Air Force,,MT007,2022
 06A20A,QA401,EUFI,Eurofighter,2000,Eurofighter 2000,0,Qatar Emiri Air Force,,MT002,2022
 06A20B,QA402,EUFI,Eurofighter,Typhoon EF2000(T),Eurofighter Typhoon EF2000(T),0,Qatar - Air Force,,MT003,
@@ -61,6 +62,7 @@
 06A36D,A7-CHF,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87043,2025
 06A36E,A7-CHG,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87053,2024
 06A36F,A7-CHH,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87055,2024
+06A370,A7-CHI,GA7C,Gulfstream,G700,Gulfstream G700,0,Qatar Executive,QQE,87081,2025
 06A372,A7-BOA,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36159,2009
 06A373,A7-BOB,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36161,2009
 06A374,A7-BOC,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,36164,2010
@@ -69,9 +71,15 @@
 06A377,A7-BOF,B77W,Boeing,777-3ZG(ER),Boeing 777-3ZG(ER),0,Qatar Airways,QTR,37940,2009
 06A37C,A7-BOG,B77W,Boeing,777-3ZG(ER),Boeing 777-3ZG(ER),0,Qatar Airways,QTR,37943,2010
 06A380,A7-BSB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43317,2021
+06A381,A7-BSC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43329,2021
 06A383,A7-BBF,B77L,Boeing,777-2DZ(LR),Boeing 777-2DZ(LR),0,Qatar Airways,QTR,36018,2010
+06A387,A7-BSE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43342,2022
+06A389,A7-BSG,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,62878,2019
+06A38A,A7-BSH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43313,2019
 06A38C,A7-BOH,B77W,Boeing,777-367ER,Boeing 777-367ER,0,Qatar Airways,QTR,37896,2011
 06A38D,A7-BOI,B77W,Boeing,777-367(ER),Boeing 777-367(ER),0,Qatar Airways,QTR,39232,2011
 06A390,A7-BTA,B77L,Boeing,777-F,Boeing 777-F,0,Qatar Airways,QTR,68063,2023
 06A391,A7-BTB,B77L,Boeing,777-F,Boeing 777-F,0,Qatar Airways,QTR,68064,2024
 06A3B4,A7-BUA,B788,Boeing,787-8 Dreamliner,Boeing 787-8 Dreamliner,0,Oman Air,OMA,42378,2015
+06A3CF,A7-HWL,A320,Airbus,A320-214,Airbus A320-214,0,Qatar Amiri Flight,QAF,02165,2004
+06A3D5,A6-MSD,B772,Boeing,777-200LR,Boeing 777-200LR,0,Qatar Amiri Flight,QAF,,

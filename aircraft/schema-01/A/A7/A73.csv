@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A73009,N562TH,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9085,2001
+A7322A,N563BB,GLF5,Gulfstream,V,Gulfstream V,1,Private,,563,1998
 A732A2,N563FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20895,2021
 A73627,N564DX,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60124,2024
 A73659,N564FX,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Flexjet,LXJ,20869,
@@ -11,3 +12,4 @@ A73B19,N565SM,C82R,Cessna,R182 Skylane RG,Cessna R182 Skylane RG,1,Private,,,
 A73D4D,N566B,R66,Robinson,R66,Robinson R66,1,Private,,1237,2023
 A73E2F,N566LA,B763,Boeing,767-316(ER)(BCF),Boeing 767-316(ER)(BCF),0,LAN Cargo,LAE,40798,2011
 A73E71,N566NS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Nanshan Jet,NSJ,6180,2015
+A73E80,N566PG,GLF5,Gulfstream,V,Gulfstream V,1,Private,,534,1997

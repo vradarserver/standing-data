@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,546 |
+| `Peter Hutt`             | 4,713 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,014 |
+| `科罗娜`                    | 2,035 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `Lanorge`                | 302 |
+| `Lanorge`                | 319 |
 | `BudBundi`               | 279 |
-| `andrw`                  | 225 |
-| `AH-1`                   | 131 |
-| `Ljubo`                  | 118 |
-| `vrsspotter73`           | 107 |
+| `andrw`                  | 226 |
+| `AH-1`                   | 133 |
+| `Ljubo`                  | 128 |
+| `vrsspotter73`           | 111 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `topoguido`              | 97 |
 | `Gprad`                  | 82 |
-| `britiger`               | 80 |
+| `britiger`               | 81 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -49,14 +49,15 @@ Please note that credit files are updated less frequently than the data files.
 | `Luis Cova`              | 9 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
+| `AdriBrum`               | 7 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
-| `AdriBrum`               | 6 |
 | `darjes`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
+| `cyxs`                   | 4 |
 | `nm2588`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
@@ -70,6 +71,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
 | `Anton`                  | 2 |
+| `Av8Tor`                 | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
 | `GTR8000`                | 2 |

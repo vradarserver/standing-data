@@ -34,6 +34,7 @@
 4079E6,G-GPOT,A109,AgustaWestland,AW109SP Grand New,AgustaWestland AW109SP Grand New,0,Castle Air,,22259,2012
 4079F7,G-TTNN,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,10344,2020
 4079FA,G-BMGC,SWOR,Fairey,Swordfish Mk 1,Fairey Swordfish Mk 1,0,Fly Navy Heritage Trust,,W5856,1941
+407A2E,G-CMJO,PC9,Pilatus,PC-9A,Pilatus PC-9A,1,Private,,533,1990
 407A3F,G-GBNI,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,Titan Airways,AWC,10238,2020
 407A68,G-CMGU,G109,Grob,G109B,Grob G109B,0,Aerobility,,6525,1990
 407A9A,G-CLVG,VENT,Schempp-Hirth,Ventus 3T,Schempp-Hirth Ventus 3T,1,Private,,122TP,
@@ -86,6 +87,7 @@
 407BCF,G-NJAD,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,0,Netjets UK,NJU,41,2004
 407BDC,G-RUKB,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,44690,2014
 407BDD,G-CMJL,AT76,Aerospatiale ATR,72-600,Aerospatiale ATR 72-600,0,Emerald Airlines,EAI,1326,
+407BDE,G-CMFL,AT76,ATR,72-600,ATR 72-600,0,Emerald Airlines UK,EAG,1339,2016
 407BDF,G-WKTS,BE9L,Beech,90 King Air,Beech 90 King Air,0,DEA Aviation,WKT,LW-188,1976
 407BE0,G-BKSK,QIC2,Tri-Q,200 Quickie,Tri-Q 200 Quickie,1,Private,,PFA 094A-10765,1983
 407BE2,G-EILA,A333,Airbus,A330-302,Airbus A330-302,0,Aer Lingus UK,EUK,1106,2010
@@ -172,6 +174,7 @@
 407CBF,G-LNCC,A169,AgustaWestland,AW-169,AgustaWestland AW-169,0,Heli Service International,,69139,2021
 407CC0,G-CMDD,NNJA,Skyranger,Nynja 912S(1),Skyranger Nynja 912S(1),1,Private,,BMAA/HB/739,2021
 407CC4,G-LDGH,DA40,Diamond,DA40 NG,Diamond DA40 NG,0,Plane Rentals Ltd.,,40.N559,2021
+407CC7,G-SLPC,SLG4,Sling,TSi,Sling TSi,1,Private,,LAA 400A-15725,2024
 407CC9,G-HWPK,SLG4,Sling,4,Sling 4,1,Private,,LAA 400-15721,2022
 407CCB,G-UXLA,LJ40,Learjet,45,Learjet 45,0,SaxonAir,SXN,45-2018,2004
 407CCD,G-DDAD,R44,Robinson,R44,Robinson R44,0,Andrew's Whirlybirds,,30079,2021
@@ -341,6 +344,7 @@
 407E68,G-JZBU,B738,Boeing,737-85P,Boeing 737-85P,0,Jet2.com,EXS,35706,2008
 407E69,G-JZBW,B738,Boeing,737-85P,Boeing 737-85P,0,Jet2.com,EXS,35708,2008
 407E6A,G-NGSA,EXNG,Extra,NG,Extra NG,0,Addy Aviation LLP,,NG044,2022
+407E6D,G-CMKE,RV8,Van's,RV-8,Van's RV-8,1,Private,,83408,2018
 407E6E,G-REWS,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Quadano,,65188,2019
 407E6F,G-RNDX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Voluxis,VXS,55020165,2022
 407E71,G-JZBV,B738,Boeing,737-85P,Boeing 737-85P,0,Jet2.com,EXS,35707,2008

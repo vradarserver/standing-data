@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 485032,PH-DAS,C172,Reims,F172M Skyhawk,Reims F172M Skyhawk,1,Private,,F17200999,1973
 48509A,P4-HUA,A19N,Airbus,A319-153N(CJ),Airbus A319-153N(CJ),0,Sino Jet,SJM,10673,2021
+4850AA,P4-SCA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,245,2014
 4851AA,PH-TRE,BALL,Cameron,Z-150,Cameron Z-150,1,Private,,11909,2015
 485210,PH-KBC,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,15 SI 118,2015
 485228,,-GND,,Airport Ground Vehicle,Airport Ground Vehicle,0,,,,

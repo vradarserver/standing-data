@@ -6,14 +6,14 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 274,912 |
-| `PietD`                        | 152,499 |
-| `vand`                         | 67,287 |
+| `dirkhh`                       | 276,593 |
+| `PietD`                        | 152,884 |
+| `vand`                         | 67,620 |
 | `科罗娜`                          | 29,875 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 19,570 |
+| `sib64`                        | 19,591 |
 | `Lanorge`                      | 17,415 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
@@ -24,7 +24,7 @@ Please note that credit files are updated less frequently than the data files.
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,009 |
-| `aircraftenthusiast2000`       | 5,891 |
+| `aircraftenthusiast2000`       | 5,902 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
 | `elljay`                       | 4,631 |
@@ -38,8 +38,8 @@ Please note that credit files are updated less frequently than the data files.
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
-| `AH-1`                         | 2,287 |
-| `Gavin-D`                      | 2,264 |
+| `AH-1`                         | 2,288 |
+| `Gavin-D`                      | 2,265 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
 | `Halo/S`                       | 2,188 |
@@ -64,7 +64,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Dauren`                       | 1,321 |
 | `Daniel.cornejo.campos`        | 1,268 |
 | `Andrew`                       | 1,220 |
-| `Mark Taylor`                  | 1,194 |
+| `Mark Taylor`                  | 1,195 |
 | `laurent`                      | 1,136 |
 | `rwinterhoff`                  | 1,130 |
 | `pmaj`                         | 1,128 |
@@ -88,7 +88,7 @@ Please note that credit files are updated less frequently than the data files.
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
-| `Bokworks`                     | 658 |
+| `Bokworks`                     | 663 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
 | `D. M.`                        | 647 |
@@ -112,7 +112,7 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
 | `britiger`                     | 448 |
-| `Cristian Amaya`               | 437 |
+| `Cristian Amaya`               | 439 |
 | `squawk7000`                   | 431 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
@@ -122,8 +122,8 @@ Please note that credit files are updated less frequently than the data files.
 | `bugjargal`                    | 406 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
+| `gabo03`                       | 368 |
 | `Per Haakan Dahlback`          | 366 |
-| `gabo03`                       | 365 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
 | `RCN_BC`                       | 332 |

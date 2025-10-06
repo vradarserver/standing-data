@@ -62,6 +62,7 @@
 408091,G-KAVI,C182,Cessna,182T Skylane,Cessna 182T Skylane,1,Private,,18282112,2008
 408092,G-ZBLH,B78X,Boeing,787-10 Dreamliner,Boeing 787-10 Dreamliner,0,British Airways,BAW,60634,2024
 408095,G-EHAT,A169,Leonardo,AW169,Leonardo AW169,0,Gama Aviation,GMA,69167,
+408096,G-MSMK,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,1,Private,,LAA 411-15881,2023
 408098,G-VERO,PA46,Piper,PA-46-600TP M600,Piper PA-46-600TP M600,1,Private,,4698275,2023
 4080A2,G-VELJ,A35K,Airbus,A350-1041,Airbus A350-1041,0,Virgin Atlantic,VIR,655,2024
 4080A3,G-DMCF,JS3J,M&D Flugzeugbau,JS-MD 3,M&D Flugzeugbau JS-MD 3,1,Private,,3.MD226,2025
@@ -100,6 +101,7 @@
 4080E8,G-CMSY,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65507,2023
 4080E9,G-TNED,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12029,2024
 4080EA,G-TNEE,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12015,2024
+4080F1,G-ONEG,B77L,Boeing,777-F,Boeing 777-F,0,One Air,HGO,68454,2025
 4080F4,G-CMVE,NNJA,Best Off,SkyRanger Nynja,Best Off SkyRanger Nynja,1,Private,,383-24,2024
 4080F5,G-LUFC,B407,Bell,407GXi,Bell 407GXi,1,Private,,56370,2023
 4080F6,G-EJCL,A320,Airbus,A320-214,Airbus A320-214,0,easyJet,EZY,4861,2011
@@ -116,6 +118,7 @@
 408120,G-VEYR,A339,Airbus,A330-900,Airbus A330-900,0,Virgin Atlantic,VIR,2078,2024
 408121,G-VPIE,A339,Airbus,A330-941,Airbus A330-941,0,Virgin Atlantic,VIR,2077,2024
 408124,G-JZDH,B738,Boeing,737-8AL,Boeing 737-8AL,0,Jet2.com,EXS,62687,2016
+408126,G-CMVC,CH75,Zenair,CH-750 Cruzer,Zenair CH-750 Cruzer,1,Private,,LAA 381A-15887,2024
 408127,G-MACZ,B762,Boeing,767-25E(BDSF),Boeing 767-25E(BDSF),0,Maersk Air Cargo UK,MUK,27195,1994
 408129,G-CMWG,DA62,Diamond,DA 62,Diamond DA 62,1,Private,,62.279,
 40812C,G-CNLL,A169,Leonardo,AW169,Leonardo AW169,0,UK HEMS,HLE,69186,2024
@@ -124,6 +127,7 @@
 408133,G-LAKA,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60123,2024
 408134,G-TTSA,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12227,2024
 408137,G-SOVJ,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,0,SaxonAir,SXN,525-0526,2004
+408139,G-CMVV,RV9,Van's,RV-9,Van's RV-9,1,Private,,LAA 320-15423,2024
 40813E,G-CMUP,EFOX,Aeropro,Eurofox 2K,Aeropro Eurofox 2K,1,Private,,53718-1,2024
 408142,G-DHMC,B77L,Boeing,777-FZB,Boeing 777-FZB,0,DHL Air UK,DHK,37986,2010
 408143,G-DHMD,B77L,Boeing,777-FZB,Boeing 777-FZB,0,DHL Air UK,DHK,37987,2010
@@ -154,17 +158,20 @@
 408188,G-SPJT,C55B,Cessna,550 Citation Bravo,Cessna 550 Citation Bravo,0,SpireJet,,550-1078,2004
 40818A,G-TBEZ,G2CA,Guimbal,Cabri G2,Guimbal Cabri G2,0,Bez Aviation,,1370,2024
 40818F,G-CMVT,EFOX,Aeropro,Eurofox 3K,Aeropro Eurofox 3K,1,Private,,71324,2024
+408191,G-DBLU,A139,Leonardo,AW139,Leonardo AW139,0,Flexjet Europe,FLJ,32078,2024
 408194,G-POWX,E190,Embraer,E190LR,Embraer E190LR,0,Titan Airways,AWC,19000543,2012
 408197,G-TESJ,DA40,Diamond,DA40 D Diamond Star,Diamond DA40 D Diamond Star,1,Private,,D4.310,2007
 408198,G-TESN,DA42,Diamond,DA 42,Diamond DA 42,1,Private,,42.334,
 40819C,G-PDDY,R66,Robinson,R66 Turbine,Robinson R66 Turbine,1,Private,,1461,
 40819E,G-PEEP,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,389-25,2024
+4081A1,G-TTSB,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12416,2025
 4081A3,G-TTSC,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12441,2025
 4081A4,G-KFCW,NNJA,Skyranger,Ninja,Skyranger Ninja,0,Kemble Flying Club,,399-27,2024
 4081A5,G-RFTW,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Jet Concierge Club,JCO,6134,2019
 4081A9,G-HLYH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12295,2024
 4081AA,G-HLYI,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12161,2024
 4081B2,G-CMXV,AP32,Aeroprakt,A32 Vixxen,Aeroprakt A32 Vixxen,1,Private,,A32310,2024
+4081B4,G-IGRT,TL20,TL Ultralight,Sting S4,TL Ultralight Sting S4,1,Private,,25 ST 513,2025
 4081BA,G-PCTF,PC24,Pilatus,PC-24,Pilatus PC-24,0,Oriens Flight Operations,,570,2025
 4081BB,G-TNEF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12481,2025
 4081BC,G-TNEG,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12484,2025
@@ -173,6 +180,7 @@
 4081BF,G-TTSF,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12535,2025
 4081C0,G-TTSE,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12483,2025
 4081C5,G-MGKG,A109,Leonardo,AW109SP GrandNew,Leonardo AW109SP GrandNew,1,Private,,22468,2024
+4081CA,G-CMYA,J400,Jihlavan,Skyleader 400,Jihlavan Skyleader 400,1,Private,,4 347 395 D,2024
 4081CF,G-XLRA,A21N,Airbus,A321-271NY(XLR),Airbus A321-271NY(XLR),0,Wizz Air UK,WUK,11631,2025
 4081D6,G-OJDG,R44,Robinson,R44 Raven II,Robinson R44 Raven II,1,Private,,14797,2024
 4081D7,G-XLRB,A21N,Airbus,A321-271NY(XLR),Airbus A321-271NY(XLR),0,Wizz Air UK,WUK,12437,2025
@@ -181,18 +189,22 @@
 4081ED,G-MRRL,A109,AgustaWestland,AW109SP GrandNew,AgustaWestland AW109SP GrandNew,0,GB Helicopters,,22300,2013
 4081FA,G-XXEE,A139,AgustaWestland,AW139,AgustaWestland AW139,0,United Kingdom Royal VIP Flight,KRH,32082,2024
 4081FB,G-XXEF,A139,AgustaWestland,AW139,AgustaWestland AW139,0,The King's Helicopter Flight,,32083,2025
+4081FC,G-DWGI,A139,Leonardo,AW139,Leonardo AW139,0,Executive Jet Charter,EXJ,32097,2024
 408202,G-CMZI,E190,Embraer,E190STD,Embraer E190STD,0,Eastern Airways,EZE,19000661,2014
 40820A,G-KLCK,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,0,SkyHook,,9660,2024
 40820E,G-SUNP,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12599,2025
+40820F,G-SUNR,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12641,2025
 408210,G-SUNS,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12646,2025
 408213,G-HLYJ,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12355,2025
 408219,G-MCSW,P51,North American Aviation,P-51D Mustang,North American Aviation P-51D Mustang,0,Warbird Experiences,,122-40196,1944
 40821B,G-LYNJ,B407,Bell,407GXi,Bell 407GXi,1,Private,,56428,2024
 408223,G-VJTA,C56X,Cessna,Citation XLS+,Cessna Citation XLS+,0,SaxonAir,SXN,560-6165,2014
 408227,G-TNEH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12648,2025
+40822D,G-TTSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12735,2025
 408230,G-ECHL,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9819,2024
 408238,G-KALE,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.313,2025
 408239,G-EPEE,J400,Jihlaven,Skyleader 400,Jihlaven Skyleader 400,1,Private,,4 356 400 D,2024
+40823A,G-CMZA,AC11,Rockwell,Commander 114B,Rockwell Commander 114B,1,Private,,14635,1995
 40823C,G-HLYK,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12529,2025
 40823D,G-HLYL,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12553,2025
 40823F,G-HLYM,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12667,2025
@@ -205,16 +217,23 @@
 40825C,G-ULIT,B739,Boeing,737-8 MAX,Boeing 737-8 MAX,0,Ascend Airways,SYG,43001,2018
 40825D,G-CRUX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,44863,2018
 40825F,G-SUNU,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12720,2025
+408260,G-SUNV,A21N,Airbus,321-251NX,Airbus 321-251NX,0,Jet2.com,EXS,12730,2025
 408263,G-SPYZ,R66,Robinson,R66 Turbine,Robinson R66 Turbine,1,Private,,1448,2025
 40826A,G-LESO,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,64606,2018
 40826B,G-GSTN,EC30,Eurocopter,EC130 T2,Eurocopter EC130 T2,0,GB Helicopters,,9692,2024
 40826E,G-XXLB,B407,Bell,407GXi,Bell 407GXi,0,Seafresh Group,,56434,2025
 408271,G-MDYG,DA40,Diamond,DA40 NG Diamond Star,Diamond DA40 NG Diamond Star,1,Private,,40.N406,2019
 408281,G-ISLP,AT76,ATR,72-600,ATR 72-600,0,Blue Islands,BCI,1176,2014
+408284,G-SYLA,BE20,Beech,B200 Super King Air,Beech B200 Super King Air,0,2Excel Aviation,BRO,BB-1840,2003
+408297,G-CMYU,ULAC,Exodus,DeltaJet 500 StingRay,Exodus DeltaJet 500 StingRay,1,Private,,EA 031,2025
 408298,G-MULR,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,62093,2017
 40829A,G-YSSS,PC24,Pilatus,PC-24,Pilatus PC-24,0,TAG Aviation UK,VIP,333,2023
 4082A3,G-EJMX,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,1,Private,,65609,2025
 4082A8,G-CMYZ,GYRO,Europa,Calidus 916 iS,Europa Calidus 916 iS,1,Private,,C00583,
 4082AD,G-CMYL,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,1152,2025
 4082AF,G-CMYJ,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,1151,2025
+4082B2,G-NOLA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,43302,2018
+4082BC,G-VNOR,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,London Executive Aviation,LNX,6073,2016
 4082BD,G-NIKA,C525,Cessna,CitationJet,Cessna CitationJet,1,Private,,525-1040,2019
+4082E9,G-HOOF,BE20,Beech,King Air 250,Beech King Air 250,1,Private,,BY-353,2019
+4082F5,G-ZEAC,DA62,Diamond,DA62,Diamond DA62,0,2Excel Aviation,BRO,62.300,2024

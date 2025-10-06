@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A00038,N1CD,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5508,2015
 A00078,N1ET,TBM9,Daher,TBM-960,Daher TBM-960,1,Private,,1516,
+A00088,N1FJ,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2281,2024
 A000B8,N1HG,GLF4,Gulfstream,G400,Gulfstream G400,1,Private,,1534,2004
 A0017C,N1RC,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20937,2022
 A0030A,N10H,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5410,2012
