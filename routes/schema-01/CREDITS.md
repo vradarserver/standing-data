@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 293,826 |
-| `PietD`                        | 154,335 |
+| `dirkhh`                       | 302,284 |
+| `PietD`                        | 154,786 |
 | `vand`                         | 67,921 |
-| `科罗娜`                          | 31,271 |
+| `科罗娜`                          | 32,020 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,077 |
-| `Lanorge`                      | 17,882 |
+| `sib64`                        | 20,223 |
+| `Lanorge`                      | 17,994 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,384 |
-| `Markus`                       | 8,038 |
+| `Markus`                       | 8,222 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,156 |
+| `aircraftenthusiast2000`       | 6,255 |
 | `McBridden`                    | 6,009 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -37,8 +37,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
-| `Gavin-D`                      | 2,395 |
+| `Gavin-D`                      | 2,404 |
 | `smartcoda`                    | 2,389 |
+| `Bokworks`                     | 2,291 |
 | `AH-1`                         | 2,288 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
@@ -46,7 +47,6 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `Bokworks`                     | 1,967 |
 | `verbatim`                     | 1,854 |
 | `Rosen85`                      | 1,765 |
 | `DuoRadar`                     | 1,764 |
@@ -83,7 +83,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 771 |
-| `wogman`                       | 752 |
+| `wogman`                       | 753 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
@@ -104,7 +104,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
-| `kirkmayers`                   | 492 |
+| `kirkmayers`                   | 496 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
 | `shisha34`                     | 472 |
@@ -120,9 +120,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Rennan`                       | 408 |
 | `Joaquin`                      | 407 |
 | `bugjargal`                    | 406 |
+| `gabo03`                       | 400 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
-| `gabo03`                       | 392 |
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
@@ -130,10 +130,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
+| `Jayant Shah`                  | 315 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
-| `Jayant Shah`                  | 303 |
 | `Gregory G Harding`            | 297 |
 | `usaimi`                       | 289 |
 | `Kanok`                        | 288 |
@@ -185,8 +185,8 @@ Please note that credit files are updated less frequently than the data files.
 | `dc10`                         | 145 |
 | `jose fernandes`               | 145 |
 | `aircraftenthusiast20`         | 143 |
+| `Ljubo`                        | 143 |
 | `msunz`                        | 141 |
-| `Ljubo`                        | 140 |
 | `YO5CRQ`                       | 138 |
 | `skyhawk`                      | 137 |
 | `cdurand`                      | 136 |
@@ -207,7 +207,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 114 |
-| `vrsspotter73`                 | 111 |
+| `vrsspotter73`                 | 113 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
