@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 302,284 |
-| `PietD`                        | 154,786 |
+| `dirkhh`                       | 305,627 |
+| `PietD`                        | 155,031 |
 | `vand`                         | 67,921 |
-| `科罗娜`                          | 32,020 |
+| `科罗娜`                          | 32,200 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,223 |
-| `Lanorge`                      | 17,994 |
+| `sib64`                        | 20,344 |
+| `Lanorge`                      | 18,075 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,384 |
-| `Markus`                       | 8,222 |
+| `Markus`                       | 8,329 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,255 |
+| `aircraftenthusiast2000`       | 6,280 |
 | `McBridden`                    | 6,009 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -36,10 +36,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Thomas S.`                    | 3,040 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
+| `Gavin-D`                      | 2,407 |
 | `chipcunk`                     | 2,406 |
-| `Gavin-D`                      | 2,404 |
 | `smartcoda`                    | 2,389 |
-| `Bokworks`                     | 2,291 |
+| `Bokworks`                     | 2,326 |
 | `AH-1`                         | 2,288 |
 | `untt`                         | 2,248 |
 | `EGPD1701`                     | 2,240 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,325 |
-| `Daniel.cornejo.campos`        | 1,277 |
+| `Daniel.cornejo.campos`        | 1,278 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,196 |
 | `laurent`                      | 1,136 |
@@ -104,10 +104,11 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
-| `kirkmayers`                   | 496 |
+| `kirkmayers`                   | 498 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
 | `shisha34`                     | 472 |
+| `gabo03`                       | 467 |
 | `gandym`                       | 459 |
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
@@ -120,7 +121,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Rennan`                       | 408 |
 | `Joaquin`                      | 407 |
 | `bugjargal`                    | 406 |
-| `gabo03`                       | 400 |
 | `Avioradar.com`                | 396 |
 | `trabin`                       | 393 |
 | `Per Haakan Dahlback`          | 366 |
@@ -130,7 +130,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
-| `Jayant Shah`                  | 315 |
+| `Jayant Shah`                  | 316 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
@@ -205,9 +205,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Kenneth`                      | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
+| `vrsspotter73`                 | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 114 |
-| `vrsspotter73`                 | 113 |
 | `Dastin`                       | 108 |
 | `nolatron`                     | 107 |
 | `RUS`                          | 107 |
