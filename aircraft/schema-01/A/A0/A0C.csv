@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A0C081,N148B,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6020,2012
+A0C914,N15NT,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Northern Jet Management,NJM,20909,2022
 A0C91A,N15NZ,GA5C,Gulfstream,G500,Gulfstream G500,0,Solairus Aviation,TWY,72091,2021
 A0C954,N15RG,SF50,Cirrus,G2 Vision Jet,Cirrus G2 Vision Jet,1,Private,,0277,2021
 A0CA65,N150CD,SR22,Cirrus,SR-22,Cirrus SR-22,1,Private,,8992,2022

@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A170D9,N192NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,6787,2015
+A17108,N192QS,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,NetJets,EJA,70230,2025
 A1725F,N1923E,GA6C,Gulfstream,G600,Gulfstream G600,0,Ecolab,,73154,2024
 A172C5,N1926B,A321,Airbus,A321-231,Airbus A321-231,1,Private,,1926,2003
 A17490,N193NV,A320,Airbus,A320-214,Airbus A320-214,0,Allegiant Air,AAY,6835,2015

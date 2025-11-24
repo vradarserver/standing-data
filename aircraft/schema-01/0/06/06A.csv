@@ -5,6 +5,7 @@
 06A111,A7-AOC,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,440,2022
 06A112,A7-AOD,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,444,2022
 06A113,A7-AOE,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,733,2025
+06A115,A7-AOG,A35K,Airbus,A350-1041,Airbus A350-1041,0,Qatar Airways,QTR,751,2025
 06A133,A7-CEI,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Qatar Executive,QQE,9581,2013
 06A1C6,A7-CGA,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Qatar Executive,QQE,6153,2014
 06A1C7,A7-CGB,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Qatar Executive,QQE,6167,2015
@@ -56,6 +57,7 @@
 06A2F8,A7-BHU,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Qatar Airways,QTR,64230,2025
 06A2F9,A7-BHV,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Qatar Airways,QTR,64231,2025
 06A2FA,A7-BHW,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Qatar Airways,QTR,64232,2025
+06A2FB,A7-BHX,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Qatar Airways,QTR,64233,2025
 06A30D,A7-BFZ,B77L,Boeing,777-F,Boeing 777-F,0,Qatar Airways,QTR,66872,2021
 06A364,A7-ACS,A332,Airbus,A330-202,Airbus A330-202,0,Qatar Airways,QTR,760,2006
 06A36C,A7-ACT,A332,Airbus,A330-202,Airbus A330-202,0,Qatar Airways,QTR,820,2007
@@ -70,6 +72,7 @@
 06A376,A7-BOE,B77W,Boeing,777-3ZG(ER),Boeing 777-3ZG(ER),0,Qatar Airways,QTR,37939,2009
 06A377,A7-BOF,B77W,Boeing,777-3ZG(ER),Boeing 777-3ZG(ER),0,Qatar Airways,QTR,37940,2009
 06A37C,A7-BOG,B77W,Boeing,777-3ZG(ER),Boeing 777-3ZG(ER),0,Qatar Airways,QTR,37943,2010
+06A37F,A7-BSA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43316,2019
 06A380,A7-BSB,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43317,2021
 06A381,A7-BSC,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Qatar Airways,QTR,43329,2021
 06A383,A7-BBF,B77L,Boeing,777-2DZ(LR),Boeing 777-2DZ(LR),0,Qatar Airways,QTR,36018,2010

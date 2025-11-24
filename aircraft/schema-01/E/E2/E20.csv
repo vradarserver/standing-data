@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E2001D,E-502,G12T,Grob,G-120TP,Grob G-120TP,0,Argentine Air Force,FAG,11021,2013
+E2002F,GN-807,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,0,Gendarmería Nacional Argentina,,994,2014
 E20062,LV-S046,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,,2017
 E2006E,LV-S055,SIRA,Tecnam,P-2002 Sierra,Tecnam P-2002 Sierra,1,Private,,539,2018
 E20093,AE-314,B06,Bell,206B JetRanger,Bell 206B JetRanger,0,Ejército Argentino,,4464,
@@ -21,3 +22,4 @@ E200F5,LV-S161,ECHO,Tecnam,P-92 Echo II,Tecnam P-92 Echo II,1,Private,,,
 E200F6,LV-S160,ECHO,Tecnam,P92 Mk II,Tecnam P92 Mk II,0,Hangar 09,,,2024
 E200F9,A-128,TUCA,Embraer,EMB-312 Tucano,Embraer EMB-312 Tucano,0,Argentine Air Force,FAG,312366,
 E200FA,LV-X946,RV10,Van'S,RV-10,Van'S RV-10,1,Private,,,
+E2010E,T-94,E135,Embraer,ERJ-140LR,Embraer ERJ-140LR,0,Fuerza Aérea Argentina,,145634,2002

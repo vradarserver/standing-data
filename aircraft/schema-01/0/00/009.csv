@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 009015,ZS-MIN,BE20,Beechcraft,King Air B200,Beechcraft King Air B200,1,Private,,BB941,1981
 00904D,ZS-KGW,BE20,Beech,200 Super King,Beech 200 Super King,1,Private,,,
+00909B,ZS-BEV,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2246,
 009125,ZS-MFJ,BE58,Beechcraft,Beech 58 Baron,Beechcraft Beech 58 Baron,1,Private,,TH-817,
 0092E6,ZS-YDE,E195,Embraer,ERJ-195AR,Embraer ERJ-195AR,0,Airlink,LNK,88,2007
 0092ED,ZS-NIU,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,0,South Africa - Police,,897,
@@ -15,5 +16,6 @@
 0099EA,ZS-JUN,F2TH,Dassault,Falcon 2000LX,Dassault Falcon 2000LX,1,Private,,276,2011
 009A53,ZS-SZA,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,7213,2016
 009AD8,ZS-SZF,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,7262,2016
+009BB9,ZS-KMI,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,0,Federal Air,FDR,208B5743,
 009D4A,ZS-SZB,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,5680,2013
 009E06,ZS-SGZ,A320,Airbus,A320-232(WL),Airbus A320-232(WL),0,South African Airways,SAA,7988,2017

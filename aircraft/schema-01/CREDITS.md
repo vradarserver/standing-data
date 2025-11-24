@@ -6,23 +6,23 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,713 |
+| `Peter Hutt`             | 4,850 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,035 |
+| `科罗娜`                    | 2,082 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
+| `Lanorge`                | 344 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `Lanorge`                | 319 |
 | `BudBundi`               | 279 |
-| `andrw`                  | 226 |
+| `andrw`                  | 228 |
 | `AH-1`                   | 133 |
 | `Ljubo`                  | 128 |
-| `vrsspotter73`           | 111 |
+| `vrsspotter73`           | 122 |
+| `topoguido`              | 108 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `topoguido`              | 97 |
 | `Gprad`                  | 82 |
 | `britiger`               | 81 |
 | `Rebelvenice2`           | 57 |
@@ -31,7 +31,7 @@ Please note that credit files are updated less frequently than the data files.
 | `deedeecee`              | 40 |
 | `dziban molniya`         | 30 |
 | `Jayant Shah`            | 29 |
-| `wogman`                 | 28 |
+| `wogman`                 | 29 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Gavin-D`                | 23 |
@@ -61,6 +61,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nm2588`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
+| `gabo03`                 | 3 |
 | `Manny`                  | 3 |
 | `Marc A. Mapplebeck`     | 3 |
 | `Matt Coughran`          | 3 |
@@ -74,11 +75,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Av8Tor`                 | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
+| `feimau`                 | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
 | `nik`                    | 2 |
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
+| `Romain`                 | 2 |
 | `ryanthomp`              | 2 |
 | `UA4WIY`                 | 2 |
 | `xv2b`                   | 2 |
@@ -97,7 +100,6 @@ Please note that credit files are updated less frequently than the data files.
 | `EGPD1701`               | 1 |
 | `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
-| `gabo03`                 | 1 |
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
 | `k6vh`                   | 1 |

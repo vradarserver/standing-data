@@ -1,5 +1,6 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 VLAP,Attopeu Airport,VLAP,AOU,Attopeu,LA,14.814715,106.821699,344
+VLBK,Bokeo International Airport,VLBK,BOR,Bokeo Province,LA,20.323889,100.165556,1175
 VLFL,Boun Neau Airport,VLFL,PCQ,Phongsaly,LA,21.647500,101.900000,50
 VLLB,Luang Phabang International Airport,VLLB,LPQ,Luang Phabang,LA,19.897301,102.161003,955
 VLLN,Luang Namtha Airport,VLLN,LXG,Luang Namtha,LA,20.966999,101.400002,1968

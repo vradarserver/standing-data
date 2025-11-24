@@ -32,6 +32,7 @@
 4D2039,9H-EINE,GL7T,Bombardier,Global Express 7500,Bombardier Global Express 7500,0,Sparfell Luftfahrt,LDX,70187,2024
 4D203A,9H-HFL,A332,Airbus,A330-223,Airbus A330-223,0,Hi Fly Malta,HFM,1002,2009
 4D203B,9H-ISM,B738,Boeing,737-8BK,Boeing 737-8BK,0,Blue Bird Airways,BBG,33022,2024
+4D203F,9H-MRT,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20508,
 4D2040,9H-VFR,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,0,Vistajet,VJT,5779,2008
 4D2043,9H-TIA,B734,Boeing,737-430,Boeing 737-430,0,Air Horizont,HAT,27007,2024
 4D2048,9H-DKK,C501,Cessna,Citation I/SP,Cessna Citation I/SP,0,Business Air,,501-0107,1979
@@ -64,7 +65,9 @@
 4D20A9,9H-MSMS,GA5C,Gulfstream,G500,Gulfstream G500,0,TAG Aviation Malta,TEU,72154,2024
 4D20B1,9H-WMG,A21N,Airbus,A-321neo,Airbus A-321neo,0,Wizz Air Malta,WMT,12639,2025
 4D20B5,9H-SFJ,C68A,Cessna,Citation Latitude,Cessna Citation Latitude,0,AstonJet,ASJ,680A-0099,
+4D20BF,9H-WMK,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Wizz Air Malta,WMT,12788,2025
 4D20C6,9H-PEB,A21N,Airbus,A321-251N,Airbus A321-251N,0,PLAY Europe,FPE,07939,2018
+4D20DC,9H-XLB,A21N,Airbus,A321-271NY(XLR),Airbus A321-271NY(XLR),0,Wizz Air Malta,WMT,12501,2025
 4D2115,9H-MIR,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,0,HiFly Malta,HFM,5368,1998
 4D2136,9H-FCA,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Albinati Aviation,ULC,9665,2014
 4D2147,9H-IBD,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Elitavia Malta,EAU,9401,2010
@@ -160,7 +163,7 @@
 4D2357,9H-GTS,A320,Airbus,A320-232,Airbus A320-232,0,Airhub Airlines,GJM,04384,2010
 4D2358,9H-GRS,F900,Dassault,Falcon 900,Dassault Falcon 900,0,Harmony Jets,HMJ,78,
 4D2359,9H-ELF,B737,Boeing,737-7BC (BBJ),Boeing 737-7BC (BBJ),0,Air X Charter,AXY,30330,1999
-4D235A,9H-AMU,A320,Airbus,A320-232,Airbus A320-232,0,Eurowings,EWG,4174,2009
+4D235A,9H-AMU,A320,Airbus,A320-232,Airbus A320-232,0,Avion Express Malta,MLH,4174,2009
 4D235B,9H-VIG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Vistajet,VJT,70086,
 4D235C,9H-VIH,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,Vistajet,VJT,70087,
 4D235D,9H-XOA,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Vistajet,VJT,560-5615,

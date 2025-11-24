@@ -52,6 +52,7 @@
 7803C8,B-8027,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,063,2009
 7803E6,B-6096,A333,Airbus,A330 343E,Airbus A330 343E,0,China Eastern Airlines,CES,862,2007
 780408,B-5345,B738,Boeing,737NG 86N/W,Boeing 737NG 86N/W,0,Ruili Airlines,RLH,35215,2007
+78044E,B-6115,A332,Airbus,A330-243(P2F),Airbus A330-243(P2F),0,Air China Cargo,CAO,909,2008
 780450,B-6113,A332,Airbus,A330-243(P2F),Airbus A330-243(P2F),0,Air China Cargo,CAO,890,2007
 78046D,B-6112,A333,Airbus,A330-343(P2F),Airbus A330-343(P2F),0,Sichuan Airlines,CSC,937,2008
 7804C6,B-2071,B77L,Boeing,777 F1B,Boeing 777 F1B,0,China Southern Cargo,CSN,37309,2009
@@ -152,6 +153,7 @@
 780968,B-8319,A319,Airbus,ACJ319 115,Airbus ACJ319 115,0,Beijing Airlines,BJN,4956,2011
 780974,B-8208,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,0,Amber Aviation,TCI,267,2012
 780979,B-8259,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5357,2011
+7809C2,B-5731,B738,Boeing,737NG 89P/W,Boeing 737NG 89P/W,0,Ruili Airlines,RLH,40951,2013
 7809C5,B-8261,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Deer Jet Beijing,BDJ,5364,2012
 7809CD,B-7765,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,ZYB Lily Jet,MZT,9713,2015
 7809D4,B-8202,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Deer Jet Beijing,BDJ,159,2011
@@ -174,6 +176,7 @@
 780B27,B-8105,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Business Aviation Asia,UNA,9510,2012
 780B28,B-8197,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Business Aviation Asia,UNA,9473,2011
 780B2A,B-8271,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Nanshan Jet,NSJ,4271,2011
+780B2C,B-5839,B738,Boeing,737NG 89P/W,Boeing 737NG 89P/W,0,Ruili Airlines,RLH,40952,2013
 780B3D,B-3361,CRJ9,Bombardier,CRJ 900 LR NG,Bombardier CRJ 900 LR NG,0,China Express Airlines,HXA,15290,2013
 780B3F,B-5790,B738,Boeing,737-85C,Boeing 737-85C,0,Hebei Airlines,HBH,38402,2013
 780B58,B-8290,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Brilliant Jet,TXJ,4264,2011

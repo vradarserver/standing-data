@@ -96,6 +96,7 @@
 424B23,M-ABCD,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,0,Hampshire Aviation Ltd,,4103,2007
 424B58,M-WAFA,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
 424B7C,M-LDYS,EC45,Airbus Helicopters-Kawasaki,H145,Airbus Helicopters-Kawasaki H145,0,Swift Copters,WFC,21223,2023
+424B86,M-SPEK,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,SSZ,FL-1353,2025
 424B9B,M-DVJJ,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6439,2020
 424BA5,M-LILY,A318,Airbus,A318-112(CJ) Elite,Airbus A318-112(CJ) Elite,0,ZYB Lily Jet,MZT,3100,2007
 424BAC,M-ATTS,EC55,Airbus Helicopters,EC-155B1,Airbus Helicopters EC-155B1,0,HeliGroup,,6890,2010
@@ -178,6 +179,7 @@
 424C5B,M-JSDT,GLEX,Bombardier,Global 6500,Bombardier Global 6500,1,Private,,60129,2024
 424C5C,M-SPEC,B350,Beech,King Air 360,Beech King Air 360,0,Specsavers Aviation,SSZ,FL-1331,2024
 424C5D,M-LUBB,C525,Cessna,525 CitationJet,Cessna 525 CitationJet,1,Private,,525-0271,1998
+424C5E,M-ANFR,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6140,2015
 424C60,M-ARNZ,PC24,Pilatus,PC-24,Pilatus PC-24,0,BAE Systems,BAE,521,2024
 424C62,M-BIZZ,GLF6,Gulfstream,650ER,Gulfstream 650ER,0,Jet Concierge Club,JCO,6571,2024
 424C64,M-ABSX,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,1,Private,,6134,2018
@@ -194,6 +196,7 @@
 424C7C,M-LJGI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,179,2012
 424C7E,M-BIGG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70202,2024
 424C81,M-ZPGJ,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0144,2013
+424C82,M-TATI,E135,Embraer,ERJ-135ER,Embraer ERJ-135ER,1,Private,,145376,2001
 424C84,M-TENG,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,0,Jet Pro,,018,2024
 424C87,M-CELT,GL5T,Bombardier,Global 5500,Bombardier Global 5500,0,Jet Concierge Club,JCO,60151,2024
 424C8C,M-ABSU,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21052,2025
@@ -205,3 +208,4 @@
 424C98,M-ABTE,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21056,2025
 424C9B,M-APLE,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9851,2018
 424C9D,M-ASBA,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21061,2025
+424CA5,M-GIPH,FA10,Dassault,Falcon 10,Dassault Falcon 10,0,Regourd Aviation,,194,1982

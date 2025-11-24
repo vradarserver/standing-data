@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 400210,VP-CAH,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70167,2023
+400215,VP-CMS,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5453,2013
 400219,VP-CXO,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6261,
 40021B,VP-CDJ,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,148,
 400220,VP-CSM,A20N,Airbus,A320-271N,Airbus A320-271N,1,Private,,8152,2018
@@ -25,6 +26,7 @@
 4002B5,VP-CHY,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Deer Jet Beijing,BDJ,515,
 4002B6,VP-CDY,A319,Airbus,A319-112,Airbus A319-112,1,Private,,3983,2009
 4002B7,VP-COY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,250,2014
+4002BA,VP-CJV,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6215,2016
 4002BF,VP-CBI,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87079,2025
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001
@@ -37,4 +39,5 @@
 400B4B,G-DHLM,B763,Boeing,767-324(ER)(BCF),Boeing 767-324(ER)(BCF),0,DHL Air UK,DHK,27392,1995
 400E09,G-ECLB,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,753,2006
 400F0B,G-ECLC,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,768,2006
+400F50,G-SMKM,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,1662,2006
 400F63,G-ECLN,A346,Airbus,A340-642,Airbus A340-642,0,European Cargo,URO,787,2006

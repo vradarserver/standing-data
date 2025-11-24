@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC84B6,N9054U,C208,Cessna,208 Caravan 1,Cessna 208 Caravan 1,1,Private,,,
 AC857F,N906AJ,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500734,2023
+AC858A,N906AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca Group,,12840,2025
 AC860E,N906GB,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,1,Private,,20111,2021
 AC8D05,N908BH,B738,Boeing,737-8DV (BBJ2),Boeing 737-8DV (BBJ2),1,Private,,32915,2001
 AC8D68,N908FG,C172,Cessna,172 Skyhawk,Cessna 172 Skyhawk,1,Private,,172S12724,2001

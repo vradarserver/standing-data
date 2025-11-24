@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 3CF027,D-CSGD,C56X,Cessna,560XL Citation XLS,Cessna 560XL Citation XLS,0,Silver Cloud Air,SCR,560-5762,2008
+3CF0B8,D-CSLS,PC24,Pilatus,PC-24,Pilatus PC-24,0,Platoon Aviation,PTN,583,2025
 3CF106,D-CSOS,LJ45,Bombardier,45,Bombardier 45,0,Jetcall,JCL,45-161,2001
 3CF14E,D-CSRM,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0362,
 3CF1A2,D-CSUS,PC24,Pilatus,PC-24,Pilatus PC-24,1,Private,,285,2022

@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A42361,N366JC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70085,
 A423BB,N366MT,C208,Cessna,Grand Caravan EX,Cessna Grand Caravan EX,0,Africair,,208B5867,2025
+A4249F,N366WW,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5032,2004
+A427EB,N367SP,B763,Boeing,767-381F(ER),Boeing 767-381F(ER),0,Samaritan's Purse,NSP,33510,2006
 A42D74,N3688,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2262,
 A42FC4,N369WW,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,0,HK Bellawings,BWJ,70103,2021

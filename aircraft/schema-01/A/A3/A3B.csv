@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A3B186,N337TN,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,68106,2023
+A3B7B4,N339ET,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4295,2013
 A3B7E5,N339GS,K100,Quest,Kodiak 100,Quest Kodiak 100,1,Private,,100-0339,2024
 A3B8F5,N339TP,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,American Airlines,AAL,44486,2023
 A3BBF6,N34LG,C182,Cessna,T182 Turbo Skylane,Cessna T182 Turbo Skylane,1,Private,,18283145,2021

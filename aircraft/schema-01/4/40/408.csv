@@ -80,6 +80,7 @@
 4080C1,G-RUKO,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,40284,2010
 4080C2,G-RUKN,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,38508,2010
 4080C6,G-RESE,A139,AgustaWestland,AW139,AgustaWestland AW139,0,Bristow Helicopters,BHL,32055,2024
+4080C7,G-RESF,A139,Leonardo,AW139,Leonardo AW139,0,Bristow Helicopters,BHL,32061,2024
 4080C8,G-TESG,DA42,Diamond,DA 42,Diamond DA 42,0,Tesla Solutions,,42.356,2008
 4080C9,G-ZEAB,DA62,Diamond,DA 62,Diamond DA 62,0,2Excel Aviation,BRO,62.248,2023
 4080CB,G-NJAF,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,0,Netjets UK,NJU,086,2006
@@ -185,6 +186,7 @@
 4081D6,G-OJDG,R44,Robinson,R44 Raven II,Robinson R44 Raven II,1,Private,,14797,2024
 4081D7,G-XLRB,A21N,Airbus,A321-271NY(XLR),Airbus A321-271NY(XLR),0,Wizz Air UK,WUK,12437,2025
 4081E1,G-CMWI,E190,Embraer,E190STD,Embraer E190STD,0,Eastern Airways,EZE,19000659,2014
+4081E2,G-FLIE,TL20,TL Ultralight,Sting S4,TL Ultralight Sting S4,1,Private,,25 ST 515,2025
 4081E8,G-LIMR,NG5,Bristell,NG5 Speed Wing,Bristell NG5 Speed Wing,1,Private,,LAA 385-15909,
 4081ED,G-MRRL,A109,AgustaWestland,AW109SP GrandNew,AgustaWestland AW109SP GrandNew,0,GB Helicopters,,22300,2013
 4081FA,G-XXEE,A139,AgustaWestland,AW139,AgustaWestland AW139,0,United Kingdom Royal VIP Flight,KRH,32082,2024
@@ -199,8 +201,12 @@
 408219,G-MCSW,P51,North American Aviation,P-51D Mustang,North American Aviation P-51D Mustang,0,Warbird Experiences,,122-40196,1944
 40821B,G-LYNJ,B407,Bell,407GXi,Bell 407GXi,1,Private,,56428,2024
 408223,G-VJTA,C56X,Cessna,Citation XLS+,Cessna Citation XLS+,0,SaxonAir,SXN,560-6165,2014
+408225,G-TOPE,SHRK,Shark Aero,600,Shark 600,1,Private,,182,2025
 408227,G-TNEH,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12648,2025
+408228,G-TNEI,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12706,2025
+408229,G-TNEJ,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,British Airways,BAW,12753,2025
 40822D,G-TTSH,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12735,2025
+40822E,G-TTSG,A20N,Airbus,A320-251N,Airbus A320-251N,0,British Airways,BAW,12693,2025
 408230,G-ECHL,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9819,2024
 408238,G-KALE,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.313,2025
 408239,G-EPEE,J400,Jihlaven,Skyleader 400,Jihlaven Skyleader 400,1,Private,,4 356 400 D,2024
@@ -211,6 +217,7 @@
 408245,G-SVNN,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,10214,2024
 408248,G-GWVV,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,10614,2025
 40824D,G-OOZE,DA62,Diamond,DA62,Diamond DA62,1,Private,,62.324,2025
+408251,G-LMTJ,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1126,2013
 408253,G-RGAM,DA40,Diamond,DA40 NG Diamond Star,Diamond DA40 NG Diamond Star,1,Private,,40.N393,2019
 408254,G-RGAH,DA40,Diamond,DA40 NG Diamond Star,Diamond DA40 NG Diamond Star,1,Private,,40.N394,2019
 408259,G-HUWW,PA34,Piper,Seneca II,Piper Seneca II,1,Private,,34-7870272,1978
@@ -218,6 +225,7 @@
 40825D,G-CRUX,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,44863,2018
 40825F,G-SUNU,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12720,2025
 408260,G-SUNV,A21N,Airbus,321-251NX,Airbus 321-251NX,0,Jet2.com,EXS,12730,2025
+408262,G-SUNW,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Jet2.com,EXS,12760,2025
 408263,G-SPYZ,R66,Robinson,R66 Turbine,Robinson R66 Turbine,1,Private,,1448,2025
 40826A,G-LESO,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,64606,2018
 40826B,G-GSTN,EC30,Eurocopter,EC130 T2,Eurocopter EC130 T2,0,GB Helicopters,,9692,2024
@@ -233,7 +241,9 @@
 4082AD,G-CMYL,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,1152,2025
 4082AF,G-CMYJ,SIRA,Tecnam,P-Mentor,Tecnam P-Mentor,1,Private,,1151,2025
 4082B2,G-NOLA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Ascend Airways,SYG,43302,2018
+4082BB,G-FHJS,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Bookajet,BOO,42000149,2019
 4082BC,G-VNOR,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,London Executive Aviation,LNX,6073,2016
 4082BD,G-NIKA,C525,Cessna,CitationJet,Cessna CitationJet,1,Private,,525-1040,2019
 4082E9,G-HOOF,BE20,Beech,King Air 250,Beech King Air 250,1,Private,,BY-353,2019
 4082F5,G-ZEAC,DA62,Diamond,DA62,Diamond DA62,0,2Excel Aviation,BRO,62.300,2024
+40833C,G-XLRD,A21N,Airbus,A321-271NY(XLR),Airbus A321-271NY(XLR),0,Wizz Air UK,WUK,12511,2025
