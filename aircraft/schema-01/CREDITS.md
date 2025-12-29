@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,850 |
+| `Peter Hutt`             | 4,929 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,082 |
+| `科罗娜`                    | 2,146 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
-| `Lanorge`                | 344 |
+| `Lanorge`                | 365 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 279 |
+| `BudBundi`               | 281 |
 | `andrw`                  | 228 |
 | `AH-1`                   | 133 |
-| `Ljubo`                  | 128 |
-| `vrsspotter73`           | 122 |
-| `topoguido`              | 108 |
+| `Ljubo`                  | 133 |
+| `vrsspotter73`           | 129 |
+| `topoguido`              | 127 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
+| `britiger`               | 83 |
 | `Gprad`                  | 82 |
-| `britiger`               | 81 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
@@ -75,6 +75,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Av8Tor`                 | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
+| `ez_duce`                | 2 |
 | `feimau`                 | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
@@ -98,10 +99,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Derek Bertram`          | 1 |
 | `dpedwards`              | 1 |
 | `EGPD1701`               | 1 |
-| `ez_duce`                | 1 |
 | `flyboy101`              | 1 |
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
+| `joetrim`                | 1 |
 | `k6vh`                   | 1 |
 | `KaliKeira`              | 1 |
 | `maltesepricklypear`     | 1 |

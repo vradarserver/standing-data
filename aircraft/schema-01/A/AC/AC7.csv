@@ -1,12 +1,14 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AC7087,N900PX,G280,Gulfstream,G280,Gulfstream G280,0,Texair Aviation,,2151,
 AC70C1,N900SE,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,118,
+AC70F7,N900UJ,F900,Dassault,Falcon 900B,Dassault Falcon 900B,1,Private,,173,1998
 AC712A,N900WK,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,210,2008
 AC7150,N900XY,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,86,2001
 AC71F4,N9003G,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,1,Private,,208B5783,
 AC729A,N90078,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,1,Private,,208B5741,2023
 AC72A3,N9008G,C208,Cessna,208B Grand Caravan EX,Cessna 208B Grand Caravan EX,1,Private,,208B5742,2023
 AC72F7,N901AV,A20N,Airbus,A320-251N,Airbus A320-251N,0,Avianca,AVA,11912,2024
+AC7379,N901G,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4163,2009
 AC738D,N901GV,H25B,Hawker,900XP,Hawker 900XP,1,Private,,HA-0114,2009
 AC73AC,N901JA,P180,Piaggio,P.180 Avanti II,Piaggio P.180 Avanti II,1,Private,,1170,2008
 AC74DD,N901WF,H25B,Raytheon Hawker,900XP,Raytheon Hawker 900XP,1,Private,,HA-0112,

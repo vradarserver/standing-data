@@ -13,6 +13,7 @@ E200CE,LV-S143,ECHO,Tecnam,P-92 Echo II,Tecnam P-92 Echo II,1,Private,,,
 E200D6,LV-S133,ECHO,Tecnam,P-92 Echo MKII,Tecnam P-92 Echo MKII,0,Aeroclub Oliva,,,
 E200DD,ARG-01,B752,Boeing,757-256,Boeing 757-256,0,Argentina Government,,29306,2000
 E200DF,LV-S153,EV97,Evektor,EV-97 Harmony,Evektor EV-97 Harmony,1,Private,,2160,2022
+E200E8,LV-X862,NG5,BRM Aero,Bristell,BRM Aero Bristell,1,Private,,,
 E200E9,LV-S158,PETR,Scoda,Super Petrel,Scoda Super Petrel,1,Private,,,
 E200EB,LV-S148,ECHO,Tecnam,P-92 Echo MK II,Tecnam P-92 Echo MK II,0,Aeroclub Tucumán,,1696,2023
 E200EE,LV-X662,SLG2,Sling Aircraft,2,Sling 2,1,Private,,198,
@@ -20,6 +21,7 @@ E200F0,T-96,E135,Embraer,ERJ-140 LR,Embraer ERJ-140 LR,0,Argentine Air Force,FAG
 E200F4,LV-S157,ASTO,Tecnam,Astore,Tecnam Astore,1,Private,,,2024
 E200F5,LV-S161,ECHO,Tecnam,P-92 Echo II,Tecnam P-92 Echo II,1,Private,,,
 E200F6,LV-S160,ECHO,Tecnam,P92 Mk II,Tecnam P92 Mk II,0,Hangar 09,,,2024
+E200F7,LV-S159,P208,Tecnam,P-2008,Tecnam P-2008,1,Private,,,
 E200F9,A-128,TUCA,Embraer,EMB-312 Tucano,Embraer EMB-312 Tucano,0,Argentine Air Force,FAG,312366,
 E200FA,LV-X946,RV10,Van'S,RV-10,Van'S RV-10,1,Private,,,
 E2010E,T-94,E135,Embraer,ERJ-140LR,Embraer ERJ-140LR,0,Fuerza Aérea Argentina,,145634,2002

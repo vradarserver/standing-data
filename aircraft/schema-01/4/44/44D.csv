@@ -1,5 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 44D1A5,OO-TME,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI fly Belgium,JAF,44639,2025
+44D1A6,OO-TMF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI fly Belgium,JAF,44617,2025
+44D1B3,OO-TMS,B38M,Boeing,737-8,Boeing 737-8,0,TUI fly Belgium,JAF,44631,2024
 44D1BA,OO-TMZ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,TUI fly Belgium,JAF,44653,2021
 44D2AA,OO-TUJ,B738,Boeing,737-8K5,Boeing 737-8K5,0,TUI fly Belgium,JAF,39923,2012
 44D901,OO-VHA,AS50,Airbus Helicopters,H125,Airbus Helicopters H125,1,Private,,8948,2021

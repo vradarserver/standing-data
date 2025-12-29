@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A9508C,N7HA,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,232,2010
 A950CE,N7KS,GA5C,Gulfstream,G500,Gulfstream G500,0,Solairus Aviation,TWY,72014,2018
+A950EB,N7LW,FA50,Dassault,Falcon 50,Dassault Falcon 50,1,Private,,148,
 A9515C,N7RJ,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,10142,2024
 A951DD,N7WN,R66,Robinson,R66 Turbine,Robinson R66 Turbine,1,Private,,0131,2012
 A951E5,N7WW,EC45,Airbus Helicopters-Kawasaki,H-145,Airbus Helicopters-Kawasaki H-145,1,Private,,21004,

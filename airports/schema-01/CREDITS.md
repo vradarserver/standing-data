@@ -6,8 +6,8 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 253 |
-| `科罗娜`                          | 70 |
+| `PietD`                        | 254 |
+| `科罗娜`                          | 76 |
 | `EDDG`                         | 61 |
 | `vand`                         | 54 |
 | `DennyCrane`                   | 35 |
@@ -17,7 +17,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sib64`                        | 13 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
-| `Lanorge`                      | 8 |
+| `Lanorge`                      | 9 |
 | `Saizen`                       | 8 |
 | `Mickael H.`                   | 7 |
 | `argz`                         | 6 |

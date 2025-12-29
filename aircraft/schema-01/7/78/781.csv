@@ -12,6 +12,7 @@
 7811AD,B-8665,A319,Airbus,A319 133SL,Airbus A319 133SL,0,Sichuan Airlines,CSC,7738,2017
 7811AF,B-3268,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,168,2012
 7811B7,B-3269,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Deer Jet Beijing,BDJ,6241,2016
+7811BA,B-005A,A20N,Airbus,A320neo,Airbus A320neo,0,Airbus Industrie,AIB,,
 7811BB,B-005C,A20N,Airbus,A-320neo,Airbus A-320neo,0,Airbus Industrie,AIB,,
 7811BC,B-005D,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Airbus Industrie,AIB,,
 7811BE,B-005F,A20N,Airbus,A320-271N,Airbus A320-271N,0,Airbus Industrie,AIB,,
@@ -32,7 +33,7 @@
 781276,B-3388,AJ27,Comac,ARJ21-700CCF,Comac ARJ21-700CCF,0,Longhao Airlines,LHA,109,2018
 78128E,B-3869,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,109,2010
 78129A,B-001S,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
-7812A9,B-001T,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,,,110,2017
+7812A9,B-001T,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 7812BC,B-3271,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Business Aviation Asia,UNA,6280,2017
 7812D1,B-3333,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Sino Jet (Beijing) Company,JBE,250,2014
 7812E3,B-5999,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Happy Jet (China Air Rescue),HYJ,5560,2015

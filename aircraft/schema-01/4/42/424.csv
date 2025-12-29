@@ -22,6 +22,7 @@
 4245DD,VP-CWM,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0252,2017
 4245DE,VP-CFM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9756,
 4245E0,VP-CSO,B77W,Boeing,777-3F6(ER),Boeing 777-3F6(ER),0,Voyager,,61733,2017
+424626,VP-BUH,A333,Airbus,A330-302,Airbus A330-302,0,Nordwind,NWS,1351,2012
 424649,VP-BDU,B738,Boeing,737-8KV,Boeing 737-8KV,0,Nordwind Airlines,,60175,2018
 424658,VP-BEC,E170,Embraer,E170LR,Embraer E170LR,0,Aurora Anguilla,,17000112,2005
 424660,VP-BTW,F900,Dassault,Falcon 900LX,Dassault Falcon 900LX,1,Private,,324,
@@ -209,3 +210,5 @@
 424C9B,M-APLE,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9851,2018
 424C9D,M-ASBA,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21061,2025
 424CA5,M-GIPH,FA10,Dassault,Falcon 10,Dassault Falcon 10,0,Regourd Aviation,,194,1982
+424CAF,M-OCHI,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Colour Air,,9264,2007
+424CB4,M-MMGM,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5461,2000

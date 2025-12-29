@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 02000F,CN-RGA,B744,Boeing,747-428,Boeing 747-428,0,Morocco Government,,25629,1993
+020075,RA-73438,A321,Airbus,A321-211,Airbus A321-211,0,S7 Airlines,SBI,3070,2007
 020118,CN-NMI,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,5206,2012
 020170,CN-EEE,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,227,2014
 020175,CN-NMP,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Maroc,MAC,5903,2013
@@ -21,3 +22,5 @@
 0201A3,CN-RHA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Royal Air Maroc,RAM,64980,2021
 0201A4,CN-RHB,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Royal Air Maroc,RAM,64981,2021
 0201AC,CN-KAM,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9612,2014
+0201BE,CN-TMW,H25B,Hawker,850XP,Hawker 850XP,1,Private,,258819,2006
+0201C0,CN-RHI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Royal Air Maroc,RAM,62878,2019

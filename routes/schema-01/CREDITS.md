@@ -6,21 +6,21 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 315,909 |
-| `PietD`                        | 156,290 |
+| `dirkhh`                       | 321,610 |
+| `PietD`                        | 156,587 |
 | `vand`                         | 67,921 |
-| `科罗娜`                          | 32,955 |
+| `科罗娜`                          | 32,957 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,467 |
-| `Lanorge`                      | 18,518 |
+| `sib64`                        | 20,480 |
+| `Lanorge`                      | 18,549 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,480 |
+| `Markus`                       | 8,531 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `aircraftenthusiast2000`       | 6,451 |
@@ -37,7 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `Bokworks`                     | 2,484 |
-| `Gavin-D`                      | 2,430 |
+| `Gavin-D`                      | 2,437 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `AH-1`                         | 2,288 |
@@ -62,8 +62,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,325 |
-| `Daniel.cornejo.campos`        | 1,287 |
+| `Dauren`                       | 1,327 |
+| `Daniel.cornejo.campos`        | 1,289 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,199 |
 | `laurent`                      | 1,136 |
@@ -96,8 +96,8 @@ Please note that credit files are updated less frequently than the data files.
 | `YKKHPPP`                      | 643 |
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
+| `gabo03`                       | 581 |
 | `Peter Za, PhD`                | 581 |
-| `gabo03`                       | 565 |
 | `topoguido`                    | 553 |
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
@@ -130,7 +130,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
-| `Jayant Shah`                  | 316 |
+| `Jayant Shah`                  | 318 |
 | `soeminhtett45181`             | 313 |
 | `cetheri`                      | 310 |
 | `Marek Krawczyk`               | 305 |
@@ -203,8 +203,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
 | `Kenneth`                      | 120 |
+| `vrsspotter73`                 | 120 |
 | `Mitch`                        | 119 |
-| `vrsspotter73`                 | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
 | `Matze`                        | 114 |
@@ -224,8 +224,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Trond Erik`                   | 88 |
 | `antonioag`                    | 87 |
 | `DOSDANE`                      | 87 |
+| `AdriBrum`                     | 86 |
 | `NE_MilAir`                    | 86 |
-| `AdriBrum`                     | 85 |
 | `BC`                           | 82 |
 | `Dmitry`                       | 82 |
 | `Benjamin92240`                | 81 |
@@ -814,6 +814,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jercel`                       | 2 |
 | `Jeremy`                       | 2 |
 | `Jim A`                        | 2 |
+| `JimBean`                      | 2 |
 | `Joey Sanders`                 | 2 |
 | `John Erwin`                   | 2 |
 | `Joshua Riley`                 | 2 |

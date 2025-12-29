@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39B054,F-HMCU,C510,Cessna,Citation Mustang,Cessna Citation Mustang,0,Oyonnair,OYO,510-0463,2017
+39B0D3,F-HMGT,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,0867,2017
 39B101,F-HMIB,A35K,Airbus,A350-1041,Airbus A350-1041,0,French Bee,FBU,560,2019
 39B117,F-HMIX,A35K,Airbus,A350-1041,Airbus A350-1041,0,French Bee,FBU,539,2021
 39B18F,F-HMMP,EVSS,Evektor,SportStar RTC,Evektor SportStar RTC,1,Private,,2021 2145,
@@ -42,3 +43,5 @@
 39BDB4,F-HPNU,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55375,2025
 39BDB5,F-HPNV,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55385,2025
 39BDB7,F-HPNX,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55390,2025
+39BDB8,F-HPNY,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55393,2025
+39BDB9,F-HPNZ,BCS3,Airbus,A220-300,Airbus A220-300,0,Air France,AFR,55399,2025

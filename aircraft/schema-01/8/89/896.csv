@@ -72,6 +72,7 @@
 896633,A6-AUK,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia Abu Dhabi,ADY,05665,2013
 896636,A6-PFK,B77W,Boeing,777-3F6(ER),Boeing 777-3F6(ER),0,Abu Dhabi Amiri Flight,AUH,61733,2017
 89663B,A6-WAA,A321,Airbus,A321-231,Airbus A321-231,0,Wizz Air Abu Dhabi,WAZ,7706,2017
+89663E,A6-HHH,B77L,Boeing,777-200LR,Boeing 777-200LR,0,Dubai Airwing,DUB,40955,2011
 896642,A6-FQD,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61038,2024
 896643,A6-FQE,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61027,2025
 896644,A6-FQF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61029,2025
@@ -87,6 +88,7 @@
 896687,A6-FPF,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,60986,2025
 896688,A6-FPG,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61019,2025
 896689,A6-FPH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61037,2025
+89668A,A6-FPI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Flydubai,FDB,61036,2025
 8966A1,A6-RJK,B737,Boeing,737-7HJ(BBJ),Boeing 737-7HJ(BBJ),0,Royal Jet,ROJ,36756,2007
 8966AF,A6-AQP,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,05990,2014
 8966B0,A6-AQQ,A320,Airbus,A320-214,Airbus A320-214,0,Air Arabia,ABY,06072,2014
@@ -101,6 +103,9 @@
 8966D0,A6-XWI,A35K,Airbus,A350-1041,Airbus A350-1041,0,Etihad Airways,ETD,736,2025
 8966D3,A6-XWJ,A35K,Airbus,A350-1041,Airbus A350-1041,0,Etihad Airways,ETD,743,2025
 8966DB,A6-AFO,E35L,Embraer,Legacy 650,Embraer Legacy 650,0,Falcon Aviation Services,FVS,14501147,2011
+8966DC,A6-AFD,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9059,2000
+8966EB,A6-EIB,A320,Airbus,A320-232,Airbus A320-232,0,Etihad Airways,ETD,05326,2012
+896716,A6-UZB,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,DC Aviation Al-Futtaim,DCF,6228,2025
 896C5C,1214,C130,Lockheed,C-130H Hercules,Lockheed C-130H Hercules,0,United Arab Emirates Air Force,UAF,4882,
 896C6B,1350,CL60,Canadair,CL-600-2B16 Challenger 650,Canadair CL-600-2B16 Challenger 650,0,United Arab Emirates Air Force,UAF,6141,
 896C6C,1351,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,United Arab Emirates Air Force,UAF,,
