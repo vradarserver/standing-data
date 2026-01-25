@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 505C7E,OM-LAS,C404,Cessna,404 Titan,Cessna 404 Titan,1,Private,,404-0414,
 505CA4,OM-EDA,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,AirExplore,AXE,33719,2003
+505CA6,OM-EDB,B738,Boeing,737-8AS(BCF),Boeing 737-8AS(BCF),0,AirExplore,AXE,33805,2004
 505CA9,OM-EDC,B738,Boeing,737-86J(SF),Boeing 737-86J(SF),0,AirExplore,AXE,32919,2003
 505CAD,OM-EDD,B738,Boeing,737-883(SF),Boeing 737-883(SF),0,AirExplore,AXE,28328,2003
 505CAF,OM-EDG,B738,Boeing,737-8F2(BCF),Boeing 737-8F2(BCF),0,AirExplore,AXE,29782,2000

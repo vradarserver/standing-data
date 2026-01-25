@@ -37,7 +37,7 @@ E497E0,PS-AGA,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Helista
 E497E2,PS-FMV,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5322,2011
 E497E7,PS-GPA,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,43615,2018
 E49819,PS-TEC,BE40,Hawker Beechcraft,400XP,Hawker 400XP,1,Private,,RK-389,
-E4981D,PS-WYD,E50P,Embraer,Phenom 100 EV,Embraer Phenom 100 EV,1,Private,,50000426,2021
+E4981D,PS-WYD,E50P,Embraer,Phenom 100EV,Embraer Phenom 100EV,1,Private,,,
 E49830,PR-YJF,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Azul Linhas Aéreas Brasileiras,AZU,10793,2021
 E49849,PS-LAA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,LATAM Chile,LAN,38483,2019
 E4984A,PS-GUA,TBM8,SOCATA,TBM-850,SOCATA TBM-850,0,Iaguara Agropecuaria,,442,2008
@@ -149,6 +149,7 @@ E49ECA,PR-YSQ,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasi
 E49ED0,PT-YML,B06,Bell,206L-4 LongRanger IV,Bell 206L-4 LongRanger IV,1,Private,,52190,1997
 E49ED5,PR-XBT,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,12259,2024
 E49EF0,PS-GRH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44033,2024
+E49EF1,PS-GRJ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44040,2025
 E49F2F,PR-BBR,LJ75,Learjet,75,Learjet 75,1,Private,,45-567,2018
 E49F3F,PR-REH,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,1,Private,,21325,2024
 E49F44,PS-AEU,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020132,2024
