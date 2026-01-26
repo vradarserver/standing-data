@@ -6,7 +6,7 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 254 |
+| `PietD`                        | 255 |
 | `科罗娜`                          | 76 |
 | `EDDG`                         | 61 |
 | `vand`                         | 54 |
@@ -34,6 +34,7 @@ Please note that credit files are updated less frequently than the data files.
 | `CX6BX`                        | 2 |
 | `Forssi`                       | 2 |
 | `ghe_n_ghe`                    | 2 |
+| `Jayant Shah`                  | 2 |
 | `Martin Salazar`               | 2 |
 | `Martini`                      | 2 |
 | `Mitch`                        | 2 |
@@ -69,7 +70,6 @@ Please note that credit files are updated less frequently than the data files.
 | `haydenc2`                     | 1 |
 | `huebi77`                      | 1 |
 | `intelsky`                     | 1 |
-| `Jayant Shah`                  | 1 |
 | `JohnL`                        | 1 |
 | `Jon Fear`                     | 1 |
 | `jonwarner`                    | 1 |

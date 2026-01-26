@@ -8,19 +8,19 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `Peter Hutt`             | 4,929 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,149 |
+| `科罗娜`                    | 2,166 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,299 |
 | `EDDN`                   | 398 |
-| `Lanorge`                | 365 |
+| `Lanorge`                | 389 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 281 |
+| `BudBundi`               | 283 |
 | `andrw`                  | 228 |
+| `topoguido`              | 139 |
+| `Ljubo`                  | 134 |
 | `AH-1`                   | 133 |
-| `Ljubo`                  | 133 |
-| `vrsspotter73`           | 129 |
-| `topoguido`              | 127 |
+| `vrsspotter73`           | 133 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `britiger`               | 83 |
@@ -49,6 +49,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Luis Cova`              | 9 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
+| `TomKot`                 | 8 |
 | `AdriBrum`               | 7 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
@@ -108,6 +109,7 @@ Please note that credit files are updated less frequently than the data files.
 | `maltesepricklypear`     | 1 |
 | `mantisNZ`               | 1 |
 | `nnalbant`               | 1 |
+| `Oblivian`               | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `pykman`                 | 1 |
 | `ranger15`               | 1 |
@@ -116,5 +118,4 @@ Please note that credit files are updated less frequently than the data files.
 | `Skiprat`                | 1 |
 | `strnmn`                 | 1 |
 | `Tomek113`               | 1 |
-| `TomKot`                 | 1 |
 
