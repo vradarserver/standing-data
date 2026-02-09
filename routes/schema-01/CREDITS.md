@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 334,229 |
-| `PietD`                        | 157,559 |
-| `vand`                         | 70,365 |
-| `科罗娜`                          | 33,096 |
+| `dirkhh`                       | 334,824 |
+| `PietD`                        | 157,748 |
+| `vand`                         | 71,258 |
+| `科罗娜`                          | 33,895 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,535 |
-| `Lanorge`                      | 18,644 |
+| `sib64`                        | 20,540 |
+| `Lanorge`                      | 18,686 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -23,7 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Markus`                       | 8,577 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,608 |
+| `aircraftenthusiast2000`       | 6,664 |
 | `McBridden`                    | 6,014 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -36,8 +36,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Thomas S.`                    | 3,040 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
-| `Bokworks`                     | 2,563 |
-| `Gavin-D`                      | 2,439 |
+| `Bokworks`                     | 2,570 |
+| `Gavin-D`                      | 2,441 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `AH-1`                         | 2,288 |
@@ -47,7 +47,7 @@ Please note that credit files are updated less frequently than the data files.
 | `nik`                          | 2,163 |
 | `shun`                         | 2,091 |
 | `Paul C`                       | 2,038 |
-| `verbatim`                     | 1,855 |
+| `verbatim`                     | 1,856 |
 | `Rosen85`                      | 1,765 |
 | `DuoRadar`                     | 1,764 |
 | `BPfH`                         | 1,611 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,330 |
-| `Daniel.cornejo.campos`        | 1,302 |
+| `Daniel.cornejo.campos`        | 1,304 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,199 |
 | `laurent`                      | 1,136 |
@@ -89,7 +89,7 @@ Please note that credit files are updated less frequently than the data files.
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
-| `gabo03`                       | 660 |
+| `gabo03`                       | 672 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
 | `D. M.`                        | 647 |
@@ -105,7 +105,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Avioradar`                    | 538 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
-| `kirkmayers`                   | 512 |
+| `kirkmayers`                   | 514 |
 | `EDDB Berlin`                  | 490 |
 | `vjekic2`                      | 487 |
 | `shisha34`                     | 472 |
@@ -615,6 +615,7 @@ Please note that credit files are updated less frequently than the data files.
 | `vfr-pilot`                    | 6 |
 | `Vincent Buttstedt`            | 6 |
 | `542401`                       | 5 |
+| `91NR246`                      | 5 |
 | `96jtaylor`                    | 5 |
 | `Antti T-K`                    | 5 |
 | `APF`                          | 5 |
@@ -700,7 +701,6 @@ Please note that credit files are updated less frequently than the data files.
 | `xristostra86`                 | 4 |
 | `youri2b`                      | 4 |
 | `112marv`                      | 3 |
-| `91NR246`                      | 3 |
 | `Albi`                         | 3 |
 | `Alvaro`                       | 3 |
 | `andy50`                       | 3 |
