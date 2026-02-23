@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 336,511 |
-| `PietD`                        | 157,965 |
-| `vand`                         | 71,490 |
-| `科罗娜`                          | 34,698 |
+| `dirkhh`                       | 340,310 |
+| `PietD`                        | 158,187 |
+| `vand`                         | 72,055 |
+| `科罗娜`                          | 34,713 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,542 |
-| `Lanorge`                      | 18,711 |
+| `sib64`                        | 20,545 |
+| `Lanorge`                      | 18,727 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,578 |
+| `Markus`                       | 8,605 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,690 |
+| `aircraftenthusiast2000`       | 6,739 |
 | `McBridden`                    | 6,014 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,330 |
-| `Daniel.cornejo.campos`        | 1,307 |
+| `Daniel.cornejo.campos`        | 1,308 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,207 |
 | `laurent`                      | 1,136 |
@@ -89,7 +89,7 @@ Please note that credit files are updated less frequently than the data files.
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
-| `gabo03`                       | 674 |
+| `gabo03`                       | 675 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
 | `D. M.`                        | 647 |
@@ -103,7 +103,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
-| `kirkmayers`                   | 520 |
+| `kirkmayers`                   | 521 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
@@ -184,8 +184,8 @@ Please note that credit files are updated less frequently than the data files.
 | `CYOW-b`                       | 145 |
 | `dc10`                         | 145 |
 | `jose fernandes`               | 145 |
+| `Ljubo`                        | 145 |
 | `aircraftenthusiast20`         | 143 |
-| `Ljubo`                        | 143 |
 | `msunz`                        | 141 |
 | `YO5CRQ`                       | 138 |
 | `skyhawk`                      | 137 |
