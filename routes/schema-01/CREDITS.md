@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 340,310 |
-| `PietD`                        | 158,187 |
-| `vand`                         | 72,055 |
-| `科罗娜`                          | 34,713 |
+| `dirkhh`                       | 341,168 |
+| `PietD`                        | 158,325 |
+| `vand`                         | 72,295 |
+| `科罗娜`                          | 34,924 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,545 |
-| `Lanorge`                      | 18,727 |
+| `sib64`                        | 20,547 |
+| `Lanorge`                      | 18,750 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,330 |
-| `Daniel.cornejo.campos`        | 1,308 |
+| `Daniel.cornejo.campos`        | 1,309 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,207 |
 | `laurent`                      | 1,136 |
@@ -89,7 +89,7 @@ Please note that credit files are updated less frequently than the data files.
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
-| `gabo03`                       | 675 |
+| `gabo03`                       | 676 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
 | `D. M.`                        | 647 |
@@ -113,7 +113,7 @@ Please note that credit files are updated less frequently than the data files.
 | `DennyCrane`                   | 457 |
 | `32043GCS`                     | 448 |
 | `britiger`                     | 448 |
-| `Cristian Amaya`               | 443 |
+| `Cristian Amaya`               | 445 |
 | `squawk7000`                   | 431 |
 | `ka0lnr`                       | 418 |
 | `holytux`                      | 414 |
@@ -907,6 +907,7 @@ Please note that credit files are updated less frequently than the data files.
 | `boadracu`                     | 1 |
 | `bookbadger`                   | 1 |
 | `briminey`                     | 1 |
+| `Bryan Leboff`                 | 1 |
 | `Bucc69`                       | 1 |
 | `Capecod`                      | 1 |
 | `cappy`                        | 1 |
