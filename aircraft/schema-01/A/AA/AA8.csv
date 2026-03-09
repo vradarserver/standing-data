@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA80F5,N776SV,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9372,2009
+AA818D,N776YX,E75L,Embraer,EMB-175 LR,Embraer EMB-175 LR,0,Republic Airways,RPA,17000982,2024
 AA83F4,N777KL,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5421,2013
 AA83F8,N777KQ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Nevada Restaurant Services,,70071,2020
 AA8439,N777NE,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,1,Private,,20903,2022
@@ -13,7 +14,9 @@ AA8780,N778HT,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Glo
 AA883E,N778RH,E170,Embraer,E170SE,Embraer E170SE,0,Envoy Air,ENY,17000054,2004
 AA8858,N778SJ,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,140,2012
 AA8876,N778TP,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,2378,2021
+AA88FB,N778YX,E75L,Embraer,EMB-175 LR,Embraer EMB-175 LR,0,Republic Airways,RPA,17000985,2025
 AA8AB2,N779CK,B773,Boeing,777-36NER,Boeing 777-36NER,0,Kalitta Air,CKS,32785,2005
 AA8ACC,N779DL,BE20,Beech,B200 Super King Air,Beech B200 Super King Air,1,Private,,BB-1792,
 AA8BFA,N779RN,E170,Embraer,E170LR,Embraer E170LR,0,Envoy Air,ENY,17000055,2004
+AA8CB2,N779YX,E75L,Embraer,EMB-175 LR,Embraer EMB-175 LR,0,Republic Airways,RPA,17000990,2025
 AA8E2B,N77999,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6460,2020

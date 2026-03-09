@@ -8,11 +8,13 @@
 0081EF,ZS-SZE,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,6147,
 00822C,ZS-ALG,E135,Embraer,ERJ-140LR,Embraer ERJ-140LR,1,Private,,145624,
 00822E,ZS-SZL,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,3192,
+00827F,ZS-NHX,BE20,Beechcraft,200 Super King Air,Beechcraft 200 Super King Air,0,Out of the Blue Safaris,,BB-386,
 008331,ZS-LDW,C210,Cessna,210N Centurion,Cessna 210N Centurion,1,Private,,21064700,
 008357,ZS-ALJ,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145579,2002
 008378,ZS-YAX,E190,Embraer,190-100 IGW,Embraer 190-100 IGW,0,Airlink,LNK,,2009
 0083B8,ZS-ASR,PC24,Pilatus,PC-24,Pilatus PC-24,0,Comair Flight Services,GCM,301,
 0083CC,ZS-ALF,E135,Embraer,ERJ-135KL,Embraer ERJ-135KL,0,Airlink,LNK,544,2001
+0083D1,ZS-ZXX,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,BB-1077,1982
 008431,ZS-CMM,CRJ9,Bombardier,CRJ-900LR,Bombardier CRJ-900LR,0,CemAir,KEM,15215,2009
 00856D,ZS-CAU,CRJ9,Bombardier,CRJ-900ER,Bombardier CRJ-900ER,0,CemAir,KEM,15038,2005
 0085B8,ZS-ZWH,B738,Boeing,737-8LD(WL),Boeing 737-8LD(WL),0,Safair,SFR,40971,2016
@@ -22,6 +24,7 @@
 0086A8,ZS-CMX,CRJ7,Bombardier,CRJ-702ER,Bombardier CRJ-702ER,0,CemAir,KEM,10303,2010
 0086AA,ZS-CMZ,CRJ7,Bombardier,CRJ-702,Bombardier CRJ-702,0,CemAir,KEM,10289,2009
 0086F6,ZS-YBC,E170,Embraer,ERJ-170-100,Embraer ERJ-170-100,0,Airlink,LNK,17000006,2002
+00874F,ZS-CTI,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,,
 00885E,ZS-TFY,B733,Boeing,737-3U3,Boeing 737-3U3,0,Africa Charter Airline,FSK,28733,1998
 0088B4,ZS-DHB,DH8D,Bombardier,Dash 8-400,Bombardier Dash 8-400,0,CemAir,KEM,4095,2004
 0088BC,ZS-DHJ,DH8D,Bombardier,DHC-8-402Q,Bombardier DHC-8-402Q,0,CemAir,KEM,4098,2005

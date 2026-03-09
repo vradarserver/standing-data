@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 ACA23B,N913EG,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,9152,2023
 ACA2AE,N913JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145558,2002
+ACA3A0,N913UP,B763,Boeing,767-300F,Boeing 767-300F,0,United Parcel Service,UPS,67982,2025
 ACA665,N914JX,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,JSX,JSX,145595,2002
 ACA685,N914LD,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,25,2003
 ACA6C9,N914NX,E550,Embraer,EMB-550 Praetor 600,Embraer EMB-550 Praetor 600,1,Private,,55020190,2023

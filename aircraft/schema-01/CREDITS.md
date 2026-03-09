@@ -8,19 +8,19 @@ Please note that credit files are updated less frequently than the data files.
 | :--                      | --: |
 | `Peter Hutt`             | 4,929 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,166 |
+| `科罗娜`                    | 2,187 |
 | `OSN`                    | 1,763 |
-| `Andrew`                 | 1,299 |
+| `Andrew`                 | 1,303 |
+| `Lanorge`                | 420 |
 | `EDDN`                   | 398 |
-| `Lanorge`                | 389 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 283 |
+| `BudBundi`               | 289 |
 | `andrw`                  | 228 |
-| `topoguido`              | 139 |
-| `Ljubo`                  | 134 |
+| `topoguido`              | 145 |
+| `Ljubo`                  | 140 |
+| `vrsspotter73`           | 137 |
 | `AH-1`                   | 133 |
-| `vrsspotter73`           | 133 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
 | `britiger`               | 83 |
@@ -35,10 +35,12 @@ Please note that credit files are updated less frequently than the data files.
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Gavin-D`                | 23 |
+| `MariahLski`             | 21 |
 | `Thain Hunter`           | 21 |
 | `svardsten`              | 19 |
 | `Simiao`                 | 18 |
 | `Susan Larson`           | 16 |
+| `Daniel.cornejo.campos`  | 15 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |
@@ -104,11 +106,13 @@ Please note that credit files are updated less frequently than the data files.
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
 | `joetrim`                | 1 |
+| `Jon`                    | 1 |
 | `k6vh`                   | 1 |
 | `KaliKeira`              | 1 |
 | `maltesepricklypear`     | 1 |
 | `mantisNZ`               | 1 |
 | `nnalbant`               | 1 |
+| `nskll`                  | 1 |
 | `Oblivian`               | 1 |
 | `Phillip Rohmberger`     | 1 |
 | `pykman`                 | 1 |

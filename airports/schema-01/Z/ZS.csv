@@ -1,9 +1,9 @@
 ﻿Code,Name,ICAO,IATA,Location,CountryISO2,Latitude,Longitude,AltitudeFeet
 ZSAM,Xiamen Gaoqi International Airport,ZSAM,XMN,Xiamen,CN,24.544001,118.127998,59
 ZSAQ,Anqing Tianzhushan Airport,ZSAQ,AQG,"Anqing, Anhui Province",CN,30.582222,117.050278,0
-ZSBB,Bengbu Tenghu Airport,ZSBB,BFY,Bengbu,CN,32.847733,117.320244,105
+ZSBA,Bengbu Tenghu Airport,ZSBA,BFY,Bengbu,CN,32.847733,117.320244,105
 ZSBO,Bozhou Airport,ZSBO,BZJ,Anhui,CN,33.560833,115.909167,108
-ZSCG,Changzhou,ZSCG,CZX,Changzhou,CN,31.941667,119.711667,39
+ZSCG,Changzhou Benniu International Airport,ZSCG,CZX,Changzhou,CN,31.941667,119.711667,39
 ZSCN,Nanchang Changbei International Airport,ZSCN,KHN,Nanchang,CN,28.865000,115.900002,143
 ZSDY,Dongying Airport,ZSDY,DOY,Dongying,CN,37.271600,118.281900,86
 ZSFY,Fuyang Xiguan Airport,ZSFY,FUG,Fuyang,CN,32.882157,115.734364,104
@@ -51,4 +51,5 @@ ZSYH,Nanchang Yaohu Airport,ZSYH,YHJ,Nanchang,CN,28.700972,116.107694,49
 ZSYN,Yancheng Airport,ZSYN,YNZ,Yancheng,CN,33.385600,120.125000,0
 ZSYT,Yantai Laishan Airport,ZSYT,YNT,Yantai,CN,37.401699,121.372002,59
 ZSYW,Yiwu Airport,ZSYW,YIW,Yiwu,CN,29.344700,120.031998,262
+ZSZF,Zaozhuang Yiyun Airport,ZSZF,ZZH,Shandong,CN,34.906389,117.401389,670
 ZSZS,Zhoushan Airport,ZSZS,HSN,Zhoushan,CN,29.934200,122.362000,3

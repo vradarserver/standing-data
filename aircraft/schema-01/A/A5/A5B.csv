@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A5B078,N466FX,GLF4,Gulfstream Aerospace,GLF4,Gulfstream Aerospace GLF4,0,Flexjet,LXJ,4173,2009
 A5B154,N466QS,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,NetJets,EJA,50500757,2023
+A5B2B0,N4663K,A333,Airbus,A330-343,Airbus A330-343,0,Alaska Airlines,ASA,1865,2018
 A5B3A7,N467AL,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,11194,2022
 A5B42F,N467FX,GLF4,Gulfstream Aerospace,GIV-X (G450),Gulfstream Aerospace GIV-X (G450),0,Flexjet,LXJ,4156,
 A5B760,N468AN,A21N,Airbus,A321-253NX,Airbus A321-253NX,0,American Airlines,AAL,11193,2023

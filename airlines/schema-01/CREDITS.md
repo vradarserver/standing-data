@@ -6,10 +6,10 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 439 |
-| `PietD`                 | 259 |
+| `Andrew`                | 441 |
+| `PietD`                 | 264 |
 | `科罗娜`                   | 155 |
-| `Lanorge`               | 114 |
+| `Lanorge`               | 115 |
 | `britiger`              | 97 |
 | `EDDG`                  | 88 |
 | `vand`                  | 84 |

@@ -6,14 +6,14 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 341,168 |
-| `PietD`                        | 158,325 |
-| `vand`                         | 72,295 |
-| `科罗娜`                          | 34,924 |
+| `dirkhh`                       | 342,168 |
+| `PietD`                        | 158,421 |
+| `vand`                         | 72,466 |
+| `科罗娜`                          | 35,008 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,547 |
+| `sib64`                        | 20,552 |
 | `Lanorge`                      | 18,750 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
@@ -23,7 +23,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Markus`                       | 8,605 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,739 |
+| `aircraftenthusiast2000`       | 6,760 |
 | `McBridden`                    | 6,014 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -37,7 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `Bokworks`                     | 2,579 |
-| `Gavin-D`                      | 2,442 |
+| `Gavin-D`                      | 2,443 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `AH-1`                         | 2,288 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,330 |
-| `Daniel.cornejo.campos`        | 1,309 |
+| `Daniel.cornejo.campos`        | 1,310 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,207 |
 | `laurent`                      | 1,136 |
@@ -88,8 +88,8 @@ Please note that credit files are updated less frequently than the data files.
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
+| `gabo03`                       | 678 |
 | `Korni`                        | 678 |
-| `gabo03`                       | 676 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
 | `D. M.`                        | 647 |

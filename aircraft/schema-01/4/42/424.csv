@@ -46,6 +46,7 @@
 4246A9,VP-BXS,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87021,2024
 4246B1,VP-BHM,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Royal Jordanian,RJA,70215,2024
 4246B2,VP-BAA,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,70301,2025
+4246B3,VP-BAU,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67456,2026
 424700,VP-CUL,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9134,2003
 424701,VP-CUN,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8014,2018
 424702,VP-CUO,A21N,Airbus,A321-251N,Airbus A321-251N,0,Sky Express,SEH,8575,2018
@@ -174,6 +175,7 @@
 424C50,M-FRSG,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70166,2023
 424C51,M-INKE,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73127,2023
 424C52,M-CMHS,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9754,2016
+424C53,M-NACK,H25B,Hawker,800XPi,Hawker 800XPi,1,Private,,,
 424C57,M-JHCI,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0134,2013
 424C58,M-OOMR,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,274,1998
 424C5A,M-DEEP,A109,Leonardo,AW109SP GrandNew,Leonardo AW109SP GrandNew,1,Private,,22458,

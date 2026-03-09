@@ -59,6 +59,7 @@ E498E8,PR-PDX,AT76,ATR,72-600,ATR 72-600,0,Voepass,PTB,1077,2013
 E498EA,PR-PDW,AT75,ATR,72-500,ATR 72-500,0,Voepass,PTB,748,2007
 E498F2,PS-MAK,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9179,2005
 E49907,PT-TPA,A319,Airbus,A319-112,Airbus A319-112,0,LATAM Chile,LAN,5005,2012
+E49916,PS-GOR,BE20,Beechcraft,King Air 260,Beechcraft King Air 260,1,Private,,BY-415,2022
 E4991B,PS-RVX,C25M,Cessna,Citation M2,Cessna Citation M2,1,Private,,525-1105,2022
 E49925,1383,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312101,
 E49926,1439,TUCA,Embraer,T-27M Tucano,Embraer T-27M Tucano,0,Brazilian Air Force,BRS,312387,
@@ -84,6 +85,7 @@ E499BC,PS-INB,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,
 E499C1,PP-CMK,FA50,Dassault,Falcon 50EX,Dassault Falcon 50EX,1,Private,,339,2004
 E499C4,PS-SSS,C25M,Cessna,Citation M2,Cessna Citation M2,1,Private,,525-1114,2022
 E499CD,PS-TMA,A109,Augusta,AW-109 Trekker,Augusta AW-109 Trekker,1,Private,,22730,2021
+E499D8,PS-ZAA,HA4T,Hawker Beechcraft,4000,Hawker Beechcraft 4000,1,Private,,RC-21,
 E49A01,PS-CFG,GLEX,Bombardier,Global Express,Bombardier Global Express,1,Private,,9117,2002
 E49A0F,PS-BLL,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,0,Lider Aviação,,,
 E49A2E,PR-YSK,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11133,2022
@@ -102,6 +104,7 @@ E49AAA,PR-XBO,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TA
 E49AAB,PR-XBP,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,11629,2023
 E49ACD,PS-FFT,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5138,2006
 E49AF4,PR-YSO,A20N,Airbus,A320-251N,Airbus A320-251N,0,Azul Linhas Aéreas Brasileiras,AZU,11369,2023
+E49B00,PS-HIN,BE40,Hawker Beechcraft,400A,Hawker Beechcraft 400A,0,Black Taxi Aereo,,RK-243,
 E49B0A,PS-PJM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5334,2011
 E49B34,PS-SLP,ASTR,Gulfstream,G100,Gulfstream G100,1,Private,,082,1996
 E49B51,PS-GRA,A339,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Gol Transportes Aéreos,GLO,44031,2023

@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A7E147,N607AG,B738,Boeing,737-86N,Boeing 737-86N,0,Nomadic Aviation,OMD,60689,2016
+A7E198,N607DN,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,13019,2026
 A7E1A1,N607DX,G280,Gulfstream,G280,Gulfstream G280,1,Private,,2269,
 A7E1CD,N607FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11195,2022
 A7E1D3,N607FX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet,LXJ,55020207,
