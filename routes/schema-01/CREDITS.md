@@ -6,24 +6,24 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 348,407 |
-| `PietD`                        | 158,768 |
-| `vand`                         | 73,597 |
-| `科罗娜`                          | 35,169 |
+| `dirkhh`                       | 349,068 |
+| `PietD`                        | 158,907 |
+| `vand`                         | 74,008 |
+| `科罗娜`                          | 35,171 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,557 |
+| `sib64`                        | 20,565 |
 | `Lanorge`                      | 18,770 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,610 |
+| `Markus`                       | 8,625 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `aircraftenthusiast2000`       | 6,868 |
+| `aircraftenthusiast2000`       | 6,969 |
 | `McBridden`                    | 6,014 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
@@ -37,7 +37,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `Bokworks`                     | 2,579 |
-| `Gavin-D`                      | 2,445 |
+| `Gavin-D`                      | 2,511 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `AH-1`                         | 2,288 |
@@ -88,7 +88,7 @@ Please note that credit files are updated less frequently than the data files.
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
 | `KC7BYY`                       | 700 |
-| `gabo03`                       | 680 |
+| `gabo03`                       | 682 |
 | `Korni`                        | 678 |
 | `Chriso`                       | 653 |
 | `Datamix`                      | 651 |
@@ -126,8 +126,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
+| `Jayant Shah`                  | 332 |
 | `RCN_BC`                       | 332 |
-| `Jayant Shah`                  | 330 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
 | `HermanZA`                     | 320 |
@@ -202,8 +202,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
+| `vrsspotter73`                 | 121 |
 | `Kenneth`                      | 120 |
-| `vrsspotter73`                 | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
 | `MaxenceLFRS`                  | 115 |
@@ -882,6 +882,7 @@ Please note that credit files are updated less frequently than the data files.
 | `zladic`                       | 2 |
 | `1090s`                        | 1 |
 | `Aalbert`                      | 1 |
+| `aarvnb`                       | 1 |
 | `adamp`                        | 1 |
 | `ajcoll5`                      | 1 |
 | `aligassan`                    | 1 |
@@ -898,6 +899,7 @@ Please note that credit files are updated less frequently than the data files.
 | `asrazin`                      | 1 |
 | `aviatic`                      | 1 |
 | `AWW`                          | 1 |
+| `ayryx`                        | 1 |
 | `bartusek`                     | 1 |
 | `basher52`                     | 1 |
 | `BenG`                         | 1 |
@@ -967,6 +969,7 @@ Please note that credit files are updated less frequently than the data files.
 | `GEISIVAM DOMINGUES CHAVES`    | 1 |
 | `GerryS`                       | 1 |
 | `Gilberto A. Rivera`           | 1 |
+| `glynnski`                     | 1 |
 | `GM1004SWL`                    | 1 |
 | `Goldy714`                     | 1 |
 | `GordonL`                      | 1 |
