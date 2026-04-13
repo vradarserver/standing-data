@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 353,458 |
-| `PietD`                        | 166,750 |
-| `vand`                         | 74,942 |
-| `科罗娜`                          | 35,977 |
+| `dirkhh`                       | 359,160 |
+| `PietD`                        | 168,771 |
+| `vand`                         | 75,117 |
+| `科罗娜`                          | 36,731 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,954 |
-| `Lanorge`                      | 18,951 |
+| `sib64`                        | 20,975 |
+| `Lanorge`                      | 19,077 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,864 |
-| `aircraftenthusiast2000`       | 7,871 |
+| `Markus`                       | 8,877 |
+| `aircraftenthusiast2000`       | 8,242 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,014 |
@@ -34,10 +34,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Serge F4IPO`                  | 3,297 |
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
-| `Gavin-D`                      | 2,704 |
+| `Gavin-D`                      | 2,717 |
 | `Robert G. Schaffrath`         | 2,688 |
+| `Bokworks`                     | 2,675 |
 | `ChristianS`                   | 2,655 |
-| `Bokworks`                     | 2,603 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
 | `AH-1`                         | 2,288 |
@@ -63,7 +63,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
 | `Dauren`                       | 1,330 |
-| `Daniel.cornejo.campos`        | 1,311 |
+| `Daniel.cornejo.campos`        | 1,313 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,207 |
 | `laurent`                      | 1,136 |
@@ -83,11 +83,11 @@ Please note that credit files are updated less frequently than the data files.
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 771 |
-| `wogman`                       | 753 |
+| `wogman`                       | 756 |
+| `gabo03`                       | 746 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
-| `gabo03`                       | 700 |
 | `KC7BYY`                       | 700 |
 | `Korni`                        | 678 |
 | `Chriso`                       | 653 |
@@ -103,7 +103,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
 | `Avioradar`                    | 538 |
-| `kirkmayers`                   | 532 |
+| `kirkmayers`                   | 536 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
@@ -126,7 +126,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Per Haakan Dahlback`          | 366 |
 | `Martin Salazar`               | 363 |
 | `kiwikieran`                   | 359 |
-| `Jayant Shah`                  | 332 |
+| `Jayant Shah`                  | 333 |
 | `RCN_BC`                       | 332 |
 | `Spotter65`                    | 329 |
 | `K219`                         | 321 |
@@ -163,6 +163,7 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
+| `Ljubo`                        | 196 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
@@ -174,7 +175,6 @@ Please note that credit files are updated less frequently than the data files.
 | `Steven G`                     | 173 |
 | `C Cook`                       | 172 |
 | `AlexH`                        | 171 |
-| `Ljubo`                        | 171 |
 | `Amlink`                       | 170 |
 | `Boiniche`                     | 170 |
 | `fidaeextra`                   | 164 |
@@ -202,7 +202,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Antti Takalo-K`               | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
-| `vrsspotter73`                 | 121 |
+| `vrsspotter73`                 | 122 |
 | `Kenneth`                      | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
@@ -760,6 +760,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Vivi`                         | 3 |
 | `westrayboy`                   | 3 |
 | `XY0981`                       | 3 |
+| `aarvnb`                       | 2 |
 | `ADSB`                         | 2 |
 | `agardk`                       | 2 |
 | `Alex F.`                      | 2 |
@@ -883,7 +884,6 @@ Please note that credit files are updated less frequently than the data files.
 | `zladic`                       | 2 |
 | `1090s`                        | 1 |
 | `Aalbert`                      | 1 |
-| `aarvnb`                       | 1 |
 | `adamp`                        | 1 |
 | `ajcoll5`                      | 1 |
 | `aligassan`                    | 1 |
@@ -1079,6 +1079,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Screwdriver`                  | 1 |
 | `Sean_Crabbe`                  | 1 |
 | `Simon`                        | 1 |
+| `Skulllzzcode`                 | 1 |
 | `Skyscraper`                   | 1 |
 | `snake29`                      | 1 |
 | `Sp8472`                       | 1 |
