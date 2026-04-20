@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 359,160 |
-| `PietD`                        | 168,771 |
-| `vand`                         | 75,117 |
-| `科罗娜`                          | 36,731 |
+| `dirkhh`                       | 365,692 |
+| `PietD`                        | 169,991 |
+| `vand`                         | 75,325 |
+| `科罗娜`                          | 37,048 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 20,975 |
-| `Lanorge`                      | 19,077 |
+| `sib64`                        | 21,013 |
+| `Lanorge`                      | 19,179 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
 | `Markus`                       | 8,877 |
-| `aircraftenthusiast2000`       | 8,242 |
+| `aircraftenthusiast2000`       | 8,282 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,014 |
@@ -34,9 +34,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Serge F4IPO`                  | 3,297 |
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
-| `Gavin-D`                      | 2,717 |
+| `Bokworks`                     | 2,870 |
+| `Gavin-D`                      | 2,723 |
 | `Robert G. Schaffrath`         | 2,688 |
-| `Bokworks`                     | 2,675 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
 | `smartcoda`                    | 2,389 |
@@ -82,9 +82,9 @@ Please note that credit files are updated less frequently than the data files.
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
+| `gabo03`                       | 777 |
 | `SQ5IRZ`                       | 771 |
 | `wogman`                       | 756 |
-| `gabo03`                       | 746 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
@@ -102,8 +102,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
 | `admin_ksl`                    | 541 |
+| `kirkmayers`                   | 540 |
 | `Avioradar`                    | 538 |
-| `kirkmayers`                   | 536 |
 | `yaacars`                      | 520 |
 | `Santi_levt`                   | 516 |
 | `EDDB Berlin`                  | 490 |
@@ -149,8 +149,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
 | `giofloripa`                   | 227 |
+| `danielaregay`                 | 225 |
 | `spudjr`                       | 225 |
-| `danielaregay`                 | 224 |
+| `Ljubo`                        | 221 |
 | `Franck Dosdane`               | 219 |
 | `Alan R.`                      | 218 |
 | `Aerovilla`                    | 217 |
@@ -163,7 +164,6 @@ Please note that credit files are updated less frequently than the data files.
 | `RBBrasil`                     | 202 |
 | `kulbie`                       | 200 |
 | `Alex Bodle`                   | 198 |
-| `Ljubo`                        | 196 |
 | `jazzbassNick`                 | 193 |
 | `IndoSpotter`                  | 190 |
 | `stuartroy`                    | 189 |
@@ -200,9 +200,9 @@ Please note that credit files are updated less frequently than the data files.
 | `catchall`                     | 127 |
 | `Tyler`                        | 125 |
 | `Antti Takalo-K`               | 123 |
+| `vrsspotter73`                 | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
-| `vrsspotter73`                 | 122 |
 | `Kenneth`                      | 120 |
 | `Mitch`                        | 119 |
 | `Seinsche`                     | 117 |
