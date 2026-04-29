@@ -32,6 +32,7 @@
 781239,B-3278,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Deer Jet Beijing,BDJ,6251,2016
 781276,B-3388,AJ27,Comac,ARJ21-700CCF,Comac ARJ21-700CCF,0,Longhao Airlines,LHA,109,2018
 78128E,B-3869,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Shanghai Deer Jet Company,DER,109,2010
+781293,B-70MQ,G2CA,Guimbal,G-2 Cabri,Guimbal G-2 Cabri,1,Private,,1173,
 78129A,B-001S,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 7812A9,B-001T,AJ27,Comac,ARJ-21-700,Comac ARJ-21-700,0,Comac,,,
 7812BC,B-3271,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Business Aviation Asia,UNA,6280,2017
@@ -173,6 +174,7 @@
 781A60,B-220G,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Shanghai Airlines,CSH,63718,2021
 781A6C,B-320U,A20N,Airbus,A320-271N,Airbus A320-271N,0,Sichuan Airlines,CSC,10286,2020
 781A82,B-650J,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Shanghai Deer Jet Company,DER,6217,2016
+781A8C,B-10EQ,P750,Pacific Aerospace,P-750 XStol,Pacific Aerospace P-750 XStol,0,Changzhou Jiangnan General Aviation,,,
 781A8E,B-220J,B752,Boeing,757-28A(PCF)(WL),Boeing 757-28A(PCF)(WL),0,SF Airlines,CSS,33098,2003
 781A97,B-321D,A20N,Airbus,A320-271N,Airbus A320-271N,0,Sichuan Airlines,CSC,10368,2021
 781A98,B-321E,A20N,Airbus,A320-271N,Airbus A320-271N,0,Sichuan Airlines,CSC,10399,2021

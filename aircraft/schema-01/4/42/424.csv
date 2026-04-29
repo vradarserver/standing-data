@@ -42,8 +42,10 @@
 4246A3,VP-BMU,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67455,2023
 4246A4,VP-BUG,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,040,
 4246A5,VP-BSS,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet,SJM,6448,
+4246A7,VP-BUT,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5406,
 4246A8,VP-BMH,A319,Airbus,A319-133(CJ),Airbus A319-133(CJ),0,Las Vegas Sands,,1589,2001
 4246A9,VP-BXS,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87021,2024
+4246AD,VP-BFP,A318,Airbus,A318-112 ACJ,Airbus A318-112 ACJ,1,Private,,4878,2011
 4246B1,VP-BHM,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Royal Jordanian,RJA,70215,2024
 4246B2,VP-BAA,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,70301,2025
 4246B3,VP-BAU,B77L,Boeing,777-F,Boeing 777-F,0,Silk Way West Airlines,AZG,67456,2026
@@ -214,3 +216,7 @@
 424CA5,M-GIPH,FA10,Dassault,Falcon 10,Dassault Falcon 10,0,Regourd Aviation,,194,1982
 424CAF,M-OCHI,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,0,Colour Air,,9264,2007
 424CB4,M-MMGM,CL60,Bombardier,Challenger 604,Bombardier Challenger 604,1,Private,,5461,2000
+424CB6,M-USIK,GA7C,Gulfstream,G700,Gulfstream G700,0,Orascom Construction,,87095,2025
+424CBD,M-PVIL,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,1,Private,,029,2025
+424CBF,M-ACOR,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21108,2026
+424CC1,M-FWWW,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1270,2011

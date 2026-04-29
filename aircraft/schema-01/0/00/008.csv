@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 00800A,ZS-ZEN,H25B,Hawker,800,Hawker 800,0,Zenith Air,AZR,258246,1993
 0080DC,ZS-ALO,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145569,2002
+0080EB,ZS-LET,BE58,Beechcraft,58 Baron,Beechcraft 58 Baron,1,Private,,TH475,
 00811F,ZS-TEY,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,Africa Charter Airline,FSK,24436,1991
 008125,ZS-ALU,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145593,2002
 008126,ZS-GAO,A320,Airbus,A320-231,Airbus A320-231,0,LIFT Airline,GBB,67,1989
@@ -8,8 +9,11 @@
 0081EF,ZS-SZE,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,6147,
 00822C,ZS-ALG,E135,Embraer,ERJ-140LR,Embraer ERJ-140LR,1,Private,,145624,
 00822E,ZS-SZL,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,3192,
+008256,ZS-KPR,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1728,
 00827F,ZS-NHX,BE20,Beechcraft,200 Super King Air,Beechcraft 200 Super King Air,0,Out of the Blue Safaris,,BB-386,
+0082AD,ZS-KZC,B58T,Beechcraft,58P Baron,Beechcraft 58P Baron,1,Private,,TJ353,1981
 008331,ZS-LDW,C210,Cessna,210N Centurion,Cessna 210N Centurion,1,Private,,21064700,
+008339,ZS-ENA,C182,Cessna,182J Skylane,Cessna 182J Skylane,1,Private,,18257420,
 008357,ZS-ALJ,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145579,2002
 008378,ZS-YAX,E190,Embraer,190-100 IGW,Embraer 190-100 IGW,0,Airlink,LNK,,2009
 0083B8,ZS-ASR,PC24,Pilatus,PC-24,Pilatus PC-24,0,Comair Flight Services,GCM,301,
@@ -29,6 +33,7 @@
 0088B4,ZS-DHB,DH8D,Bombardier,Dash 8-400,Bombardier Dash 8-400,0,CemAir,KEM,4095,2004
 0088BC,ZS-DHJ,DH8D,Bombardier,DHC-8-402Q,Bombardier DHC-8-402Q,0,CemAir,KEM,4098,2005
 00893D,ZS-DMI,B734,Boeing,737-4S3,Boeing 737-4S3,0,Safair,SFR,24165,1989
+008948,ZS-OCI,BE20,Beechcraft,200 King Air,Beechcraft 200 King Air,1,Private,,BB-121,1976
 0089D3,ZS-CMD,CRJ2,Bombardier,CRJ-200,Bombardier CRJ-200,0,CemAir,KEM,7924,2004
 008C44,ZS-CMU,CRJ9,Bombardier,CRJ-900LR,Bombardier CRJ-900LR,0,CemAir,KEM,15063,2006
 008D3C,ZS-TLY,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,Africa Charter Airline,FSK,24446,1994
@@ -40,5 +45,6 @@
 008DF3,ZS-FGS,B738,Boeing,737-8GP,Boeing 737-8GP,0,Safair,SFR,39881,2016
 008DF8,ZS-FGX,B738,Boeing,737-8HO,Boeing 737-8HO,0,Safair,SFR,37933,2010
 008DF9,ZS-FGY,B738,Boeing,737-8HO,Boeing 737-8HO,0,Safair,SFR,3459,2010
+008E98,ZS-FNB,CL30,Bombardier,BD-100-1A10 Challenger 300,Bombardier BD-100-1A10 Challenger 300,1,Private,,20247,
 008F08,ZS-FRJ,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,2150,
 008FEB,ZS-GAC,A320,Airbus,A320-232,Airbus A320-232,0,LIFT Airline,GBB,2498,2005

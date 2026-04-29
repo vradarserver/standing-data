@@ -13,6 +13,7 @@
 40026F,VP-CRF,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0436,2024
 400278,VP-CHH,E190,Embraer,E190LR,Embraer E190LR,0,CDB Aviation,,19000613,2013
 400280,VP-CKJ,A320,Airbus,A320-232,Airbus A320-232,1,Private,,05135,2012
+400283,VP-CCB,B738,Boeing,737-8Q8,Boeing 737-8Q8,1,Private,,30705,2006
 40028D,VP-CMU,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,6581,
 400290,VP-CHL,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),1,Private,,03749,2008
 400298,VP-CTY,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Air 7 Asia,,70189,2024
@@ -22,11 +23,14 @@
 4002A3,VP-CEU,A319,Airbus,A319-112,Airbus A319-112,0,Fortress Transportation (FTAI),,04038,2009
 4002A4,VP-CDL,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,1,Private,,,
 4002A8,VP-CLP,EC45,Airbus Helicopters,H145,Airbus Helicopters H145,1,Private,,21276,2024
+4002B0,VP-CCG,GL7T,Bombardier,BD-700 Global 7500,Bombardier BD-700 Global 7500,0,Sino Jet,SJM,70220,
 4002B2,VP-CDA,GL7T,Bombardier,BD-700 Global 7500,Bombardier BD-700 Global 7500,0,TAG Aviation Asia,TBJ,70216,2024
 4002B5,VP-CHY,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Deer Jet Beijing,BDJ,515,
 4002B6,VP-CDY,A319,Airbus,A319-112,Airbus A319-112,1,Private,,3983,2009
 4002B7,VP-COY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,250,2014
+4002B9,VP-CNS,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Hong Kong New Long Airlines,,87067,2025
 4002BA,VP-CJV,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6215,2016
+4002BD,VP-CPM,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6279,2017
 4002BF,VP-CBI,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87079,2025
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001

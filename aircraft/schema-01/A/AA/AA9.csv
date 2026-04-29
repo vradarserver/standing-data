@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 AA9027,N78WF,M600,Piper,M600,Piper M600,1,Private,,AA9027,
+AA90C2,N780CK,B77W,Boeing,777-36NER(SF),Boeing 777-36NER(SF),0,Kalitta Air,CKS,32787,2005
 AA92C2,N780YX,E75L,Embraer,EMB-175 LR,Embraer EMB-175 LR,0,Republic Airways,RPA,17000991,2025
 AA94ED,N781HA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Hawaiian Airlines,HAL,66429,2023
 AA95DA,N781SN,MD11,McDonnell Douglas,MD-11F,McDonnell Douglas MD-11F,0,Western Global Airlines,WGN,48781,1998
