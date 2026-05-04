@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 4,929 |
+| `Peter Hutt`             | 5,038 |
+| `科罗娜`                    | 2,577 |
 | `aircraftenthusiast2000` | 2,400 |
-| `科罗娜`                    | 2,187 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,303 |
-| `Lanorge`                | 420 |
+| `Lanorge`                | 448 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `BudBundi`               | 289 |
-| `andrw`                  | 228 |
+| `andrw`                  | 232 |
+| `vrsspotter73`           | 170 |
 | `topoguido`              | 145 |
 | `Ljubo`                  | 140 |
-| `vrsspotter73`           | 137 |
 | `AH-1`                   | 133 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
@@ -29,9 +29,9 @@ Please note that credit files are updated less frequently than the data files.
 | `RZH`                    | 49 |
 | `Harry Dal Bello`        | 41 |
 | `deedeecee`              | 40 |
+| `wogman`                 | 31 |
 | `dziban molniya`         | 30 |
 | `Jayant Shah`            | 29 |
-| `wogman`                 | 29 |
 | `is0bzc`                 | 26 |
 | `flybull`                | 24 |
 | `Gavin-D`                | 23 |
@@ -39,8 +39,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Thain Hunter`           | 21 |
 | `svardsten`              | 19 |
 | `Simiao`                 | 18 |
+| `Daniel.cornejo.campos`  | 16 |
 | `Susan Larson`           | 16 |
-| `Daniel.cornejo.campos`  | 15 |
+| `aarvnb`                 | 14 |
 | `bigrossco`              | 13 |
 | `Jonas`                  | 11 |
 | `soja`                   | 11 |

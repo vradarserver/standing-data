@@ -15,7 +15,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Serge F4IPO`                  | 14 |
 | `AH-1`                         | 13 |
 | `sib64`                        | 13 |
-| `Lanorge`                      | 10 |
+| `Lanorge`                      | 12 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |
