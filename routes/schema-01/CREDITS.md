@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 368,858 |
-| `PietD`                        | 170,850 |
-| `vand`                         | 75,447 |
-| `科罗娜`                          | 37,315 |
+| `dirkhh`                       | 370,792 |
+| `PietD`                        | 171,278 |
+| `vand`                         | 75,768 |
+| `科罗娜`                          | 37,485 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `Slavi`                        | 21,166 |
-| `sib64`                        | 21,035 |
-| `Lanorge`                      | 19,275 |
+| `sib64`                        | 21,059 |
+| `Lanorge`                      | 19,310 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,879 |
-| `aircraftenthusiast2000`       | 8,391 |
+| `Markus`                       | 8,884 |
+| `aircraftenthusiast2000`       | 8,446 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `McBridden`                    | 6,014 |
+| `McBridden`                    | 6,016 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
 | `elljay`                       | 4,631 |
@@ -35,7 +35,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
 | `Bokworks`                     | 2,870 |
-| `Gavin-D`                      | 2,726 |
+| `Gavin-D`                      | 2,729 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
@@ -62,7 +62,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,330 |
+| `Dauren`                       | 1,339 |
 | `Daniel.cornejo.campos`        | 1,313 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,207 |
@@ -81,7 +81,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jcott`                        | 877 |
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
-| `gabo03`                       | 796 |
+| `gabo03`                       | 804 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 771 |
 | `wogman`                       | 757 |
