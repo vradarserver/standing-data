@@ -6,25 +6,25 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 385,216 |
-| `PietD`                        | 173,507 |
-| `vand`                         | 77,673 |
+| `dirkhh`                       | 386,329 |
+| `PietD`                        | 174,088 |
+| `vand`                         | 77,703 |
 | `科罗娜`                          | 38,429 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,174 |
+| `sib64`                        | 21,196 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 19,660 |
+| `Lanorge`                      | 19,740 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,886 |
-| `aircraftenthusiast2000`       | 8,707 |
+| `Markus`                       | 8,888 |
+| `aircraftenthusiast2000`       | 8,732 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
-| `McBridden`                    | 6,109 |
+| `McBridden`                    | 6,121 |
 | `EDDT Manu`                    | 5,657 |
 | `AP100`                        | 5,091 |
 | `elljay`                       | 4,631 |
@@ -78,7 +78,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
 | `Boelebroer`                   | 911 |
-| `gabo03`                       | 879 |
+| `gabo03`                       | 887 |
 | `jcott`                        | 877 |
 | `mmcgee`                       | 860 |
 | `jmd64`                        | 805 |
@@ -98,7 +98,7 @@ Please note that credit files are updated less frequently than the data files.
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
 | `Peter Za, PhD`                | 581 |
-| `kirkmayers`                   | 553 |
+| `kirkmayers`                   | 554 |
 | `topoguido`                    | 553 |
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
