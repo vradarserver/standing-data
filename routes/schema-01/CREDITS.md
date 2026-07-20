@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 389,162 |
-| `PietD`                        | 174,849 |
-| `vand`                         | 77,882 |
-| `科罗娜`                          | 39,493 |
+| `dirkhh`                       | 389,889 |
+| `PietD`                        | 174,881 |
+| `vand`                         | 78,475 |
+| `科罗娜`                          | 40,186 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,282 |
+| `sib64`                        | 21,296 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 19,909 |
+| `Lanorge`                      | 20,137 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
 | `Markus`                       | 8,893 |
-| `aircraftenthusiast2000`       | 8,780 |
+| `aircraftenthusiast2000`       | 8,807 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -62,8 +62,8 @@ Please note that credit files are updated less frequently than the data files.
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
 | `paradiselost`                 | 1,352 |
-| `Dauren`                       | 1,346 |
-| `Daniel.cornejo.campos`        | 1,318 |
+| `Dauren`                       | 1,348 |
+| `Daniel.cornejo.campos`        | 1,319 |
 | `Andrew`                       | 1,220 |
 | `Mark Taylor`                  | 1,209 |
 | `laurent`                      | 1,136 |
@@ -201,6 +201,7 @@ Please note that credit files are updated less frequently than the data files.
 | `catchall`                     | 127 |
 | `Tyler`                        | 125 |
 | `Antti Takalo-K`               | 123 |
+| `flying_sha`                   | 123 |
 | `Alan Farley`                  | 122 |
 | `BAXTAir`                      | 122 |
 | `Kenneth`                      | 120 |
@@ -214,7 +215,6 @@ Please note that credit files are updated less frequently than the data files.
 | `mekkawi`                      | 106 |
 | `gerault`                      | 104 |
 | `Nagg`                         | 102 |
-| `flying_sha`                   | 101 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
 | `esir`                         | 97 |
