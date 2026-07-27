@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AAA012,N784HA,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Alaska Airlines,ASA,66432,2025
 AAA19E,N784YX,E75L,Embraer,EMB-175 LR,Embraer EMB-175 LR,0,Republic Airways,RPA,17000998,2025
 AAA342,N785BR,E170,Embraer,170,Embraer 170,0,Envoy Air,ENY,17000056,2004
 AAA364,N785D,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9765,2016

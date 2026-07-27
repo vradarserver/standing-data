@@ -30,8 +30,12 @@
 4002B7,VP-COY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,250,2014
 4002B9,VP-CNS,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Hong Kong New Long Airlines,,87067,2025
 4002BA,VP-CJV,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6215,2016
+4002BB,VP-CXM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5536,2016
 4002BD,VP-CPM,GLF6,Gulfstream,G650,Gulfstream G650,1,Private,,6279,2017
 4002BF,VP-CBI,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87079,2025
+4002C3,VP-CNF,GL7T,Bombardier,Global 8000,Bombardier Global 8000,0,Metrojet (Hong Kong),,70257,2026
+4002C4,VP-CXL,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Metrojet,MTJ,87103,
+4002C5,VP-CMV,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9091,2001
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001
 4004FE,G-MACY,B762,Boeing,767-204(BDSF),Boeing 767-204(BDSF),0,Maersk Air Cargo UK,MUK,24457,1989

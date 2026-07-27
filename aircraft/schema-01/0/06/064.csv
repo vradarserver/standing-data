@@ -1,10 +1,10 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 06423A,5N-LRK,E135,Embraer,ERJ-135BJ Legacy 600,Embraer ERJ-135BJ Legacy 600,0,Skyjet Aviation Services,,14501021,
-064254,5N-BYG,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APK,19020040,2021
-06425E,5N-BYH,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APK,19020044,2020
+064254,5N-BYG,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APO,19020040,2021
+06425E,5N-BYH,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APO,19020044,2020
 064264,5N-AOO,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5840,2010
 06426E,5N-ARA,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5913,2012
-064270,5N-BYJ,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APK,19020052,2021
+064270,5N-BYJ,E295,Embraer,E195-E2,Embraer E195-E2,0,Air Peace,APO,19020052,2021
 064272,5N-GAE,AT76,ATR,72-600,ATR 72-600,0,Green Africa Airways,GWG,1047,2012
 064273,5N-GAA,AT76,ATR,72-600,ATR 72-600,0,Green Africa Airways,GWG,1057,2012
 064275,5N-GAD,AT76,ATR,72-600,ATR 72-600,0,Green Africa Airways,GWG,1076,2013
@@ -18,4 +18,7 @@
 06430C,5N-FGA,A332,Airbus,A330-243,Airbus A330-243,0,Nigerian Air Force,NGR,1053,2009
 064313,5N-PPB,E35L,Embraer,Legacy 650,Embraer Legacy 650,1,Private,,14501156,2012
 06431C,5N-IZA,GLF4,Gulfstream,IV-SP,Gulfstream IV-SP,1,Private,,1487,2002
-06432B,5N-CEG,B772,Boeing,777-246(ER),Boeing 777-246(ER),0,Air Peace,APK,33395,2005
+06432B,5N-CEG,B772,Boeing,777-246(ER),Boeing 777-246(ER),0,Air Peace,APO,33395,2005
+064358,5N-CFX,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,0,Mounthill Aviation,MHH,5023,1988
+064363,5N-GTT,E35L,Embraer,Legacy 600,Embraer Legacy 600,0,FlyBird,,14501025,2007
+064364,5N-CGC,H25B,Hawker,750,Hawker 750,1,Private,,HB-11,2008

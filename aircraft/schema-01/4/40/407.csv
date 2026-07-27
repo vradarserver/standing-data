@@ -162,6 +162,7 @@
 407C9D,G-CMDW,EFOX,Ascent,EuroFox 3K,Ascent EuroFox 3K,1,Private,,63321,2021
 407CA0,G-CMEG,EVSS,Evektor,EV-97 SportStar,Evektor EV-97 SportStar,1,Private,,2021-2153,2021
 407CA1,G-DKSK,TL20,TL Ultralight,2000UK Sting Carbon S4,TL 2000UK Sting Carbon S4,1,Private,,LAA 347A-15775,2022
+407CA6,G-SURV,BN2T,Britten-Norman,BN-2T-4S Islander,Britten-Norman BN-2T-4S Islander,0,Britten-Norman,,4005,1994
 407CA9,G-SNSL,A139,AgustaWestland,AW139,AgustaWestland AW139,0,CHC Scotia,,31511,2013
 407CAC,G-CMCG,TWEN,Tecnam,P2010 TDI,Tecnam P2010 TDI,0,Oriens Aviation,,146,2021
 407CAF,G-RUKC,B738,Boeing,737-8AS,Boeing 737-8AS,0,Ryanair UK,RUK,40289,2010
@@ -304,6 +305,7 @@
 407DFC,G-POWT,A21N,Airbus,A321-251NX,Airbus A321-251NX,0,Titan Airways,AWC,08830,2019
 407DFD,G-CPTZ,A169,Leonardo,AW169,Leonardo AW169,0,Sloane Helicopters,SLN,69043,2017
 407DFE,G-TEMU,S22T,Cirrus,SR-22T Turbo,Cirrus SR-22T Turbo,1,Private,,8708,2022
+407E03,G-CMFZ,RV10,Van's,RV-10,Van's RV-10,1,Private,,LAA 339-15651,
 407E04,G-YYES,SR20,Cirrus,SR20,Cirrus SR20,1,Private,,8701,2022
 407E05,G-DKDK,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Catreus,VCG,525-1117,2022
 407E0B,G-KMTE,SR22,Cirrrus,SR22,Cirrrus SR22,0,KEYMT Installation,,4754,2019
@@ -464,6 +466,7 @@
 407F7C,G-JZDB,B738,Boeing,737-8KN,Boeing 737-8KN,0,Jet2.com,EXS,40261,2013
 407F7D,G-JZDC,B738,Boeing,737-82R,Boeing 737-82R,0,Jet2.com,EXS,40881,2013
 407F80,G-PLTS,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2071,2021
+407F83,G-GNHL,EFOX,Aeropro,Eurofox 2K,Aeropro Eurofox 2K,0,Devon and Somerset Gliding Club,,67623,2023
 407F84,G-GHST,C42,Ikarus,C-42,Ikarus C-42,1,Private,,2203-7684,
 407F85,G-LMTB,AT76,ATR,72-600,ATR 72-600,0,Loganair,LOG,1096,2013
 407F86,G-HMGG,B350,Beech,King Air 350,Beech King Air 350,0,2Excel Aviation,BRO,FL-425,2005
@@ -482,6 +485,7 @@
 407F9F,G-LJMJ,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9120,2023
 407FA0,G-RORE,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020179,2023
 407FA1,G-OBOE,NNJA,Skyranger,Nynja,Skyranger Nynja,1,Private,,1157-21,2023
+407FA3,G-KLYM,SLG4,Sling,TSi,Sling TSi,1,Private,,LAA 400A-15864,2022
 407FA5,G-GWOW,S22T,Cirrus,SR22T,Cirrus SR22T,1,Private,,9342,2023
 407FA7,G-DOGR,EC35,Eurocopter,EC135 T3,Eurocopter EC135 T3,1,Private,,2228,
 407FA8,G-HJBM,HDJT,Hondajet,Elite,Hondajet Elite,0,Bookajet,BOO,42000177,2019

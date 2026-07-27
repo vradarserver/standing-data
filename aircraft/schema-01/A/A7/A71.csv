@@ -1,7 +1,9 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+A7124E,N555DE,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,11947,2025
 A7124F,N555DF,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,0,King Leo Management,,5125,
 A7125B,N555DT,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9559,
 A71291,N555FX,CL30,Bombardier,Challenger 300,Bombardier Challenger 300,0,Flexjet,LXJ,20222,2008
+A712E7,N555KH,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5237,2009
 A7130F,N555LY,B737,Boeing,737-7EI BBJ,Boeing 737-7EI BBJ,1,Private,,N555LY,2006
 A71329,N555MZ,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70066,2020
 A715BB,N556AF,PC24,Pilatus,PC-24,Pilatus PC-24,0,PlaneSense,CNS,556,2025

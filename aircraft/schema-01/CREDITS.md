@@ -6,20 +6,20 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                     | Contributions |
 | :--                      | --: |
-| `Peter Hutt`             | 5,038 |
-| `科罗娜`                    | 2,577 |
+| `Peter Hutt`             | 5,255 |
+| `科罗娜`                    | 2,979 |
 | `aircraftenthusiast2000` | 2,400 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,303 |
-| `Lanorge`                | 448 |
+| `Lanorge`                | 515 |
 | `EDDN`                   | 398 |
 | `SkyDiscovery`           | 342 |
 | `aircraftenthusiast20`   | 340 |
 | `BudBundi`               | 289 |
 | `andrw`                  | 232 |
-| `vrsspotter73`           | 170 |
+| `vrsspotter73`           | 219 |
+| `Ljubo`                  | 151 |
 | `topoguido`              | 145 |
-| `Ljubo`                  | 140 |
 | `AH-1`                   | 133 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
@@ -54,14 +54,15 @@ Please note that credit files are updated less frequently than the data files.
 | `Seb Gray`               | 8 |
 | `TomKot`                 | 8 |
 | `AdriBrum`               | 7 |
+| `darjes`                 | 7 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
 | `Pascal Ensinck`         | 7 |
 | `rikgale`                | 7 |
-| `darjes`                 | 6 |
 | `naji787`                | 5 |
 | `struart`                | 5 |
 | `cyxs`                   | 4 |
+| `DerGeier`               | 4 |
 | `nm2588`                 | 4 |
 | `thecowan`               | 4 |
 | `ews997881`              | 3 |
@@ -87,6 +88,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Pete`                   | 2 |
 | `Planespotterben`        | 2 |
 | `Romain`                 | 2 |
+| `rwhite`                 | 2 |
 | `ryanthomp`              | 2 |
 | `UA4WIY`                 | 2 |
 | `xv2b`                   | 2 |
@@ -104,6 +106,7 @@ Please note that credit files are updated less frequently than the data files.
 | `dpedwards`              | 1 |
 | `EGPD1701`               | 1 |
 | `flyboy101`              | 1 |
+| `flygfantast`            | 1 |
 | `Gary_S`                 | 1 |
 | `jazzbassNick`           | 1 |
 | `joetrim`                | 1 |

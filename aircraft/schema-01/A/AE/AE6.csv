@@ -3,6 +3,7 @@ AE60E7,,V22,Bell-Boeing,V-22 Osprey,Bell-Boeing V-22 Osprey,0,United States Mari
 AE61AD,14-0075,V22,Bell-Boeing,CV-22B Osprey,Bell-Boeing CV-22B Osprey,0,Air Mobility Command,RCH,D1056,
 AE6226,18-21026,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Air Force,AIO,18-21026,
 AE6257,169171,Q4,Northrop Grumman,MQ-4C Triton,Northrop Grumman MQ-4C Triton,1,Private,,,
+AE625D,169538,Q4,Northrop Grumman,MQ-4C Triton,Northrop Grumman MQ-4C Triton,0,United States Navy,CNV,,
 AE636E,18-21030,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Army,,,
 AE6370,18-21032,H60,Sikorsky,UH-60M Black Hawk,Sikorsky UH-60M Black Hawk,0,United States Army,,,
 AE63B1,15-46069,B762,Boeing,KC-46A Pegasus,Boeing KC-46A Pegasus,0,United States Air Force,AIO,41986,2022
@@ -124,10 +125,12 @@ AE6A83,20-21149,H60,Sikorsky,UH-60M,Sikorsky UH-60M,0,United States Air Force,AI
 AE6B84,16-0076,V22,Boeing,CV-22B Osprey,Boeing CV-22B Osprey,0,United States Air Force,AIO,D1057,
 AE6BA8,169455,V22,Bell-Boeing,CMV-22B Osprey,Bell-Boeing CMV-22B Osprey,0,US Navy,,,
 AE6BC9,13-20638,H60,Sikorsky,MH-60M,Sikorsky MH-60M,0,United States Army,,,
+AE6BD1,85-0060,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Command,RCH,20,
 AE6BD3,85-0064,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,United States Air Force,AIO,24,
 AE6BEE,86-0105,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,United States Air Force,AIO,65,1986
 AE6BF9,86-0119,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Command,RCH,79,1986
 AE6C02,86-0129,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Command,RCH,89,
+AE6C05,86-0134,B1,Rockwell,B-1B Lancer,Rockwell B-1B Lancer,0,Air Mobility Command,RCH,95,
 AE6C12,20-5937,C30J,Lockheed Martin,MC-130J Commando II,Lockheed Martin MC-130J Commando II,0,Air Mobility Command,RCH,382-5937,2022
 AE6C14,170272,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States Marine Corps,,5925,
 AE6C15,170273,C30J,Lockheed,KC-130J Hercules,Lockheed KC-130J Hercules,0,United States - Marine Corps,,5929,

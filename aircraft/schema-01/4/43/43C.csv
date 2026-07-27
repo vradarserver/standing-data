@@ -12,6 +12,7 @@
 43C556,ZK019,HAWK,British Aerospace,Hawk 128 T.2,British Aerospace Hawk 128 T.2,0,Royal Air Force,RRR,RT010,2008
 43C5EE,ZM420,A400,Airbus,Atlas C1,Airbus Atlas C1,0,Royal Air Force,RFR,056,2018
 43C5EF,ZM421,A400,Airbus,A400M Atlas,Airbus A400M Atlas,0,Royal Air Force,RRR,129,2023
+43C644,ZK309,EUFI,Eurofighter,Typhoon FGR4,Eurofighter Typhoon FGR4,0,Royal Air Force,RFR,BS060,
 43C6BB,ZZ398,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,471,2011
 43C6BE,ZZ404,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,474,2013
 43C6C2,ZZ408,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,478,2012
@@ -88,6 +89,7 @@
 43C955,ZM739,H64,Boeing,Apache AH-64E,Boeing Apache AH-64E,0,Army Air Corps,AAC,UD040,
 43C957,ZM941,H64,Boeing,AH-64E Apache AH2,Boeing AH-64E Apache AH2,0,Army Air Corps,AAC,UD.042,
 43C95B,ZM745,H64,Boeing,AH-64E Apache Guardian,Boeing AH-64E Apache Guardian,0,Army Air Corps,AAC,,
+43C95C,ZM746,H64,Boeing,AH-64E Apache Guardian,Boeing AH-64E Apache Guardian,0,Army Air Corps,AAC,UD047,
 43C960,ZB131,HAWK,BAe Systems,Hawk Mk.167,BAe Systems Hawk Mk.167,0,Royal Air Force,RFR,,
 43C961,ZB132,HAWK,British Aerospace,Hawk Mk.167,British Aerospace Hawk Mk.167,0,Royal Air Force,RFR,QA002,
 43C962,ZB133,HAWK,BAE,Hawk Mk 167,BAE Hawk Mk 167,0,Qatar Emiri Air Force,,QA003,2021
@@ -97,6 +99,7 @@
 43C966,ZB137,HAWK,British Aerospace,Hawk Mk 167,British Aerospace Hawk Mk 167,0,Qatar - Air Force,,QA007,
 43C967,ZB138,HAWK,BAe Systems,Hawk T1A,BAe Systems Hawk T1A,0,UK MOD,,QA008,2024
 43C968,ZB139,HAWK,British Aerospace,Hawk Mk 167,British Aerospace Hawk Mk 167,0,Qatar - Air Force,,QA009,
+43C970,PR008,Q9,General Atomics,MQ-9B Protector RG Mk1,General Atomics MQ-9B Protector RG Mk1,0,Royal Air Force,RFR,,
 43C97A,WT001,E737,Boeing,E-7A Wedgetail AEW.1,Boeing E-7A Wedgetail AEW.1,0,Royal Air Force,RFR,38633,2010
 43C9F3,ZJ786,AS65,Airbus Helicopters,AS365 Dauphin,Airbus Helicopters AS365 Dauphin,0,Army Air Corps,AAC,6870,2009
 43CB58,ZZ511,LYNX,AgustaWestland,Wildcat AH.1,AgustaWestland Wildcat AH.1,0,Army Air Corps,AAC,515,

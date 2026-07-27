@@ -1,11 +1,15 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+47C039,LN-OII,S92,Sikorsky,S-92A Helibus,Sikorsky S-92A Helibus,0,Bristow Norway,NOR,920224,2014
 47C0D9,LN-FGI,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Norwegian Air Shuttle,NOZ,65185,2022
 47C0FD,LN-FGH,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Norwegian Air Shuttle,NOZ,43354,2022
 47C108,LN-OIH,S92,Sikorsky,S-92A Helibus,Sikorsky S-92A Helibus,0,Bristow Norway,NOR,920196,2013
 47C1F7,LN-FGG,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Norwegian Air Shuttle,NOZ,43343,2022
 47C280,LN-YMK,JAB2,Jabiru,J170,Jabiru J170,1,Private,,144,2010
 47C2B5,LN-OEA,A189,Leonardo,AW189,Leonardo AW189,0,Lufttransport,LTR,49111,2025
+47C3BB,LN-YNQ,JAB2,Jabiru,J200A,Jabiru J200A,1,Private,,030,2002
+47C3F0,LN-YAI,TL30,TL Ultralight,TL-3000 Sirius,TL Ultralight TL-3000 Sirius,1,Private,,13 SI 85,2013
 47C439,LN-YEV,FAET,ATEC,321 Faeta,ATEC 321 Faeta,1,Private,,F890515A,2015
+47C459,LN-YGK,UF10,Urban,Samba XXL,Urban Samba XXL,1,Private,,SAXL71,2026
 47C4EE,LN-YRD,JAB2,Jabiru,J170,Jabiru J170,1,Private,,242,2013
 47C968,LN-LNO,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Norse Atlantic Airways,NBT,38779,2017
 47C98D,LN-LNR,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,Norse Atlantic Airways,NBT,38784,2017

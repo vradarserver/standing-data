@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 73805A,4X-EKN,B738,Boeing,737-8H4,Boeing 737-8H4,0,El Al Israel Airlines,ELY,37004,2014
+73805B,4X-EKV,B738,Boeing,737-8H4,Boeing 737-8H4,0,El Al Israel Airlines,ELY,36896,2014
 73805C,4X-EKZ,B738,Boeing,737-86N(BCF),Boeing 737-86N(BCF),0,El Al Israel Airlines,ELY,33004,2002
 738288,4X-ABT,A320,Airbus,A320-232,Airbus A320-232,0,Israir,ISR,6200,2014
 738289,4X-ABW,A320,Airbus,A320-232,Airbus A320-232,0,Israir,ISR,2587,2005

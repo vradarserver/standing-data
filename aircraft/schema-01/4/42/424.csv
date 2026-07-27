@@ -13,6 +13,7 @@
 42450A,VQ-BPZ,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,1,Private,,,
 42450B,VQ-BCC,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70177,2023
 42450C,VQ-BAR,CL60,Bombardier,Challenger 605,Bombardier Challenger 605,1,Private,,5892,
+424510,VQ-BOY,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70021,2025
 4245C6,VP-CUY,B738,Boeing,737-8HX,Boeing 737-8HX,1,Private,,29662,2010
 4245CB,VP-CMV,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,240,
 4245CD,VP-CYP,GL7T,Bombardier,Global 7500,Bombardier Global 7500,1,Private,,70110,
@@ -69,7 +70,7 @@
 42477F,VP-CAE,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,TAG Aviation Asia,TBJ,5051,2004
 424795,VP-CZJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,TAG Aviation Asia,TBJ,9705,2015
 4247B9,VP-CPF,CL35,Bombardier,Challenger 350,Bombardier Challenger 350,0,Deutsche Vermögensberatung AG,,20688,2017
-4247BD,VP-CEJ,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Aegle Aviation,AEL,9760,2016
+4247BD,VP-CIN,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Aegle Aviation,AEL,9760,2016
 4247C0,VP-CZZ,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Champion One Developments,,6116,2017
 4247C7,VP-CHX,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,HK Bellawings,BWJ,418,2016
 4247E1,VP-CLW,GLF6,Gulfstream Aerospace,G650 ER,Gulfstream Aerospace G650 ER,0,Sino Jet (Beijing) Company,JBE,6433,2019
@@ -156,6 +157,7 @@
 424C31,M-EADE,CL60,Bombardier,Challenger 601,Bombardier Challenger 601,1,Private,,5023,
 424C32,M-ONEY,GLEX,Bombardier,BD-700-1A10 Global Express XRS,Bombardier BD-700-1A10 Global Express XRS,1,Private,,9349,
 424C33,M-ICKY,G280,Gulfstream Aerospace,G280,Gulfstream Aerospace G280,0,Hampshire Aviation,,2255,
+424C34,M-OGMC,GA7C,Gulfstream,G700,Gulfstream G700,0,York Aviation,,87086,2025
 424C35,M-SKTO,EC55,Airbus Helicopters,H160B,Airbus Helicopters H160B,1,Private,,1023,2023
 424C36,M-ABSA,A320,Airbus,A320-214,Airbus A320-214,1,Private,,4438,2010
 424C37,M-ABRZ,A320,Airbus,A320-214,Airbus A320-214,1,Private,,4399,2010
@@ -196,6 +198,7 @@
 424C71,M-BBTC,GALX,Gulfstream,G200 Galaxy,Gulfstream G200 Galaxy,1,Private,,125,
 424C76,M-CITY,TBM9,Socata,TBM 960,Socata TBM 960,1,Private,,1555,
 424C78,M-JCBC,A139,Leonardo,AW139,Leonardo AW139,0,J C Bamford (Excavators),JCB,32075,2024
+424C79,M-JCBA,A139,Leonardo,AW139,Leonardo AW139,0,J C Bamford (Excavators),JCB,32068,2024
 424C7A,M-YNNS,GA7C,Gulfstream,G700,Gulfstream G700,0,Aviation One,,87034,2024
 424C7B,M-MANX,PA34,Piper,PA-34-220T Seneca,Piper PA-34-220T Seneca,1,Private,,3449240,
 424C7C,M-LJGI,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,179,2012
@@ -219,4 +222,7 @@
 424CB6,M-USIK,GA7C,Gulfstream,G700,Gulfstream G700,0,Orascom Construction,,87095,2025
 424CBD,M-PVIL,FA6X,Dassault,Falcon 6X,Dassault Falcon 6X,1,Private,,029,2025
 424CBF,M-ACOR,CL35,Bombardier,Challenger 3500,Bombardier Challenger 3500,0,Ryanair,RYR,21108,2026
+424CC0,M-WJBA,C68A,Cessna,Citation Latitude,Cessna Citation Latitude,1,Private,,680A0466,2026
 424CC1,M-FWWW,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1270,2011
+424CC4,M-ABUA,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1687,2017
+424CC5,M-DUBS,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,298,2022

@@ -1,4 +1,5 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
+AAC00A,N792GA,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Gulfstream Aerospace,GLF,87092,
 AAC32F,N793AE,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73135,2024
 AAC3A9,N793FB,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73163,2024
 AAC71D,N794CK,B77L,Boeing,777-F1H,Boeing 777-F1H,0,Kalitta Air,CKS,35609,2012

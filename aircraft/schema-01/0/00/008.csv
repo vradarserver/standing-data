@@ -1,17 +1,26 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 00800A,ZS-ZEN,H25B,Hawker,800,Hawker 800,0,Zenith Air,AZR,258246,1993
+008098,ZU-NST,JAB4,Jabiru,J430,Jabiru J430,1,Private,,1009,
+0080D5,ZS-PUX,M20P,Mooney,Ovation 3,Mooney Ovation 3,1,Private,,29-0477,
 0080DC,ZS-ALO,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145569,2002
+0080E6,ZS-AIF,C172,Cessna,172S Skyhawk SP,Cessna 172S Skyhawk SP,0,AVIC International Flight Training Academy (AIFA),,172S11169,
 0080EB,ZS-LET,BE58,Beechcraft,58 Baron,Beechcraft 58 Baron,1,Private,,TH475,
+0080F5,ZS-RMP,P28A,Piper,PA-28-180 Cherokee Archer,Piper PA-28-180 Cherokee Archer,1,Private,,28-7405108,
+008109,ZS-NGT,BE58,Beech,58 Baron,Beech 58 Baron,1,Private,,TH1266,1992
 00811F,ZS-TEY,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,Africa Charter Airline,FSK,24436,1991
 008125,ZS-ALU,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145593,2002
 008126,ZS-GAO,A320,Airbus,A320-231,Airbus A320-231,0,LIFT Airline,GBB,67,1989
+008128,ZS-BBW,BE36,Beechcraft,A36 Bonanza,Beechcraft A36 Bonanza,1,Private,,E-3531,2003
 008187,ZS-ZWV,B738,Boeing,737-8K5,Boeing 737-8K5,0,Safair,SFR,30414,2000
+0081DB,ZS-OFI,C182,Cessna,182S Skylane,Cessna 182S Skylane,1,Private,,18280256,
 0081EF,ZS-SZE,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,6147,
 00822C,ZS-ALG,E135,Embraer,ERJ-140LR,Embraer ERJ-140LR,1,Private,,145624,
 00822E,ZS-SZL,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,3192,
+008239,ZS-OFD,PC12,Pilatus,PC-12/45,Pilatus PC-12/45,1,Private,,208,2005
 008256,ZS-KPR,PC12,Pilatus,PC-12 NG,Pilatus PC-12 NG,1,Private,,1728,
 00827F,ZS-NHX,BE20,Beechcraft,200 Super King Air,Beechcraft 200 Super King Air,0,Out of the Blue Safaris,,BB-386,
 0082AD,ZS-KZC,B58T,Beechcraft,58P Baron,Beechcraft 58P Baron,1,Private,,TJ353,1981
+00832F,ZU-IYD,SLG4,Sling,4,Sling 4,1,Private,,,
 008331,ZS-LDW,C210,Cessna,210N Centurion,Cessna 210N Centurion,1,Private,,21064700,
 008339,ZS-ENA,C182,Cessna,182J Skylane,Cessna 182J Skylane,1,Private,,18257420,
 008357,ZS-ALJ,E135,Embraer,ERJ-140,Embraer ERJ-140,0,Airlink,LNK,145579,2002
@@ -19,7 +28,9 @@
 0083B8,ZS-ASR,PC24,Pilatus,PC-24,Pilatus PC-24,0,Comair Flight Services,GCM,301,
 0083CC,ZS-ALF,E135,Embraer,ERJ-135KL,Embraer ERJ-135KL,0,Airlink,LNK,544,2001
 0083D1,ZS-ZXX,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,BB-1077,1982
+0083F2,ZS-SPX,BE55,Beechcraft,95-B55 Baron,Beechcraft 95-B55 Baron,1,Private,,TC-1773,
 008431,ZS-CMM,CRJ9,Bombardier,CRJ-900LR,Bombardier CRJ-900LR,0,CemAir,KEM,15215,2009
+0084A2,ZS-TRO,PC12,Pilatus,PC-12 PRO,Pilatus PC-12 PRO,0,Trollope Mining Services,,3051,
 00856D,ZS-CAU,CRJ9,Bombardier,CRJ-900ER,Bombardier CRJ-900ER,0,CemAir,KEM,15038,2005
 0085B8,ZS-ZWH,B738,Boeing,737-8LD(WL),Boeing 737-8LD(WL),0,Safair,SFR,40971,2016
 008692,ZS-CMB,CRJ1,Bombardier,CRJ-100ER,Bombardier CRJ-100ER,0,CemAir,KEM,7215,1998
@@ -27,6 +38,7 @@
 00869F,ZS-CMO,CRJ9,Canadair,CRJ-900LR,Canadair CRJ-900LR,0,CemAir,KEM,15400,2016
 0086A8,ZS-CMX,CRJ7,Bombardier,CRJ-702ER,Bombardier CRJ-702ER,0,CemAir,KEM,10303,2010
 0086AA,ZS-CMZ,CRJ7,Bombardier,CRJ-702,Bombardier CRJ-702,0,CemAir,KEM,10289,2009
+0086F3,ZS-PHR,P32R,Piper,Saratoga II TC,Piper Saratoga II TC,1,Private,,3257442,
 0086F6,ZS-YBC,E170,Embraer,ERJ-170-100,Embraer ERJ-170-100,0,Airlink,LNK,17000006,2002
 00874F,ZS-CTI,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,,
 00885E,ZS-TFY,B733,Boeing,737-3U3,Boeing 737-3U3,0,Africa Charter Airline,FSK,28733,1998
@@ -35,8 +47,10 @@
 00893D,ZS-DMI,B734,Boeing,737-4S3,Boeing 737-4S3,0,Safair,SFR,24165,1989
 008948,ZS-OCI,BE20,Beechcraft,200 King Air,Beechcraft 200 King Air,1,Private,,BB-121,1976
 0089D3,ZS-CMD,CRJ2,Bombardier,CRJ-200,Bombardier CRJ-200,0,CemAir,KEM,7924,2004
+008B67,ZS-LER,M20P,Mooney,M20J,Mooney M20J,1,Private,,24-1170,
 008C44,ZS-CMU,CRJ9,Bombardier,CRJ-900LR,Bombardier CRJ-900LR,0,CemAir,KEM,15063,2006
 008D3C,ZS-TLY,B734,Boeing,737-476(SF),Boeing 737-476(SF),0,Africa Charter Airline,FSK,24446,1994
+008D8F,ZS-FCW,C25M,Cessna,525 Citation M2,Cessna 525 Citation M2,0,Whelpton Investments,,525-0834,2014
 008DE6,ZS-FGF,B738,Boeing,737-8AS,Boeing 737-8AS,0,Safair,SFR,35042,2011
 008DE8,ZS-FGH,B738,Boeing,737-8AS,Boeing 737-8AS,0,Safair,SFR,35005,2009
 008DEA,ZS-FGJ,B738,Boeing,737-8AS,Boeing 737-8AS,0,Safair,SFR,37542,2009
@@ -45,6 +59,8 @@
 008DF3,ZS-FGS,B738,Boeing,737-8GP,Boeing 737-8GP,0,Safair,SFR,39881,2016
 008DF8,ZS-FGX,B738,Boeing,737-8HO,Boeing 737-8HO,0,Safair,SFR,37933,2010
 008DF9,ZS-FGY,B738,Boeing,737-8HO,Boeing 737-8HO,0,Safair,SFR,3459,2010
+008E19,ZS-EXS,P28A,Piper,Cherokee 28-180C,Piper Cherokee 28-180C,1,Private,,28-3847,1967
 008E98,ZS-FNB,CL30,Bombardier,BD-100-1A10 Challenger 300,Bombardier BD-100-1A10 Challenger 300,1,Private,,20247,
 008F08,ZS-FRJ,BE20,Beechcraft,B200 Super King Air,Beechcraft B200 Super King Air,1,Private,,2150,
+008F63,ZS-TAM,C182,Cessna,182T Skylane,Cessna 182T Skylane,1,Private,,18281224,2003
 008FEB,ZS-GAC,A320,Airbus,A320-232,Airbus A320-232,0,LIFT Airline,GBB,2498,2005

@@ -31,6 +31,7 @@ AC37BD,N8869L,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42
 AC380D,N887CE,F2TH,Dassault,Falcon 2000,Dassault Falcon 2000,1,Private,,391,2022
 AC3880,N887GV,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6357,2018
 AC38D3,N887LC,CL30,Bombardier,BD-100-1A10 Challenger 300,Bombardier BD-100-1A10 Challenger 300,1,Private,,20198,2008
+AC39CF,N887WE,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,Solairus Aviation,TWY,6124,2014
 AC39D8,N887WP,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,1,Private,,560-5147,2001
 AC3A38,N8870K,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42679,2023
 AC3A60,N8871Q,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Southwest Airlines,SWA,42678,2023
@@ -63,4 +64,5 @@ AC3F4C,N889AH,GLF5,Gulfstream,V,Gulfstream V,0,Pegasus Elite Aviation,PEG,512,19
 AC3F65,N889BH,GLF4,Gulfstream,IV,Gulfstream IV,0,Prima Air,,1121,1989
 AC3F7E,N889CH,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,0,Pegasus Elite Aviation,PEG,6118,2015
 AC3F81,N889CL,B738,Boeing,737-8LZ (BBJ2),Boeing 737-8LZ (BBJ2),0,Pasaca Capital,,42510,2013
+AC3FA5,N889DX,GL7T,Bombardier,Global 8000,Bombardier Global 8000,1,Private,,70251,2025
 AC3FFB,N889HH,GLF4,Gulfstream,G450,Gulfstream G450,0,Executive Jet Management,EJM,4029,2022

@@ -1,12 +1,16 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 A7F0C5,N610WU,C750,Cessna,750 Citation X,Cessna 750 Citation X,0,Wheels Up,GAJ,7500054,1998
+A7F2D2,N611DT,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Delta Air Lines,DAL,13179,2026
 A7F302,N611FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11204,2023
 A7F308,N611FX,E550,Embraer,Praetor 600,Embraer Praetor 600,0,Flexjet,LXJ,55020218,2024
 A7F342,N611JE,GLF4,Gulfstream,G450,Gulfstream G450,0,Jet Edge,EDG,4256,2012
 A7F34F,N611JT,HDJT,Honda,HA-420 HondaJet,Honda HA-420 HondaJet,1,Private,,42000235,2022
 A7F36F,N611L,C208,Cessna,208 Caravan,Cessna 208 Caravan,1,Private,,20800299,1999
 A7F3C5,N611PL,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Solairus Aviation,TWY,6533,
+A7F4E7,N61101,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,United Airlines,UAL,68647,2025
+A7F4E9,N61103,B789,Boeing,787-9 Dreamliner,Boeing 787-9 Dreamliner,0,United Airlines,UAL,68649,2026
 A7F6B9,N612FR,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,Frontier Airlines,FFT,11259,2023
+A7F6FE,N612JK,GA5C,Gulfstream,G500,Gulfstream G500,1,Private,,72111,2022
 A7F8F0,N6123C,B25,North American,B-25J Mitchell,North American B-25J Mitchell,0,The Flying Bulls,,108-47647,
 A7F9F2,N613AQ,GLF5,Gulfstream,G550,Gulfstream G550,0,Executive Jet Management,EJM,5181,2008
 A7FA4C,N613EE,H25B,Hawker Beechcraft,850,Hawker 850,1,Private,,258784,2006

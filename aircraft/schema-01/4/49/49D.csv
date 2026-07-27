@@ -8,6 +8,7 @@
 49D135,OK-WAY,CL60,Bombardier,Challenger CL605,Bombardier Challenger CL605,0,Eclair Aviation,ECC,5953,2014
 49D262,OK-ZDR,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2185,
 49D2D8,OK-MXM,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,0,Alpha Aviation,AAO,2277,2023
+49D2F3,OK-WWW,M20P,Mooney,M-20F Executive,Mooney M-20F Executive,1,Private,,680130,
 49D33D,OK-NEO,E50P,Embraer,Phenom 100,Embraer Phenom 100,0,Alpha Aviation,AAO,50000443,2023
 49D387,OK-PHO,E55P,Embraer,EMB 505 Phenom 300,Embraer EMB 505 Phenom 300,0,CTR Atmospherica Aviation,,50500709,
 49D390,OK-MIT,C340,Cessna,340A,Cessna 340A,0,PRIMIS,,340A0355,1977
@@ -59,3 +60,10 @@
 49D62C,OK-PHP,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Atmospherica Aviation,AAN,50500891,2025
 49D62D,OK-PHN,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Atmospherica Aviation,AAN,50500892,2025
 49D630,OK-ELA,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Elio Jet,,50500915,2025
+49D64D,OK-MBS,LJ75,Learjet,75,Learjet 75,0,Eclair Aviation,ECC,45-529,2015
+49D665,OK-VNA,C680,Cessna,Citation Sovereign,Cessna Citation Sovereign,0,Air Bohemia,BOH,680-0302,
+49D675,OK-ELB,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,0,Elio Jet,,50500932,2026
+49D676,OK-CUS,C56X,Cessna,560XL Citation XLS+,Cessna 560XL Citation XLS+,0,Silesia Air,SUA,560-6220,2016
+49D677,OK-UFF,C56X,Cessna,Citation XLS+,Cessna Citation XLS+,0,Silesia Air,SUA,560-6131,2013
+49D67D,OK-SWO,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Smartwings,TVS,62942,2026
+49D694,OK-VQS,GA5C,Gulfstream Aerospace,G500,Gulfstream Aerospace G500,0,Avcon Jet,AOJ,72090,2021

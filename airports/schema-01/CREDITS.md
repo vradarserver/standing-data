@@ -6,16 +6,16 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `PietD`                        | 257 |
-| `科罗娜`                          | 82 |
+| `PietD`                        | 262 |
+| `科罗娜`                          | 84 |
 | `EDDG`                         | 61 |
 | `vand`                         | 57 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 29 |
+| `Lanorge`                      | 14 |
 | `Serge F4IPO`                  | 14 |
 | `AH-1`                         | 13 |
 | `sib64`                        | 13 |
-| `Lanorge`                      | 12 |
 | `Pascal Ensinck`               | 10 |
 | `Dauren`                       | 9 |
 | `Saizen`                       | 8 |

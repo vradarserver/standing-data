@@ -181,9 +181,16 @@
 500416,T7-TBA,GL7T,Bombardier,Global 7500 (BD-700-2A12),Bombardier Global 7500 (BD-700-2A12),0,Avcon Jet San Marino,VAJ,70207,2024
 500419,T7-GHN,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Deer Jet,DER,6503,2022
 50044C,T7-PMM,GL7T,Bombardier,BD-700-2A12 Global 7500,Bombardier BD-700-2A12 Global 7500,1,Private,,70217,
+500462,T7-178HT,GL7T,Bombardier,Global 7500,Bombardier Global 7500,0,Amber Aviation,TCI,70158,2023
 500464,T7-EITAN,GALX,Gulfstream,G200 Galaxy,Gulfstream G200 Galaxy,1,Private,,181,
+500469,T7-CDS,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5057,
+500482,T7-GALX,GLF6,Gulfstream Aerospace,G650,Gulfstream Aerospace G650,1,Private,,6086,2013
 500484,T7-AMA,GLEX,Bombardier,Global Express XRS,Bombardier Global Express XRS,1,Private,,9332,
 50048F,T7-PJ29,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,0,Luxaviation San Marino,LSM,122,
 500490,T7-ARES2,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Jet Aviation Business Jets UAE,,9620,2014
 50049A,T7-G45,GLF4,Gulfstream Aerospace,G450,Gulfstream Aerospace G450,1,Private,,4314,
 50049B,T7-BLV,B737,Boeing,737-79V BBJ,Boeing 737-79V BBJ,0,Flash Jet,,61040,2015
+5004A8,T7-ISZ,E190,Embraer,Lineage 1000,Embraer Lineage 1000,0,Flash Jet,,19000611,2013
+5004CE,T7-OREX,GA6C,Gulfstream Aerospace,G-7 Gulfstream G600,Gulfstream Aerospace G-7 Gulfstream G600,0,Ellipse Care,,73177,2023
+5004E3,T7-FBB,A320,Airbus,A320-233,Airbus A320-233,0,Middle East Airlines,MEA,07088,2016
+5004F0,T7-BMB,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,1,Private,,5366,2012
