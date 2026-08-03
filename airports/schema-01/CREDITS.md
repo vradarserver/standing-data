@@ -22,8 +22,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Mickael H.`                   | 7 |
 | `argz`                         | 6 |
 | `squawk7000`                   | 6 |
+| `Mark Taylor`                  | 5 |
 | `gandym`                       | 4 |
-| `Mark Taylor`                  | 4 |
 | `Glock_09`                     | 3 |
 | `nik`                          | 3 |
 | `Rosen85`                      | 3 |

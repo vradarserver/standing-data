@@ -1,5 +1,6 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 39C466,F-HRDG,E55P,Embraer,Phenom 300,Embraer Phenom 300,0,PH Occitanie,,50500644,
+39C4C3,F-HRGD,E145,Embraer,ERJ-145 LU,Embraer ERJ-145 LU,0,VallJet,VLJ,145369,2000
 39C501,F-HRIB,C525,Cessna,525 Citation CJ1,Cessna 525 Citation CJ1,0,VallJet,VLJ,525-0188,
 39C58F,F-HRMP,C25B,Cessna,525B Citation CJ3,Cessna 525B Citation CJ3,1,Private,,525B0059,2006
 39C821,F-HSBB,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697659,
