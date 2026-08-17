@@ -8,20 +8,20 @@ Please note that credit files are updated less frequently than the data files.
 | :--                            | --: |
 | `dirkhh`                       | 390,211 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 80,801 |
+| `vand`                         | 81,279 |
 | `科罗娜`                          | 40,784 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,325 |
+| `sib64`                        | 21,369 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,451 |
+| `Lanorge`                      | 20,484 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `Markus`                       | 8,896 |
-| `aircraftenthusiast2000`       | 8,893 |
+| `aircraftenthusiast2000`       | 8,920 |
+| `Markus`                       | 8,897 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -35,7 +35,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
 | `Bokworks`                     | 2,870 |
-| `Gavin-D`                      | 2,742 |
+| `Gavin-D`                      | 2,746 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
@@ -74,7 +74,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sergpan2008`                  | 1,098 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
-| `gabo03`                       | 928 |
+| `gabo03`                       | 945 |
 | `Jan Neuvians`                 | 922 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -149,8 +149,8 @@ Please note that credit files are updated less frequently than the data files.
 | `KNakada`                      | 247 |
 | `Jim Anderson`                 | 243 |
 | `Kooter`                       | 232 |
+| `danielaregay`                 | 227 |
 | `giofloripa`                   | 227 |
-| `danielaregay`                 | 225 |
 | `spudjr`                       | 225 |
 | `Ljubo`                        | 223 |
 | `Franck Dosdane`               | 221 |
