@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 396,855 |
+| `dirkhh`                       | 397,859 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 82,332 |
-| `科罗娜`                          | 41,061 |
+| `vand`                         | 82,536 |
+| `科罗娜`                          | 41,139 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,390 |
+| `sib64`                        | 21,393 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,578 |
+| `Lanorge`                      | 20,594 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
 | `aircraftenthusiast2000`       | 8,967 |
-| `Markus`                       | 8,901 |
+| `Markus`                       | 8,905 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -74,7 +74,7 @@ Please note that credit files are updated less frequently than the data files.
 | `sergpan2008`                  | 1,098 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
-| `gabo03`                       | 966 |
+| `gabo03`                       | 972 |
 | `Jan Neuvians`                 | 922 |
 | `Mickael H.`                   | 918 |
 | `ahe880`                       | 912 |
@@ -217,10 +217,10 @@ Please note that credit files are updated less frequently than the data files.
 | `Nagg`                         | 102 |
 | `hangyong`                     | 100 |
 | `sbartley`                     | 99 |
+| `AdriBrum`                     | 97 |
 | `esir`                         | 97 |
 | `GaryG`                        | 97 |
 | `Cedric`                       | 96 |
-| `AdriBrum`                     | 92 |
 | `Greg W`                       | 89 |
 | `ccie4526`                     | 88 |
 | `Trond Erik`                   | 88 |
@@ -242,9 +242,9 @@ Please note that credit files are updated less frequently than the data files.
 | `Christian Borchmann-Backhaus` | 72 |
 | `slubke`                       | 72 |
 | `Edward Gaudion`               | 71 |
+| `ez_duce`                      | 71 |
 | `Forssi`                       | 71 |
 | `Nightwish`                    | 71 |
-| `ez_duce`                      | 70 |
 | `Joel Harris`                  | 69 |
 | `CWesley`                      | 68 |
 | `dboivent`                     | 68 |
@@ -1035,6 +1035,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Milan Wölfl`                  | 1 |
 | `minijay`                      | 1 |
 | `MM97`                         | 1 |
+| `MortimerCat`                  | 1 |
 | `motokops`                     | 1 |
 | `mtpratt`                      | 1 |
 | `mw0jni`                       | 1 |
@@ -1094,6 +1095,7 @@ Please note that credit files are updated less frequently than the data files.
 | `strnmn`                       | 1 |
 | `Stuart Woodcock`              | 1 |
 | `Supermikko`                   | 1 |
+| `swameee`                      | 1 |
 | `Tamir`                        | 1 |
 | `tcfx44`                       | 1 |
 | `TedH`                         | 1 |
