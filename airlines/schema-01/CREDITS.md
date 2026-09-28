@@ -6,11 +6,11 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                    | Contributions |
 | :--                     | --: |
-| `Andrew`                | 446 |
-| `PietD`                 | 275 |
-| `科罗娜`                   | 171 |
-| `Lanorge`               | 131 |
-| `britiger`              | 97 |
+| `Andrew`                | 448 |
+| `PietD`                 | 277 |
+| `科罗娜`                   | 178 |
+| `Lanorge`               | 143 |
+| `britiger`              | 102 |
 | `EDDG`                  | 90 |
 | `vand`                  | 86 |
 | `sib64`                 | 43 |
@@ -64,6 +64,7 @@ Please note that credit files are updated less frequently than the data files.
 | `RZH`                   | 2 |
 | `spotterblog`           | 2 |
 | `yaacars`               | 2 |
+| `AdriBrum`              | 1 |
 | `Aerovilla`             | 1 |
 | `ahernandez`            | 1 |
 | `alecu`                 | 1 |
@@ -88,6 +89,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Manfred`               | 1 |
 | `Martin Salazar`        | 1 |
 | `Mitch`                 | 1 |
+| `MortimerCat`           | 1 |
 | `mouflonwrangler1`      | 1 |
 | `Planespotter6`         | 1 |
 | `RBBrasil`              | 1 |

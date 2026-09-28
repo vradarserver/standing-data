@@ -1,6 +1,7 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 502CCD,YL-CSD,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55006,2017
 502CD7,YL-CSH,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55016,2017
+502CE3,YL-CSI,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55034,2018
 502D31,YL-LDP,A321,Airbus,A321-211(P2F),Airbus A321-211(P2F),0,SmartLynx Airlines,ART,1241,2022
 502D33,YL-LDD,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines,ART,3264,2007
 502D34,YL-LDE,A320,Airbus,A320-232,Airbus A320-232,0,SmartLynx Airlines,ART,3330,2007
@@ -67,4 +68,6 @@
 502DAF,YL-YYP,CL60,Bombardier,Challenger 650,Bombardier Challenger 650,0,Union Aviation,UAG,6221,2025
 502DB2,YL-BTE,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55436,2026
 502DB3,YL-BTF,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55440,2026
+502DB4,YL-BTG,BCS3,Airbus,A220-300,Airbus A220-300,0,Air Baltic,BTI,55460,2026
 502DB6,YL-ELF,GLEX,Bombardier,Global 6500,Bombardier Global 6500,0,Union Aviation,UAG,60135,2024
+502DBC,YL-WAY,GLEX,Bombardier,Global 6000,Bombardier Global 6000,0,Union Aviation,UAG,9535,2013

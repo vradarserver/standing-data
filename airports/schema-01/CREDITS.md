@@ -9,7 +9,7 @@ Please note that credit files are updated less frequently than the data files.
 | `PietD`                        | 262 |
 | `科罗娜`                          | 84 |
 | `EDDG`                         | 61 |
-| `vand`                         | 57 |
+| `vand`                         | 58 |
 | `DennyCrane`                   | 35 |
 | `Andrew`                       | 29 |
 | `Lanorge`                      | 14 |
@@ -24,6 +24,7 @@ Please note that credit files are updated less frequently than the data files.
 | `squawk7000`                   | 6 |
 | `Mark Taylor`                  | 5 |
 | `gandym`                       | 4 |
+| `Gavin-D`                      | 3 |
 | `Glock_09`                     | 3 |
 | `nik`                          | 3 |
 | `Rosen85`                      | 3 |
@@ -64,7 +65,6 @@ Please note that credit files are updated less frequently than the data files.
 | `EGPD1701`                     | 1 |
 | `elljay`                       | 1 |
 | `furkan`                       | 1 |
-| `Gavin-D`                      | 1 |
 | `Gprad`                        | 1 |
 | `Harrison Jones`               | 1 |
 | `haydenc2`                     | 1 |

@@ -1,2 +1,4 @@
 ﻿ICAO,Registration,ModelICAO,Manufacturer,Model,ManufacturerAndModel,IsPrivateOperator,Operator,AirlineCode,SerialNumber,YearBuilt
 E16147,LV-VEG,GLF5,Gulfstream,V,Gulfstream V,0,Flyzar,,582,2000
+E16204,LV-VHD,AT8T,Air Tractor,AT-802,Air Tractor AT-802,0,Servicio Nacional de Manejo del Fuego (Argentina),,,
+E16250,LV-VIP,C25A,Cessna,Citation CJ2,Cessna Citation CJ2,0,Digital Air,,525A0473,2010

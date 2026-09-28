@@ -9,27 +9,39 @@ E4A0C5,PS-SRN,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5233,2009
 E4A0D5,PS-VLP,E35L,Embraer,Legacy 600,Embraer Legacy 600,1,Private,,14500884,2005
 E4A117,PP-OIG,GLF6,Gulfstream,G650ER,Gulfstream G650ER,0,One Internet,,6008,
 E4A121,PS-MBO,C25B,Cessna,Citation CJ3,Cessna Citation CJ3,1,Private,,525B0728,2024
+E4A128,PS-LHE,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,08877,2019
 E4A130,PR-XBW,A20N,Airbus,A320-271N,Airbus A320-271N,0,TAM Brazilian Airlines,TAM,12497,2025
 E4A13C,PS-AJB,A321,Airbus,A321-231(P2F),Airbus A321-231(P2F),0,Azul,AZU,02759,2006
 E4A13D,PS-AJA,A321,Airbus,A-321,Airbus A-321,0,Azul,AZU,02741,2006
 E4A1A8,PS-LVE,C510,Cessna,510 Citation Mustang,Cessna 510 Citation Mustang,1,Private,,510-0091,2008
 E4A1FD,PR-OGC,C56X,Cessna,Citation XLS,Cessna Citation XLS,1,Private,,560-6342,2023
+E4A201,PS-IGI,C25M,Cessna,Citation M2,Cessna Citation M2,1,Private,,525-1195,2025
 E4A227,PR-SJA,B737,Boeing,737-79P,Boeing 737-79P,0,Sideral Linhas Aéreas,SID,30651,2002
 E4A22A,PS-RIO,GA6C,Gulfstream,G600,Gulfstream G600,1,Private,,73168,2024
 E4A22C,PR-VPA,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,,
 E4A266,PT-CTA,GL5T,Bombardier,Global 5000,Bombardier Global 5000,1,Private,,9305,2008
 E4A2AF,PP-KMC,F2TH,Dassault,Falcon 2000EX,Dassault Falcon 2000EX,1,Private,,074,2006
+E4A2B6,PS-ADJ,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020178,2025
 E4A2D2,PS-PHE,E50P,Embraer,Phenom 100EX,Embraer Phenom 100EX,1,Private,,50000465,2025
+E4A2D4,PS-LBP,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,12763,2025
+E4A2D5,PS-LBQ,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,13028,2025
 E4A2E7,PP-WNG,BE40,Hawker Beechcraft,400A,Hawker Beechcraft 400A,1,Private,,RK-282,2000
 E4A32C,PR-DSM,C56X,Cessna,560XL Citation Excel,Cessna 560XL Citation Excel,1,Private,,560-5329,2003
 E4A345,PS-MEV,E550,Embraer,Praetor 600,Embraer Praetor 600,1,Private,,55020231,2025
 E4A356,PS-GCE,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5089,2005
 E4A370,PP-FRR,E50P,Embraer,Phenom 100EV,Embraer Phenom 100EV,1,Private,,50000447,2024
+E4A390,PS-ADL,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020194,2025
 E4A392,PS-FGE,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020195,2025
 E4A418,PS-MGG,GA7C,Gulfstream,G700,Gulfstream G700,1,Private,,87039,2024
 E4A42C,PS-MJV,PA46,Piper,Malibu Matrix,Piper Malibu Matrix,1,Private,,4692018,2008
 E4A4FE,PS-BDR,LJ45,Learjet,45,Learjet 45,1,Private,,45-085,2000
+E4A527,PS-LBS,A21N,Airbus,A321-271NX,Airbus A321-271NX,0,TAM Brazilian Airlines,TAM,13099,2026
 E4A537,PP-ABY,F900,Dassault,Falcon 900EX,Dassault Falcon 900EX,1,Private,,068,2000
+E4A53C,PS-FAJ,G150,Gulfstream Aerospace,G150,Gulfstream Aerospace G150,1,Private,,286,2009
 E4A586,PS-VAA,M600,Piper,M600,Piper M600,1,Private,,4698033,2017
+E4A5D5,PS-FCA,E55P,Embraer,Phenom 300,Embraer Phenom 300,1,Private,,50500921,2025
+E4A5DB,PS-HIP,C25C,Cessna,Citation CJ4,Cessna Citation CJ4,1,Private,,525C0481,2025
 E4A5EE,PS-MYM,E55P,Embraer,Phenom 300E,Embraer Phenom 300E,1,Private,,50500697,2022
+E4A613,PS-VOW,DA62,Diamond,DA-62,Diamond DA-62,0,VOWE Air Mobility,,62.090,2018
+E4A770,PS-ADM,E295,Embraer,E195-E2,Embraer E195-E2,0,Azul Linhas Aéreas Brasileiras,AZU,19020222,2026
 E4A7C2,PS-PSA,BE20,Beech,200 Super King Air,Beech 200 Super King Air,1,Private,,BB-108,1975

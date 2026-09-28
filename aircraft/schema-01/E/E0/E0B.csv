@@ -16,6 +16,7 @@ E0B110,LV-KDP,A320,Airbus,A320-232,Airbus A320-232,0,JetSMART,JAT,8493,2018
 E0B111,LV-KDQ,B738,Boeing,737-86N,Boeing 737-86N,0,Flybondi,FBZ,36808,2010
 E0B142,LV-KEB,GLF4,Gulfstream,G450,Gulfstream G450,1,Private,,4116,2008
 E0B146,LV-KEF,B738,Boeing,737-8U3,Boeing 737-8U3,0,Flybondi,FBZ,30147,2010
+E0B153,LV-KES,P46T,Piper,PA-46-500TP Malibu Meridian,Piper PA-46-500TP Malibu Meridian,1,Private,,4697359,2008
 E0B18F,LV-KFO,BE33,Beech,33 Bonanza,Beech 33 Bonanza,1,Private,,CE-447,1973
 E0B191,LV-KFQ,CL60,Canadair,Challenger 605,Canadair Challenger 605,0,Flyzar,,5809,2009
 E0B197,LV-KFW,B738,Boeing,737-8GJ,Boeing 737-8GJ,0,Andes Líneas Aéreas,ANS,37366,2011
@@ -54,6 +55,7 @@ E0B2D7,LV-KKW,BE20,Beech,200 Super King Air,Beech 200 Super King Air,0,Aerotec A
 E0B2DA,LV-KKZ,AT46,ATR,-42-600,ATR-42-600,0,American Jet,AJB,1616,2023
 E0B301,LV-KLA,B412,Bell,412EP,Bell 412EP,1,Private,,36490,2008
 E0B302,LV-KLB,GLF5,Gulfstream,G550,Gulfstream G550,0,Pacific Ocean,,5331,2011
+E0B305,LV-KLE,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Cheyenne,,9392,2011
 E0B308,LV-KLH,GLF5,Gulfstream,V,Gulfstream V,0,Flyzar,,639,2001
 E0B30B,LV-KLK,TWEN,Tecnam,P-2010 Twenty-Ten,Tecnam P-2010 Twenty-Ten,1,Private,,243,2024
 E0B30C,LV-KLL,BT36,Beech,A36TC Bonanza,Beech A36TC Bonanza,0,Falconer Aviation,,EA-232,1981
@@ -65,9 +67,12 @@ E0B316,LV-KLV,LJ45,Learjet,45,Learjet 45,0,Sundown Jet,,45-229,2003
 E0B341,LV-KMA,LJ60,Learjet,60,Learjet 60,0,Baires Fly,,60-048,1994
 E0B343,LV-KMC,BT36,Beech,B36TC Bonanza,Beech B36TC Bonanza,1,Private,,EA-458,1986
 E0B359,LV-KMY,C25M,Cessna,Citation M2,Cessna Citation M2,0,Juano S.A.,,525-1014,2019
+E0B388,LV-KNH,B505,Bell,505 Jet Ranger X,Bell 505 Jet Ranger X,0,Prodeman,,65558,2024
 E0B390,LV-KNP,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,66445,2025
 E0B391,LV-KNQ,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,68126,2025
 E0B392,LV-KNR,B38M,Boeing,737 MAX 8,Boeing 737 MAX 8,0,Aerolíneas Argentinas,ARG,68127,2025
+E0B3C1,LV-KOA,B190,Beech,1900D,Beech 1900D,0,Flytec,,UE-198,1996
+E0B3C7,LV-KOG,C680,Cessna,Citation Sovereign,Cessna Citation Sovereign,0,Aeromax,,680-0083,2006
 E0B3CD,LV-KOM,GLF5,Gulfstream Aerospace,G550,Gulfstream Aerospace G550,0,Excel Servicios Aéreos,,5140,2006
 E0B3D2,LQ-KOR,C56X,Cessna,Citation XLS+,Cessna Citation XLS+,0,Gobierno de la Provincia de Jujuy,,560-6289,2020
 E0B403,LQ-KPC,A109,Leonardo,AW-109 Trekker,Leonardo AW-109 Trekker,0,Gobierno de la Provincia de Corrientes,,22755,2025

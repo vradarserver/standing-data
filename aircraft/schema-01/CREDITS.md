@@ -7,23 +7,23 @@ Please note that credit files are updated less frequently than the data files.
 | Name                     | Contributions |
 | :--                      | --: |
 | `Peter Hutt`             | 5,255 |
-| `科罗娜`                    | 2,990 |
+| `科罗娜`                    | 3,084 |
 | `aircraftenthusiast2000` | 2,400 |
 | `OSN`                    | 1,763 |
 | `Andrew`                 | 1,303 |
-| `Lanorge`                | 531 |
+| `Lanorge`                | 587 |
 | `EDDN`                   | 398 |
-| `SkyDiscovery`           | 342 |
+| `SkyDiscovery`           | 352 |
 | `aircraftenthusiast20`   | 340 |
-| `BudBundi`               | 289 |
+| `BudBundi`               | 304 |
+| `vrsspotter73`           | 248 |
 | `andrw`                  | 232 |
-| `vrsspotter73`           | 219 |
+| `topoguido`              | 197 |
 | `Ljubo`                  | 151 |
-| `topoguido`              | 145 |
 | `AH-1`                   | 133 |
 | `EDDT Manu`              | 105 |
 | `spotterblog`            | 104 |
-| `britiger`               | 83 |
+| `britiger`               | 93 |
 | `Gprad`                  | 82 |
 | `Rebelvenice2`           | 57 |
 | `RZH`                    | 49 |
@@ -32,7 +32,7 @@ Please note that credit files are updated less frequently than the data files.
 | `wogman`                 | 31 |
 | `dziban molniya`         | 30 |
 | `Jayant Shah`            | 29 |
-| `is0bzc`                 | 26 |
+| `is0bzc`                 | 27 |
 | `flybull`                | 24 |
 | `Gavin-D`                | 23 |
 | `MariahLski`             | 21 |
@@ -50,10 +50,10 @@ Please note that credit files are updated less frequently than the data files.
 | `iu3ind`                 | 9 |
 | `kiwikieran`             | 9 |
 | `Luis Cova`              | 9 |
+| `AdriBrum`               | 8 |
 | `neslin`                 | 8 |
 | `Seb Gray`               | 8 |
 | `TomKot`                 | 8 |
-| `AdriBrum`               | 7 |
 | `darjes`                 | 7 |
 | `Kjella0226`             | 7 |
 | `Nightwish`              | 7 |
@@ -63,8 +63,10 @@ Please note that credit files are updated less frequently than the data files.
 | `struart`                | 5 |
 | `cyxs`                   | 4 |
 | `DerGeier`               | 4 |
+| `ez_duce`                | 4 |
 | `nm2588`                 | 4 |
 | `thecowan`               | 4 |
+| `Av8Tor`                 | 3 |
 | `ews997881`              | 3 |
 | `gabo03`                 | 3 |
 | `Manny`                  | 3 |
@@ -77,10 +79,8 @@ Please note that credit files are updated less frequently than the data files.
 | `Sizamonit`              | 3 |
 | `W4VS`                   | 3 |
 | `Anton`                  | 2 |
-| `Av8Tor`                 | 2 |
 | `Bobby Mhor`             | 2 |
 | `Cocorote`               | 2 |
-| `ez_duce`                | 2 |
 | `feimau`                 | 2 |
 | `GTR8000`                | 2 |
 | `jasoveen`               | 2 |
@@ -97,6 +97,7 @@ Please note that credit files are updated less frequently than the data files.
 | `arcticfox.92`           | 1 |
 | `Arnaud Albert`          | 1 |
 | `Avioradar`              | 1 |
+| `bfahle`                 | 1 |
 | `Blackeye`               | 1 |
 | `caro-ed`                | 1 |
 | `Cheyenne`               | 1 |
@@ -115,6 +116,7 @@ Please note that credit files are updated less frequently than the data files.
 | `KaliKeira`              | 1 |
 | `maltesepricklypear`     | 1 |
 | `mantisNZ`               | 1 |
+| `MortimerCat`            | 1 |
 | `nnalbant`               | 1 |
 | `nskll`                  | 1 |
 | `Oblivian`               | 1 |

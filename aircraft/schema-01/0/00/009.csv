@@ -5,6 +5,7 @@
 00909B,ZS-BEV,PC12,Pilatus,PC-12 NGX,Pilatus PC-12 NGX,1,Private,,2246,
 009107,ZS-PVW,SR22,Cirrus,SR22,Cirrus SR22,1,Private,,1818,
 009125,ZS-MFJ,BE58,Beechcraft,Beech 58 Baron,Beechcraft Beech 58 Baron,1,Private,,TH-817,
+00921D,ZS-ESE,S05R,SIAI-Marchetti,S.205-20/R,SIAI-Marchetti S.205-20/R,1,Private,,368,
 0092E6,ZS-YDE,E195,Embraer,ERJ-195AR,Embraer ERJ-195AR,0,Airlink,LNK,88,2007
 0092ED,ZS-NIU,PC6T,Pilatus,PC-6/B2-H4 Turbo Porter,Pilatus PC-6/B2-H4 Turbo Porter,0,South Africa - Police,,897,
 0093A2,ZS-LTD,BE9T,Beechcraft,F90 King Air,Beechcraft F90 King Air,1,Private,,LA-63,1980
@@ -14,9 +15,11 @@
 009427,ZS-BJW,E190,Embraer,E195-E2,Embraer E195-E2,0,Airlink,LNK,19020192,2025
 009488,ZT-REB,A119,AgustaWestland,AW119 Koala,AgustaWestland AW119 Koala,0,SA Red Cross Air Mercy Service,AMD,14827,
 0094D7,ZS-YDA,E190,Embraer,E195LR,Embraer E195LR,0,Airlink,LNK,19000765,2019
+0095DE,ZS-JXD,C177,Cessna,177B Cardinal,Cessna 177B Cardinal,1,Private,,17702583,
 0096C6,ZS-ZWV,B738,Boeing,737-8K5,Boeing 737-8K5,0,Safair,SFR,,
 00978B,ZT-HIS,B407,Bell,407GXP,Bell 407GXP,1,Private,,,
 00979B,ZS-YBE,E75S,Embraer,E175STD,Embraer E175STD,0,Airlink,LNK,17000343,2012
+0097B5,ZS-ISF,P28A,Piper,Cherokee Challenger,Piper Cherokee Challenger,1,Private,,28-7305005,
 0097BC,ZS-IZB,C551,Cessna,551 Citation  II,Cessna 551 Citation  II,1,Private,,551-0360,
 0097F9,ZS-FSR,BE36,Beech,36 Bonanza,Beech 36 Bonanza,1,Private,,E-171,1969
 009809,ZS-JCA,C208,Cessna,208 Caravan 675,Cessna 208 Caravan 675,1,Private,,,
@@ -32,3 +35,6 @@
 009D4A,ZS-SZB,A320,Airbus,A320-232,Airbus A320-232,0,South African Airways,SAA,5680,2013
 009E06,ZS-SGZ,A320,Airbus,A320-232(WL),Airbus A320-232(WL),0,South African Airways,SAA,7988,2017
 009E21,ZS-LKA,E295,Embraer,E195-E2,Embraer E195-E2,0,Airlink,LNK,19020200,2025
+009E26,ZS-LKF,E295,Embraer,195-E2,Embraer 195-E2,0,Airlink,LNK,19020231,2026
+009E27,ZS-LKG,E295,Embraer,E195-E2,Embraer E195-E2,0,Airlink,LNK,20229,2026
+009E2B,ZS-LKK,E295,Embraer,E195-E2,Embraer E195-E2,0,Airlink,LNK,20233,2026

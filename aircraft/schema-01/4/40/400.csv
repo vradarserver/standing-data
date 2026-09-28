@@ -11,6 +11,7 @@
 400246,VP-CWJ,A333,Airbus,A330-302,Airbus A330-302,0,CDB Aviation,,1370,2012
 40024A,VP-CEK,A320,Airbus,A320-214,Airbus A320-214,0,SMBC Aviation Capital,,06072,2014
 40026F,VP-CRF,C25C,Cessna,525C Citation CJ4,Cessna 525C Citation CJ4,1,Private,,525C0436,2024
+400275,VP-CWS,GLF4,Gulfstream Aerospace,G450,Gulfstream G450,1,Private,,4272,2012
 400278,VP-CHH,E190,Embraer,E190LR,Embraer E190LR,0,CDB Aviation,,19000613,2013
 400280,VP-CKJ,A320,Airbus,A320-232,Airbus A320-232,1,Private,,05135,2012
 400283,VP-CCB,B738,Boeing,737-8Q8,Boeing 737-8Q8,1,Private,,30705,2006
@@ -28,6 +29,7 @@
 4002B5,VP-CHY,FA8X,Dassault,Falcon 8X,Dassault Falcon 8X,0,Deer Jet Beijing,BDJ,515,
 4002B6,VP-CDY,A319,Airbus,A319-112,Airbus A319-112,1,Private,,3983,2009
 4002B7,VP-COY,FA7X,Dassault,Falcon 7X,Dassault Falcon 7X,1,Private,,250,2014
+4002B8,VP-CSL,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet Cayman,,6477,2021
 4002B9,VP-CNS,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Hong Kong New Long Airlines,,87067,2025
 4002BA,VP-CJV,GLF6,Gulfstream,G650ER,Gulfstream G650ER,1,Private,,6215,2016
 4002BB,VP-CXM,GLF5,Gulfstream,G550,Gulfstream G550,1,Private,,5536,2016
@@ -36,6 +38,10 @@
 4002C3,VP-CNF,GL7T,Bombardier,Global 8000,Bombardier Global 8000,0,Metrojet (Hong Kong),,70257,2026
 4002C4,VP-CXL,GA7C,Gulfstream Aerospace,G700,Gulfstream Aerospace G700,0,Metrojet,MTJ,87103,
 4002C5,VP-CMV,GLEX,Bombardier,Global 6000,Bombardier Global 6000,1,Private,,9091,2001
+4002C7,VP-CYG,GA8C,Gulfstream Aerospace,G800,Gulfstream Aerospace G800,0,Metrojet,MTJ,88028,2025
+4002CB,VP-CAH,GL5T,Bombardier,Global 5000,Bombardier Global 5000,0,Metrojet,MTJ,9149,2005
+4002CE,VP-CLG,GA6C,Gulfstream Aerospace,G600,Gulfstream Aerospace G600,0,Deer Jet Beijing,BDJ,73209,2026
+4002D3,VP-CDI,GLF6,Gulfstream Aerospace,G650ER,Gulfstream Aerospace G650ER,0,Sino Jet,SJD,6373,2019
 400396,VQ-TAG,E120,Embraer,EMB-120RT Brasilia,Embraer EMB-120RT Brasilia,0,Interisland Airways Limited,IWY,120018,1986
 400397,VQ-TLR,E145,Embraer,ERJ-145LR,Embraer ERJ-145LR,0,Interisland Airways Limited,IWY,145436,2001
 4004FE,G-MACY,B762,Boeing,767-204(BDSF),Boeing 767-204(BDSF),0,Maersk Air Cargo UK,MUK,24457,1989
