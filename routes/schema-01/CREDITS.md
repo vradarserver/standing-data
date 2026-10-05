@@ -6,15 +6,15 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 400,829 |
+| `dirkhh`                       | 400,915 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 84,865 |
-| `科罗娜`                          | 41,221 |
+| `vand`                         | 85,231 |
+| `科罗娜`                          | 41,528 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,448 |
+| `sib64`                        | 21,454 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,664 |
+| `Lanorge`                      | 20,665 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
@@ -73,7 +73,7 @@ Please note that credit files are updated less frequently than the data files.
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
 | `TEMU1086`                     | 998 |
-| `gabo03`                       | 986 |
+| `gabo03`                       | 991 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 922 |
 | `Mickael H.`                   | 918 |
@@ -98,7 +98,7 @@ Please note that credit files are updated less frequently than the data files.
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
 | `Peter Za, PhD`                | 581 |
-| `kirkmayers`                   | 554 |
+| `kirkmayers`                   | 555 |
 | `topoguido`                    | 553 |
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
@@ -190,10 +190,10 @@ Please note that credit files are updated less frequently than the data files.
 | `msunz`                        | 141 |
 | `YO5CRQ`                       | 138 |
 | `skyhawk`                      | 137 |
+| `vrsspotter73`                 | 137 |
 | `cdurand`                      | 136 |
 | `RawFlight.eu`                 | 135 |
 | `SkierInAvon`                  | 135 |
-| `vrsspotter73`                 | 134 |
 | `KWB`                          | 133 |
 | `Bidgee`                       | 132 |
 | `Luis Cova`                    | 132 |
