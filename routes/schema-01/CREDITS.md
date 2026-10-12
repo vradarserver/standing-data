@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 400,915 |
+| `dirkhh`                       | 401,272 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 85,231 |
-| `科罗娜`                          | 41,528 |
+| `vand`                         | 86,922 |
+| `科罗娜`                          | 41,569 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,454 |
+| `sib64`                        | 21,460 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,665 |
+| `Lanorge`                      | 20,671 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `aircraftenthusiast2000`       | 9,010 |
-| `Markus`                       | 8,918 |
+| `aircraftenthusiast2000`       | 9,029 |
+| `Markus`                       | 8,920 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -72,8 +72,8 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
+| `gabo03`                       | 1,000 |
 | `TEMU1086`                     | 998 |
-| `gabo03`                       | 991 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 922 |
 | `Mickael H.`                   | 918 |
@@ -304,10 +304,10 @@ Please note that credit files are updated less frequently than the data files.
 | `LazSpotter`                   | 40 |
 | `PAT-LFST`                     | 40 |
 | `Radiosutch`                   | 40 |
+| `xnib`                         | 40 |
 | `gazman321`                    | 39 |
 | `Radio Active`                 | 39 |
 | `svedjehammar`                 | 39 |
-| `xnib`                         | 39 |
 | `aizanin`                      | 38 |
 | `Lama Bleu`                    | 38 |
 | `Matt.K`                       | 38 |
