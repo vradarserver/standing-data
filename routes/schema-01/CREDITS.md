@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 401,272 |
+| `dirkhh`                       | 401,306 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 86,922 |
-| `科罗娜`                          | 41,569 |
+| `vand`                         | 87,594 |
+| `科罗娜`                          | 41,752 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
-| `sib64`                        | 21,460 |
+| `sib64`                        | 21,463 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,671 |
+| `Lanorge`                      | 20,706 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `aircraftenthusiast2000`       | 9,029 |
-| `Markus`                       | 8,920 |
+| `aircraftenthusiast2000`       | 9,084 |
+| `Markus`                       | 8,922 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -61,7 +61,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Cody E`                       | 1,388 |
 | `sesom`                        | 1,375 |
 | `Jason`                        | 1,374 |
-| `Dauren`                       | 1,361 |
+| `Dauren`                       | 1,370 |
 | `paradiselost`                 | 1,352 |
 | `Daniel.cornejo.campos`        | 1,329 |
 | `Andrew`                       | 1,220 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `gabo03`                       | 1,000 |
+| `gabo03`                       | 1,009 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 922 |
@@ -84,7 +84,7 @@ Please note that credit files are updated less frequently than the data files.
 | `jmd64`                        | 805 |
 | `argz`                         | 780 |
 | `SQ5IRZ`                       | 775 |
-| `wogman`                       | 757 |
+| `wogman`                       | 765 |
 | `foxhunter`                    | 729 |
 | `delcomp`                      | 715 |
 | `eastons`                      | 701 |
@@ -417,6 +417,7 @@ Please note that credit files are updated less frequently than the data files.
 | `mars`                         | 16 |
 | `neslin`                       | 16 |
 | `phoenix14`                    | 16 |
+| `Renétje`                      | 16 |
 | `verygoot`                     | 16 |
 | `Wesaero`                      | 16 |
 | `bg8sr`                        | 15 |
@@ -424,6 +425,7 @@ Please note that credit files are updated less frequently than the data files.
 | `cyzy`                         | 15 |
 | `OST Virtual Aviations`        | 15 |
 | `Rafael Dang`                  | 15 |
+| `rpedersen360`                 | 15 |
 | `Thiago Machado`               | 15 |
 | `arapon2006`                   | 14 |
 | `Bertrand G.`                  | 14 |
