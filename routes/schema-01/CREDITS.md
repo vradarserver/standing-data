@@ -6,22 +6,22 @@ Please note that credit files are updated less frequently than the data files.
 
 | Name                           | Contributions |
 | :--                            | --: |
-| `dirkhh`                       | 401,306 |
+| `dirkhh`                       | 401,364 |
 | `PietD`                        | 174,954 |
-| `vand`                         | 87,594 |
-| `科罗娜`                          | 41,752 |
+| `vand`                         | 88,258 |
+| `科罗娜`                          | 42,511 |
 | `Pascal Ensinck`               | 26,317 |
 | `EDDG`                         | 24,175 |
 | `sib64`                        | 21,463 |
 | `Slavi`                        | 21,166 |
-| `Lanorge`                      | 20,706 |
+| `Lanorge`                      | 20,910 |
 | `Phillip Rohmberger`           | 16,559 |
 | `Jon Fear`                     | 13,572 |
 | `bigrossco`                    | 10,853 |
 | `SteveF`                       | 9,822 |
 | `Neboknede`                    | 9,385 |
-| `aircraftenthusiast2000`       | 9,084 |
-| `Markus`                       | 8,922 |
+| `aircraftenthusiast2000`       | 9,121 |
+| `Markus`                       | 8,923 |
 | `huebi77`                      | 7,401 |
 | `Bernie`                       | 7,005 |
 | `McBridden`                    | 6,135 |
@@ -35,7 +35,7 @@ Please note that credit files are updated less frequently than the data files.
 | `Jordy`                        | 3,257 |
 | `Thomas S.`                    | 3,040 |
 | `Bokworks`                     | 2,870 |
-| `Gavin-D`                      | 2,756 |
+| `Gavin-D`                      | 2,847 |
 | `Robert G. Schaffrath`         | 2,688 |
 | `ChristianS`                   | 2,655 |
 | `chipcunk`                     | 2,406 |
@@ -72,7 +72,7 @@ Please note that credit files are updated less frequently than the data files.
 | `kma371`                       | 1,109 |
 | `HaloS`                        | 1,098 |
 | `sergpan2008`                  | 1,098 |
-| `gabo03`                       | 1,009 |
+| `gabo03`                       | 1,020 |
 | `TEMU1086`                     | 998 |
 | `Igor Chekhonin`               | 979 |
 | `Jan Neuvians`                 | 922 |
@@ -98,7 +98,7 @@ Please note that credit files are updated less frequently than the data files.
 | `lenovoparts`                  | 617 |
 | `Soe Min Htet`                 | 609 |
 | `Peter Za, PhD`                | 581 |
-| `kirkmayers`                   | 555 |
+| `kirkmayers`                   | 556 |
 | `topoguido`                    | 553 |
 | `Eburg 912`                    | 549 |
 | `mouflonwrangler1`             | 547 |
@@ -140,7 +140,7 @@ Please note that credit files are updated less frequently than the data files.
 | `alecu`                        | 276 |
 | `Fonok`                        | 275 |
 | `flygfantast`                  | 269 |
-| `flying_sha`                   | 265 |
+| `flying_sha`                   | 268 |
 | `Adriel208`                    | 262 |
 | `ntangle`                      | 258 |
 | `Skibox`                       | 256 |
@@ -418,6 +418,7 @@ Please note that credit files are updated less frequently than the data files.
 | `neslin`                       | 16 |
 | `phoenix14`                    | 16 |
 | `Renétje`                      | 16 |
+| `rpedersen360`                 | 16 |
 | `verygoot`                     | 16 |
 | `Wesaero`                      | 16 |
 | `bg8sr`                        | 15 |
@@ -425,7 +426,6 @@ Please note that credit files are updated less frequently than the data files.
 | `cyzy`                         | 15 |
 | `OST Virtual Aviations`        | 15 |
 | `Rafael Dang`                  | 15 |
-| `rpedersen360`                 | 15 |
 | `Thiago Machado`               | 15 |
 | `arapon2006`                   | 14 |
 | `Bertrand G.`                  | 14 |
